@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>Posthuman Cabaret</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+
+    <div class="header-left">
+      <a href="../index.html" class="back-home">
+        <img src="assets/ui/back-arrow.png" alt="Tillbaka">
+      </a>
+    </div>
+
+    <div class="header-inner">
+      <!-- Banner bär titeln visuellt -->
+      <div class="branding-visual" aria-label="Posthuman Cabaret"></div>
+
+      <p id="tagline" class="tagline"></p>
+    </div>
+
+    <div class="header-right">
+      <div class="lang-switch">
+        <button id="btn-sv" onclick="setLang('sv')">SV</button>
+        <button id="btn-en" onclick="setLang('en')">EN</button>
+      </div>
+    </div>
+
+  </header>
+
+
+  <!-- TOP MENU -->
+  <nav id="topMenu" class="top-menu"></nav>
+
+
+  <!-- MAIN LAYOUT -->
+  <div class="layout">
+
+    <aside id="sideMenu"></aside>
+
+    <main id="content" class="content-area"></main>
+
+  </div>
+
+
+  <!-- SCRIPTS -->
+  <script src="css/content-sv.js"></script>
+  <script src="css/content-en.js"></script>
+  <script src="css/menu.js"></script>
+  <script src="css/app.js"></script>
+
+</body>
+</html>

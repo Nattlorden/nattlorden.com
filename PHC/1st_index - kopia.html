@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Posthuman Cabaret</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-left">
+    <a href="/" class="back-home" title="Tillbaka till startsidan">
+      <img src="assets/ui/back-arrow.png" alt="Tillbaka">
+    </a>
+  </div>
+
+  <div class="header-inner">
+    <div class="branding">
+      <h1>Posthuman Cabaret</h1>
+      <p class="tagline" id="tagline">Synthetic desire. Engineered emotion.</p>
+    </div>
+  </div>
+
+  <div class="header-right">
+    <div class="lang-switch">
+      <button type="button" id="btn-sv" onclick="setLang('sv')">SV</button>
+      <button type="button" id="btn-en" onclick="setLang('en')">EN</button>
+    </div>
+  </div>
+</header>
+
+<nav class="top-menu" id="topMenu"></nav>
+
+<div class="layout">
+  <aside class="side-menu" id="sideMenu"></aside>
+  <main class="content-area" id="content"></main>
+</div>
+
+<script src="js/menu.js"></script>
+<script src="js/content-sv.js"></script>
+<script src="js/content-en.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

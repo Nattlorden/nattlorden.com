@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    font-family: "Georgia", serif;
+    background-color: #0b0b0b;
+    color: #e8e6e3;
+}
+
+/* HEADER */
+header {
+    border-bottom: 1px solid #c8a75a;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #c8a75a;
+    font-size: 32px;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 14px;
+}
+
+/* LAYOUT */
+.container {
+    display: flex;
+}
+
+/* SIDOMENY */
+.sidebar {
+    width: 220px;
+    border-right: 1px solid #222;
+    padding: 20px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    padding: 10px 5px;
+    cursor: pointer;
+    color: #ccc;
+}
+
+.sidebar li:hover {
+    color: #c8a75a;
+}
+
+
+/* HEADER LAYOUT */
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* TEXT */
+.header-text h1 {
+    margin: 0;
+    color: #c8a75a;
+    font-size: 36px;
+}
+
+.header-text p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #aaa;
+}
+
+/* PORTRÄTT */
+.header-portrait img {
+    height: 90px;
+    opacity: 0.85;
+    filter: grayscale(100%) contrast(1.1);
+}
+
+.header-left,
+.header-right {
+  width: 0px; /* justera vid behov */
+  display: flex;
+  align-items: left;
+}
+
+.header-left {
+  justify-content: flex-start;
+}
+
+.back-home img {
+  display: block;
+  height: 30px;
+  width: auto;
+  opacity: 0.85;
+  /* transition: opacity 0.2s ease, transform 0.2s ease;
+  cursor: pointer; */
+  text-decoration: none;
+}
+
+.back-home img:hover {
+  opacity: 1;
+  transform: translateX(-2px);
+  text-decoration: none;
+}
+
+
+/* HUVUDFÄLT */
+main {
+    flex: 1;
+    padding: 40px;
+    position: relative;
+}
+
+/* PORTRÄTT */
+.portrait {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.15;
+}
+
+.portrait img {
+    width: 220px;
+}
+
+/* TEXT */
+#text-content {
+    max-width: 700px;
+    margin-left: 200px;
+}
+
+h2 {
+    color: #c8a75a;
+}

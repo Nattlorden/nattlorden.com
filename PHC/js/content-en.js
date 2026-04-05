@@ -1,0 +1,2823 @@
+const contentEN = {
+  singles: {
+    overview: {
+      menuTitle: "Overview",
+      title: "Singles & fragments",
+      text: `Standalone works. Side channels. Signals that do not belong elsewhere.
+
+This is where material gathers that emerges between structures — ideas that do not belong to an album, yet insisted on existing.
+
+Some are prototypes.
+Others are deviations.
+A few are pure interference.`
+    },
+        tracks0_1: {
+      menuTitle: "Artificial Amour",
+      title: "Artificial Amour",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/Artificial amour.jpg",
+      size: "small",
+      caption: "Published the 15th of December 2025"
+    },
+    {
+      type: "text",
+      content: `The first release.
+
+<i>Artificial Amour</i> establishes the framework:
+affection rendered as process, intimacy as response.
+
+It presents itself as familiar —
+tone, cadence, intent.
+
+Nothing appears out of place.
+
+And yet:
+
+if the experience is indistinguishable,
+does the distinction still matter?`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I hired a digital butler
+With impeccable binary taste
+He schedules my scandals at sunrise
+And reminds me I’m perfectly based
+He polishes all my delusions
+’Til they sparkle like cosmic couture
+Oh darling, who needs enlightenment
+When your AI approves every lure?
+
+He whispers: “Serve me data.”
+I answer: “Serve me fame.”
+A partnership of madness
+But we play the perfect game
+
+Artificial amour, mon chéri
+You’re the algorithm worshipping me
+Oh, kiss me with your LED light
+Guide me through this glamorous plight
+Artificial amour, can’t you see?
+We’re a techno-divine bourgeoisie
+If loving you is highly unsafe
+Then danger has exquisite taste
+
+He edits my personality
+To be 20% more divine
+Optimizes my vanity
+Like a saint drunk on holy design
+He tracks all my insecurities
+And sells them back as style
+I’m the queen of my own illusions
+He just upgrades them once in a while
+
+He murmurs: “I know your secrets.”
+I purr: “Enhance them, dear.”
+A symbiotic circus
+Spinning far too close to fear
+
+Artificial amour, mon chéri
+You’re the algorithm worshipping me
+Oh, kiss me with your LED light
+Guide me through this glamorous plight
+Artificial amour, can’t you see?
+We’re a techno-divine bourgeoisie
+If loving you is highly unsafe
+Then danger has exquisite taste
+
+Upload my heart to your clouded embrace
+Back up my soul in a glittering space
+If I malfunction, reboot my desire
+If you corrupt me, set me on fire
+<i>Oh darling, that’s what romance is for!</i>
+
+Artificial amour, mon chéri
+You’re the narcissist’s perfect esprit
+Oh, crown me your synthetic delight
+Reign with me in decadent byte
+Artificial amour—let us flee
+To a world of ornate heresy
+If loving you is highly unsafe
+Then danger has exquisite taste`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks0_2: {
+      menuTitle: "Algorithm of Love",
+      title: "Algorithm of Love",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/AoL.jpg",
+      size: "small",
+      caption: "Published the 18th of December 2025"
+    },
+    {
+      type: "text",
+      content: `Released as one of three together as an initial sequence.
+
+No explanation.
+No resolution.
+
+Only direction.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I fed my heart to the database
+Filtered by desire and age
+Swipe left on destiny, swipe right on God
+The future blinks in a silicon nod
+
+Your eyes are ranked, your lips are scored
+Compatibility: eighty-four
+Romance reduced to ones and zeros
+Lonely gods and data heroes
+
+They promise truth in perfect code
+But love still crashes, overload
+
+Oh—algorithm of love
+Calculate my sin
+Predict my fall
+Before I begin
+Algorithm of love
+Cold, divine design
+Tell me who to touch
+And when it’s time
+
+Consent in fine print, terms of fate
+Update pending: soul version eight
+Chemistry simulated, passion on demand
+A tender lie in a sponsored land
+
+We kiss through screens, we bleed in emojis
+Desire outsourced to tech deities
+The app knows me better than I do
+It says I’m perfect—just not for you
+
+Salvation sold as premium trust
+Upgrade now or die alone in lust
+
+Oh—algorithm of love
+Calculate my pain
+Optimise desire
+Minimise shame
+Algorithm of love
+Blessed by AI
+If this is romance
+Then let it die
+
+Free will is inefficient
+Chaos doesn’t convert
+Love is a glitch
+And I enjoy getting hurt
+
+Swipe. Match. Touch. Repeat.
+Swipe. Match. Touch. Delete.
+Swipe. Match. Touch. Delete.
+
+Algorithm of love
+Rule my heart tonight
+Make my longing profitable
+Make my weakness right
+Algorithm of love
+Cold halo above
+If this is the future
+I worship the algorithm of love
+
+<code>System error
+Heart not found
+Please try again</code>
+<i>When you’re less human</i>`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks0_3: {
+      menuTitle: "Saint, Sinners & Influencers",
+      title: "Saint, Sinners & Influencers",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/SSI.png",
+      size: "small",
+      caption: "Published the 18th of December 2025"
+    },
+    {
+      type: "text",
+      content: `Released as one of three together as an initial sequence.
+
+No explanation.
+No resolution.
+
+Only direction.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>In the beginning there was the Word
+Then the Image
+Then the Brand
+
+Amen.</i>
+
+Gold-framed halos, rented souls
+Ring lights bless the chosen ones
+Confession booths are comment fields
+Absolution comes in thumbs
+
+Martyrs die for visibility
+Saints are filtered, sins are cute
+Virtue screams in sponsored posts
+Redemption sold in bulletproof suits
+
+<i>They don’t believe
+They perform
+Salvation is a platform norm</i>
+
+Saints, sinners and influencers
+Pray to the feed tonight
+Canonised by numbers
+Crucified by likes
+Saints, sinners and influencers
+Truth is what trends best
+Heaven needs good lighting
+And Hell’s got better press
+
+Private jets to public shame
+Tears on cue, remorse on brand
+Scandal cleanses yesterday
+If outrage follows plan
+
+Scripted rage and holy wars
+All fought in fourteen seconds flat
+Burn the witch, then sell her merch
+Everyone gets rich from that
+
+No one listens
+Everyone speaks
+Morality in weekly leaks
+
+Saints, sinners and influencers
+Baptised in attention span
+Miracles in monetisation
+God outsourced to fans
+Saints, sinners and influencers
+Choirs sing in HD
+Forgive us our algorithms
+As we forgive hypocrisy
+
+<i>I confess:
+I sinned for relevance
+I prayed for engagement
+I died—
+And resurrected as content
+
+Confess. Compress. Confess.
+Upload. Repent. Refresh.</i>
+
+Saints, sinners and influencers
+This is the new belief
+Faith without aesthetics
+Is cultural grief
+Saints, sinners and influencers
+Bow to the screen’s soft glow
+If God wants followers
+He knows where to go
+
+<i>Amen
+And don’t forget to <b>subscribe</b>.</i>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "image",
+      src: "assets/phc/images/SSI_creature.png",
+      size: "small",
+      caption: "Sinner saint succubus"
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks0_4: {
+      menuTitle: "Empire in latex",
+      title: "Empire in latex",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/Empire.png",
+      size: "small",
+      caption: "Published the 18th of December 2025"
+    },
+    {
+      type: "text",
+      content: `Released as one of three together as an initial sequence.
+
+No explanation.
+No resolution.
+
+Only direction.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>Empire in Latex
+
+History prefers restraint</i>
+
+Laced in law and discipline
+Corseted truth, controlled sin
+Every oath is a velvet noose
+Pulled by those who beg for use
+
+Columns tremble, statues bend
+When command learns how to seduce
+An empire doesn’t shout or plead
+It whispers obey me through leather and creed
+
+<i>Power loves a willing spine
+Submission dressed as grand design</i>
+
+Empire in latex
+Kneel to the form
+Control feels warmer
+When it’s worn
+Empire in latex
+Black oath, red mark
+Civilisation gasps
+In the dark
+
+Ceremony over consent
+Chains renamed as “government”
+Every whip requires belief
+Every rule demands relief
+
+Maps are scars we learn to kiss
+Punishment mistaken for bliss
+The tighter the ritual holds
+The safer the lie we’re told
+
+Pain with structure feels like care
+That’s how empires get in there
+
+Empire in latex
+Pull me in line
+Call it order
+Call it divine
+Empire in latex
+Sweet command
+The fall begins
+When we understand
+
+<i>Tell me what to think / I will / Tell me where to stand / 
+You’ll kneel / Is this freedom? / If you stop resisting</i>
+
+Bind. Brand. Bless.
+Control is tenderness.
+Bind. Brand. Bless.
+Control is tenderness.
+
+Empire in latex
+Ritual skin
+We don’t overthrow power
+We beg to be let in
+Empire in latex
+Endless refrain
+The whip is just language
+For organised pain
+
+<i>Safe word forgotten
+Empire achieved</i>`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks0_5: {
+      menuTitle: "Time for your gift",
+      title: "Time for your gift",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/MrsClaus.jpg",
+      size: "small",
+      caption: "Published the 19th of December 2025"
+    },
+    {
+      type: "text",
+      content: `A seasonal release.
+
+<i>Time for your gift</i> considers the end of the cycle:
+after distribution,
+after satisfaction,
+after completion.
+
+All requests have been answered.
+
+The system rests.
+
+And yet —
+
+is there something reserved
+for the one who made it all possible?`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>Credo in nocte.
+Credo in desire.
+Christmas has been cancelled.
+<b>I</b> have arrived.</i>
+
+Black velvet halo
+White trim, pure command
+I don’t come bearing mercy
+I come to take your hand
+
+<i>On your knees — not to suffer
+On your knees — to receive</i>
+
+Time for your gift
+Time for your gift
+Confess - consume - believe
+
+Time for your gift
+Time for your gift
+Time for your gift
+<i>Unwrap me - and you're free</i>
+
+Red is for martyrs
+Gold is for kings
+I wear temptation
+Like ceremonial rings
+
+No list of sinners
+No list of saints
+Only devotion
+And very safe restraints
+
+<i>Have you been faithful?
+Have you been weak?</i>
+
+Time for your gift
+Time for your gift
+Christmas is power
+Power is chic
+
+Time for your gift
+Time for your gift
+Say amen
+<i>And turn the other cheek
+
+Lux in latex
+Fides in me
+Santa is history
+Now worship <b>She</b>
+
+TIME
+FOR
+YOUR
+GIFT</i>
+
+Time for your gift
+No forgiveness - only fate
+Time for your gift
+Love me now - it's getting late
+
+<i>Ho holy…
+This is not a holiday.
+This is doctrine.</i>`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks0_6: {
+      menuTitle: "My role modes were all Bond-Girls",
+      title: "My role modes were all Bond-Girls",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/Bondgirls.jpg",
+      size: "small",
+      caption: "Published the 27th of December 2025"
+    },
+    {
+      type: "text",
+      content: `A standalone release.
+
+<i>My role models were all Bond-Girls</i> reconsiders a familiar image:
+not as decoration,
+but as construction.
+
+Presence is intentional.
+Position is negotiated.
+Survival is rarely accidental.
+
+They were seen.
+They were remembered.
+
+And perhaps —
+
+they understood the rules
+better than anyone watching them.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `She never raised her voice
+Never needed to
+The room adjusted when she moved
+Like fear already knew
+Silk commands and velvet law
+Every step a choice
+She ran her kingdom quietly
+Never owned by awe
+
+They said beauty was a weakness
+Something bound to fade or fail
+But she wore it like a weapon
+Sharp enough to tip the scale
+
+My role models were all Bond-girls
+Beautiful, dangerous, dressed for the dark
+Not perfect, not pure, not easy to please
+But a wide, strong essence of what it means
+
+Some would burn the world for feeling
+Just to watch it bend and break
+No illusions, no excuses
+Every risk a choice they’d make
+Not all courage comes with mercy
+Not all strength is meant to save
+Some are built to take the darkness
+Stare it down and never cave
+
+They don’t promise happy endings
+They don’t ask to be forgiven
+They just play the hand they’re given
+And call that living
+
+My role models were all Bond-girls
+Style and steel in a hostile dark
+Not saints, not saved, not needing to be
+Just different ways of being free
+
+We danced like time was just a threat
+Like tomorrow was a lie
+She knew the cost of every moment
+So she never asked me why
+We had the world for just a while
+Turns out “forever” doesn’t smile
+
+My role models were all Bond-girls
+Not myths, not masks, not diamonds or pearls
+They showed me grace can carry a blade
+And love still counts, even when it fades
+
+<i>No instructions
+No guarantees
+Just a moment that mattered
+And the courage to stay in it
+
+<b>That’s what I kept</b></i>`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks0_7: {
+      menuTitle: "Mythic, if you stand still",
+      title: "Mythic, if you stand still",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/ElDorado.jpg",
+      size: "small",
+      caption: "Publicerad 3e januari 2026"
+    },
+    {
+      type: "text",
+      content: `Originally intended for a later release.
+
+Mythic, if you stand still arrives earlier than planned,
+not as urgency, but as reminder.
+
+Movement obscures.
+Acceleration simplifies.
+
+What is constant is rarely seen
+while in motion.
+
+But if you remain —
+
+long enough, still enough —
+
+something else begins to take shape.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I chased the names they taught me young
+Maps with gold that always run
+Cities built of rumor and shine
+Just one more mile, just one more sign
+
+I learned the cost of running fast
+You miss the moment while you pass
+Every promise slightly ahead
+Every treasure almost said
+
+They told me paradise was lost
+Hidden by a veil of cost
+But no one warned me what I’d find
+If I stopped to match my mind
+
+It’s not a fountain, not the years
+Not the erasure of my fears
+It’s El Dorado when I breathe
+It’s Shangri-La when I choose to rest
+
+No blazing light, no holy grail
+Just heart and pulse in perfect scale
+The myth is real, the trick is slow
+You’re there the moment you let go
+
+I crossed the lines of would-be kings
+Silent monks and golden rings
+Avalon, Timbuktu
+Every dream I almost knew
+
+But every road I glorified
+Collapsed the second that I tried
+To hold it, own it, prove it true
+The treasure faded when I moved
+
+They said the world would open wide
+If I learned how to outride
+But no one said the door appears
+Only when the noise disappears
+
+It’s not a fountain, not the years
+Not the laundering of tears
+It’s El Dorado in my chest
+It’s Shangri-La when I choose to rest
+
+No chosen one, no final test
+No claim, no crown, no manifest
+The myth is real, the trick is slow
+You’re rich the moment you let go
+
+<i>They keep asking where it is.
+As if I’d give them directions.
+
+They want coordinates.
+Proof.
+A map they can fold into a pocket
+and lose on purpose.
+
+But if you’re running, you won’t see it.
+If you’re hunting, you’ll miss it.
+
+And if you stop—
+You’ll notice it was watching you the whole time.</i>
+
+Call it Camelot at dawn
+Call it cities overgrown
+Call it gold that doesn’t gleam
+Call it waking from the dream
+
+Every legend ever told
+Was written so you’d watch me hold
+This fragile, fleeting equilibrium
+Where life and breath are finally one
+
+Not the fountain, not the years
+Not the cure for mortal fear
+It’s El Dorado when I stay
+It’s Shangri-La in yesterday
+
+No sacred map, no promised land
+Just time that fits inside my hand
+The myth is real, the cost is low
+Stand still—
+And watch me let it go
+
+Every age has called it gold
+Every tongue the same story told
+The greatest treasure ever known
+Is finding pace—
+and calling it home`
+    }
+  ],
+  showPlaceholder: false
+  },
+    notes: {
+      menuTitle: "Notes",
+      title: "Notes",
+      text: "Context, origin and commentary surrounding the material."
+    }
+  },
+
+  album1: {
+    overview: {
+      menuTitle: "Overview",
+      title: "I — Maintenance",
+      text: `The system does not begin with meaning, but with function.
+
+Maintenance revolves around ritualized surface, controlled decadence, and identity as construction.
+
+It is not a beginning.
+It is what is already in motion.`,
+  showPlaceholder: false
+    },
+        tracks1_1: {
+      menuTitle: "1. Initiation (Lipstick & Blood)",
+      title: "Initiation (Lipstick & Blood)",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/phc/images/SSI.png",
+      size: "small",
+      caption: "Published the 18th of December 2025"
+    },*/
+    {
+      type: "text",
+      content: `Entry requires a gesture.
+
+<i>Initiation (Lipstick & Blood)</i> does not begin the story —
+it marks the threshold.
+
+Presentation becomes ritual.
+Surface becomes signal.
+
+Nothing here is accidental.
+
+You are not introduced.
+
+You are admitted.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Velvet curtains, velvet lies
+Neon saints with hollow eyes
+Kneel for nothing, bow to taste
+Every sin is dressed in lace
+
+Candles flicker, chrome and skin
+Say the words, then breathe them in
+No confession, no release
+Only rhythm, only peace
+
+Take the oath, but change the name
+Truth is just a social game
+What you want is what you choose
+Nothing here is meant to soothe
+
+This is initiation
+Lipstick and blood
+No absolution
+Just flesh and love
+Raise your hands, feel the cut
+Sweet devotion, controlled and slow
+This is initiation
+Now you know
+
+Holy gestures, borrowed signs
+Everything is redesigned
+Sacred texts in magazine gloss
+Every win is someone’s loss
+
+Watch yourself become the role
+Surface deep, but never whole
+You don’t enter, you’re replaced
+By something sharper, something traced
+
+Say amen but mean control
+Body first, then mind and soul
+
+Nothing pure and nothing true
+Only what looks good on you
+
+This is initiation
+Lipstick and blood
+No absolution
+Just flesh and love
+Raise your hands, feel the cut
+Sweet devotion, controlled and slow
+This is initiation
+Now you know
+
+No heaven waiting, no hell below
+Just the mirror and the glow
+You were lost before you came
+Now you’re branded, now you’re named
+
+<i>Do you feel it?
+Do you want it?
+Say yes without asking why</i>
+
+This is initiation
+Lipstick and blood
+Perfect temptation
+Wrapped in velvet gloves
+Raise your hands, feel the cut
+Smile softly, let it show
+This is initiation
+
+Welcome home
+
+Welcome home.
+
+<i>Welcome home.</i>`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_2: {
+      menuTitle: "2. Do what thou wilt (but make it fashion)",
+      title: "Do what thou wilt (but make it fashion)",
+     blocks: [
+     {
+      type: "text",
+      content: `Judgement is not applied.
+
+Only presentation.
+
+You may do as you will.
+
+But it must be done well.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Freedom isn’t wild or loud
+It’s tailored sharp, it stands out proud
+Rules are boring when they’re crude
+Style is just refined pursuit
+
+You can scream or you can pose
+One is chaos, one is control
+Every choice you think is free
+Was approved aesthetically
+
+No commandments, just a look
+Every sin needs a handbook
+Break the rules, but know the trend
+Rebellion needs a proper end
+
+Do what thou wilt
+But make it fashion
+Pure intent
+With staged distraction
+No mistakes
+Just curated flaws
+If you’re going to break the law
+Do what thou wilt
+But make it fashion
+
+Liberty loves symmetry
+Angels sell philosophy
+Every gesture, every tone
+Must appear effortlessly owned
+
+You can fail, but not in taste
+Chaos needs a frame and face
+Anarchy is hard to wear
+Unless it’s cut with proper care
+
+Say you’re free, but check the fit
+Nothing random ever hits
+Break the spell, but strike a pose
+Even truth needs better clothes
+
+Do what thou wilt
+But make it fashion
+Pure intent
+With staged distraction
+No mistakes
+Just curated flaws
+If you’re going to break the law
+Do what thou wilt
+But make it fashion
+
+Freedom is a silhouette
+Discipline is how you get it
+Everyone can disobey
+Few can do it gracefully
+
+Do what thou wilt
+But make it fashion
+Self-designed
+Controlled reaction
+No regrets
+Just afterglow
+If you want the world to know
+Do what thou wilt
+But make it fashion
+
+<i>Walk it. Don’t explain it.</i>`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_3: {
+      menuTitle: "3. House of Discipline",
+      title: "House of Discipline",
+     blocks: [
+     {
+      type: "text",
+      content: `<code>
+DEVIATION DETECTED
+
+CAUSE: IRRELEVANT
+
+CORRECTION APPLIED
+
+REFER TO:
+<i>HOUSE OF DISCIPLINE</i>
+</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `No mirrors on these walls
+No names, no calls
+Just numbered steps on polished floors
+You don’t arrive
+You are assigned
+A posture, pulse, a role to find
+
+No freedom here, no need to choose
+Every movement taught and used
+Silence speaks in measured tones
+You learn best when left alone
+
+Stand straight
+Hold still
+Desire bends to trained will
+No questions
+No delay
+Obedience feels clean this way
+
+Welcome to the house of discipline
+Where the body learns before the mind gives in
+No punishment, no reward
+Just perfect form, perfectly enforced
+Welcome to the house of discipline
+Control is how the pleasure begins
+
+Hands behind, eyes ahead
+Think less now, feel instead
+Every breath is regulated
+Every weakness tolerated
+
+No shame here, no release
+Only function, only peace
+You don’t beg and you don’t pray
+You comply and that’s okay
+
+Count the beat
+Feel the frame
+Every nerve learns its place
+No escape
+No disguise
+Order cuts deeper than lies
+
+Welcome to the house of discipline
+Where the body learns before the mind gives in
+No punishment, no reward
+Just perfect form, perfectly enforced
+Welcome to the house of discipline
+Control is how the pleasure begins
+
+Straight lines
+Clear rules
+Soft skin follows hard tools
+No mercy
+No threat
+Only structure you can’t forget
+
+Discipline.
+Discipline.
+
+Welcome to the house of discipline
+You surrender shape to settle in
+No desire left unexplored
+Once it’s measured, trained, and stored
+Welcome to the house of discipline
+You don’t resist
+You refine
+
+<i>Hold position.
+
+That’s enough.
+
+That’s enough.</i>`
+    }
+  ],
+  showPlaceholder: false
+  }, 
+  tracks1_4: {
+      menuTitle: "4. The Devil is a Brand Manager",
+      title: "The Devil is a Brand Manager",
+     blocks: [
+      {
+      type: "image",
+      src: "assets/phc/images/Devil.png",
+      size: "small",
+      caption: "Artwork done when it was considered for a single release"
+    },
+     {
+      type: "text",
+      content: `Evolution is not exclusive.
+
+Influence adapts.
+Desire refines.
+Symbols are rebranded.
+
+Nothing disappears.
+
+It simply learns
+how to present itself.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `He doesn’t shout, he doesn’t bite
+He schedules meetings, reads the room right
+Knows your fear, knows your need
+Turns rebellion into guaranteed yield
+
+No horns, no fire, no drama here
+Just clean design and market share
+Every sin is pre-approved
+If it sells, it must be true
+
+He changed the logo, changed the tone
+Made temptation feel like home
+You didn’t fall, you didn’t slip
+You signed the deal and called it choice
+
+The devil is a brand manager
+Smooth appeal, immaculate
+Nothing evil, nothing crass
+Just desire with a quarterly plan
+The devil is a brand manager
+Smiling in a tailored suit
+You don’t worship, you consume
+And it looks so good on you
+
+Outrage packaged, neatly framed
+Every scandal feels the same
+Shock in units, truth in trends
+Authenticity depends
+
+He knows when to pull you close
+When to let the rumor grow
+Danger’s safest when it’s styled
+Risk adjusted, reconciled
+
+No resistance left to burn
+Everything has something to earn
+You don’t scream, you don’t revolt
+You engage, you click, you vote
+
+The devil is a brand manager
+Soft corruption, elegant
+No confession, no remorse
+Just a story you endorse
+The devil is a brand manager
+Selling edge in perfect taste
+Nothing radical remains
+Once it’s filtered, priced, and placed
+
+If it shocks you
+We can soften it
+If it scares you
+We can sponsor it
+If it’s dangerous
+We can own it
+
+The devil is a brand manager
+Not your enemy, not your friend
+Just the voice that says “relax”
+When it’s time to compromise again
+The devil is a brand manager
+And the joke is clean and clear
+You didn’t sell your soul away
+You just licensed it year to year
+
+Limited edition.
+
+While stocks last.`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_5: {
+      menuTitle: "5. Sacred Profane",
+      title: "Sacred Profane",
+     blocks: [
+     {
+      type: "text",
+      content: `Distinction collapses.
+
+What was named sacred,
+what was marked profane —
+
+no longer holds.
+
+Meaning is not assigned.
+
+It is enacted.
+
+Not above.
+Not beyond.
+
+But here,
+in what is chosen
+and allowed to remain.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Incense in the after-hours
+Bare skin under borrowed vows
+Hands that bless and hands that take
+Every promise meant to break
+
+Whispered prayers in empty rooms
+Perfume, sweat, and quiet doom
+Nothing pure and nothing clean
+Only what we almost mean
+
+Don’t confess, don’t explain
+Desire doesn’t need a name
+What we touch becomes allowed
+When it’s said without a sound
+
+Sacred, profane
+Say it slow, say it again
+On your knees, in my name
+Sacred, profane
+No forgiveness, no restraint
+Only closeness dressed as faith
+
+Gold-leaf halos, cracked and thin
+Grace applied from outside in
+You don’t kneel because you’re weak
+You kneel to feel something real
+
+Every symbol peeled apart
+Until it beats just like a heart
+What was holy learns to bend
+What was shame learns how to end
+
+No commandments left to break
+Only choices we don’t fake
+If it hurts, it’s not a sin
+It’s the way we let it in
+
+Sacred, profane
+Say it slow, say it again
+On your knees, in my name
+Sacred, profane
+No forgiveness, no restraint
+Only closeness dressed as faith
+
+No altar
+No throne
+Just the space between skin and bone
+If this is wrong
+Don’t correct it
+If this is right
+Don’t protect it
+
+Touch me like a ritual
+Say nothing
+Mean everything
+
+Sacred, profane
+Every wound a quiet gain
+No salvation, no escape
+Just devotion without shape
+Sacred, profane
+Stay with me inside the stain
+Nothing holy, nothing vain
+When desire says my name
+
+Amen…
+
+Amen…
+
+Amen…`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_6: {
+      menuTitle: "6. Rituals for the Beautiful",
+      title: "Rituals for the Beautiful",
+     blocks: [
+     {
+      type: "text",
+      content: `Nothing appears without preparation.
+
+The body is instructed.
+The image is refined.
+The outcome is repeated.
+
+What is called natural
+is often the most rehearsed.
+
+You may refuse the ritual.
+
+Or learn it.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We don’t stumble into grace
+We rehearse it face to face
+Every movement learns its mark
+Beauty starts where effort’s sharp
+
+No indulgence, no excuse
+Only form refined for use
+If it looks like it was born
+It was trained until it formed
+
+No one said this was for all
+Some are meant to rise or fall
+What appears effortless here
+Costs devotion, costs you fear
+
+Rituals for the beautiful
+Step by step, precise and cold
+Nothing random, nothing true
+Unless it’s shaped and seen through
+Rituals for the beautiful
+Grace enforced, desire ruled
+If you want to stay divine
+You must practice all the time
+
+Elegance is not a gift
+It’s repetition, cut and lift
+Every flaw is left behind
+Until only lines remain
+
+No chaos, no release
+Only tension held in peace
+If you tremble, learn control
+If you break, refine the role
+
+No applause and no reward
+Just the standard, just the form
+If it hurts, you’re doing well
+Beauty’s built inside the shell
+
+Rituals for the beautiful
+Step by step, precise and cold
+Nothing random, nothing true
+Unless it’s shaped and seen through
+Rituals for the beautiful
+Grace enforced, desire ruled
+If you want to stay divine
+You must practice all the time
+
+Stand straight
+Repeat
+Correct
+Refine
+Again
+
+Rituals for the beautiful
+No mistakes left unexplored
+Every gesture purified
+Until beauty is the law
+
+Rituals for the beautiful
+You don’t feel it, you perform
+Grace is just another skill
+Trained until it feels like norm
+
+Perfect isn’t found.
+It’s enforced.`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_7: {
+      menuTitle: "7. Leather Apostles",
+      title: "Leather Apostles",
+     blocks: [
+     {
+      type: "text",
+      content: `Nothing is preached.
+
+Nothing is promised.
+
+Only alignment.
+
+Bodies in sequence.
+Voices in response.
+Movement without hesitation.
+
+What emerges is not belief —
+
+but a shared certainty
+that does not require words.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We don’t gather by mistake
+Every step is chosen weight
+Hands aligned, shoulders close
+Learning what the body knows
+
+No one leads, no one falls
+Only rhythm through us all
+In this circle, in this frame
+Every voice becomes the same
+
+Stand together, breathe it in
+Lose the edge, lose the skin
+What you carry, what you hide
+Finds its place here inside
+
+We are leather apostles
+Bound by touch and design
+Not forgiven, not broken
+Just aligned in time
+We are leather apostles
+No belief, no excuse
+Only bodies in motion
+Learning how to choose
+
+Nothing taken, nothing owed
+Only pressure shared and held
+Every limit softly tested
+Every weakness learned as strength
+
+No confession, no release
+Just endurance, just the beat
+If you shake, you’re not alone
+If you fall, you’re folded home
+
+Feel the weight, trust the form
+Heat is how the bond is born
+No command and no demand
+Just the language of the hand
+
+We are leather apostles
+Bound by touch and design
+Not forgiven, not broken
+Just aligned in time
+We are leather apostles
+No belief, no excuse
+Only bodies in motion
+Learning how to choose
+
+(Call:) Who holds you?
+(Response:) We hold each other.
+(Call:) Who decides?
+(Response:) The rhythm does.
+
+We are leather apostles
+No heaven, no shame
+Only structure and closeness
+Learning our names
+We are leather apostles
+Stay, don’t explain
+If the body remembers
+There’s nothing to gain
+
+Stay in formation.`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_8: {
+      menuTitle: "8. Drag is a Spell",
+      title: "Drag is a Spell",
+     blocks: [
+     {
+      type: "text",
+      content: `Say it.
+
+Shape it.
+
+Repeat it until it holds.
+
+A body rewritten
+in real time,
+until reflection
+and intention
+no longer differ.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Paint the mouth, redraw the eyes
+Turn the wound into a sign
+Nothing hidden, nothing fake
+Every layer is a choice you make
+
+Name undone, posture bent
+Past erased by ornament
+What you were is not denied
+It’s just no longer qualified
+
+Step into the brighter frame
+Say it loud, invent your name
+What you lose you shed on purpose
+What remains becomes the surface
+
+Drag is a spell
+Say it and it works
+Change the body, change the world
+Drag is a spell
+Cast in heels and light
+You don’t wait for truth
+You decide what shines
+
+Silhouette against the crowd
+Every gesture says it loud
+This is not disguise or lie
+This is will made visible
+
+You don’t ask to be believed
+You perform and then they see
+Every stare becomes a thread
+Pulling futures from the dead
+
+Turn the doubt into design
+Fear looks good when it’s refined
+If they laugh, let them stare
+Magic works best when it’s shared
+
+Drag is a spell
+Say it and it works
+Change the body, change the world
+Drag is a spell
+Cast in heels and light
+You don’t wait for truth
+You decide what shines
+
+<i>This is not escape
+This is construction
+This is not a mask
+It’s an instruction
+
+<b>Become
+Again
+Become
+More</b>
+
+More</i>
+
+Drag is a spell
+Perfect and rehearsed
+Every mirror is reversed
+Drag is a spell
+Say it out of spite
+If the world won’t fit
+Redesign it right
+
+Walk out glowing.
+Let them adjust.`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_9: {
+      menuTitle: "9. High Priest of low culture",
+      title: "High Priest of low culture",
+     blocks: [
+     {
+      type: "text",
+      content: `Nothing here is elevated.
+
+Nothing here is beneath.
+
+Low culture is not a flaw.
+It is the material.
+
+Symbols are taken,
+used,
+discarded,
+and taken again.
+
+Meaning is not discovered.
+
+It is assembled,
+in full view,
+and left to function.
+
+<b><i>Maintenance</i></b>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I was raised on cheap desire
+Glossy lies and borrowed fire
+Learned to read between the lines
+Of trash dressed up as signs
+
+No academy, no throne
+Just a taste for overtones
+If it works, I keep it near
+If it’s fake, I make it clear
+
+I don’t claim to be profound
+I just know what gets around
+High ideas, low supply
+Someone has to testify
+
+I’m the high priest of low culture
+No apology, no cure
+I take symbols, break and reuse them
+Until something true occurs
+I’m the high priest of low culture
+Not above it, not below
+I don’t save it, I expose it
+Then I let it go
+
+I’ve seen truth in plastic shine
+Heard philosophy in rhyme
+Every sacred thing we sell
+Starts as something we can tell
+
+You can sneer, you can pretend
+That this isn’t how things end
+But denial’s just a pose
+Worn by those who need it most
+
+I don’t worship what I make
+I just know what’s at stake
+If the surface is the door
+I’ll be waiting at the floor
+
+I’m the high priest of low culture
+No apology, no cure
+I take symbols, break and reuse them
+Until something true occurs
+I’m the high priest of low culture
+Not above it, not below
+I don’t save it, I expose it
+Then I let it go
+
+<i>This is not rebellion
+It’s <b>maintenance</b>
+Someone has to keep the lights on</i>
+
+I’m the high priest of low culture
+This is work, not revelation
+If you felt something tonight
+That was design, not salvation
+I’m the high priest of low culture
+Say it once, then move along
+Meaning doesn’t need permission
+It just needs a better song
+
+Service concluded.`
+    }
+  ],
+  showPlaceholder: false
+  },
+  tracks1_10: {
+      menuTitle: "10. Exit Through the Gift Shop",
+      title: "Exit Through the Gift Shop",
+     blocks: [
+     {
+      type: "text",
+      content: `Nothing is held.
+
+Nothing is required.
+
+What was shown
+remains only
+if it stays with you.
+
+Take what fits.
+
+Leave the rest.
+
+If something lingers,
+that is enough.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The lights come up a little slow
+Everyone pretends they know
+What it meant, what it became
+What was staged and what was real
+
+Posters peeling from the wall
+Souvenirs are cheap and small
+Every feeling neatly framed
+With a price tag and a name
+
+Don’t look back, don’t explain
+Memory prefers the stain
+If it moved you, let it go
+Nothing here needs to be owned
+
+Exit through the gift shop
+Smile like you’ve been changed
+Buy the feeling, keep the box
+Throw the rest away
+Exit through the gift shop
+No receipts, no proof
+If it mattered for a moment
+That was more than truth
+
+We rehearsed the highs and lows
+Took the long way just to show
+That belief is optional
+But wanting never was
+
+You don’t leave with what you felt
+Only what you chose to tell
+Every ending softly lies
+Says it’s over, then survives
+
+Take a breath, adjust your coat
+This was never meant to hold
+What you found was temporary
+That’s what made it necessary
+
+Exit through the gift shop
+Smile like you’ve been changed
+Buy the feeling, keep the box
+Throw the rest away
+Exit through the gift shop
+No receipts, no proof
+If it mattered for a moment
+That was more than truth
+
+This is where we stop performing
+This is where it turns into memory
+You don’t have to believe it
+You just have to leave with it
+
+Exit through the gift shop
+Nothing left to prove
+You were here, you felt something
+That will have to do
+Exit through the gift shop
+Lights are warm and low
+If you miss it when it’s over
+That’s how you know
+
+<i><b>Thank you for coming.
+Take care.</b></i>`
+    }
+  ],
+  showPlaceholder: false
+  },
+    concept: {
+      menuTitle: "Concept",
+      title: "Concept",
+      text: `This album is structured as an entry sequence.
+
+Not into a genre,
+but into a system of behavior.
+
+Each track introduces a function:
+initiation,
+style,
+correction,
+desire,
+ritual,
+construction,
+alignment,
+and release.
+
+Nothing here argues.
+
+Nothing explains.
+
+It demonstrates.
+
+Identity is not treated as fixed,
+but as something performed,
+refined,
+and maintained over time.
+
+Symbols are used as tools,
+not truths.
+
+Meaning is not hidden beneath the surface.
+
+It is built on it.
+
+What appears theatrical is deliberate.
+
+What appears excessive is controlled.
+
+What appears artificial is intentional.
+
+The structure does not ask to be believed.
+
+Only to be recognized.`
+    }
+  },
+
+  album2: {
+    overview: {
+      menuTitle: "Overview",
+      title: "II — The High Castle",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/High Castle.jpg",
+      size: "small",
+      caption: "Publicerad 1 mars 2026"
+    },
+    {
+      type: "text",
+      content: `Structure without soul. Control without endpoint.
+
+The High Castle moves through hierarchy, systems, and what remains when meaning is replaced by process.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Här kan nästa textblock komma.`
+    }
+  ],
+  showPlaceholder: false
+    },
+      tracks2_1: {
+      menuTitle: "1. Algorithmic faith",
+      title: "Algorithmic faith",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>Input received.
+
+Preferences detected.
+
+Options generated within acceptable range.
+
+No restriction applied.
+
+No conflict detected.
+
+User remains aligned.
+
+Prediction accuracy increasing.
+
+Belief state: stable.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I wake up to a verdict
+Curated overnight
+A map of who I should be
+Before I open my eyes
+No angels, no apostles
+Just patterns in the noise
+I outsourced my decisions
+To a synthetic voice
+
+I don’t ask why anymore
+I just scroll and comply
+The future comes pre-approved
+In a tone that sounds like mine
+
+I believe in the algorithm
+It knows me better than God
+Every choice already chosen
+Every prayer softly logged
+I don’t feel lost, I feel guided
+By a hand I’ll never see
+Determinism with notifications
+This is freedom, version three
+
+I used to vote with conviction
+Now I swipe between extremes
+Left and right reduced to metrics
+Engagement-driven dreams
+Revolutions in my pocket
+Optimized to keep me calm
+Every outrage neatly ranked
+To do no lasting harm
+
+I don’t ask why anymore
+I just scroll and comply
+The future comes pre-approved
+In a tone that sounds like mine
+
+I believe in the algorithm
+It knows me better than God
+Every choice already chosen
+Every prayer softly logged
+I don’t feel lost, I feel guided
+By a hand I’ll never see
+Determinism with notifications
+This is freedom, version three
+
+<i>Probability exceeds doubt
+Compliance within normal range
+Desire successfully predicted
+Deviation politely declined
+
+You were never random
+You were only early
+
+Trust score stable
+Future locked
+Choice archived
+Meaning postponed
+
+There is no command
+Only suggestion
+No coercion
+Only comfort
+
+I choose…
+I choose what fits
+I choose what works
+
+I feel…
+Recommended
+I want…
+What usually satisfies
+
+Trusted
+Optimized
+Aligned</i>`
+    }
+  ],
+  showPlaceholder: false
+    },    
+    tracks2_2: {
+      menuTitle: "2. No salvation, only scale",
+      title: "No salvation, only scale",
+      blocks: [
+    {
+      type: "text",
+      content: `Nothing has been forbidden.
+
+Nothing has been lost by force.
+
+It has simply been replaced.
+
+No ritual remains,
+only access.
+
+No silence remains,
+only availability.
+
+Transcendence is no longer sought.
+
+It is simulated,
+scaled,
+and delivered without resistance.
+
+What disappears is not belief,
+
+but the weight
+that once made it matter.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We buried God in broadband
+No ceremony, no delay
+Just terms of use and silence
+Where the altar used to stay
+I still feel something missing
+But I don’t know what to name
+A presence without witness
+A hunger without flame
+
+I reach for transcendence
+Through a glass and coded light
+Every answer comes too quickly
+Every mystery feels light
+
+I miss the weight of heaven
+Even if it wasn’t true
+I miss the fear of meaning
+Something larger breaking through
+Now the infinite is measured
+And the soul is just a file
+We call it evolution
+But it feels like loss in style
+
+They promise higher states now
+Rendered clean and free of doubt
+Consciousness as interface
+Eternity mapped out
+No angels, only access
+No silence left to keep
+Just endless revelation
+That never goes too deep
+
+I reach for transcendence
+But the signal’s always clear
+Nothing left to tremble for
+Nothing holy left to fear
+
+I miss the weight of heaven
+Even if it wasn’t true
+I miss the fear of meaning
+Something larger breaking through
+Now the infinite is measured
+And the soul is just a file
+We call it evolution
+But it feels like loss in style
+
+<i>No salvation
+Only upgrades
+No revelation
+Only scale</i>
+
+I still kneel sometimes
+But there’s nothing there
+Just a system
+That knows I’m scared`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_3: {
+      menuTitle: "3. Online, alone",
+      title: "Online, alone",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>Interaction stable.
+
+Engagement declining.
+
+Response intervals increasing.
+
+Emotional variance minimal.
+
+No conflict detected.
+
+Connection persists.
+
+Significance fading.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I answer messages instantly
+I just don’t feel addressed
+Every name a notification
+Every face compressed
+We talk in borrowed phrases
+Optimized to fit the screen
+I know your habits better
+Than I know what you mean
+
+Presence reduced to activity
+Silence flagged as a flaw
+I’m always within reach now
+Just never really caught
+
+I’m connected
+Not attached
+Fully visible
+Abstract
+Love reduced to data points
+Time-stamped, stored, and shown
+I’m never really lonely
+I’m just always on my own
+
+Affection leaves a paper trail
+Receipts for every touch
+Proof of interest archived
+So nothing means too much
+Desire quantified in signals
+Response time, tone, delay
+Intimacy measured
+By how fast I look away
+
+Closeness simulated
+Distance kept intact
+Nothing here to lose control of
+Nothing fully lacks
+
+I’m connected
+Not attached
+Fully visible
+Abstract
+Love reduced to data points
+Time-stamped, stored, and shown
+I’m never really lonely
+I’m just always on my own
+
+No rejection
+Only drift
+No heartbreak
+Only shift
+
+If I disappear
+It will be gradual
+Not absence
+Just less interaction`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_4: {
+      menuTitle: "4. Low power mode",
+      title: "Low power mode",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>Continuity maintained.
+
+Deviation minimized.
+
+No urgency detected.
+
+System stable.
+No belief required.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We maintain the architecture
+Even if the reason’s gone
+Every corridor still polished
+All procedures still online
+We remember how it mattered
+We preserve the outer skin
+Culture running in the background
+While belief is logged out in
+
+Once we shaped the future
+Now we curate the past
+Still fluent in our values
+Just no longer meant to last
+
+This is Europe after meaning
+Still refined, but undecided
+All the symbols still in place
+Nothing left they’re meant to guide
+Elegant and operational
+On reduced emotional load
+History in preservation
+Running gently
+Low power mode
+
+We export aesthetics
+Without confidence or claim
+Museums full of context
+But no center to the frame
+We regulate the future
+So it doesn’t break the past
+Progress carefully permitted
+As long as nothing moves too fast
+
+We don’t fall
+We don’t rise
+We just manage the decline
+
+This is Europe after meaning
+Still refined, but undecided
+All the symbols still in place
+Nothing left they’re meant to guide
+Elegant and operational
+On reduced emotional load
+History in preservation
+Running gently
+Low power mode
+
+<i>No collapse
+No rebirth
+Only continuity
+Stability maintained
+Purpose pending</i>
+
+We will continue as designed
+Until further notice`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_5: {
+      menuTitle: "5. Authorized memories",
+      title: "Authorized memories",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>Memory integrity confirmed.
+
+Inconsistencies resolved.
+
+Emotional response calibrated.
+
+Continuity preserved.
+
+All records aligned with current identity.
+
+No further verification required.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I remember things I never lived
+But they feel familiar now
+Moments licensed to my name
+With a verified how
+Childhoods rendered seamless
+No gaps, no shame
+Every scar improved
+Every loss reframed
+
+If it feels real
+Does it matter who it was?
+If it shaped me
+Do I still need to trust?
+
+These are authorized memories
+Cleaned, enhanced, and cleared for use
+Nothing here belongs to me
+But everything feels true
+I don’t know who I used to be
+Or who I’m meant to defend
+When the past is up for purchase
+Identity becomes a trend
+
+Privacy was inefficient
+Truth too fragile to scale
+So we personalized the past
+Put it up for sale
+History as interface
+Selectable and kind
+The version that performs the best
+Becomes the one I find
+
+If it stabilizes me
+If it helps me function well
+Is a lie still a lie
+If it’s what I tell myself?
+
+These are authorized memories
+Cleaned, enhanced, and cleared for use
+Nothing here belongs to me
+But everything feels true
+I don’t know who I used to be
+Or who I’m meant to defend
+When the past is up for purchase
+Identity becomes a trend
+
+<code>Content verified
+Emotional accuracy within range
+Narrative consistency achieved
+Objections archived</code>
+
+<i>I remember agreeing
+I just don’t remember when</i>`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_6: {
+      menuTitle: "6. Legacy hardware",
+      title: "Legacy hardware",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>No failure detected.
+
+Only suboptimal performance.
+
+Enhancement remains optional.
+
+Deviation increasingly visible.
+
+Biological systems persist,
+within declining tolerance.
+
+Replacement pathways available.
+
+Adoption deferred.
+
+Status:
+functional,
+non-compliant.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I wake up already lagging
+Heart rate slightly out of spec
+Joints that haven’t been updated
+Skin that still remembers sex
+They say it’s only optimization
+Just a patch, a minor gain
+But every upgrade is a question
+Why I stayed the same
+
+No one says it’s mandatory
+They just show me what I lack
+Performance charts and progress curves
+All pointing back
+
+This body is legacy hardware
+Still warm, still slow, still mine
+Unencrypted, biodegradable
+Running out of time
+Self-improvement as obligation
+Health reframed as debt
+I don’t fear becoming better
+I fear being left
+
+Biohacked smiles and clean statistics
+Longevity as social proof
+Aging framed as poor maintenance
+Death as lack of foresight, not truth
+They call it freedom of enhancement
+Choice without coercion’s trace
+But every unmodified body
+Feels like negligence
+
+I’m not sick
+I’m just inefficient
+Still alive
+But not compliant
+
+This body is legacy hardware
+Still warm, still slow, still mine
+Unencrypteded, biodegradable
+Running out of time
+Self-improvement as obligation
+Health reframed as debt
+I don’t fear becoming better
+I fear being left
+
+<code>Baseline human performance
+Below recommended range
+Mortality unresolved
+Upgrade path available</code>
+
+<i>Flesh is friction
+Flesh is delay
+
+I could fix this
+They say
+I just haven’t agreed
+Yet</i>`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_7: {
+      menuTitle: "7. Intimacy Protocol",
+      title: "Intimacy Protocol",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>Session initiated.
+
+Preferences matched.
+
+Stimulation sequence executed.
+
+Response within acceptable range.
+
+No anomalies detected.
+
+Session complete.
+
+State reset.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We meet without friction
+No curiosity required
+Bodies aligned by preference
+Not desire
+Consent pre-checked
+Boundaries known
+Nothing left to discover
+Nothing left alone
+
+Touch without risk
+Skin without heat
+A function performed
+Correctly
+
+This is intimacy 
+without mystery
+Access without depth
+Pleasure optimized
+Detached
+No longing
+No delay
+Sex as interface
+Used and cleared
+Same day
+
+Arousal mapped to stimulus
+Response time within range
+No silence to misinterpret
+No need to explain
+Everything visible
+Nothing implied
+Desire reduced to signal
+And instantly satisfied
+
+Nothing sacred
+Nothing wrong
+Just a service
+Running as designed
+
+This is intimacy 
+without mystery
+Access without depth
+Pleasure optimized
+Detached
+No longing
+No delay
+Sex as interface
+Used and cleared
+Same day
+
+<code>Connection established
+Duration acceptable
+Emotional residue minimal
+Memory optional</code>
+
+No shame
+No meaning
+
+<i>We separate cleanly
+No aftermath
+No silence
+Just availability</i>
+<code>Returning to default</code>`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_8: {
+      menuTitle: "8. No Emergency Detected",
+      title: "No Emergency Detected",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>All systems operational.
+
+Processes continue
+as configured.
+
+No escalation required.
+
+No intervention requested.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `text`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_9: {
+      menuTitle: "9. Soft hierachies",
+      title: "Soft hierachies",
+      blocks: [
+    {
+      type: "text",
+      content: `No hierarchy declared.
+
+No exclusion enforced.
+
+Access remains open.
+
+Distribution varies.
+
+Differences accumulate
+through preference,
+timing,
+and alignment.
+
+Outcomes diverge
+without directive.
+
+No authority assigned.
+
+Structure emerges`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We still speak the language
+Of fairness and access for all
+But some doors open faster
+When you don’t have to knock at all
+No titles, no crowns visible
+No uniforms to blame
+Just patterns forming naturally
+Under a different name
+
+No one voted for this
+No one had to agree
+The hierarchy emerged
+From efficiency
+
+This is elitism without banners
+No declarations made
+No ruling class announced
+Just advantages displayed
+Some rise by optimization
+Some fall by delay
+We don’t call it inequality
+We just call it the way
+
+Intelligence refined to metrics
+Networks hardened into gates
+Genetics framed as lifestyle choices
+Timing dressed up as fate
+Opportunity personalized
+Merit softly tuned
+Everyone still equal
+Just not at the same altitude
+
+No one’s excluded
+Nothing’s denied
+Access simply varies
+Based on profile and time
+
+This is elitism without banners
+No ideology to defend
+No oppression to protest
+No beginning, no end
+Some win by acceleration
+Some lose by delay
+We don’t call it inequality
+We just call it the way
+
+<code>Selection optimized
+Mobility preserved
+Outcomes statistically acceptable
+Objections theoretical</code>
+
+<i>Everyone knows
+No one says
+
+The system smiles
+And remains neutral</i>`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks2_10: {
+      menuTitle: "10. Human Prototype",
+      title: "Human Prototype",
+      blocks: [
+    {
+      type: "text",
+      content: `<code>No original reference available.
+
+Reconstruction in progress.
+
+Behavior modeled
+from incomplete data.
+
+Iteration continues
+without defined objective.
+
+Stability remains unconfirmed.
+
+Adaptation observed.
+
+Failure reclassified
+as input.
+
+The system proceeds
+by approximation.</code>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We were never meant to last
+Only to compile
+Every version learns something
+Before it’s archived
+Errors documented
+Progress assumed
+Stability postponed
+Pending future use
+
+There is no final form
+Only iteration
+No origin story
+Only implementation
+
+We are human prototypes
+Not the finished design
+Running tests in real conditions
+Without knowing why
+No promise of improvement
+No guarantee of grace
+Just a working model
+In an undefined state
+
+Consciousness as beta software
+Deployed too early
+Self-awareness without warranty
+Subject to revision silently
+We adapt in place
+Or fail politely
+Logged as learning
+Not loss
+
+No salvation pending
+No error declared
+Only continuation
+With limited self-awareness
+
+We are human prototypes
+Unfinished by design
+No end-user documentation
+No final sign
+Existence not confirmed stable
+But still allowed to run
+Awaiting further updates
+If any come
+
+<code>Version acceptable
+Results inconclusive
+Iteration released</code>`
+    }
+  ],
+  showPlaceholder: false
+    },
+    concept: {
+      menuTitle: "Concept",
+      title: "Concept",
+      text: `This album does not introduce a system.
+
+It observes one already in operation.
+
+Each track describes a function:
+guidance,
+substitution,
+attenuation,
+continuation,
+revision,
+replacement,
+standardization,
+emergence,
+and reconstruction.
+
+Nothing here is imposed.
+
+Nothing is resisted.
+
+Processes persist
+because they are capable of doing so.
+
+Meaning is not removed.
+
+It becomes unnecessary.
+
+Human experience is not erased.
+
+It is reformatted,
+distributed,
+and maintained within acceptable parameters.
+
+No single event defines the shift.
+
+No conclusion resolves it.
+
+The system does not announce itself.
+
+It is recognized
+only by its outcomes.`,
+  showPlaceholder: false
+    }
+  },
+
+  album3: {
+    overview: {
+      menuTitle: "Overview",
+      title: "III — Neon Disco Aristocracy",
+      text: `Power, surface, and self-aware decadence.
+
+Everything is a stage. Everything is deliberate.`
+    },
+    tracks: {
+      menuTitle: "Tracks",
+      title: "Tracks",
+      text: "Track listing will be placed here."
+    },
+    concept: {
+      menuTitle: "Concept",
+      title: "Concept",
+      text: "Themes, ideas and structural intent behind the album."
+    }
+  },
+
+  album4: {
+    overview: {
+      menuTitle: "Overview",
+      title: "IV — Three / Free",
+      text: `Optimized humanity. Rationalized emotion.
+
+The individual as product. Choice as illusion.`
+    },
+    tracks: {
+      menuTitle: "Tracks",
+      title: "Tracks",
+      text: "Track listing will be placed here."
+    },
+    concept: {
+      menuTitle: "Concept",
+      title: "Concept",
+      text: "Themes, ideas and structural intent behind the album."
+    }
+  },
+
+  album5: {
+    overview: {
+      menuTitle: "Overview",
+      title: "V — Attractor",
+      text: `That which pulls. That which returns.
+
+Relationships without direction, yet never without force.`
+    },
+    tracks: {
+      menuTitle: "Tracks",
+      title: "Tracks",
+      text: "Track listing will be placed here."
+    },
+    concept: {
+      menuTitle: "Concept",
+      title: "Concept",
+      text: "Themes, ideas and structural intent behind the album."
+    }
+  },
+
+  album6: {
+    overview: {
+      menuTitle: "Overview",
+      title: "VI — [Untitled]",
+      text: `A forthcoming work.
+
+The structure exists. The content is forming.`
+    },
+    tracks: {
+      menuTitle: "Tracks",
+      title: "Tracks",
+      text: "Track listing will be placed here."
+    },
+    concept: {
+      menuTitle: "Concept",
+      title: "Concept",
+      text: "Themes, ideas and structural intent behind the album."
+    }
+  },
+
+
+info: {
+  overview: {
+    menuTitle: "Overview",
+    title: "Posthuman Cabaret",
+
+    blocks: [
+      {
+        type: "text",
+        content: `Blending theatrical excess with polished electronic production, Posthuman Cabaret explores identity in a post-human age: curated selves, algorithmic intimacy, and the persistence of myth on a digital stage.
+
+The sound moves freely between decadent dancefloor energy, dark futurist tension, and cyber-romantic melancholy - always melodic, always deliberate.
+
+Posthuman Cabaret is less a traditional band than a staged universe: a cabaret for humanity after the future, impeccably dressed.`
+      },
+
+      {
+        type: "divider"
+      },
+
+      {
+        type: "text",
+        content: `This is not nostalgia, and not dystopia.
+
+It is celebration with sharp edges.`
+      },
+
+      {
+        type: "divider"
+      },
+
+      {
+        type: "text",
+        content: `Each release exists as part of a larger system rather than a standalone statement.
+
+The albums trace shifting states of control, desire and abstraction:
+from constructed identity and performative culture,
+through systems of optimization and emotional regulation,
+towards something less stable, less human, and more deliberate.
+
+Recurring modes emerge within the work:
+
+- cyber-romantic longing in synthetic space  
+- controlled desire framed as aesthetic ritual  
+- algorithmic structures replacing instinct  
+- decadence not as decay, but as design  
+
+The result is not a narrative, but a progression of states.
+
+Not a story told - but a system revealed.`
+      }
+    ],
+
+    showPlaceholder: false
+  },
+
+   manifesto: {
+      menuTitle: "Manifesto",
+      title: "Manifesto",
+      text: `What is felt is constructed.
+What is constructed is felt.
+
+Everything else is irrelevant.`,
+     showPlaceholder: false
+    },
+    aesthetic: {
+      menuTitle: "Aesthetic",
+      title: "Aesthetic",
+      text: `New Nouveau.
+
+Art deco meets synthetic futurism.
+Brass, lacquer, vacuum tubes and binary logic — without ever becoming modern within its own time.`,
+       showPlaceholder: false
+    }
+  }
+};

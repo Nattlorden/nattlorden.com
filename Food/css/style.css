@@ -1,0 +1,320 @@
+:root {
+  --accent: #b79a63;     /* varm mässing */
+  --accent-cool: #6f7f87; /* blågrå från gardinen */
+}
+
+html {
+  background: #161513;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background-color: transparent;
+  color: #e8dfcf;
+  position: relative;
+  z-index: 0;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("../assets/ui/kitchen-check-tile-512.png");
+  background-repeat: repeat;
+  background-size: 512px 512px;
+  // opacity: 0.12;
+  pointer-events: none;
+  z-index: -1;
+  filter: brightness(0.9) contrast(0.95);
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(0,0,0,0.08),
+    rgba(0,0,0,0.25)
+  );
+  pointer-events: none;
+  z-index: -1;
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #2a2f33;
+  background: #171a1d;
+  opacity: 0.80;
+  min-height: 84px;
+  padding: 0 16px;
+}
+
+.header-left,
+.header-right {
+  width: 160px;
+  display: flex;
+  align-items: center;
+}
+
+.header-left {
+  justify-content: flex-start;
+}
+
+.header-right {
+  justify-content: flex-end;
+}
+
+.header-inner {
+  flex: 1;
+  text-align: center;
+}
+
+.back-home img {
+  display: block;
+  height: 24px;
+  width: auto;
+  opacity: 0.85;
+  text-decoration: none;
+}
+
+.back-home img:hover {
+  opacity: 1;
+  transform: translateX(-2px);
+  text-decoration: none;
+}
+
+.back-home {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.back-home,
+.back-home:hover,
+.back-home:focus,
+.back-home:active,
+.back-home:visited {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  border: none;
+  border-bottom: none;
+  box-shadow: none;
+  outline: none;
+  background: transparent;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+h3 {
+  margin-bottom: 8px;
+}
+
+a {
+  color: #c8a75a;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(200, 167, 90, 0.4);
+}
+
+a:hover {
+  color: #e0c878;
+  border-bottom-color: #e0c878;
+}
+
+.tagline {
+  margin: 0;
+  font-size: 0.9em;
+  color: #888;
+}
+
+.lang-switch button {
+  margin-left: 5px;
+  background: #2a2f33;
+  color: #e6e0d4;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.lang-switch button.active {
+  background: #a88b52;
+  color: #171a1d;
+}
+
+.top-menu {
+  display: flex;
+  flex-wrap: wrap;
+  background: #171a1d;
+  border-bottom: 1px solid #2a2f33;
+}
+
+.top-menu div {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.top-menu div.active {
+  color: #a88b52;
+}
+
+.layout {
+  display: flex;
+}
+
+aside {
+  width: 220px;
+  background: #171a1d;
+  min-height: 100vh;
+  border-right: 1px solid #2a2f33;
+  box-shadow: inset -6px 0 12px rgba(0,0,0,0.25);
+}
+
+aside div {
+  padding: 10px;
+  cursor: pointer;
+}
+
+aside div.active {
+  background: #2a2f33;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+}
+
+.content-area p {
+  margin-top: 0;
+  max-width: 900px;
+  color: #d8d2c7;
+  white-space: pre-line;
+}
+
+.text-block {
+  max-width: 900px;
+  margin-bottom: 24px;
+  color: #d8d2c7;
+  line-height: 1.6;
+  white-space: pre-line;
+}
+
+.meta-text {
+  display: block;
+  color: #8a8478;
+  font-size: 0.8rem;
+  margin-top: 4px;
+}
+
+.image-gallery {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.image-gallery img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #2a2f33;
+}
+
+.image-block {
+  margin: 28px 0;
+}
+
+.image-block img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #2a2f33;
+}
+
+.image-full {
+  max-width: 900px;
+}
+
+.image-medium {
+  max-width: 600px;
+}
+
+.image-small {
+  max-width: 360px;
+}
+
+.image-tiny {
+  max-width: 200px;
+}
+
+.image-block figcaption {
+  margin-top: 8px;
+  color: #a7a094;
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
+.placeholder-box {
+  max-width: 900px;
+  margin-top: 28px;
+  padding: 16px 18px;
+  background: #171a1d;
+  border: 1px solid #2a2f33;
+  color: #8a8478;
+}
+
+.recipe-source {
+  display: block;
+  color: #a7a094;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.recipe-pre {
+  max-width: 900px;
+  //padding: 18px 20px;
+  
+  padding: 28px 32px;
+  line-height: 1.7;
+  letter-spacing: 0.2px;
+
+  background: #171a1d;
+  border: 1px solid #2a2f33;
+  color: #d8d2c7;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.96rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  overflow-x: auto;
+  box-sizing: border-box;
+}
+
+.side-menu-group {
+  padding: 18px 10px 6px;
+  color: #8f7a4b;
+  font-size: 0.78rem;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: default;
+  border-top: 1px solid #2a2f33;
+  margin-top: 8px;
+}
+
+.side-menu-group:first-child {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 12px;
+}
+
+.side-menu-item {
+  padding-left: 18px;
+}

@@ -1,0 +1,3411 @@
+const contentEN = {
+  world: {
+    overview: {
+      menuTitle: "Overview",
+      title: "The World",
+      blocks: [
+  { 
+    type: "text", 
+    content: `Serenia is a dark, subdued fantasy world of stone, mist, faith, trade, power, and memories that refuse to stay still.` 
+  },
+
+  { 
+    type: "image", 
+    src: "assets/world/Serenias Harn.png", 
+    size: "small",  
+    caption: `Hârn` 
+  },
+
+  { 
+    type: "text", 
+    content: `Serenia is fundamentally based on the roleplaying world HârnWorld, created by N. Robin Crosby, Keléstia Productions, and Columbia Games.
+
+In accordance with their framework, all events take place after the year 720 TR, where the official canon material ends.
+
+I allow certain elements to be more developed — particularly in areas such as fashion and expression. Distances and population sizes may also be somewhat exaggerated compared to the original setting.
+
+A small number of canonical characters appear. Their interpretation and portrayal in this version are entirely my responsibility — Columbia Games and other rights holders bear no responsibility in this context.` 
+  },
+
+  { 
+    type: "image", 
+    src: "assets/world/landscape.jpg", 
+    size: "small",  
+    caption: `Coastline in Serenia` 
+  }
+],      
+      showPlaceholder: false
+ 
+    },
+    geography: {
+      menuTitle: "Geography",
+      title: "Geography",
+      text: "Maps, regions, landscapes, routes and important locations will be gathered here."
+    },
+    politics: {
+      menuTitle: "Politics & power",
+      title: "Politics & power",
+      text: "This section will hold material on senators, power blocs, trade interests, loyalties and conflicts."
+    },
+    magic: {
+      menuTitle: "Magic & mysteries",
+      title: "Magic & mysteries",
+      text: "Quiet magic, religious forces, omens, artifacts and the things that never fully submit to explanation will live here."
+    }
+  },
+
+  story: {
+    overview: {
+      menuTitle: "Overview",
+      title: "The Story",
+      blocks: [
+      { 
+        type: "text", 
+        content: `<b><i>Both ends of the needle</i></b> is a dark, subdued fantasy novel of stone, mist, faith, trade, power, and memories that refuse to stay still.` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/story/original version.jpg", 
+        size: "small",  
+        caption: `The original version — printed on an early inkjet printer, with the holes on the wrong side (!)` 
+      },
+
+      { 
+        type: "text", 
+        content: `The story began around 1990 as notes taken during a roleplaying campaign. Between sessions, those fragments expanded into something more — a journal, written entirely in the first person, with long gaps between events left as they were.
+
+The text survived an unlikely journey through changing technology: across operating systems, through incompatible file formats, and eventually into dormancy on a 3.5-inch floppy disk — until even the drives themselves had vanished. Only much later was it recovered, using an external USB device.
+
+The passing of a long-time roleplaying companion in 2025 made it clear that the story could not remain in that fragmented state. It needed to be reshaped — into a coherent novel. Gaps had to be bridged, memory tested, and new material written where the old no longer held.
+
+What is presented here — and what will gradually be added — is the result of that work.` 
+      }
+    ],  
+    showPlaceholder: false
+      
+    },
+    chapters: {
+      menuTitle: "Chapters",
+      title: "Chapter overview",
+      text: "Chapter structure, work status and short summaries will be placed here."
+    },
+    timeline: {
+      menuTitle: "Timeline",
+      title: "Timeline",
+      text: "Key events, journeys, turning points and larger movements in the story will be listed here."
+    },
+    appendix: {
+      menuTitle: "Appendix",
+      title: "Appendix",
+      text: "Notes and additional information regarding the story will be listed here."
+    }  
+  },
+
+  characters: {
+    keri: {
+      menuTitle: "Keri",
+      title: "Keri",
+      blocks: [
+      { 
+        type: "text", 
+        content: `pretext` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/", 
+        size: "small",  
+        caption: `caption` 
+      },
+
+      { 
+        type: "text", 
+        content: `maintext` 
+      }
+    ],  
+    showPlaceholder: false
+      
+    },
+    raven: {
+      menuTitle: "Raven",
+      title: "Raven",
+      blocks: [
+      { 
+        type: "text", 
+        content: `pretext` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/", 
+        size: "small",  
+        caption: `caption` 
+      },
+
+      { 
+        type: "text", 
+        content: `maintext` 
+      }
+    ],  
+    showPlaceholder: false
+      
+    },
+    fabien: {
+      menuTitle: "Fabien",
+      title: "Fabien",
+      blocks: [
+      { 
+        type: "text", 
+        content: `pretext` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/", 
+        size: "small",  
+        caption: `caption` 
+      },
+
+      { 
+        type: "text", 
+        content: `Scholar, seeker and occasionally impractical enough to follow an idea straight into danger.` 
+      }
+    ],  
+    showPlaceholder: false
+      
+    }
+  },
+
+  music: {
+    overview: {
+      menuTitle: "Overview",
+      title: "Music",
+      text: `The music of Serenia is not written to accompany the story.
+
+It exists within the same space.
+
+Where the narrative follows Keri and Raven through action and consequence, the music carries what cannot be spoken — tension, memory, desire, and the weight of what remains unexpressed.
+
+Each piece is treated as part of the same world, shaped by its tone, its constraints, and its sense of reality. Not as illustration, but as presence.
+
+Some movements belong to places.
+Others to moments.
+A few to things that have no name at all.
+
+────────────
+
+Fragments of music were always present. Even in its earliest form, the text contained passages intended to be sung — echoes of a tradition that reaches back to Tolkien, and beyond.
+
+The intention to create music had always been there, but the means had not. That changed. And once it did, there was no reason to hold back.
+
+The first piece to take form was <i>Hush now, Little girl of mine</i>.
+
+What began as a single song grew into a broader musical landscape — not just a soundtrack, but a parallel expression of the same world. One piece became several. A few became many.
+
+And with that momentum, the work expanded beyond Serenia itself.
+
+The music no longer belonged solely to the narrative — but it still needed a structure to exist within. That structure became <b>"Serenia Records"</b>.`,
+      showPlaceholder: false
+    },
+    songs: {
+      menuTitle: "Canticles & Fragments",
+      title: "Canticles & Fragments",
+      blocks: [
+{ type: "image", src: "assets/songs/Athina_for_Spotify.jpg", size: "small",  caption: `<b><i>Hush Now, Little Girl of Mine</i></b> <span class="meta-text">Published: October 18, 2025</span>` },
+{ type: "text", content: `The first song created in modern times — and the first for Serenia. Parts of the text, however, have existed in earlier material for many years.
+
+<a class="internal-link" data-section="music" data-page="hushNowLittleGirlOfMine">Lyrics</a> <a href="https://open.spotify.com/album/2w0dRmusBFnDTSMA6RtMTC?si=RsTlLmkbQfWjvM9kCM7lkw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/o8zNKDODnuE?list=RDo8zNKDODnuE" target="_blank" rel="noopener noreferrer">YouTube</a>
+────────────` },
+
+{ type: "image", src: "assets/songs/Vintervav.png", size: "small",  caption: `<b><i>The Light of the Winter Weave</i></b> <span class="meta-text">Published: November 26, 2025</span>` },
+{ type: "text", content: `As winter approached, the idea of a seasonal song emerged — but a Christmas song has no place in Hârn (save for an unusual module). Instead, the winter solstice remains: when the veil is thinnest and the need for light is greatest.
+
+The ideas diverged and resulted in three versions, all of which felt complete. This is the one that remained in its original Swedish form.
+
+<a class="internal-link" data-section="music" data-page="vintervaven">Lyrics</a> <a href="https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KZpR6yB77XU?list=OLAK5uy_mZHE5L2d66lkD0u4KzMhE5jni5LzAb0kw" target="_blank" rel="noopener noreferrer">YouTube</a>
+────────────` },
+
+{ type: "image", src: "assets/songs/kindledsteps.png", size: "small",  caption: `<b><i>Night of Kindled Steps</i></b> <span class="meta-text">Published: November 27, 2025</span>` },
+{ type: "text", content: `The second of the three versions. (The third, chosen for the album, is <i>Where the Veil Grows Thin</i>.)
+
+<a class="internal-link" data-section="music" data-page="kindledSteps">Lyrics</a> <a href="https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/b8ICe9RDMNQ?list=OLAK5uy_naLwlRZ941pj0uyzjT5e1iFFmJQC3mx98" target="_blank" rel="noopener noreferrer">YouTube</a>
+────────────` },
+
+{ type: "image", src: "assets/songs/Twofaces.jpg", size: "small",  caption: `<b><i>Two Faces</i></b> <span class="meta-text">Published: November 25, 2025</span>` },
+{ type: "text", content: `A true single — A- and B-side — exploring the Keri/Raven duality from two perspectives. Not tied to a specific event in the narrative.
+
+<i><b>Two Faces of the Same Flame</b></i>
+<a class="internal-link" data-section="music" data-page="twoFaces">Lyrics</a> <a href="https://open.spotify.com/track/7lKaHehN4ebdmjzR9XeiVr?si=78a2d033e299454e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/aCvqREqQJDM?list=RDaCvqREqQJDM" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+<i><b>I Wear the Dark You</b></i>
+<a class="internal-link" data-section="music" data-page="theDarkYou">Lyrics</a> <a href="https://open.spotify.com/track/5lDnOaYP7zsYhvIHD9KYo0?si=a6377726e08b455d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/fwEHppbhQeM?si=d_FiEuBXHxl5ZnuT" target="_blank" rel="noopener noreferrer">YouTube</a>  
+────────────` },
+
+{ type: "image", src: "assets/songs/Ranger.png", size: "small",  caption: `<b><i>The Ranger and the Dozen</i></b> <span class="meta-text">Published: March 5, 2026</span>` },
+{ type: "text", content: `Originally intended for a later album, but proved too enjoyable to hold back — and was released on its own.
+
+<a class="internal-link" data-section="music" data-page="ranger">Lyrics</a> <a href="https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/fKZXAZapR_4?list=OLAK5uy_lJyue_RGOInI-hjmo6JkTIuV3eJAM7878" target="_blank" rel="noopener noreferrer">YouTube</a>
+────────────` },
+
+{ type: "image", src: "assets/songs/whoarewe.png", size: "small",  caption: `<b><i>Who Are We?</i></b> <span class="meta-text">Published: March 19, 2026</span>` },
+{ type: "text", content: `The Keri/Raven theme returns — this time as a dialogue, almost like a scene from a musical: two voices, and a mirror frame without glass.
+
+<a class="internal-link" data-section="music" data-page="whoAreWe">Lyrics</a> <a href="https://open.spotify.com/album/1cYPlpK59UZjd2BxslLIFt?si=0ih0hR7CS2a-MCEpuJPBiQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oh_mRwJYcjw?list=OLAK5uy_m0mC6xbgcpegrlELHMZljqeI5c8snyb8c" target="_blank" rel="noopener noreferrer">YouTube</a>
+────────────` }
+      ],
+      showPlaceholder: false
+    },
+
+
+
+
+    bothends: {
+      menuTitle: "- Both ends of the needle",
+      title: "Both ends of the needle",
+      intro: "My first full length album. Soundtrack to the first part of the book.",
+      caption: "Cover art: Keri McCree — location unknown",
+      showPlaceholder: false
+    },
+
+    bothendspt2: {
+      menuTitle: "- Both ends of the needle Pt.2",
+      title: "Both ends of the needle (part two)",
+      intro: "2nd part of the suite.",
+      caption: "Cover art: The Sea-Serpent being built and Aleath's shipyard",
+      showPlaceholder: false
+    },
+
+
+    instrumentals: {
+      menuTitle: "Instrumental themes",
+      title: "Instrumental themes",
+      text: `Beyond a simple curiosity to write instrumental music, there is another thought that is difficult to ignore: the rapid development of AI. It is not unreasonable to imagine that one day it may become possible to generate — if not an entire feature film — then at least coherent sequences.
+
+Such imagery calls for a different kind of music than the sung.
+
+At the time of writing, no symphonic work for Serenia has yet been released. A first movement is, however, approaching completion, and will be introduced into the timeline <i>Echoes in Order</i> ahead of any official release.`,
+      showPlaceholder: false
+    },
+    songorder: {
+      menuTitle: "Echoes in Order",
+title: "Echoes in Order",
+showPlaceholder: false,
+text: `The internal chronology of the story does not always follow the release order of the songs. Here, the pieces are therefore placed where they belong within the narrative — with the understanding that newly written material may not yet have found its final place.
+
+The notes remain hidden, so as not to reveal too much of the plot to those who still wish to approach the book without prior knowledge.`,
+      timeline: [
+  {
+    title: "Introduction",
+    meta: "",
+    tracks: [
+      {
+        title: `Hârn Overture<br>
+        <i>Serenia Symphony (Opus X), Track 1</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Cloth Purchase and Dinner Invitation",
+    meta: "",
+    tracks: [
+      {
+        image: "assets/songs/TheSatinMoon.png",
+        date: "",
+        textPage: "theSatinMoon",
+        title: "The Satin Moon",
+        spotify: "https://open.spotify.com/track/18M0tbxW3a8g1IfINgscBG?si=10fad8ce32694405",
+        youtube: "https://youtu.be/p56nSPa_E_c?si=77Yhx_CcMZ89AJ0F",
+        note: "The story opens with Keri admiring a bolt of white satin. She encounters the merchant selling it through the guild and is invited to dine aboard his ship — possibly to discuss trade outside the guild's boundaries."
+      },
+      {
+        title: `Satin After Dark<br>
+        <i>Serenia Symphony (Opus X), Track 2</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Raven",
+    meta: "Night in Golotha",
+    tracks: [
+      {
+        title: `Nightraven<br>
+        <i>Serenia Symphony (Opus X), Track 3</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Harbor Tavern",
+    meta: "",
+    tracks: [
+      {
+        title: "Three Coppers for a Kiss",
+        spotify: "https://open.spotify.com/track/5B26pt1YevWV2fQa61BR2J?si=18429b8b5f0a4640",
+        youtube: "https://youtu.be/i5yBg8qniDc?si=L-scB7fYUPGlEGpp",
+        image: "assets/songs/Pubsong.png",
+        date: "",
+        textPage: "threeCoppersForAKiss",
+        note: ""
+      },
+      {
+        title: "Galley Lado",
+        spotify: "https://open.spotify.com/track/1cOS91msaPjZFcE73W4Rxb?si=fa01299f41ee42ba",
+        youtube: "https://youtu.be/5HKlwsLvfns?si=MazrcXwDWSmbhxaN",
+        image: "assets/songs/Galley Lado.png",
+        date: "",
+        textPage: "galleyLado",
+        note: "Later in the night, when fatigue settles in, a quiet song is sung — of sailors hoping to be taken somewhere better, rather than simply drowning at sea. Galley Lado is both a constellation and a zodiac sign, representing completion, ending, and rebirth."
+      }
+    ]
+  },
+  {
+    title: "An Errand in the Night",
+    meta: "",
+    tracks: [
+      {
+        title: `Nemiran Street – Adagio oscuro<br>
+        <i>Serenia Symphony (Opus X), Track 4</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Raven visits Nemiran Street 1 on an assignment."
+      }
+    ]
+  },
+  {
+    title: "Bad News",
+    meta: "",
+    tracks: [
+      {
+        title: `Presto furioso<br>
+        <i>Serenia Symphony (Opus X), Track 5</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Raven rushes home after receiving troubling news."
+      }
+    ]
+  },
+  {
+    title: "Grief",
+    meta: "",
+    tracks: [
+      {
+        title: `Adagio lamentoso<br>
+        <i>Serenia Symphony (Opus X), Track 6</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "The assistants in the shop have been harmed, defiled, murdered, or left to die. Under normal circumstances, it would have been the sisters."
+      }
+    ]
+  },
+  {
+    title: "Training",
+    meta: "",
+    tracks: [
+      {
+        title: `Training – Andante deciso<br>
+        <i>Serenia Symphony (Opus X), Track 7</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Raven pushes herself physically — discipline in motion."
+      }
+    ]
+  },
+  {
+    title: "Meeting at the Market",
+    meta: "The sisters meet Aylyn for the first time, in Coranan",
+    tracks: [
+      {
+        title: "Three Cups, One Truth",
+        image: "assets/songs/dummy.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Exchange",
+    meta: "Keri finishes the cloak; Raven lays claim",
+    tracks: [
+      {
+        title: "Cloak and Mirror",
+        spotify: "https://open.spotify.com/track/41W4flxEqDm0zTM1g1VLsL?si=10f5cb21500643aa",
+        youtube: "https://youtu.be/AwRLaqd4-6I?si=n2Lc6-TDIVCQXD0G",
+        image: "assets/songs/dummy.png",
+        date: "",
+        textPage: "cloakAndMirror",
+        note: "A meeting in the mirror. Roles are exchanged. The mirror is covered."
+      },
+      {
+        title: `Mirror – Adagio, con tensione<br>
+        <i>Serenia Symphony (Opus X), Track 8</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Temple of Darkness",
+    meta: "",
+    tracks: [
+      {
+        title: "Herth-Akan",
+        spotify: "https://open.spotify.com/track/06Iv40X1Tq3I1lMJ2M7Anw?si=87a222dc65534b5a",
+        youtube: "https://youtu.be/myQefNj1Zi8?si=jN1--mGFGkkdyueU",
+        image: "assets/songs/Herth-Akan.png",
+        date: "",
+        textPage: "herthAkan",
+        note: ""
+      },
+      {
+        title: `Herth-Akan – Grave rituale<br>
+        <i>Serenia Symphony (Opus X), Track 9</i>`,
+        image: "assets/songs/classic.png",
+        date: "",
+        status: "Not yet",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "The Library",
+    meta: "",
+    tracks: [
+      {
+        title: "Let the Mirror Read",
+        spotify: "https://open.spotify.com/track/1GPhOzt4GRuRrPCP4oJJ9k?si=9cba08cb793143d0",
+        youtube: "https://youtu.be/tTkuD9H4zhk?si=obom5Gi4ZOslgR2o",
+        image: "assets/songs/dummy.png",
+        date: "",
+        textPage: "letTheMirrorRead",
+        note: "The ancient library notices Raven's presence and seeks to understand her, offering her the Mirror Book."
+      }
+    ]
+  },
+  {
+  title: "Raven Reads",
+  meta: "",
+  tracks: [
+    {
+      title: "Liber et Speculum",
+      image: "assets/songs/dummy.png",
+      date: "",
+      textPage: "liberEtSpeculum",
+      spotify: "https://open.spotify.com/track/5v1npkntIA55ZEux0MtwWi?si=8ca644d302104530",
+      youtube: "https://youtu.be/4gY20cxcppI?si=C5iv9b67nqULEcgp",
+      note: ""
+    },
+    {
+      title: `Liber – Lento misterioso<br>
+      <i>Serenia Symphony (Opus X), Track 10</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Meeting at the Lighthouse",
+  meta: "",
+  tracks: [
+    {
+      title: "Lighthouse Lament",
+      image: "assets/songs/Lighthouse.png",
+      date: "",
+      textPage: "lighthouseLament",
+      spotify: "https://open.spotify.com/track/4sdjLRoKCxRWMWvXZLydHi?si=2b37ca317c3f4d79",
+      youtube: "https://youtu.be/8fIesSa8OpQ?si=UJsBNm49HK-60DHl",
+      note: ""
+    },
+    {
+      title: `Lighthouse Lament<br>
+      <i>Serenia Symphony (Opus X), Track 11</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Tracks in Snow",
+  meta: "",
+  tracks: [
+    {
+      title: `Tracks in Snow – Allegro inquieto<br>
+      <i>Serenia Symphony (Opus X), Track 12</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "Keri and Raven are pursued after snowfall, leaving tracks behind them."
+    }
+  ]
+},
+{
+  title: "Negotiations",
+  meta: "",
+  tracks: [
+    {
+      title: `Negotiations – Andante considerato<br>
+      <i>Serenia Symphony (Opus X), Track 13</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "Keri and Fabien petition Serenima for the use of Shiran legionnaires."
+    }
+  ]
+},
+{
+  title: "To Visit a God",
+  meta: "",
+  tracks: [
+    {
+      title: `Ilvir – Grave theurgicum<br>
+      <i>Serenia Symphony (Opus X), Track 14</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "An encounter with Ilvir, and what follows from it."
+    }
+  ]
+},
+{
+  title: "A Sudden Song",
+  meta: "Fabien breaks into a familiar song upon arriving in Anisha",
+  tracks: [
+    {
+      title: "The Ballad of Eltherion",
+      spotify: "https://open.spotify.com/track/3mrwEL6kKrp5JaCCoqJ7y9?si=0c78bc92a0b84026",
+      youtube: "https://youtu.be/hzBN6Vtj_4c?si=fEbSk5SwIoUsEBaL",
+      image: "assets/songs/Eltherion_anisha.png",
+      date: "",
+      textPage: "theBalladOfEltherion",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Anisha",
+  meta: "",
+  tracks: [
+    {
+      title: `Anisha – Grave, inevitabile<br>
+      <i>Serenia Symphony (Opus X), Track 15</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "The mission fails, and something far more serious joins them."
+    }
+  ]
+},
+{
+  title: "Unexpected Passage",
+  meta: "",
+  tracks: [
+    {
+      title: `Hru – Processionale immobile<br>
+      <i>Serenia Symphony (Opus X), Track 16</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "They are granted passage by two Hru — Ilvir's stone giants."
+    }
+  ]
+},
+{
+  title: "Clash",
+  meta: "",
+  tracks: [
+    {
+      title: "The Battle of Araka-Kalai",
+      spotify: "https://open.spotify.com/track/5Ff7XIZBbLCEDeagetATJr?si=4c2704d2e6b84a0c",
+      youtube: "https://youtu.be/YqZr3ICQrbo?si=FcIrhOmo9ZJ7kdIr",
+      image: "assets/songs/Battle wide.png",
+      date: "",
+      textPage: "theBattleOfArakaKalai",
+      note: "Earthmasters clash with the children of Ilvir near Araka-Kalai."
+    },
+    {
+      title: `Araka-Kalai – Conflagratione biologica<br>
+      <i>Serenia Symphony (Opus X), Track 17</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "The Opponent Falls",
+  meta: "",
+  tracks: [
+    {
+      title: `NightBlade's Death – Adagio funebre<br>
+      <i>Serenia Symphony (Opus X), Track 18</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "Raven is forced to finish what remains after NightBlade leaves Ilvir gravely wounded."
+    }
+  ]
+},
+{
+  title: "The Eye",
+  meta: "",
+  tracks: [
+    {
+      title: `The Eye – Adagio, restitutio<br>
+      <i>Serenia Symphony (Opus X), Track 19</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "Keri receives an eye from Ilvir's serpent avatar as a parting gift."
+    }
+  ]
+},
+{
+  title: "A Pause for Thought",
+  meta: "",
+  tracks: [
+    {
+      title: `Epilogo sospeso (Part I)<br>
+      <i>Serenia Symphony (Opus X), Track 20</i>`,
+      image: "assets/songs/classic.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "Keri reflects. If this were a trilogy, this would mark the end of part one."
+    }
+  ]
+},
+{
+  title: "Serenima and Joreth",
+  meta: "Application for discharge from the legion",
+  tracks: [
+    {
+      title: "Serenima",
+      spotify: "https://open.spotify.com/track/0hbYgCgFeuP5qtm4ZtCrbo?si=8d8f5010f25348d5",
+      youtube: "https://youtu.be/JQsIQh81yKA?si=lnacejloVL36QfY6",
+      image: "assets/songs/dummy.png",
+      date: "",
+      textPage: "serenima",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Tournament",
+  meta: "",
+  tracks: [
+    {
+      title: "The Man Who Wore Her Green",
+      spotify: "https://open.spotify.com/track/4hoJBuQdiWaIUMdtrXMAwp?si=f7c5a034eb264a0e",
+      youtube: "https://youtu.be/Ix0N8XJHBtg?si=zAcBtq2OOLeAwl36",
+      image: "assets/songs/Aleath joust.png",
+      date: "",
+      textPage: "theManWhoWoreHerGreen",
+      note: "Joreth is entered into the foot tournament for his green lady — Keri."
+    }
+  ]
+},
+{
+  title: "Close Quarters",
+  meta: "",
+  tracks: [
+    {
+      title: "Halea Canticle",
+      spotify: "https://open.spotify.com/track/4NoJHBj3uLg0jHfibe8CkU?si=dff43ca594f14e03",
+      youtube: "https://youtu.be/YmabGbWnvbw?si=sls_IxJFOvpCArz6",
+      image: "assets/songs/Raven and Kaerith.png",
+      date: "",
+      textPage: "haleaCanticle",
+      note: "Keri and Kaerith engage in a contest of power during their visit to Halea's temple in Aleath — one that turns intimate."
+    }
+  ]
+},
+{
+  title: "The Winter Solstice",
+  meta: "Three versions, two languages, one event.",
+  tracks: [
+    {
+      title: "Where the Veil Grows Thin",
+      spotify: "https://open.spotify.com/track/7xIkn3VS9qPqJV6X22JDu4?si=e4afdddb2bfb4b42",
+      youtube: "https://youtu.be/mtfrIF1jGXg?si=XNhuNJUE5bsKQQ2x",
+      image: "assets/songs/kindledsteps.png",
+      date: "",
+      textPage: "",
+      note: "The apprentices arrive at Villa Eriel carrying lit candles on the day that needs them most."
+    },
+    {
+      title: "The Light of the Winter Weave",
+      image: "assets/songs/Vintervav.png",
+      date: "November 26, 2025",
+      textPage: "vintervaven",
+      spotify: "https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw",
+      youtube: "https://youtu.be/KZpR6yB77XU?list=OLAK5uy_mZHE5L2d66lkD0u4KzMhE5jni5LzAb0kw",
+      note: "Winter was closing in, but a Christmas song had no place here ..."
+    },
+    {
+      title: "Night of Kindled Steps",
+      image: "assets/songs/kindledsteps.png",
+      date: "November 27, 2025",
+      textPage: "kindledSteps",
+      spotify: "https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og",
+      youtube: "https://youtu.be/b8ICe9RDMNQ?list=OLAK5uy_naLwlRZ941pj0uyzjT5e1iFFmJQC3mx98",
+      note: "The second of the three versions."
+    }
+  ]
+},
+{
+  title: "Lament",
+  meta: "She whom no one knew was missing — found again.",
+  tracks: [
+    {
+      title: "Eriel Lament",
+      spotify: "https://open.spotify.com/track/4aPtIt65mptA5xzi0Bl8tB?si=b3333c54f2e947b3",
+      youtube: "https://youtu.be/SmTu5o6V11c?si=sHTgciywrpCfN5l1",
+      image: "assets/songs/Eriel found.png",
+      date: "",
+      textPage: "erielLament",
+      note: "A lament for a future queen stripped of her title, her crown, and her life — and replaced."
+    }
+  ]
+},
+{
+  title: "Confrontation on a Quay",
+  meta: "",
+  tracks: [
+    {
+      title: "Satarielle and the Table of Fate",
+      spotify: "https://open.spotify.com/track/2gMiiob295SxabzxhLv7ZP?si=c34ff1b3450f43d8",
+      youtube: "https://youtu.be/WI7VQYruQBQ?si=1vvzFQyf--KEPkkd",
+      image: "assets/songs/Satarielle.jpg",
+      date: "",
+      textPage: "satarielleAndTheTableOfFate",
+      note: "A magical table on the far side of Hârn reacts when Keri's company is attacked by a group of Karmosin dancers."
+    },
+    {
+      title: "What the Tide Told Me",
+      spotify: "https://open.spotify.com/track/2BnUUKg4b6YjtND3dnv2Ai?si=a67c24e52391488d",
+      youtube: "https://youtu.be/CPsi5GKS0pE?si=IaTkT2cdFTkZLFoM",
+      image: "assets/songs/dummy.png",
+      date: "",
+      textPage: "whatTheTideToldMe",
+      note: "The same event retold later by a bard."
+    }
+  ]
+},
+{
+  title: "Echoes of Childhood",
+  meta: "Early layers of memory and protection",
+  tracks: [
+    {
+      title: "Hush Now, Little Girl of Mine",
+      image: "assets/songs/Athina_for_Spotify.jpg",
+      date: "October 18, 2025",
+      textPage: "hushNowLittleGirlOfMine",
+      spotify: "https://open.spotify.com/album/2w0dRmusBFnDTSMA6RtMTC?si=RsTlLmkbQfWjvM9kCM7lkw",
+      youtube: "https://youtu.be/o8zNKDODnuE?list=RDo8zNKDODnuE",
+      note: "The first song created in modern times — and the first for Serenia."
+    }
+  ]
+},
+{
+  title: "Harvest",
+  meta: "",
+  tracks: [
+    {
+      title: "Stomp the Year Awake",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Launching",
+  meta: "The Sea Serpent leaves the stocks",
+  tracks: [
+    {
+      title: "Launching of the Sea-Serpent",
+      spotify: "https://open.spotify.com/track/7AmLRrU2NmKqcbKQeVj9eK?si=99db17966bfb43f8",
+      youtube: "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
+      image: "assets/songs/Launching.png",
+      date: "",
+      textPage: "launchingOfTheSeaSerpent",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Magic at Sea",
+  meta: "",
+  tracks: [
+    {
+      title: "The Wake of Lado",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Return",
+  meta: "Back home to Golotha",
+  tracks: [
+    {
+      title: "Song of Sweet Golotha",
+      spotify: "https://open.spotify.com/track/6ZxRO2v7pX3I3eres0yoiE?si=e92c4a86ae2a4617",
+      youtube: "https://youtu.be/2Y8UcoGwoxY?si=Ueb-Mwxgf_TDalhy",
+      image: "assets/songs/dummy.png",
+      date: "",
+      textPage: "songOfSweetGolotha",
+      note: ""
+    }
+  ]
+},
+{
+  title: "No One Minds a Madman",
+  meta: "Espionage in plain sight",
+  tracks: [
+    {
+      title: "The Miracle Man's Song",
+      spotify: "https://open.spotify.com/track/5mEszsSoMKzNunHtemqjPN?si=f20eecbf30034b56",
+      youtube: "https://youtu.be/HubVwd7HoTs?si=5kzoTEWXau68jlsp",
+      image: "assets/songs/Miracle mans wagon.png",
+      date: "",
+      textPage: "theMiracleMansSong",
+      note: ""
+    }
+  ]
+},
+{
+  title: "A Quiet Moment by the Fire",
+  meta: "A song still safe to sing when the forest is listening.",
+  tracks: [
+    {
+      title: "By the Ancient Stone",
+      spotify: "https://open.spotify.com/track/6PA0xy3M5QV8be3WcMKqma?si=460b78dc72b4486c",
+      youtube: "https://youtu.be/KtXrEQ2epok?si=uI_HGzgyHtp6YFU_",
+      image: "assets/songs/dummy.png",
+      date: "",
+      textPage: "byTheAncientStone",
+      note: ""
+    }
+  ]
+},
+{
+  title: "The Perfume Incident",
+  meta: "Joreth tries Aylyn's concoction",
+  tracks: [
+    {
+      title: "The Scent of Memory",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "River Journey",
+  meta: "An agreement is sealed",
+  tracks: [
+    {
+      title: "Down by Yael",
+      spotify: "https://open.spotify.com/track/2R3YQtO6lB1glIl1CGdkZI?si=572e5acca93a4ab9",
+      youtube: "https://youtu.be/E8n1LtUz3dg?si=zf_bMF-xThAFaM4j",
+      image: "assets/songs/Marvae_river_photoQ.png",
+      date: "",
+      textPage: "downByYael",
+      note: "Trevor takes Marvae on a river outing to win her vote in the Senate. The question is: who is truly leading whom?"
+    }
+  ]
+},
+{
+  title: "Landing",
+  meta: "",
+  tracks: [
+    {
+      title: "Landing at Sirion",
+      spotify: "https://open.spotify.com/track/5J7EbfHGj7qdi0HaBmmvyz?si=fb26545691394d99",
+      youtube: "https://youtu.be/F7tc3EZt3qU?si=Q7WtcbG5TItygLrV",
+      image: "assets/songs/dummy.png",
+      date: "",
+      textPage: "landingAtSirion",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Iracu",
+  meta: "Keri is shown through the mine",
+  tracks: [
+    {
+      title: "Iracu",
+      spotify: "https://open.spotify.com/track/41M2ex92oaD2HkIOUCJalG?si=ef2d3e9bcdf54132",
+      youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI",
+      image: "assets/songs/Iracu.png",
+      date: "",
+      textPage: "iracu",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Belonging",
+  meta: "Keri takes in the beauty of the natural world",
+  tracks: [
+    {
+      title: "Nature Call",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "A Song for the Oars",
+  meta: "Sung to keep a common rhythm in the rowboat",
+  tracks: [
+    {
+      title: "The Fields of Byria",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "The journey by oar on the way to meet the dwarves calls for a work song. It turns out to come from the great mainland, from Byria — where women rule and men have largely been reduced to labor."
+    }
+  ]
+},
+{
+  title: "Training and Frustration",
+  meta: "Athina finds the ceiling too low",
+  tracks: [
+    {
+      title: "Lines That Do Not Show",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Temple Pause",
+  meta: "At Halea's temple",
+  tracks: [
+    {
+      title: "Hymn of the Open Hand",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Doubt",
+  meta: "A thoughtful Keri in the garden at Figgel",
+  tracks: [
+    {
+      title: "Balance",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Settlement",
+  meta: "An offer of relocation to Serenia",
+  tracks: [
+    {
+      title: "We Took the Offer (Serenia Settlers' Song)",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Mining",
+  meta: "A dwarven mine master has arrived and set people to work",
+  tracks: [
+    {
+      title: "Khaz Khur Razan (The Stone Knows the Way)",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Sowing",
+  meta: "Peoni hymn / work song for sowing",
+  tracks: [
+    {
+      title: "The Furrow Blessing",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Mythmaking",
+  meta: "A new land, new songs",
+  tracks: [
+    {
+      title: "The Ranger and the Dozen",
+      image: "assets/songs/Ranger.png",
+      date: "March 5, 2026",
+      textPage: "ranger",
+      spotify: "https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ",
+      youtube: "https://youtu.be/fKZXAZapR_4?list=OLAK5uy_lJyue_RGOInI-hjmo6JkTIuV3eJAM7878",
+      note: "The need to reduce the number of Gargun in the forests is obvious if people are to feel safe. A hunter who deals with a dozen on her own — that is the kind of thing myths are made from. Or mocked for, if it is only bragging."
+    }
+  ]
+},
+{
+  title: "Fortune of War?",
+  meta: "",
+  tracks: [
+    {
+      title: "Fallen King",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Preparations of Darkness",
+  meta: "Naveh hymn",
+  tracks: [
+    {
+      title: "Naveh – Lati",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Illuminated Night",
+  meta: "Interrupted sleep in Golotha",
+  tracks: [
+    {
+      title: "Firestorm",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Alone",
+  meta: "Raven is absent",
+  tracks: [
+    {
+      title: "Bridge of Doubt",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: "Keri is given a task that might finally put things behind them. It is work meant for Raven — but Raven does not take over."
+    }
+  ]
+},
+{
+  title: "The Unexpected",
+  meta: "",
+  tracks: [
+    {
+      title: "Light Upon the Water",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "Incitement",
+  meta: "Civil war is stirred in Coranan",
+  tracks: [
+    {
+      title: "Coranan Rising",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "War-joy",
+  meta: "Agrik hymn",
+  tracks: [
+    {
+      title: "Agrikan Hymn",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "<<< More to Come >>>",
+  meta: "Stub",
+  tracks: [
+    {
+      title: "",
+      image: "assets/songs/dummy.png",
+      date: "",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+},
+{
+  title: "National Anthem",
+  meta: `Traditional Irish melody: <i>Buachaill o'n Éirne Mé</i>.<br>Text inspired by W. Gordon Smith's <i>Come By The Hills</i> to the same tune (1967 or earlier).`,
+  tracks: [
+    {
+      title: "Serenia Anthem",
+      image: "assets/songs/dummy.png",
+      date: "",
+      status: "Not yet",
+      textPage: "",
+      spotify: "",
+      youtube: "",
+      note: ""
+    }
+  ]
+}
+
+
+
+
+]  
+
+
+
+    },
+    records: {
+      menuTitle: `"Serenia Records"`,
+      title: `Projects within "Serenia Records"`,
+      text: ` <b>Serenia</b>
+Music directly connected to the narrative world. Tone, theme, and expression carry the same weight as the story itself.
+
+────────────
+
+<b>Nattlorden</b>
+A space for what does not fit anywhere else.
+An alias with a long history, used for music without genre constraints — deliberately eclectic.
+
+────────────
+
+<b>Posthuman Cabaret</b>
+A more cohesive and stylistically defined project.
+Its framework is guided by a set of self-defined expressions:
+
+● Baroque Glam Cabaret
+● Neon Disco Aristocracy
+● Electro-Idol Rational Pop
+● Cyber Romantic Spectral Pop
+● Dark Futurist Desirewave
+
+────────────
+
+<b>Croonlius</b>
+A branch into jazz, big band, and blues.
+The name is a wordplay on the Swedish kronljus, representing a crooner and bandleader — with guest vocalists when needed.
+
+────────────
+
+<b>Khellendros</b>
+A project rooted in a long-standing connection to classic game music.
+Based on Alternate Reality and its unrealized themes, new material has been created in dialogue with what was never completed.
+Stylistically moving through synthpop, 80s aesthetics, and game-inspired sound.
+
+────────────
+
+<b>Threshold Canticle</b>
+A heavier conceptual work within metal.
+Focused on mythic structures — the forces and entities that hold the world in place, and what happens when they begin to shift.
+
+────────────
+
+<b>Freyja</b>
+Music that approaches Serenia in tone, but not in theme.
+Ancient, mythic, and nature-bound — with elements of witch spirituality.
+
+────────────
+
+<b>Echæon</b>
+A darker expression, in the vicinity of later Depeche Mode, goth rock, and darkwave.
+More direct, more urban, yet carrying the same underlying weight.`,
+      showPlaceholder: false
+    },
+
+    theSatinMoon: {
+      title: "The satin moon",
+      hidden: true,
+      image: {
+        src: "assets/songs/TheSatinMoon.png",
+        size: "small",
+        caption: "Dramond's <b>Sea Owl</b> onboard which they dine"
+      },
+      lyrics: `
+The satin shone like a fallen moon,
+its silver light across the room.
+A weary hand, a merchant’s smile,
+a deal was struck with practiced guile.
+He spoke of ports and distant seas,
+and promises like evening breeze.
+
+ Oh Keri, don’t look down that way,
+ the river keeps what hearts betray.
+ Oh Keri, tread where shadows bloom,
+ beware the man beneath the moon.
+
+A dinner set on polished oak,
+where scented wine and laughter spoke.
+He wore his charm like seasoned art,
+and weighed her eyes, and weighed her heart.
+A gift he brought, a silver chain,
+to bind her name in fleeting flame.
+
+ Oh Keri, don’t look down that way,
+ the river keeps what hearts betray.
+ Oh Keri, tread where shadows bloom,
+ beware the man beneath the moon.
+
+A door flew wide, the moment broke,
+a steel-born word was all she spoke.
+Her sister’s hand, the night’s release,
+the deck was cold, the river—peace.
+The ship still burned with scented wine,
+but she walked free beneath the sign.
+
+ Oh Keri, walk the narrow way,
+ where truth and danger twist and play.
+ Oh Keri, leave the silver bloom—
+ the river waits, the satin moon.
+  `,
+  showPlaceholder: false
+    },
+
+    galleyLado: {
+      title: "Galley Lado",
+      hidden: true,
+      image: {
+        src: "assets/songs/Galley Lado.png",
+        size: "small",
+        caption: "The constellation <b>Galley Lado</b> above Raven"
+      },
+      lyrics: `
+Galley Lado rows by night,
+over waters black as blight.
+Every soul shall find the way,
+to the port where shadows lay.
+
+ Lado, Lado, row us home,
+ far from Hârn’s unyielding stone.
+ Lado, Lado, guide our steer,
+ beyond all time, beyond all fear.
+
+Oars of silver, sails of bone,
+carry those who die alone.
+Through the mists no light can break,
+still your helm no storm can shake.
+
+ Lado, Lado, row us home,
+ far from Hârn’s unyielding stone.
+ Lado, Lado, guide our steer,
+ beyond all time, beyond all fear.
+
+Those who dream, and those who weep,
+find their peace within your keep.
+Tides of memory, winds of grace,
+bear them to the silent place.
+
+ Lado, Lado, row us home,
+ far from Hârn’s unyielding stone.
+ Lado, Lado, guide our steer,
+ beyond all time, beyond all fear.
+
+When the stars are drowned in foam,
+when the sea reclaims her own,
+Lado’s oar shall rise once more,
+calling souls from every shore.
+
+ Lado, Lado, row us home,
+ far from Hârn’s unyielding stone.
+ Lado, Lado, still we pray,
+ carry us from night to day.
+  `,
+  showPlaceholder: false
+    },
+
+    threeCoppersForAKiss: {
+      title: "Three coppers for a kiss",
+      hidden: true,
+      image: {
+        src: "assets/songs/Pubsong.png",
+        size: "small",
+        caption: "Habour pub entertainment in Golotha"
+      },
+      lyrics: `
+Three coppers for a kiss so sweet,
+six for dancing, nine for heat.
+But for a night in her embrace,
+you’ll sell your soul and lose the race!
+
+ Hey, hey! Toss your coins in glass,
+ let them ring and let them crash!
+ Hey, hey! Drink till blind,
+ she’ll steal your purse come morning tide!
+
+She smiles with eyes like stormy seas,
+she’ll promise love with practiced ease.
+You’ll pay her twice and beg for more,
+then wake up naked on the floor!
+
+ Hey, hey! Toss your coins in glass,
+ let them ring and let them crash!
+ Hey, hey! Drink till blind,
+ she’ll steal your purse come morning tide!
+
+A captain proud, a deckhand shy,
+each swears that he’s her only guy.
+But gold and vows both sink the same,
+and none remember who to blame!
+
+ Hey, hey! Toss your coins in glass,
+ let them ring and let them crash!
+ Hey, hey! Drink till blind,
+ she’ll steal your purse come morning tide!
+
+So raise your mug and curse her name,
+for every port’s the same old game.
+She’ll break your heart, then wink and grin—
+you’ll crawl ashore and start again!
+
+ Hey, hey! Toss your coins in glass,
+ let them ring and let them crash!
+ Hey, hey! Drink till blind,
+ she’ll steal your purse come morning tide!
+  `,
+  showPlaceholder: false
+    },
+
+    cloakAndMirror: {
+      title: "Cloak and mirror",
+      hidden: true,
+      lyrics: `
+Needle’s hymn in twilight’s hand,
+seam by seam, a shadow-band.
+Cloth that drinks the light and blood,
+”I stitch my courage, stitch my flood.”
+
+ Cloak of night, in midnight’s palm,
+ who wears whom — and whose the name?
+ Hush, my soul, be still and hear;
+ shadows breathe through thread and seam.
+
+Alleys, water, burning lungs,
+days are paced by iron tongues.
+Hands are scrubbed till skin will sting—
+needle comforts, needle sings.
+
+ Cloak of night, in midnight’s palm,
+ who wears whom — and whose the name?
+ Hush, my soul, be still and hear;
+ shadows breathe through thread and seam.
+
+Steel-made mirror, silver skin,
+eyes meet eyes — another within.
+Lips would speak, but breath turns thin—
+Shadow whispers: 
+”not yours - mine!”
+
+“If it is yours, then come and claim—”
+“I stood here first, before your name.”
+“This is my hand, my heart, my will—”
+“Your seam is my armor; your gaze, my still.”
+
+ Cloak of night, now lifts and bears,
+ these are my hands, my set of stairs.
+ Let the blanket drown the glass;
+ you may rest. I shall pass.
+
+”You may rest… I shall pass.
+...
+Keri rests… Raven pass.”
+  `,
+  showPlaceholder: false
+    },
+
+    herthAkan: {
+      title: "Herth-Akan",
+      hidden: true,
+      image: {
+        src: "assets/songs/Herth-Akan.png",
+        size: "small",
+        caption: "Raven after ended Herth-Akan"
+      },
+      lyrics: `
+Night beneath night, shadow below the stone,
+breath of the God no tongue has known.
+Mask of silence, seal of pain,
+Herth-Akan wakes again.
+
+<i>"One door, one vow, one breath to break —
+I walk where others turn away."</i>
+
+"Only one shall stand.
+Only one shall see.
+Blood for truth, and truth for night,
+Herth-Akahn, receive the key."
+
+Blind are we who watch from glass,
+our faith is still, our mercy past.
+The God remembers every name—
+and burns them clean  - eternal flame.
+
+He looks at me with mortal eyes,
+and dares to dream where mercy dies.
+
+<i>"Kiss me…"</i>
+Kiss me and win.
+
+"One falls, one breathes, one soul begins.
+Darkness drinks where daylight ends.
+Herth-Akan, your debt is paid—
+the shadow born, the child remade."
+
+One shall stand where all have knelt,
+upon the glass, the blood is felt.
+The mask will break, the voice remain,
+Herth-Akan, speak again.
+
+<i>Night beneath night, the door is drawn.
+One lives, one dies — the rite lives on.</i>"
+  `,
+  showPlaceholder: false
+    },
+
+    theBalladOfEltherion: {
+      title: "The Ballad of Eltherion",
+      hidden: true,
+        image: {
+        src: "assets/songs/Eltherion_anisha.png",
+        size: "small",
+        caption: "Eltherion at Anisha"
+      },
+      lyrics: `
+Eltherion, poor mourning youth,
+grief lay cold upon your truth.
+Your bride was lost ere vows were done,
+before the night of love begun.
+
+ Sing of Eltherion, sing his name,
+ his blade was hard, his heart aflame.
+ Sing of Eltherion, sing his pain,
+ he sang his soul to stone again.
+
+He hunted beasts of night and fear,
+death to all that lingered near.
+But vengeance never eased his cry,
+only frost and endless sky.
+
+He forged the swords, he forged the spears,
+walked alone through fading years—
+to Anisha’s ancient hall,
+where gates of stone received his call.
+
+ Sing of Eltherion, sing his name,
+ his blade was hard, his heart aflame.
+ Sing of Eltherion, sing his pain,
+ he sang his soul to stone again.
+
+So mourn his path, remember well,
+in stone no heart finds peace to dwell.
+A song of sorrow, song of flame,
+a broken heart, a broken name.
+  `,
+  showPlaceholder: false
+    },
+
+    theBattleOfArakaKalai: {
+      title: "The Battle of Araka-Kalai",
+      hidden: true,
+        image: {
+        src: "assets/songs/Battle wide.png",
+        size: "small",
+        caption: "EarthMasters against the children of Ilvir"
+      },
+      lyrics: `
+The ground was glass, the sky was torn,
+from Ilvir’s dreams the brood was born.
+They came as storm, as flesh, as flame,
+no tongue could speak the shapes they came.
+
+ Araka-Kalai, the world held breath,
+ life and form made war on death.
+ The Maker’s children, wild and free,
+ faced the masters lost beneath the sea.
+
+Through mirrored ranks and silver dust,
+the Earth-lords rose from ancient rust.
+Their swords were stars, their hearts were stone,
+their march a hymn of order’s throne.
+
+ Araka-Kalai, the world held breath,
+ life and form made war on death.
+ The Maker’s children, wild and free,
+ faced the masters lost beneath the sea.
+
+The Hru did roar, the pillars broke,
+the mountain wept beneath their stroke.
+One world of pulse, one world of code,
+collided on the broken road.
+
+ Araka-Kalai, the world held breath,
+ life and form made war on death.
+ The Maker’s children, wild and free,
+ faced the masters lost beneath the sea.
+
+And by the Pit a woman stood,
+her heart a storm, her gaze the flood.
+The Serpent whispered, “Wait and see—
+no God may choose what life shall be.”
+
+ Araka-Kalai, the world held breath,
+ life and form made war on death.
+ The Maker’s children, wild and free,
+ faced the masters lost beneath the sea.
+
+And by the Pit a woman stood,
+her heart a storm, her gaze the flood.
+The Serpent whispered, “Wait and see—
+no God may choose what life shall be.”
+
+ Araka-Kalai, the world held breath,
+ life and form made war on death.
+ The Maker’s children, wild and free,
+ faced the masters lost beneath the sea.
+
+The lights went out, the forges screamed,
+the perfect order cracked and dreamed.
+Ash and silence, still and wide,
+and Raven spread her wings beside.
+
+ Araka-Kalai, the world held breath,
+ life and form made peace through death.
+ The Maker’s children sleep below,
+ where dream and memory ever flow.
+
+...
+
+  `,
+  showPlaceholder: false
+    },
+
+    serenima: {
+      title: "Serenima",
+      hidden: true,
+        image: {
+        src: "assets/songs/Serenima.jpg",
+        size: "small",
+        caption: "Lady Serenima Dethale, Senator of the Thardic Republic, Magistrate of Shiran"
+      },
+      lyrics: `
+<i>A soldier asks to trade his vow,
+for softer chains than steel allow.
+Serve her then — but serve me more;
+a heart in debt is mine in war.</i>
+
+Command me, Lady, as you will.
+I’ll guard her path, though time stand still.
+
+<i>One chain unseen, one promise sworn,
+the loyal heart by beauty torn.
+
+Red pearls on my throat,
+white truth on your tongue.
+Tell me, soldier,
+how long till she sings your song?</i>
+
+Four blades fell before her stand,
+and two by my unworthy hand.
+<b>She lives. She fought. She fears no men—
+—but fears me still, through you, my friend.</b>
+
+<i>Eyes of command, lips of decree,
+he serves them both, and neither free.</i>
+
+<b>A leash of gold, a game begun,
+the faithful falter, the spider spun.
+Shall I keep you, bright one, near,
+till Halea’s week is here?</b>
+
+Her word was final—only him.
+I wear no collar 
+<i>Gold nor sin?
+
+Then keep your neck bared to the night;
+some chains are worn in sightless light.</i>
+
+<b>Two masters claim one vow;
+both smile, and both know how.
+Between them stands the man of steel,
+whose heart forgot what oaths conceal.</b>
+  `,
+  showPlaceholder: false
+    },
+
+    haleaCanticle: {
+      title: "Halea Canticle",
+      hidden: true,
+        image: {
+        src: "assets/songs/Raven and Kaerith.png",
+        size: "small",
+        caption: "Raven and Kaerith (PG13 version)"
+      },
+      lyrics: `
+Darkness embraces me,
+a velvet shade descending slow.
+Sacred shadows fall like silk,
+across the marble glow.
+
+Moonlight in her eyes,
+the only truth I know.
+Her breath is wine and promise,
+her will the law below.
+
+Satin hands command my skin,
+she loves me – still I love her more.
+In the dark divine of meeting,
+truth and cruelty make the war.
+
+Moonlight in her eyes,
+the only truth I know.
+Her breath is wine and promise,
+her will the law below.
+
+She bites my lip and leaves me,
+to kneel where silence burns.
+I dare not speak her name aloud—
+the heart remembers, and returns.
+
+Her scent still haunts the air,
+a ghost my soul will find.
+
+<i>Enter darkness – and call it divine.</i>
+  `,
+  showPlaceholder: false
+    },
+
+    erielLament: {
+      title: "Eriel Lament",
+      hidden: true,
+        image: {
+        src: "assets/songs/Eriel found.png",
+        size: "medium",
+        caption: "Eriel found"
+      },
+      lyrics: `
+Poor princess, young and fair,
+love once bright, now cold despair.
+A child you bore, yet could not keep,
+they took your joy, your heart to weep.
+
+They crowned another in your stead,
+while you lay cold on iron bed.
+An impostor wore your royal gown,
+and claimed your triumph as her own.
+
+ Oh Eriel, shadowed name,
+ another rose to take your fame.
+ Your crown was seized, your story chained,
+ yet blood remembers what remains.
+
+Your mother hid the child away,
+so light might see another day.
+The liar’s throne was built on lies,
+four short years, then silence dies.
+
+ Oh Eriel, shadowed name,
+ another rose to take your fame.
+ Your crown was seized, your story chained,
+ yet blood remembers what remains.
+
+Buried deep, the silver gleams,
+for daughter found in waking dreams.
+And when she claims what’s yours to keep,
+the earth shall stir, the stones shall weep.
+
+ Oh Eriel, shadowed name,
+ another rose to take your fame.
+ Your crown was seized, your story chained,
+ yet blood remembers what remains.
+  `,
+  showPlaceholder: false
+    },
+
+    hushNowLittleGirlOfMine: {
+      title: "Hush now, little girl of mine",
+      hidden: true,
+        image: {
+        src: "assets/songs/Redira_jester_real.png",
+        size: "small",
+        caption: "Redira the Jester with Athina as a little girl"
+      },
+      lyrics: `
+Hush now, little girl of mine,
+the moon keeps watch, the stars align.
+Tears will fade where night winds blow,
+silver bells will guide your soul.
+
+ Lift your eyes, my child, my soul,
+ your mother guards, she makes you whole.
+ Lift your heart, let sorrow go,
+ silver bells will guide you home.
+
+Little princess, the world may smile,
+but golden crowns grow heavy in a while.
+Forget not earth, forget not tree,
+your mother shall be queen, and so shall thee.
+
+ Lift your eyes, my child, my soul,
+ your mother reigns, she keeps you whole.
+ Lift your heart, remember your name,
+ silver bells will call you the same.
+
+Young woman, weave your thread,
+the sea remembers every word you’ve said.
+Sea-grass whispers, ink runs deep,
+wisdom wakes where dreamers sleep.
+
+ Lift your gaze, my child, my soul,
+ you row where only spirits go.
+ Lift your heart, let darkness see,
+ silver bells still sing for thee.
+
+Tears of ink, black as the night,
+write the words your hand would write.
+The storm is sleeping, the wind will grin,
+when you find your path within.
+
+ Lift your gaze, my child, my soul,
+ you row where none but you can go.
+ Lift your heart, let darkness show,
+ silver bells are ringing below.
+  `,
+  showPlaceholder: false
+    },
+
+    launchingOfTheSeaSerpent: {
+      title: "Launching of the Sea-Serpent",
+      hidden: true,
+         image: {
+        src: "assets/songs/Launching.png",
+        size: "small",
+        caption: "Ahead of the lauching of <b>The Sea-Serpent</b> at Aleath"
+      },
+      lyrics: `
+Hammer and rope, and the timbers sing,
+iron meets oak where the white gulls wing.
+Painted scales on her newborn side,
+sunlight gleams where the sea will bide.
+
+ Sail, Sea-Serpent, sail!
+ Down to the bright and boundless vale!
+ May Lado’s current guide your keel,
+ and Yael’s light your silver seal.
+
+Blessed hands on her hull have lain,
+whispered prayers to still the rain.
+Golden banners, the sun’s embrace,
+Aleath’s pride on the ocean’s face.
+
+ Sail, Sea-Serpent, sail!
+ Down to the bright and boundless vale!
+ May Lado’s current guide your keel,
+ and Yael’s light your silver seal.
+
+She casts a wreath where the waves begin,
+a silver button, her vow therein.
+“Take her gently, O mother sea,
+and let her wander safe and free.”
+
+ Sail, Sea-Serpent, sail!
+ Down to the deep where dreams prevail!
+ Carry our hearts beyond the foam,
+ and bring each sailor safely home.
+  `,
+  showPlaceholder: false
+    },
+
+    lighthouseLament: {
+      title: "Lighthouse lament",
+      hidden: true,
+      image: {
+        src: "assets/songs/Lighthouse.png",
+        size: "small",
+        caption: "The old lighthouse ruins"
+      },
+      lyrics: `
+Ancient.
+Lonely.
+Sadness only.
+Stone and salt and sleeping years.
+
+Moonlight carves the bones of walls,
+the sea still breathes, the wind still calls.
+
+Voices once,
+laughter lost.
+Echoes bloom 
+where names are frost.
+
+Who lit the flame, who watched it die?
+No one answers, only sky.
+
+Broken tower, hollow eye,
+watch the centuries drift by.
+Faith forgotten, mortar bled —
+the sea remembers every dead.
+
+Ancient.
+Lonely.
+Beauty only.
+All that’s left… still breathes.
+  `,
+  showPlaceholder: false
+    },
+
+    letTheMirrorRead: {
+      title: "Let the Mirror read",
+      hidden: true,
+      image: {
+        src: "assets/songs/Library_fixed.png",
+        size: "small",
+        caption: "The ancient library"
+      },
+      lyrics: `
+I was raised on vows and dust,
+on breath held tight in stone.
+I learned the weight of silence
+long before I learned your tone.
+
+You stacked your days between my bones,
+called it order, called it sense.
+But ink remembers every lie,
+and walls remember reverence.
+
+You think I sleep.
+I only wait.
+
+ Let the mirror read her slowly,
+ let it trace what will not hide.
+ Let it see the fault lines glowing
+ where the faithful broke and lied.
+
+ Let her read the mirror back,
+ not the words but what they cost—
+ what was written to be buried,
+ what was saved, and what was lost.
+
+You brought your laws and ledgers here,
+your careful, bloodless truths.
+You shelved them next to stars and gods
+and called them “equal use.”
+
+You reach for light like it’s a right,
+like it owes you warmth and grace.
+But light is earned by standing still
+and letting shadow know your face.
+
+I feel you breathe.
+You know my name.
+
+ Let the mirror read her slowly,
+ not her mask, but what she is.
+ Let it name the thing that watches
+ from behind her borrowed skin.
+
+ Let her read the mirror back,
+ read the silence, read the seam—
+ where the girl ends, where the raven waits,
+ and both refuse the dream.
+
+<i>I was never what they wrote me as.
+I was never only one.
+I learned to walk between the lines
+when the praying all was done.</i>
+
+If you are what remembers truth,
+then don’t look away from me.
+Read me like you read the dark—
+without the need to see.
+
+ Let the mirror read us slowly,
+ stone and shadow, book and breath.
+ Let it speak what still endures
+ between the holy and the theft.
+
+ Let us read each other clear,
+ no forgiveness, no disguise—
+ only what was built to last
+ when gods fall silent, and books have eyes.
+
+If she stays,
+I will remember
+why <i>I</i> was built.
+  `,
+  showPlaceholder: false
+    },
+
+    liberEtSpeculum: {
+      title: "Liber et Speculum",
+      hidden: true,
+      lyrics: `
+A cover worn, a name erased,
+it waited in the shadow’s place.
+Not gold, not crown, not bound by grace —
+a heartbeat hid in leather’s face.
+
+<i>Legas me cum nemo videt,
+umbra vocat, anima audit,
+legas me cum nemo videt.</i>
+Read me when no one sees —
+shadow calls, the soul replies.
+
+The lamp was small, the room was still,
+the words like water bent her will.
+“They say to know oneself is pain —
+to learn, you lose what walls remain.”
+
+<i>Lampa modis, silentum locus,
+verba fluunt sicut focus,
+legas me cum nemo videt.</i>
+Lamp of measure, silence dwelling —
+the pages' word - akin to fire.
+
+Each page a voice she could not own,
+each line a mask, a borrowed tone.
+“Who learns desire shall lead the game;
+who learns her own shall bear the flame.”
+
+<i>Qui scit cupit, regere fit,
+Qui scit se, ardere sit,
+legas me cum nemo videt.</i>
+He who knows desire shall rule,
+she who knows herself shall burn.
+
+The oil burned low, the mirror spoke,
+two faces met and one awoke.
+Keri’s eyes, her own, entwined —
+a stranger born of shade and mind.
+
+<i>Oleum cadit, speculum spirat,
+duae facies, una mirat,
+legis me — nunc lego te.</i>
+The oil falls, the mirror breathes,
+two faces — now one sees,
+you read me — now I read you.
+
+She shut the book, her breath was cold,
+the warning rune no longer told.
+The silence watched, the shadows stirred —
+and still she heard the whispered word.
+
+<i>Liber clausus, manus tremit,
+runa ardet, vox remittit,
+legas me cum nemo videt,
+legas me cum <b>nemi</b> videt,
+legas me cum nemo videt.</i>`,
+  showPlaceholder: false
+    },
+
+/* (Note:  _NOT_ intended to be proper Latin - intended to be the equivalent in the fantasy setting for the project)
+
+(Nemo = no one. Nemi = the unseen )*/
+
+    whereTheVeilGrowsThin: {
+      title: "Where the veil grows thin",
+      hidden: true,
+      image: {
+        src: "assets/songs/Night of kindled steps.png",
+        size: "small",
+        caption: "Villa Eriel at winter solstic"
+      },
+      lyrics: `
+Winter laid her hand on stone,
+and the night drew close like bone.
+Candles rose in trembling lines,
+little sparks of mortal signs.
+
+ Where the veil grows thin,
+ and the wind draws in,
+ we walk with shadows not our own—
+ yet none of us walk alone.
+
+Mulled wine warming frozen hands,
+new bread shared in quiet strands.
+Woodsmoke curling, sweet and deep,
+guarding those who could not sleep.
+
+ Where the veil grows thin,
+ and the wind draws in,
+ we walk with shadows not our own—
+ yet none of us walk alone.
+
+Voices low in memory’s drift,
+names we lost and cannot lift.
+Still they answer, soft and near,
+in the silence mortals fear.
+
+ Where the veil grows thin,
+ and the wind draws in,
+ we walk with shadows not our own—
+ yet none of us walk alone.
+
+Hold your flame against the frost,
+for no step is ever lost.
+In the hush where winters live,
+night takes less than it can give.
+
+And none of us walk alone.
+  `,
+  showPlaceholder: false
+    },
+
+    theManWhoWoreHerGreen: {
+      title: "The man who wore Her green",
+      hidden: true,
+      image: {
+        src: "assets/songs/Aleath joust.png",
+        size: "small",
+        caption: "Joust at Aleath"
+      },
+      lyrics: `
+Morning light on Aleath’s stones,
+silk and steel and tightened bones.
+She stood straight in corset’s line,
+fire in her hair and gloves like night.
+
+Down below the lists would roar,
+lances splinter, banners soar.
+On the stand a lady seen —
+and a stranger swore to wear her green.
+
+ Blow, trumpets, blow on Aleath’s field,
+ for the man who wore her green.
+ No horse, no shield, just a soldier’s steel,
+ and a bow to his lady, not his king.
+ Dust in the sun and the crowd between,
+ but his eyes found hers through everything —
+ blow, trumpets, blow for Aleath’s pride,
+ and the man who wore her green.
+
+Names were called by ink and quill,
+lords with crests on every hill.
+Then he stepped up, lone and plain,
+just a sword and a borrowed name.
+
+“Under whose fair colours fight?”
+Rang the voice in morning light.
+“Under Lady Keri’s sign,”
+and the whisper climbed the stands in kind.
+
+ Blow, trumpets, blow on Aleath’s field,
+ for the man who wore her green.
+ No horse, no shield, just a soldier’s steel,
+ and a bow to his lady, not his king.
+ Dust in the sun and the crowd between,
+ but his eyes found hers through everything —
+ blow, trumpets, blow for Aleath’s pride,
+ and the man who wore her green.
+
+First came steel from Kanday’s line,
+white-crossed shield and practiced shine.
+He stepped light, let anger swing,
+found the gap beneath the ring.
+
+Second came with limping pride,
+favor bright on armored side.
+“Guard your left,” her ribbon tied —
+so he drove the weakness out to light.
+
+ Blow, trumpets, blow on Aleath’s field,
+ for the man who wore her green.
+ No horse, no shield, just a soldier’s steel,
+ and a bow to his lady, not his king.
+ Dust in the sun and the crowd between,
+ but his eyes found hers through everything —
+ blow, trumpets, blow for Aleath’s pride,
+ and the man who wore her green.
+
+Up on the stand in her gown of shade,
+whispers curled around the game she played.
+Not just cloth and clever seam —
+it was line and colour, mark and scheme.
+
+Down in the sand with his lungs on fire,
+he held that ribbon like a quiet choir.
+Every cut and every turn
+said: I am hers, and I have learned.
+
+When the final blade was stilled,
+cheering rolled like thunder filled.
+Laurel, oak and honor’s crown
+found his hand and weighed it down.
+
+Step by step through noble rows,
+up the stair where velvet flows.
+He did not keep that living ring —
+laid it in her hands as everything.
+
+ Blow, trumpets, blow on Aleath’s field,
+ for the man who wore her green.
+ No horse, no shield, just a soldier’s steel,
+ and a bow to his lady, not his king.
+ Crowds may forget how the day was seen,
+ but Aleath will whisper what it’s been —
+ how the trumpets sang and the stands leaned keen
+ for the green-clad lady…
+ and the man who wore her green.`,
+  showPlaceholder: false
+    },
+
+    satarielleAndTheTableOfFate: {
+      title: "Satarielle and the Table of Fate",
+      hidden: true,
+      image: {
+        src: "assets/songs/Satarielle.jpg",
+        size: "small",
+        caption: "Satarielle at the Table of Fate"
+      },
+      lyrics: `
+A pulse within the labradorite,
+the sea turned over, green with light.
+Amber eyes along the rim,
+open one by one within.
+
+Aleath called — the stone replied,
+two hearts beating side by side.
+Call the one who walks in shade,
+call Satarielle, unafraid.
+
+She moves like silence wearing skin,
+black upon black, the shadow within.
+Marks like roots upon her arms,
+ink that breathes and coils, and charms.
+
+Blades of thought, threads of sin,
+the table waits — she steps within.
+
+Two sources burn, too near, too close,
+one of men, and one of ghosts.
+An object lost, a Magus flame,
+a serpent coiled in God’s own name.
+
+Ilvir sees, Nahveh smiles,
+Haleah dances, Larani trials.
+Four gods watch, the fifth unknown —
+the weave is moving, never sewn.
+
+She draws her hand, the light grows thin,
+but still the pulse remains within.
+Not a spark, but a living thread,
+the dead are dreaming what lies ahead.
+
+Stone remember, flesh obey,
+the fate you read will never stay.
+Cherafir breathes beneath the floor —
+Satarielle shall read once more.
+  `,
+  showPlaceholder: false
+    },
+
+    whatTheTideToldMe: {
+      title: "What the tide told me",
+      hidden: true,
+      lyrics: `
+They say the tide keeps secrets
+longer than any priest or lord.
+But now and then, when the moon is low
+and the gulls have all gone silent,
+the water murmurs truths it cannot hold.
+
+It spoke of crimson shadows—
+of dancers no blade had ever stopped.
+And it spoke of one lone stranger,
+wrapped in green and storm and light,
+who walked the quay that night…
+and left the dancers dropped.
+
+So gather close and listen,
+for this is what the tide let slip—
+a tale of fear and splintered steel,
+and the Lady green as winter seas
+who broke their crimson grip.
+
+ Crimson dancers, moving soundless,
+ blades that ruled the midnight air—
+ yet whispers tell of one who faced them,
+ green as stormlight, standing there.
+ No one saw the turning moment,
+ only heard the clash and cry—
+ how the crimson veil was broken
+ when the Green Lady walked by.
+
+ Crimson dancers, feared and fabled,
+ met a force they could not read:
+ light and thunder split around her,
+ as if bowing to her lead.
+ Harbor stones still hold the echo,
+ salt remembers what befell:
+ the Green Lady - calm and silent,
+ watched the crimson legend fell.
+
+ Crimson dancers, blood and shadow,
+ famed for never losing ground—
+ but the night she drew her steel,
+ was the night they were unbound.
+ Sing it low in crowded taverns,
+ sing it high on open sea:
+ Crimson dancers met their ending—
+ and the Green Lady walked free.
+  `,
+  showPlaceholder: false
+    },
+
+    songOfSweetGolotha: {
+      title: "Song of sweet Golotha",
+      hidden: true,
+      image: {
+        src: "assets/songs/GolothaDark2.png",
+        size: "medium",
+        caption: "Golotha"
+      },
+      lyrics: `
+Oh, praise to the walls of Golotha the grey,
+that stare down the sea when the storms have their say.
+They shoulder the winter, they laugh at the tide,
+no wave and no wind can tear open her side.
+
+Golotha —
+proud on your cliff of stone.
+Golotha —
+you stand like a queen on a throne.
+Golotha —
+but the walls that face the foam
+keep the poor folk in and the lords at home.
+
+Oh, praise to the fish on Golotha’s wet quay,
+so silver, so fresh, and so cheap as can be.
+There’s herring and hake, there’s eel by the yard,
+if your purse isn’t empty, you’ll never starve hard.
+
+Golotha —
+salt on your tongue, so sweet.
+Golotha —
+best catch where the tides all meet.
+Golotha —
+but the guts run red in the rain,
+and the kids lick bones just to kill the pain.
+
+Oh, praise to the furs in Golotha for sale,
+soft as a prayer, rich as a priest’s ale.
+Fox, ermine and sable, lined deep against cold,
+they’ll dress any merchant and make him look bold.
+
+Golotha —
+warm in your winter skin.
+Golotha —
+so fine where the snows blow in.
+Golotha —
+but the pelts still stink of fear,
+and the poor freeze bare for your solemn gear.
+
+Oh, praise to the trade in Golotha’s foul air,
+where sea meets the river and roads everywhere.
+Tall ships from the east, lean barges from Thard,
+if there’s coin on the table, no deal is too hard.
+
+Golotha —
+gold in your crooked veins.
+Golotha —
+you drink other cities’ pains.
+Golotha —
+every dock and road and gate
+sells a child, a prayer, or a rival’s fate.
+
+Oh, praise to the games in Golotha’s loud ring,
+where the crowd gets drunk and the nobles sing.
+There’s wine, there’s meat, there’s a lady’s smile,
+and the beasts die slow to fill up the aisle.
+
+Golotha —
+cheers in the blood-red sand.
+Golotha —
+steel in a stranger’s hand.
+Golotha —
+rape and murder sold as cheer,
+you call it sport, we call it fear.
+
+In Golotha, the king has no say!
+In Golotha, he’s glad to stay away.
+In Golotha, the priests pour wine!
+In Golotha, they drink your spine.
+In Golotha, the markets shine!
+In Golotha, your soul’s the fine.
+In Golotha, the nights are long!
+In Golotha, right dies young and wrong grows strong.
+
+Golotha —
+foul is your reeking breath.
+Golotha —
+you make your tithe to death.
+Golotha —
+rotting heart in a velvet kit,
+Golotha —
+you beautiful, cursed piece of shit.
+
+And curse your streets with thieves for kings,
+your gutters choking on forgotten things.
+Your alleys bite, your shadows rot,
+you break every heart you never forgot—
+
+…but you're still my home.
+
+  `,
+  showPlaceholder: false
+    },
+
+    theMiracleMansSong: {
+      title: "The Miracle Man's song",
+      hidden: true,
+      image: {
+        src: "assets/songs/Miracle mans wagon.png",
+        size: "small",
+        caption: "Aylyn's wagon"
+      },
+      lyrics: `
+Come gather round, good folk and friends,
+your aches and troubles all have ends!
+For I have bottles, bright and fine,
+with <i>Angel’s tears</i> and <i>Serpent’s wine</i>!
+
+ Roll the wagon, ring the bell,
+ miracles buy and lies we sell!
+ Laugh, my friends, and lift your glass —
+ hope’s a coin and dreams shall pass!
+
+Here’s <i>Octopus Eggs</i> — a sea-born brew,
+protects your soul and paints it blue.
+One drop will make your spirit strong,
+or kill you quick — it won’t take long!
+
+ Roll the wagon, ring the bell,
+ miracles buy and lies we sell!
+ Laugh, my friends, and lift your glass —
+ hope’s a coin and dreams shall pass!
+
+Here’s <i>Serpent’s Blood</i> for love and cheer,
+it works on fools and those sincere.
+Drink once, you’ll see your true desire —
+drink twice, you’ll set your house on fire!
+
+ Roll the wagon, ring the bell,
+ miracles buy and lies we sell!
+ Laugh, my friends, and lift your glass —
+ hope’s a coin and dreams shall pass!
+
+Now Joreth frowns, he guards the door,
+he thinks I’ll damn us, rich and poor.
+But what’s a sin when coins are gold?
+A tale retold is twice as sold!
+
+ Roll the wagon, ring the bell,
+ miracles buy and lies we sell!
+ Laugh, my friends, and lift your glass —
+ hope’s a coin and dreams shall pass!
+
+So drink to fools, and saints, and lies,
+to merchant kings and beggar’s eyes.
+For all who live must sell or pray,
+and both need hope to earn their pay.
+
+ Roll the wagon, ring the bell,
+ miracles buy and lies we sell!
+ Laugh, my friends, the night won’t last —
+ dreams are gold when truth’s gone past! `,
+  showPlaceholder: false
+    },
+
+    byTheAncientStone: {
+      title: "By the ancient stone",
+      hidden: true,
+      lyrics: `
+By the ancient stone I stand,
+names long lost to time and sand.
+Many fell and many rose,
+still the stone remembers those.
+
+ Sing for those who never came,
+ sing for those who went away.
+ The stone keeps watch, the years recall,
+ so long as the song shall play.
+
+Grass has grown where voices fade,
+wind repeats what hearts once made.
+Someone laughed and someone cried,
+nothing lost, though all have died.
+
+ Sing for those who never came,
+ sing for those who went away.
+ The stone keeps watch, the years recall,
+ so long as the song shall play.
+
+Oak leans low, the moss has grown,
+over marks the hand has shown.
+No one knows whose heart or hand,
+carved the runes that still withstand.
+
+ Sing for those who never came,
+ sing for those who went away.
+ The stone keeps watch, the years recall,
+ so long as the song shall play.
+
+When my voice has turned to rest,
+carry still the song’s request.
+Lay my hand where names have lain,
+and let my silence sing again.
+
+ Sing for those who never came,
+ sing for those who went away.
+ The stone keeps watch, the years recall,
+ so long as the song shall play.`,
+  showPlaceholder: false
+    },
+
+    downByYael: {
+      title: "Down by Yeal",
+      hidden: true,
+      image: {
+        src: "assets/songs/Marvae_river_photoQ.png",
+        size: "small",
+        caption: "Marvae on a boat in the light of Yael"
+      },
+      lyrics: `
+Wine in the glass and the Gods at the gate,
+words like silk and the evening late.
+She speaks of freedom, he speaks of will,
+the river waits, the heart stands still.
+
+Laughter soft as a blade through lace,
+truth in the turn of a senator’s face.
+He hides intent in a poet’s tone,
+she answers sweetly, and cuts to bone.
+
+ Float, Yael, under lantern’s flame,
+ carry their vows without a name.
+ Two voices joined, then drift apart,
+ the water keeps what left their heart.
+
+Her hand on his, a spark, a dare,
+truth disguised as temple air.
+He thought to lead, she drew the line —
+the hunter caught in his own design.
+
+Lanterns fade and the night breathes deep,
+promises wake where the faithful sleep.
+One glance of grace, one borrowed sin —
+the river turns, and draws them in.
+
+ Float, Yael, under lantern’s flame,
+ carry their vows without a name.
+ Two voices joined, then drift apart,
+ the water keeps what left their heart.
+
+The bed is warm, the glass is dry,
+her scent still speaks where words deny.
+
+ Float, Yael, through the city’s light,
+ cradle their secret out of sight.
+ The glass is cold, the dream is done
+ — dawn will comfort only one. 
+  `,
+  showPlaceholder: false
+    },
+
+    landingAtSirion: {
+      title: "Landing at Sirion",
+      hidden: true,
+      lyrics: `
+Hey ho — we row,
+to far Sirion we go.
+Let’s storm the fort,
+keep battle short,
+make ready sword and bow.
+
+ Raise shields and strike the bay,
+ for glory lights our way.
+ Steel in the tide,
+ men at our side —
+ we’ll carve our names today.
+
+They made no stand,
+a foul robber’s band.
+Just death in store
+here on the shore
+as they fell beneath our hand.
+
+ Raise shields, though none give sway,
+ the foe just ran away.
+ No clash of ranks,
+ no honoured thanks —
+ yet still we sing the day.
+
+There was no fight
+against our trained might.
+We came to win,
+cut out their sin —
+it was done before the night.
+
+ Raise shields, though truth gives way,
+ there’s little pride to pay.
+ The dead lie lone,
+ no glory shown —
+ but still we march today.
+
+A man of theft
+on horseback left,
+a robber’s chest
+tight to his breast —
+the last of scum bereft.
+
+Beyond the hill,
+a sudden kill —
+when Ilvir’s Hru
+the bandit slew.
+
+ Raise shields — though shadows say
+ that honour slipped away.
+ No songs of might,
+ no righteous fight —
+ no honour gained on this day.
+
+We claimed the chest,
+as law requests.
+No hero’s prize,
+no gleaming rise —
+just duty at its best.
+
+ Raise shields… though none obey.
+ The sea took more than pay.
+ Steel stayed unstained,
+ just sorrow gained —
+ no honour gained on this day.
+  `,
+  showPlaceholder: false
+    },
+
+    iracu: {
+      title: "Iracu",
+      hidden: true,
+      image: {
+        src: "assets/songs/Iracu.png",
+        size: "medium",
+        caption: "Fenralf guiding Keri through Iracu"
+      },
+      lyrics: `
+He jumped from the roof like the stone knew his name,
+dust on his sleeves, but his feet had no weight.
+“Walk with me, daughter of two divided skies,
+time is a rumor here, only the mountain decides.”
+
+We stepped through the door and the daylight broke off,
+sound became pressure, the silence grew soft.
+Tunnels like memories folded in rings,
+iron-veined arches and long-forgotten kings.
+
+ Stone remembers, stone does not lie,
+ under the mountain you learn to see.
+ What you have been and what you might be,
+ in the memory of Iracu.
+
+Water fell down in silver-threaded veils,
+bridges that never should carry the frail.
+Runes in the walls like roots in the bone,
+stories that woke when he spoke to the stone.
+
+Sometimes he walked as a rag-wearing shade,
+sometimes a prince in a dwarven-made raiment.
+I did not flinch when his years fell away –
+down here such changes are simple as rain.
+
+ Stone remembers, stone does not lie,
+ under the mountain you learn to see.
+ What you have been and what you might be,
+ in the memory of Iracu.
+
+A forest of mirrors grew out of the dark,
+no torch, no flame, but a cold inner spark.
+Faces I was, could be, should have been,
+hung in the black like unfinished scenes.
+
+Walls slowly narrowed, the air became hand,
+pressing my heartbeat back to the land.
+“Here it is simple,” his voice without place,
+“stone hides nothing – it only holds truth in its face.”
+
+ Stone remembers, stone does not lie,
+ under the mountain you learn to see.
+ What you have been and what you must be,
+ in the memory of Iracu.
+
+Daughter of two worlds, lay down your fear,
+lapis meminit, I hold you here.
+All that you carry, all that you flee,
+here in the dark, now you will see.
+
+ Stone remembers, and so do you,
+ Stone remembers, the hand on your eyes has made you true.
+ When you walk out in the falling snow,
+ Iracu walks with you where you go.
+  `,
+  showPlaceholder: false
+    },
+
+    vintervaven: {
+      title: "Vintervävens Ljus",
+      hidden: true,
+      lyrics: `
+Snön föll tyst mot vägens sten,
+nattens luft var kall och ren.
+Lärlingar kom med lågor små,
+som stjärnor födda av deras vrå.
+
+ Och ljusen bar vi, ett efter ett,
+ genom mörkret som aldrig helt släckt.
+ I vinterns väv där skuggor bor,
+ går andars steg så nära i jord.
+
+Doft av kryddor, varmt och sött,
+vinkruset glimmar djupt och rött.
+Ett bröd som nyss tog form i ugn
+delas tyst — som nattens lugn.
+
+ Och ljusen bar vi, ett efter ett,
+ genom mörkret som aldrig helt släckt.
+ I vinterns väv där skuggor bor,
+ går andars steg så nära i jord.
+
+Vi sjöng om minnen, sjöng om tröst,
+om dem som gick men bor i röst.
+Och vinden svarade mjukt som snö,
+i tonfall ingen människa gör.
+
+ Och ljusen bar vi, ett efter ett,
+ genom mörkret som aldrig helt släckt.
+ I vinterns väv där skuggor bor,
+ går andars steg så nära i jord.
+
+Så håll din låga stilla kvar,
+för natten minns var hjärtan var.
+Och mellan världar, tunn som is,
+står någon tyst och vakar vis.
+
+ Och ljusen bar vi, ett efter ett,
+ genom mörkret som aldrig helt släckt.
+ När väven öppnas, när allt blir stort —
+ då går de med oss hem från port.
+  `,
+  showPlaceholder: false
+    },
+
+    kindledSteps: {
+      title: "Night of kindled steps",
+      hidden: true,
+      lyrics: `
+Cold on the stones lies the winter night,
+soft is the breath of the candlelight.
+Young hands carry the flames ahead,
+guiding the path where the old year bled.
+
+ Step by step, the shadows sway,
+ between the worlds we walk this way.
+ Kindled lights in a drifting line,
+ call to the ones who cross the spine.
+
+Wine on the air, warm spice and smoke,
+bread from the oven, still whisper-soaked.
+Voices hush as the lamps grow thin,
+for winter listens from deep within.
+
+ Step by step, the night grows near,
+ every flame a tethered prayer.
+ Kindled lights where the cold winds roam,
+ calling the wandering spirits home.
+
+Lanterns tremble, but none go out,
+names of the lost are breathed without shout.
+Footfalls echo on frost-veiled ground,
+as unseen steps move all around.
+
+ Step by step, our breaths align,
+ with those returning down the spine.
+ Kindled lights as the veil grows thin,
+ mark where the silent ones walk in.
+
+Hold the flame — the night is listening.
+Hold the flame — the dark is glistening.
+Hold the flame — for all who roam.
+Hold the flame — and guide them home.
+
+ Step by step in a circling line,
+ past and present intertwine.
+ Kindled lights through the longest night—
+ and none walk alone in the turning light.
+
+  `,
+  showPlaceholder: false
+    },
+
+    twoFaces: {
+      title: "Two faces of the same flame",
+      hidden: true,
+      lyrics: `
+I walk in daylight, measured step,
+a blade held still beneath my breath.
+I weigh the cost of every choice,
+and keep the steel inside my voice.
+
+I build my walls with steady hands,
+I chart my course through broken lands.
+But still I feel a shadow lean —
+the echo of what I have been.
+
+(I am the night you hide behind,
+the hunger you refuse to name.
+I am the truth beneath your spine,
+the one who bleeds but feels no shame.)
+
+(You walk the lines you think you choose,
+I walk the paths you dare not use.
+Two steps behind you, always near,
+a darker heart that beats in fear — and fire.)
+
+ Two faces of the same flame,
+ one whisper soft, one calling your name.
+ Two hearts in a single chest,
+ one finds peace, one won’t rest.
+
+ Mirror bright in a world undone,
+ shadow-bound but never alone —
+ two faces, one burning soul,
+ Keri… Raven… both in control.
+
+I carry duty like a crown,
+I hold my grief and never drown.
+But sometimes in the silent hours,
+your voice grows sharp, your courage louder.
+
+You push me where I will not go,
+to truths I fear but need to know.
+And though your fire scorches mine,
+I rise again — our fates entwined.
+
+(I am the blade you turn aside,
+the reckless will you try to bind.
+But every time your courage breaks,
+I am the breath your spirit takes.)
+
+(I am your fury when you fall,
+the stronger voice beneath it all.
+You call me darkness, but I’ve grown —
+I am the part that makes you whole.)
+
+ Two faces of the same flame,
+ one whisper soft, one calling your name.
+ Two hearts in a single chest,
+ one fights calm, one fights blessed.
+
+ Mirror bright in a world undone,
+ shadow-bound but never alone —
+ two faces, one burning soul,
+ Keri… Raven… 
+
+And in the turning of the night,
+when fear and longing share the light —
+I see the truth beneath the skin:
+you are me and I am in
+
+every choice and every breath,
+every wound and every death.
+Shadow, mind, and flame agreed —
+we walk as one when one must lead.
+
+ Two faces of the same flame,
+ neither wrong and neither to blame.
+ Morning comes and the mirror’s whole—
+ Keri… Raven… one single soul.
+  `,
+  showPlaceholder: false
+    },
+
+    theDarkYou: {
+      title: "I wear the Dark You",
+      hidden: true,
+      lyrics: `
+You walk in daylight,
+pretending not to hear me.
+Every choice you make
+bleeds through my hands first.
+
+You call me shadow —
+as if you were ever brighter.
+You call me danger —
+as if I haven’t kept you safe.
+
+I burn the fears
+you don’t dare name.
+I bear the wounds
+you pretend were fate.
+
+You think you lead,
+but I take the steps you won’t.
+You hold the blade —
+but I choose where it strikes.
+
+ I wear the dark you hide,
+ I walk the path you fear.
+ You breathe because I bleed,
+ you stand because I fall.
+
+ Call me monster,
+ call me sin —
+ but when the night comes
+ you wear my skin.
+
+You love your mirrors —
+all angles, all poise.
+But I am the mirror
+your only choice.
+
+I know the hungers
+you whisper away.
+I am the truth
+you blame on nightmares.
+
+When you pretend to be whole,
+I laugh.
+When you pretend not to want,
+I ache.
+
+You move like fire in a cage,
+and still you ask me
+why I roar.
+
+ I wear the dark you hide,
+ I walk the path you fear.
+ You breathe because I bleed,
+ you stand because I fall.
+
+ Call me danger,
+ call me wrong —
+ but all your strength
+ was mine all along.
+
+You feel me
+when your breath stops.
+You hear me
+when your walls break.
+You fear me —
+but your fear
+is the last thing
+that still lives.
+
+ I wear the dark you hide,
+ and still you call me other.
+ But you will learn —
+ there is no “you” without me.
+
+Shadow sister,
+mirror twin —
+when night opens,
+you walk in my skin.
+
+ I wear the dark you hide,
+ I walk the path you fear.
+ You breathe because I bleed,
+ you stand because I fall.
+
+ Call me danger,
+ call me wrong —
+ but all your strength
+ was mine all along.
+
+ Call me danger,
+ call me wrong —
+ but all your strength
+ was mine all along.
+
+ Call me danger,
+ call me wrong —
+ but all your strength
+ was mine all along.
+  `,
+  showPlaceholder: false
+    },
+
+    ranger: {
+      title: "The Ranger and the Dozen",
+      hidden: true,
+      lyrics: `
+When he first went out a-hunting
+He was scarcely seventeen,
+Saw one Gargun in the bracken —
+Turned the color of sour cream.
+
+But he loosed one trembling arrow,
+Prayed it flew the proper way —
+When the bushes stopped their shouting
+There were three more dead that day.
+
+ Hey now — count them in the heather!
+ One and two and three and four!
+ If you spot him near the treeline
+ You’ll not fear the woods no more!
+
+ Hey now — buckle up the leather!
+ Let the drum and tankard run!
+ Started shaking at a single —
+ Ended laughing at a dozen!
+
+Now he walks the ridge at sunrise
+With a Gargun-hide for belt,
+Says it’s softer than it looks —
+(Though it smells like something else.)
+
+He has boots stitched from their fingers,
+And a drinking cup of bone —
+Says it keeps the ale from souring
+(But he drinks it all alone.)
+
+ Hey now — count them in the heather!
+ One and two and three and four!
+ If you spot him near the treeline
+ You’ll not fear the woods no more!
+
+ Hey now — buckle up the leather!
+ Let the drum and tankard run!
+ Started shaking at a single —
+ Ended laughing at a dozen!
+
+When he’s near, the widows gather,
+“Just for safety,” so they claim —
+Bring him bread and bring him butter,
+Call him brave and call his name.
+
+He just nods and eats in silence,
+Counts his arrows, sharp and straight —
+If you ask him what he’s thinking
+He’ll say, “Wind. And spoor. And weight.”
+
+[laughter]
+
+First it’s one behind a birch tree.
+Then it’s three along a run.
+Then you blink and count again —
+And you’ve somehow killed a dozen.
+
+Well, one bold lass from lower market
+Said, “I’ll warm that hunter’s den.”
+Took a basket, took her courage,
+Knocked at dusk and entered in.
+
+The Ranger smiled — a fearsome honor —
+Set a pot upon the flame:
+“Sit ye down, I’ve stew a-brewing,
+Best you’ve ever tasted, dame.”
+
+She took a bite… grew pale and thoughtful…
+“Game?” she asked, with hopeful grin.
+He just winked and tapped the kettle —
+“Gargun. Tender. Let’s begin.”
+
+ Hey now — count them in the heather!
+ One and two and three and four!
+ If you sup with Seren’s Ranger
+ Lock your pantry, bar the door!
+
+ Hey now — drink and laugh together!
+ Let the tavern rafters ring!
+ He makes belts and cups and stew pots —
+ Out of nearly anything!,
+  showPlaceholder: false
+  `
+    },
+
+
+
+    whoAreWe: {
+      title: "Who are we?",
+      hidden: true,
+      lyrics: `
+Who am I… when no one’s there to see?
+A shadow in a borrowed symmetry…
+
+Who are you… when silence strips the lie?
+A fracture in the glass you hide behind…
+
+I built a name from fragile bones
+A voice that never felt like home
+
+You stitched a mask with careful hands
+Then called it truth so they’d understand
+
+I did what I had to do to survive
+
+You did what you had to—just not to be alive
+
+If I peel back every layer…
+
+Will there be anything there?
+
+Or just echoes in the air…
+
+Who am I?
+Who are you?
+Who are we when we split in two?
+
+Are we truth?
+Are we lies?
+Are we just two alibis?
+
+I don’t know where I end—
+
+Or where you begin—
+
+Tell me who we are within
+
+I am the voice you bury deep
+The restless pulse you never keep
+
+You’re just the doubt I can’t erase
+A ghost that wears my face
+
+No—I’m the truth you locked away
+
+Then why won’t you just fade?!
+
+Every crack is getting clearer
+
+Every step—you pull me nearer
+
+To the edge of who we are…
+
+Who am I?
+Who are you?
+Who are we when we split in two?
+
+Are we whole?
+Are we torn?
+Are we something never born?
+
+I feel you under my skin—
+
+I’ve always been within—
+
+There’s no line to hold us in
+
+If I lose control—
+
+You were never in control
+
+If I let you stay—
+
+I was never far away
+
+I am you / You are me
+Set me free / Let me be
+
+Say it—
+Say it—
+
+…who are we?
+
+We are one
+We are two
+We are everything we knew
+
+We are cracks
+We are seams
+We are more than what we seem
+
+I was never just your fear
+
+I was never truly here
+
+We are finally…
+…clear
+
+Who am I…
+Who are you…
+Who are we…
+  `,
+  showPlaceholder: false
+    }
+
+
+
+
+
+
+  },
+
+  
+
+  gallery: {
+    overview: {
+      menuTitle: "Overview",
+      title: "Gallery",
+      text: "Covers, character portraits, environment art and other concept imagery will be shown here."
+    },
+    portraits: {
+      menuTitle: "Character portraits",
+      title: "Character portraits",
+      text: "Images of Keri, Raven and other central figures will be gathered here."
+    },
+    places: {
+      menuTitle: "Environments & places",
+      title: "Environments & places",
+      text: "Cities, roads, rooms, houses, harbors and landscapes will take visual shape here."
+    }
+  },
+
+  project: {
+    overview: {
+      menuTitle: "Overview",
+      title: "Project",
+      text: `Serenia is a cohesive project in which novel, music, and visual form are developed in parallel.
+
+The story of Keri and Raven forms its core, while the music and visual language act as extensions of the same world — not as additions, but as alternative ways of experiencing it.
+
+Here you will find information on the vision, working method, inspiration, and how Serenia continues to take shape.`,
+      showPlaceholder: false
+    },
+    about: {
+      menuTitle: "About Serenia",
+      title: "About Serenia",
+      text: `Serenia was not constructed as a world after the fact.
+
+It is an attempt to let story, music, and aesthetic grow from the same source — where each part carries the same weight, the same darkness, the same insistence on feeling real.
+
+There is no clear boundary here between what is told and what is experienced. What does not fit within words takes form in music, in symbols, in silence.
+
+Serenia is a cohesive project in which narrative, music, visual language, and symbolism are developed side by side.`,
+      showPlaceholder: false
+    },
+    origins: {
+      menuTitle: "Origins",
+      title: "Origins",
+      text: `The world now known as Serenia was born long before it had a name.
+
+It took shape at a table — in conversation, in a game between two people, in decisions never written down yet preserved in fragments, carried forward through notes and memory.
+
+Then it fell silent. Not because it was finished, but because life took its place.
+
+What remained were fragments — names, places, relationships that refused to fade. A rudimentary core, carried in the first person, occasionally demanding attention. Sometimes it was given space. More often, it was not.
+
+But some things do not let you go.
+
+Life moves forward, but so do its losses. When someone who should have remained is suddenly no longer there, what matters enough to carry forward begins to change.
+
+What had once been allowed to rest became something that could no longer be left where it lay.
+
+When the work resumed, it was not a continuation, but a return.
+
+And in that return, the form changed.
+
+What was once a game became a story.
+What was never spoken had to be filled in.
+Those who had never existed, yet proved necessary, were allowed to emerge.
+
+What could not be contained in words took form in music.
+What could not be described was given shape in image.
+
+Serenia is not a finished work.
+
+It is what remains — when something refuses to let go.`,
+      showPlaceholder: false
+    },
+    log: {
+      menuTitle: "Work log",
+      title: "Work log",
+      text: `
+      2026, march 25th - First generation Serenia webpage begun.
+      2026, march 31st - Both ends of the needle with Spotify & Youtube-links, all texts and imagery from the release-part presentation
+      2026, april 1st  - Layout for timeline defined and basic version made
+      
+      
+      Development notes, milestones and changes over time will be added here.`
+    }
+  }
+};
