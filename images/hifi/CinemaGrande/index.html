@@ -1,0 +1,493 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta name="robots" content="noindex,nofollow">
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Frequency', 'Baseline 1m', 'Baseline outside', 'Disturbance limit 25db(A)','Insulation removed', 'Inaudible','Current state' ],
+          ['32',  68.3,      46.2, 61.4,61.4,60,48.9],
+          ['63',  79.4,      56.4,50.4,64.3,40,52.3],
+          ['125',  90.7,       56.2,40.9,70.9,23,53.4],
+          ['250',  94.7,       48.9,33.6,74,13,47.6],
+          ['500',  89.9,       38.4,28.2,57.8,6,35.6],
+          ['1000',  91.9,       35.4,25,52.6,4,37.8],
+          ['2000',  90.7,       29.4,24,49.9,3,34.5],
+          ['4000',  77.6,       19.6,25,41.1,0,25],
+          ['8000',  69.6,       17.6,29,38.5,14,20.3],
+          ['16000',  60,      15.4,35,25.4,20,17.8]
+        ]);
+
+        var options = {
+          title: 'Sound dampening',
+          hAxis: {title: 'Frequency (Hz)',  titleTextStyle: {color: 'red'}},
+          vAxis: {title: 'Dampening (dB)',  titleTextStyle: {color: 'red'}}
+        };
+
+        var chart = new google.visualization.AreaChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+    <title>Project "Cinema Grande"</title>
+  </head>
+<body>
+<h2>Project "Cinema Grande" (mk II)</h2>
+<!-- Put your HTML here -->
+Projektstart: 2012-03-11
+<p><p>
+Målsättning: Bygga en snudd på kompromisslös hemmabio med stor duk och referensnivåkapacitet ned i infraområdet.
+<p><p>
+Smygpremiär mk I: 2012-12-06 (Tintin)  och därefter konstaterat att ljuddämpning utåt inte höll referensnivåkraven 
+<br>Återinkopplad (med alla externa slutsteg) mk II: 2014-08-25
+<hr>
+<h3>Använt:</h3>
+3,6 ton puts (145 säckar)
+<br>77 reglar 95x45
+<br>10 toppreglar 95x22
+<br>~7 kubikmeter innerväggsisolering (145mm)
+<br>~? kubikmeter innertaksisolering (195mm)
+<br>60 meter limträbalk 180x42
+<br>2 ton / 220kvadrat gips
+<br>90 liter akrylfog
+<br>75 liter GreenGlue viskoelastiskt lim
+<p>
+<hr>
+<h3>Mått:</h3>
+<br>Bredd:  Ursprunglig 4,4m   Ombyggt  4,08m
+<br>Längd(total):  Ursprunglig 8m   Ombyggt  m
+<br>Längd(biodel):  Planerad 5,4m   Ombyggt  m
+<br>Höjd:  Ursprunglig 2,39m   Ombyggt  m
+<p>
+<!--
+<br>
+<div id="chart_div" style="width: 900px; height: 500px;"></div>
+<br>Bakgrundsbrus/vind har gjort det svårt att ta fler mätvärden.
+
+(mörkblå kurva markant över lila störningsgräns)
+<br><img src="Baseline_noisol.jpg"</img>
+<br>Biomekkanik "Heaven Awaits" >2min in, en i32s, REF-på förstärkaren.
+<br>Mätpunkt inne; c:a 1m framför i32s. 
+<br><img src="noiselevels2.png"</img>-->
+<p><p>
+
+<hr>
+<h3>TODO <b>framöver</b>:</h3>
+
+<dt> * Fix montering takhögtalare</dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; Nedmontering (2/4)</dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; Uppmontering kabelkanal </dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; Undersökning möjlighet ommålning </dt>
+<dt> &nbsp; </dt>
+
+<dt> * Rensning maskinistrum</dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; Genomgång/Sortering/Undanstoppning/Kastande </dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; Ordnande av kablageormboet </dt>
+<dt> &nbsp; </dt>
+
+
+<hr>
+<h3>TODO <b>senare</b>:</h3>
+
+
+<dt> * Akustikdörr (<a href="http://www.mindorr.se/brandklassade-dorrar/innerdorr-massiv-40db">MinDörr 40dB </a>) </dt>
+<dt> &nbsp; </dt>
+
+<dt> * "AGG" Akustikt "scenräcke" (låg skärmvägg) - flyttbart</dt>
+<dt> &nbsp; </dt>
+
+<dt> * Auro3D 11.1-kapabel prepro/receiver.  HDCP 2.2, full HDMI bandbredd krav</dt>
+<dt> &nbsp; </dt>
+
+<dt> * 4k/UHD-projektor HDCP 2.2 krav</dt>
+<dt> &nbsp; </dt>
+
+<dt> * Specialglas projektorfönster</dt>
+<dt> &nbsp; </dt>
+
+<dt> * SD-fötter till OA-51 (möjligen även OA-52)</dt>
+<dt> &nbsp; </dt>
+
+<hr>
+<h3>TODO <i>övrigt</i>:</h3>
+<dl>
+
+<dt> *<b>Fjärrstyrning:</b></dt>
+<dt> &nbsp; &nbsp; &nbsp;<img src="check.gif"> Enkel IR-förlängare m. blaster</dt>
+<dt> &nbsp; </dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; Roomie eller iRule via iPhone/iPad</dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; iTach IP2IR - ett öga till projektor, en blaster för spelarna samt...</dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; ...TX-433 RF-sändare (till NEXA)</dt>
+<dt> &nbsp; &nbsp; &nbsp; <img src="check.gif"> NEXA-styrning på samtliga lampor</dt>
+<dt> &nbsp; </dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; 2st iTach IP2IR för vardagsrum/tv-rum, möjligen en TX-433 extra</dt>
+<dt> &nbsp; </dt>
+<dt> &nbsp; &nbsp; &nbsp; &gt; Z-wave?</dt>
+</dl>
+<p><p>
+<hr>
+<dl>
+<dt><b>Ljud & Bild-system</b></dt>
+<dd><img src="check.gif"> Ino Audio i32s frontar</dd>
+<dd><img src="check.gif"> Ino Audio i16s center</dd>
+<dd><img src="check.gif"> Ino Audio infraY-6 'corner module'</dd>
+<dd><img src="check.gif"> Ino Audio ambiens2 8st</dd>
+<dd><i>För senare 11.2-expansion:</i></dd>
+<dd><img src="check.gif"> Carlsson OA-52.1½ eller  Wijk Acoustics Wizard Jr. Signature front-wide</dd>
+<dd><img src="check.gif"> Carlsson OA-51LE front-high</dd>
+<dd><i>För NATTLORDEN Extended Soundfield™ och/eller Dolby Atmos:</i></dd>
+<dd><img src="check.gif"> Ino Audio ambiens1 4st</dd>
+<p>
+<img height=400 src="SOTTC.jpg"/>
+<p><p>
+<dd><img src="check.gif"> Krell Showcase eller Denon 2807 (Uppgraderingstanke: Denon x7200w)</dd>
+<dd><img src="check.gif"> Rotel 1090 - till i32s</dd>
+<dd><img src="check.gif"> Rotel 1090 - till i16s (en kanal ledig)</dd>
+<dd><img src="check.gif"> NAD 208 - till infraY-6</dd>
+<dd><img src="check.gif"> Ino cr80es</dd>
+<dd><img src="check.gif"> Marantz MM9000 - femkanalare åt surroundare</dd>
+<dd><img src="check.gif"> NAD 2600A - till Front High (OA-51)</dd>
+<p><p>
+<dd><img src="check.gif"> Pioneer DV-668AV-S</dd>
+<dd><img src="check.gif"> Sonos Connect</dd>
+<dd><img src="check.gif"> Panasonic DMP-BDT220EG <i>(att uppgraderas till en Oppo 105 el. likn. senare)</i></dd>
+<p><p>
+<dd><img src="check.gif"> Projektor: InFocus IN80 <i>(att uppgraderas till State-of-the-art senare)</i></dd>
+<dd><img src="check.gif"> Projektorduk: Seymour AV  Center Stage™ XD </dd>
+<dd><img src="dot.gif"> Darbee bildprocessor ?
+<p><p>
+<dd><img src="check.gif"> Kablage frontar, center, basmoduler: parkopplad EKK 4G1,5 fram till fördelare, därefter ~2m Isoda Hybric Cable HA-20</dd>
+<dd><img src="check.gif"> Kablage front wide, front high: EKK 2G1,5</dd>
+<dd><img src="check.gif"> Kablage surround: EKU 2x0,7 (75m)</dd>
+<p>
+<p>
+<dt><b>Möblemang</b></dt>
+<dd><img src="check.gif">Soffa - Hagagruppen 8279 3-sits (+ 2 reclinerfåtöljer ytterligare):</dd>
+<p>
+<dt><b>Matta</b></dt>
+<dd><img src="check.gif"> Kjellbergs 'Grace' <font color=red><b>RÖD.</b></font></dd>
+
+<p>
+<dt><b>Belysning:</b></dt>
+<dd><img src="check.gif"> LED-ramp ovan duk</dd>
+<dd><img src="check.gif"> Downlights</dd>
+<dd><img src="check.gif"> Myslampor</dd>
+<dd><img src="check.gif"> LED-lysrör huvudbelysning</dd>
+<dd><img src="check.gif"> LED-lysrör bakom duk</dd>
+</dl>
+<p>
+<p>
+<dt><img src="check.gif">Ta in Ingvar Öhman på konsultuppdrag</dt>
+<p>
+<dt><b>Byggnadsrelaterat</b></dt>
+<dd></dd>
+<dd></dd>
+</dl>
+
+<p><p>
+<hr>
+
+
+<h3>Status</h3>
+Senaste:
+<br><img src="lmnt_small.jpg"/>
+<br><img src="20150403_2.jpg"/>
+<br><img src="20150403.jpg"/>
+<br><img src="20150402_2.jpg"/>
+<br><img src="20150402.jpg"/>
+<br><img src="20150401.jpg"/>
+<br><img src="20150330_2.jpg"/>
+<br><img src="20150330.jpg"/>
+<br><img src="20150312.jpg"/>
+<br><img src="20141219_2.jpg"/>
+<br><img src="20141219.jpg"/>
+<br><img src="20141018.jpg"/>
+<br><img src="20141017.jpg"/>
+<br><img src="lamp6.jpg"/>
+<br><img src="lamp3.jpg"/>
+<br><img src="lamp1.jpg"/>
+<br><img src="20140918.jpg"/>
+<br><img src="20140917.jpg"/>
+<br><img src="20140907.jpg"/>
+<br><img src="20140902.jpg"/>
+<br><img src="20140827.jpg"/>
+<br><img src="20140827_2.jpg"/>
+<br><img src="20140826.jpg"/>
+<br><img src="20140825.jpg"/>
+<br><img src="20140824.jpg"/>
+<br><img src="20140821_3.jpg"/>
+<br><img src="20140821_2.jpg"/>
+<br><img src="20140821.jpg"/>
+<br><img src="20140819_2.jpg"/>
+<br><img src="20140819.jpg"/>
+<br><img src="20140815_2.jpg"/>
+<br><img src="20140815.jpg"/>
+<br><img src="20140811.jpg"/>
+<br><img src="20140809.jpg"/>
+<br><img src="20140803.jpg"/>
+<br><img src="20140802.jpg"/>
+<br><img src="20140801.jpg"/>
+<br><img src="20140729.jpg"/>
+<br><img src="20140713.jpg"/>
+<br><img src="20140712.jpg"/>
+<br><img src="20140710.jpg"/>
+<br><img src="20140706.jpg"/>
+<br><img src="20140705.jpg"/>
+<br><img src="20140704.jpg"/>
+<br><img src="20140628.jpg"/>
+<br><img src="20140621.jpg"/>
+<br><img src="20140620.jpg"/>
+<br><img src="20140615.jpg"/>
+<br><img src="20140614_2.jpg"/>
+<br><img src="20140614.jpg"/>
+<br><img src="20140606_3.jpg"/>
+<br><img src="20140606_2.jpg"/>
+<br><img src="20140606.jpg"/>
+<br><img src="20140605.jpg"/>
+<br><img src="20140530_2.jpg"/>
+<br><img src="20140530.jpg"/>
+<br><img src="20140524.jpg"/>
+<br><img src="20140517.jpg"/>
+<br><img src="20140515_3.jpg"/>
+<br><img src="20140515_2.jpg"/>
+<br><img src="20140515.jpg"/>
+<br><img src="20140510_3.jpg"/>
+<br><img src="20140510_2.jpg"/>
+<br><img src="20140510.jpg"/>
+<br><img src="20140509.jpg"/>
+<br><img src="20140501.jpg"/>
+<br><img src="20140426.jpg"/>
+<br><img src="20140409.jpg"/>
+<br><img src="20140406.jpg"/>
+<br><img src="20140329.jpg"/>
+<br><img src="20140328.jpg"/>
+<br><img src="20140323_2.jpg"/>
+<br><img src="20140323.jpg"/>
+<br><img src="20140322.jpg"/>
+<br><img src="20140320.jpg"/>
+<br><img src="20140319.jpg"/>
+<br><img src="20140317.jpg"/>
+<br><img src="20140316.jpg"/>
+<br><img src="20140308.jpg"/>
+<br><img src="20140306.jpg"/>
+<br><img src="20140303.jpg"/>
+<br><img src="20140302.jpg"/>
+<br><img src="20140228_2.jpg"/>
+<br><img src="20140228.jpg"/>
+<br><img src="20131225.jpg"/>
+<br><img src="20131222.jpg"/>
+<br><img src="20131221.jpg"/>
+<br><img src="20131215.jpg"/>
+<br><img src="20131211.jpg"/>
+<br><img src="20131210.jpg"/>
+<br><img src="20131208.jpg"/>
+<br><img src="20131204.jpg"/>
+<br><img src="20131202_3.jpg"/>
+<br><img src="20131202_2.jpg"/>
+<br><img src="20131202.jpg"/>
+<br><img src="20131201_4.jpg"/>
+<br><img src="20131201_3.jpg"/>
+<br><img src="20131201_2.jpg"/>
+<br><img src="20131201.jpg"/>
+<br><img src="20131130.jpg"/>
+<br><img src="20131129.jpg"/>
+<br><img src="20131128_2.jpg"/>
+<br><img src="20131128.jpg"/>
+<br><img src="20131124_2.jpg"/>
+<br><img src="20131124.jpg"/>
+<br><img src="20131108.jpg"/>
+<br><img src="20131026.jpg"/>
+<br><img src="20131025.jpg"/>
+<br><img src="20131023.jpg"/>
+<br><img src="20131022.jpg"/>
+<br><img src="20131020.jpg"/>
+<br><img src="20131014.jpg"/>
+<br><img src="20131013.jpg"/>
+<br><img src="20131012.jpg"/>
+<br><img src="20131007.jpg"/>
+<br><img src="20131006.jpg"/>
+<br><img src="20131005.jpg"/>
+<br><img src="20130930.jpg"/>
+<br><img src="20130928.jpg"/>
+<br><img src="20130927.jpg"/>
+<br><img src="20130924.jpg"/>
+<br><img src="20130923.jpg"/>
+<br><img src="20130922.jpg"/>
+<br><img src="20130918.jpg"/>
+<br><img src="20130914.jpg"/>
+<br><img src="20130909.jpg"/>
+<br><img src="20130908.jpg"/>
+<br><img src="20130907.jpg"/>
+<br><img src="20130906.jpg"/>
+<br><img src="20130902.jpg"/>
+<br><img src="20130901.jpg"/>
+<br><img src="20130831.jpg"/>
+<br><img src="20130830.jpg"/>
+<br><img src="20130830_2.jpg"/>
+<br><img src="20130814.jpg"/>
+<br><img src="20130807_2.jpg"/>
+<br><img src="20130807.jpg"/>
+<br><img src="20130806.jpg"/>
+<br><img src="20130804.jpg"/>
+<br><img src="20130731.jpg"/>
+<br><img src="20130727.jpg"/>
+<br><img src="20130725.jpg"/>
+<br><img src="20130724.jpg"/>
+<br><img src="20130722.jpg"/>
+<br><img src="20130720.jpg"/>
+<br><img src="20130717_2.jpg"/>
+<br><img src="20130717.jpg"/>
+<br><img src="20130710.jpg"/>
+<br><img src="20130709.jpg"/>
+<br><img src="20130707.jpg"/>
+<br><img src="20130706.jpg"/>
+<br><img src="20130705.jpg"/>
+<br><img src="20130704.jpg"/>
+<br><img src="20130703.jpg"/>
+<br><img src="20130627.jpg"/>
+<br><img src="20130623.jpg"/>
+<br><img src="20130622.jpg"/>
+<br><img src="20130617.jpg"/>
+<br><img src="20130615.jpg"/>
+<br><img src="20130614.jpg"/>
+<br><img src="20130613.jpg"/>
+<br><img src="20130612.jpg"/>
+<br><img src="20130609.jpg"/>
+<br><img src="20130607.jpg"/>
+<br><img width=800  src="20130605.jpg"/>
+<br><img src="20130604.jpg"/>
+<br><img src="20130604.jpg"/>
+<br><img src="20130603_3.jpg"/>
+<br><img src="20130603_2.jpg"/>
+<br><img src="20130603.jpg"/>
+<br><img src="20130602.jpg"/>
+<br><img src="20130601.jpg"/>
+<br><img src="20130531.jpg"/>
+<br><img src="20130530.jpg"/>
+<br><img src="20130526.jpg"/>
+<br><img src="20130519.jpg"/>
+<br><img src="20130511.jpg"/>
+<br><img src="20130509.jpg"/>
+<br><img src="20130508.jpg"/>
+<br><img src="20130427.jpg"/>
+<br><img src="20130426.jpg"/>
+<br><img src="20130417.jpg"/>
+<br><img src="20130414.jpg"/>
+<br><img src="20130406.jpg"/>
+<br><img src="20130404.jpg"/>
+<br><img src="20130403.jpg"/>
+<br><img src="20130116.jpg"/>
+<br><img src="20130110.jpg"/>
+<br><img src="20130105.jpg"/>
+<br><img src="20121231_2.jpg"/>
+<br><img src="20121231.jpg"/>
+<br><img src="20121230.jpg"/>
+<br><img src="20121229_2.jpg"/>
+<br><img src="20121229.jpg"/>
+<br><img src="20121223.jpg"/>
+<br><img src="20121218.jpg"/>
+<br><img src="20121215.jpg"/>
+<br><img src="20121213.jpg"/>
+<br><img src="20121211.jpg"/>
+<br><img src="20121210.jpg"/>
+<br><img src="20121208.jpg"/>
+<br><img src="20121206.jpg"/>
+<br><img src="20121201.jpg"/>
+<br><img src="20121201_2.jpg"/>
+<br><img src="20121130.jpg"/>
+<br><img src="20121128.jpg"/>
+<br><img src="20121125.jpg"/>
+<br><img src="20121124.jpg"/>
+<br><img src="20121123.jpg"/>
+<br><img src="20121121.jpg"/>
+<br><img src="20121120.jpg"/>
+<br><img src="20121119_2.jpg"/>
+<br><img src="20121119.jpg"/>
+<br><img src="20121118.jpg"/>
+<br><img src="20121114.jpg"/>
+<br><img src="20121109.jpg"/>
+<br><img src="20121102.jpg"/>
+<br><img src="20121101.jpg"/>
+<br><img src="20121028_2.jpg"/>
+<br><img src="20121028.jpg"/>
+<br><img src="20121022.jpg"/>
+<br><img src="20121021.jpg"/>
+<br><img src="20121020.jpg"/>
+<br><img src="20121015.jpg"/>
+<br><img src="20121012.jpg"/>
+<br><img src="20121007.jpg"/>
+<br><img src="20120930.jpg"/>
+<br><img src="20120929.jpg"/>
+<br><img src="20120928.jpg"/>
+<br><img src="20120921.jpg"/>
+<br><img src="20120918.jpg"/>
+<br><img src="20120914.jpg"/>
+<br><img src="20120913.jpg"/>
+<br><img src="20120906.jpg"/>
+<br><img src="20120903.jpg"/>
+<br><img src="20120902.jpg"/>
+<br><img src="20120819.jpg"/>
+<br><img src="20120815.jpg"/>
+<br><img src="20120814.jpg"/>
+<br><img src="20120807.jpg"/>
+<br><img src="20120731.jpg"/>
+<br><img src="20120728.jpg"/>
+<br><img src="20120727.jpg"/>
+<br><img src="20120724.jpg"/>
+<br><img src="20120719.jpg"/>
+<br><img src="20120718.jpg"/>
+<br><img src="20120715.jpg"/>
+<br><img src="20120706.jpg"/>
+<br><img src="20120626.jpg"/>
+<br><img src="20120625.jpg"/>
+<br><img src="20120618.jpg"/>
+<br><img src="20120617.jpg"/>
+<br><img src="20120616.jpg"/>
+<br><img src="20120615.jpg"/>
+<br><img src="20120612.jpg"/>
+<br><img src="20120608.jpg"/>
+<br><img src="20120605.jpg"/>
+<br><img src="20120602.jpg"/>
+<br><img src="20120601.jpg"/>
+<br><img src="20120531.jpg"/>
+<br><img src="20120518.jpg"/>
+<br><img src="20120513.jpg"/>
+<br><img src="20120511.jpg"/>
+<br><img src="20120509.jpg"/>
+<br><img src="20120501.jpg"/>
+<br>2½ dimensionellt 15-spel; drag #1:
+<br><img src="20120430.jpg"/>
+<br><img src="20120428.jpg"/>
+<br><img src="20120427.jpg"/>
+<br><img src="20120423.jpg"/>
+<br>Obligatoriska "Ingvar räknar" fotot:
+<br><img src="20120422.jpg"/>
+<br>8 cm hög specialfog (bruk+lecakulor) halvvägs:
+<br><img src="20120420.jpg"/>
+<br><img src="20120419.jpg"/>
+<br><img src="20120418.jpg"/>
+<br><img src="20120417.jpg"/>
+<br><img src="20120416.jpg"/>
+<br>Porten flyttad till fasadbeklädnad:
+<br><img src="20120415.jpg"/>
+<br>Portfoder nedtaget:
+<br><img src="20120411.jpg"/>
+<br>Biosoffan anlänt:
+<br><img src="20120405.jpg"/>
+<p>
+<br><img src="20120403.jpg"/>
+<p>
+<br><img src="20120329.jpg"/>
+<p>
+<br><img width=600 src="20120325fm.jpg"/><img width=600 src="20120325em.jpg"/>
+<p>
+<br><img src="20120324.jpg"/><img src="20120324_2.jpg"/>
+<p>
+<br><img src="20120319.jpg"/>
+<p>
+Första bilden tagen, så ni får ta mig på orden att redan här så har en tredjedel av sakerna rykt.
+<br><img src="20120314.jpg"/>
+</body>
+</html>
