@@ -380,19 +380,19 @@ As with most things in this domain, the system is not really about reaching a fi
     },
     {
       type: "image",
-      src: "../../images/AVS/seethrough.jpg",
+      src: "../../images/hifi/AVS/seethrough.jpg",
       alt: "Behind screen",
       caption: "Front speakers and center behind the acoustically transparent screen."
     },
     {
       type: "image",
-      src: "../../images/AVS/bakbelysning.jpg",
+      src: "../../images/hifi/AVS/bakbelysning.jpg",
       alt: "Seating",
       caption: "Cinema seating from the front."
     },
     {
       type: "image",
-      src: "../../images/AVS/whatmovie.jpg",
+      src: "../../images/hifi/AVS/whatmovie.jpg",
       alt: "Entrance",
       caption: "Entrance to the cinema."
     },

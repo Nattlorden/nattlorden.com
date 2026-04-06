@@ -381,19 +381,19 @@ Som så ofta i detta sammanhang handlar det mindre om att bli "klar", och mer om
     },
     {
       type: "image",
-      src: "../../images/AVS/seethrough.jpg",
+      src: "../../images/hifi/AVS/seethrough.jpg",
       alt: "Behind screen",
       caption: "Frontsystemet bakom akustiskt transparent duk."
     },
     {
       type: "image",
-      src: "../../images/AVS/bakbelysning.jpg",
+      src: "../../images/hifi/AVS/bakbelysning.jpg",
       alt: "Seating",
       caption: "Biostolar och frontvy."
     },
     {
       type: "image",
-      src: "../../images/AVS/whatmovie.jpg",
+      src: "../../images/hifi/AVS/whatmovie.jpg",
       alt: "Entrance",
       caption: "Ingång till bion."
     },
@@ -808,7 +808,7 @@ Jag väljer att kalla resultatet:
     },
     {
       type: "image",
-      src: "assets/images/Dali7ibilen_s.jpg",
+      src: "assets/images/hifi/Dali7ibilen_s.jpg",
       alt: "DALI 7 hämtade",
       caption: "900kr bedrövligt och felaktigt skick"
     },
