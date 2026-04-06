@@ -856,13 +856,86 @@ Hardware, upgrades, workstation thinking, storage, audio connections, displays, 
       showPlaceholder: true
     },
 
-    software: {
-      menuTitle: "Software",
-      title: "Software",
-      text: `Software is the invisible half of the system, and often the part that determines whether the technology feels smooth or merely irritating.
+    software:  {
+  menuTitle: "Software",
+  title: "Software",
+  blocks: [
+    {
+      type: "text",
+      content: `This is not a product page.
+It is a remnant.
 
-This is where operating systems, music software, media players, utilities, workflows, small helper programs, and thoughts on what actually holds up over time can be gathered.`,
-      showPlaceholder: true
+For a period of time, speaker placement was not just a matter of taste, but something that could be reasoned about and explored. I built a small tool to test ideas in a more controlled way.
+
+The result was Reflector.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "title",
+      content: "Reflector"
+    },
+    {
+      type: "image",
+      src: "../assets/ui/NattlordenSoft_Reflector.gif",
+      alt: "Reflector screenshot",
+      size: "medium"
+    },
+    {
+      type: "text",
+      content: `Reflector is a small Windows utility, written in .NET 3.5, with a fairly narrow purpose:
+
+To visualize loudspeaker placement in a rectangular room.
+
+This is not simulation in the modern sense.
+It is geometry.
+
+- placement using T-ratio
+- focus point
+- room ellipse
+- basic reflection paths
+
+And, to some extent, a way to explore where early reflections occur — not perfectly, but enough to give an intuition for what is happening in the room.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "title",
+      content: "Status"
+    },
+    {
+      type: "text",
+      content: `The project was developed over a short period around 2011. It never reached a “finished” state in the traditional sense, but it became useful enough for its purpose.
+
+It should now be considered an archived tool.
+
+- Platform: Windows
+- Requirement: .NET Framework 3.5
+- Maintenance: none`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "title",
+      content: "Download"
+    },
+    {
+      type: "text",
+      content: `If you want to try it, it is still available:
+
+<a href="../assets/software/Reflector.exe" target="_blank" rel="noopener noreferrer">Download Reflector</a>`
+    } /*,
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>A longer history of changes, ideas, and bugs exists for this project. It says more about the process than the tool itself, and therefore remains in the archive rather than on the front page.</i>`
+    }*/
+  ]
     }
   }
 };

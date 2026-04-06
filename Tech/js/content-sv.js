@@ -854,7 +854,7 @@ Jag väljer att kalla resultatet:
 Här kan hårdvara, uppgraderingar, arbetsmaskin, lagring, ljudkopplingar, bildskärmar och generell filosofi kring datoranvändning samlas i ett eget spår.`,
       showPlaceholder: true
     },
-
+/*
     software: {
       menuTitle: "Mjukvara",
       title: "Mjukvara",
@@ -862,6 +862,87 @@ Här kan hårdvara, uppgraderingar, arbetsmaskin, lagring, ljudkopplingar, bilds
 
 Här passar det att samla operativsystem, musikprogram, mediaspelare, verktyg, arbetsflöden, små hjälpprogram och tankar kring vad som faktiskt fungerar i längden.`,
       showPlaceholder: true
-    }
+    } */
+
+    software: {
+  menuTitle: "Mjukvara",
+  title: "Mjukvara",
+  blocks: [
+    {
+      type: "text",
+      content: `Det här är inte en produktsida.<br>Det är en rest.
+
+Under en period där högtalarplacering inte bara var en fråga om tycke, utan något som faktiskt gick att räkna på, byggde jag ett litet verktyg för att testa idéer i ett mer kontrollerat format.
+
+Resultatet blev <b>Reflector</b>.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "title",
+      content: "Reflector"
+    },
+    {
+      type: "image",
+      src: "../assets/ui/NattlordenSoft_Reflector.gif",
+      alt: "Reflector screenshot",
+      size: "medium"
+    },
+    {
+      type: "text",
+      content: `Reflector är ett enkelt Windows-program, skrivet i .NET 3.5, med ett ganska smalt syfte:
+
+Att visualisera högtalarplacering i ett rektangulärt rum.
+
+Det handlar inte om simulering i modern mening.<br>Snarare om geometri.
+<ul>
+  <li>placering enligt T-ratio</li>
+  <li>fokuspunkt</li>
+  <li>rummets ellips</li>
+  <li>grundläggande reflektionsvägar</li>
+</ul>
+Och, i viss mån, möjligheten att se var tidiga reflektioner uppstår – inte perfekt, men tillräckligt för att ge en känsla för vad som faktiskt händer i rummet.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "title",
+      content: "Status"
+    },
+    {
+      type: "text",
+      content: `Projektet utvecklades under en kort period runt 2011. Det nådde aldrig något färdigt stadium i traditionell mening, men blev tillräckligt användbart för sitt syfte.
+
+Det är idag att betrakta som ett arkiverat verktyg.
+<ul>
+  <li><b>Plattform:</b> Windows</li>
+  <li><b>Krav:</b> .NET Framework 3.5</li>
+  <li><b>Underhåll:</b> inget</li>
+</ul>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "title",
+      content: "Nedladdning"
+    },
+    {
+      type: "text",
+      content: `Vill du prova det, så finns det fortfarande kvar:
+
+<a href="../assets/software/Reflector.exe" target="_blank" rel="noopener noreferrer">Ladda ner Reflector</a>`
+    } /*,
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<p><i>Det finns en längre historik med ändringar, idéer och buggar kopplade till projektet. Den säger kanske mer om processen än om programmet, och får därför stanna i arkivet snarare än på förstasidan.</i></p>`
+    }*/
+  ]
+}
   }
 };
