@@ -878,7 +878,7 @@ The result was Reflector.`
     },
     {
       type: "image",
-      src: "../assets/ui/NattlordenSoft_Reflector.gif",
+      src: "/assets/ui/NattlordenSoft_Reflector.gif",
       alt: "Reflector screenshot",
       size: "medium"
     },
@@ -926,7 +926,7 @@ It should now be considered an archived tool.
       type: "text",
       content: `If you want to try it, it is still available:
 
-<a href="../assets/software/Reflector.exe" target="_blank" rel="noopener noreferrer">Download Reflector</a>`
+<a href="assets/software/Reflector.exe" target="_blank" rel="noopener noreferrer">Download Reflector</a>`
     } /*,
     {
       type: "divider"
