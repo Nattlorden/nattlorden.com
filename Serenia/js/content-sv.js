@@ -404,7 +404,7 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
         type: "image", 
         src: "assets/chars/Kaerith.png", 
         size: "small",  
-        caption: `Serenima` 
+        caption: `Kaerith` 
       },
 
       { 

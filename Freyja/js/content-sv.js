@@ -415,6 +415,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "weAreEarth",
       spotify: "https://open.spotify.com/album/2I92lpUhytbfPvrDmH0k5A?si=UHAhEtu8TEuKuCUtw6KkOA",
       youtube: ""
+    },
+    {
+      title: "Honey of Nightshade",
+      image: "assets/covers/Honey of Nightshade 3k.png",
+      section: "music",
+      page: "honey",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -1870,6 +1878,101 @@ We are sacred ground
  No heaven set above us
  The forest rises of us
 `,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   honey: {
+    title: "Honey of Nightshade",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Honey of Nightshade 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Black lace at the window
+Moon on the mortar stone
+Your name in the candle smoke
+Soft as a vow I should not know
+
+I ground the roots with rosary hands
+Crushed blue petals into gold
+A silver spoon, a drop of faith
+A sweeter fire against the cold
+No dagger hid beneath my dress
+No grave was written in my art
+I only wanted one dark sip
+To loosen all the locks around your heart
+
+White oleander on my skin
+Belladonna on my breath
+I called it love, I called you in
+And never learned the shape of death
+
+ Honey of nightshade, honey of nightshade
+ Drink me like devotion
+ Honey of nightshade, honey of nightshade
+ Fall into my potion
+ Stay, stay
+ Stay in my arms tonight
+ Honey of nightshade
+ I only meant to make you mine
+
+Stay, stay
+Close your eyes and stay
+Stay, stay
+Love, don't slip away
+
+I wore the dusk around my throat
+A little cross, a little thorn
+I stirred the cup with trembling lips
+Like every bride before the storm
+Your pulse was velvet under glass
+Your smile went pale, then holy white
+I thought the room had learned to spin
+I thought desire had made you light
+
+Foxglove trembling in the flame
+Yew and jasmine in the seam
+I called your body by my name
+And kissed you deeper into dream
+
+ Honey of nightshade, honey of nightshade
+ Drink me like devotion
+ Honey of nightshade, honey of nightshade
+ Fall into my potion
+ Stay, stay
+ Stay in my arms tonight
+ Honey of nightshade
+ I only meant to make you mine
+
+Now your mouth is winter still
+And all my roses bruise to black
+No, I never asked the earth
+To take the borrowed breathing back
+If love is sin, then let it be
+But not like this, not like this
+
+ Honey of nightshade, honey of nightshade
+ Drink me like devotion
+ Honey of nightshade, honey of nightshade
+ Fall into my potion
+ Stay, stay
+ Stay in my arms tonight
+ Honey of nightshade
+ I only meant to make you mine
+ I only meant to make you mine
+ I only meant to make you mine
+
+Belladonna on my breath
+Your name inside the candlelight
+Honey of nightshade
+Stay with me through the night`,
   showPlaceholder: false
       }
     ],
