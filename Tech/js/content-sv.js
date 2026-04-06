@@ -261,10 +261,150 @@ I slutänden handlar systemet mindre om enskilda komponenter och mer om hur de s
     biograf: {
       menuTitle: "Biografen",
       title: "Biografen",
-      text: `Här hör den större film- och upplevelseanläggningen hemma.
+      blocks: [
+    {
+      type: "text",
+      content: `Här hör den större film- och upplevelseanläggningen hemma.
+      
+      Detta rum tjänstgjorde länge som förråd. Inte ett sådant som töms ibland, utan ett där saker läggs — och sedan blir kvar. Egna "bra att ha"-saker som låg orörda i över ett decennium, sådant som följde med vid inflyttning, och allt som behövde ställas undan snabbt.
 
-Det kan handla om bild, ljudformat, högtalaruppsättning, förstärkare, akustik, subwoofers, sittplatser och den övergripande tanken bakom rummet. Mindre vardag, mer immersivitet.`,
-      showPlaceholder: true
+Det stod tidigt klart att det inte var en situation som skulle lösa sig av sig själv. Det krävdes ett medvetet, och ganska radikalt, ingripande.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Ingripandet kom genom två tillfälligheter som sammanföll nästan exakt i tid: en annons på ett par Ino i32s tillsammans med sex infraY-moduler, och samtidigt ett erbjudande på biofåtöljer.
+
+Det är inget man normalt sett "bara slår till på". Men pengar som legat avsatta för att en dag användas till något större fick plötsligt ett konkret mål.
+
+Vissa köper sommarstuga. Andra båt. En del en sportbil.  
+Detta blev mitt val.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Högtalarna i sig hade också en historia. Det var Holographic Audio som sålde sin tidigare referensanläggning i samband med att Lars Karlsson byggde sina specialhögtalare — de som senare fick smeknamnet "Darth Vader" — för att kunna tas med till mässor.
+
+i32s-paret är ett av tre tillverkade ur samma fanerstock. Det finns alltså två "syskonpar" där ute.
+
+Ett projekt av den här storleken gör man inte på känsla. Ingvar Öhman togs in för akustikkonsultation — i praktiken minst lika mycket för rummet som för högtalarna. Timkostnaden var den högsta jag betalat, men också en av de mest värdefulla investeringarna i hela projektet.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Bygget fortskred enligt plan. Ytterligare högtalare införskaffades, bland annat två uppsättningar Ino ambiens2 för att få ett komplett surroundsystem.
+
+En begagnad 100"-duk och en garantireparerad projektor gjorde det möjligt att färdigställa projektorfacket i bakväggen.
+
+Efter drygt ett halvår hölls en första smygpremiär — Tintin med familjen. Resultatet var mer än tillfredsställande.
+
+Planen var att fortsätta med mattor, draperier och finjusteringar, men ett enkelt test förändrade riktningen. Vid uppspelning av <i>War of the Worlds</i>, scenen där den första marsianen bryter sig upp ur marken, ringde grannen kort därefter och undrade vad som pågick.
+
+Problemet var uppenbart: huset läckte ljud.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Det som följde var ett mer fundamentalt ingrepp.
+
+Innerväggar revs. Konstruktionen analyserades. Lättbetong putsades invändigt. Innertaket ljudisolerades. Ett nytt, frikopplat innerrum byggdes upp — i praktiken enligt samma principer som en musikstudio.
+
+Golvet blev dock kompromissen. Betongplattan behöll kontakt med väggarna, men ett flytande innergolv byggdes ovanpå cellplast utan koppling till väggarna.
+
+Allt arbete utfördes i egen regi, vilket ledde till ett praktiskt beslut: att färdigställa en halva i taget för att inte stå med ett halvöppet rum under vintern.
+
+Efter två år — och i princip all fritid — var rummet tillbaka där det började, men nu med ljudisolering på studioklassnivå. Så pass effektiv att den planerade slussen aldrig behövde byggas.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Systemet har därefter vidareutvecklats.
+
+Duken har uppgraderats till akustiskt transparent material. Projektorn har bytts. En ny receiver med stöd för både Auro3D och Dolby Atmos har införts, vilket i sin tur krävt ett mellanlager av högtalare samt takhögtalare.
+
+En egenbyggd lösning hanterar växlingen mellan Auro3D (en gemensam höjdkanal) och Atmos (fyra separata takkanaler).
+
+Mellanlagret för Auro byggdes som muPPs — en konstruktion av Anders Eriksson (Naqref), i praktiken nära besläktad med Ino a1. Alternativet hade varit att vänta på rätt begagnade högtalare, eller att plocka från minibion, vilket inte var aktuellt.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Faktiskt/NESsmall.jpg",
+      alt: "NES logo",
+      caption: "NATTLORDEN extended soundfield™"
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>System</b>
+
+Frontar: Ino Audio i32s  
+Center: Ino Audio i16s  
+Basmoduler: Ino Audio infraY-6  
+Surround (nedre lager): Ino Audio ambiens2 (3+1+1+3)  
+Height (Auro3D): muPPs (3+3)  
+Tak (Atmos): Ino Audio ambiens1 (4)  
+
+Receiver (försteg): Denon X4700H  
+Slutsteg front: Rotel 1090  
+Slutsteg center: Rotel 1090  
+Slutsteg bas: NAD 208  
+Slutsteg surround: Marantz MM9000  
+Slutsteg height: (under utveckling)  
+Slutsteg tak: Denon 2807  
+
+Källor:  
+Strömning: Sonos Connect  
+4K Blu-ray: (varierande)  
+
+Delning front/bas: Ino Audio cr80es`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `För framtiden finns möjlighet att bygga ett mer renodlat mellanlager, baserat på element som motsvarar Ino a2 — men det är ett projekt som kräver betydande arbete.
+
+Som så ofta i detta sammanhang handlar det mindre om att bli "klar", och mer om att fortsätta förfina.`
+    },
+    {
+      type: "image",
+      src: "../../images/AVS/seethrough.jpg",
+      alt: "Behind screen",
+      caption: "Frontsystemet bakom akustiskt transparent duk."
+    },
+    {
+      type: "image",
+      src: "../../images/AVS/bakbelysning.jpg",
+      alt: "Seating",
+      caption: "Biostolar och frontvy."
+    },
+    {
+      type: "image",
+      src: "../../images/AVS/whatmovie.jpg",
+      alt: "Entrance",
+      caption: "Ingång till bion."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/CinemaGrande/20210828.jpg",
+      alt: "Side view",
+      caption: "Surround och takhögtalare längs vänster sida."
+    }
+  ],
+  showPlaceholder: false
     },
 
     minibio: {

@@ -260,11 +260,151 @@ Overall, the system is less about individual components and more about how they 
     biograf: {
       menuTitle: "Cinema",
       title: "The Cinema",
-      text: `This is where the larger film and experience-oriented setup belongs.
+      blocks: [
+    {
+      type: "text",
+      content: `This is where the larger film and experience-oriented setup belongs.
 
-It may cover picture, sound formats, speaker layout, amplification, acoustics, subwoofers, seating, and the overall thinking behind the room. Less everyday use, more immersion.`,
-      showPlaceholder: true
+      This room had long served as storage. Not the kind that gets cleared out, but the kind where things are placed — and remain. Personal “might need someday” items untouched for over a decade, things brought along during the move, and everything that needed to be put away quickly.
+
+It became clear that this situation would never resolve itself without deliberate — and somewhat radical — intervention.`
     },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The intervention came through two coincidences aligning almost perfectly: a listing for Ino i32s together with six infraY modules, and at the same time a special offer on cinema seating.
+
+Not the kind of decision one makes casually. But funds that had been set aside for “something, someday” finally had a concrete direction.
+
+Some buy a summer house. Others a sailboat. Some choose a faster car.  
+This became my version of that choice.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The speakers themselves came with a history. They were sold by Holographic Audio as they transitioned away from their previous reference system. Lars Karlsson was building a new set of custom speakers — later nicknamed “Darth Vader” — designed to be transportable for exhibitions, something this system never was.
+
+This particular pair of i32s is one of three built from the same veneer stock. There are, in other words, two sibling pairs out there.
+
+A project of this scale is not approached blindly. Ingvar Öhman was brought in for acoustic consultation — arguably more for the room than for the speakers themselves. His hourly rate was the highest I have ever paid, but also among the most worthwhile investments in the entire process.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Construction progressed according to plan. Additional speakers were acquired along the way, including two sets of Ino ambiens2 to complete the surround field.
+
+A used 100" screen and a discounted, warranty-repaired projector made it possible to finalize the projector niche in the rear wall.
+
+After just over six months, a quiet pre-premiere took place — Tintin with the family. Everything worked. More than worked.
+
+The plan was to continue with carpets, curtains, and fine adjustments, but a simple test changed priorities entirely. During playback of <i>War of the Worlds</i> — the scene where the first tripod emerges — the neighbour called shortly after, concerned by what she had heard.
+
+The conclusion was immediate: the house leaked sound.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `What followed was a far more fundamental intervention.
+
+Interior walls were removed. Structural issues examined. Aerated concrete blocks were treated internally. The ceiling was acoustically isolated. A fully decoupled inner room was constructed — effectively following studio design principles.
+
+The floor became the compromise. The concrete slab remained connected to the structure, while a floating inner floor was built on insulation, decoupled from the walls.
+
+All work was done personally, which led to a practical decision: finishing one half of the room at a time rather than facing a partially open, uninsulated space during winter.
+
+After two years — and effectively all available free time — the room had returned to its original function, but now with studio-grade sound isolation. Effective enough that the planned airlock-style entrance was never built.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The system has continued to evolve.
+
+The screen material has been upgraded to acoustically transparent fabric. The projector replaced. A new receiver introduced support for both Auro3D and Dolby Atmos, which in turn required an intermediate height layer as well as ceiling speakers.
+
+A custom-built switching solution allows the ceiling speakers to operate either as a single Auro3D height channel or as four independent Atmos channels.
+
+The Auro height layer is based on muPPs — a design originally presented by Anders Eriksson (Naqref), effectively close to an Ino a1 in concept. Waiting for the right used Ino solution was not practical, and borrowing from the mini cinema was not an option.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Faktiskt/NESsmall.jpg",
+      alt: "NES logo",
+      caption: "NATTLORDEN extended soundfield™"
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>System</b>
+
+Front: Ino Audio i32s  
+Center: Ino Audio i16s  
+Bass modules: Ino Audio infraY-6  
+Surround (lower layer): Ino Audio ambiens2 (3+1+1+3)  
+Height (Auro3D): muPPs (3+3)  
+Ceiling (Atmos): Ino Audio ambiens1 (4)  
+
+Receiver (used as preamp): Denon X4700H  
+Power amp (front): Rotel 1090  
+Power amp (center): Rotel 1090  
+Power amp (bass): NAD 208  
+Power amp (surround): Marantz MM9000  
+Power amp (height): (in progress)  
+Power amp (ceiling): Denon 2807  
+
+Sources:  
+Streaming: Sonos Connect  
+4K Blu-ray: (varies)  
+
+Crossover (front/bass): Ino Audio cr80es`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `For the future, there is the possibility of building a more refined intermediate layer based on drivers equivalent to those used in Ino a2. However, that is a project requiring both time and precision.
+
+As with most things in this domain, the system is not really about reaching a final state — but about continuing to refine what is already there.`
+    },
+    {
+      type: "image",
+      src: "../../images/AVS/seethrough.jpg",
+      alt: "Behind screen",
+      caption: "Front speakers and center behind the acoustically transparent screen."
+    },
+    {
+      type: "image",
+      src: "../../images/AVS/bakbelysning.jpg",
+      alt: "Seating",
+      caption: "Cinema seating from the front."
+    },
+    {
+      type: "image",
+      src: "../../images/AVS/whatmovie.jpg",
+      alt: "Entrance",
+      caption: "Entrance to the cinema."
+    },
+    {
+      type: "image",
+      src: "images/hifi/CinemaGrande/20210828.jpg",
+      alt: "Side view",
+      caption: "Left side with surround and ceiling speakers."
+    }
+  ],
+  showPlaceholder: false
+},
 
     minibio: {
       menuTitle: "Mini Cinema",
