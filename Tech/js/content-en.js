@@ -398,7 +398,7 @@ As with most things in this domain, the system is not really about reaching a fi
     },
     {
       type: "image",
-      src: "images/hifi/CinemaGrande/20210828.jpg",
+      src: "../../images/hifi/CinemaGrande/20210828.jpg",
       alt: "Side view",
       caption: "Left side with surround and ceiling speakers."
     }
