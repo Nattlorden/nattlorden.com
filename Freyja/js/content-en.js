@@ -421,8 +421,8 @@ Only our own landscapes — seen with different eyes.`,
       image: "assets/covers/Honey of Nightshade 3k.png",
       section: "music",
       page: "honey",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/7lKQokuHTsr59EyJXFiFOo?si=vdzjaJxYSRy9X_df31o7Lw",
+      youtube: "https://youtu.be/1PXu0vSRGeM?list=RD1PXu0vSRGeM"
     }
   ],
   showPlaceholder: false
