@@ -808,7 +808,7 @@ Jag väljer att kalla resultatet:
     },
     {
       type: "image",
-      src: "assets/images/hifi/Dali7ibilen_s.jpg",
+      src: "assets/images/Dali7ibilen_s.jpg",
       alt: "DALI 7 hämtade",
       caption: "900kr bedrövligt och felaktigt skick"
     },
