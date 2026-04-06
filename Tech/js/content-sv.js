@@ -814,31 +814,31 @@ Jag väljer att kalla resultatet:
     },
     {
       type: "image",
-      src: "../assets/images/hifi/IMG_9262.jpeg",
+      src: "../assets/images/IMG_9262.jpeg",
       alt: "Originaletikett",
       caption: "Originaletikett"
     },
     {
       type: "image",
-      src: "../assets/images/hifi/IMG_9263.jpeg",
+      src: "../assets/images/IMG_9263.jpeg",
       alt: "Hål för ny port",
       caption: "Större hål för basport med tratt uppfräst"
     },
     {
       type: "image",
-      src: "../assets/images/hifi/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
+      src: "../assets/images/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
       alt: "Före och efter oljande",
       caption: "Med färgen bortslipad och efter inoljning"
     },
     {
       type: "image",
-      src: "../assets/images/hifi/phase1.jpeg",
+      src: "../assets/images/phase1.jpeg",
       alt: "Dali 2027",
       caption: "Fullbordat ombygge till Dali 2027"
     },
     {
       type: "image",
-      src: "../assets/images/hifi/IMG_9538.jpeg",
+      src: "../assets/images/IMG_9538.jpeg",
       alt: "Närbild element",
       caption: "Närbild diskant och mid-dome"
     }
