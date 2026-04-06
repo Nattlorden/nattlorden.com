@@ -150,10 +150,111 @@ A good place for a chronological narrative. Not only products, but also why they
     stereo: {
       menuTitle: "Stereo",
       title: "The Living Room Stereo",
-      text: `The living room stereo is likely the most used system, and therefore the most important one in practice.
+      blocks: [
+    {
+      type: "text",
+      content: `The living room stereo is likely the most used system, and therefore the most important one in practice.
 
-This is where the whole setup can be described: speakers, amplification, sources, placement, the room, and how the system works specifically as an everyday setup — not as a laboratory arrangement, but as something actually lived with.`,
-      showPlaceholder: true
+      This describes the current system as it stands today.
+
+The listening room is unusually forgiving. It is approximately four meters wide, with drywall on a wooden frame, and the listening position occupies one half of the room lengthwise. Behind it, the space opens both into the kitchen and laterally into a hallway and stairwell.
+
+When the Swedish distributor for Canton installed the Digital 1.1 here, he remarked that it was the best room he had ever measured them in — including stores, showrooms, and previous customer installations. Given that the speakers were already paid for, it did not come across as sales talk.
+
+Reverberation time is in the range of ~0.25–0.32 seconds, depending on frequency.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Loudspeakers – Ino Audio pi60s-s</b>
+
+This is a unique pair. While pi60s exist in a number of units, and the more esoteric pi60es likely in a handful or more, the pi60s-s is a standalone project originally built by a professional stoneworker and later formally acknowledged within the Ino Audio ecosystem. No other commissioned pairs are known.
+
+Cabinet description from the builder:
+
+<i>"The pi60s-s features a 41 mm thick front baffle made of Nero Assoluto (black granite), not laminated with any other material. The sides and top consist of 18 mm Labradorite, internally reduced to 10 mm and damped with adhesive bonding to an inner layer of 10 mm Shanxi Black granite. The rear panels are laminated Shanxi Black slabs. The base is 50 mm Nero Assoluto, milled to give the appearance of externally attached feet, which are in fact integrated into the structure and internally laminated. The underside includes recesses for Sonic Design feet."</i>
+
+Each speaker weighs approximately 115 kg or more. Despite this, when placed on weight-matched Sonic Design feet, they can be moved with minimal effort while lowering the resonance frequency into the single-digit Hertz region — effectively outside the influence of music.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The speakers can be run full range or crossed over to bass modules. In everyday use — such as television — they are run full range, which they are genuinely capable of, unlike many large floorstanders that roll off higher than expected.
+
+<b>Bass System</b>
+
+The bass system consists of eight LTS-B1 modules from Ljudtekniska Sällskapet, designed by Ingvar Öhman (Ino Audio) around the NHT 1259 driver — originally developed for NHT’s model 3.3 and SW-3 subwoofer.
+
+These were built as part of a group purchase through Faktiskt.io (back when the .se domain was still in use). I constructed them in a format allowing four units to be stacked vertically without reaching the ceiling.
+
+The cabinets are built in 25 mm MDF — excessive, perhaps, but consistent with the overall philosophy. Likewise, eight 12" drivers are not about output, but about minimizing distortion through low excursion and smoothing room modes by exciting them from multiple positions rather than one or two.
+
+The first pair would have satisfied almost anyone — myself included at the time — but each additional pair further reinforced control and clarity.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Crossover and Low Frequency Alignment</b>
+
+An Ino Audio cr80s crossover with infra module is used. The system is partially room-adapted, with a lift in the infra region to compensate for the natural roll-off of sealed enclosures.
+
+The result is linear extension down to approximately 10 Hz, after which a steep high-pass filter prevents unnecessary excursion.
+
+<b>Amplification</b>
+
+The pi60s-s are driven by a Rotel RB-1090, delivering 2 × 380 W. This is sufficient for my listening levels, although the speakers themselves are capable of handling significantly more.
+
+The bass modules are powered in pairs per channel by two NAD 218 amplifiers. While not perfectly neutral across the full range, they are more than adequate in the low frequencies and stable under the parallel load.
+
+Total available amplification exceeds 1.6 kW, for those who find such figures meaningful.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Preamplification and Sources</b>
+
+Several preamps have passed through the system, but the one that has remained the longest is the Holographic Audio PRE-25.
+
+Sources:
+
+Streaming – Sonos (Gen 1), digital output to Benchmark DAC1  
+CD/DVD – Pioneer DV-668S  
+
+Both are sufficiently neutral, although modern equipment could likely push this further into diminishing returns.
+
+Vinyl plays a minor role. A NAD 5120 with its original flat tonearm remains more of historical interest than a serious investment platform, paired with a simple NAD phono stage.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Room Interaction – Strengths and Compromises</b>
+
+On the positive side, absorptive walls have been placed behind the main speakers to suppress reflections as far down in frequency as practically possible.
+
+The remaining Canton Digital cabinets are still present in the room. One is used as a Helmholtz resonator, while the other has had its port sealed due to more destructive than constructive interaction.
+
+On the negative side, the presence of an equipment rack and a television between the speakers is a necessary compromise.
+
+Overall, the system is less about individual components and more about how they interact — with each other and with the room.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Faktiskt/vard2small.jpg",
+      alt: "System overview",
+      caption: "Overview of the listening space."
+    }
+  ],
+  showPlaceholder: false
     },
 
     biograf: {
@@ -168,10 +269,61 @@ It may cover picture, sound formats, speaker layout, amplification, acoustics, s
     minibio: {
       menuTitle: "Mini Cinema",
       title: "Mini Cinema in the TV Room",
-      text: `The mini cinema is the in-between form: smaller than the cinema, more focused than a standard TV corner.
+      blocks: [
+    {
+      type: "text",
+      content: `The mini cinema is the in-between form: smaller than the cinema, more focused than a standard TV corner.
+      
+      This room was originally the house’s dedicated TV space, before the living room later took over that role with a larger display.
 
-This is a suitable place to describe how the compromise works when space, simplicity, and experience must coexist without the result becoming bland.`,
-      showPlaceholder: true
+After the initial CRT, the next step was what was, at the time, arguably the best television available: a Pioneer Kuro. Once calibrated by The Rock in Lund, the image quality was — without exaggeration — exceptional.
+
+Flat-panel displays have evolved dramatically since then, and even mid-range models today can deliver impressive performance on large screens. Still, the Kuro holds its ground, particularly with analogue sources, where it represents something of a final peak before that aspect of display technology faded in importance.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Surround sound had been present earlier in the form of ProLogic, but this room marked the first full system: seven NHT SuperZero speakers with an SW2Pi subwoofer, powered by a Pioneer 2014i receiver.
+
+A later second-hand find shifted things considerably: i28, unbuilt profX-4 kits, and a number of a2 surround speakers. At that point, Ino piP became the front speakers, an iP was added as center, and additional a2 units brought the total to eight surrounds.
+
+These were installed according to Ino Audio’s guidelines, with three per side and the remainder as rear surrounds. Despite the room’s limitations, all intended angles could be achieved — though not without some creative mounting solutions. Fitting four profundus X modules into the space was another small victory.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The receiver was later upgraded to a Pioneer LX-73 after a particularly thorough home comparison involving Marantz, Integra, Denon, and Pioneer over a single weekend.
+
+Somewhat unexpectedly, Pioneer’s room correction performed best in this specific environment. The alternative would have been to move forward with Denon and Audyssey Pro, along with additional channels — a significantly larger investment.
+
+The result is, by any reasonable standard, a heavily overbuilt system for such a small room.
+
+There are even tactile transducers installed in the sofa, though they have long since been disconnected — the profX modules handle that role more effectively on their own.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/minibio/minibio_front122001.jpg",
+      alt: "Front setup",
+      caption: "Front: piP in Nattlord green, iP center, and one of four profX modules."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/minibio/minibio_rear122001.jpg",
+      alt: "Rear overview",
+      caption: "Surround layout in a sloped horseshoe — highest at the rear, descending toward the listening position."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/minibio/minibio_right_surround12200.jpg",
+      alt: "Right surround detail",
+      caption: "Right side detail — one detachable speaker for attic access, one placed at the wall transition."
+    }
+  ],
+  showPlaceholder: false
     },
 
     carlsson: {

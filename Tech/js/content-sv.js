@@ -151,11 +151,112 @@ Det här är en bra plats för en kronologisk berättelse. Inte bara produkter, 
     stereo: {
       menuTitle: "Stereon",
       title: "Stereon i vardagsrummet",
-      text: `Vardagsrummets stereo är sannolikt den mest använda anläggningen och därmed också den viktigaste i praktiken.
+    blocks: [
+    {
+      type: "text",
+      content: `Vardagsrummets stereo är sannolikt den mest använda anläggningen och därmed också den viktigaste i praktiken.
 
-Här kan helheten beskrivas: högtalare, förstärkning, källor, placering, rummet och hur systemet fungerar som just vardagssystem — inte som laboratorieuppställning, utan som något man faktiskt lever med.`,
-      showPlaceholder: true
+      Detta avser den nuvarande setupen.
+
+Vardagsrummet är ovanligt tacksamt ur ljudsynpunkt. Det är cirka fyra meter brett, med gipsväggar på trästomme, och lyssningen sker i ena halvan på längden. Bakåt öppnar rummet upp både mot köket och sidledes mot hall och trapphus.
+
+När Cantons svenska generalagent installerade Digital 1.1 här kommenterade han att det var det bästa rum han mätt in ett par i — med både butiker, mässlokaler och tidigare installationer i åtanke. Med tanke på att högtalarna redan var betalda framstod det inte som något standardsnack.
+
+Efterklangstiden ligger runt ~0,25–0,32 sekunder, frekvensberoende.`
     },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Högtalare – Ino Audio pi60s-s</b>
+
+Detta är ett unikt par. pi60s finns i flera exemplar och den mer esoteriska pi60es i åtminstone ett fåtal, men pi60s-s är ett fristående projekt av en professionell stenarbetare som i efterhand lyftes in i Ino Audios krets. Några andra beställningar är inte kända.
+
+Beskrivning från kabinettmakaren:
+
+<i>"pi60s-s är byggda med en baffel i 41 mm nero assoluto (svart granit), utan laminering. Sidstycken och topp består av 18 mm labradorit som på insidan är nedtunnad till 10 mm och dämpad genom limning mot en 10 mm skiva Shanxi black. Bakstyckena består av laminerad Shanxi black. Foten är 50 mm nero assoluto, fräst för att ge intryck av separata ankfötter, men dessa är integrerade i konstruktionen och även de laminerade. Undersidan har urfräsningar för Sonic Design-fötter."</i>
+
+Vikten ligger kring 115 kg styck eller mer. Trots detta kan de, på viktanpassade Sonic Design-fötter, flyttas med minimal kraft samtidigt som resonansfrekvensen pressas ned i låga ental Hertz — utanför musikens arbetsområde.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Högtalarna kan köras fullregister eller delat mot basmoduler. I vardagsbruk — exempelvis TV-tittande — används de fullregister, vilket de också klarar i praktiken, till skillnad från många stora golvhögtalare som rullar av högre upp.
+
+<b>Bassystem</b>
+
+Bassystemet består av åtta LTS-B1-moduler från Ljudtekniska Sällskapet, konstruerade av Ingvar Öhman (Ino Audio) för NHT 1259-elementet — framtaget för NHT:s modell 3.3 och subwoofern SW-3.
+
+Dessa byggdes via ett gruppköp på Faktiskt.io (på den tid då .se-domänen fortfarande användes). Jag byggde dem i ett format som tillåter fyra i höjd utan att slå i taket.
+
+Lådorna är byggda i 25 mm MDF — överdimensionerat, men i linje med ambitionen. På samma sätt handlar åtta 12"-basar inte om ljudtryck, utan om att hålla distorsionen låg genom små konutslag samt att jämna ut rummets resonanser genom att excitera dem från flera positioner istället för en eller två.
+
+Redan första paret hade räckt för de flesta — inklusive mig själv då — men varje ytterligare par ökade kontrollen och renheten.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Delning och lågfrekevenshantering</b>
+
+Delningen sker via ett Ino Audio cr80s med infra-modul. Systemet är delvis rumsanpassat, där infraområdet lyfts för att kompensera de slutna lådornas naturliga avrullning.
+
+Resultatet är linjär återgivning ned mot cirka 10 Hz, varefter ett brant högpassfilter begränsar vidare utslag.
+
+<b>Förstärkning</b>
+
+pi60s-s drivs av ett Rotel RB-1090 med 2 × 380 W, vilket räcker för mina lyssningsnivåer även om högtalarna klarar betydligt mer.
+
+Basmodulerna drivs två och två per kanal av två NAD 218. De är inte helt neutrala i fullregister, men mer än tillräckliga i lågfrekvens och stabila vid parallellkopplingen.
+
+Den totala förstärkarkapaciteten överstiger 1,6 kW, för den som fäster vikt vid sådana siffror.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Försteg och källor</b>
+
+Flera försteg har passerat genom systemet, men det som blivit kvar längst är Holographic Audio PRE-25.
+
+Källor:
+
+Strömning – Sonos (Gen 1) digitalt till Benchmark DAC1  
+CD/DVD – Pioneer DV-668S  
+
+Båda är tillräckligt neutrala, även om det säkerligen går att pressa ytterligare med modernare utrustning.
+
+Vinyl spelar en mindre roll. En NAD 5120 med sin ursprungliga platta tonarm är mer av historiskt intresse än ett område för större investeringar, tillsammans med ett enkelt NAD-RIAA.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Rumsinteraktion – styrkor och kompromisser</b>
+
+På plussidan finns dämpväggar bakom huvudhögtalarna för att reducera reflexer så långt ned i frekvens som praktiskt möjligt.
+
+De kvarvarande Canton Digital-högtalarna står kvar i rummet. Den ena används som Helmholtz-resonator, medan den andra fått porten igensatt då den visade sig bidra mer destruktivt än konstruktivt.
+
+På minussidan finns behovet av en elektronikhylla och en TV mellan högtalarna.
+
+I slutänden handlar systemet mindre om enskilda komponenter och mer om hur de samverkar — med varandra och med rummet.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Faktiskt/vard2small.jpg",
+      alt: "Översiktsbild",
+      caption: "Översikt av lyssningsmiljön."
+    }
+  ],
+  showPlaceholder: false
+},
 
     biograf: {
       menuTitle: "Biografen",
@@ -169,10 +270,61 @@ Det kan handla om bild, ljudformat, högtalaruppsättning, förstärkare, akusti
     minibio: {
       menuTitle: "Minibio",
       title: "Minibio i tvrummet",
-      text: `Minibion är mellanformen: mindre än biografen, mer fokuserad än en vanlig TV-hörna.
+      blocks: [
+    {
+      type: "text",
+      content: `Minibion är mellanformen: mindre än biografen, mer fokuserad än en vanlig TV-hörna.
+      
+      Detta var husets ursprungliga TV-rum, innan vardagsrummet också fick en större skärm och tog över mycket av den rollen.
 
-Här passar det att beskriva hur kompromissen ser ut när utrymme, enkelhet och upplevelse måste samsas utan att resultatet blir slätstruket.`,
-      showPlaceholder: true
+Efter den första tjock-TV:n togs steget till vad som vid tillfället var det bästa som gick att köpa: en Pioneer Kuro. När den väl kalibrerats av The Rock i Lund levererade den en bild som var, utan överdrift, sensationell.
+
+Trots att platt-TV utvecklats enormt sedan dess — där i princip vilken modell som helst idag kan leverera imponerande bildkvalitet på stora skärmar — står sig Kuro fortfarande. Särskilt när det gäller analogt material, där den representerade något av den sista verkliga höjdpunkten innan den delen av utvecklingen i praktiken övergavs.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Surroundintresset fanns redan tidigare, med ProLogic innan jag flyttade hemifrån. I huset blev det första riktiga systemet ett 7-kanalssystem med NHT SuperZero och en SW2Pi-sub, drivet av en Pioneer 2014i-receiver.
+
+Senare dök ett andrahandsköp upp som förändrade riktningen: i28, obyggda kit för profX-4 samt ett antal a2-surroundhögtalare. I samband med detta flyttades Ino piP in som frontar, en iP införskaffades som center, och ytterligare två a2 kompletterade till totalt åtta surroundhögtalare.
+
+Dessa installerades enligt Ino Audios rekommendationer, med tre per sida och resterande bak. Trots rummets begränsningar gick det — med viss uppfinningsrikedom i monteringen — att få alla vinklar rätt. Att dessutom få plats med fyra profundus X-moduler i rummet var mer eller mindre ett mindre mirakel.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Receivern uppgraderades senare till en Pioneer LX-73, efter ett ovanligt lyckat hemlån där fyra kandidater jämfördes under samma helg: Marantz, Integra, Denon och Pioneer.
+
+Pioneers rumsanpassning visade sig fungera bäst i just detta rum — något oväntat. Alternativet hade varit att ta Denon vidare med Audyssey Pro samt bygga ut till fler kanaler, vilket hade inneburit en betydligt större investering.
+
+Resultatet är, objektivt sett, en kraftigt överdimensionerad anläggning för ett så litet rum. 
+
+Det finns till och med "rumpskakare" monterade i soffan, men dessa har sedan länge kopplats ur — profX-modulerna hanterar den uppgiften betydligt bättre.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/minibio/minibio_front122001.jpg",
+      alt: "Front setup",
+      caption: "Front: piP i Nattlordsgrön, iP som center och en av fyra profX-moduler."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/minibio/minibio_rear122001.jpg",
+      alt: "Rear overview",
+      caption: "Surroundsystemet i sin lutande hästsko — högst bak, lägre fram mot lyssningsposition."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/minibio/minibio_right_surround12200.jpg",
+      alt: "Right surround detail",
+      caption: "Höger sida med specialmontering — en högtalare avtagbar för vindsluckan, en placerad i väggens brytning."
+    }
+  ],
+  showPlaceholder: false
     },
 
     carlsson: {
