@@ -470,19 +470,380 @@ Det finns till och med "rumpskakare" monterade i soffan, men dessa har sedan lä
     carlsson: {
       menuTitle: "Carlsson",
       title: "Carlsson",
-      text: `En egen sektion för Carlsson är rimlig, eftersom det sällan bara är en modellfråga. Här finns både svensk hifi-historia, konstruktionsidéer och väldigt specifika tankar kring hur högtalare faktiskt skall samverka med ett rum.
+      blocks: [
+    {
+      type: "text",
+      content: `Stig Carlsson och hans högtalare är ett ämne där det redan finns mer än tillräckligt skrivet — och där de som faktiskt träffade honom har ett annat djup än jag någonsin kan bidra med.
 
-Här kan både modeller, erfarenheter, placering och mer principiella reflektioner samlas.`,
-      showPlaceholder: true
+Detta är därför inte ett försök till biografi, utan snarare en beskrivning av min egen relation till hans konstruktioner — vad jag hört, vad jag ägt, och vad som blivit kvar.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `OA-50 och OA-52 (inklusive deras senare varianter) dök tidigt upp i hifipressen, men första gången jag både såg och hörde dem var på en mässa i det som idag är Scandic Triangeln i Malmö.
+
+Ett par OA52 (eller möjligen OA52.2) spelade i ett relativt litet rum, drivna av elektronik från Sirius — det som senare blev GamuT. Demonstrationen hölls av John Larsen, som jag kom att träffa många gånger senare (vila i frid).
+
+Jag minns att jag återvände till rummet mer än en gång. Intrycket var tydligt: det var mässans bästa ljud.
+
+Det var inte heller den sista gången Carlsson-högtalare stack ut i sådana sammanhang.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Det finns en återkommande förklaring till detta.
+
+Carlssons högtalare är konstruerade för verkliga rum — inte för ideala lyssningsmiljöer. På mässor, där förutsättningarna ofta är långt ifrån optimala, visar det sig gång på gång att detta är en avgörande fördel.
+
+Andra högtalare kan i teorin vara mer kapabla, men deras potential går ofta förlorad i svåra rum. Carlsson, däremot, fungerar.
+
+Det är en underskattad egenskap.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Utöver mässor har jag lyssnat på ett flertal Carlsson-modeller i privata system, ofta hos personer med både kunskap och engagemang.
+
+OD-1, OA-12, OA-14, OA-116, samt olika varianter av OA-50, OA-51 och OA-52 — både i originalutförande och i uppgraderade versioner.
+
+En modell som fortfarande undkommit mig är OA2212, som fortsatt har något av mytstatus.
+
+Jag har även hört moderna tolkningar av Carlssons aldrig färdigställda trevägskonstruktion — i tvåvägsform — vilket bara gav mersmak.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Under en period ägde jag fanermatchade par av OA-12 och OA-14, men de fick lämna vidare när rummet de stod i försvann i en ombyggnad.
+
+OA-52 har jag kvar i en egen variant — en slags hybrid med diskanten från OA-52 och basen från OA52.2.
+
+OA-51 har haft en mer omfattande resa.
+
+Först införskaffades OA-51LE, Anders Erikssons första försök att modernisera modellen. Den visade sig dock inte vara den mest lyckade versionen, och efter ett elementhaveri blev de aldrig mer än en tillfällig lösning.
+
+OA-51LE2 var däremot något helt annat. Där satt balansen på plats.
+
+Innan Anders Eriksson (Naqref) gick bort identifierade han ytterligare en bas som skulle passa ännu bättre, men hann aldrig färdigställa kombinationen. Arbetet togs vidare av andra entusiaster, som fann en lämplig diskant och utvecklade modellen vidare.
+
+Resultatet blev OA-51.N — döpt efter hans alias — där byggbeskrivningen spreds mot donation till Cancerfonden.
+
+När jag senare fick tag i ett par LE2 blev de basen för en uppgradering till just .N-varianten.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Senare har ännu mer extrema varianter tagits fram, med element från exempelvis Purify och Bliesma (.PB), men då också till en helt annan kostnadsnivå.
+
+Min nuvarande Carlsson-uppsättning består därför uteslutande av modifierade versioner — men välspelande sådana:
+
+en OA-52-variant och två OA-51-varianter.
+
+Original eller inte har i detta fall blivit en mindre relevant fråga än hur de faktiskt presterar.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Carlsson/oa_twins.JPG",
+      alt: "OA-12 and OA-14",
+      caption: "OA-12 och OA-14, från tiden då båda fanns i systemet."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Carlsson/oa51_2.JPG",
+      alt: "OA-51LE",
+      caption: "OA-51LE före ombyggnad."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/OA51N/OA51.N.left.jpeg",
+      alt: "OA-51.N",
+      caption: "Provspelning av OA-51.N innan slutmontering."
+    }
+  ],
+  showPlaceholder: false
     },
 
     dali2027: {
       menuTitle: "Dali 2027",
-      title: "Dali 2027",
-      text: `Detta kan fungera som en projektsida: en plan, en målbild eller ett framtida systemspår.
+      title: "DALI 7 – från praktikalitet till princip",
+      blocks: [
+    {
+      type: "text",
+      content: `Det började som en praktikalitet, och slutade som en princip.
 
-Bra plats för att samla tankar om varför just Dali är aktuell, vilka modeller som övervägs, vilken roll de skulle fylla och vad som behöver vara uppfyllt för att det skall vara rätt steg när tiden väl är inne.`,
-      showPlaceholder: true
+Praktikaliteten var enkel: sonen skulle ha studentskiva i hyrd lokal. Tidigare hade vi hyrt PA, men den möjligheten fanns inte längre — och min numera mindre bil hade ändå inte rymt det vi brukade använda.
+
+Alternativen var begränsade:
+riskera finhögtalare,
+köpa något tillfälligt och ointressant,
+eller hitta något billigt som kunde ta stryk.
+
+Jag valde det sista.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Sökandet riktades mot begagnatmarknaden, med siktet inställt på något robust — gärna Cerwin Vega eller kanske de gamla basstarka DALI 107 / 109.
+
+Inget av det dök upp.
+
+Däremot: ett par DALI 7.
+
+10-tums bas. Lågt pris. Nära till hands.
+
+Skicket var tveksamt:
+en bucklig mid-dome och en felaktigt utbytt bas.
+
+Men de spelade.
+
+Och för det priset behövde de bara göra en sak: överleva festen.
+
+Det gjorde de.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Det oväntade problemet</b>
+
+Efter festen borde historien ha slutat där.
+
+Men det gjorde den inte.
+
+För trots sitt skick — och trots att de i praktiken var felbyggda — fanns där något kvar i ljudet.
+
+Inte perfekt. Inte ens korrekt.
+
+Men sammanhängande.
+
+Det som stack ut var inte basen eller diskanten, utan mellanregistret.
+
+Och i synnerhet: mid-domen.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Det är en konstruktion som i stort sett försvunnit ur modern serieproduktion, men som har egenskaper som är svåra att ersätta:
+
+• jämn spridning över ett brett frekvensområde  
+• avsaknad av tydlig “cone signature”  
+• närvaro utan att behöva överdrivas  
+
+Och här fungerade den — trots skador.
+
+Det var där projektet tog en annan riktning.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Frågan som förändrade allt</b>
+
+Inte:
+“Hur gör jag dem bättre?”
+
+Utan:
+Vad är det i den här konstruktionen som fortfarande fungerar — trots att nästan allt annat är fel?
+
+Det är en svårare fråga.
+
+Och en mer intressant.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Att plocka isär en idé</b>
+
+Arbetet som följde handlade inte om att byta delar, utan om att förstå samband.
+
+• Vad i originalet var kompromiss — och vad var medvetet?  
+• Vilka egenskaper var kritiska för helheten?  
+• Vad kunde förbättras utan att förlora karaktären?  
+
+Det visade sig snabbt att det inte gick att optimera enskilda delar utan att samtidigt försämra helheten.
+
+Det som fungerade var balansen.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>När modern teknik inte automatiskt är bättre</b>
+
+Med dagens komponenter är det enkelt att uppnå:
+
+• lägre distorsion  
+• rakare frekvensgång  
+• högre effekttålighet  
+
+Men det är lika enkelt att:
+
+• tappa sammanhanget  
+• bryta integrationen mellan registren  
+• skapa en högtalare som imponerar kort, men tröttar ut över tid  
+
+Det blev tydligt att en traditionell “uppgradering” inte var målet.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Valen som gjordes</b>
+
+Strategin blev istället att välja moderna komponenter som stödjer originalidén — inte ersätter den.
+
+• ett mellanregister med låg rörlig massa och hög känslighet  
+• en bas med kontroll och tillräcklig slaglängd  
+• en diskant med jämn spridning snarare än maximal briljans  
+
+Men viktigare än komponenterna var hur de användes.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Där allt avgjordes – filtret</b>
+
+Det verkliga arbetet låg inte i elementen, utan i hur de samverkade.
+
+• delningspunkter sattes efter faktisk akustisk respons  
+• fasrelationer justerades för att hålla ljudbilden samman  
+• energifördelningen balanserades för att behålla musikaliteten  
+
+Det är också här många moderna konstruktioner faller —
+inte för att de är tekniskt dåliga, utan för att de saknar ett sammanhållet mål.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>De konkreta problemen</b>
+
+Utgångsläget var långt ifrån idealt.
+
+Basen var fel — en ersättare utan känd härkomst, sannolikt vald efter dimension snarare än egenskaper.
+
+Mid-domen däremot tillverkas fortfarande, med modern kvalitetskontroll.
+
+Diskant fanns att tillgå i flera varianter med direkt arv från originalmodellerna.
+
+Basen i originalet var svårare. OEM, tillverkare uppköpt, inga tillgängliga data — och DALI själva saknade information.
+
+Det som återstod var lådvolym, portdimension och den specificerade avstämningen: Quasi-Butterworth tredje ordningen.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Sedan kom ett genombrott.
+
+En forumvän hittade en gammal mätning av originalelementet. Parametrarna stämde väl med teorin — med ett undantag kring impedansen, vilket antydde en mer komplex intern uppbyggnad.
+
+Det gav en riktning.
+
+Valet föll på ett modernt element som normalt används i större lådor, men som i detta sammanhang passade förvånansvärt väl.
+
+Porten uppdaterades samtidigt till modern standard, och avstämningen sänktes något.
+
+Originalfiltret kunde i stort sett rekonstrueras, vilket tillsammans med referenser till Floyd Toole gav en tydlig bild av designmålet:
+
+balanserad spridning och kontrollerad direktivitet.
+
+Detta blev högtalarens DNA.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Båda diskantalternativen provades, och valet föll slutligen på metalldomen från 7A.
+
+Kabinetten slipades ned från tidigare ommålning. Under färgen framträdde en ljus bokfaner.
+
+De oljades i “Red Velvet”.
+
+Planer fanns på ny baffel, men resultatet blev tillräckligt bra för att behålla originalstrukturen — trots att den nya basen inte försänktes.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Vad projektet blev</b>
+
+I slutändan handlar det inte om DALI 7 som modell.
+
+Det handlar om något mer generellt:
+
+att förstå varför vissa konstruktioner fortsätter fungera —
+även när de inte längre borde göra det.
+
+Och vad som händer när man tar den förståelsen på allvar.
+
+Jag väljer att kalla resultatet:
+
+<b>DALI 2027</b>`
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/Dali7ibilen_s.jpg",
+      alt: "DALI 7 hämtade",
+      caption: "900kr bedrövligt och felaktigt skick"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/IMG_9262.jpeg",
+      alt: "Originaletikett",
+      caption: "Originaletikett"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/IMG_9263.jpeg",
+      alt: "Hål för ny port",
+      caption: "Större hål för basport med tratt uppfräst"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
+      alt: "Före och efter oljande",
+      caption: "Med färgen bortslipad och efter inoljning"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/phase1.jpeg",
+      alt: "Dali 2027",
+      caption: "Fullbordat ombygge till Dali 2027"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/IMG_9538.jpeg",
+      alt: "Närbild element",
+      caption: "Närbild diskant och mid-dome"
+    }
+  ],
+  showPlaceholder: false
     },
 
     computer: {

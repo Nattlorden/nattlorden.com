@@ -469,19 +469,382 @@ There are even tactile transducers installed in the sofa, though they have long 
     carlsson: {
       menuTitle: "Carlsson",
       title: "Carlsson",
-      text: `A dedicated section for Carlsson makes sense, since this is rarely only a matter of one model. There is both Swedish hi-fi history here, design philosophy, and very specific ideas about how loudspeakers should actually interact with a room.
+      blocks: [
+    {
+      type: "text",
+      content: `Stig Carlsson and his loudspeakers are a subject already well documented — and better described by those who actually knew him.
 
-Models, listening experience, placement, and broader reflections can all be gathered here.`,
-      showPlaceholder: true
+This is not an attempt at a biography, but rather a personal account of my own experience with his designs — what I have heard, what I have owned, and what remains.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `OA-50 and OA-52 (including later revisions) appeared frequently in hi-fi magazines, but the first time I both saw and heard them was at a hi-fi show in what is now Scandic Triangeln in Malmö.
+
+A pair of OA52 (or possibly OA52.2) played in a relatively small room, driven by electronics from Sirius — later known as GamuT. The demonstration was handled by John Larsen, whom I would meet several times afterwards (rest in peace).
+
+I returned to that room more than once. The impression was clear: it was the best sound at the show.
+
+And it would not be the last time Carlsson speakers stood out in that context.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `There is a recurring explanation for this.
+
+Carlsson speakers are designed for real rooms — not idealized environments. At exhibitions, where conditions are often far from optimal, this becomes a decisive advantage.
+
+Other speakers may have greater theoretical capability, but their performance often collapses in difficult rooms. Carlsson, on the other hand, simply works.
+
+That is an underestimated quality.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Beyond exhibitions, I have listened to a wide range of Carlsson models in private systems, often owned by people with both knowledge and dedication.
+
+OD-1, OA-12, OA-14, OA-116, and various versions of OA-50, OA-51, and OA-52 — both in original form and upgraded variants.
+
+One model that has still eluded me is the OA2212, which retains something of a mythical status.
+
+I have also heard modern interpretations of Carlsson’s never-completed three-way design, in two-way form — enough to suggest what might have been.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `For a period, I owned veneer-matched pairs of OA-12 and OA-14, but they were eventually passed on when the room they occupied disappeared during renovation.
+
+I still have a variant of OA-52 — effectively a hybrid using the tweeter from OA-52 and the woofer from OA52.2.
+
+OA-51 has had a more involved journey.
+
+The first version I acquired was OA-51LE, Anders Eriksson’s initial attempt at modernizing the design. It proved less successful, and after a driver failure, it never became more than a temporary solution.
+
+OA-51LE2, however, was a different matter entirely. There, the balance was right.
+
+Before Anders Eriksson (Naqref) passed away, he identified an even more suitable woofer, but did not complete the final pairing. The work was continued by other enthusiasts, who found a matching tweeter and developed the concept further.
+
+The result became OA-51.N — named after his alias — with the design shared in exchange for donations to cancer research.
+
+When I later acquired a pair of LE2, they became the foundation for conversion into the .N variant.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `More extreme versions have since emerged, using drivers from companies such as Purify and Bliesma (.PB), though at a significantly higher cost level.
+
+My current Carlsson setup therefore consists entirely of modified versions — but well-performing ones:
+
+one OA-52 variant and two OA-51 variants.
+
+In this context, originality has become less important than actual performance.`
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Carlsson/oa_twins.JPG",
+      alt: "OA-12 and OA-14",
+      caption: "OA-12 and OA-14 from the period when both were in use."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/Carlsson/oa51_2.JPG",
+      alt: "OA-51LE",
+      caption: "OA-51LE before modification."
+    },
+    {
+      type: "image",
+      src: "../../images/hifi/OA51N/OA51.N.left.jpeg",
+      alt: "OA-51.N",
+      caption: "Listening test of OA-51.N before final assembly."
+    }
+  ],
+  showPlaceholder: false
     },
 
-    dali2027: {
-      menuTitle: "Dali 2027",
-      title: "Dali 2027",
-      text: `This can serve as a project page: a plan, a target image, or a possible future system path.
 
-A good place to gather thoughts on why Dali is relevant, which models are under consideration, what role they would play, and what conditions need to be met for it to be the right step when the time comes.`,
-      showPlaceholder: true
+    dali2027: {
+  menuTitle: "DALI 2027",
+  title: "DALI 7 – from Practicality to Principle",
+  blocks: [
+    {
+      type: "text",
+      content: `It began as a practical problem — and became a question of principle.
+
+The practical part was simple: my son needed speakers for a graduation party in a rented venue. We had previously relied on rented PA systems, but that option was no longer available — and my now smaller car would not have handled it anyway.
+
+The options were uninspiring:
+risk proper hi-fi speakers,
+buy something disposable,
+or find something cheap that could take abuse.
+
+I chose the latter.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The search led to the second-hand market, aiming for something robust — Cerwin Vega, perhaps, or older bass-heavy DALI models like the 107 or 109.
+
+None appeared.
+
+Instead: a pair of DALI 7.
+
+10-inch woofer. Low price. Close by.
+
+The condition was questionable:
+a dented mid-dome, and a replacement woofer of unknown origin.
+
+But they played.
+
+And at that price, they only needed to do one thing: survive the party.
+
+They did.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>The unexpected problem</b>
+
+That should have been the end of the story.
+
+It wasn’t.
+
+Because despite their condition — and despite being, in practice, incorrectly assembled — something remained in the sound.
+
+Not perfect. Not even correct.
+
+But coherent.
+
+What stood out was not the bass or the treble, but the midrange.
+
+And specifically: the mid-dome.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `It is a design largely absent from modern mass production, yet it carries properties that are difficult to replace:
+
+• wide and even dispersion across a large frequency range  
+• absence of a distinct “cone signature”  
+• presence without exaggeration  
+
+And here it worked — despite visible damage.
+
+That was the moment the project changed direction.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>The question that changed everything</b>
+
+Not:
+“How do I improve them?”
+
+But:
+What is it in this design that still works — even when almost everything else is wrong?
+
+That is a harder question.
+
+And a far more interesting one.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Taking the idea apart</b>
+
+What followed was not a process of replacing parts, but of understanding relationships.
+
+• What in the original design was compromise — and what was intentional?  
+• Which properties were essential to the whole?  
+• What could be improved without losing character?  
+
+It quickly became clear that optimizing individual parts often degraded the system as a whole.
+
+What worked was the balance.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>When modern technology is not automatically better</b>
+
+With modern components, it is easy to achieve:
+
+• lower distortion  
+• flatter frequency response  
+• higher power handling  
+
+But it is just as easy to:
+
+• lose coherence  
+• break integration between drivers  
+• create a speaker that impresses briefly, but fatigues over time  
+
+It became clear that a conventional “upgrade” was not the goal.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>The choices made</b>
+
+Instead, the approach was to select modern components that support the original concept — not replace it.
+
+• a midrange with low moving mass and high sensitivity  
+• a woofer with sufficient excursion and control  
+• a tweeter prioritizing dispersion over exaggerated airiness  
+
+But more important than the components themselves was how they were integrated.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Where everything was decided — the crossover</b>
+
+The real work was not in the drivers, but in how they interact.
+
+• crossover points defined by actual acoustic response  
+• phase relationships adjusted to maintain coherence  
+• energy distribution balanced to preserve musicality  
+
+This is also where many modern designs fail —
+not because they are technically poor, but because they lack a unified objective.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>The practical challenges</b>
+
+The starting point was far from ideal.
+
+The woofer was incorrect — an unknown replacement, likely chosen by size rather than parameters.
+
+The mid-dome, however, is still in production, now with modern quality control.
+
+Tweeters were available in variants directly derived from the original models.
+
+The original woofer was the real problem: an OEM unit with no accessible data. The manufacturer had moved, and even DALI no longer had specifications.
+
+What remained were the enclosure parameters:
+volume, port dimensions, and the original tuning alignment — Quasi-Butterworth third order.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Then came a breakthrough.
+
+A forum contact found an old measurement of the original driver. The parameters aligned well with expectations — except for an impedance anomaly suggesting a more complex internal structure.
+
+That provided direction.
+
+The chosen replacement driver is typically used in larger enclosures, but in this context proved to be a strong fit.
+
+The port was redesigned to modern standards, and the tuning frequency was slightly lowered.
+
+The original crossover could be reconstructed, and combined with references to Floyd Toole, revealed the design intent:
+
+controlled directivity with balanced dispersion.
+
+This became the speaker’s DNA.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Both tweeter options were tested. The final choice was the metal dome derived from the 7A.
+
+The cabinets were stripped from a previous repaint. Beneath it, a light beech veneer emerged.
+
+They were finished in “Red Velvet” oil.
+
+There were plans for a new baffle, but the result was strong enough to retain the original structure — even at the cost of not recessing the new woofer.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>What the project became</b>
+
+In the end, this is not about the DALI 7 as a model.
+
+It is about something more general:
+
+understanding why certain designs continue to work —
+even when they no longer should.
+
+And what happens when that understanding is taken seriously.
+
+I chose to call the result:
+
+<b>DALI 2027</b>`
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/Dali7ibilen_s.jpg",
+      alt: "DALI 7 brought home",
+      caption: "$100 in poor and wrong shape"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/IMG_9262.jpeg",
+      alt: "Original label",
+      caption: "Original label"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/IMG_9263.jpeg",
+      alt: "Hole for new port",
+      caption: "Larger hole for flared port"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
+      alt: "Before and after oil",
+      caption: "Paint stripped, before and after oiling"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/phase1.jpeg",
+      alt: "Dali 2027",
+      caption: "Completed rebuild into Dali 2027"
+    },
+    {
+      type: "image",
+      src: "../assets/images/hifi/IMG_9538.jpeg",
+      alt: "Closeup",
+      caption: "Closeup tweeter and mid-dome"
+    }
+  ],
+  showPlaceholder: false
     },
 
     computer: {
