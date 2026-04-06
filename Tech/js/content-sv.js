@@ -808,37 +808,37 @@ Jag väljer att kalla resultatet:
     },
     {
       type: "image",
-      src: "../assets/images/hifi/Dali7ibilen_s.jpg",
+      src: "assets/images/hifi/Dali7ibilen_s.jpg",
       alt: "DALI 7 hämtade",
       caption: "900kr bedrövligt och felaktigt skick"
     },
     {
       type: "image",
-      src: "../assets/images/IMG_9262.jpeg",
+      src: "assets/images/IMG_9262.jpeg",
       alt: "Originaletikett",
       caption: "Originaletikett"
     },
     {
       type: "image",
-      src: "../assets/images/IMG_9263.jpeg",
+      src: "assets/images/IMG_9263.jpeg",
       alt: "Hål för ny port",
       caption: "Större hål för basport med tratt uppfräst"
     },
     {
       type: "image",
-      src: "../assets/images/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
+      src: "assets/images/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
       alt: "Före och efter oljande",
       caption: "Med färgen bortslipad och efter inoljning"
     },
     {
       type: "image",
-      src: "../assets/images/phase1.jpeg",
+      src: "assets/images/phase1.jpeg",
       alt: "Dali 2027",
       caption: "Fullbordat ombygge till Dali 2027"
     },
     {
       type: "image",
-      src: "../assets/images/IMG_9538.jpeg",
+      src: "assets/images/IMG_9538.jpeg",
       alt: "Närbild element",
       caption: "Närbild diskant och mid-dome"
     }
@@ -885,7 +885,7 @@ Resultatet blev <b>Reflector</b>.`
     },
     {
       type: "image",
-      src: "../assets/ui/NattlordenSoft_Reflector.gif",
+      src: "assets/ui/NattlordenSoft_Reflector.gif",
       alt: "Reflector screenshot",
       size: "medium"
     },
@@ -933,7 +933,7 @@ Det är idag att betrakta som ett arkiverat verktyg.
       type: "text",
       content: `Vill du prova det, så finns det fortfarande kvar:
 
-<a href="../assets/software/Reflector.exe" target="_blank" rel="noopener noreferrer">Ladda ner Reflector</a>`
+<a href="assets/software/Reflector.exe" target="_blank" rel="noopener noreferrer">Ladda ner Reflector</a>`
     } /*,
     {
       type: "divider"

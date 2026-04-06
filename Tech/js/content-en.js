@@ -809,37 +809,37 @@ I chose to call the result:
     },
     {
       type: "image",
-      src: "../assets/images/Dali7ibilen_s.jpg",
+      src: "assets/images/Dali7ibilen_s.jpg",
       alt: "DALI 7 brought home",
       caption: "$100 in poor and wrong shape"
     },
     {
       type: "image",
-      src: "../assets/images/IMG_9262.jpeg",
+      src: "assets/images/IMG_9262.jpeg",
       alt: "Original label",
       caption: "Original label"
     },
     {
       type: "image",
-      src: "../assets/images/IMG_9263.jpeg",
+      src: "assets/images/IMG_9263.jpeg",
       alt: "Hole for new port",
       caption: "Larger hole for flared port"
     },
     {
       type: "image",
-      src: "../assets/images/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
+      src: "assets/images/5237F92C-F4E1-4B93-A8F8-A6A98B0C0A91.jpeg",
       alt: "Before and after oil",
       caption: "Paint stripped, before and after oiling"
     },
     {
       type: "image",
-      src: "../assets/images/phase1.jpeg",
+      src: "assets/images/phase1.jpeg",
       alt: "Dali 2027",
       caption: "Completed rebuild into Dali 2027"
     },
     {
       type: "image",
-      src: "../assets/images/IMG_9538.jpeg",
+      src: "assets/images/IMG_9538.jpeg",
       alt: "Closeup",
       caption: "Closeup tweeter and mid-dome"
     }
@@ -878,7 +878,7 @@ The result was Reflector.`
     },
     {
       type: "image",
-      src: "/assets/ui/NattlordenSoft_Reflector.gif",
+      src: "assets/ui/NattlordenSoft_Reflector.gif",
       alt: "Reflector screenshot",
       size: "medium"
     },
