@@ -236,10 +236,13 @@ function loadContent(section) {
 
             <p>2026-04-07 Fysiskt brev till Anne-Marie Bengtsson, suppleant 2013-styrelsen<p>
 
-            <p>2026-04-07 Email till Ulricehamns kommun - om sällskapets tillgångar donerats?</P>
+            <p>2026-04-07 Email till Ulricehamns kommun - om sällskapets tillgångar donerats?<br>
+            - inget arkiverat hos kommunen</P>
 
-            <p>2026-04-08 Email till Ulricehamns tidning - om det utlysts stämma därigenom
+            <p>2026-04-07 Email till Ulricehamns tidning - om det utlysts stämma därigenom
             <br> - svar hänvisande enbart till Lennart Wasling med hitta.se telefonnummer.</p>
+
+            <p>2026-04-07 Lagt en frågande post på proveniens.infokus.se, mailar en person privat</p>
         `;
     }
    
