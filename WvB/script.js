@@ -223,11 +223,14 @@ function loadContent(section) {
             <h2>Loggbok</h2>
             <p>Valda projektdatum...</p>
 
-            <p>2026-03-15 Email till Lennart Wasling<br>
+            <p>2026-03-15 Email till Lennart Wasling - om sällskapets nutida existens<br>
             - inget svar<p>
 
             <p>2026-03-23 "Massmail till alla i listade 2013-styrelse"<br>
             - fyra av sju adresser studsade</p>
+
+            <p>2026-03-23 Email till DELS - om sällskapet fortfarande är medlemmar<br>
+            - svar att medlemsavgiften betald för 2025, men inte haft kontakt på länge</p>
 
             <p>2026-03-24 Fysiskt brev till Lennart Wasling</b>
 
