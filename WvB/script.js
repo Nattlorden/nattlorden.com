@@ -116,6 +116,40 @@ function loadContent(section) {
     if (section === "published") {
         content.innerHTML = `
             <h2>Bibliografi</h2>
+
+            Sång för Kongl. Westgötha-Dahls regemente / Brn.. Vänersborg. 1836
+<p>1837 - Dikter I</p>
+<p>1838 - Dikter II</p>
+<p>1840 - Nyare dikter</p>
+<p>1841 - Dikter IV</p>
+<p>1843 - Calle. Också en poetisk kalender</p>
+<p>1844 - Carolina. Poetisk kalender</p>
+<p>1846 - Bror. Poetisk kalender</p>
+<p>1847 - Berättelser och utkast</p>
+<p>1847 - Knut. Poetisk kalender</p>
+<p>1849 - Den namnlöse. Poetisk kalender</p>
+<p>1849 - Lite’ nytt till julen</p>
+<p>1850 - Berättelser, reseminnen m. m.</p>
+<p>1850 - En Hökarebetjents Äfwentyr</p>
+<p>1850 - En syn i paradiset</p>
+<p>1851 - Herr Börje. Poetisk kalender</p>
+<p>1853 - Den unge Tobiæ resa</p>
+<p>1853 - Sju sofvare. Poetisk kalender</p>
+<p>1856 - Farbror Mårten. Poetisk kalender</p>
+<p>1858 - Z. Poetisk kalender</p>
+<p>1860 - Borup. Poetisk kalender<p>
+
+<h3>Postumt</h3>
+
+<p>1879 - Från Wilh. v. Brauns ungdomsdagar : [Bref från v. Braun]. Upsala. Libris 1595977 - Kommenterade och utgivna av K. Warburg och Fr. S. - Upplaga 21 exemplar.</p>
+<p>1887 - Skämtsamma dikter</p>
+<p>1888 - Inqvarteringen</p>
+<p>1888 - Konstapeln</p>
+<p>1889 - Reskamraten</p>
+<p>1890 - En Löjtnants Händelser</p>
+<p>1892 - Resignation</p>
+<p>1897 - En berättelse om en utmärkt militär</p>
+<p>1889 - Svinaherden och grefvedottern eller Guldgräfvarens skatt</p>
            
            
             <p>1867-1870 1 uppl. "Samlade arbeten" utgivna (Bonnier)</p>
