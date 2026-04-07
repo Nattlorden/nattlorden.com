@@ -218,6 +218,27 @@ function loadContent(section) {
         `;
     }
 
+    if (section === "log") {
+        content.innerHTML = `
+            <h2>Loggbok</h2>
+            <p>Valda projektdatum...</p>
+
+            <p>2026-03-15 Email till Lennart Wasling<br>
+            - inget svar<p>
+
+            <p>2026-03-23 "Massmail till alla i listade 2013-styrelse"<br>
+            - fyra av sju adresser studsade</p>
+
+            <p>2026-03-24 Fysiskt brev till Lennart Wasling</b>
+
+            <p>2026-04-07 Fysiskt brev till Anne-Marie Bengtsson, suppleant 2013-styrelsen<p>
+
+            <p>2026-04-07 Email till Ulricehamns kommun - om sällskapets tillgångar donerats?</P>
+
+            <p>2026-04-08 Email till Ulricehamns tidning - om det utlysts stämma därigenom
+            <br> - svar hänvisande enbart till Lennart Wasling med hitta.se telefonnummer.</p>
+        `;
+    }
    
 }
 
