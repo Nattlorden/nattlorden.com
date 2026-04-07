@@ -132,11 +132,11 @@ function loadContent(section) {
 <p>1850 - Berättelser, reseminnen m. m.</p>
 <p>1850 - En Hökarebetjents Äfwentyr</p>
 <p>1850 - En syn i paradiset</p>
-<p>1851 - Herr Börje. Poetisk kalender</p>
+<p><font color=green><b>1851 - Herr Börje. Poetisk kalender</b></font></p>
 <p>1853 - Den unge Tobiæ resa</p>
 <p>1853 - Sju sofvare. Poetisk kalender</p>
-<p>1856 - Farbror Mårten. Poetisk kalender</p>
-<p>1858 - Z. Poetisk kalender</p>
+<p><font color=green><b>1856 - Farbror Mårten. Poetisk kalender</b></font></p>
+<p><font color=green><b>1858 - Z. Poetisk kalender</b></font></p>
 <p>1860 - Borup. Poetisk kalender<p>
 
 <h3>Postumt</h3>
@@ -154,7 +154,7 @@ function loadContent(section) {
            
             <p>1867-1870 1 uppl. "Samlade arbeten" utgivna (Bonnier)</p>
 
-            <p>1876 - 2 uppl. </p>
+            <p><font color=green><b>1876 - 2 uppl. </b></font></p>
 
             <p>1882 - 3 uppl. </p>
 
@@ -242,7 +242,11 @@ function loadContent(section) {
             <p>2026-04-07 Email till Ulricehamns tidning - om det utlysts stämma därigenom
             <br> - svar hänvisande enbart till Lennart Wasling med hitta.se telefonnummer.</p>
 
-            <p>2026-04-07 Lagt en frågande post på proveniens.infokus.se, mailar en person privat</p>
+            <p>2026-04-07 Lagt en frågande post på proveniens.infokus.se, mailat en person privat</p>
+
+            <p>2026-04-07 Mailat en Uddevallabloggare</p>
+
+            <p>2026-04-07 Mailat Föreningsarkivet i Borås och Skaraborgs Föreningsarkiv efter tips från arkivet i Ulricehamn</p>
         `;
     }
    
