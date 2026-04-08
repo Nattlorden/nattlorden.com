@@ -944,5 +944,103 @@ Det är idag att betrakta som ett arkiverat verktyg.
     }*/
   ]
 }
+  },
+
+gear: {
+    about: {
+      menuTitle: "Om",
+      title: "HiFi",
+      text: `Detta är avdelningen för HiFi som på ett eller annat sätt passerat genom mitt liv.
+
+Här samlas både det som jag har eller haft, det jag hört hos andra - hemma, butik eller mässa, det jag läst i tidningar eller på nätet och lagt mig till med drömmar om.
+
+Mer subjektivt, men kanske lite historiska fakta också.`,
+      showPlaceholder: false
+    },
+
+    voight: {
+      menuTitle: "Voight-/Michelsonhorn",
+      title: "'Voighthornet'",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    hifiklubben: {
+      menuTitle: "HiFi-klubben",
+      title: "HiFi-klubben",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    dali: {
+      menuTitle: "Dali",
+      title: "Dali",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    snell: {
+      menuTitle: "Snell",
+      title: "Snell",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    nad: {
+      menuTitle: "NAD",
+      title: "NAD",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    magnaplanar: {
+      menuTitle: "Magnaplanar",
+      title: "Magnaplaner",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    metavox: {
+      menuTitle: "Metavox",
+      title: "Metavox",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    holfi: {
+      menuTitle: "Holfi",
+      title: "Holfe",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    wijk: {
+      menuTitle: "Wijk",
+      title: "Wijk",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    vonSchweikert: {
+      menuTitle: "Von Schweikert",
+      title: "Von Schweikert",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    ino: {
+      menuTitle: "Ino Audio",
+      title: "Ino Audio",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+    acurus: {
+      menuTitle: "Acurus",
+      title: "Acurus",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+
+
+
+
+
+     stubbe: {
+      menuTitle: "stubbe",
+      title: "stubbe",
+      text: `Dummytext för senare ifyllnad.`,
+      showPlaceholder: true
+    }, 
+
   }
 };

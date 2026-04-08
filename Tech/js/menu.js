@@ -1,9 +1,11 @@
 const sectionLabels = {
   sv: {
-    hifi: "Tech"
+    hifi: "Tech",
+    gear: "HiFi"
   },
   en: {
-    hifi: "Tech"
+    hifi: "Tech",
+    gear: "HiFi"
   }
 };
 
@@ -18,6 +20,11 @@ const siteMeta = {
         title: "Tech",
         tagline: "Ljud, system och konstruktion",
         headerClass: "header-hifi"
+      },
+      gear: {
+        title: "HiFi",
+        tagline: "Hört, haft, drömt och udda",
+        headerClass: "header-hifi"
       }
     }
   },
@@ -31,6 +38,11 @@ const siteMeta = {
       hifi: {
         title: "Tech",
         tagline: "Sound, systems, and construction",
+        headerClass: "header-hifi"
+      },
+      gear: {
+        title: "HiFi",
+        tagline: "Hört, haft, drömt och udda",
         headerClass: "header-hifi"
       }
     }
