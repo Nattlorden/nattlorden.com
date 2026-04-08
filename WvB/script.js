@@ -118,26 +118,26 @@ function loadContent(section) {
             <h2>Bibliografi</h2>
 
             Sång för Kongl. Westgötha-Dahls regemente / Brn.. Vänersborg. 1836
-<p>1837 - Dikter I</p>
+<p><font color=yellow><b>1837 - Dikter I</b></font></p>
 <p>1838 - Dikter II</p>
 <p>1840 - Nyare dikter</p>
 <p>1841 - Dikter IV</p>
-<p>1843 - Calle. Också en poetisk kalender</p>
-<p>1844 - Carolina. Poetisk kalender</p>
+<p><font color=yellow><b>1843 - Calle. Också en poetisk kalender</b></font></p>
+<p><font color=yellow><b>1844 - Carolina. Poetisk kalender</b></font></p>
 <p>1846 - Bror. Poetisk kalender</p>
 <p>1847 - Berättelser och utkast</p>
-<p>1847 - Knut. Poetisk kalender</p>
+<p><font color=yellow><b>1847 - Knut. Poetisk kalender</b></font></p>
 <p>1849 - Den namnlöse. Poetisk kalender</p>
 <p>1849 - Lite’ nytt till julen</p>
-<p>1850 - Berättelser, reseminnen m. m.</p>
+<p><font color=yellow><b>1850 - Berättelser, reseminnen m. m.</b></font></p>
 <p>1850 - En Hökarebetjents Äfwentyr</p>
 <p>1850 - En syn i paradiset</p>
 <p><font color=green><b>1851 - Herr Börje. Poetisk kalender</b></font></p>
 <p>1853 - Den unge Tobiæ resa</p>
-<p>1853 - Sju sofvare. Poetisk kalender</p>
+<p><font color=yellow><b>1853 - Sju sofvare. Poetisk kalender</b></font></p>
 <p><font color=green><b>1856 - Farbror Mårten. Poetisk kalender</b></font></p>
 <p><font color=green><b>1858 - Z. Poetisk kalender</b></font></p>
-<p>1860 - Borup. Poetisk kalender<p>
+<p><font color=yellow><b>1860 - Borup. Poetisk kalender</b></font><p>
 
 <h3>Postumt</h3>
 
@@ -242,11 +242,12 @@ function loadContent(section) {
             <p>2026-04-07 Email till Ulricehamns tidning - om det utlysts stämma därigenom
             <br> - svar hänvisande enbart till Lennart Wasling med hitta.se telefonnummer.</p>
 
-            <p>2026-04-07 Lagt en frågande post på proveniens.infokus.se, mailat en person privat</p>
+            <p>2026-04-07 Lagt en frågande post på proveniens.infokus.se, mailat en person privat som inte hade en aning.</p>
 
             <p>2026-04-07 Mailat en Uddevallabloggare</p>
 
-            <p>2026-04-07 Mailat Föreningsarkivet i Borås och Skaraborgs Föreningsarkiv efter tips från arkivet i Ulricehamn</p>
+            <p>2026-04-07 Mailat Föreningsarkivet i Borås och Skaraborgs Föreningsarkiv efter tips från arkivet i Ulricehamn<br>
+            - Borås hade inget arkiverat.</p>
         `;
     }
    
