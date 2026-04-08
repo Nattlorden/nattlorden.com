@@ -965,23 +965,351 @@ Mer subjektivt, men kanske lite historiska fakta också.`,
       showPlaceholder: true
     }, 
     hifiklubben: {
-      menuTitle: "HiFi-klubben",
-      title: "HiFi-klubben",
-      text: `Dummytext för senare ifyllnad.`,
-      showPlaceholder: true
-    }, 
+      menuTitle: "Hi-Fi Klubben",
+  title: "Hi-Fi Klubben",
+  blocks: [
+    {
+      type: "text",
+      content: `Hi-Fi Klubben är inte bara en butikskedja – det är resultatet av en ganska ovanlig idé:
+
+Att sälja hi-fi direkt till entusiaster, utan mellanhänder, med fokus på ljud snarare än marknadsföring.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `1975 startar en 24-årig Peter Lyngdorf bolaget AudioNord i Danmark.
+
+Fokus ligger på distribution av hi-fi-komponenter, med tidiga varumärken som Cerwin-Vega och Transcriptors (den senare känd från <i>A Clockwork Orange</i>. 1978 tillkommer NAD – ett samarbete som skulle bli avgörande.`
+    },
+    {
+      type: "text",
+      content: `1980 skickas en enkel postorderkatalog ut till kunderna: AudioVisen.
+
+I samma rörelse skapas en kundklubb – Hi-Fi Klubben.
+
+Det är här modellen sätts:
+Direktrelation till kunden, egna produkter, och en tydlig filosofi om att bra ljud inte behöver vara onödigt dyrt.`
+    },
+    {
+      type: "text",
+      content: `Sverige får tidig närvaro redan 1978 via NAD-butiken i Tullhuset i Helsingborg – en kombination av postorder och demobutik.
+
+1982 startar formell postorderverksamhet i Sverige.
+
+1988 ombildas verksamheten till Hi-Fi Klubben Sverige efter att NAD Svenska AB integrerats i AudioNord.`
+    },
+    {
+      type: "text",
+      content: `1994 samlas Danmark, Norge och Sverige i en gemensam organisation: Hi-Fi Klubben.
+
+Under samma period rivs det gamla Tullhuset i Helsingborg när Norra Hamnen byggs om (området som senare blir H99). Butiken flyttas först upp mot Hälsobacken och senare tillbaka till Järnvägsgatan.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Hi-Fi Klubben har sedan dess utvecklats till en nordisk detaljhandelsmodell där egna och exklusiva varumärken står i centrum.
+
+2023/24 omsätter gruppen cirka 1,03 miljarder DKK med runt 90 butiker i fem länder.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Bakom kulisserna fortsätter Peter Lyngdorf att forma branschen:
+
+• Ägde hela NAD 1991–1999 (sålt till Lenbrook)
+• Snell Acoustics 1989–1996
+• Grundade TacT (digital förstärkning och rumskorrektion)
+• Startade Lyngdorf Audio
+• Samarbete med Steinway & Sons (2007)
+• Medgrundare till Purifi Audio (Class D och element)
+• Koppling till Radiant Acoustics (2024)
+
+Det är en röd tråd av samma idé:
+kontroll över hela kedjan – från teknik till lyssningsupplevelse.`
+    }
+  ],  showPlaceholder: false
+    },
+    
+    
     dali: {
-      menuTitle: "Dali",
-      title: "Dali",
-      text: `Dummytext för senare ifyllnad.`,
-      showPlaceholder: true
-    }, 
+  menuTitle: "DALI",
+  title: "DALI – Danish Audiophile Loudspeaker Industries",
+  blocks: [
+    {
+      type: "text",
+      content: `DALI grundas 1983 som ett direkt resultat av erfarenheterna från Hi-Fi Klubben.
+
+Peter Lyngdorf hade redan börjat bygga högtalare i sin källare – initialt för NAD – och nästa logiska steg blev ett eget högtalarmärke.`
+    },
+    {
+      type: "text",
+      content: `Den första modellen var DALI 2 – en kompakt bokhyllehögtalare med 6,5-tums bas.
+
+Den följdes snabbt av DALI 4, 6 och 8.
+
+DALI 8 blev särskilt viktig som företagets första basreflexkonstruktion – ett steg bort från den tidens dominerande slutna lådor.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Serien kompletterades senare med udda modeller:
+
+• DALI 3 – stativhögtalare med 8” bas  
+• DALI 5 – fyllde gapet i serien  
+• DALI 7 – modellen som sammanfattar hela filosofin`
+    },
+    {
+      type: "header",
+      content: "DALI 7 – där idé möter forskning"
+    },
+    {
+      type: "text",
+      content: `DALI 7 bygger vidare på DALI 6 men går över till basreflex och ett finjusterat kabinett.
+
+Men det verkligt intressanta händer i filtret.
+
+Under samma period publicerar Floyd E. Toole sin banbrytande forskning kring hur människor faktiskt upplever högtalare, baserat på dubbelblinda lyssningstester.`
+    },
+    {
+      type: "text",
+      content: `DALI tar direkt intryck av detta och introducerar:
+
+"Asymmetrical-slope Linear Directivity crossover"
+
+Principen är enkel, men kraftfull:
+olika brant filtrering uppåt och nedåt för elementen → jämnare spridning → stabilare ljud i verkliga rum.`
+    },
+    {
+      type: "text",
+      content: `Resultatet blir:
+
+• Bredare sweetspot  
+• Mindre rumsberoende  
+• Jämnare energifördelning  
+
+Detta är idag standardtänk – men var tydligt nytänkande vid lanseringen.`
+    },
+    {
+      type: "text",
+      content: `Det är inte orimligt att säga att DALI var bland de första att marknadsföra en konsumenthögtalare med ett uttalat fokus på kontrollerad direktivitet.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Basreflexavstämningen följer QB3-principen (Quasi-Butterworth Third-Order).
+
+Detta sammanfaller med en annan förändring i branschen:
+
+De första datorbaserade simuleringsverktygen, som LEAP runt 1985, gör avancerad låddesign praktiskt möjlig.
+
+I DALI 7 verkar valet ha varit:
+först bestäm avstämning → sedan specificera element.`
+    },
+    {
+      type: "text",
+      content: `Den använda 10”-basen är en specialbeställd OEM-lösning, vilket ytterligare pekar på en design där systemet styr – inte enskilda komponenter.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I modern tid har DALI – liksom resten av branschen – rört sig bort från stora enskilda element.
+
+Istället används:
+• Mindre koner  
+• Styvare material  
+• Starkare magnetsystem  
+
+Två 8” ger nästan samma membranyta som en 10”, men i ett smalare och mer praktiskt kabinett.
+
+10” lever kvar – men främst i subwoofers.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "header",
+      content: "Modellprogram över tid"
+    },
+    {
+      type: "text",
+      content: `En översikt av DALIs utveckling fram till 2025:`
+    },
+    {
+      type: "text",
+      content: `1983–94: Numeric Classic (2–8)  
+1990–93: 100-serien (101–109)  
+1991–94: Skyline  
+1993–99: Red-serien  
+1994–03: Royal  
+1996–12: MegaLine  
+1997–02: Grand  
+1998–04: Evidence  
+1999–06: Blue-serien  
+2000–06: Concept  
+2001–08: Suite  
+2002–09: Euphonia  
+2004–11: Helicon  
+2005–13: IKON  
+2006–15: Mentor  
+2008–14: Lektor  
+2009–17: Fazon  
+2011–20: Zensor  
+2012→: Epicon  
+2013→: Kubik  
+2014→: Rubicon  
+2015–22: Opticon  
+2016→: Spektor  
+2017→: Callisto C  
+2018→: Oberon  
+2022→: KORE  
+2023→: Epikore  
+2024→: Rubikore`
+    }
+  ],  showPlaceholder: false
+    },
     snell: {
-      menuTitle: "Snell",
-      title: "Snell",
-      text: `Dummytext för senare ifyllnad.`,
-      showPlaceholder: true
-    }, 
+  menuTitle: "Snell",
+  title: "Snell",
+  blocks: [
+    {
+      type: "text",
+      content: `Snell är en av de där tillverkarna som aldrig riktigt blev massmarknad – men som lämnade ett avtryck som fortfarande diskuteras med en viss vördnad.
+
+Allt börjar med Peter Snell, en konstruktör med en ovanligt kompromisslös syn på vad en högtalare skulle vara. Inte “bra för priset”. Inte “tillräckligt neutral”.
+
+Utan korrekt.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Type A – högtalaren som blev en vägg</b>
+
+Den första verkligt ikoniska modellen, Type A, var inte bara en högtalare – det var ett statement.
+
+Den var byggd för att fungera nära bakvägg, nästan som en integrerad del av rummet. Inte som ett kompromissval, utan som en akustisk strategi. Resultatet var en presentation som kändes större än rummet själv, med en tyngd och skala som få andra konstruktioner i tiden kunde matcha.
+
+Det var inte smått.
+Det var inte diskret.
+Men det var övertygande.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Den verkliga hemligheten – matchning</b>
+
+Det som verkligen särskilde Snell var inte formen – utan processen.
+
+Varje högtalare mättes och justerades individuellt.
+Inte bara en gång, utan i flera punkter och vinklar.
+
+Filter och element matchades så noggrant att varje exemplar skulle uppföra sig som referensprototypen.
+
+Detta var både briljant och opraktiskt.
+
+När något gick sönder kunde man inte bara byta ett element.
+Man var tvungen att återskapa balansen.
+
+Det säger något om ambitionsnivån.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Hi-Fi Klubben-eran</b>
+
+När Snell dök upp hos Hi-Fi Klubben var det för många första mötet med märket.
+
+Det var inte längre Type A som stod i fokus, utan modeller som J, K och E – och senare även C-serien, som C-III och C-IV.
+
+Det var mer tillgängliga högtalare, men fortfarande med tydligt DNA från originalfilosofin.
+
+Jag har kvar en gammal Hi-Fi Klubben-katalog med marginalanteckningar från lyssningar. Vid Snell C står bara ett stort frågetecken.
+
+Jag förstod inte då att det var just det – att inget stack ut, inget försökte imponera – som var det imponerande.
+
+Den lärdomen kom långt senare.
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>E-serien – där det blev personligt</b>
+
+För mig landade det i E-II och E-III.
+
+De hade något som inte riktigt går att mäta – en balans mellan närvaro och mjukhet som gjorde att vissa inspelningar bara föll på plats.
+
+Ett sådant ögonblick var ABBA:s “Andante, Andante”.
+
+Inte spektakulärt – bara… rätt.
+
+Hade förutsättningarna funnits då, så hade det sannolikt blivit ett par.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Efter Peter Snell</b>
+
+När Peter Snell gick bort försvann något fundamentalt.
+
+Företaget levde vidare, och produkterna fortsatte vara bra – men den där extrema konsekvensen i filosofi och utförande började gradvis lösas upp.
+
+Till slut blev Snell något annat än det en gång var.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Arvet lever vidare</b>
+
+En intressant fotnot är att Audio Note i praktiken har fört arvet vidare.
+
+Flera av deras konstruktioner bygger direkt på Snells principer – och i vissa fall på modeller som E och J – men med moderna komponenter och egen tolkning.
+
+Det är inte kopior i nostalgisk mening.
+Snarare en fortsättning på en idé som vägrade dö.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>En kvarvarande nyfikenhet</b>
+
+Det finns fortfarande modeller jag aldrig riktigt fick uppleva.
+
+En sådan är B Minor.
+
+Och det är något med Snell som gör att sådana luckor inte riktigt försvinner.
+
+De ligger kvar – som en anteckning i marginalen:
+
+"Det där borde du ha hört."`
+    }
+  ]
+    },
     nad: {
       menuTitle: "NAD",
       title: "NAD",
