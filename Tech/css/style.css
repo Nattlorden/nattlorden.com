@@ -539,3 +539,14 @@ body[data-theme="hifi"] .back-home img {
 body:not([data-theme="hifi"]) .back-home img {
   filter: brightness(0.9);
 }
+
+/* note som av ett minne */
+
+.note-block {
+  margin: 2rem 0;
+  padding: 1rem 1.2rem;
+  background: rgba(255,255,255,0.03);
+  border-left: 2px solid rgba(255,255,255,0.15);
+  font-style: italic;
+  opacity: 0.9;
+}

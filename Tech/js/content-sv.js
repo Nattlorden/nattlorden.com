@@ -1238,14 +1238,15 @@ När Snell dök upp hos Hi-Fi Klubben var det för många första mötet med mä
 
 Det var inte längre Type A som stod i fokus, utan modeller som J, K och E – och senare även C-serien, som C-III och C-IV.
 
-Det var mer tillgängliga högtalare, men fortfarande med tydligt DNA från originalfilosofin.
-
-Jag har kvar en gammal Hi-Fi Klubben-katalog med marginalanteckningar från lyssningar. Vid Snell C står bara ett stort frågetecken.
-
+Det var mer tillgängliga högtalare, men fortfarande med tydligt DNA från originalfilosofin.`
+    },
+    {
+      type: "note",
+      content: `Jag har kvar en gammal Hi-Fi Klubben-katalog med marginalanteckningar från lyssningar. Vid Snell C står bara ett stort frågetecken.
+<p>
 Jag förstod inte då att det var just det – att inget stack ut, inget försökte imponera – som var det imponerande.
-
-Den lärdomen kom långt senare.
-`
+<p>
+Den lärdomen kom långt senare.`
     },
     {
       type: "divider"
@@ -1308,14 +1309,103 @@ De ligger kvar – som en anteckning i marginalen:
 
 "Det där borde du ha hört."`
     }
-  ]
+  ], showPlaceholder: false
     },
+
     nad: {
-      menuTitle: "NAD",
-      title: "NAD",
-      text: `Dummytext för senare ifyllnad.`,
-      showPlaceholder: true
-    }, 
+  menuTitle: "NAD",
+  title: "NAD – New Acoustic Dimension",
+  blocks: [
+    {
+      type: "text",
+      content: `NAD (New Acoustic Dimension) grundades 1972 med en ovanlig utgångspunkt: att bra ljud inte skulle vara en fråga om prestige, utan om ingenjörskonst och prioriteringar.
+
+Istället för att lägga resurser på chassi, finish och marknadsföring valde NAD att fokusera på det som faktiskt hörs – kretsdesign, strömförsörjning och verklig prestanda under belastning.
+
+Resultatet blev produkter som på pappret ofta såg enkla ut, men som i praktiken presterade långt över sin prisklass.
+
+Den kanske mest ikoniska produkten är NAD 3020 – en integrerad förstärkare som förändrade marknaden genom att visa att låg effekt på papperet inte var samma sak som svag i verkligheten. NAD:s filosofi kring “dynamic power” och verklig lastförmåga blev ett signum.
+
+Bakom mycket av detta stod Bjørn-Erik Edvardsen – ofta kallad “Erik” – som under decennier formade NAD:s tekniska identitet. Hans fokus låg konsekvent på dynamisk reserv, stabilitet och att förstärkaren skulle behålla kontroll även när musiken krävde det.
+
+NAD blev därmed inte ett varumärke för “hifi som status”, utan för hifi som verktyg – rationellt, ibland nästan asketiskt, men med en tydlig ambition: att låta musiken passera så opåverkad som möjligt.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Min första kontakt med NAD var på Hi-Fi Klubben i Tullhuset i Helsingborg. Jag såg dem mest i förbifarten när vi var där för att köpa högtalarelement till ett Voigt-hornbygge, men fick med mig katalogen hem.
+
+När det sedan stod klart att högtalarna krävde något bättre än det jag hade, föll valet på en NAD Monitor Series 3100PE.
+
+Det var sannolikt inte bara data som avgjorde. Jag har en vag men kvarhängande känsla av att den hade en annan kontroll än alternativen när jag provlyssnade via butikens högtalarväxel – men det är ett sådant där minne man inte riktigt vågar svära på.
+
+Priset låg runt 3000 kronor, vilket då var en betydande investering.
+
+De följande åren byggdes systemet ut, en komponent i taget – CD-spelare och kassettdeck i samma Monitor Series. Jag ville även ha tunern 4300, men den hann försvinna ur sortimentet innan jag hade möjlighet.
+
+Den blev en av mina tidiga “enhörningar”.
+
+Jag missade den vid ett par tillfällen genom åren, innan jag till slut – många år senare, 2025 – fick tag på ett mycket fint exemplar.
+
+En annan enhörning är rackhandtagen med röd insert. En full Monitor Series-stack med sådana hade varit estetiskt fulländad – men den drömmen är sannolikt mer illusion än projekt.
+
+Min ursprungliga 3100PE såldes vidare till en kollega, men gjorde något av en cirkelrörelse genom livet och återvände till mig långt senare, efter att ha stått oanvänd under flera år.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Den mest intressanta NAD-produkten – och sannolikt en av de mest underskattade konstruktionerna i företagets historia – är NAD 208.
+
+Ett slutsteg byggt kring klass-G, med fokus på dynamisk effektreserv snarare än nominella siffror. Det finns en seglivad myt om att konstruktionen skulle komma från en anonym brittisk firma, men mycket pekar på att det i själva verket var Edvardsen själv som låg bakom.
+
+Och det märks.
+
+208:an levererar en nivå av kontroll och transparens som gör att den ofta beskrivs som “straight wire with gain” – en förstärkare som i praktiken försvinner ur kedjan.
+
+Efter positiva omdömen från Ljudtekniska Sällskapet höll den länge oväntat höga priser på begagnatmarknaden.
+
+Min egen första upplevelse av den, någon gång i början av 90-talet, var dock det motsatta.
+
+Jag tyckte den lät kall. Nästan klinisk.
+
+I efterhand säger det förmodligen mer om mina dåvarande preferenser än om förstärkaren i sig. Jag sökte värme och färg – och 208 levererade kontroll och neutralitet.
+
+Det är en lärdom som tagit tid att förstå.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Idag ser NAD-samlingen ut så här:
+
+2 × NAD 208  
+2 × NAD 218  
+1 × NAD 2600A  
+1 × NAD 4300  
+1 × NAD 3100PE  
+1 × NAD 5130 (skivspelare)  
+1 × NAD RIAA (modell okänd)
+
+Status något osäker på:
+NAD 5000 (CD-spelare)  
+NAD 6100 (kassettdeck)
+
+Det kan också finnas ytterligare något slutsteg i gömmorna – NAD har en tendens att dyka upp igen, snarare än att försvinna.
+
+Och kanske är det just det som definierar märket bäst:
+
+Det gör inte väsen av sig.  
+Det bara fungerar.  
+Och förr eller senare hittar det tillbaka.`
+    }
+  ], showPlaceholder: false
+    },
+
     magnaplanar: {
       menuTitle: "Magnaplanar",
       title: "Magnaplaner",
@@ -1323,11 +1413,79 @@ De ligger kvar – som en anteckning i marginalen:
       showPlaceholder: true
     }, 
     metavox: {
-      menuTitle: "Metavox",
-      title: "Metavox",
-      text: `Dummytext för senare ifyllnad.`,
-      showPlaceholder: true
-    }, 
+  menuTitle: "Metavox",
+  title: "Metavox",
+  blocks: [
+    {
+      type: "text",
+      content: `Metavox är ett produktnamn som dök upp i svensk hifi under 90-talet, kopplat till det lilla Helsingborgsbaserade enmansföretaget BC Electronics – drivet av Boris Cop.
+
+Namnet Metavox kom att användas på åtminstone två olika förstegskonstruktioner, som båda på sitt sätt rörde sig i gränslandet mellan ingenjörskonst, experiment och kompromisslös ambition.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Den större modellen, Metavox 930, presenterades i High Fidelity nummer 1 1994. Det var ett balanserat försteg som i sig bar tydliga spår av en konstruktör som inte var rädd för att gå sin egen väg.
+
+En av de mer ovanliga lösningarna var att volymkontrollen hanterades via en DAC. När man justerade volymen – exempelvis via fjärrkontroll – aktiverades en omkodningsprocess, varefter elektroniken återgick till ett viloläge. Det var en lösning jag själv bara sett i praktiken hos Boris Cop.
+
+Huruvida Metavox 930 någonsin såldes i någon egentlig serie är oklart. Det exemplar som visades och demonstrerades kan mycket väl ha varit ett unikt bygge.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Den mindre modellen, Metavox 201, är den jag själv kom i kontakt med – och också köpte, efter att ha sett en närmast anonym liten annons, troligen i HiFi & Musik. Det som stack ut var inte marknadsföringen, utan de tekniska specifikationerna, som var på gränsen till absurda.
+
+Detta var ett försteg byggt kring högkvalitativa Burr-Brown operationsförstärkare, i samma anda som samtida konstruktioner från exempelvis Mark Levinson. Konstruktionen använde sig dessutom av så kallad “virtual battery”-drift – en lösning som i praktiken efterliknar batterimatningens stabilitet och renhet.
+
+För den som ville ta det hela ett steg längre gick det även att driva enheten med faktiska batterier, något flera ägare experimenterade med. Strömförbrukningen var så låg att det faktiskt var praktiskt genomförbart.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<b>Tekniska data (Metavox 201)</b>
+
+Frekvensgång: DC till över 100 kHz  
+Signal/brusförhållande: -126 dB(A)  
+Ingångsimpedans: 10 kOhm  
+Utgångsimpedans: < 10 Ohm  
+
+Siffror som på den tiden – och i många fall fortfarande – framstår som närmast overkliga i sitt sammanhang.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Metavox 201 såldes både som färdig enhet och som löst kretskort. Jag känner till flera exemplar i omlopp, till skillnad från 930 som mer framstår som en konstruktion man nästan behövde känna upphovsmannen för att ens få se.
+
+Boris Cop själv var tydligt inspirerad av high-end-tillverkare som Mark Levinson, och det märktes i både komponentval och konstruktionsfilosofi. Samtidigt fanns där en frihet – kanske just för att det var ett enmansprojekt – som gjorde att lösningarna ibland tog vägar man sällan ser i kommersiella produkter.
+
+Jag vill minnas att jag även köpte en Pioneer PD-S06 av honom.`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "note",
+      content: `Jag hittade nyligen en gammal text på nätet med tekniska data och beskrivning av Metavox 201.
+
+Det visade sig vara jag själv som skrivit den en gång i tiden.
+
+Det säger kanske något om både entusiasmen och tidsandan – en period där man fortfarande kunde snubbla över små annonser, ringa ett nummer, och plötsligt befinna sig mitt i något som kändes större än vad det egentligen var.`
+    },
+    {
+      type: "text",
+      content: `Eller kanske precis så stort som det behövde vara.`
+    }
+  ], showPlaceholder: false
+},
     holfi: {
       menuTitle: "Holfi",
       title: "Holfe",

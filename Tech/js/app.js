@@ -187,6 +187,14 @@ function renderContent() {
         `;
       }
 
+      if (block.type === "note") {
+       html += `
+        <div class="note-block">
+            ${block.content || ""}
+        </div>
+      `;
+      }
+
       if (block.type === "image") {
         const imageSize = block.size ? `image-${block.size}` : "image-full";
 
