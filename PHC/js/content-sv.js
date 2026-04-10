@@ -129,7 +129,10 @@ Then danger has exquisite taste
 Ingen förklaring.
 Ingen upplösning.
 
-Endast riktning.`
+Endast riktning.
+
+<a href="https://open.spotify.com/album/4U0E5GB6BbnWCccGx8Q31c?si=r1xkn2rtTLebJ-hH8ocRCA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/qPgpp66yed0?list=OLAK5uy_n-I8o0kDS1L1kDg2OOaaD5jQ_XFWkmHxg" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -223,7 +226,10 @@ Please try again</code>
 Ingen förklaring.
 Ingen upplösning.
 
-Endast riktning.`
+Endast riktning.
+
+<a href="https://open.spotify.com/album/3m6s8e1ylgh25WI2F9umj9?si=TzZHWyK3Qbac71ZJfOwWsQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/MeDmLaMMnSY?list=OLAK5uy_lU0t0BCflyhvBv4K-cbBdap61Tz6J5RjQ" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -333,7 +339,10 @@ And don’t forget to <b>subscribe</b>.</i>
 Ingen förklaring.
 Ingen upplösning.
 
-Endast riktning.`
+Endast riktning.
+
+<a href="https://open.spotify.com/album/323CnWA4gQBEx6Vr8x6ef0?si=FpIIxsRBQdCOFlUOnWnSyg" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Zx_kNFDYDbg?list=OLAK5uy_mR9-MadrAZf1TYY7WonFn1pK_D9TBP_Kc" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -438,7 +447,10 @@ Systemet vilar.
 Och ändå —
 
 finns något avsatt
-för den som möjliggjorde allt?`
+för den som möjliggjorde allt?
+
+<a href="https://open.spotify.com/album/1MaQotB3YNACcjIrWlBxJH?si=jn2T_92ERnmfVLjiv8K8Xw" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/w46vpN5VCfw?list=OLAK5uy_nM8jYJBLMYv_XUzOVAq5qPWQLEW5vV47w" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -540,7 +552,10 @@ De blev ihågkomna.
 Och kanske —
 
 förstod de spelets regler
-bättre än någon som betraktade dem.`
+bättre än någon som betraktade dem.
+
+<a href="https://open.spotify.com/album/0N54aW4ST92G4J4AqlWj2x?si=7vwVx9U3QeuSkgcFlRs7dg" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/1NTdhHjmCNE?list=OLAK5uy_mcx61koaS9ZRS_1HRMVoK-hyvrMamJkrs" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -634,7 +649,10 @@ Men om du står kvar —
 
 tillräckligt länge, tillräckligt stilla —
 
-börjar något annat ta form.`
+börjar något annat ta form.
+
+<a href="https://open.spotify.com/album/3WQwFp8R3VDVKUT9TuzMbn?si=J2Pc4I2wRbaS8iWMPXbr4g" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/BKqvcHDnlII?list=OLAK5uy_n3krAaC7nc-eUnhawWtpnG6zkXgmv6NCg" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -769,7 +787,8 @@ Det är det som alltid redan pågår.`
     },
     {
       type: "text",
-      content: `Här kan nästa textblock komma.`
+      content: `<a href="https://open.spotify.com/album/0aqqgV9AabGyeAnghzfebC?si=Fp1aztsrSbuxAJZaI8Mfgg" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=PyzRhx2SyiA&list=OLAK5uy_mGW43D-qP7nqkU26Nhk907Y04rqG1FDEc" target="_blank" rel="noopener noreferrer">YouTube</a>
+      `
     }
   ],
   showPlaceholder: false
@@ -798,7 +817,10 @@ Ingenting är slumpmässigt.
 
 Du introduceras inte.
 
-Du släpps in.`
+Du släpps in.
+
+<a href="https://open.spotify.com/track/64YwDutMibzjAEEjUSTsLb?si=dc3213d1afff47a9" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/PyzRhx2SyiA?si=fNGp32AjdsNeL6hR" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -880,8 +902,8 @@ Welcome home.
     }
   ],
   showPlaceholder: false
-  },    
-    tracks1_2: {
+  },
+  tracks1_2: {
       menuTitle: "2. Do what thou wilt (but make it fashion)",
       title: "Do what thou wilt (but make it fashion)",
       blocks: [
@@ -893,7 +915,10 @@ Endast uttryck.
 
 Du må göra vad du vill.
 
-Men det måste göras väl.`
+Men det måste göras väl.
+
+<a href="https://open.spotify.com/track/7Clw2ohIwbSPvjtspsHynX?si=b92617535cbe4e21" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Q9bC9gYPcNg?si=3CL5fR_UvOsOL4cp" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -969,12 +994,12 @@ But make it fashion
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_3: {
+  },
+  tracks1_3: {
       menuTitle: "3. House of Discipline",
       title: "House of Discipline",
-         blocks: [
-    {
+     blocks: [
+     {
       type: "text",
       content: `<code>
 AVVIKELSE REGISTRERAD
@@ -985,7 +1010,10 @@ KORRIGERING TILLÄMPAD
 
 HÄNVISAS TILL:
 <i>HOUSE OF DISCIPLINE</i></code>
-<p> &nbsp; `
+<p> &nbsp; 
+
+<a href="https://open.spotify.com/track/2oeGvt2LwnFlIYCS4qy08T?si=50480c787b764e1a" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Txau1d_QeAs?si=95QRKGiYTXE8n9-3" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1068,12 +1096,12 @@ That’s enough.</i>`
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_4: {
+  }, 
+  tracks1_4: {
       menuTitle: "4. The Devil is a Brand Manager",
-      title: "Devil is a Brand Manager",
-         blocks: [
-          {
+      title: "The Devil is a Brand Manager",
+     blocks: [
+      {
       type: "image",
       src: "assets/phc/images/Devil.png",
       size: "small",
@@ -1090,7 +1118,10 @@ Symboler omformas.
 Ingenting försvinner.
 
 Det lär sig bara
-att presentera sig.`
+att presentera sig.
+
+<a href="https://open.spotify.com/track/6FGSK0VS3B8WUOFDJP9yth?si=d99e35034b25422c" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/qLnZU9-EGW8?si=sjvcWfIpZaMD-Mx7" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1167,12 +1198,12 @@ While stocks last.`
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_5: {
+  },
+  tracks1_5: {
       menuTitle: "5. Sacred Profane",
       title: "Sacred Profane",
-         blocks: [
-    {
+     blocks: [
+     {
       type: "text",
       content: `Åtskillnaden upplöses.
 
@@ -1190,7 +1221,10 @@ Inte bortom.
 
 Utan här,
 i det som väljs
-och tillåts stanna kvar.`
+och tillåts stanna kvar.
+
+<a href="https://open.spotify.com/track/3VPYsjVijacg0tWwvp48EH?si=fead8c4035384eed" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/k-XYVo5ViB8?si=fjQPAEuxa9GHOtTq" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1270,12 +1304,12 @@ Amen…`
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_6: {
+  },
+  tracks1_6: {
       menuTitle: "6. Rituals for the Beautiful",
       title: "Rituals for the Beautiful",
-         blocks: [
-    {
+     blocks: [
+     {
       type: "text",
       content: `Ingenting uppstår utan förberedelse.
 
@@ -1288,7 +1322,10 @@ Det som kallas naturligt
 
 Du kan avstå från ritualen.
 
-Eller lära dig den.`
+Eller lära dig den.
+
+<a href="https://open.spotify.com/track/0oFby8GCCBAy9NjhmE7AnC?si=01b062536dfc49e4" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/t5p8Q_8jVeg?si=DbBOvbRIU1IjD7V4" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1364,12 +1401,12 @@ It’s enforced.`
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_7: {
+  },
+  tracks1_7: {
       menuTitle: "7. Leather Apostles",
       title: "Leather Apostles",
-         blocks: [
-    {
+     blocks: [
+     {
       type: "text",
       content: `Ingenting predikas.
 
@@ -1384,7 +1421,10 @@ Rörelse utan tvekan.
 Det som uppstår är inte tro —
 
 utan en gemensam visshet
-som inte behöver ord.`
+som inte behöver ord.
+
+<a href="https://open.spotify.com/track/6U7SWvsaAj20uiZpt7vdHX?si=f77858f8cf6e4670" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/QKM5OHhAZ20?si=gZUh8_vYXQNd01Th" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1457,12 +1497,12 @@ Stay in formation.`
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_8: {
+  },
+  tracks1_8: {
       menuTitle: "8. Drag is a Spell",
       title: "Drag is a Spell",
-         blocks: [
-    {
+     blocks: [
+     {
       type: "text",
       content: `Säg det.
 
@@ -1474,7 +1514,10 @@ En kropp omskriven
 i realtid,
 tills spegelbild
 och intention
-inte längre skiljer sig.`
+inte längre skiljer sig.
+
+<a href="https://open.spotify.com/track/1pSAK1TsZhyv7IIbV0huuf?si=fa73666c83944969" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/ZniqOJQ2tpo?si=-cHaXgrVmQIknIVi" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1552,12 +1595,12 @@ Let them adjust.`
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_9: {
+  },
+  tracks1_9: {
       menuTitle: "9. High Priest of low culture",
       title: "High Priest of low culture",
-         blocks: [
-    {
+     blocks: [
+     {
       type: "text",
       content: `Ingenting här är upphöjt.
 
@@ -1578,7 +1621,10 @@ Den sätts samman,
 helt öppet,
 och lämnas att fungera.
 
-<b><i>Maintenance</i></b>`
+<b><i>Maintenance</i></b>
+
+<a href="https://open.spotify.com/track/4aLO4ouXHiwGzBQVO1ksQn?si=7573fb54daf1483c" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_2KTR6uSs6Y?si=oB-0JHDMXFtViaFS" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1650,12 +1696,12 @@ Service concluded.`
     }
   ],
   showPlaceholder: false
-    },
-    tracks1_10: {
+  },
+  tracks1_10: {
       menuTitle: "10. Exit Through the Gift Shop",
       title: "Exit Through the Gift Shop",
-         blocks: [
-    {
+     blocks: [
+     {
       type: "text",
       content: `Ingenting hålls kvar.
 
@@ -1670,7 +1716,10 @@ Ta det som passar.
 Lämna resten.
 
 Om något dröjer sig kvar,
-räcker det.`
+räcker det.
+
+<a href="https://open.spotify.com/track/7v0RbJuOS6MvsKS1VFTVap?si=934ded9230b94368" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/StSLql3xUF0?si=b6rqK7y4JlD39hoF" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1744,8 +1793,7 @@ Take care.</b></i>`
     }
   ],
   showPlaceholder: false
-    },
-  
+  },
     concept: {
       menuTitle: "Koncept",
       title: "Koncept",
@@ -1818,7 +1866,8 @@ The High Castle rör sig genom hierarkier, system och det som händer när menin
     },
     {
       type: "text",
-      content: `Här kan nästa textblock komma.`
+      content: `<a href="https://open.spotify.com/album/34AIK7NbIRCNPPBJBqXm05?si=QJHo-b2VRC2k9zudj0fNNQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=P8fDJ0dhiUU&list=OLAK5uy_kvrLwqal4ee7KwgSPuJ18Gj1vWJGOymZ8" target="_blank" rel="noopener noreferrer">YouTube</a>
+      `
     }
   ],
   showPlaceholder: false
@@ -1843,7 +1892,10 @@ Användare förblir i linje.
 
 Prediktionsnoggrannhet ökar.
 
-Trosstatus: stabil.</code>`
+Trosstatus: stabil.</code>
+
+<a href="https://open.spotify.com/track/1K61yicfPcp9Mw52Pn54CC?si=d57302974a854d75" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/P8fDJ0dhiUU?si=BSspX_-rGyBXDoxV" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1958,7 +2010,10 @@ och levereras utan motstånd.
 Det som försvinner är inte tron,
 
 utan tyngden
-som en gång fick den att betyda något.`
+som en gång fick den att betyda något.
+
+<a href="https://open.spotify.com/track/4P3Llta1nvXp9JGj2hsRyb?si=ceded8e7eb3f4ae2" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/78BY05wFB2k?si=NzsgKgSL0C-6uy-K" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2042,7 +2097,10 @@ Ingen konflikt identifierad.
 
 Kontakt kvarstår.
 
-Betydelse avtar.</code>`
+Betydelse avtar.</code>
+
+<a href="https://open.spotify.com/track/3qq2hTx6IFPthqwCLe7lIi?si=be5e13f762404588" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/xvL4tycD5S8?si=X141NZ6IhmWGKN1O" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2121,7 +2179,10 @@ Avvikelse minimeras.
 Ingen brådska.
 
 System stabilt.
-Ingen tro krävs.</code>`
+Ingen tro krävs.</code>
+
+<a href="https://open.spotify.com/track/0ZHungk5mLUdEy3srp88zd?si=bfc5615a55604f50" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/NYWwzU1199Y?si=jOjcGdP8k3DPXLXq" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2203,7 +2264,10 @@ Kontinuitet säkerställd.
 
 Samtliga poster anpassade till aktuell identitet.
 
-Ingen ytterligare verifiering krävs.</code>`
+Ingen ytterligare verifiering krävs.</code>
+
+<a href="https://open.spotify.com/track/5RVCAP8090GIo5JpXt0Uyl?si=7ac90997a3f341e1" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/PAO1UZrfuVM?si=YppK6hTyymlOVTWj" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2290,7 +2354,10 @@ Införande uppskjutet.
 
 Status:
 funktionell,
-icke-kompatibel.</code>`
+icke-kompatibel.</code>
+
+<a href="https://open.spotify.com/track/0fL4ZEt9E5OOViUJoGaFJz?si=7842f458f6c841a4" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/qa2BdWiDbJ0?si=MuJ98uFkks9CsEJa" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2378,7 +2445,10 @@ No anomalies detected.
 
 Session complete.
 
-State reset.</code>`
+State reset.</code>
+
+<a href="https://open.spotify.com/track/5yI8YQeejzqjQdQu9gD9ur?si=75690c8619134fe8" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/mBM_k-GYmF4?si=SwVm1O0C6AItlSHp" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2465,7 +2535,10 @@ enligt konfiguration.
 
 Ingen eskalering krävs.
 
-Ingen åtgärd begärd.</code>`
+Ingen åtgärd begärd.</code>
+
+<a href="https://open.spotify.com/track/3DblUm7alqLVQeu8tzhAY2?si=7e4e3c84865b4440" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/7bvE90Cu_N4?si=yVPiphVKk3VTaMUR" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2558,7 +2631,10 @@ utan styrning.
 Ingen auktoritet utsedd.
 
 Struktur uppstår
-genom optimering.`
+genom optimering.
+
+<a href="https://open.spotify.com/track/2E160jSyGs8xXUOXb1csVT?si=79f61b9bdb424a84" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Rch_TBR9nzk?si=56wdhKKqKi2Nqee0" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2650,7 +2726,10 @@ Fel omklassificeras
 som indata.
 
 Systemet fortsätter
-genom approximation.</code>`
+genom approximation.</code>
+
+<a href="https://open.spotify.com/track/5CDiVquMSQCR4msc6H2wdH?si=14959d432b1a4491" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/0z9qPnSFK5M?si=FEniHJ22def9l51s" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2711,10 +2790,10 @@ Iteration released</code>
   ],
   showPlaceholder: false
     },
-     concept: {
-      menuTitle: "Koncept",
-      title: "Koncept",
-      text: `Detta album introducerar inget system.
+    concept: {
+      menuTitle: "Concept",
+      title: "Concept",
+      text: `This album does not introduce a system.
 
 Det observerar ett som redan är i drift.
 
@@ -2890,7 +2969,8 @@ Strukturen finns. Innehållet tar form.`
     }
   },
 
-  info: {
+
+info: {
   overview: {
     menuTitle: "Översikt",
     title: "Posthuman Cabaret",
@@ -2946,11 +3026,12 @@ Inte något som berättas - utan något som uppenbaras.`
 
     showPlaceholder: false
   },
-    manifesto: {
-      menuTitle: "Manifest",
-      title: "Manifest",
-      text: `Det som känns är konstruerat.
-Det som konstrueras känns.
+
+   manifesto: {
+      menuTitle: "Manifesto",
+      title: "Manifesto",
+      text: `What is felt is constructed.
+What is constructed is felt.
 
 Allt annat är irrelevant.`,
       showPlaceholder: false

@@ -36,7 +36,10 @@ Nothing appears out of place.
 And yet:
 
 if the experience is indistinguishable,
-does the distinction still matter?`
+does the distinction still matter?
+
+<a href="https://open.spotify.com/album/5IJArQ4ueFkHcGLNSEotmX?si=KstmET3OREizsdo2ffS59A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/sgHcTW7PlbU?list=RDsgHcTW7PlbU" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -124,7 +127,10 @@ Then danger has exquisite taste`
 No explanation.
 No resolution.
 
-Only direction.`
+Only direction.
+
+<a href="https://open.spotify.com/album/4U0E5GB6BbnWCccGx8Q31c?si=r1xkn2rtTLebJ-hH8ocRCA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/qPgpp66yed0?list=OLAK5uy_n-I8o0kDS1L1kDg2OOaaD5jQ_XFWkmHxg" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -218,7 +224,10 @@ Please try again</code>
 No explanation.
 No resolution.
 
-Only direction.`
+Only direction.
+
+<a href="https://open.spotify.com/album/3m6s8e1ylgh25WI2F9umj9?si=TzZHWyK3Qbac71ZJfOwWsQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/MeDmLaMMnSY?list=OLAK5uy_lU0t0BCflyhvBv4K-cbBdap61Tz6J5RjQ" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -327,7 +336,10 @@ And don’t forget to <b>subscribe</b>.</i>`
 No explanation.
 No resolution.
 
-Only direction.`
+Only direction.
+
+<a href="https://open.spotify.com/album/323CnWA4gQBEx6Vr8x6ef0?si=FpIIxsRBQdCOFlUOnWnSyg" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Zx_kNFDYDbg?list=OLAK5uy_mR9-MadrAZf1TYY7WonFn1pK_D9TBP_Kc" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -431,7 +443,10 @@ The system rests.
 And yet —
 
 is there something reserved
-for the one who made it all possible?`
+for the one who made it all possible?
+
+<a href="https://open.spotify.com/album/1MaQotB3YNACcjIrWlBxJH?si=jn2T_92ERnmfVLjiv8K8Xw" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/w46vpN5VCfw?list=OLAK5uy_nM8jYJBLMYv_XUzOVAq5qPWQLEW5vV47w" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -533,7 +548,10 @@ They were remembered.
 And perhaps —
 
 they understood the rules
-better than anyone watching them.`
+better than anyone watching them.
+
+<a href="https://open.spotify.com/album/0N54aW4ST92G4J4AqlWj2x?si=7vwVx9U3QeuSkgcFlRs7dg" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/1NTdhHjmCNE?list=OLAK5uy_mcx61koaS9ZRS_1HRMVoK-hyvrMamJkrs" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -627,7 +645,10 @@ But if you remain —
 
 long enough, still enough —
 
-something else begins to take shape.`
+something else begins to take shape.
+
+<a href="https://open.spotify.com/album/3WQwFp8R3VDVKUT9TuzMbn?si=J2Pc4I2wRbaS8iWMPXbr4g" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/BKqvcHDnlII?list=OLAK5uy_n3krAaC7nc-eUnhawWtpnG6zkXgmv6NCg" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -739,15 +760,34 @@ and calling it home`
     overview: {
       menuTitle: "Overview",
       title: "I — Maintenance",
-      text: `The system does not begin with meaning, but with function.
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/Maintenance.png",
+      size: "small",
+      caption: "Released December 26th 2025"
+    },
+    {
+      type: "text",
+      content: `The system does now begin with meaning, but with function.
 
 Maintenance revolves around ritualized surface, controlled decadence, and identity as construction.
 
 It is not a beginning.
 It is what is already in motion.`,
-  showPlaceholder: false
     },
-        tracks1_1: {
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/album/0aqqgV9AabGyeAnghzfebC?si=Fp1aztsrSbuxAJZaI8Mfgg" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=PyzRhx2SyiA&list=OLAK5uy_mGW43D-qP7nqkU26Nhk907Y04rqG1FDEc" target="_blank" rel="noopener noreferrer">YouTube</a>
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+    tracks1_1: {
       menuTitle: "1. Initiation (Lipstick & Blood)",
       title: "Initiation (Lipstick & Blood)",
       blocks: [
@@ -771,7 +811,10 @@ Nothing here is accidental.
 
 You are not introduced.
 
-You are admitted.`
+You are admitted.
+
+<a href="https://open.spotify.com/track/64YwDutMibzjAEEjUSTsLb?si=dc3213d1afff47a9" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/PyzRhx2SyiA?si=fNGp32AjdsNeL6hR" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -848,7 +891,8 @@ Welcome home
 
 Welcome home.
 
-<i>Welcome home.</i>`
+<i>Welcome home.</i>
+`
     }
   ],
   showPlaceholder: false
@@ -865,7 +909,10 @@ Only presentation.
 
 You may do as you will.
 
-But it must be done well.`
+But it must be done well.
+
+<a href="https://open.spotify.com/track/7Clw2ohIwbSPvjtspsHynX?si=b92617535cbe4e21" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Q9bC9gYPcNg?si=3CL5fR_UvOsOL4cp" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -956,8 +1003,11 @@ CAUSE: IRRELEVANT
 CORRECTION APPLIED
 
 REFER TO:
-<i>HOUSE OF DISCIPLINE</i>
-</code>`
+<i>HOUSE OF DISCIPLINE</i></code>
+<p> &nbsp; 
+
+<a href="https://open.spotify.com/track/2oeGvt2LwnFlIYCS4qy08T?si=50480c787b764e1a" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Txau1d_QeAs?si=95QRKGiYTXE8n9-3" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1051,7 +1101,7 @@ That’s enough.</i>`
       size: "small",
       caption: "Artwork done when it was considered for a single release"
     },
-     {
+    {
       type: "text",
       content: `Evolution is not exclusive.
 
@@ -1062,7 +1112,10 @@ Symbols are rebranded.
 Nothing disappears.
 
 It simply learns
-how to present itself.`
+how to present itself.
+
+<a href="https://open.spotify.com/track/6FGSK0VS3B8WUOFDJP9yth?si=d99e35034b25422c" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/qLnZU9-EGW8?si=sjvcWfIpZaMD-Mx7" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1162,7 +1215,10 @@ Not beyond.
 
 But here,
 in what is chosen
-and allowed to remain.`
+and allowed to remain.
+
+<a href="https://open.spotify.com/track/3VPYsjVijacg0tWwvp48EH?si=fead8c4035384eed" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/k-XYVo5ViB8?si=fjQPAEuxa9GHOtTq" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1260,7 +1316,10 @@ is often the most rehearsed.
 
 You may refuse the ritual.
 
-Or learn it.`
+Or learn it.
+
+<a href="https://open.spotify.com/track/0oFby8GCCBAy9NjhmE7AnC?si=01b062536dfc49e4" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/t5p8Q_8jVeg?si=DbBOvbRIU1IjD7V4" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1356,7 +1415,10 @@ Movement without hesitation.
 What emerges is not belief —
 
 but a shared certainty
-that does not require words.`
+that does not require words.
+
+<a href="https://open.spotify.com/track/6U7SWvsaAj20uiZpt7vdHX?si=f77858f8cf6e4670" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/QKM5OHhAZ20?si=gZUh8_vYXQNd01Th" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1446,7 +1508,10 @@ A body rewritten
 in real time,
 until reflection
 and intention
-no longer differ.`
+no longer differ.
+
+<a href="https://open.spotify.com/track/1pSAK1TsZhyv7IIbV0huuf?si=fa73666c83944969" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/ZniqOJQ2tpo?si=-cHaXgrVmQIknIVi" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1536,6 +1601,7 @@ Let them adjust.`
 Nothing here is beneath.
 
 Low culture is not a flaw.
+
 It is the material.
 
 Symbols are taken,
@@ -1549,7 +1615,10 @@ It is assembled,
 in full view,
 and left to function.
 
-<b><i>Maintenance</i></b>`
+<b><i>Maintenance</i></b>
+
+<a href="https://open.spotify.com/track/4aLO4ouXHiwGzBQVO1ksQn?si=7573fb54daf1483c" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_2KTR6uSs6Y?si=oB-0JHDMXFtViaFS" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1641,7 +1710,10 @@ Take what fits.
 Leave the rest.
 
 If something lingers,
-that is enough.`
+that is enough.
+
+<a href="https://open.spotify.com/track/7v0RbJuOS6MvsKS1VFTVap?si=934ded9230b94368" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/StSLql3xUF0?si=b6rqK7y4JlD39hoF" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1811,7 +1883,10 @@ User remains aligned.
 
 Prediction accuracy increasing.
 
-Belief state: stable.</code>`
+Belief state: stable.</code>
+
+<a href="https://open.spotify.com/track/1K61yicfPcp9Mw52Pn54CC?si=d57302974a854d75" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/P8fDJ0dhiUU?si=BSspX_-rGyBXDoxV" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -1893,7 +1968,8 @@ What usually satisfies
 
 Trusted
 Optimized
-Aligned</i>`
+Aligned</i>
+`
     }
   ],
   showPlaceholder: false
@@ -1925,7 +2001,10 @@ and delivered without resistance.
 What disappears is not belief,
 
 but the weight
-that once made it matter.`
+that once made it matter.
+
+<a href="https://open.spotify.com/track/4P3Llta1nvXp9JGj2hsRyb?si=ceded8e7eb3f4ae2" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/78BY05wFB2k?si=NzsgKgSL0C-6uy-K" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2009,7 +2088,10 @@ No conflict detected.
 
 Connection persists.
 
-Significance fading.</code>`
+Significance fading.</code>
+
+<a href="https://open.spotify.com/track/3qq2hTx6IFPthqwCLe7lIi?si=be5e13f762404588" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/xvL4tycD5S8?si=X141NZ6IhmWGKN1O" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2088,7 +2170,10 @@ Deviation minimized.
 No urgency detected.
 
 System stable.
-No belief required.</code>`
+No belief required.</code>
+
+<a href="https://open.spotify.com/track/0ZHungk5mLUdEy3srp88zd?si=bfc5615a55604f50" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/NYWwzU1199Y?si=jOjcGdP8k3DPXLXq" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2170,7 +2255,10 @@ Continuity preserved.
 
 All records aligned with current identity.
 
-No further verification required.</code>`
+No further verification required.</code>
+
+<a href="https://open.spotify.com/track/5RVCAP8090GIo5JpXt0Uyl?si=7ac90997a3f341e1" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/PAO1UZrfuVM?si=YppK6hTyymlOVTWj" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2257,7 +2345,10 @@ Adoption deferred.
 
 Status:
 functional,
-non-compliant.</code>`
+non-compliant.</code>
+
+<a href="https://open.spotify.com/track/0fL4ZEt9E5OOViUJoGaFJz?si=7842f458f6c841a4" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/qa2BdWiDbJ0?si=MuJ98uFkks9CsEJa" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2321,7 +2412,8 @@ Flesh is delay
 I could fix this
 They say
 I just haven’t agreed
-Yet</i>`
+Yet</i>
+`
     }
   ],
   showPlaceholder: false
@@ -2344,7 +2436,10 @@ No anomalies detected.
 
 Session complete.
 
-State reset.</code>`
+State reset.</code>
+
+<a href="https://open.spotify.com/track/5yI8YQeejzqjQdQu9gD9ur?si=75690c8619134fe8" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/mBM_k-GYmF4?si=SwVm1O0C6AItlSHp" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2431,14 +2526,73 @@ as configured.
 
 No escalation required.
 
-No intervention requested.</code>`
+No intervention requested.</code>
+
+<a href="https://open.spotify.com/track/3DblUm7alqLVQeu8tzhAY2?si=7e4e3c84865b4440" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/7bvE90Cu_N4?si=yVPiphVKk3VTaMUR" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `text`
+      content: `Everything is still responding
+Every service still online
+The lights come on as scheduled
+The trains still run on time
+We stopped asking what it’s for
+But it executes just fine
+Meaning left the building
+Function stayed behind
+
+No signal of disaster
+No reason to suspend
+All systems self-correcting
+Toward an undefined end
+
+This is collapse without apocalypse
+No fire, no final scene
+Just endless continuation
+Of what we used to mean
+No panic, no exception
+No one left to blame
+The structure still intact
+The purpose not the same
+
+Policies renew themselves
+Long after faith expires
+Budgets justify the absence
+Of anything desired
+Every form correctly filed
+Every metric met
+A future still delivered
+No one ordered yet
+
+Nothing broken
+Nothing wrong
+Just a silence
+Running long
+
+This is collapse without apocalypse
+No warning, no collapse tone
+Just maintenance of a system
+That no longer knows its own
+No rupture, no redemption
+No error to explain
+The building still standing
+But nobody remains
+
+<code>Status: nominal
+Failure: undefined
+Escalation: not required
+Oversight: automated
+
+Someone used to be here
+
+Operations will continue
+As scheduled
+Until further notice</code>
+`
     }
   ],
   showPlaceholder: false
@@ -2467,7 +2621,10 @@ without directive.
 
 No authority assigned.
 
-Structure emerges`
+Structure emerges
+
+<a href="https://open.spotify.com/track/2E160jSyGs8xXUOXb1csVT?si=79f61b9bdb424a84" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/Rch_TBR9nzk?si=56wdhKKqKi2Nqee0" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
@@ -2529,7 +2686,8 @@ Objections theoretical</code>
 No one says
 
 The system smiles
-And remains neutral</i>`
+And remains neutral</i>
+`
     }
   ],
   showPlaceholder: false
@@ -2558,7 +2716,10 @@ Failure reclassified
 as input.
 
 The system proceeds
-by approximation.</code>`
+by approximation.</code>
+
+<a href="https://open.spotify.com/track/5CDiVquMSQCR4msc6H2wdH?si=14959d432b1a4491" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/0z9qPnSFK5M?si=FEniHJ22def9l51s" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
