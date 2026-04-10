@@ -6738,7 +6738,86 @@ will fail.
     }
   ],
   showPlaceholder: false
+    },
+
+    everyEnd: {
+      menuTitle: "Every end begins with Mine",
+      title: "Every end begins with Mine",
+      blocks: [
+        {
+        type: "image",
+        src: "assets/covers/Every end 3k 4.png",
+        size: "small",
+        caption: "Publicerad 9 april 2026"
+      },
+      {
+      type: "text",
+      content: `<a href="https://open.spotify.com/album/0QVuflTqH3sk8oXtl36S3s?si=mR_TgqPpRbejNB6OIxuCFg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/HsEVtYA1eSk?list=OLAK5uy_ntUfsnY8FzMSwKIyBaG27tGff9V1lb91A" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+In the void before the spark, silence carved the dark
+A pulse beneath the endless night begins to wake
+
+From fractured dust, a will ignites
+Through shattered realms and broken light
+I trace the lines of what could be
+A hand that shapes eternity
+
+Whispers call from the abyss
+A force I cannot resist
+
+I am the architect of creation
+Forging worlds from fire and fate
+In the ashes of annihilation
+I define what we become
+Through the storm of devastation
+I rewrite the great design
+In the heart of all creation
+Every end begins with mine
+
+Through endless cycles I remain
+The calm within collapsing planes
+A thousand lives in every breath
+I weave the thread of life and death
+
+Echoes rise, the cosmos bends
+Where I begin, it never ends
+
+I am the architect of creation
+Forging worlds from fire and fate
+In the ashes of annihilation
+I define what we become
+Through the storm of devastation
+I rewrite the great design
+In the heart of all creation
+Every end begins with mine
+
+In the silence after ruin
+I hear the future call my name
+Every fracture holds a truth
+Every loss ignites a flame
+
+I rise beyond the final breath
+Untouched by time, unbound by death
+
+I am the architect of creation
+Forging worlds from fire and fate
+In the ashes of annihilation
+I define what we become
+Through the storm of devastation
+I rewrite the great design
+In the heart of all creation
+Every end begins with mine
+
+From the void, the light returns
+And in its glow, the cosmos burns
+
+
+      `
     }
+  ],
+  showPlaceholder: false
+    }
+    
 
   },
 
