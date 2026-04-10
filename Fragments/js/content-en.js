@@ -6055,7 +6055,7 @@ Not only aggression, but also monument, fracture, and architecture of doom.`
     },
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/album/5MZS36MdWiSMEYnObufIEA?si=EY91tEgXT023tzmzKrdZlQ" target="_blank" rel="noopener noreferrer">Spotify</a>`
+      content: `<a href="https://open.spotify.com/album/5MZS36MdWiSMEYnObufIEA?si=EY91tEgXT023tzmzKrdZlQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtube.com/playlist?list=OLAK5uy_l3MUlntxXpkGqaQEwcdejnP8UJJoA732k&si=2j7vdnvFPc90kLwl" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -6088,7 +6088,7 @@ It is a new iteration, without memory of the last.`
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/6R7KnleJep2wV0jwtpLF6v?si=8ec72def827640ce" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/6R7KnleJep2wV0jwtpLF6v?si=8ec72def827640ce" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/bGlUJeV88LY?list=OLAK5uy_l3MUlntxXpkGqaQEwcdejnP8UJJoA732k" target="_blank" rel="noopener noreferrer">YouTube</a>
       
       <i>Before the word
 Before the wound
@@ -6139,7 +6139,7 @@ Before the king that had no name
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/1rQo441R6sYmIXb5ca7zUL?si=8f0944bc8cc24d1b" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/1rQo441R6sYmIXb5ca7zUL?si=8f0944bc8cc24d1b" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KaME0kYNvoE?list=OLAK5uy_l3MUlntxXpkGqaQEwcdejnP8UJJoA732k" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 I walked where three paths
 refused their names,
@@ -6213,7 +6213,7 @@ Turn again.
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/6GClAa3Amw8K4NEtuxJzh2?si=cf52b5df1ce64b8d" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/6GClAa3Amw8K4NEtuxJzh2?si=cf52b5df1ce64b8d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/CBlFqbXyULg?si=Huwy6P8VzbtBenre" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 I found a door already open,
 hinges worn by borrowed years.
@@ -6283,7 +6283,7 @@ The cycle breaks.
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/5v5nVkS1FVuwaCGjYxkzDz?si=91909f8d5d2a436a" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/5v5nVkS1FVuwaCGjYxkzDz?si=91909f8d5d2a436a" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/hqdo_TI4nYQ?si=cAMXc1d08o31bUt5" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 The first gate took my name.
 Not by force—
@@ -6366,7 +6366,7 @@ who set the gates.</i>
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/2R3Eg9hwfO805E2uVKYp0v?si=ed7c28e969a44718" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/2R3Eg9hwfO805E2uVKYp0v?si=ed7c28e969a44718" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/FRx3wIiPty4?si=7u2jgkCF4gBWKOtI" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 
 Bound is the earth
@@ -6433,7 +6433,7 @@ Silence below.
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/5R83iPS47yZCwS6CJNfX1x?si=52b5f2125cb0492c" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/5R83iPS47yZCwS6CJNfX1x?si=52b5f2125cb0492c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/yyEIXDhgBEs?si=Imo9boli5855FkPt" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 I do not guard the door you seek.
 I walk the line you never see.
@@ -6505,7 +6505,7 @@ Step.
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/4lxjRoiElPLeV2aINiUu5e?si=5e0e72109d19453e" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/4lxjRoiElPLeV2aINiUu5e?si=5e0e72109d19453e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/n-umWXBoUX0?si=IN64uvZBUw_pl2mZ" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 We keep the fire
 as it was given.
@@ -6588,7 +6588,7 @@ Keep the order.
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/13LMDUJqMEnc0vBDkuPdgm?si=320e68d7916542f7" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/13LMDUJqMEnc0vBDkuPdgm?si=320e68d7916542f7" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/pSg7mEUYbmo?si=ZP0Gy19FuV805YeB" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 <i>I am not the end.
 I am the function assigned
@@ -6646,7 +6646,7 @@ I remain.</i>
       blocks: [
     {
       type: "text",
-      content: `<a href="https://open.spotify.com/track/3zq6Kif9r6n96gH25foPOp?si=8b64f1221fba4442" target="_blank" rel="noopener noreferrer">Spotify</a>
+      content: `<a href="https://open.spotify.com/track/3zq6Kif9r6n96gH25foPOp?si=8b64f1221fba4442" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/9ecnWJlvsFo?si=mQCZm9YsZhLqah6I" target="_blank" rel="noopener noreferrer">YouTube</a>
       
 <i>It did not wake
 because it was called.
