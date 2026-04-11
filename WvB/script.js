@@ -146,10 +146,11 @@ function loadContent(section) {
 <p>1888 - Inqvarteringen</p>
 <p>1888 - Konstapeln</p>
 <p>1889 - Reskamraten</p>
+<p>1889 - Svinaherden och grefvedottern eller Guldgräfvarens skatt</p>
 <p>1890 - En Löjtnants Händelser</p>
 <p>1892 - Resignation</p>
 <p>1897 - En berättelse om en utmärkt militär</p>
-<p>1889 - Svinaherden och grefvedottern eller Guldgräfvarens skatt</p>
+
            
            
             <p>1867-1870 1 uppl. "Samlade arbeten" utgivna (Bonnier)</p>
@@ -248,6 +249,12 @@ function loadContent(section) {
 
             <p>2026-04-07 Mailat Föreningsarkivet i Borås och Skaraborgs Föreningsarkiv efter tips från arkivet i Ulricehamn<br>
             - Borås hade inget arkiverat.</p>
+
+            <p>2026-04-08 Mailat Lennar Waslings son</p>
+
+            <p>2026-04-10 'Borup' anlände med posten</p>
+
+            <p>2026-04-10 Mailat kulturansvarig på Aftonbladet (i brist på adress till arkivet) om möjligheter att få tag på det som publicerats där en gång i tiden</p>
         `;
     }
    
