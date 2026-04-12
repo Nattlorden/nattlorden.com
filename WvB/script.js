@@ -186,20 +186,20 @@ function loadContent(section) {
 </ul>
 <hr>
 <h3>Mina</h3>
-<h4>Förlorade visor – Del 1</h4>
+<h4>Förlorade visor – Del 1 <a href="https://open.spotify.com/album/6OyEXjdNwx5tBp7KdyeVZA?si=S9DrROllQqaDDtTkW9CAGA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=UlIDylhQQ8E&list=OLAK5uy_kv-cEJ1Un87LV_kgdpTULimbU2s9XiCKY" target="_blank" rel="noopener noreferrer">YouTube</a></h4>
 
 <ol class="track-list">
-    <li>Poetisk trosbekännelse</li>
-    <li>Den märkvärdige mannen</li>
-    <li>Kyssen</li>
-    <li>Pigan och spinnrocken</li>
-    <li>Älskande i alla tider</li>
-    <li>Alla blir lika i nöden</li>
-    <li>En röfvarhistoria</li>
-    <li>Trösteord till en vän, som fått korgen</li>
-    <li>Sång till fullmånen</li>
-    <li>Åskan</li>
-    <li>Äfven jag var i Arkadien!</li>
+    <li>Poetisk trosbekännelse <a href="https://open.spotify.com/track/2JkUnMb6hKoUKR4gbkhSZP?si=1a3c43aa1a724030" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/UlIDylhQQ8E?si=YErmm9714HNYGe4J" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Den märkvärdige mannen <a href="https://open.spotify.com/track/3cfz4FO3fDh2kkhS2PGydi?si=07fe7e2328184749 target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/YZtkVU6IN2w?si=uMw1R7zxk0vxDV_P" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Kyssen <a href="https://open.spotify.com/track/63bZaRhGeuOzVpk3QnqpGN?si=e9e5ca13b4884d87" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/5nbapw89k1s?si=EOKPA38gEFXjVdmH" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Pigan och spinnrocken <a href="https://open.spotify.com/track/6qzgEMRlXgfcvs1VgxLyFf?si=d27cf53c71c140b3" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_aZqoNHeSV4?si=wlKSWGTZn1xigt2B" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Älskande i alla tider <a href="https://open.spotify.com/track/3KUiHsFSNr7joU00CTQECQ?si=7b1fbfc884734d3e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/akfGybmUBfE?si=ourrvYDF6bBvJUxo" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Alla blir lika i nöden <a href="https://open.spotify.com/track/75rzvPQHkCIFlGOZvvwJ3b?si=a5580680ebff4722" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/-OREJGznhXY?si=zkh5AxB8iH4xJy6g" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>En röfvarhistoria <a href="https://open.spotify.com/track/2f7YR1L4IcmW6rKrqXpKof?si=3d42df8e8b954d2b" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/5Cy2vxyCHNs?si=ZcG7sF-1fEXX8ZFT" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Trösteord till en vän, som fått korgen <a href="https://open.spotify.com/track/3Dyd166sgZx3qyB3R02cT2?si=6ca56053f4114b3f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/AALgrpj7HAg?si=VXxmJlkJ9BWJfcNN" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Sång till fullmånen <a href="https://open.spotify.com/track/26kJj3HzqWPdoSGIKy5yqB?si=da445c938e4946ac" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/N8g4aOsILuQ?si=uAqDc2bPpnY3FsM1" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Åskan <a href="https://open.spotify.com/track/4VdBdBcu5FWTtx2ckcNQat?si=2c8d70309397460f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/2pEaZtNFiM4?si=1oASgtudlp6Xgyy-" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Äfven jag var i Arkadien! <a href="https://open.spotify.com/track/3Wvk9WSwJ89dtU1sVOVqdY?si=68bd49298e89449e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/pnq2FUc_k9E?si=J4_33l2f_4CzkaHd" target="_blank" rel="noopener noreferrer">YouTube</a></li>
 </ol>
 
         <h4>Freyja - Översatt och ev. anpassat</h4>
@@ -287,6 +287,10 @@ function loadContent(section) {
             <p>2026-04-10 'Borup' anlände med posten</p>
 
             <p>2026-04-10 Mailat kulturansvarig på Aftonbladet (i brist på adress till arkivet) om möjligheter att få tag på det som publicerats där en gång i tiden</p>
+
+            <p>2026-04-11 Förlorade visor Del 1 släppt</p>
+
+            <p>2026-04-12 Länkar till sånger</p>
         `;
     }
    
