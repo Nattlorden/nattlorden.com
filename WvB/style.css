@@ -136,3 +136,82 @@ main {
 h2 {
     color: #c8a75a;
 }
+
+h2 {
+    color: #c8a75a;
+    font-size: 2rem;
+    margin-bottom: 1.2rem;
+}
+
+h3 {
+    color: #f0e6d2;
+    font-size: 1.4rem;
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+}
+
+h4 {
+    color: #c8a75a;
+    font-size: 1.1rem;
+    margin-top: 1.2rem;
+    margin-bottom: 0.8rem;
+    font-weight: normal;
+    letter-spacing: 0.03em;
+}
+
+.song-links,
+.track-list {
+    margin: 0 0 1.5rem 0;
+    padding-left: 1.4rem;
+}
+
+.song-links li,
+.track-list li {
+    margin-bottom: 0.45rem;
+    line-height: 1.5;
+}
+
+.song-links {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.song-links li {
+    margin-bottom: 0.7rem;
+}
+
+.song-links a {
+    color: #d8c089;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.song-links a:hover {
+    color: #f0d999;
+    border-bottom: 1px solid #c8a75a;
+}
+
+.track-list {
+    color: #f3f0ea;
+}
+
+.track-list li::marker {
+    color: #c8a75a;
+}
+
+.track-list li {
+    padding-left: 0.2rem;
+}
+
+.track-list a {
+    color: #d8c089;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.track-list a:hover {
+    color: #f0d999;
+    border-bottom: 1px solid #c8a75a;
+}

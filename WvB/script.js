@@ -175,7 +175,39 @@ function loadContent(section) {
     if (section === "songs") {
         content.innerHTML = `
             <h2>Sånger</h2>
-            <p>Lista med låtar...</p>
+
+<h3>Av andra</h3>
+<ul class="song-links">
+    <li><a href="https://lennart.angvik.se/tonsatt.htm">Av Lennart Angvik</a></li>
+    <li><a href="https://www.culturum.se/Braun/Ljud/ILagaRyttartorpet.mp3">I låga ryttartorpet — Margareta Kjellberg</a></li>
+    <li>Jag vill, jag ville bara, just ingenting jag vill - av Olle Adolphson <a href="https://open.spotify.com/track/3WBFRRZZf48jT0haxHhHJb?si=28cb750ec6f349f4" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/rkyW--mKf5k" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Evas dröm - av Olle Adolphson(?) <a href="https://youtu.be/u9fDDkL8n3k" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>En åsknatt på Trollhättan - av (ännu) okända <a href="https://youtu.be/RDwWCxmKCTE?list=RDRDwWCxmKCTE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+</ul>
+<hr>
+<h3>Mina</h3>
+<h4>Förlorade visor – Del 1</h4>
+
+<ol class="track-list">
+    <li>Poetisk trosbekännelse</li>
+    <li>Den märkvärdige mannen</li>
+    <li>Kyssen</li>
+    <li>Pigan och spinnrocken</li>
+    <li>Älskande i alla tider</li>
+    <li>Alla blir lika i nöden</li>
+    <li>En röfvarhistoria</li>
+    <li>Trösteord till en vän, som fått korgen</li>
+    <li>Sång till fullmånen</li>
+    <li>Åskan</li>
+    <li>Äfven jag var i Arkadien!</li>
+</ol>
+
+        <h4>Freyja - Översatt och ev. anpassat</h4>
+        <ul class="track-list">
+    <li>A Most Curious Man <a href="https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=swlHKs6vQb-E_fCqCllSXQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>Laughing Face / Broken core <a href="https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=DX-sNYG6SumsJMrEshb-0A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li>I cannot say why</li>
+    </ul>
         `;
     }
 
