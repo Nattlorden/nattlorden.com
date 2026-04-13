@@ -186,20 +186,20 @@ function loadContent(section) {
 </ul>
 <hr>
 <h3>Mina</h3>
-<h4>Förlorade visor – Del 1 <a href="https://open.spotify.com/album/6OyEXjdNwx5tBp7KdyeVZA?si=S9DrROllQqaDDtTkW9CAGA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=UlIDylhQQ8E&list=OLAK5uy_kv-cEJ1Un87LV_kgdpTULimbU2s9XiCKY" target="_blank" rel="noopener noreferrer">YouTube</a></h4>
+<h4>Förlorade visor – Del 1 &nbsp; &nbsp; &nbsp;  <a href="https://open.spotify.com/album/6OyEXjdNwx5tBp7KdyeVZA?si=S9DrROllQqaDDtTkW9CAGA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=UlIDylhQQ8E&list=OLAK5uy_kv-cEJ1Un87LV_kgdpTULimbU2s9XiCKY" target="_blank" rel="noopener noreferrer">YouTube</a></h4>
 
 <ol class="track-list">
-    <li>Poetisk trosbekännelse <a href="https://open.spotify.com/track/2JkUnMb6hKoUKR4gbkhSZP?si=1a3c43aa1a724030" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/UlIDylhQQ8E?si=YErmm9714HNYGe4J" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Den märkvärdige mannen <a href="https://open.spotify.com/track/3cfz4FO3fDh2kkhS2PGydi?si=07fe7e2328184749 target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/YZtkVU6IN2w?si=uMw1R7zxk0vxDV_P" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Kyssen <a href="https://open.spotify.com/track/63bZaRhGeuOzVpk3QnqpGN?si=e9e5ca13b4884d87" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/5nbapw89k1s?si=EOKPA38gEFXjVdmH" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Pigan och spinnrocken <a href="https://open.spotify.com/track/6qzgEMRlXgfcvs1VgxLyFf?si=d27cf53c71c140b3" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_aZqoNHeSV4?si=wlKSWGTZn1xigt2B" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Älskande i alla tider <a href="https://open.spotify.com/track/3KUiHsFSNr7joU00CTQECQ?si=7b1fbfc884734d3e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/akfGybmUBfE?si=ourrvYDF6bBvJUxo" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Alla blir lika i nöden <a href="https://open.spotify.com/track/75rzvPQHkCIFlGOZvvwJ3b?si=a5580680ebff4722" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/-OREJGznhXY?si=zkh5AxB8iH4xJy6g" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>En röfvarhistoria <a href="https://open.spotify.com/track/2f7YR1L4IcmW6rKrqXpKof?si=3d42df8e8b954d2b" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/5Cy2vxyCHNs?si=ZcG7sF-1fEXX8ZFT" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Trösteord till en vän, som fått korgen <a href="https://open.spotify.com/track/3Dyd166sgZx3qyB3R02cT2?si=6ca56053f4114b3f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/AALgrpj7HAg?si=VXxmJlkJ9BWJfcNN" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Sång till fullmånen <a href="https://open.spotify.com/track/26kJj3HzqWPdoSGIKy5yqB?si=da445c938e4946ac" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/N8g4aOsILuQ?si=uAqDc2bPpnY3FsM1" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Åskan <a href="https://open.spotify.com/track/4VdBdBcu5FWTtx2ckcNQat?si=2c8d70309397460f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/2pEaZtNFiM4?si=1oASgtudlp6Xgyy-" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Äfven jag var i Arkadien! <a href="https://open.spotify.com/track/3Wvk9WSwJ89dtU1sVOVqdY?si=68bd49298e89449e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/pnq2FUc_k9E?si=J4_33l2f_4CzkaHd" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('bekannelse')">Poetisk trosbekännelse <a href="https://open.spotify.com/track/2JkUnMb6hKoUKR4gbkhSZP?si=1a3c43aa1a724030" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/UlIDylhQQ8E?si=YErmm9714HNYGe4J" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('markvardig')">Den märkvärdige mannen <a href="https://open.spotify.com/track/3cfz4FO3fDh2kkhS2PGydi?si=07fe7e2328184749 target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/YZtkVU6IN2w?si=uMw1R7zxk0vxDV_P" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('kyssen')">Kyssen <a href="https://open.spotify.com/track/63bZaRhGeuOzVpk3QnqpGN?si=e9e5ca13b4884d87" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/5nbapw89k1s?si=EOKPA38gEFXjVdmH" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('spinnrock')">Pigan vid spinnrocken <a href="https://open.spotify.com/track/6qzgEMRlXgfcvs1VgxLyFf?si=d27cf53c71c140b3" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_aZqoNHeSV4?si=wlKSWGTZn1xigt2B" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('allatider')">Älskande i alla tider <a href="https://open.spotify.com/track/3KUiHsFSNr7joU00CTQECQ?si=7b1fbfc884734d3e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/akfGybmUBfE?si=ourrvYDF6bBvJUxo" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('allablirlika')">Alla blir lika i nöden <a href="https://open.spotify.com/track/75rzvPQHkCIFlGOZvvwJ3b?si=a5580680ebff4722" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/-OREJGznhXY?si=zkh5AxB8iH4xJy6g" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('rofvar')">En röfvarhistoria <a href="https://open.spotify.com/track/2f7YR1L4IcmW6rKrqXpKof?si=3d42df8e8b954d2b" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/5Cy2vxyCHNs?si=ZcG7sF-1fEXX8ZFT" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('trost')">Trösteord till en vän, som fått korgen <a href="https://open.spotify.com/track/3Dyd166sgZx3qyB3R02cT2?si=6ca56053f4114b3f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/AALgrpj7HAg?si=VXxmJlkJ9BWJfcNN" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('fullmanen')">Sång till fullmånen <a href="https://open.spotify.com/track/26kJj3HzqWPdoSGIKy5yqB?si=da445c938e4946ac" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/N8g4aOsILuQ?si=uAqDc2bPpnY3FsM1" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('askan')">Åskan <a href="https://open.spotify.com/track/4VdBdBcu5FWTtx2ckcNQat?si=2c8d70309397460f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/2pEaZtNFiM4?si=1oASgtudlp6Xgyy-" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('arkadien')">Äfven jag var i Arkadien! <a href="https://open.spotify.com/track/3Wvk9WSwJ89dtU1sVOVqdY?si=68bd49298e89449e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/pnq2FUc_k9E?si=J4_33l2f_4CzkaHd" target="_blank" rel="noopener noreferrer">YouTube</a></li>
 </ol>
 
         <h4>Freyja - Översatt och ev. anpassat</h4>
@@ -248,6 +248,722 @@ function loadContent(section) {
 <p>Eller något annat.
 
 <p>Från en skorpion till en annan – separerade av nästan två århundraden.</p>
+        `;
+    }
+
+    if (section === "bekannelse") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Poetisk trosbekännelse</h2>
+<p class="lyrics">Aldrig min lyra till klagan jag stämt;
+<br>Hvarför mitt hjärta betunga?
+<br>Kan jag ej sjunga om kärlek och skämt,
+<br>Vill jag långt hellre ej sjunga.
+<br>Kärleken lefnadens middag gör säll,
+<br>Munterhet endast förljufvar dess kväll.
+<br>
+<br>Aldrig jag satte min ära uti
+<br>Tårar att pressa, som mången.
+<br>Skäl till att gråta, det finna nog vi
+<br>Utan att ta det ur sången.
+<br>Glad och förnöjd emot himmeln jag ser;
+<br>Solen där uppe – hon äfven – ju ler.
+<br>
+<br>Aldrig det sorgliga kallar jag på,
+<br>Sorgen väl kommer objuden.
+<br>Skämtet och Löjet, de gästerna gå
+<br>Likasom flyktiga ljuden.
+<br>Gripa dem – blifve mitt sträfvande här!
+<br>Själfva min möda belöningen är.
+<br>
+<br>Brottsligt det vore att törnströ min stråt,
+<br>Diktade kval till att kvida.
+<br>O, det finns mycket att fröjda sig åt!
+<br>Allt har sin glädtiga sida.
+<br>Smärtan, så bitter hon tyckes också,
+<br>Ofta i grunden är löjlig ändå.
+<br>
+<br>Lefve då skämtet! i skämtet jag själf!
+<br>Dödsängeln susar med vingen;
+<br>Snart står jag bortom den stygiska älf,
+<br>Hvad som där väntar, vet ingen.
+<br>Detta blott vet jag, och tacksam jag är:
+<br>Sången och Kärleken vänta mig <i>här</i>.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "markvardig") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Den märkvärdige mannen</h2>
+            <p class="lyrics">Jag känner en märkvärdig man,<br>
+Som världen sin dyrkan bör unna.<br>
+Allt tänkbart den människan kan,<br>
+Åtminstone <i>tror han sig kunna</i>.<br>
+En märkvärdig man – det är sant!<br>
+Men bara en smula – pedant.<br>
+<br>
+   Om själfva Guds ljus är han karg,<br>
+Änskönt man för intet kan få det,<br>
+Men, fast en hushållare arg,<br>
+Han slösar med lärdomsförrådet.<br>
+En märkvärdig man – det är sant!<br>
+Men bara en smula pedant.<br>
+<br>
+   Du vet väl, att jorden är rund,<br>
+Att prick öfver i du bör sätta;<br>
+Men vill du det veta i grund,<br>
+Så kan han, som <i>nytt</i>, det berätta.<br>
+En märkvärdig man – det är sant!<br>
+Men bara en smula pedant.<br>
+<br>
+   En knut du helt säkert kan slå,<br>
+Ett ljus du väl äfven kan snyta?<br>
+Men om du till honom vill gå,<br>
+Lektioner ej skola dig tryta.<br>
+En märkvärdig man – det är sant!<br>
+Men bara en smula pedant.<br>
+<br>
+   Han medger, att skaparn är vis,<br>
+En visare likväl han känner.<br>
+<i>Hvem</i>, säger han icke precis,<br>
+Men han och hans <i>Jag</i> äro vänner.<br>
+En märkvärdig man – det är sant<br>
+Men bara en smula – pedant.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "kyssen") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Kyssen</h2>
+            <p class="lyrics">  Långt man går hos vackra könet<br>
+Genom stöld och tjufven.<br>
+Bröder, jag gjort detta rönet<br>
+Utan att bestraffad bli.<br>
+<br>
+  Ack! jag minns med hvilken pina<br>
+Hilmas söta mun jag såg,<br>
+Denna ros, den lilla, fina,<br>
+Hvilken halfutsprucken låg.<br>
+<br>
+  Både ljuft och smärtsamt nöje<br>
+Jag utaf dess åsyn njöt;<br>
+Hur den öppnades till löje,<br>
+Hur den allvarsam sig slöt!<br>
+<br>
+  För en kyss, en enda liten,<br>
+Intet pris mig varit drygt.<br>
+Men hur häftig var aptiten,<br>
+Sinnet var dock än för blygt.<br>
+<br>
+  Ändtligen beslöt jag tigga,<br>
+Föll på knä och bad så ömt, –<br>
+Men den hårda lät mig ligga,<br>
+Log och flydde; – ve, fördömdt!<br>
+<br>
+  »Stjäla är då bästa viset!»<br>
+Tänkte jag – och tror det mest;<br>
+Ty allt sedan paradiset<br>
+Är förbjudna frukten bäst.<br>
+<br>
+  Nu iag sökte blott att komma<br>
+Åt att pröfva på mitt mod.<br>
+Slutligen jag såg min blomma,<br>
+Hur hon ensam, lutad stod.<br>
+<br>
+  Eldad utaf längtans stunder,<br>
+Sprang jag oförsiktigt fram.<br>
+Hon likväl – ack, hvilket under! –<br>
+Ej mitt bullrande förnam.<br>
+<br>
+  Först när mina läppar trycktes<br>
+Emot hennes, spratt hon till.<br>
+Men likväl – så det mig tycktes –<br>
+Stod hon ganska gärna still.<br>
+<br>
+  Sedan dess jag stal beständigt,<br>
+Ärligheten var förbi.<br>
+Alltid gick det så behändigt,<br>
+Som hon <i>velat</i> röfvad bli.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "spinnrock") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Pigan vid spinnrocken</h2>
+            <p class="lyrics">   Surr, surr!<br>
+Trögt går rocken,<br>
+Vindt och snedt.<br>
+   Fnurr, fnurr!<br>
+Aldrig töcken<br>
+Har jag sett.<br>
+<br>
+   Surr, surr!<br>
+Jämt han mullrar<br>
+Liksom frun.<br>
+   Fnurr, fnurr!<br>
+Så ej bullrar<br>
+Dombasun.<br>
+<br>
+   Surr, surr!<br>
+Jag vill smörja’n<br>
+Friska tag.<br>
+   Fnurr, fnurr!<br>
+Till en början<br>
+Gäspar jag.<br>
+<br>
+   Surr, surr!<br>
+Tidigt oppe,<br>
+Sent i säng.<br>
+    Fnurr, fnurr!<br>
+Lefnadsloppe’<br>
+Flyg och fläng.<br>
+<br>
+   Surr, surr!<br>
+Diska, skura,<br>
+Laka se’n.<br>
+    Fnurr, fnurr!<br>
+Äta sura<br>
+Strömmingen.<br>
+<br>
+   Surr, surr!<br>
+Slut blir striden<br>
+Dock i höst.<br>
+   Fnurr, fnurr!<br>
+Flyttningstiden<br>
+Är min tröst.<br>
+<br>
+   Surr, surr!<br>
+Första gället<br>
+Hanen ger.<br>
+   Fnurr, fnurr!<br>
+Vid sängstället<br>
+Frun jag ser.<br>
+<br>
+   Surr, surr!<br>
+»Upp då, Britta,<br>
+Skynda nu!»<br>
+   Fnurr, fnurr!<br>
+Fan besitta<br>
+Sådan fru!<br>
+<br>
+   Surr, surr!<br>
+Denna vakan<br>
+Morgon, kväll,<br>
+   Fnurr, fnurr!<br>
+För brudlakan<br>
+Åt mamsell!<br>
+<br>
+   Surr, surr!<br>
+»Spinn dem fina!»<br>
+– Frun har sagt –<br>
+   Fnurr, fnurr!<br>
+»Mamsell Mina<br>
+Håller vakt.»<br>
+<br>
+   Surr, surr!<br>
+Hvad eländen<br>
+För en slaf!<br>
+   Fnurr, fnurr!<br>
+Nu gick änden<br>
+Tvärt utaf!<br>
+<br>
+   Surr, surr!<br>
+Tårar rinna<br>
+Som en älf.<br>
+   Fnurr, fnurr!<br>
+Hon kan spinna<br>
+Åt sig själf!<br>
+<br>
+   Surr, surr!<br>
+Jag väl klandra<br>
+Må min lott,<br>
+   Fnurr, fnurr!<br>
+Som åt andra<br>
+   Spinner blott.<br>
+<br>
+   Surr, surr!<br>
+Ack, min Anders,<br>
+Full af list,<br>
+   Fnurr, fnurr!<br>
+Gick åt fanders,<br>
+Blef gardist!<br>
+<br>
+   Surr, surr!<br>
+Ensam står jag<br>
+På min stig.<br>
+   Fnurr, fnurr!<br>
+Snart så går jag,<br>
+Dränker mig.<br>
+<br>
+   Surr, surr!<br>
+Frun hörs larma<br>
+Inne – jo!<br>
+   Fnurr, fnurr!<br>
+Ack, jag arma<br>
+Får ej ro!<br>
+<br>
+   Surr, surr!<br>
+Kaffetåren<br>
+Skall nu på.<br>
+   Fnurr, fnurr!<br>
+Knappt jag får en<br>
+Droppe då.<br>
+<br>
+   Surr, surr!<br>
+Anders lilla,<br>
+Kom igen!<br>
+   Fnurr, fnurr!<br>
+Det går illa<br>
+För din vän.<br>
+<br>
+   Surr, surr!<br>
+Knapp förstjänsten,<br>
+Magert bröd.<br>
+   Fnurr, fnurr!<br>
+Denna tjänsten<br>
+Blir min död.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "allatider") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Krig och fred.</h2>
+            <p class="lyrics">   Älskande i alla tider<br>
+Litet smågnabb haft till sed,<br>
+Men de börja dessa strider<br>
+För att blott få stifta fred,<br>
+I försoningskyssen såren<br>
+En gudomlig balsam få;<br>
+Sköna äro fredsvillkoren,<br>
+Ty de vinna bägge två.<br>
+<br>
+   Äfven jag följt det exemplet, –<br>
+Anden längtar efter krig, –<br>
+Ofta öppnas Janustemplet,<br>
+Än af Hilma, än af mig.<br>
+Att jag kyssar tar för många,<br>
+Är ej sällan krigsorsak;<br>
+Hon vill blott ge små, men långa<br>
+Äro mera i min smak.<br>
+<br>
+   Nu är freden uppsagd. Båda<br>
+Fly vi för hvarandra då.<br>
+Denna fejd är utan våda,<br>
+Gjorde kungar äfvenså! –<br>
+Butter tystnad, endast bruten<br>
+Stundom af en liten pik,<br>
+Minen sur och blicken sluten,<br>
+Detta bjuder vår taktik.<br>
+<br>
+   Men i kriget, som vi föra,<br>
+Tunga mödor ock vi fått;<br>
+Att så ond mig låtsa göra,<br>
+Tro mig, det är icke godt;<br>
+Att en marmorköld sig gifva,<br>
+När ens blod kan brinna opp!<br>
+Snart vår död det skulle blifva,<br>
+Hade vi om fred ej hopp.<br>
+<br>
+   Slutligen blir det omöjligt,<br>
+Att betvinga känslan mer,<br>
+Och det sorgliga blir löjligt,<br>
+Och den buttra munnen ler.<br>
+Fåfängt söka anletsdragen<br>
+Komma i ett vresigt skick,<br>
+Kärlek lyser, klar som dagen,<br>
+Ur hvar rörelse och blick.<br>
+<br>
+   Som parlamentärer sändas<br>
+Våra heta suckar ut.<br>
+Ömt vi nalkas, kriget ändas,<br>
+Stillestånd görs opp till slut.<br>
+Lilla handen Hilma gifver<br>
+Som en underpant därtill,<br>
+Och jag freden underskrifver<br>
+Med en kyss – så lång jag vill.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "allablirlika") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Alla bli lika i nöden</h2>
+            <p class="lyrics">   En kung med sin dotter sig en gång begaf<br>
+På resor till främmande länder,<br>
+Och länge han plöjde det vilda haf;<br>
+Men hör bara nu hvad som händer!<br>
+<br>
+   En afton så kläder sig himmelen röd,<br>
+En stormvind begynner att ryta.<br>
+Och skutan tar läck, och med största nöd<br>
+Den ännu på vågen kan flyta.<br>
+<br>
+   Vid pumpen stå alla, – ja, kungen också;<br>
+Ty alla bli lika i nöden.<br>
+Den sköna prinsessan syns darrande stå<br>
+Med kinder så bleka som döden.<br>
+<br>
+   Nu börjar det knaka i master och tåg,<br>
+Och segelbitarna ryka; –<br>
+Nu kommer en fräsande, skyhög våg,<br>
+Och skeppet begynner att dyka.<br>
+<br>
+   Den höga prinsessan slöt ögonen till;<br>
+Ej mer de förmådde att gråta.<br>
+Med händerna knäppta hon from och still<br>
+Beger sig i brudsängen våta.<br>
+<br>
+   Men Herran vill icke prinsessans fördärf,<br>
+En frälsande båtsman han sänder.<br>
+Den Kongliga Höghet han är så djärf<br>
+Att gripa med beckiga händer.<br>
+<br>
+   På vågornas rygg med den bleknade mö<br>
+Han börjar förträffligt att rida.<br>
+Men hastigt en våg till en obebodd ö<br>
+Uppkastar på stranden dem vida.<br>
+<br>
+   Prinsessan snart börjar att repa sig smått<br>
+Vid båtsmannens omsorg och myser, –<br>
+Men när hon kan tala, så hviskar hon blott:<br>
+»Min ljuflige båtsman! – jag fryser.»<br>
+<br>
+   Ej eld var till hands, och kavajen var blöt; –<br>
+Hvad månde den ljuflige göra?<br>
+Jo, varmt han prinsessan i famnen slöt,<br>
+Och misshag lät icke hon höra.<br>
+<br>
+   När natten var Öfver, vid båtsmannens arm<br>
+Hon börjar att vandra och ropa.<br>
+De funno en grotta, så kall och arm,<br>
+Samt bodde där tätt tillhopa.<br>
+<br>
+   Men båtsmannen blyg till prinsessan steg opp,<br>
+Och hon steg till båtsmannen neder.<br>
+På obebodd ö under många års lopp<br>
+Han ljuflighet henne bereder.<br>
+<br>
+   Den Kongliga Höghet mot båtsmannen ler,<br>
+Som frälst från kölden och döden;<br>
+Och obebodd ö blef befolkad allt mer;<br>
+Ty alla bli lika – i nöden.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "rofvar") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>En röfvarhistoria</h2>
+            <p class="lyrics">  En riddare drog<br>
+Igenom en skog<br>
+Och såg bland dess åldriga stammar<br>
+En tärna, så skön;<br>
+Den blomstrande mön<br>
+Hans eldfängda hjärta anammar.<br>
+<br>
+  Som turturn han kvad<br>
+Och knäföll och bad,<br>
+Att det månde stenar beveka:<br>
+»Mitt hjärta jag mist,<br>
+Du tog det, för visst,<br>
+Att grymt med det samma få leka.»<br>
+<br>
+  Men skogsjungfrun log:<br>
+»Drag aldrig i skog,<br>
+Du finner hur lätt man blir röfvad!»<br>
+Och munter och yr<br>
+Med rofvet hon flyr,<br>
+Men riddarn red hem, så bedröfvad.<br>
+<br>
+  Men åter helt snart<br>
+Han vågar en fart<br>
+Att taga revanche på den sköna.<br>
+Hur brinner hans blod,<br>
+Hur stiger hans mod,<br>
+När henne han ser i det gröna!<br>
+<br>
+  »Dock – anfallsvis må<br>
+Till väga jag gå!<br>
+Jag var en pultron här om dagen!» <br>
+Han gör, som han sagt.<br>
+O, kärlekens makt!<br>
+Allt mattare blir han afslagen.<br>
+<br>
+  Han segrar till slut, <br>
+Och flickan brast ut<br>
+I tårar, af ånger bedröfvad.<br>
+Men riddaren log:<br>
+»Gack aldrig i skog!<br>
+Du funnit, hur lätt man blir röfvad.»</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "trost") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Trösteord till en vän, som fått korgen</h2>
+            <p class="lyrics">  Broder! nyss fördärfvet nära,<br>
+Står du räddad med din – korg.<br>
+Barnskrik skall dig ej besvära,<br>
+Icke split och horn och sorg.<br>
+Lämna frieri't åt andra!<br>
+Själf är du för god därtill.<br>
+Icke dem jag just vill klandra,<br>
+Men jag dig berömma vill.<br>
+<br>
+  Ack! man födes ju till repet,<br>
+Lika som till – vigselring.<br>
+Hal och artig, det är knepet,<br>
+Annat allt gör ingenting;<br>
+Ty hvad gagnar i den vägen<br>
+Hjärta väl och karakter,<br>
+Om man är på ord förlägen<br>
+Och sig ej att smickra lär?<br>
+<br>
+  Nej, man krusa skall och buga,<br>
+Förren ett osällt ja man får,<br>
+Och så full den sköna ljuga,<br>
+Som i henne nånsin går.<br>
+Då jag segern skall förklara<br>
+Uppå älskarns sida visst;<br>
+Rättfram får man aldrig vara,<br>
+Nej, min broder, list mot list!<br>
+<br>
+  Därför, när en karl får korgen,<br>
+Tänker jag: en redlig man!<br>
+Ty mig detta är en borgen,<br>
+Att han icke hyckla kan.<br>
+Intet huskors bör få trycka<br>
+Ned en själ, som handlar så.<br>
+Han är värd sin stora lycka,<br>
+Han är värd att – korgen få.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+     if (section === "fullmanen") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Sång till fullmånen</h2>
+            <p class="lyrics">  Trefliga prostfar! jag griper i lyran,<br>
+Eldad af drufvornas jäst,<br>
+Dig för att prisa i saliga yran,<br>
+Den jag nu erfar som bäst.<br>
+Sakta, försiktigt, som jag, du dig höjer,<br>
+Klotrund och däsig; lull, lull!<br>
+Kaka af maka sig alltid förnöjer!<br>
+Du, liksom jag, är nu – full.<br>
+<br>
+  Herdar, herdinnor! Er gudfar anländer,<br>
+Inviger lunden till lek.<br>
+Alla I Bacchi och Cyprias fränder,<br>
+Börjen ert pimpel och smek!<br>
+Hjältar af månskenet, hela paraden!<br>
+Nu blir att visa sig rask,<br>
+Klagen på ödet! och sucken! och baden<br>
+Fälten med tårarnas slask!<br>
+<br>
+  Här vill jag sitta och endast betrakta<br>
+Gubben i hela sin front.<br>
+Hur han marscherar så makligt och sakta<br>
+Öfver den blå horisont!<br>
+Säkert det går; ty han känner sin bana,<br>
+Äfven i fyllan, allt nog;<br>
+Likaså säkert som jag utaf vana<br>
+Hittar till närmaste krog.<br>
+<br>
+  Plirögd och salig hit neder han blickar,<br>
+Myser så småsäll och nöjd.<br>
+Sviker mig ögat? jag tror, att han nickar<br>
+Åt mig från svindlande höjd!<br>
+Gissar jag rätt? törs jag väl proponera<br>
+Brorskål? – en ära så stor!<br>
+Åter du nickar, du tycks acceptera? –<br>
+Skål då, min himmelska bror!<br>
+<br>
+  Ack, hvilken nolla i margfaldig styckjom<br>
+Är mot herr bror jag likväl!<br>
+Så, till exempel, min styrka i dryckjom<br>
+Vida är känd, och med skäl:<br>
+Hvad är dock den mot din himmelska skalles?<br>
+O, jag mitt bräckliga mull!<br>
+Trettio nätter du rumlar inalles,<br>
+Innan du riktigt blir full.<br>
+<br>
+  Käftarna pösa ju mera jag dricker,<br>
+Liljorna flykta sin kos,<br>
+Och den förrädiska supskylten spricker<br>
+Ut på min jordiska nos.<br>
+Ständigt förblifver <i>din</i> färg dock densamma:<br>
+Smäktande, liljeblek, ljus.<br>
+Aldrig din älskvärda kind står i flamma,<br>
+Oaktadt tusentals rus.<br>
+<br>
+  Hade jag blott din hejdundrande strupa<br>
+Och din jungfruliga hy!<br>
+Käraste vänner, hvad jag skulle supa!<br>
+Då blef min födelse ny;<br>
+Alla supbröder förmörka jag skulle,<br>
+Likasom du gör med soln.<br>
+Ha! när de lågo där slagne och fulle,<br>
+Sutte jag kapprak på stoln.<br>
+<br>
+  Näsvisa lymlar ej då skulle peka<br>
+Uppå min näsa, som nu.<br>
+Hvilken som såge på kinden, den bleka,<br>
+Tänkte då: »Nykter är du!»<br>
+Mången rödbrusig kokett, som med vånda<br>
+Dricker sin ättika, fy!<br>
+Skulle med kyssar till räkning mig stånda,<br>
+Endast hon finge min hy.<br>
+<br>
+  Ända på visan! Till västliga krogen<br>
+Skyndar min gynnare sig.<br>
+Litet af pannan blott syns bakom skogen,<br>
+Afsked den nickar åt mig.<br>
+Redan så tidigt? God natt! jag beklagar!<br>
+Glöm ej din jordiska vän!<br>
+Dock, har ej fara! om trettio dagar<br>
+Råk's vi väl – fulla igen.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "askan") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Åskan</h2>
+            <p class="lyrics">   Må solsken, doft och västanväder<br>
+Fritt vara älskares begär!<br>
+Men åskan allra mest mig gläder,<br>
+När hos min rädda mö jag är.<br>
+<br>
+   I solen hör hon till de blyga<br>
+Och undan som dess stråle far.<br>
+Hur blickar och sefirer smyga,<br>
+Med schalen stänger hon en hvar.<br>
+<br>
+   Jag knappt får sitta henne nära,<br>
+Dess hand jag sällan fatta får, –<br>
+Och skulle jag en kyss begära,<br>
+Hon rodnar, blir så stött och – går.<br>
+<br>
+   Men åker Tor uti det höga,<br>
+Och fästets blå i eld är bytt,<br>
+Då minnes hon sin blyghet föga<br>
+Och smyger till det bröst, hon flytt.<br>
+<br>
+   Den höga, hvita oskuldspannan<br>
+Hon lutar emot mig, så huld.<br>
+Jag löser lockar från hvar annan<br>
+Och leker fritt med deras guld.<br>
+<br>
+   Och ömma blicken, som plär fara<br>
+Liksom ett stjärnskott snabb förbi,<br>
+Nu söker den mitt öga bara<br>
+Att hämta styrka däruti.<br>
+<br>
+   Jag känner, huru barmen svallar,<br>
+Och hur mot mitt dess hjärta slår.<br>
+Men komma där för täta knallar,<br>
+Jag lika många famntag får.<br>
+<br>
+   Att kvalmet ännu mer ej öka,<br>
+Hon kastar schalen, lossar band;<br>
+Och länder får min blick besöka,<br>
+Som sågos knappt af solens brand.<br>
+<br>
+   Jag ej behöfver handen leta;<br>
+I min den hvilar, mjuk och späd,<br>
+När blixtarna bli allt för heta,<br>
+Bli mina kyssar heta med.<br>
+<br>
+   Och sinom tusen får jag trycka,<br>
+Att kind, att hals blir purpurröd.<br>
+Hon talar blott om kärleks lycka<br>
+Och hur en man är kvinnans – stöd.<br>
+<br>
+   Men ack! när Tor har slutat striden,<br>
+Blir Frejas dyrkan blyg också;<br>
+Om åskan räckte hela tiden,<br>
+Det kunde mycket hända då!</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "arkadien") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Äfven jag var i Arkadien!</h2>
+            <p class="lyrics">   Till Fannys rum jag smög så sakta,<br>
+Som endast älskaren förmår.<br>
+Så, när man himmeln vill betrakta,<br>
+Försiktigt man på jorden går.<br>
+<br>
+   O, sömnens gud! åt dig allena<br>
+Min lofsång för hvad här jag såg!<br>
+I slummer sänkt, den änglarena<br>
+Till hälften satt, till hälften låg.<br>
+<br>
+   Af denna ljufva anblick tjusad,<br>
+Jag fastläst stod, men tanken flög<br>
+Och njöt, allt mer och mer berusad,<br>
+När blicken ut på upptäckt smög.<br>
+<br>
+   Dess milda anda höjde barmen,<br>
+Och vågor jag i lugnet fann.<br>
+Dess kind var lutad emot armen,<br>
+Och midt i snön en ros där brann.<br>
+<br>
+   Kring halsen lockarna sig göto,<br>
+En skymning blond, likt sommarns natt,<br>
+Ur kindens gropar löjen bröto,<br>
+På pannan fridens ängel satt.<br>
+<br>
+   Till hälften öppen munnen myste,<br>
+Likt mogen sommar frisk och glad.<br>
+Bland dess koraller härligt lyste<br>
+Af pärlor fram en liten rad.<br>
+<br>
+   Men plötsligt läpparna sig rörde,<br>
+Och kärleksrikt de svällde fram.<br>
+Mitt namn jag sakta hviskas hörde,<br>
+Och i ett haf af fröjd jag sam.<br>
+<br>
+   Jag kunde mig ej längre styra,<br>
+Ett altar jag för kyssen fann,<br>
+Och, gripen af en salig yra,<br>
+Jag böjde mig – och offret brann.<br>
+<br>
+   Nu borde väl den sköna vaknat,<br>
+Men den, som vaknade, var – jag.<br>
+Det var – en dröm, som mer jag saknat,<br>
+Än verklighetens små behag.</p>
+<p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+
+
+
+
+    if (section === "stubbe") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Titel</h2>
+            <p>Texten...</p>
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
         `;
     }
 
