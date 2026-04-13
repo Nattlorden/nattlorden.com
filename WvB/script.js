@@ -204,8 +204,8 @@ function loadContent(section) {
 
         <h4>Freyja - Översatt och ev. anpassat</h4>
         <ul class="track-list">
-    <li>A Most Curious Man <a href="https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=swlHKs6vQb-E_fCqCllSXQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>Laughing Face / Broken core <a href="https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=DX-sNYG6SumsJMrEshb-0A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('curious')">A Most Curious Man <a href="https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=swlHKs6vQb-E_fCqCllSXQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li onclick="loadContent('laughingface')">Laughing Face / Broken core <a href="https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=DX-sNYG6SumsJMrEshb-0A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li>I cannot say why</li>
     </ul>
         `;
@@ -951,6 +951,112 @@ Men den, som vaknade, var – jag.<br>
 Det var – en dröm, som mer jag saknat,<br>
 Än verklighetens små behag.</p>
 <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "curious") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>A Most Curious Man</h2>
+            <p class="lyrics"><i>Min översättning av <b>Den märkvärdiga mannen</b></i><br><br>
+I know a most curious man,<br>
+Whom surely the world should admire.<br>
+Whatever a mortal one can,<br>
+He claims to possess or acquire.<br>
+ A curious man — that is clear!<br>
+ Yet just a small pedant, I fear.<br>
+<br>
+Of Heaven’s own light he is sparing,<br>
+Though none may obtain it for free;<br>
+Yet learning he scatters unsparing,<br>
+As if it were boundless as sea.<br>
+ A curious man — that is clear!<br>
+ Yet just a small pedant, I fear.<br>
+<br>
+You know that the earth is quite round,<br>
+And dots must be set over “i”;<br>
+But should you desire it profound,<br>
+He’ll teach it as something gone by.<br>
+ A curious man — that is clear!<br>
+ Yet just a small pedant, I fear.<br>
+<br>
+A knot you can certainly tie,<br>
+A candle you know how to trim;<br>
+But go there and humbly apply,<br>
+And lessons will flow out from him.<br>
+ A curious man — that is clear!<br>
+ Yet just a small pedant, I fear.<br>
+<br>
+He grants that the Maker is wise,<br>
+Yet one who is wiser he knows;<br>
+Whom exactly he never supplies —<br>
+But he and his “Self” are quite close.<br>
+ A curious man — that is clear!<br>
+ Yet just a small pedant, I fear.</p>
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+        `;
+    }
+
+    if (section === "laughingface") {
+        content.innerHTML = `
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
+            <h2>Laughing Face / Broken Core</h2>
+            <p class="lyrics"><i>Baserad på <b>Mitt konterfej</b></i><br><br>
+Oh what a spectacle—look at me now<br>
+A painted smile, take a bow<br>
+A charming face, a clever line<br>
+A harmless fool by design<br>
+<br>
+They say I shine, they say I glow<br>
+Irresistible in the show<br>
+But every glance that falls my way<br>
+Never sees what hides beneath the play<br>
+<br>
+I hesitated—should I appear?<br>
+Or scatter this image far and near?<br>
+A thousand hearts set into flame<br>
+For someone they can’t ever claim<br>
+<br>
+ It’s only natural, isn’t it so?<br>
+ To love the mask, but never know<br>
+ The cost of watching, wanting more<br>
+ A laughing face—a broken core<br>
+<br>
+I can’t help it, I play my part<br>
+A single role, a borrowed heart<br>
+You hold my image, day and night<br>
+In waking thoughts and dreams so bright<br>
+<br>
+You call me warmth, you call me light<br>
+But something in me died from sight<br>
+What once was softened by a gaze<br>
+Now stands alone in endless haze<br>
+<br>
+There was a time—reflections kind<br>
+Mirrors lit by another mind<br>
+Her eyes would shape what I could be<br>
+Turn desert bones to living sea<br>
+<br>
+But death came through and broke the glass<br>
+And all those gentle visions passed<br>
+Now shadows settle in my face<br>
+And laughter learns to take their place<br>
+<br>
+<i>So I joke—because I must<br>
+Turn my sorrow into dust<br>
+Feed them laughter, keep them fed<br>
+While something in me stays half-dead</i><br>
+<br>
+ It’s only natural—don’t you see?<br>
+ The brighter mask, the less of me<br>
+ A thousand smiles the world adores<br>
+ But grief is locked behind the doors<br>
+<br>
+If they could read the ink I write—<br>
+A thorn for pen, and tears for light<br>
+They’d thank the silence they were given<br>
+To live untouched by what I’m living</p>
+            <p class="back" onclick="loadContent('songs')">← Tillbaka</p>
         `;
     }
 
