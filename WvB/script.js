@@ -151,7 +151,7 @@ function loadContent(section) {
 <p>1892 - Resignation</p>
 <p>1897 - En berättelse om en utmärkt militär</p>
 
-           
+<h3>Samlingar</h3>           
            
             <p>1867-1870 1 uppl. "Samlade arbeten" utgivna (Bonnier)</p>
 
