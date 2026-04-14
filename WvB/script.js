@@ -122,19 +122,19 @@ function loadContent(section) {
 <p><font color=yellow><b>1838 - Dikter II</b></font></p>
 <p><font color=yellow><b>1840 - Nyare dikter</b></font></p>
 <p><font color=yellow><b>1841 - Dikter IV</b></font></p>
-<p><font color=yellow><b>1843 - Calle. Också en poetisk kalender</b></font></p>
-<p><font color=yellow><b>1844 - Carolina. Poetisk kalender</b></font></p>
+<p><font color=green><b>1843 - Calle. Också en poetisk kalender</b></font></p>
+<p><font color=green><b>1844 - Carolina. Poetisk kalender</b></font></p>
 <p>1846 - Bror. Poetisk kalender</p>
 <p>1847 - Berättelser och utkast</p>
-<p><font color=yellow><b>1847 - Knut. Poetisk kalender</b></font></p>
+<p><font color=green><b>1847 - Knut. Poetisk kalender</b></font></p>
 <p>1849 - Den namnlöse. Poetisk kalender</p>
 <p>1849 - Lite’ nytt till julen</p>
-<p><font color=yellow><b>1850 - Berättelser, reseminnen m. m.</b></font></p>
+<p><font color=green><b>1850 - Berättelser, reseminnen m. m.</b></font></p>
 <p>1850 - En Hökarebetjents Äfwentyr</p>
 <p>1850 - En syn i paradiset</p>
 <p><font color=green><b>1851 - Herr Börje. Poetisk kalender</b></font></p>
 <p>1853 - Den unge Tobiæ resa</p>
-<p><font color=yellow><b>1853 - Sju sofvare. Poetisk kalender</b></font></p>
+<p><font color=green><b>1853 - Sju sofvare. Poetisk kalender</b></font></p>
 <p><font color=green><b>1856 - Farbror Mårten. Poetisk kalender</b></font></p>
 <p><font color=green><b>1858 - Z. Poetisk kalender</b></font></p>
 <p><font color=green><b>1860 - Borup. Poetisk kalender</b></font><p>
