@@ -450,6 +450,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "laughingFace",
       spotify: "https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=rRcwWcahRp-ISp5Ngk3vrw",
       youtube: "https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw"
+    },
+    {
+      title: "I cannot say wht",
+      image: "assets/covers/",
+      section: "music",
+      page: "cannotSay",
+      spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
+      youtube: "https://youtu.be/_Jatog3dewk"
     }
   ],
   showPlaceholder: false
@@ -2174,6 +2182,58 @@ geng ég við hlið yðar, heil
 Ég er hér
 ég var þar
 ég mun enn vera hér`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   cannotSay: {
+    title: "I cannot say why",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `You say you love her, your dearest one,
+I know you do – yes, I know you do,
+But you shall not come where I am alone,
+I swear it, I vow it – I cannot say why.
+
+And if you come where I am alone,
+I know you will – yes, I know you will,
+You shall not take this hand in your own,
+I swear it, I vow it – I cannot say why.
+
+And if you take this hand in your own,
+I know you will – yes, I know you will,
+You shall not draw me close to your arms,
+I swear it, I vow it – I cannot say why.
+
+And if you draw me close in your arms,
+I know you will – yes, I know you will,
+You shall not rest by this trembling heart,
+I swear it, I vow it – I cannot say why.
+
+And if you rest by this trembling heart,
+I know you will – yes, I know you will,
+You shall not steal me a burning kiss,
+I swear it, I vow it – I cannot say why.
+
+And if you steal me a kiss or two,
+I know you will – yes, I know you will,
+You shall not linger, not even a breath,
+I swear it, I vow it – I cannot say why.
+
+And if you linger, a moment still,
+I know you will – yes, I know you will,
+Then stay… if you must… till morning is light,
+I swear it, I vow it – I cannot say why.
+`,
   showPlaceholder: false
       }
     ],
