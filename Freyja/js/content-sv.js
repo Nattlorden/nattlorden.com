@@ -453,7 +453,7 @@ Bara våra egna landskap — sedda med andra ögon.`,
     },
     {
       title: "I cannot say why",
-      image: "assets/covers/todo.png",
+      image: "assets/covers/I cannot say why 3k.png",
       section: "music",
       page: "cannotSay",
       spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
@@ -2194,7 +2194,7 @@ geng ég við hlið yðar, heil
     blocks: [
       {
         type: "image",
-        src: "assets/covers/todo.png",
+        src: "assets/covers/I cannot say why 3k.png",
         size: "small"
       },
       {

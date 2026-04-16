@@ -118,10 +118,10 @@ function loadContent(section) {
             <h2>Bibliografi</h2>
 
             Sång för Kongl. Westgötha-Dahls regemente / Brn.. Vänersborg. 1836
-<p><font color=yellow><b>1837 - Dikter I</b></font></p>
-<p><font color=yellow><b>1838 - Dikter II</b></font></p>
-<p><font color=yellow><b>1840 - Nyare dikter</b></font></p>
-<p><font color=yellow><b>1841 - Dikter IV</b></font></p>
+<p><font color=green><b>1837 - Dikter I</b></font></p>
+<p><font color=green><b>1838 - Dikter II</b></font></p>
+<p><font color=green><b>1840 - Nyare dikter</b></font></p>
+<p><font color=green><b>1841 - Dikter IV</b></font></p>
 <p><font color=green><b>1843 - Calle. Också en poetisk kalender</b></font></p>
 <p><font color=green><b>1844 - Carolina. Poetisk kalender</b></font></p>
 <p>1846 - Bror. Poetisk kalender</p>
