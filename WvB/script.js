@@ -206,7 +206,7 @@ function loadContent(section) {
         <ul class="track-list">
     <li onclick="loadContent('curious')">A Most Curious Man <a href="https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=swlHKs6vQb-E_fCqCllSXQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li onclick="loadContent('laughingface')">Laughing Face / Broken core <a href="https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=DX-sNYG6SumsJMrEshb-0A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>I cannot say why</li>
+    <li>I cannot say why <a href="https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=6kuTWKDxQn-lu4p-2_l7DQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_Jatog3dewk?list=OLAK5uy_mp1WIUONL9xzsoe65LpIZS0WGYmN6zWEE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     </ul>
         `;
     }
