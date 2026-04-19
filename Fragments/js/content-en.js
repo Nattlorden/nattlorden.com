@@ -3341,7 +3341,110 @@ i hans ord`
     }
   ],
   showPlaceholder: false
+    },
+
+    skane: {
+      menuTitle: "Skåne, vårt öppna land",
+      title: "Skåne, vårt öppna land",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Skåne 3k.png",
+      size: "small",
+      caption: "Released April 19th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Unshyly suggested anthem for Scania.</i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `När vinden går över fälten i Skåne
+och ljuset vilar på slätt och strand
+
+Där lärkan står över jorden och sjunger
+där vallmon brinner i sommarens brand
+Där havet talar med stenar vid kusten
+och bokskogens kronor ger skugga och land
+Från åsarnas rygg till de öppna vidder
+från gårdarnas tegel till fiskarnas hamn
+vi bär detta landskap i rösten och stegen
+vi nämner det stilla, vi nämner dess namn
+
+Och när kvällens ljus går ner över bygden
+står färgerna kvar emot himmelens rand
+rött som jorden, gult som skörden
+korset lyser över vårt land
+
+Skåne, Skåne, öppna land
+vind och vete, hav och sand
+Röd och gul mot sky och sjö
+Skåne, du är jord och frö
+Skåne, Skåne, sångens land
+hjärta, hem och öppen hand
+
+Röd och gul
+över slätt och sund
+Röd och gul
+över hembygdens grund
+
+Här går våra vägar genom sekler av längtan
+med danska vindar och svenska spår
+Här står våra hus mellan minnen och framtid
+där samma jord under fötterna går
+I hamnarnas mörker, i kyrkornas klockor
+i markernas doft efter regn över mull
+finns röster från dem som har brutit och byggt här
+och lämnat sitt mod i vår fana av guld
+
+Och när morgonens första ljus över gården
+väcker rader av sten, ek och strand
+står färgerna kvar som ett löfte i vinden
+korset lyser över vårt land
+
+Skåne, Skåne, öppna land
+vind och vete, hav och sand
+Röd och gul mot sky och sjö
+Skåne, du är jord och frö
+Skåne, Skåne, sångens land
+hjärta, hem och öppen hand
+
+Om världen kallar, om vägarna bär oss
+finns ändå hemmet i slättens ljus
+för havet och vinden, för jorden och träden
+för röda tegeltak, för by och hus
+Vi reser bort men bär dig inom oss
+i blodet, i stegen, i språk och brand
+och när vi åter står mot kvällens himmel
+så höjer vi sången för Skånes land
+
+Skåne, Skåne
+röd och gul
+Skåne, Skåne
+hav och mull
+
+Skåne, Skåne, öppna land
+vind och vete, hav och sand
+Röd och gul mot sky och sjö
+Skåne, du är jord och frö
+Skåne, Skåne, sångens land
+hjärta, hem och öppen hand
+Skåne, Skåne, stå oss bi
+när vår fana går förbi
+Röd och gul mot kvällens brand
+Skåne, vårt och öppet land
+
+Röd och gul över slätt och strand
+Skåne, vårt och öppet land`
     }
+  ],
+  showPlaceholder: false
+    },
 
 
 /*

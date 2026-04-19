@@ -431,7 +431,7 @@ Bara våra egna landskap — sedda med andra ögon.`,
     songsMisc: {
       menuTitle: "Wilhelm och övrigt",
       title: "Wilhelm von Braun på engelska - och spår som är svårklassificerade.",
-      intro: `En del sånger är svåra att gruppera och översättningar och adaptioner av Wilhelm von Brauns dikter hör definitivt hemma här om de inte uppenbart passar in ovan.`,
+      intro: `En del sånger är svåra att gruppera. Översättningar och adaptioner av Wilhelm von Brauns dikter hör definitivt hemma här om de inte uppenbart passar in ovan.`,
       layout: "cards",
       columns: 4,
   cards: [
@@ -458,6 +458,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "cannotSay",
       spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
       youtube: "https://youtu.be/_Jatog3dewk"
+    },
+    {
+      title: "Scania, Our open land",
+      image: "assets/covers/Scania 3k.png",
+      section: "music",
+      page: "scania",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -2337,6 +2345,102 @@ Come through the veil`,
     ],
     showPlaceholder: false
    },
+
+   scania: {
+    title: "Scania, Our open land",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Scania 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `When the wind moves over the fields of Scania
+and the light comes to rest on plain and shore
+
+Where the skylark rises over the furrows - singing
+where the poppies burn in the heat of the day
+Where the sea keeps watch by the stones on the shoreline
+and the beechwood crowns cast shadow and shade
+From the ridge of the hills to the wide open farmland
+from half-timbered farms to the fishers’ key
+we carry this landscape in voice and in footsteps
+and speak of its name with pride and with peace
+
+And when evening falls low over the homeland
+still the colours remain in the edge of the sky
+red as the earth and gold as the harvest
+the cross is shining over our home
+
+Scania, Scania, open land
+wind and wheat and sea and sand
+red and gold by sky and sea
+Scania, you belong to me
+Scania, Scania, song and soil
+heart and home and human toil
+
+Red and gold
+over field and sound
+Red and gold
+over homeward ground
+
+Here our roads run on through centuries turning
+Danish winds and Swedish traces remain
+Here stand our houses through memory and future
+held by the same good earth after rain
+In the dark of the harbours, the bells of the churches
+in the scent of the soil when the wet furrows breathe
+live the voices of those who have broken and built here
+leaving their courage in all that we keep
+
+And when morning lays fire on the farmsteads and stonewalls
+waking oak, coast and meadow again
+still the colours remain like a vow in the wind there
+the cross is shining over our home
+
+Scania, Scania, open land
+wind and wheat and sea and sand
+red and gold by sky and sea
+Scania, you belong to me
+Scania, Scania, song and soil
+heart and home and human toil
+
+If the world should call and the long roads lead us
+still there is home in the light of the plain
+for the sea and the wind, for the trees and the tilled earth
+for the red roof tiles in the sun and the rain
+We may travel far but we carry you with us
+in the blood, in the stride, in the tongue and the hand
+and when we return beneath evening’s heaven
+we will raise up our song for the Scanian land
+
+Scania, Scania
+red and gold
+Scania, Scania
+sea and soil
+
+Scania, Scania, open land
+wind and wheat and sea and sand
+red and gold by sky and sea
+Scania, you belong to me
+Scania, Scania, song and soil
+heart and home and human toil
+Scania, Scania, stand with us
+when your banner passes by
+red and gold in evening fire
+Scania, our open land
+
+Red and gold over shore and land
+Scania, our open land`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+
 
    stubbe: {
     title: "titel",
