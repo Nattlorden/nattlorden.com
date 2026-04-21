@@ -464,8 +464,8 @@ Only our own landscapes — seen with different eyes.`,
       image: "assets/covers/Scania 3k.png",
       section: "music",
       page: "scania",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/42AarkdC4En5Gk6hKirgDe?si=XtUovdr_RLK4AagAYWDmIg",
+      youtube: "https://youtu.be/BrdPCtitsYU?list=RDBrdPCtitsYU"
     }
   ],
   showPlaceholder: false

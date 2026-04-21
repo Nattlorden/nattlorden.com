@@ -3357,7 +3357,7 @@ i hans ord`
       type: "text",
       content: `<i>Unshyly suggested anthem for Scania.</i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/7DHbVYcNqSkm7Gg7vug1gT?si=R8vGI9avTVKZvbiYzwElvg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/MN_e9vjw-Oc?list=RDMN_e9vjw-Oc" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
