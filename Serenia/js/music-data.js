@@ -163,6 +163,115 @@ const musicData = {
           youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI"
         }
       ]
+    },
+    bothendspt3: {
+      title: "Province",
+      image: "assets/songs/Province 3k.png",
+      imageAlt: "Cover art for Province",
+      tracks: [
+        {
+          key: "threeCups",
+          title: "Three cups, one truth",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "nightVisit",
+          title: "Villa Eriel night visit",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "stomp",
+          title: "Stomp the Year awake",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "navehLithurgic",
+          title: "Naveh (lithurgic)",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "wakeOfLado",
+          title: "The wake of Lado",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "scent",
+          title: "The scent of memory",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "natureCall",
+          title: "Nature call",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "byria",
+          title: "The fields of Byria",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "lines",
+          title: "Lines that do not show",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "openHand",
+          title: "Hymn of the Open Hand",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "balance",
+          title: "Balance",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "offer",
+          title: "We took the offer",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "furrow",
+          title: "The furrow Blessing",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "khazKhur",
+          title: "Khaz Khur Razan",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "ranger",
+          title: "The Ranger and the Dozen",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "harvest",
+          title: "Harvest",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          key: "fallenKing",
+          title: "Fallen King",
+          spotify: "",
+          youtube: ""
+        }
+      ]
     }
   }
 };

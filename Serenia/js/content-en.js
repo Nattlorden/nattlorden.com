@@ -276,6 +276,13 @@ The ideas diverged and resulted in three versions, all of which felt complete. T
       showPlaceholder: false
     },
 
+    bothendspt3: {
+      menuTitle: `- Province (Pt.3)`,
+      title: "Province",
+      intro: "Third part of the albums suite.",
+      caption: "Cover art: Mixed settlers in Serenia",
+      showPlaceholder: false
+    },
 
     instrumentals: {
       menuTitle: "Instrumental themes",
@@ -3311,13 +3318,1047 @@ Who are you…
 Who are we…
   `,
   showPlaceholder: false
+    },
+
+     threeCups: {
+      title: "Three cups, one truth",
+      hidden: true,
+      lyrics: `
+Step right in, don’t stand so tight,
+Copper sings in morning light.
+Three small cups and one small lie,
+Watch my hands — or watch me lie.
+
+Left or right, or center line,
+Every choice is yours — not mine.
+
+ Three cups down, one ball round,
+ Truth is lost the moment found.
+ Guess too fast, or guess too slow,
+ You don’t see what wants to show.
+
+ Three cups spin, fortunes fall,
+ Luck’s a whisper, not a call.
+ If you’re sure, you’ve already lost —
+ Certainty is part the cost.
+
+Watch the wrist, not just the hand,
+Feel the pause — that’s where I stand.
+When I linger, when I grin,
+That’s not where the ball has been.
+
+Right goes left and left goes wrong,
+Center waits — not very long.
+I lift two cups, empty, bare…
+Still you swear it must be there.
+
+I never said I played this fair.
+I never said the prize was coin.
+
+Some of you chase silver truths.
+Some of you… are looking elsewhere.
+
+Middle cup.
+You chose it clean.
+Not for gain — but in between.
+
+I lift the cup — and what is found
+Is not what rolls or makes a sound.
+
+ Three cups still, the game undone,
+ Not all victories are won.
+ What you sought was never tossed —
+ Some things hide to not be lost.
+
+ Three cups gone, remember this:
+ Not all wagers end in bliss.
+ But once in while, if you’re precise…
+ You lift a cup — and find the price.
+
+No more bets.
+The square is loud.
+And I am not who I avowed.
+  `,
+  showPlaceholder: false
+    },
+
+    nightVisit: {
+      title: "Villa Eriel night visit",
+      hidden: true,
+      lyrics: `
+You stood inside the doorway like a memory made true
+Dust and lamplight on your shoulders, rain still breathing from your coat
+Every room had learned a different name since you last lived here
+But your shadow knew the staircase
+And my hands forgot to close
+
+This was your house once
+Now it keeps my key
+Still the dark moved gently
+As if it waited for us both to speak
+
+ So lie down here beside me
+ Where the old walls hear our skin
+ Let the night unmake the distance
+ Let the lost times loosen
+ No borrowed dream, no borrowed fire
+ Only us, and what survives
+ In the bed between your leaving and my life
+
+You touched the frame above the window
+Like you felt the grain remember
+Every mark and every silence
+Every winter we lived apart
+I said nothing when you turned
+And your eyes found mine like home
+Then the room became a harbor
+And I let you pull me close
+
+No one else could know
+How this house can ache
+How your name still opens
+Places in me time could never take
+
+ So lie down here beside me
+ Where the old walls hear our skin
+ Let the night unmake the distance
+ Let the lost years loosen
+ No borrowed dream, no borrowed fire
+ Only us, and what survives
+ In the bed between your leaving and my life
+
+I am not asking morning
+To promise what it can't
+I only want this nearness
+Your heartbeat in my hands
+Your breath across my shoulder
+Your teeth against my mouth
+The way the dark grows hungry
+ - When no-one runs away
+
+ So lie down here beside me
+ Let the floorboards keep the sound
+ Of the house that held your younger days
+ And holds us even now
+
+ No tale we read to hide inside
+ No painted stars above
+ Only your body, my body
+ And one unguarded love
+
+You came back to your old rooms
+And found me in the night
+Then the house grew still around us
+As we turned our hearts to light
+  `,
+  showPlaceholder: false
+    },
+
+    stomp: {
+      title: "Stomp the Year awake",
+      hidden: true,
+      lyrics: `
+The frost is near, the sun hangs low,
+Blue on our hands where the sweet grapes go,
+Old earth wakes where the roots still run,
+We work till night — but the day’s not done.
+
+<i>Not done yet!</i>
+
+ Stomp, stomp, the year awake,
+ Let the old vines breathe and break,
+ Feet in purple, hands in red,
+ Drink tomorrow what we’ve bled!
+
+Baskets full and laughter wide,
+Juice like gems at the lantern’s side,
+Ten long years the casks stood dry,
+Now hear the yard breathe, hear it sigh.
+
+<i>Hear it breathe!</i>
+
+ Stomp, stomp, the year awake,
+ Let the old vines breathe and break,
+ Sing it loud, don’t mind the stain,
+ This house remembers joy again!
+
+Wine tastes best when earned by feet,
+Not by prayers or polished seats,
+Curse the flies and bless the press—
+Spill it, laugh, and call it blessed!
+
+ Stomp, stomp, the year awake,
+ Must to barrel, hope to stake,
+ Red as memory, dark as cheer,
+ Villa Eriel starts again this year!
+  `,
+  showPlaceholder: false
+    },
+
+    navehLithurgic: {
+      title: "Naveh (lithurgic)",
+      hidden: true,
+      lyrics: `
+O Naveh, Lord of Eternal Night,  
+Whose ebon streets of Kamil know no dawn,  
+Thief of Heaven, Master of the Unseen Blade,  
+Merciless Deliverer of Sorrow and Silence,  
+We bow before Thy veil of shadow.
+
+Hear us, O Tongue of all Deceit,  
+Bringer of Nightmares that walk the waking world,  
+Father of the Gytevesha, the unseen host,  
+Who moves where light dares not tread.
+
+ In the darkness we serve Thee,  
+ In the whisper we honor Thee,  
+ In the swift and silent stroke we glorify Thee.  
+ Shadow take us. Silence claim us. Naveh commands.
+
+Guide our hands in the hour of the knife,  
+Grant us the cloak of Thy perfect shadow,  
+Teach us the lies that become truth,  
+And the truths that slay more surely than steel.
+
+O Naveh, whose gaze pierces the soul,  
+Accept this our offering of breath and blood...
+
+ As the candle dies, so dies the light of our enemies.  
+ As the moon hides her face, so hide we from all eyes but Thine.  
+ In the name of the Thief of Heaven,  
+ In the silence between heartbeats,  
+ We are Thine, now and unto the final darkness.
+
+Shadow take us... Silence claim us... Naveh commands...
+  `,
+  showPlaceholder: false
+    },
+
+    wakeOfLado: {
+      title: "The wake of Lado",
+      hidden: true,
+      lyrics: `
+The sea remembers every name,
+Each careless word, each borrowed flame.
+What’s spoken loud on salted air
+Is weighed by more than mortal care.
+
+ Lado hears the wake we make,
+ Oar and breath, the vow, the break.
+ Not all debts are paid in blood—
+ Some are claimed by tide and flood.
+
+You laughed at craft you could not read,
+At quiet strength, at patient deed.
+But wood and rope and watching deep
+Keep better count than men who sleep.
+
+ Lado hears the wake we leave,
+ Truth beneath what we believe.
+ Mock the helm, or mock the hand—
+ The sea will always understand.
+
+No curse was cast, no blade was drawn,
+No god was begged, no law was sworn.
+You spoke—and something else replied,
+As keel and current chose a side.
+
+ Lado keeps what words invite,
+ In green of depth, in salt of night.
+ Sail in grace, or sail in fear—
+ The sea is always listening here.
+
+She did not hear.
+She did not strike.
+
+But something did.
+  `,
+  showPlaceholder: false
+    },
+
+    scent: {
+      title: "The scent of memory",
+      hidden: true,
+      lyrics: `
+The boat is still, the morning sighs,
+Tar and salt and waking skies.
+But something threads the air between—
+A spark unseen, a scent I’ve known.
+
+You step inside with dampened hair,
+Clean linen, water, honest care.
+And yet my pulse forgets its place,
+As if I’ve met another face.
+
+I know your walk, I know your hands,
+Your voice, your scars, your careful stands—
+So why does something tilt the room
+When you draw near me in this bloom?
+
+ Oh stay… no—wait—don’t move at all,
+ The air remembers what I can’t recall.
+ This isn’t you, and yet it is,
+ A borrowed fire, a perfumed kiss.
+
+You smile, unsure, say “Thank you, milady,”
+As if that word could keep me steady.
+I step too close, my voice goes soft,
+I breathe you in—far more than oft.
+
+“That scent,” I say, “it suits you well…”
+The words escape before the spell
+Lets me recall whose hands would brew
+A thing that smells like want made true.
+
+You say: “Aylyn gave it me—
+To keep Serenima far from me.”
+
+I laugh—then stop—then understand.
+Oh gods forgive that clever hand.
+
+ Go now—no, run—wash it away,
+ Before this turns to words we’d say.
+ It’s not your fault, nor mine, I swear,
+ Just alchemy in careless air.
+
+You blink, confused, a touch abashed,
+Obedient as the spell is dashed.
+The door shuts fast, the moment breaks,
+My heart slows down… then gently aches.
+
+I sit alone, the papers blur,
+And then I laugh—soft, warm, unsure.
+
+Aylyn… you eternal fool,
+You taught me something breaking rule:
+
+Even truth can wear perfume.
+ `,
+  showPlaceholder: false
+    },
+
+    natureCall: {
+      title: "Nature call",
+      hidden: true,
+      lyrics: `
+Ah—
+Ah-ah—
+Mm—
+
+Ah—
+Ah-ah—
+Mm—
+
+This land is beautiful.
+This land is quiet.
+This land remembers.
+
+Aaa-uo-aa-heei…
+Ooo-aah-ooo-hai…
+Eij-áh-eij-áh-hoh…
+Uo-uá-uoh-áhaa…
+
+This land is worth fighting for.
+
+Not for conquest—
+For keeping.
+
+A new — home.
+Ancient heart.
+
+He-ya no…
+He-ya no-o…
+Serania…
+Serenia…
+
+We belong to the land.
+The land does not belong to us.
+  `,
+  showPlaceholder: false
+    },
+
+    byria: {
+      title: "The fields of Byria",
+      hidden: true,
+      lyrics: `
+Byria blooms where chaos slept,
+peace is sown and borders kept.
+Order reigns by gentle hand,
+fruit grows rich in tempered land.
+
+ We pull.
+ We bend.
+ We work the land.
+
+No war-song cries, no lords at feud,
+justice calm and laws are good.
+Mothers rule with measured sight,
+every wrong is set to right.
+
+ We pull.
+ We bend.
+ We work the land.
+
+Hunger fades, the roads are safe,
+wine is strong and bread is baked.
+All have place and all have role,
+every life is made whole.
+
+ We pull.
+ We bend.
+ We work the land.
+
+No blade to lift.
+No word to say.
+No name but hands.
+No night but day.
+
+Those who falter, those who stray,
+are kept apart and taught the way.
+Harmony must not be torn,
+better stone than seeds of scorn.
+
+ We pull.
+ We bend.
+ We work the land.
+
+Byria stands as others fall,
+proof that peace can govern all.
+A realm made clean, serene, and strong,
+where nothing now can go so wrong.
+
+ We pull.
+ We bend.
+ We… work… the land.
+  `,
+  showPlaceholder: false
+    },
+
+    lines: {
+      title: "Lines that do not show",
+      hidden: true,
+      lyrics: `
+I learned the words, I held the angles
+Every pause where it belonged
+The world replied when I was careful
+When I did it right, not strong
+
+I loved the feeling of precision
+How the pattern closed its seam
+But every answer left a hollow
+Where the why had never been
+
+They spoke of will, they spoke of structure
+None could tell me what it meant
+When the world replied differently
+Than the rules I had been sent
+
+ I am not here to copy knowledge
+ I am not here to keep the score
+ I am listening for the moment
+ When the world leans in once more
+
+ Not with words and not with gestures
+ Not with symbols carved in stone
+ But with weight, and pull, and motion
+ That I never learned alone
+
+I saw the table before I touched it
+Not a tool, but something true
+It did not speak, it did not promise
+It just waited to be used
+
+I asked no god to bless my pathway
+I did not kneel, I did not plead
+I only said: this isn’t living
+Tracing answers I don’t need
+
+ I am not here to copy knowledge
+ I am not here to play it safe
+ I am listening for the moment
+ When the world forgets its shape
+
+ Not a lesson, not a doctrine
+ Not a gift I must obey
+ Just a choice that stays a choice
+ Even when it cuts away
+
+I saw the weave before it moved
+Already bent, already drawn
+Pulled toward something open-eyed
+That did not act — but changed the ground
+
+I reached — not gently, not correctly
+I took what never asked my name
+And when I threw, the world replied
+Not with power — but with change
+
+ So mark me where it will not show
+ Lay the metal under skin
+ Let it speak when I am moving
+ Let it burn when I pull thin
+
+ Not a sign for those who watch me
+ Not a claim, and not a vow
+ Only this: when I disturb it
+ The world will answer now
+
+I do not shine
+I do not glow
+Until the weave
+Is forced to show
+  `,
+  showPlaceholder: false
+    },
+
+    openHand: {
+      title: "Hymn of the Open Hand",
+      hidden: true,
+      lyrics: `
+We do not kneel for mercy given
+Nor beg forgiveness for our flame
+You ask no purity of spirit
+You only ask us speak your name
+
+You meet us where the wanting starts
+Where hunger learns to dress as need
+No sin is named, no debt denied
+Only the price we chose to heed
+
+ Halea — Lady of the Moment
+ Keeper of the unkept vow
+ What we desire, we offer freely
+ What we take, we claim it now
+
+You teach no law, you draw no border
+Between the noble and the base
+You show us mirrors, not commandments
+And ask us only what we face
+
+The hand that takes is not condemned
+The mouth that tastes is not unclean
+You weigh us only by our honesty
+In what we want — and what we mean
+
+ Halea — Queen of Quiet Bargains
+ Every word precisely heard
+ Nothing taken without its echo
+ Nothing lost without a word
+
+Blessed the stolen breath at twilight
+Blessed the touch we cannot keep
+Blessed the vow we never uttered
+And the longing laid to sleep
+
+For every pleasure leaves a shadow
+And every shadow leaves a mark
+You do not hide it from our seeing
+You only teach us not to look away
+
+ Halea — Empress robed in longing
+ Gold and crimson, debt and grace
+ We enter knowing what we offer
+ We depart without a trace
+
+Not redeemed and not forgiven
+Only claimed the way we stand
+Bound by nothing but our choosing
+Sealed by bargain — open hand
+
+Those who call us fools and hollow
+Fear the cost they dare not name
+Better debt than borrowed virtue
+Better truth than borrowed shame
+
+You keep the ledgers of the willing
+Not in ink, but pulse and breath
+Every bargain ends in silence
+Every silence tastes of depth
+
+ Halea — Mistress of the Moment
+ Neither cruel nor kind nor fair
+ You do not promise us forever
+ Only now — and we are there
+  `,
+  showPlaceholder: false
+    },
+
+    balance: {
+      title: "Balance",
+      hidden: true,
+      lyrics: `
+Frost breaks under careful steps
+Not loud enough to wake the dark
+Breath turns white, then disappears
+Everything does
+Except what’s at play
+
+The river runs beneath the ice
+Not frozen
+Not free
+I stand between
+The same is true for me
+
+This was never in the plan
+Plans belong to tables and light
+This is what remains
+After the decision learned to breathe
+
+Names I do not know yet
+Are already leaning on my voice
+Choices will be made in my shadow
+But spoken in my name
+
+ It is not fear that weighs on me
+ It is knowing this continues if I turn away
+ The world does not pause for doubt
+ It only asks for balance
+
+Bare hand on the metal rail
+Cold enough to cut through thought
+It does its work  
+The pain is precise
+I can measure it
+
+Bare hand on the metal rail
+Cold enough to cut through thought
+It’s what I need 
+The pain is precise
+I treasure it
+
+There is no version of this
+That lets me remain untouched
+No path back
+Only follow-through
+
+ It is not fear that holds me still
+ It is knowing this outlives my choice
+ I do not walk back with relief
+ Only balance
+
+The house waits
+Because it must
+And so do I
+  `,
+  showPlaceholder: false
+    },
+
+    offer: {
+      title: "We took the offer",
+      hidden: true,
+      lyrics: `
+We were counted where we came from
+Measured short of what we need
+Every season owed the same thing
+Work for less than what you reap
+
+Then the word came, plain and simple
+No fine print, no gilded tone
+Land that answers to your labor
+If you dare to make it home
+
+ So we took the offer given
+ Not because it was secure
+ But because it named the silence
+ And did not pretend a cure
+
+No one promised us a harvest
+No one swore the ground was kind
+Only this: if we endure it
+What is built will still be mine
+
+Some had tools, and some had nothing
+Some had names they left behind
+Some brought skills they never used here
+Some brought ghosts they couldn’t bind
+
+There are laws, but few are written
+There are lines, but not yet drawn
+You can feel the land is watching
+Asking what you’ll stand upon
+
+ So we took the offer standing
+ In the cold, without applause
+ Knowing work would be the measure
+ Knowing failure would be ours
+
+No redemption, no forgetting
+Just a place to start again
+Where the ground does not remember
+What we were before we came
+
+If this breaks us, it breaks clean
+If it holds, it holds by hand
+Nothing here is owed or sacred
+Until we make it stand
+
+ Now we take the days as given
+ Fence by fence and furrowed row
+ What we build may not be gentle
+ But it will be what we know
+
+Let the old roads keep their stories
+Let them say we were unwise
+We did not come here for mercy
+We came here to make it rise
+
+No songs were written for this moment
+No witness but the land
+Only breath
+And weight
+And calloused hands
+  `,
+  showPlaceholder: false
+    },
+
+    furrow: {
+      title: "The furrow Blessing",
+      hidden: true,
+      lyrics: `
+Turn the soil and break the clay
+
+Peoni bless the growing day
+
+Lay the seed in patient rows
+
+Peoni guard the life that grows
+
+Rain above and root below
+
+Peoni make the green things grow
+
+Stone and thorn we clear away
+
+Peoni guide the patient day
+
+Hands grow tired, backs bend low
+
+Peoni make the green things grow
+
+Sun will fall and shadows creep
+
+Peoni watch the furrows sleep
+
+When the spring returns once more
+
+Peoni fill the fields with store
+  `,
+  showPlaceholder: false
+    },
+
+    khazKhur: {
+      title: "Khaz Khur Razan",
+      hidden: true,
+      lyrics: `
+Nor zarik zhor.
+Khaz zhor.
+Zarik — dur.
+Nor razan.
+
+Khaz tal urun.
+Khur.
+Tal mor.
+Nor zhag.
+
+Zarik va khaz — dur.
+Zarik va khaz — nor.
+Nor dur,
+Khaz khur.
+
+Zarik khur.
+Khaz urun.
+Zarik zhorin.
+Khaz razan gor.
+
+Khur khaz.
+Khaz razan gor.
+Nor zhor,
+Dur khur.
+
+Khur khaz.
+Nor khurim.
+Urun end,
+Khaz dur.
+
+Zarik-khur zhag.
+Khaz — nor.
+Razan bendor
+Nor zhorum.
+
+Zhor zarik
+Khurden nor.
+Tal khaz
+Tam razan.
+
+Khaz zhor form.
+Khaz zhor den.
+Zarik — dur
+Mor-dur.
+
+Khur khaz.
+Khaz zhorin.
+Zarik dur,
+Nor zhor.
+
+Khur khaz.
+Khaz khur end.
+Zhor dur
+Khaz zhor.
+
+<hr>
+
+<h3>Engelish version</h3>
+
+<iframe src="https://suno.com/embed/a2a1ad4f-0016-4c58-93f0-34b1e44ecaf9" width="760" height="240" frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"><a href="https://suno.com/song/a2a1ad4f-0016-4c58-93f0-34b1e44ecaf9">Listen on Suno</a></iframe>
+
+<i>
+We do not follow gold.
+We follow the stone.
+Gold is a result,
+Not a direction.
+
+The stone speaks first.
+We listen.
+Its voice is slow,
+But it does not lie.
+
+Sometimes stone and gold agree.
+Sometimes they part.
+When they part,
+We stay with the stone.
+
+Gold is patient.
+Stone is older.
+Gold waits to be found.
+Stone decides where we walk.
+
+Trust the stone.
+It leads you right.
+Not to what you seek,
+But to what must be found.
+
+Trust the stone.
+It does not hurry.
+In the end,
+It gives what it intends.
+
+A vein can deceive.
+The stone cannot.
+It bends the path
+Away from hunger.
+
+Those who chase the shine
+Lose the tunnel.
+Those who hear the stone
+Reach the deep.
+
+The stone wants shape.
+The stone wants order.
+Gold is only
+What remains.
+
+Trust the stone.
+Follow its will.
+You will find gold,
+But not as a goal.
+
+Trust the stone.
+It knows the end.
+You will find
+What the stone wants found.</i>
+
+  `,
+  showPlaceholder: false
+    },
+
+    harvest: {
+      title: "Harvest",
+      hidden: true,
+      lyrics: `
+Across the fields of Sehrennia
+The cut grass rides the breeze
+And every cart in Sirion
+Comes singing through the leaves
+The fork and rake go flashing
+The good earth fills the air
+And laughter runs like river light
+Through braids and sun-browned hair
+
+Lift high, lift high, the summer made
+Before the dark can fall
+Bind gold from root to rafters
+Bring plenty home for all
+
+ So gather, gather, all ye hands
+ Bring meadow, bloom, and grain
+ Let every road to Sirion
+ Be bright with song again
+ And where the wagons wander slow
+ Let faithful hearts be known
+ For in the time of harvest
+ No soul should stand alone
+
+The wheel rims creak at evening
+The swallows wheel and dive
+A piper on the haystack top
+Keeps every step alive
+The shy ones trade their glances
+The bold ones dare a tune
+And lantern fire begins to wake
+Beneath the rising moon
+
+Lift high, lift high, the fragrant load
+Till stars look through the blue
+The barn doors wait with open beams
+For all our labor true
+
+ So gather, gather, all ye hands
+ Bring meadow, bloom, and grain
+ Let every road to Sirion
+ Be bright with song again
+ And where the wagons wander slow
+ Let faithful hearts be known
+ For in the time of harvest
+ No soul should stand alone
+
+When daylight thins to amber
+And the last cart finds the yard
+The old songs meet the new ones
+In the keeping of the bards
+A cup is raised for seedtime
+A cup for weather kind
+A cup for those beside us now
+And those we bear in mind
+
+There by the stacked sweet meadow
+Where clover scents the night
+A hand once brushed another hand
+And neither drew from sight
+No oath was sworn in thunder
+No crown was set above
+Just hay, and stars, and quiet breath
+And the first brave word of love
+
+ So gather, gather, all ye hands
+ Bring meadow, bloom, and grain
+ Let every road to Sirion
+ Be bright with song again
+ And where the wagons wander slow
+ Let faithful hearts be known
+ For in the time of harvest
+ No soul should stand alone
+
+Now sleep, O fields of Sehrennia
+Your wealth is safely stored
+And may the coming winter
+Find every table poured
+Till spring returns to wake you
+We keep this blessing strong
+Serenia holds the harvest
+And Keri keeps the song
+  `,
+  showPlaceholder: false
+    },
+
+    fallenKing: {
+      title: "Fallen King",
+      hidden: true,
+      lyrics: `
+He rode with fire in his veins
+Toward the walls of Serenia
+Steel and oath in battle lines
+Certain of euphoria
+But pride can turn the tide of fate
+And blind the watching eye
+What rose in wrath at Heaven’s gate
+Returned in bitter cry
+
+The horns were calling
+The ground was shaking
+Yet destiny was turning cold
+In the smoke of failing light
+A story carved in stone
+
+ Fallen king, your crown lies in the dust
+ Broken wings beneath the weight of trust
+ You marched on Serenia’s flame
+ Now history forgets your name
+ Fallen king, hear the people sing
+ Not of triumph — but of everything
+ you lost in the night you chose to bring
+ War to Serenia
+
+The gates did not surrender
+Nor did the hearts within
+Keri’s roar against the offender
+Against their iron will and wind
+Brothers scattered on the field
+Dreams undone by dawn
+Every vow once sealed
+Now shattered and withdrawn
+
+The sky was burning
+The ranks were breaking
+And courage turned to stone
+In the clash of desperate cries
+He faced the truth alone
+
+ Fallen king, your crown lies in the dust
+ Broken wings beneath the weight of trust
+ You marched on Serenia’s flame
+ Now history forgets your name
+ Fallen king, let the silence ring
+ Through the ruins of your offering
+ you lost in the night you chose to bring
+ War to Serenia
+
+In the quiet after thunder
+He knelt upon the scarred earth
+Not defeated by another
+But by his own rebirth
+From the ashes of ambition
+From the fragments of command
+He learned the cost of conquest
+Written in the sand
+
+ Fallen king, rise from the dust
+ Not by power, not by trust
+ Let the memory of Serenia’s stand
+ Guide your heart and steady your hand
+ Fallen king, though empires fall
+ There is a greater crown than all
+ Not forged in war or suffering
+ But in the peace you bring
+  `,
+  showPlaceholder: false
+    },
+
+
+
+
+
+
+
+    song_stub: {
+      title: "Galley Lado",
+      hidden: true,
+      lyrics: `
+...
+  `,
+  showPlaceholder: false
+    },
+
+    secretSong: {
+        menuTitle: "Hemlig sång",
+        title: "Hemlig sång",
+        hidden: true,
+        blocks: [
+        {
+        type: "text",
+        content: `Detta är en sida som går att nå via intern länk men inte syns i vänstermenyn.`
+        }
+        ]
     }
-
-
-
-
-
-
   },
 
   
