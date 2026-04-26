@@ -4,6 +4,7 @@ const sectionLabels = {
     croonlius: "Croonlius",
     echaon: "Echæon",
     khellendros: "Khellendros",
+    majlisa: "Maj-Lisa & Skramlet",
     threshold: "Threshold Canticle",
     /*hifi: "HiFi",*/
     other: "Övrigt"
@@ -46,6 +47,11 @@ const siteMeta = {
     title: "Khellendros",
     tagline: "Minnet av spelvärldar, syntar och ouppfyllda teman",
     headerClass: "header-khellendros"
+  },
+  majlisa: {
+    title: "Maj-Lisa & Skramlet",
+    tagline: "Svensk bluesrock, vägdam och sena refränger",
+    headerClass: "header-majlisa"
   },
   threshold: {
     title: "Threshold Canticle",

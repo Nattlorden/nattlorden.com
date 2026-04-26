@@ -6113,8 +6113,1129 @@ the road itself becomes a home`
 
 }, /* end Khellendros */
 
-  
+majlisa: {
+  about: {
+    menuTitle: "Om",
+    title: "Maj-Lisa & Skramlet",
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Koncertfoto_old.png",
+        size: "small",
+        caption: ""
+      },
+      {
+        type: "text",
+        content: `Swedish blues rock and roots rock, with one foot in the rehearsal room and the other on a small stage somewhere after the last bus has already left.`
+      }/*,
+      {
+        type: "divider"
+      },
+      {
+        type: "text",
+        content: `lyrics`
+      }*/
+    ],
+    showPlaceholder: false
+  },
+      mls1: {
+      menuTitle: "Ner längs vägen (album)",
+      title: "Ner längs vägen (album)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Ner längs vägen 3k.png",
+      size: "medium",
+      caption: "Publicerad 25e april 2026"
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/album/1QKR3H5HztXSLvhd3RyC5k?si=MdikYMtpQ2KUgjSTe9Wh2A" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtube.com/playlist?list=OLAK5uy_kNFERGbbPesNwkE5FE36DWXYvcEubmnVk&si=K8_uHcig_1wderai" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>This is a band that could have stood on small, smoky stages in the late ’70s and early ’80s — night after night, between shifts and paychecks, holding on to the hope that something might finally break.
 
+The songs carried Maj-Lisa’s name, but they took shape in the room together with Skramlet — in rehearsals, on stage, and in whatever was left behind afterward.
+
+She had recently come out of a relationship that left its marks. Not unscarred — but straighter, harder, and more truthful in what she sang.
+
+The repertoire wasn’t fully their own yet. They filled the nights with what was needed: original songs, translations, borrowed truths, and old blues that already knew how everything could go wrong.</i>
+      `
+    }
+  ],
+  showPlaceholder: false
+    },
+  ner1: {
+      menuTitle: " 1. Vill du känna mig",
+      title: "Vill du känna mig",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/4PWgIhfa8mXpROpcz1bR3b?si=2a6ac236ab374e6e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/kHqPjkOwsvs?si=Y2QKrRSctSRyRNs3" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Vill du se mig när lamporna dör
+När applåderna släpper min hand
+När jag står utan smink vid en bakdörr
+Med hjärtat kvar i brand
+
+Du säger att du vill komma nära
+Men nära är mer än ett namn
+Det finns vägar jag inte kan bära
+Och nätter som river ibland
+
+Jag har skrattat för högt åt förlusten
+Jag har dansat mig fri från ett sår
+Jag har lärt mig att sanningen kostar
+Men lögnen blir dyrare ändå
+
+Så fråga inte bara när solen står på
+Fråga när regnet slår ner
+Kan du stå kvar när jag vänder mig om
+Och inte är den du vill se
+
+ Vill du verkligen känna mig
+ När väggarna faller isär
+ Vill du hålla i hela mig
+ Inte bara den bild du begär
+
+ Vill du verkligen veta vem jag är
+ När rösten blir skrovlig och sann
+ Då får du ta mörkret med värmen
+ Och kvinnan bakom mitt namn
+
+Jag har burit min stolthet som läder
+Lite sprucken men stadig ändå
+Jag har kysst fel mun vid fel tider
+För att slippa gå ensam hem då
+
+Du kan läsa mitt leende fel nu
+Det är inte ett löfte om ro
+Jag är mjuk där jag en gång gick sönder
+Jag är hård där jag lärde mig tro
+
+Så fråga inte bara när scenen är varm
+Fråga när tystnaden ler
+Kan du stå kvar när jag tappar min glans
+Och ändå vilja ha mer
+
+ Vill du verkligen känna mig
+ När väggarna faller isär
+ Vill du hålla i hela mig
+ Inte bara den bild du begär
+
+ Vill du verkligen veta vem jag är
+ När rösten blir skrovlig och sann
+ Då får du ta mörkret med värmen
+ Och kvinnan bakom mitt namn
+
+Jag behöver inga hjältar
+Inga löften skrivna i neonljus
+Bara någon som vågar stanna
+När jag öppnar alla lås i mitt hus
+
+Om du letar efter enkelhet
+Då går du nog vilse här
+Men om du törs möta sanningen
+Kanske sanningen bär
+
+ Vill du verkligen känna mig
+ När väggarna faller isär
+ Vill du hålla i hela mig
+ Inte bara den bild du begär
+
+ Vill du verkligen veta vem jag är
+ När rösten blir skrovlig och sann
+ Då får du ta mörkret med värmen
+ Och kvinnan bakom mitt namn
+
+Vill du se mig när lamporna dör
+Då kanske du ser mig ibland
+Inte som sagan du önskade
+Men som jag är
+Med hjärtat i brand
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner2: {
+      menuTitle: " 2. Röda klackar",
+      title: "Röda klackar",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/5mbPelNBNyBLhVcvPMuuQJ?si=13538715ee044439" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/6IgCAD8wwJ8?si=L9hVx5akvDvyacP4" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Yeah, yeah
+Kom igen nu
+Jag går ut i natt
+
+Du ringde sent och sa att du var ensam
+Som om jag satt kvar där du lämna mig
+Men jag har fått nog av dina små ursäkter
+Och jag har lärt mig dansa utan dig
+
+Du kan stå där med din blick i fickan
+Du kan säga att du ångrar allt
+Men jag har spegeln full av nya planer
+Och läppstiftet sitter farligt rakt
+
+Jag låser dörren
+Slänger nyckeln ner i ån
+Du hör mina steg
+Men du får aldrig följa på
+
+ I mina röda klackar går jag genom stan
+ Med hjärtat som en motor och natten i brand
+ Du trodde jag skulle vänta
+ Du trodde jag var svag
+ Men jag skrattar när jag vänder mig om
+ I mina röda klackar drar jag härifrån
+
+Din bil står kvar vid gamla kiosken
+Där vi brukade snacka bort en hel termin
+Nu blinkar neon över blöta gator
+Och jag ser mitt namn i varje skyltfönster-glin
+
+Mina vänner ropar från ett öppet fönster
+Basen slår som åska i ett källargolv
+Jag tar sista trappan ner till musiken
+Och lämnar dina lögner ovan jord
+
+Du kan knacka
+Du kan ropa mitt namn
+Men ikväll är jag snabbare
+Än din brinnande skam
+
+ I mina röda klackar går jag genom stan
+ Med hjärtat som en motor och natten i brand
+ Du trodde jag skulle vänta
+ Du trodde jag var svag
+ Men jag skrattar när jag vänder mig om
+ I mina röda klackar drar jag härifrån
+
+Jag var snäll för länge
+Jag var tyst för ofta
+Jag höll upp din himmel
+När du lät den falla ner
+
+Nu är jag min egen
+Nu är vägen öppen
+Och varje steg jag tar
+Säger aldrig mer
+
+Aldrig mer
+Aldrig mer
+Hör du klackarna?
+Det är ljudet av när jag blir fri
+
+Åh, yeah
+
+ I mina röda klackar går jag genom stan
+ Med hjärtat som en motor och natten i brand
+ Du trodde jag skulle vänta
+ Du trodde jag var svag
+ Men jag skrattar när jag vänder mig om
+ I mina röda klackar drar jag härifrån
+
+ I mina röda klackar går jag genom stan
+ Varje steg slår hårdare än ditt sista namn
+ Du trodde du ägde vägen
+ Du trodde jag stod kvar
+ Men jag kysser vinden, höjer min hand
+ I mina röda klackar tar jag hela stan
+
+Yeah, yeah
+Jag går ut i natt
+Och jag kommer inte hem till dig
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner3: {
+      menuTitle: " 3. Rebeller i natten",
+      title: "Rebeller i natten",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/561GEHO2LTNEEAOFPNrxZm?si=3189958eb1d84652" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/boTiqg2Vj5Q?si=wBK01jBQhd3zuOlI" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Det började i skuggan där allt låg tyst
+Vi hade planer, så kör - javisst
+En gnista i mörkret, en röst som sa
+Spring nu, innan allt blir trist
+
+Du sa att världen var för liten för oss två
+Att vägarna var öppna, bara våga gå
+Vi bar våra drömmar som stulna spår
+Och spelade högt tills det sluta' slå
+
+Och varje steg vi tog var fel enligt dem
+Men vi kände något större inom
+
+ Vi var rebeller i natten, utan hem
+ Med hjärtan som slog för mer än dem
+ Inga regler kunde hålla oss kvar
+ Vi brann för något, vi visste inte vad
+
+Gatorna viskade våra namn i smyg
+Men ingen såg oss, vi var bara ett rykte
+Du skrattade högt när sirenerna ljöd
+Sa: “Det här är livet, det här är vårt glöd”
+
+Och varje dörr som stängdes framför oss
+Blev bara ännu en väg förbi allt
+
+ Vi var rebeller i natten, utan hem
+ Med hjärtan som slog för mer än dem
+ Inga regler kunde hålla oss kvar
+ Vi brann för något, vi visste inte var
+
+Om allt faller ner imorgon
+Och vinden tar vår röst
+Så vet jag att vi levde
+Inte bara höll oss löst
+
+ Vi var rebeller i natten, utan hem
+ Med hjärtan som slog för mer än dem
+ Inga regler kunde hålla oss kvar
+ Vi brann för något, vi visste inte var
+
+Och ekot av oss finns kvar igen
+Två skuggor som aldrig försvann
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner4: {
+      menuTitle: " 4. Robert's crossing",
+      title: "Robert's crossing",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/3arqpEVJHH0BdnDJlYK3Cc?si=66187963ebf84fb6" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/T59RdDFNz6g?si=A64FH0bFIzjP28XX" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+I walked to a crossroads, dropped down on my knees
+I walked to a crossroads, dropped down on my knees
+Asked the Lord above, “show some mercy, won’t you rescue me, please”
+
+Yeah, standin’ at that crossroads, tryin’ to catch me a ride
+Ooh yeah, tryin’ to catch me a ride
+Nobody seemed to know me, babe, they all just passed me by
+
+Standin’ at that crossroads, with the sun sinkin’ low
+Standin’ at that crossroads, with the sun sinkin’ low
+I can feel it in my soul now, I ain’t got nowhere to go
+
+You can run, you can run, tell my friend down the line
+You can run, you can run, tell that friend down the line
+I woke up with these crossroads blues, Lord, I’m runnin’ out of time
+
+And I went to that crossing, looked out East and West
+I went to that crossing, looked out East and West
+Didn’t have no sweet lovin’, babe, to ease my troubled chest
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner5: {
+      menuTitle: " 5. Rotlös",
+      title: "Rotlös",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/3EzQrSugWeBLRhu7bZaxGW?si=3758afd3763348b6" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/ucAAOi6mUh4?si=UmeHQeyBt9eDSqjU" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Mm-mm, jag går igen
+Med vinden hårt mot kinden
+
+Jag lämnade stan när lamporna dog
+Med jackan full av regn
+Du sa att jag var svår att nå
+Men du höll mig aldrig igen
+
+En rostig skylt vid motorvägen
+Blinkar som ett gammalt förlåt
+Jag bar mitt namn som en trasig krona
+Och skrattade för högt åt allt som gjort ont
+
+Jag har sprungit från din dörr
+Jag har sovit utan svar
+Men varje mil jag river loss
+Gör mig mer till den jag var
+
+ Jag är rotlös i natt
+ Ingen äger vart jag ska
+ Jag brinner långsamt, jag blåser fritt
+ Genom vägar utan namn
+
+ Du kan ropa, du kan svära
+ Du kan säga att jag flyr
+ Men jag är gjord av damm och hjärta
+ Och jag vänder aldrig nu
+
+Din röst finns kvar i radion
+Som en låt jag inte valt
+Den lovar guld och evig bot
+Men låter alltid lika kallt
+
+Jag köpte kaffe vid en mack
+Och målade läpparna röda
+En kvinna där sa: lilla vän
+Vissa sorger måste blöda
+
+Jag har bett om en ny början
+Jag har svurit vid min skuld
+Men frihet smakar bensin ibland
+Och tårar blandat med krut
+
+ Jag är rotlös i natt
+ Ingen äger vart jag ska
+ Jag brinner långsamt, jag blåser fritt
+ Genom vägar utan namn
+
+ Du kan ropa, du kan svära
+ Du kan säga att jag flyr
+ Men jag är gjord av damm och hjärta
+ Och jag vänder aldrig nu
+
+Kanske var jag aldrig din
+Kanske var du aldrig min
+Kanske var vi bara storm
+I samma öppna fönster
+
+Men när morgonen slår upp
+Sina ögon över väg och fält
+Ska jag stå där utan lögn
+Med hela världen i mitt bröst
+
+ Jag är rotlös i natt
+ Ingen äger vart jag ska
+ Jag brinner långsamt, jag blåser fritt
+ Genom vägar utan namn
+
+ Du kan ropa, du kan svära
+ Du kan säga att jag flyr
+ Men jag är gjord av damm och hjärta
+ Och jag vänder aldrig nu
+
+Jag vänder aldrig nu
+Nej, jag vänder aldrig nu
+Med vinden hårt mot kinden
+Jag vänder aldrig nu
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner6: {
+      menuTitle: " 6. Låt mig gå",
+      title: "Låt mig gå",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/4J0eSEb7AhPDIGscjDQiCH?si=3a75905480a1498e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/c7t9_Xac9qA?si=eebP2w2jnBkuBTZv" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Mm, jag bar mitt hjärta som en sten
+genom regn på en söndag
+och ingen såg hur tungt det var
+när jag log och gick förbi
+
+Du kom med eld i dina händer
+du sa att världen kunde bli vår
+men varje löfte blev en kedja
+runt min fot där jag stod kvar
+
+Jag gav dig nätter utan frågor
+jag gav dig allt jag hade kvar
+men du tog ljuset från mitt fönster
+och lämnade mig utan svar
+
+Nu hör jag vinden över taken
+den sjunger lågt om vad jag vet
+att kärlek kan va varm som solen
+och kall som ensamhet
+
+ Släpp mig fri, låt mig gå
+ jag kan inte bära dig mer
+ mitt bröst är trött, min röst är blå
+ men jag står fast när marken ger
+
+ Släpp mig fri, hör mitt namn
+ det brinner än fast natten är lång
+ jag föddes inte för din hand
+ jag föddes fri med egen sång
+
+Det finns en väg bakom stationen
+där tågen går när staden sover
+jag har en väska full av minnen
+men inga tårar kvar att lova
+
+Du trodde sorg var något stilla
+något man kunde låsa in
+men sorgen dansar genom blodet
+tills den hittar ut i skinn
+
+Och om jag darrar när jag vänder
+är det inte för att jag vill tillbaks
+det är bara hjärtat som lär sig
+hur man slår utan ditt tak
+
+ Släpp mig fri, låt mig gå
+ jag kan inte bära dig mer
+ mitt bröst är trött, min röst är blå
+ men jag står fast när marken ger
+
+ Släpp mig fri, hör mitt namn
+ det brinner än fast natten är lång
+ jag föddes inte för din hand
+ jag föddes fri med egen sång
+
+Jag minns när allt var enkelt
+när skrattet låg nära min mun
+men tiden tog oss båda
+och gjorde sanningen tung
+
+Så låt mig lämna rummet
+låt dörren falla igen
+jag går med sår i mina skor
+men jag går hem till mig själv
+
+ Släpp mig fri, låt mig gå
+ jag kan inte bära dig mer
+ mitt bröst är trött, min röst är blå
+ men jag står fast när marken ger
+
+ Släpp mig fri, hör mitt namn
+ det brinner än fast natten är lång
+ jag föddes inte för din hand
+ jag föddes fri med egen sång
+
+Jag föddes fri
+med egen sång
+
+mm, jag går nu
+jag går nu
+jag går hem
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner7: {
+      menuTitle: " 7. Mörk sida",
+      title: "Mörk sida",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/1UUAq3tpHWJ3bQnUBdyqFf?si=069fd57f0a094b01" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/cALoxFdW75I?si=4btWDyJzEiNIOSVO" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Mm, mm
+Känner skuggan dra i mig
+
+Det är sent och staden sover tungt
+Månljus i regnet, allt känns ungt
+Men något viskar bakom varje steg
+Som om jag springer men står kvar i mig
+
+Jag hör mitt namn i mörkret igen
+En röst jag aldrig riktigt känt
+
+ Det finns en mörk sida av mig
+ Som aldrig riktigt släpper taget
+ Den drar mig ner, den drar mig in
+ Men jag står kvar, jag ger mig inte
+ Det finns en mörk sida av mig
+ Men jag lär mig leva med den
+ Den är en del av allt jag är
+ Och jag brinner ändå här
+
+Spegeln visar mer än vad jag vill
+Ett annat jag som står helt still
+Jag försöker fly men vänder om
+För varje svar finns tusen till
+
+Den följer med i varje steg
+En skugga jag inte kan ge
+
+ Det finns en mörk sida av mig
+ Som aldrig riktigt släpper taget
+ Den drar mig ner, den drar mig in
+ Men jag står kvar, jag ger mig inte
+ Det finns en mörk sida av mig
+ Men jag lär mig leva med den
+ Den är en del av allt jag är
+ Och jag brinner ändå här
+
+Om jag faller, låt mig falla fritt
+Jag är mer än bara det jag gömt i mitt
+Och i mörkret finns ett ljus ändå
+Som viskar att jag kan förstå
+
+ Det finns en mörk sida av mig
+ Men den ska inte vinna över mig
+ Den drar mig ner, den drar mig in
+ Men jag reser mig, om och om igen
+ Det finns en mörk sida av mig
+ Men jag bär den utan skam
+ Den är en del av allt jag är
+ Och jag står här ändå, stark
+
+Mm, jag bär den med mig
+Men den äger mig ej
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner8: {
+      menuTitle: " 8. Jag talar med skuggorna",
+      title: "Jag talar med skuggorna",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/5knIKJ9mpcmdmpyOVfBZCd?si=836b067ebb2e427d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/A5in9Oy3RqQ?si=208oZiDLf_HAiL0Z" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Det knäpper i huset när kvällen går in
+Jag tänder på mörkret och låtsas jag är blind
+
+Jag går genom köket i gårdagens sken
+Har askan i koppen och frost på mitt ben
+Det ringer i väggarna, någon vill in
+Men jag har lärt hjärtat att hålla sig still
+Maj-Lisa i spegeln ser trött ut fast rak
+Med läppstift som blöder och hårnål på sned
+Jag säger till natten att den får gå först
+För jag har gått sönder på värre besked
+
+Och du tror jag faller när jag står så här
+Men jag bär min oro som om den var kär
+
+ Jag talar med skuggorna
+ När ingen annan hör
+ Jag talar med skuggorna
+ Tills världen utanför dör
+ Jag talar med skuggorna
+ Som om de visste vem jag är
+ Jag talar med skuggorna
+ Och de lämnar mig i fred
+
+Låt dem viska, låt dem gå
+Låt dem komma, låt dem stå
+
+Jag har några småsaker gömda i min väska
+En bild utan datum, ett kvitto, en nåd
+Jag bär mina söndagar långt under huden
+Som andra bär silver och vigsel och råd
+Det sitter en oro och stampar i bröstet
+Den vill att jag springer men jag sitter kvar
+Jag vet hur man ler när man redan är borta
+Jag vet hur man älskar det som inte finns kvar
+
+Och du säger mitt namn som om det blir sant
+Men jag är ett regn över en avslagen kant
+
+ Jag talar med skuggorna
+ När ingen annan hör
+ Jag talar med skuggorna
+ Tills världen utanför dör
+ Jag talar med skuggorna
+ Som om de visste vem jag är
+ Jag talar med skuggorna
+ Och de lämnar mig i fred
+
+Det är inte änglar som håller mig kvar
+Det är bara natten som kan mig så här
+Och om du vill rädda mig, gör det inte nu
+Jag står upp i blåsten, jag håller ännu ut
+
+ Jag talar med skuggorna
+ När ingen annan hör
+ Jag talar med skuggorna
+ Tills världen utanför dör
+ Jag talar med skuggorna
+ Som om de visste vem jag är
+ Jag talar med skuggorna
+ Och de lämnar mig i fred
+
+Så låt dem komma, låt dem gå
+Jag talar med skuggorna
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner9: {
+      menuTitle: " 9. Märk hur vår skugga",
+      title: `Märk hur vår skugga<br>
+      <font size=2><i>( C.M. Bellman - Epistel 81 )</i></font>`,
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/1eaCPYCjhTGEnHnIFZo2dv?si=aca4f055c6af4b22" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/p_mRlsbCKgM?si=eDCPrAX9ZNJbQxfu" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Märk hur vår skugga, märk Movitz Mon Frère!
+Innom ett mörker sig slutar,
+Hur Guld och Purpur i Skåveln, den där,
+Byts till grus och klutar.
+Vinkar Charon från sin brusande älv,
+Och tre gånger sen Dödgrävaren själv,
+Mer du din druva ej kryster.
+Därföre Movitz kom hjälp mig och välv
+Gravsten över vår Syster.
+
+Ack längtansvärda och bortskymda skjul,
+Under de susande grenar,
+Där Tid och Döden en skönhet och ful
+Till ett stoft förenar!
+Till dig aldrig Avund sökt någon stig,
+Lyckan, eljest uti flykten så vig,
+Aldrig kring Grifterna ilar.
+Ovän där väpnad, vad synes väl dig?
+Bryter fromt sina pilar.
+
+Lillklockan klämtar till Storklockans dön,
+Lövad står Cantorn i porten;
+Och vid de skrålande Gossarnas bön,
+Helgar denna orten.
+Vägen opp till Templets griftprydda stad
+Trampas mellan Rosors gulnade blad,
+Multnade Plankor och Bårar;
+Till dess den långa och svartklädda rad,
+Djupt sig bugar med tårar.
+
+Så gick till vila, från Slagsmål och Bal,
+Grälmakar Löfberg, din maka;
+Där, dit åt gräset långhalsig och smal,
+Du än glor tilbaka.
+Hon från Danto bommen skildes i dag,
+Och med Henne alla lustiga lag;
+Vem skall nu Flaskan befalla.
+Törstig var hon och uttörstig är jag;
+Vi är törstiga alla.
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner10: {
+      menuTitle: " 10. Innan allt blev svart",
+      title: "Innan allt blev svart",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/65tZ8h0cb4ogEXRWZ691XF?si=c0a15cc748bb4718" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/86WHKLAiBl8?si=VeIVS-2vv8jWGrrl" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Jag lät nyckeln ligga kvar
+där din hand brukade vila
+Regnet drog längs fönstret
+som om huset ville gråta
+
+Du sa att allt blir bättre
+när natten hunnit gå
+Men jag har burit morgnar
+som aldrig ville slå
+Jag såg mitt namn i spegeln
+det såg så främmande ut
+Som någon jag försökt bli
+men aldrig blivit fullt
+
+Och jag vet att du menar väl
+när du ber mig stanna kvar
+Men det finns en tystnad i mig
+som inte längre svarar
+
+ Jag går ner i mörkret nu
+ inte hårt, inte kallt
+ Bara längre bort från allt
+ Jag går ner i mörkret nu
+ Låt lampan brinna lågt
+ låt dörren stå på glänt
+ Om du minns mig som jag var
+ minns mig innan allt blev svart
+
+Mm, mm
+innan allt blev svart
+Mm, mm
+innan allt blev svart
+
+Jag tog den gamla kappan
+den som luktar rök och hav
+Och gick förbi vår gata
+utan att vända av
+Det fanns ett ljus i köket
+men det nådde inte fram
+Jag hörde mina steg där
+som en annan kvinnas namn
+
+Och kanske var jag feg som gick
+innan stormen blåste klar
+Men jag har stått i samma rum
+och försvunnit varje dag
+
+ Jag går ner i mörkret nu
+ inte hårt, inte kallt
+ Bara längre bort från allt
+ Jag går ner i mörkret nu
+ Låt lampan brinna lågt
+ låt dörren stå på glänt
+ Om du minns mig som jag var
+ minns mig innan allt blev svart
+
+Jag önskar dig en sommar
+utan skuld i varje glas
+Jag önskar mig en vinter
+där jag slipper gå i kras
+Och om du hör en bil långt bort
+när vägen ligger blank
+så är det bara jag som kör
+tills rösten blivit stark
+
+Ingen skuld
+...ingen dom
+bara jag
+som går hem
+
+ Jag går ner i mörkret nu
+ inte hårt, inte kallt
+ Bara längre bort från allt
+ Jag går ner i mörkret nu
+ Låt lampan brinna lågt
+ låt dörren stå på glänt
+ Om du minns mig som jag var
+ minns mig innan allt blev svart
+
+Jag går ner i mörkret nu
+men jag är inte borta än
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner11: {
+      menuTitle: " 11. Fri nu",
+      title: "Fri nu",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/5DExWUKqaV3C0GyS3hieaV?si=0798797dd783432d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/4BdSkBfonsI?si=_76hy7pQAP1kXHE9" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Du står i dörren med hatten i hand
+Regn på skinnet, grus i din röst
+Jag känner lukten av nattöppen bar
+Och gamla lögner som sitter löst
+
+Du säger att vägen har slitit dig tunn
+Att du gått för långt med flaskan och dammet
+Att du bär på en skuld som skaver som grus
+Och att mitt namn var det sista du tappade
+Du snackar om mörker, om sömnlösa nätter
+Som om det väger upp allt jag bar
+Men jag minns varenda gång golvet gav vika
+När jag stod kvar och du bara drog
+
+Ja, jag hör att du försöker
+Ja, jag ser att du vill in
+Men du kommer flera mil för sent nu
+Och jag bor inte där längre, min vän
+
+ Du ber om förlåt
+ Men jag tar dig inte tillbaka
+ Du vill ha en väg hem
+ Men den vägen är igenlagd
+ Jag är fri nu, fri nu
+ Från ditt drag och ditt förbannade eko
+ Du ber om förlåt
+ Men jag tar dig inte tillbaka
+
+Inte tillbaka
+Inte en chans
+Fri nu
+Och kvar i min kropp
+
+Du lutar mot karmen som en slagen kung
+Med silver på tungan och skuld i blicken
+Du säger du fattar vad du gjorde nu
+Ja, men sanningen kom efter smällen
+Jag var hon som höll ihop hela skiten
+När ditt hjärta gick varmgång och slog snett
+Och det du kallar kärlek i nattljus
+Var bara jag som gick sönder lätt
+
+Så nej, jag öppnar inte
+Det rum som nästan tog mitt namn
+Du får bära din ånger själv nu
+Jag bär inte dig en meter till, fan
+
+ Du ber om förlåt
+ Men jag tar dig inte tillbaka
+ Du vill ha en väg hem
+ Men den vägen är igenlagd
+ Jag är fri nu, fri nu
+ Från ditt drag och ditt förbannade eko
+ Du ber om förlåt
+ Men jag tar dig inte tillbaka
+
+Jag önskar dig asfalt
+Och lite mindre mörker
+Jag önskar dig morgon
+Men inte från min säng
+Det tog för lång tid att ta sig loss
+Jag går inte in i den branden igen
+
+Fri nu
+Hör du det?
+Fri nu
+Inte din mer
+
+ Du ber om förlåt
+ Men jag tar dig inte tillbaka
+ Du knackar på min natt
+ Men den dörren står inte öppen
+ Jag är fri nu, fri nu
+ Och jag tänker stanna kvar i det ljuset
+ Du ber om förlåt
+ Men jag tar dig inte tillbaka
+
+Fri nu
+Inte tillbaka
+Fri nu
+Inte till dig
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner12: {
+      menuTitle: " 12. Ner längs vägen",
+      title: "Ner längs vägen",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/7gStQE3RCrIXG9c4TWuqu9?si=38c98a1dc1a34b17" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/I9n70G4yGtE?si=arBoQuS6D2jJpBxL" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Det finns en väg utanför stan
+där lyktorna blinkar som gamla sår
+jag satte foten på gasen igen
+fast jag visste vart den går
+
+Mamma sa: tös, du har eld i din hand
+men du bränner varenda bro
+jag skrattade högt vid en bensinmack
+med hjärtat fullt av rost och tro
+
+Jag hade fickorna tomma som måndag
+och blicken full av krig
+en vän i baksätet mumlade böner
+medan radion skrek förbi
+
+Och alla städer ser likadana ut
+när man flyr från sitt eget namn
+men någonstans där vägen tar slut
+står sanningen kvar i brand
+
+ Ner längs vägen, jag kör tills jag går sönder
+ ner längs vägen, där natten river upp min röst
+ jag har lämnat mina lögner under regnet
+ men de springer efter mig från kust till kust
+
+ Ner längs vägen, inga änglar, inga skyltar
+ bara hjulspår, blod och blues
+ om jag faller innan morgonen hinner vakna
+ så säg att jag föll på väg mot ljus
+
+Jag såg min spegelbild i en ruta på ett tåg
+han såg äldre ut än jag
+han hade samma gamla jacka
+samma skuld från samma dag
+
+Jag sa: du kan inte springa för alltid
+han sa: nej, men jag kan försöka
+sen försvann han i en tunnel
+där röken låg som skuld i löven
+
+Jag har sålt mina timmar för småpengar
+kastat bort år på en chans
+lärt mig att skratta när knivarna kom
+och dansa när marken försvann
+
+Och alla löften blir lättare damm
+när man svär dem för högt i natt
+men någonstans bakom buller och skam
+finns en unge som vill bli fattad
+
+ Ner längs vägen, jag kör tills jag går sönder
+ ner längs vägen, där natten river upp min röst
+ jag har lämnat mina lögner under regnet
+ men de springer efter mig från kust till kust
+
+ Ner längs vägen, inga änglar, inga skyltar
+ bara hjulspår, blod och blues
+ om jag faller innan morgonen hinner vakna
+ så säg att jag föll på väg mot ljus
+
+Stanna bilen, låt motorn dö
+hör hur tystnaden slår
+jag trodde frihet var fart genom mörker
+men frihet är att våga stå
+
+En sista cigg vid en rastplatskarta
+en sista lögn i min mun
+jag river sönder den bild jag bar
+och väntar in gryningens stund
+
+För jag var kung över ingenting
+med krona av kapsyler och damm
+jag hade skratt som en brandvägg
+men ingen som höll mig varm
+
+Jag skrev mitt namn på en vägskylt
+som om världen var skyldig mig mer
+men varje mil jag stal från livet
+kom tillbaka och krävde besked
+
+Så nu kör jag inte från djävulen
+jag kör bredvid honom hem
+vi pratar om allt vi förlorade
+och varför vi blev som vi blev
+
+ Ner längs vägen, jag kör tills jag går sönder
+ ner längs vägen, där natten river upp min röst
+ jag har lämnat mina lögner under regnet
+ men de springer efter mig från kust till kust
+
+ Ner längs vägen, inga änglar, inga skyltar
+ bara hjulspår, blod och blues
+ om jag faller innan morgonen hinner vakna
+ så säg att jag föll på väg mot ljus
+
+Det finns en väg utanför stan
+och i kväll kör den genom mig
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ner13: {
+      menuTitle: " 13. Ett ögonkast istället",
+      title: "Ett ögonkast istället",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/3yJTJRFYNh3HqzYJvYg8a9?si=70cb87e9d2d14db6" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/6-BFHk1OKXQ?si=KhfL30-FF2Jcbzpv" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Lamporna hänger lågt över golvet
+någon tänder eld i sin hand
+det är tyst nog för hjärtat att höras
+innan sista tonen får land
+
+Maj-Lis' står kvar vid kanten av kvällen
+Skramlet håller andan bredvid
+jag har inga stora ord att ge dig
+bara ljus som darrar i tid
+
+Borden är trötta, glasen är halva
+regnet ritar streck mot vår dörr
+du ser på mig som om natten minns nåt
+som vi aldrig vågat förr
+
+Och när bandet sänker ner sig
+i ett långsamt andetag
+finns det mer i det du inte säger
+än i allt jag sagt idag
+
+ Ge mig ett ögonkast i stället
+ ett riktat litet leende
+ låt det brinna här emellan oss
+ som sista ljuset i publiken
+
+ Ge mig ett ögonkast i stället
+ bara en blick
+ bara en blick
+ bara en blick
+
+Bara en blick
+bara en blick
+håll den kvar
+håll den kvar
+
+Någon längst bak har jackan på axeln
+ingen vill riktigt gå hem
+trummorna viskar, basen går långsamt
+genom rummet, om igen
+
+Du har en hand på minnenas bordskant
+jag har en fot i farväl
+men när du ler som om allt kan vänta
+stannar tiden i min själ
+
+Och om natten måste slockna
+låt den slockna mjukt och blått
+för jag bär den lilla glöden
+från det enda jag har fått
+
+ Ge mig ett ögonkast i stället
+ ett riktat litet leende
+ låt det brinna här emellan oss
+ som sista ljuset i publiken
+
+ Ge mig ett ögonkast i stället
+ bara en blick
+ bara en blick
+ bara en blick
+
+Kanske var det bara pausen
+kanske kvällens sista rad
+men jag såg den nå mig rakt igenom
+och jag blev kvar
+
+Så låt röken stiga långsamt
+låt applåden dö i fred
+jag behöver inget mer från natten
+än att du ser hit en gång till
+
+ Ge mig ett ögonkast i stället
+ ett riktat litet leende
+ låt det brinna här emellan oss
+ som sista ljuset i publiken
+
+ Ge mig ett ögonkast i stället
+ innan dörren öppnas kall
+ ge mig något litet, sant och stilla
+ något som kan bära allt
+
+ Ge mig ett ögonkast i stället
+ bara en blick
+ bara en blick
+ bara en blick
+
+Bara en blick
+bara en blick
+Maj-Lis' ler
+och Skramlet går tyst
+      `
+    }
+  ],
+  showPlaceholder: false
+  }
+
+},
 
   threshold: {
     about: {

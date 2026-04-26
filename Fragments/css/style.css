@@ -532,3 +532,44 @@ body[data-theme="hifi"] .back-home img {
 body:not([data-theme="hifi"]) .back-home img {
   filter: brightness(0.9);
 }
+
+/* Maj-Lisa & Skramlet – svensk blues/rootsrock, 70/80-tal, grynigt svartvitt */
+body[data-theme="majlisa"] {
+  --bg: #151412;
+  --panel: #211f1b;
+  --border: #3b352d;
+  --text: #eee6d8;
+  --text-soft: #d9cfc0;
+  --text-muted: #9a9185;
+  --caption: #b9ad9e;
+  --meta: #8f8578;
+
+  --accent: #c7773d;        /* rostig scenlampa / gammal tweed */
+  --accent-hover: #e29a5b;
+  --active: #f0c087;
+
+  --side-active-bg: #2d2923;
+  --button-bg: #332d26;
+  --button-text: #eee6d8;
+}
+
+.site-header.header-majlisa::before {
+  background-image:
+    radial-gradient(circle at 30% 50%, rgba(255,255,255,0.07), transparent 35%),
+    linear-gradient(90deg, rgba(199,119,61,0.10), transparent 30%, transparent 70%, rgba(255,255,255,0.04)),
+    repeating-linear-gradient(
+      0deg,
+      rgba(255,255,255,0.018) 0 1px,
+      transparent 1px 4px
+    );
+  opacity: 0.22;
+}
+
+body[data-theme="majlisa"] h1,
+body[data-theme="majlisa"] h2 {
+  letter-spacing: 0.025em;
+}
+
+body[data-theme="majlisa"] .image-block img {
+  filter: grayscale(1) contrast(1.08) brightness(0.92);
+}
