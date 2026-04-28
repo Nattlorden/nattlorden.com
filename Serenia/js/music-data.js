@@ -172,104 +172,104 @@ const musicData = {
         {
           key: "threeCups",
           title: "Three cups, one truth",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/0oGVMWLcPr5tFaefWxuVJe?si=7b32ac3334904353",
+          youtube: "https://youtu.be/9ZvOntkkZ-4?si=N3LcM5x2dHy6yQCw"
         },
         {
           key: "nightVisit",
           title: "Villa Eriel night visit",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/0ZgUb2EXtkZvjAFYmr5Nrz?si=46e0405481554e41",
+          youtube: "https://youtu.be/U1d4x9exQg0?si=OtkSVXaRUMv8YlrN"
         },
         {
           key: "stomp",
           title: "Stomp the Year awake",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/4IW1BlQBspHkUaGfTedmyb?si=506691fbd3dd4fd1",
+          youtube: "https://youtu.be/eQGQUSS6aYo?si=nvJR7dHjvr0_z4_x"
         },
         {
           key: "navehLithurgic",
           title: "Naveh (lithurgic)",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/6yc69BprMpSPxLGDeGHnya?si=86eb3e5fa1094e60",
+          youtube: "https://youtu.be/YcWbJj_58nQ?si=oyQ-IVkYzamh-YVv"
         },
         {
           key: "wakeOfLado",
           title: "The wake of Lado",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/7lTKfxYd7BOhkQ7vGwrqqC?si=9c507b3f0f984183",
+          youtube: "https://youtu.be/pU5N4uOTag0?si=J1tbV2BaqYtqqnq0"
         },
         {
           key: "scent",
           title: "The scent of memory",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/1qu3ly0OU8iHhddu6pGqzA?si=3a1b5610754a437b",
+          youtube: "https://youtu.be/kqC-JQuGhtY?si=4_oUzo8E1ryU42cT"
         },
         {
           key: "natureCall",
           title: "Nature call",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/008F0AZvOSAebjEUedyMjw?si=a9b6b1975d8146a6",
+          youtube: "https://youtu.be/DhTrd-ZeLgY?si=FaiqziD_HU9lF5b9"
         },
         {
           key: "byria",
           title: "The fields of Byria",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/6sGDIQRDB8zVf0Bi6K6zvm?si=dfe75d9c8f764790",
+          youtube: "https://youtu.be/lMR23rhxKzA?si=QR9nti3A4kqEyTB4"
         },
         {
           key: "lines",
           title: "Lines that do not show",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/5WoR3eJ4Ijaqb3xbyPjgdS?si=9d42e97f46144776",
+          youtube: "https://youtu.be/3_cg0OcbFZk?si=ukAvfWsQyHmpj4J2"
         },
         {
           key: "openHand",
           title: "Hymn of the Open Hand",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/5CV8IHXm243zjS2eVoJHEb?si=bb52e9fd575a471a",
+          youtube: "https://youtu.be/H_nf1QUIPSY?si=ohMPnsx8JhCfYukr"
         },
         {
           key: "balance",
           title: "Balance",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/6OQslwOJbiXXxkH1vxL3ut?si=b55bae1d4a3a49b7",
+          youtube: "https://youtu.be/EhlbzwFbppw?si=vGAHE0gsbMQobpxG"
         },
         {
           key: "offer",
           title: "We took the offer",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/25M0eCS4UAdQBqak0PdadB?si=96b4a6a7818c44d4",
+          youtube: "https://youtu.be/EFCunS83ovI?si=oPfjxDR86F82_ieS"
         },
         {
           key: "furrow",
           title: "The furrow Blessing",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/21mILJp5yC5OkgDiq1CwY7?si=864c64e1646b44b6",
+          youtube: "https://youtu.be/mU0mhHaT4_U?si=QqogIUfl_d-6w5De"
         },
         {
           key: "khazKhur",
           title: "Khaz Khur Razan",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/0XwB7yM2CGTvKCmmtlVaqn?si=37f0e3d8eb9c43c2",
+          youtube: "https://youtu.be/h6CXlEvt3vs?si=y6PjRkz9z9cxyGp6"
         },
         {
           key: "ranger",
           title: "The Ranger and the Dozen",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/1JUHbxNCK8ZXnANBrDQqtU?si=008af5d082fa44a8",
+          youtube: "https://youtu.be/ZOamDWY2IeI?si=7H8f8z6yay_LVC_p"
         },
         {
           key: "harvest",
           title: "Harvest",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/0dl0YFn3Pnnd56coPlYBLI?si=73b0cb22a541467e",
+          youtube: "https://youtu.be/h6eazYYasIE?si=-8hMRF7scTqQzr5D"
         },
         {
           key: "fallenKing",
           title: "Fallen King",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/17ue6X0z8JgdBBPPf4LEtB?si=94cbcbe2f8ee4435",
+          youtube: "https://youtu.be/vrNqVUijuTE?si=nvKDKoOGBlP18SIR"
         }
       ]
     }
