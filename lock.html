@@ -2,14 +2,39 @@
 <html lang="sv">
 <head>
   <meta charset="utf-8">
-  <title>Stäng vänläge</title>
+  <title>Lock</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: #111;
+      color: #ddd;
+      font-family: sans-serif;
+      text-align: center;
+    }
+
+    img {
+      max-width: 200px;
+      margin-bottom: 20px;
+      opacity: 0.9;
+    }
+  </style>
 </head>
 <body>
-  <h1>Stänger vänläge?</h1>
+  <img src="assets/locked.png" alt="Locked">
+  <h1>Friend mode cancelled</h1>
+  <p>â€¦the door shuts behind you.</p>
 
   <script>
     localStorage.removeItem("friendAccess");
-    window.location.href = "/";
+
+    setTimeout(() => {
+      window.location.href = "/";
+    }, 3000);
   </script>
 </body>
 </html>
