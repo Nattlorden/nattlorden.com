@@ -3,6 +3,8 @@ let currentSection = "world";
 let currentPage = "overview";
 let lastAlbumPage = null;
 
+const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
+
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
