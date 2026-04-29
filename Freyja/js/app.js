@@ -2,6 +2,27 @@ let lang = "sv";
 let currentSection = "freyja";
 let currentPage = "overview";
 
+const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
+const hasHexAccess = () => localStorage.getItem("hexAccess") === "yes";
+
+const hasKey = (key) => localStorage.getItem(key) === "yes";
+
+const sectionAccess = {
+  freyja: null,
+  ritual: "hexAccess",
+  nature: null,
+  music: null,
+  lore: null,
+  about: null
+};
+
+if (hasFriendAccess()) {
+  document.documentElement.classList.add("friend-access");
+}
+if (hasHexAccess()) {
+  document.documentElement.classList.add("hex-access");
+}
+
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
@@ -82,6 +103,12 @@ function renderTopMenu() {
   const sections = getSections();
 
   sections.forEach(sectionKey => {
+    const requiredKey = sectionAccess[sectionKey];
+
+    if (requiredKey && !hasKey(requiredKey)) {
+      return;
+    }
+
     const item = document.createElement("div");
     item.className = "top-menu-item";
     item.textContent = sectionLabels[lang][sectionKey] || sectionKey;

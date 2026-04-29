@@ -331,3 +331,20 @@ hr {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 }
+
+
+.friend-only {
+  display: none;
+}
+
+.friend-access .friend-only {
+  display: inline; /* eller block beroende på layout */
+}
+
+.hex-only {
+  display: none;
+}
+
+.hex-access .hex-only {
+  display: inline; /* eller block beroende på layout */
+}

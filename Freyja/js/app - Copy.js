@@ -2,6 +2,16 @@ let lang = "sv";
 let currentSection = "freyja";
 let currentPage = "overview";
 
+const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
+const hasHexAccess = () => localStorage.getItem("hexAccess") === "yes";
+
+if (hasFriendAccess()) {
+  document.documentElement.classList.add("friend-access");
+}
+if (hasHexAccess()) {
+  document.documentElement.classList.add("hex-access");
+}
+
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
@@ -32,6 +42,25 @@ function ensureValidState() {
   if (!pages.includes(currentPage)) {
     currentPage = pages[0];
   }
+}
+
+function navigate(section, page) {
+  const content = getContent();
+
+  if (!content[section] || !content[section][page]) {
+    console.warn("Missing page:", section, page);
+    return;
+  }
+
+  currentSection = section;
+  currentPage = page;
+
+  renderAll();
+
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
 }
 
 function updateLanguageButtons() {
@@ -72,9 +101,11 @@ function renderTopMenu() {
     }
 
     item.onclick = function () {
+      const pages = getPages(sectionKey);
       currentSection = sectionKey;
-      currentPage = getPages(sectionKey)[0];
+      currentPage = pages[0];
       renderAll();
+
       window.scrollTo({
         top: 0,
         behavior: "smooth"
@@ -111,6 +142,7 @@ function renderSideMenu() {
       currentPage = pageKey;
       renderContent();
       renderSideMenu();
+
       window.scrollTo({
         top: 0,
         behavior: "smooth"
@@ -119,6 +151,67 @@ function renderSideMenu() {
 
     sideMenu.appendChild(item);
   });
+}
+
+function renderCardPage(main, page) {
+  const columnsClass = page.columns === 3 ? "cols-3" : "cols-4";
+
+  let html = `<h2>${page.title}</h2>`;
+
+  if (page.intro) {
+    html += `
+      <div class="text-block">
+        ${page.intro}
+      </div>
+    `;
+  }
+
+  html += `<div class="card-grid ${columnsClass}">`;
+
+  page.cards.forEach(card => {
+    html += `
+      <div class="music-card">
+        <a
+          href="#"
+          class="music-card-image"
+          data-section="${card.section}"
+          data-page="${card.page}"
+          aria-label="${card.title}"
+        >
+          <img src="${card.image}" alt="${card.title}">
+        </a>
+
+        <div class="music-card-title">
+          <a
+            href="#"
+            data-section="${card.section}"
+            data-page="${card.page}"
+          >
+            ${card.title}
+          </a>
+        </div>
+
+        ${(card.spotify || card.youtube) ? `
+          <div class="music-card-links">
+            ${card.spotify ? `<a href="${card.spotify}" target="_blank" rel="noopener noreferrer">Spotify</a>` : ""}
+            ${card.youtube ? `<a href="${card.youtube}" target="_blank" rel="noopener noreferrer">YouTube</a>` : ""}
+          </div>
+        ` : ""}
+      </div>
+    `;
+  });
+
+  html += `</div>`;
+
+  if (page.showPlaceholder !== false) {
+    html += `
+      <div class="placeholder-box">
+        ${siteMeta[lang].placeholder}
+      </div>
+    `;
+  }
+
+  main.innerHTML = html;
 }
 
 function renderContent() {
@@ -133,6 +226,11 @@ function renderContent() {
       <h2>${siteMeta[lang].missingTitle}</h2>
       <p>${siteMeta[lang].missingText}</p>
     `;
+    return;
+  }
+
+  if (page.layout === "cards") {
+    renderCardPage(main, page);
     return;
   }
 
@@ -217,15 +315,7 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  currentSection = link.dataset.section;
-  currentPage = link.dataset.page;
-
-  renderAll();
-
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
+  navigate(link.dataset.section, link.dataset.page);
 });
 
 renderAll();
