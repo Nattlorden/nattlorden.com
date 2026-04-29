@@ -404,7 +404,7 @@ main {
   margin: 0 auto;
   padding: 42px 52px;
   background-color: #d7c29a;
-  background-image: url("assets/ui/parchment.png");
+  background-image: url("../assets/ui/parchment.png");
   background-repeat: repeat;
   color: #241b13;
   border: 1px solid rgba(60, 40, 20, 0.35);
@@ -421,30 +421,19 @@ main {
 }
 
 .marker-default {
-  background-image: url("assets/ui/marker-default.png");
+  background-image: url("../assets/ui/marker-default.png");
 }
 
 .marker-raven {
-  background-image: url("assets/ui/marker-raven.png");
+  background-image: url("../assets/ui/marker-raven.png");
 }
 
 .marker-needle {
-  background-image: url("assets/ui/marker-needle.png");
+  background-image: url("../assets/ui/marker-needle.png");
 }
 
 .marker-serpent {
-  background-image: url("assets/ui/marker-serpent.png");
-}
-.chapter-page {
-  max-width: 880px;
-  margin: 0 auto;
-  padding: 42px 52px;
-  background-color: #d7c29a;
-  background-image: url("assets/ui/parchment-tile.jpg");
-  background-repeat: repeat;
-  color: #241b13;
-  border: 1px solid rgba(60, 40, 20, 0.35);
-  box-shadow: 0 12px 40px rgba(0,0,0,0.45);
+  background-image: url("../assets/ui/marker-serpent.png");
 }
 
 .chapter-title {
@@ -465,13 +454,21 @@ main {
   font-size: 1.08rem;
   line-height: 1.75;
   color: inherit;
+  text-align: left;
+}
+
+.chapter-opening {
+  margin-bottom: 0.4em;
 }
 
 .dropcap-image {
   float: left;
-  width: 96px;
+  width: 90px;
   height: auto;
-  margin: 0.12em 14px 4px 0;
+  margin: 0.15em 10px 2px 0;
+  position: relative;
+  top: -1px;
+  margin-left: -8px;
 }
 
 .chapter-marker {

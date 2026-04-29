@@ -7,8 +7,8 @@ const chaptersSV_01_05 = {
   showPlaceholder: false,
   chapter: {
     subtitle: "Från tygaffär till ombordstigning",
-    dropcap: "S",
-    opening: `atängen låg som en spilld månskära över bordet, ljuset från högt uppe vid taket fångade varje glans.`,
+    dropcap: "Stight",
+    opening: `atängen låg som en spilld månskära över bordet, ljuset från högt uppe vid taket fångade varje glans. Keri McCree stod stilla, som om tyget höll henne fast, men i hennes inre rörde sig andra bilder – mörkare, tunga som bly.`,
 
     sections: [
       {
@@ -25,7 +25,7 @@ const chaptersSV_01_05 = {
       },
       {
         type: "image",
-        src: "assets/story/chapter01-harbor.jpg",
+        src: "assets/songs/TheSatinMoon.png",
         alt: "Sjöugglan vid kajen",
         caption: "Sjöugglan vid kajen",
         size: "medium"
