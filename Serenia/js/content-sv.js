@@ -86,8 +86,16 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
     chapters: {
       menuTitle: "Kapitel",
       title: "Kapitelöversikt",
-      text: "Här kommer kapitelstruktur, arbetsstatus och korta sammanfattningar att läggas in."
+      text: `Här kommer kapitelstruktur, arbetsstatus och korta sammanfattningar att läggas in
+      
+      <a class="internal-link friend-only" data-section="story" data-page="chapter01">
+  Kapitel 1
+</a>
+      `
     },
+
+    ...chaptersSV_01_05,
+
     timeline: {
       menuTitle: "Tidslinje",
       title: "Tidslinje",

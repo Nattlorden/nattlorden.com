@@ -389,3 +389,153 @@ main {
   color: #888;
   font-style: italic;
 }
+
+
+
+.dropcap-image {
+  float: left;
+  width: 96px;
+  height: auto;
+  margin: 0.12em 14px 4px 0;
+}
+
+.chapter-page {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 42px 52px;
+  background-color: #d7c29a;
+  background-image: url("assets/ui/parchment.png");
+  background-repeat: repeat;
+  color: #241b13;
+  border: 1px solid rgba(60, 40, 20, 0.35);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.45);
+}
+
+.chapter-marker {
+  width: 90px;
+  height: 32px;
+  margin: 34px auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.marker-default {
+  background-image: url("assets/ui/marker-default.png");
+}
+
+.marker-raven {
+  background-image: url("assets/ui/marker-raven.png");
+}
+
+.marker-needle {
+  background-image: url("assets/ui/marker-needle.png");
+}
+
+.marker-serpent {
+  background-image: url("assets/ui/marker-serpent.png");
+}
+.chapter-page {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 42px 52px;
+  background-color: #d7c29a;
+  background-image: url("assets/ui/parchment-tile.jpg");
+  background-repeat: repeat;
+  color: #241b13;
+  border: 1px solid rgba(60, 40, 20, 0.35);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.45);
+}
+
+.chapter-title {
+  text-align: center;
+  margin-top: 0;
+}
+
+.chapter-subtitle {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 32px;
+  color: #5c4630;
+}
+
+.chapter-opening,
+.chapter-text {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.08rem;
+  line-height: 1.75;
+  color: inherit;
+}
+
+.dropcap-image {
+  float: left;
+  width: 96px;
+  height: auto;
+  margin: 0.12em 14px 4px 0;
+}
+
+.chapter-marker {
+  width: 90px;
+  height: 32px;
+  margin: 34px auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.marker-default {
+  background-image: url("assets/ui/marker-default.png");
+}
+
+.marker-needle {
+  background-image: url("assets/ui/marker-needle.png");
+}
+
+.marker-raven {
+  background-image: url("assets/ui/marker-raven.png");
+}
+
+.chapter-illustration {
+  margin: 34px auto;
+  text-align: center;
+}
+
+.chapter-illustration img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid rgba(60, 40, 20, 0.35);
+}
+
+.chapter-image-small {
+  max-width: 360px;
+}
+
+.chapter-image-medium {
+  max-width: 560px;
+}
+
+.chapter-image-full {
+  max-width: 100%;
+}
+
+.chapter-illustration figcaption {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #5c4630;
+}
+
+.chapter-page .chapter-opening,
+.chapter-page .chapter-text {
+  color: #241b13;
+}
+
+
+
+.friend-only {
+  display: none;
+}
+
+.friend-access .friend-only {
+  display: inline; /* eller block beroende på layout */
+}
