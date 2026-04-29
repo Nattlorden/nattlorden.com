@@ -32,6 +32,7 @@ Det som tas emot.`
     path: {
       menuTitle: "Vägen in",
       title: "Vägen in",
+      hidden: "hexAccess",
       text: `Freyja börjar inte i teori utan i närvaro.
 
 Inte i system, utan i handlingar som upprepas tills de bär mening:

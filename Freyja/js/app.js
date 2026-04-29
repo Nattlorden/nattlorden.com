@@ -146,6 +146,11 @@ function renderSideMenu() {
     if (page.hidden === true) {
       return;
     }
+    if (page.hidden) {
+  if (page.hidden === "hexAccess" && !hasHexAccess()) {
+    return;
+  }
+  }
 
     const item = document.createElement("div");
     item.className = "side-menu-item";

@@ -699,7 +699,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: `Training – Andante deciso<br>
         <i>Serenia Symphony (Opus X), spår 7</i>`,
         image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        date: "",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -712,12 +712,12 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     meta: "Systrarna möter Aylyn för första gången, i Coranan",
     tracks: [
       {
-        title: "Three Cups, One Truth",
+        title: "Three cups, one truth",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "threeCups",
+        spotify: "https://open.spotify.com/track/0oGVMWLcPr5tFaefWxuVJe?si=7468c2ab29254529",
+        youtube: "https://youtu.be/9ZvOntkkZ-4?si=MZKKTN0ry0MHHmu1",
         note: ""
       }
     ]
@@ -1144,10 +1144,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "Stomp the Year Awake",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "stomp",
+        spotify: "https://open.spotify.com/track/4IW1BlQBspHkUaGfTedmyb?si=86eabcaf55a94001",
+        youtube: "https://youtu.be/eQGQUSS6aYo?list=OLAK5uy_kV6TgLsNwt_YoC3AUicH0KoD6JrNjnIZQ",
         note: ""
       }
     ]
@@ -1174,10 +1174,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "The Wake of Lado",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "wakeOfLado",
+        spotify: "https://open.spotify.com/track/7lTKfxYd7BOhkQ7vGwrqqC?si=029cbb828bb343a7",
+        youtube: "https://youtu.be/pU5N4uOTag0?si=PjK5YNvDvLB2ua35",
         note: ""
       }
     ]
@@ -1234,10 +1234,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "The Scent of Memory",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "scent",
+        spotify: "https://open.spotify.com/track/1qu3ly0OU8iHhddu6pGqzA?si=b0c90c5a00fb45f6",
+        youtube: "https://youtu.be/kqC-JQuGhtY?si=tqCYGsTuoW4IBSZP",
         note: ""
       }
     ]
@@ -1294,10 +1294,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "Nature Call",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "natureCall",
+        spotify: "https://open.spotify.com/track/008F0AZvOSAebjEUedyMjw?si=55db9c073b954acc",
+        youtube: "https://youtu.be/DhTrd-ZeLgY?si=UakYU75ieJNsz5yk",
         note: ""
       }
     ]
@@ -1309,10 +1309,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "The Fields of Byria",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "byria",
+        spotify: "https://open.spotify.com/track/6sGDIQRDB8zVf0Bi6K6zvm?si=39acbf44408e45e6",
+        youtube: "https://youtu.be/lMR23rhxKzA?si=exq89rPMNxy1EtDH",
         note: "Roddturen på väg mot dvärgarna kräver en arbetssång. Den visar sig ha sitt ursprung på det stora fastlandet, i Byria — där kvinnorna styr och männen till stor del reducerats till arbetskraft."
       }
     ]
@@ -1324,10 +1324,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "Lines That Do Not Show",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "lines",
+        spotify: "https://open.spotify.com/track/5WoR3eJ4Ijaqb3xbyPjgdS?si=203fc360ca61427f",
+        youtube: "https://youtu.be/3_cg0OcbFZk?si=jsAoJ8gsGMLczyvV",
         note: ""
       }
     ]
@@ -1339,10 +1339,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "Hymn of the Open Hand",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "openHand",
+        spotify: "https://open.spotify.com/track/5CV8IHXm243zjS2eVoJHEb?si=8a9ee7dba7114ac3",
+        youtube: "https://youtu.be/H_nf1QUIPSY?si=9JTWN_fnd6uokdaW",
         note: ""
       }
     ]
@@ -1354,10 +1354,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "Balance",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "balance",
+        spotify: "https://open.spotify.com/track/6OQslwOJbiXXxkH1vxL3ut?si=622f2f59aa154e1f",
+        youtube: "https://youtu.be/EhlbzwFbppw?si=e9-wMMR6nn2L6HnN",
         note: ""
       }
     ]
@@ -1369,10 +1369,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "We Took the Offer (Serenia Settlers' Song)",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "offer",
+        spotify: "https://open.spotify.com/track/25M0eCS4UAdQBqak0PdadB?si=2e4516de98374bcb",
+        youtube: "https://youtu.be/EFCunS83ovI?si=8qoFE6Hng4Y0NAr0",
         note: ""
       }
     ]
@@ -1384,10 +1384,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "Khaz Khur Razan (The Stone Knows the Way)",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "khazKhur",
+        spotify: "https://open.spotify.com/track/0XwB7yM2CGTvKCmmtlVaqn?si=21b1c8b2755643ec",
+        youtube: "https://youtu.be/h6CXlEvt3vs?si=HxtwyewD0ONt8LyI",
         note: ""
       }
     ]
@@ -1399,10 +1399,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "The Furrow Blessing",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "furrow",
+        spotify: "https://open.spotify.com/track/21mILJp5yC5OkgDiq1CwY7?si=0c2c8577b88d416a",
+        youtube: "https://youtu.be/mU0mhHaT4_U?si=KTH0eYhlXbb8nyot",
         note: ""
       }
     ]
@@ -1429,10 +1429,10 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: "Fallen King",
         image: "assets/songs/dummy.png",
-        date: "<b>inte ännu</b>",
-        textPage: "",
-        spotify: "",
-        youtube: "",
+        date: "",
+        textPage: "fallenKing",
+        spotify: "https://open.spotify.com/track/17ue6X0z8JgdBBPPf4LEtB?si=b7682ed540414773",
+        youtube: "https://youtu.be/vrNqVUijuTE?si=e3yVnhM9mlvYvH6N",
         note: ""
       }
     ]
@@ -1442,7 +1442,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     meta: "Naveh-hymn",
     tracks: [
       {
-        title: "Naveh – Lati",
+        title: "Naveh – Latin",
         image: "assets/songs/dummy.png",
         date: "<b>inte ännu</b>",
         textPage: "",
