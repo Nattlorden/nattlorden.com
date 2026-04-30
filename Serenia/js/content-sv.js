@@ -88,14 +88,16 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
       title: "Kapitelöversikt",
       text: `Kapitelstruktur, arbetsstatus och korta sammanfattningar.
 
-      v. 0 - Originaldagbok
-      v. 1 - Partiell omskrivning till tredje person
-      v. 2 - Modern revision, expanderad
-      v. 3 - Revision baserad på senare erfarenhet - första rimligt publika version
+      v0 - Originaldagbok
+      v1 - Partiell omskrivning till tredje person
+      v2 - Modern revision, expanderad
+      v3 - Revision baserad på senare erfarenhet - första rimligt publika version
       
-      <a class="internal-link friend-only" data-section="story" data-page="chapter01">
+      <a class="internal-link" data-section="story" data-page="chapter01">
   Kapitel 1 - <i>Keri McCree</i>  -  v3  
-</a>
+      </a><a class="internal-link friend-only" data-section="story" data-page="chapter02">
+  Kapitel 2 - <i></i>  -  v3  
+      </a>
       `,
     showPlaceholder: false
     },

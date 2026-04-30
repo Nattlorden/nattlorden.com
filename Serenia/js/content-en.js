@@ -86,10 +86,24 @@ What is presented here — and what will gradually be added — is the result of
       
     },
     chapters: {
-      menuTitle: "Chapters",
+      menuTitle: "Chapter",
       title: "Chapter overview",
-      text: "Chapter structure, work status and short summaries will be placed here."
+      text: `Chapter structure, progress status and short summaries.
+
+      EN.v1 - First English translation of what is the Swedish v.3
+      
+      <a class="internal-link" data-section="story" data-page="chapter01">
+  Kapitel 1 - <i>Keri McCree</i>  -  EN.v1  
+      </a>
+      <a class="internal-link friend-only" data-section="story" data-page="chapter02">
+  Kapitel 2 - <i></i>  -  EN.v1  
+      </a>
+      `,
+    showPlaceholder: false
     },
+
+    ...chaptersEN_01_05,
+
     timeline: {
       menuTitle: "Timeline",
       title: "Timeline",

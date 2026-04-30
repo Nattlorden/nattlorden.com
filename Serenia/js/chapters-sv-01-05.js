@@ -38,7 +38,7 @@ Keri mötte hans blick, och i rummet låg ett ögonblick av stillhet. Golothas v
 <p>Dramond rullade ihop tygprovet med fingrar som visste värdet av både last och silver. Klädseln var praktisk, en mörk jacka fodrad med siden, men ringen på hans finger och glimten av guld i en kindtand talade om en man som gärna visade sitt välstånd.
 ”Ni gör kloka köp, mäster McCree,” sade han med en ton som var både smicker och prövning. ”Jag hoppas det här blir början på fler affärer. Men de bästa görs inte alltid i gillets hallar.”
 Keri höjde ögonbrynet, lät armarna vila mot disken. ”Nej?”
-”Kom ner till min båt i kväll. Sjöugglan ligger förtöjd vid västra kajen. En middag, ett gott vin – och kanske några varor som inte alla behöver se.” Han bugade lätt, artigt men självsäkert, som en man van att bli åtlydd.
+”Kom ner till min båt i kväll. <i>Sjöugglan</i> ligger förtöjd vid västra kajen. En middag, ett gott vin – och kanske några varor som inte alla behöver se.” Han bugade lätt, artigt men självsäkert, som en man van att bli åtlydd.
 Keri höll masken, men i bröstet slog tvekan hårt. En båt, en middag, en affär utan vittnen – varje ord luktade risk. Ändå fann hon sig nicka.
 ”Jag får se vad kvällen bjuder.”
 Leendet han lämnade henne med var både löfte och utmaning, och när han försvann mellan bodarna låg ekot av stegen kvar i golvet.</p>`
