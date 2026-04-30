@@ -86,12 +86,18 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
     chapters: {
       menuTitle: "Kapitel",
       title: "Kapitelöversikt",
-      text: `Här kommer kapitelstruktur, arbetsstatus och korta sammanfattningar att läggas in
+      text: `Kapitelstruktur, arbetsstatus och korta sammanfattningar.
+
+      v. 0 - Originaldagbok
+      v. 1 - Partiell omskrivning till tredje person
+      v. 2 - Modern revision, expanderad
+      v. 3 - Revision baserad på senare erfarenhet - första rimligt publika version
       
       <a class="internal-link friend-only" data-section="story" data-page="chapter01">
-  Kapitel 1
+  Kapitel 1 - <i>Keri McCree</i>  -  v3  
 </a>
-      `
+      `,
+    showPlaceholder: false
     },
 
     ...chaptersSV_01_05,

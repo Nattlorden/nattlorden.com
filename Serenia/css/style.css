@@ -457,6 +457,37 @@ main {
   text-align: left;
 }
 
+.chapter-text p {
+  text-indent: 1.5em;
+  margin: 0 0 0.6em 0;
+}
+
+.chapter-text p:first-child {
+  text-indent: 0;
+}
+
+.chapter-text p.medium-break {
+  margin-top: 2.2em;
+}
+
+.chapter-text i {
+  font-style: italic;
+  opacity: 0.95;
+}
+
+.chapter-text b {
+  font-weight: 600;
+}
+
+.chapter-text b.heavy {
+  font-weight: 700;
+}
+
+.place-name {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+
 .chapter-opening {
   margin-bottom: 0.4em;
 }
@@ -472,9 +503,9 @@ main {
 }
 
 .chapter-marker {
-  width: 90px;
-  height: 32px;
-  margin: 34px auto;
+  width: 120px;
+  /*height: 30px;*/
+  margin: 50px auto;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -490,6 +521,10 @@ main {
 
 .marker-raven {
   background-image: url("assets/ui/marker-raven.png");
+}
+
+.marker-1_1_1{
+background-image: url("../assets/ui/divider_1_1_1.png");
 }
 
 .chapter-illustration {
@@ -523,7 +558,8 @@ main {
 }
 
 .chapter-page .chapter-opening,
-.chapter-page .chapter-text {
+.chapter-page .chapter-text,
+.chapter-page .chapter-text p {
   color: #241b13;
 }
 
