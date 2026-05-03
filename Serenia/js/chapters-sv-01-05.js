@@ -123,6 +123,1124 @@ Sida vid sida genom Golothas natt, tysta nog för att höra sina egna hjärtslag
       }
     ]
   }
+}, 
+chapter02: {
+  menuTitle: "Kapitel 2",
+  title: "Kapitel 2 – Raven",
+  pageType: "chapter",
+  hidden: true,
+  showPlaceholder: false,
+  chapter: {
+    subtitle: "",
+    dropcap: "Gtight",
+    opening: `olotha sov aldrig, men vissa gator sov tyngre än andra. I huset på Chafin Street var allt stilla. Kelly hade gått upp till Athina och stängt dörren bakom sig.`,
+
+    sections: [
+      {
+        type: "text",
+        content: `<p>Keri stod kvar i sitt rum, händerna mot kappans kanter. Halsbandet vilade kallt mot huden. Dramonds ord och leende fanns kvar, men lika närvarande var skuggan av något annat – minnet av blod på plankgolv, den dinglande kroppen, den ofrånkomliga vetskapen att vissa spår aldrig suddas ut.
+
+<p class="pn">Det kom inte som en tanke. Det kom som något som redan var där, som aldrig riktigt lämnat henne.</p>
+
+<p class="pn">Fingrarna fann halsbandet igen, denna gång utan tvekan – inte som ett spel, utan som något verkligt, något som hörde till den andra världen.</p>
+Hon släppte det lika snabbt.</p>
+
+<p class="pn">Hon öppnade brudkistan och lyfte på det översta lagret av kläder. Först kjolen, mörkblå och mjuk nog att röra sig i utan ljud. Sedan läderbrynjan, härdad men följsam. Den svarta kappan, sliten i fållen, föll tungt över axlarna.</p>
+
+<p class="pn">Ur en liten lerkopp i kistans hörn tog hon upp sot blandat med några droppar olja. Fingrarna drog mörka skuggor under ögonen och längs kindbenen. Håret bands upp högt och stramt, utan de lösa slingor som Keri brukade låta falla fram.</p>
+
+<p class="pn">Rörelserna var inte tveksamma. Inte heller medvetna.
+Som om kroppen visste vad som krävdes, långt innan hon själv satte ord på det.</p>
+
+<p class="pn">Kortsvärdet fann sin plats vid höften, dolken vid låret. När hon lutade sig över kopparblecket som tjänade som spegel, såg en annan tillbaka – blicken smalare, skarpare, med ett rovdjurs vaksamhet.</p>
+
+<p class="pn">Ett ögonblick mötte hon sin egen blick – och den andra som låg bakom den.
+Inte rädd. Inte tveksam.</p>
+<p class="pn">Bara… ofrånkomlig.</p>
+
+<p class="pn">Fönstret öppnades ljudlöst. <i>Raven</i> gled ut, kände takpannornas kyla genom skosulorna, och tog sig över till stuprännan tre hus bort. Där försvann hon ned i en mörk gränd och började röra sig mot stadens hjärta.</p>
+
+<p class="pn">Och Golotha, som aldrig sov, tycktes redan veta att hon var ute.</p>`
+
+      },
+      {
+        type: "marker",
+        style: "1_1_12"
+      },
+      {
+        type: "text",
+        content: `<p>Puben låg ett stenkast från hamnen, men kändes som en annan värld. Dörren gnisslade när hon öppnade den, men ljudet försvann i sorlet och skramlet från tennmuggar. Luften var tung av öl, stekt kött och kroppar som suttit tätt för länge.</p>
+
+<p class="pn">Raven valde en plats vid väggen, ryggen skyddad, blicken fri. Bordet var nött och mörkt, märkt av knivskåror och vaxfläckar. Hon beställde vin – mörkt, nästan svart – och drack långsamt medan ögonen tog in rummet.</p>
+
+<p class="pn">Två män spelade tärning i hörnet, rösterna spända, skrattet utan värme. Vid eldstaden försökte en trubadur överrösta sorlet med en ballad som ingen riktigt lyssnade på. Bartendern rörde sig vant genom trängseln, en tyst dirigent i en stökig orkester.</p>
+
+<p class="pn">Längre ned vid bardisken satt en präst i mörk kåpa. Broderiet vid hans skuldra fick hennes nackhår att resa sig – färgerna och symbolen tillhörde en gud som frodades i Golothas skuggor. Mittemot honom satt en man som inte gjorde något för att dra till sig uppmärksamhet, och ändå gjorde det. Luften kring honom kändes tätare, som om rummet anpassade sig efter hans närvaro.</p>
+
+<p class="pn">De talade lågt. Prästens knogar vitnade mot bardisken. Mannens svar var knappt synligt.</p>
+
+<p class="pn">I nästa ögonblick låg prästen död på golvet.</p>
+
+<p class="pn">Ingen rörelse, inget ljud av stål. Bara ett avbrutet andetag som aldrig fullföljdes.</p>
+
+<p class="pn">Raven blinkade inte.</p>
+
+<p class="pn">Deras blickar möttes. Mörkret i hans ögon var inte tomt, utan mättat – som något som redan fyllt sin kvot av våld. Hon höjde sitt glas i en tyst skål.</p>
+
+<p class="pn">Han svarade inte. Men han såg henne.</p>
+
+<p class="pn">När bartendern kastade sig fram över kroppen, föll ljuset från elden över prästens nacke. Där, vid övergången till ryggen, låg en tatuering – en intrikat, mörk symbol. Raven doppade fingret i de sista dropparna av sitt vin och ritade snabbt av mönstret på undersidan av ett ölunderlägg.
+”Ser du inte att en man just blivit dödad?” fräste bartendern när han fick syn på henne.
+Hon lyfte knappt blicken. ”Jag ser det mesta.”</p>
+
+<p class="pn">När hon såg upp igen var mannen borta.</p>
+
+<p class="pn">Hon reste sig och gled ut genom dörren.
+På gatan, vid ett gatuhörn, stod han och väntade. Han höjde handen i en märklig salut innan han vek av in i en smal gränd. Raven ökade takten, rundade hörnet – och fann den tom.
+Ingen dörr hade öppnats. Inga fönster. Taken var för höga för att han skulle ha hunnit upp.</p>
+
+<p class="pn">Hon stod stilla och lyssnade. Bara avlägsna steg från andra gator.</p>
+
+<p class="pn">Det här var inget som misslyckades. Det var något som valde att inte bli följt.</p>
+
+<p class="pn">Tillbaka vid sitt bord väntade en ny karaff vin och en ren bägare. Bredvid den låg ett hopvikt pergament. Hon hade inte sett någon lämna det.</p>
+
+<p class="pn">Under bordskanten vek hon upp det.</p>
+
+<p class="pn"><i>Giuseppes Bar, halv tio.</i>
+Undertecknat med en stiliserad dolk och ett ensamt <span class="place-name">"N."</span>
+<i>NightBlade.</i>
+Namnet som vävdes genom Golothas rykten och skräckhistorier, nu riktat rakt mot henne.</p>
+
+<p class="pn">Hon satt kvar ett ögonblick längre än nödvändigt.</p>
+
+<p class="pn">Sedan reste hon sig.</p>`
+ },
+      {
+        type: "marker",
+        style: "default"
+      },
+      {
+        type: "text",
+        content: `<p>Gatorna till Giuseppes tog hon i omvägar. Hon bytte riktning, korsade öppna platser snabbt och höll sig nära väggarna när andra rörde sig i närheten.</p>
+
+<p class="pn">Giuseppes låg i en gränd som var mörkare än den borde.
+Inne var luften varm, ljuset gyllene och sorlet dämpat, som om rösterna hölls tillbaka av något osagt. Han stod vid bardisken, lyfte sin vinbägare i en nästan omärkbar gest och nickade mot ett bord längst in i skuggan.
+Hon beställde vin, gick dit och satte sig. Träet var slitet, belysningen svag nog att världen utanför bordet kändes avlägsen.</p>
+
+<p class="pn">”Du ville träffa mig?” sade hon och sköt över lappen.</p>
+
+<p class="pn">Han vände den långsamt, lät den glida in under rocken.
+”Du såg mig arbeta i kväll. Det händer inte ofta. Än mer ovanligt att någon erkänner det.”</p>
+
+<p class="pn">Hans blick låg kvar på henne.
+”De flesta förstår att det är hälsosammare att låta bli.”</p>
+
+<p class="pn">Hon mötte den utan att vika undan.
+”Att se eller inte se beror på vem som frågar. I kväll verkade det rätt att ge en kollega erkännande för ett väl utfört arbete.”</p>
+
+<p class="pn">Greppet kom utan förvarning. Han tog hennes handled och vred den bakåt. Rörelsen var snabb, exakt – tillräcklig.</p>
+
+<p class="pn">”Använd aldrig den tonen till mig,” sade han lågt. ”Förstår vi varandra?”</p>
+
+<p class="pn">Hon nickade en gång.</p>
+
+<p class="pn">Han släppte och lutade sig tillbaka, som om inget hade hänt.</p>
+
+<p class="pn">”Jag är inte här för att tysta dig,” fortsatte han. ”Tvärtom.”
+En kort paus.
+”Jag har följt ditt arbete, Raven Blackburn.”</p>
+
+<p class="pn">Namnet hängde kvar mellan dem.</p>
+
+<p class="pn">”Du har potential. Men din träning är bristfällig. När gillet får veta vem du är kommer du att behöva mer än tur för att överleva.”</p>
+
+<p class="pn">Hon höjde bägaren till läpparna, drack utan brådska.
+”Varför skulle du bry dig?”</p>
+
+<p class="pn">Ett svagt leende. Inte varmt.
+”Det är dags att ta en lärling.”</p>
+
+<p class="pn">Han betraktade henne, inte som en man betraktar en kvinna, utan som något som mäts.</p>
+
+<p class="pn">”Och du är den mest lovande jag sett på länge.”</p>
+
+<p class="pn">Han reste sig.
+”Om du vill pröva dig – Nemiran Street 1. När du bestämt dig.”</p>
+
+<p class="pn">Mynten landade på bordet med ett mjukt, slutgiltigt ljud. Han vände sig om och försvann ut, rocken svepande kring honom utan att röra någon annan.</p>
+
+<p class="pn">Sorlet slöt sig igen efter honom, som vatten över en sten.</p>
+
+<p class="pn">Raven satt kvar. Värmen från vinet låg kvar i kroppen, men något annat hade lagt sig djupare – något kallare, tyngre.</p>
+
+<p class="pn">Inte rädsla. Inte tvekan.</p>
+
+<p class="pn">Ett val.</p>
+
+<p class="pn">Hon visste redan vad dörren ledde till.</p>
+
+<p class="pn">Frågan var inte om hon skulle gå igenom den.</p>
+
+<p class="pn">Bara när.</p>
+
+<p class="pn">Hon tog en långsam klunk och lät tystnaden bära svaret.</p>
+`
+      }
+    ]
+  }
+}, 
+chapter03: {
+  menuTitle: "Kapitel 3",
+  title: "Kapitel 3 – Morgonljus ",
+  pageType: "chapter",
+  hidden: true,
+  showPlaceholder: false,
+  chapter: {
+    subtitle: "",
+    dropcap: "Htight",
+    opening: `on vaknade ur en dröm som redan gled undan. Kvar fanns bara känslan av något ouppnåeligt, något som försvann varje gång hon försökte fånga det. Ljuset som silade in genom fönstret var blekt, men lade ett varmt sken över väggarna.`,
+    sections: [
+      {
+        type: "text",
+        content: `<p>Ett svagt ljud fick henne att resa sig. På andra sidan väggen sjöng Athina för sig själv, en låg, melodisk stämma som smälte in i morgonens stillhet.
+Keri öppnade dörren. Athina satt vid fönstret, håret fallande i mjuka vågor över axlarna, ljuset fångat i det askblonda som gav det ett gyllene sken.</p>
+
+<p class="pn">”Jag väckte dig inte, va?” frågade Keri.
+Athina log. Rösten var lika mjuk som sången.
+”Nej. Jag bara… väntade på att du skulle vakna.”</p>
+
+<p class="pn">Keri stod kvar ett ögonblick längre än nödvändigt. Sedan gick de ned till köket. Brödet var gårdagens, lite segt men fortfarande gott när det värmdes över elden. Till det fanns en bit hårdost och ett krus med honungsvatten. 
+Athina rörde knappt vid maten.
+”Ät,” sade Keri och sköt brödet närmare henne.
+”Jag är inte hungrig.”
+”Du säger alltid så.” Hon log, men blicken dröjde kvar en aning för länge. ”Bara lite, för min skull.”
+Athina bröt till sist av en bit och åt långsamt, som om varje tugga krävde ett beslut.
+Keri drack ur sin kopp och lät tystnaden ligga kvar.</p>
+
+<p class="pn">Det fanns en ro här som inte fanns någon annanstans. Och som inte skulle följa med henne ut.</p>
+
+<p class="pn">Hon reste sig.
+”Jag behöver lämna tillbaka fru Marlowes rock,” sade hon och tog kappan från kroken. ”Hon fryser annars.”
+”Hälsa henne,” sade Athina med ett svagt leende.</p>
+
+<p class="pn">Vägen till Marlowes hus var kort, men Keri tog en längre rutt. Genom bakgator och ned mot kajerna, där morgonsolen blänkte mot masterna.</p>
+
+<p class="pn">Sjöugglan låg kvar, mörk mot vattnet, och såg större ut i dagsljuset. Tågvirket var nyligen tjärat, däcksskenorna polerade. Två män bar last under överinseende av en tredje som förde anteckningar. Dramond syntes inte till.</p>
+
+<p class="pn">Keri stannade. Inte länge – bara så länge att det kunde passera som något annat.</p>
+
+<p class="pn">Blicken tog in mer än den borde ha gjort.</p>
+
+<p class="pn">Sedan gick hon vidare.</p>
+
+<p class="pn">Fru Marlowe öppnade efter en stund, gråhårig och insvept i flera sjalar.
+”Tack, barn,” sade hon när Keri räckte över den lagade rocken. ”Jag trodde inte sömmen skulle hålla, men du har trollhänder.”
+”Det var enkelt,” sade Keri.
+Hon stannade en stund, lyssnade på kvinnans prat om grannar och väder. Orden flöt förbi utan att kräva svar.
+När hon till slut tog farväl och gick därifrån, låg morgonen fortfarande kvar över gatorna, mild och oförändrad.</p>
+
+<p class="pn">Men något i henne rörde sig redan i en annan riktning.</p>
+
+
+<p class="medium-break">Keri hängde av sig kappan och ställde skorna vid dörren. Affären var tyst; hyllorna stod fyllda med varor som väntade på rätt köpare.
+Hon gick igenom räkneboken en stund, flyttade några tygrullar och rättade till en sned hög med filtar. Rörelserna var invanda, nästan utan eftertanke.</p>
+
+<p>Framåt förmiddagen hördes röster utifrån, och hon gick ut för att se vad som pågick. På gatan hade några handlare ställt upp små bord trots att det inte var marknadsdag.
+Vid ett av borden satt en man med ett tygstycke som duk, och ovanpå det låg en samling smycken och mynt.</p>
+
+<p class="pn">”Dvärgaguld!” ropade han när hon närmade sig, som om ordet i sig var en garanti för äkthet.
+Hon lyfte upp ett av mynten. Det var mindre än en tumnagel, men tyngre än det såg ut. Symbolerna var gamla, så slitna att de bara anades.
+”Varifrån?” frågade hon.
+”Handelskaravan från öster,” svarade mannen och log, som om det var all förklaring som behövdes.</p>
+
+<p class="pn">Keri lät myntet vila ett ögonblick längre än nödvändigt.</p>
+
+<p class="pn">Det var inte bara värde hon vägde i handen.</p>
+
+<p class="pn">Hon lade tillbaka det och mötte hans blick.
+”För vackert för att växla på en trottoar.”</p>
+
+<p class="pn">”För tungt för att bära hem själv,” skämtade han, men det låg något vaksamt bakom leendet.</p>
+
+<p class="pn">Keri nickade svagt och gick vidare.</p>
+
+<p class="pn"><i>Dvärgaguld.</i></p>
+
+<p class="pn">Värde och historia i en form som gick att gömma i fickan.</p>
+`
+
+      },
+      {
+        type: "marker",
+        style: "1_1_7"
+      },
+      {
+        type: "text",
+        content: `<p>Solen stod högt när Keri lämnade marknaden med en korg på armen. I den låg några tygprover till butiken, ett knippe färska örter och ett färskt bröd hon tänkte locka Athina med.
+Hon valde en mindre gata tillbaka för att undvika folkmassan, en sådan där tvätten hängde mellan husen och barnen lekte i rännstenen.</p>
+
+<p class="pn">Hon hörde stegen innan hon såg dem. Snabba, oregelbundna. Ett dämpat rop.</p>
+
+<p class="pn">Två män kom runt hörnet längre fram — den ena i läderväst, blicken låst framåt, den andra klädd som en köpman, men med trötthet och ilska draget över ansiktet.</p>
+
+<p class="pn">Lädervästen drog kniv.</p>
+
+<p class="pn">Keri såg sig snabbt omkring. En kort trästång lutade mot väggen.</p>
+
+<p class="pn">Hon släppte korgen, tog stången i båda händerna och gick fram.</p>
+
+<p class="pn">Inget tvekan. Bara avstånd, vinkel, timing.</p>
+
+<p class="pn">När knivmannen sträckte sig mot köpmannen slog hon hårt mot hans handled. Kniven föll med ett klirr mot gatstenen.</p>
+
+<p class="pn">Han vände sig mot henne, svor och gick till anfall. Hon parerade knytnäven, sparkade kniven längre bort och tog ett steg bakåt, redan redo för nästa rörelse.</p>
+
+<p class="pn">Då hördes en röst bakom honom, låg och utan ansträngning.</p>
+
+<p class="pn">”Det räcker nu.”</p>
+
+<p class="pn">Keri såg hur knivmannens ögon för ett ögonblick blev tomma. Inte rädda. Bara… <i>tömda</i>.</p>
+
+<p class="pn">Han stannade upp, tog ett steg tillbaka och försvann mellan husen utan att se sig om.</p>
+
+<p class="pn">Kvar stod köpmannen.</p>
+
+<p class="pn"><i>Dramond.</i></p>
+
+<p class="pn">Han plockade upp korgen och räckte den till henne, leendet tillbaka på plats – men blicken vilade kvar en aning för länge.</p>
+
+<p class="pn">”Jag är skyldig er mer än ett tack, Keri McCree. Jag insisterar på att ni låter mig bjuda på middag i kväll. Det är det minsta jag kan göra.”</p>
+
+<p class="pn">Hon tog emot korgen utan att släppa honom med blicken.
+”Ni är snabb med inbjudningar, kapten.”</p>
+
+<p class="pn">”Och ni är snabb med att rädda livet på folk,” svarade han. ”Låt oss kalla det jämnt — efter middagen.”</p>
+
+<p class="pn">Keri höll kvar honom ett ögonblick till.</p>
+
+<p class="pn">Inte för hans skull.</p>
+
+<p class="pn">För att väga något annat i situationen.</p>
+
+<p class="pn">Sedan nickade hon kort.</p>
+`
+
+      },
+      {
+        type: "marker",
+        style: "3_1_3"
+      },
+      {
+        type: "text",
+        content: `<p>Restaurangen låg i en av de äldre stenbyggnaderna vid torget, med blyinfattade fönster och mörka träpaneler. Keri hade aldrig ätit där tidigare, men hade hört att dess rykte sträckte sig långt bortom Golothas murar — sjöfarare talade om den i andra kungadömen, som om den vore ett av stadens verkliga landmärken.</p>
+
+<p class="pn">Dramond ledde henne till ett bord vid fönstret. Därifrån såg man torget i sen eftermiddag, människor i rörelse, handel som ännu inte stannat av.</p>
+
+<p class="pn">Han beställde vin utan att nämna priset. Samtalet höll sig till det som inte kostade något att dela: hamnens liv, vägarna, vädret som styrde både sjö och marknad.</p>
+
+<p class="pn">Maten kom in — ugnsbakad fisk med örter och rotfrukter. Enkel i uppläggningen, men tillagad med en precision som inte lämnade något att anmärka på.</p>
+
+<p class="pn">”Ni väljer väl,” sade Keri och lade ifrån sig gaffeln för att smaka på vinet.
+”Man lär sig att inte lämna sådant åt slumpen,” svarade han och höjde sitt glas. ”Till er hälsa, Keri.”</p>
+
+<p class="pn">De satt länge.</p>
+
+<p class="pn">I samtalet lät han små detaljer falla in — namn på hamnar hon inte kände till, antydningar om resor längre bort än en vanlig köpman skulle göra. Ibland stannade han mitt i en mening, som om han vägde orden innan de fick lämna honom.</p>
+
+<p class="pn">Keri lyssnade. Inte bara på det som sades.</p>
+
+<p class="pn">På det som inte gjorde det.</p>
+
+<p class="pn">När de skildes åt ute på gatan var himlen mörkblå och lyktorna tända.
+”Nästa gång,” sade han och log, ”ska jag laga maten själv. Ni får avgöra om jag är bättre till sjöss än i köket.”
+Hon besvarade leendet.</p>
+
+<p class="pn">Men bilden av hur knivmannens blick tömts tidigare under dagen låg kvar, stilla och oförklarlig.</p>
+
+        `
+      },
+      {
+        type: "marker",
+        style: "default"
+      },
+      {
+        type: "text",
+        content: `<p>Keri tog en omväg hem för att få luft. Gatorna nära torget var fortfarande fyllda av folk, men längre bort låg gränderna i skugga. Doften av hav blandades med stank från avfallsgropar och stillastående vatten.</p>
+
+<p class="pn">Hon hörde det först som ett eko av steg. Sedan fler. Någon sprang.</p>
+
+<p class="pn">En man bröt fram ur mörkret längre ned på gatan. Ansiktet var blekt, kläderna trasiga, blicken flackande som hos ett jagat djur.</p>
+
+<p class="pn">Två andra följde efter. Tysta. Målmedvetna. Händerna dolda under mantlarna.</p>
+
+<p class="pn">Den jagade såg sig om efter en väg ut. Gatan slutade i en stapel tunnor och lådor.</p>
+
+<p class="pn">Han snubblade, föll på knä och såg bort mot Keri.
+”Hjälp mig,” flämtade han.</p>
+
+<p class="pn">Hon tog ett steg fram.</p>
+
+<p class="pn">Stannade.</p>
+
+<p class="pn">Något i rörelsen bakom honom var fel. Inte hastigt. Inte osäkert.</p>
+
+<p class="pn">Kontrollerat.</p>
+
+<p class="pn">De var över honom innan orden hunnit dö. Det blänkte till i lyktljuset — snabbt, precist.</p>
+
+<p class="pn">När Keri tog ett nytt steg var det redan över.</p>
+
+<p class="pn">Mannen låg stilla.</p>
+
+<p class="pn">Förföljarna vände honom på sidan, gick igenom hans kläder utan att skynda. De fann det de sökte, gömde det under manteln och reste sig.</p>
+
+<p class="pn">De gick förbi henne utan att se på henne. Eller utan att visa att de gjorde det.</p>
+
+<p class="pn">Keri stod kvar.</p>
+
+<p class="pn">Den döde låg på rygg, ögonen öppna mot natthimlen. Blodet mörknade mellan gatstenarna.</p>
+
+<p class="pn">Hon gick närmare.</p>
+
+<p class="pn">Vid hans bälte satt ett litet metallstycke. Där, i det svaga ljuset, anades konturerna av en symbol.</p>
+
+<p class="pn">Hon böjde sig ned —</p>
+
+<p class="pn">Stannade.</p>
+
+<p class="pn">Någon kunde fortfarande vara kvar.</p>
+
+<p class="pn">Hon rätade på sig, drog kappan tätare omkring sig och gick vidare.</p>
+
+<p class="pn">Stegen var snabbare nu.</p>
+
+<p class="pn">Inte av rädsla.</p>
+
+<p class="pn">Av insikt.</p>
+`
+      },
+      {
+        type: "marker",
+        style: "button_thread"
+      },
+      {
+        type: "text",
+        content: `<p>Keri stod böjd över en hög med färdiga sömmar när dörrklockan klingade. En ung lärling klev in, klädd i ett förkläde som redan bar fläckar av garvvatten och fett. Han stampade av sig smutsen från gatan och lade upp en hoprullad läderrem på disken.
+        ”Mäster skickade mig med detta,” sade han.</p>
+<p class="pn">Han tvekade ett ögonblick.
+”Men… har ni hört om mannen som dog vid Mott Lane i natt?”
+<p class="pn">Keri lyfte blicken.
+”Nej. Vad hände?”
+<p class="pn">Lärlingen sänkte rösten.
+”Min kamrat och jag var på väg hem sent. Vi såg honom ligga där, som om han fallit. Men innan vi hann fram dök Mamekas krigare upp. Fyra stycken.”
+<p class="pn">Han svalde.
+”De såg oss — och jag svär, jag frös fast där jag stod.”</p>
+<p class="pn">Keri sade inget.</p>
+<p class="pn">”De bar bort kroppen som om den tillhörde dem. Och…” Han lutade sig fram. ”Jag tror de tog något från hans jacka. Smått. Men viktigt. De såg sig om innan de stoppade ner det.”</p>
+<p class="pn">”Du är säker på att det var Mamekas män?”</p>
+<p class="pn">Han nickade ivrigt.
+”Svarta rockar. Läderremmar över bröstet. Och de rörde sig…”</p>
+<p class="pn">Han sökte efter ordet.
+”…som vargar.”</p>
+<p class="pn">”Vakterna?”</p>
+<p class="pn">”Kom först senare. De lär säga att han bara var en tjuv som fick vad han förtjänade, men…” Han ryckte på axlarna. ”Så säger de alltid.”</p>
+<p class="pn">Keri nickade kort.
+Hon tog emot arbetet, räknade upp betalningen utan att behöva se ned, och sköt över mynten till honom.
+Lärlingen försvann ut igen, dörrklockan klingade en andra gång.</p>
+<p class="pn">Tystnaden föll tillbaka.</p>
+<p class="pn">Keri stod kvar bakom disken. Fingrarna vilade mot träet, följde reporna och märkena efter år av kunder som lutat sig där.</p>
+<p class="pn">Mamekas krigare tog inte hand om slumpmässiga döda.</p>
+<p class="pn">Och de tog inte saker utan anledning.</p>
+<p class="pn">Bilden av mannen i gränden låg kvar.</p>
+<p class="pn">Inte kroppen.</p>
+<p class="pn">Det som saknades.</p>
+<p class="pn">Hon såg det igen, som hon sett det då — ett litet metallstycke vid bältet. Formen. Tyngden.</p>
+<p class="pn">Och myntet tidigare.</p>
+<p class="pn">Inte samma sak.</p>
+<p class="pn">Men samma känsla av värde som inte borde cirkulera öppet.</p>
+<p class="pn">Det gnagde.</p>
+<p class="pn">Dörren slog upp igen.</p>
+<p class="pn">Kelly klev in, redan mitt i en mening.
+”Du skulle ha hört vad folk pratar om nere vid bryggorna,” sade hon utan att hälsa. ”De säger att någon sett en kropp bäras bort från en gränd nära Nemiran Street.”</p>
+<p class="pn">Keri kastade en snabb blick mot henne.</p>
+<p class="pn">Kelly fortsatte, obekymrad.
+”Ingen vet vem det var. Men alla säger att det var tystare än vanligt där nere efteråt. Och tystnad i det området är aldrig bra.”</p>
+<p class="pn">Keri lutade sig lätt mot disken.</p>
+<p class="pn">”En gammal fiskare svor att han såg en kvinna försvinna uppför en trappa strax innan,” fortsatte Kelly. ”Svartklädd. Inget ansikte. Bara ett sken från något metalliskt vid höften.”</p>
+<p class="pn">Ett kort uppehåll.</p>
+<p class="pn">”Och du tänkte att jag ville höra det här?” sade Keri torrt.</p>
+<p class="pn">Kelly log snett.
+”Alla vet att du gillar att veta vad som händer. Oavsett om du säger det eller inte.”</p>
+<p class="pn">Keri svarade inte.
+Hon torkade händerna mot förklädet, mer av vana än behov, och såg Kelly försvinna ut på gatan.</p>
+<p class="pn">Tystnaden lade sig igen.</p>
+<p class="pn">Någon dag får jag ta reda på det, tänkte hon.</p>
+<p class="pn">Inte i dag.</p>
+
+<p class="medium-break">Butiken var stängd för dagen. Keri stod på pallen medan Athina nålade upp fållen på klänningen, koncentrerad och tyst. Tyget från början av veckan föll mjukt runt hennes ben.
+<p class="pn">Dörren öppnades utan knackning, och Kelly klev in med korgen i handen och ett snett leende på läpparna.
+”Se på er två — huslig idyll. Och den där klänningen…” Hon höjde ögonbrynen. ”Blir den nu attraktiv nog att landa din köpman?”</p>
+<p class="pn">”Kelly…” varnade Keri.</p>
+<p class="pn">Kelly skrattade.
+”Jaja. Alla vet att han är en bra fångst, oavsett om han är sjöman, köpman eller något mer.”</p>
+<p class="pn"><b>BAM BAM BAM.</b></p>
+<p class="pn">Slagen mot dörren fick glaset att skallra.</p>
+<p class="pn">Keri hann inte svara innan dörren slogs upp och en man kastade sig in, blodig och flämtande.
+”De… de är efter mig!”</p>
+<p class="pn">Hon var redan i rörelse. Grep honom vid armen, drog honom mot lagret —</p>
+<p class="pn">Då tryckte han något i hennes hand. En liten läderpung.
+”För att ni inte ska lämna ut mig.”</p>
+<p class="pn">Keri kastade en snabb blick ned i den medan hon ledde honom vidare.</p>
+<p class="pn">Tunga mynt. Ovanlig metall.
+<i>Dvärgprägling.</i>
+Inte något man sprang med i panik.</p>
+<p class="pn">”Kelly — bakdörren!”</p>
+<p class="pn">Kelly var redan på väg.</p>
+<p class="pn">Keri pressade in mannen bland tygbalorna, drog över ett stycke tyg som föll naturligt över öppningen.</p>
+<p class="pn">Dörren slog upp igen.
+Tre män steg in. Mörka rockar, läderremmar över bröstet. På den ene, under ärmens kant, skymtade en svart tatuering – ett intrikat sigill.</p>
+<p class="pn">”Var är han?”</p>
+<p class="pn">Den främste tog ett steg fram.</p>
+<p class="pn">Keri stod kvar bakom disken.
+”Vem?”</p>
+<p class="pn">”Springpojken som just kom in här.” Rösten var låg, kontrollerad. ”Vi kan betala.”</p>
+<p class="pn">Ett mynt landade tungt mot träet.</p>
+<p class="pn">Dvärgprägling.</p>
+<p class="pn">Keri lät blicken vila på det en bråkdel för länge.
+”En springpojke… med samma valuta?” sade hon långsamt. ”För det är precis vad han gav mig när han kom in.”</p>
+<p class="pn">En tyst blickväxling mellan männen.
+De visste att hon visste.
+”Det är farligt att lägga sig i saker som inte angår en,” sade mannen med tatueringen och tog ett steg närmare.</p>
+<p class="pn">Keri mötte honom utan att flytta sig.
+”Och det är farligt att skrämma mina kunder.”</p>
+<p class="pn">En kort paus.</p>
+<p class="pn">”Bakdörren står fortfarande öppen. Om ni skyndar er kanske ni hinner ikapp honom.”
+Hon höll kvar hans blick medan hon sade det.</p>
+<p class="pn">Ett val.</p>
+<p class="pn">Männen vände sig. Försvann mot bakrummet.</p>
+<p class="pn">Stövlar mot trä. Sedan sten. Sedan inget.</p>
+<p class="pn">Keri stod kvar tills ljudet dött helt.</p>
+<p class="pn">Sedan gick hon bort och låste dörren.</p>
+<p class="pn">När hon vände sig om stod Athina kvar vid pallen, med fingret i munnen och en rynka mellan ögonbrynen.
+”Stack mig när de bröt in,” mumlade hon.</p>
+<p class="pn">Keri gick fram till henne, tog försiktigt handen.
+”Det är inte ditt fel.”</p>
+<p class="pn">Ett ögonblicks stillhet.</p>
+<p class="pn">Sedan släppte hon och gick in i lagret. Mannen satt på golvet, blek men vaken. Han såg upp.</p>
+<p class="pn">Blicken gick direkt till pungen i hennes hand.
+”Tack,” sade han kort. ”Jag är skyldig er mer än ni vet.”</p>
+<p class="pn">Keri svarade inte.</p>
+<p class="pn">Hon såg fortfarande tatueringen.</p>
+<p class="pn">Kände fortfarande tyngden av mynten.</p>
+<p class="pn">Från båda sidor.</p>
+<p class="pn">Mannen reste sig långsamt, drog jackan tätare om sig.
+”Jag antar att jag är skyldig dig ett namn… Fabien.”</p>
+<p class="pn">Han höll kvar blicken en sekund.
+”Om du får frågor om detta… svara inte förrän du vet vem som ställer dem.”</p>
+<p class="pn">Sedan var han borta.</p>
+<p class="pn">När Keri såg mot bakdörren fanns där bara mörker.</p>
+<p class="pn">Hon stod kvar en stund.</p>
+<p class="pn">Pungen vilade tung i handen.</p>
+<p class="pn">Samma metall.</p>
+<p class="pn">Samma mönster av rörelser.</p>
+<p class="pn">Och symbolen – svart, intrikat – som inte längre kändes som en slump.</p>
+<p class="pn">När hon kom ut igen satt Athina kvar vid pallen, blek men samlad. Kelly plockade upp nålar från golvet, men blicken drogs tillbaka till pungen mer än en gång.</p>
+<p class="pn">Ingen av dem sade något.</p>
+<p class="pn">Den natten sov Keri oroligt.</p>
+<p class="pn">Mynt.</p>
+<p class="pn">Tatueringar.</p>
+<p class="pn">Fabien.</p>
+<p class="pn">Och ljudet av stövlar mot sten.</p>
+<p class="pn">När morgonen kom visste hon att hon inte kunde släppa det.
+Någonstans i Golothas skuggor fanns svaren.
+Och Nemiran Street var en av de få platser där man kunde börja leta.</p>
+<p class="pn">Om man vågade.</p>
+
+<p class="medium-break">Keri tog på sig kappan tidigt den morgonen. En kund hade bett om ett särskilt färgämne till ett tyg, och den sorten gick bara att hitta i de mindre nogräknade delarna av Golotha. Hon hade inget emot att handla där, men hon visste att det krävde vaksamhet — både med plånboken och med blicken.
+<p class="pn">Hon följde huvudgatan genom marknadskvarteren och vek sedan av mot gränderna där husen stod tätare och lukten av garvat skinn blandades med matos och avfall. Här rörde hon sig utan att tveka, men aldrig helt avslappnad.
+När hon svängde runt ett hörn fick hon syn på en välbekant figur längre fram.</p>
+<p class="pn">Kelly.</p>
+<p class="pn">Snabb, bestämd, med blicken låst framåt som om vägen redan var utstakad.
+Keri stannade.</p>
+<p class="pn">Det var inte ovanligt att Kelly var ute.
+Det var ovanligt att hon var här.
+Hon övervägde att ropa — lät bli.
+Följde i stället på avstånd.</p>
+<p class="medium-break">Kelly rörde sig snabbt, med den sorts självklarhet som kommer av att veta vart man ska. Och av att inte vilja bli stoppad på vägen dit.
+Hon vek av in i en smalare gränd där väggarna höll kvar skuggan trots dagsljuset.</p>
+<p class="pn">Keri följde efter, höll avstånd, lät blicken glida över omgivningen som om hon letade efter något annat.
+När Kelly stannade vid en dörr i tegelmuren gjorde Keri detsamma, några steg bort, vid en kärra lastad med fårskinn.
+Dörren öppnades.
+Mannen som stod där var bredaxlad, klädd i mörkt, välsytt läder som inte hörde hemma bland de vanliga hantverkarna i kvarteret.
+Hans blick vilade kort på Kelly. Inte välkomnande. Inte avvisande.
+Bedömande.
+Sedan klev han åt sidan och släppte in henne.</p>
+<p class="medium-break">Tiden som följde gick inte att mäta i minuter.</p>
+<p class="pn">Keri stod kvar mot väggen, lyssnade. Dova röster. Inga ord hon kunde urskilja.</p>
+<p class="pn">När dörren öppnades igen var det samma man som följde ut Kelly.
+”…inte de du leker med, flicka. De tar… allt.”</p>
+<p class="pn">Orden nådde fram i fragment, men tyngden i dem gjorde resten överflödigt.
+Kelly svarade med ett snett leende, kastade håret bakåt — men stegen när hon gick därifrån var aningen för snabba.</p>
+<p class="medium-break">Keri väntade ett par hjärtslag innan hon följde efter.</p>
+<p class="pn">Kelly hade hunnit en halv gata bort, blicken sänkt, tankarna någon annanstans.</p>
+<p class="pn">”Du går långt hemifrån,” sade Keri när hon kom ikapp.</p>
+<p class="pn">Kelly ryckte till, men fann snabbt balansen igen.
+”Och du då? Har du börjat handla på fel sida av staden?”</p>
+<p class="pn">”Ett färgämne till en beställning,” svarade Keri. ”Och du?”</p>
+<p class="pn">Kelly log. Det nådde inte ögonen.
+”Ärenden. Inget som angår dig, storasyster.”</p>
+<p class="pn">Hon höjde korgen en aning, som för att visa hur vardagligt innehållet var. Bröd. En flaska vin.</p>
+<p class="pn">Keri nickade, som om det räckte.</p>
+<p class="pn">Det gjorde det inte.</p>
+<p class="medium-break">De gick tillsammans en bit innan de skildes åt.</p>
+<p class="pn">Keri tog en omväg mot huvudgatan och passerade en smal tvärgata hon aldrig tidigare lagt märke till.</p>
+<p class="pn">Där stod en byggnad som inte bad om uppmärksamhet — och ändå fick den.</p>
+<p class="pn">Putsad sten. Korsvirke. Inga skyltar. Inga öppna fönster.</p>
+<p class="pn">Dörren var nyligen oljad. Tröskeln blanknött av många steg.</p>
+<p class="pn">Inte en plats man annonserade.</p>
+<p class="pn">En plats man visste om.</p>
+<p class="pn">Keri gick vidare utan att stanna.</p>
+<p class="pn">Men hon lade den på minnet.</p>
+
+<p class="medium-break">När hon närmade sig sitt kvarter valde hon en sidogata för att undvika trängseln.</p>
+<p class="pn">Det var då hon såg honom.</p>
+<p class="pn">En man vid hörnet mitt emot deras butik.</p>
+<p class="pn">Han stod som om han väntade, men låtsades rätta till sin kappa. Blicken återkom gång på gång till huset ovanför affären.</p>
+<p class="pn">Keri fortsatte att gå, utan att ändra tempo.</p>
+<p class="pn">Som om hon inte sett något.</p>
+<p class="pn">Men hon såg allt.</p>
+<p class="pn">När hon passerade noterade hon hållningen. Vikten fördelad rätt. Rörelsen kontrollerad.</p>
+<p class="pn">Inte en slumpmässig förbipasserande.</p>
+<p class="pn">Inte en granne.</p>
+<p class="pn">Någon som väntade.</p>
+<p class="pn">På rätt ögonblick.</p>
+
+<p class="medium-break">Hon gick vidare, svängde runt hörnet först när hon visste att hon inte längre kunde ses.</p>
+<p class="pn">Hjärtat slog hårdare nu. Inte av rädsla.
+Av beräkning.
+Om någon höll dem under uppsikt…
+då var det inte längre enskilda händelser.</p>
+<p class="pn">Det var något som drog ihop sig.</p>
+<p class="pn">Och för att möta det behövde hon bli bättre.</p>
+<p class="pn">Mycket bättre.</p>
+`
+      }
+    ]
+  }
+}, 
+chapter04: {
+  menuTitle: "Kapitel 4",
+  title: "Kapitel 4 – Nemiran",
+  pageType: "chapter",
+  hidden: true,
+  showPlaceholder: false,
+  chapter: {
+    subtitle: "",
+    dropcap: "Etight",
+    opening: `tt par kvarter innan hon var framme passerade Raven en tiggare som satt hopkurad vid en husvägg, händerna knäppta kring en träskål. Hon kastade åt honom de sista tvåöringarna hon hade kvar i fickan.`,
+
+    sections: [
+      {
+        type: "text",
+        content: `<p>”Gudarna må välsigna frun, jag tackar ur mitt hjärtas djup…”</p>
+
+<p class="pn">Orden fick henne att höja blicken.
+Med en plötslig skärpa i tanken vek hon av innan Nemiran Street. Gillet kunde ha ögon här.
+Hon höll sig till skuggorna, tog gränder som luktade av fukt och träolja, och rundade kvarteren tills hon nådde baksidan av huset utan att visa sig på den öppna gatan.
+Byggnaden reste sig framför henne.</p>
+<p class="pn">Stor. Välhållen. Anonym på ett sätt som inte var slump.</p>
+<p class="pn">Korsvirke och vitputs, inga skyltar, inga fanor.</p>
+<p class="pn">För en utomstående: ett hus.</p>
+<p class="pn">För Raven: en gräns.</p>
+<p class="pn">Hon valde baksidan.</p>
+<p class="pn">Muren var hög nog att avvisa de flesta, men inte någon som visste hur man tog sig över.</p>
+<p class="pn">Stenen var sval under händerna. På andra sidan tog jorden emot ljudet av hennes landning.</p>
+<p class="pn">Trädgården var enkel, nästan stram — raka gångar, låga häckar. Längre bort en rad mörka rosor, deras doft tung i nattluften.</p>
+<p class="pn">Hon rörde sig i en låg båge genom rabatten, höll sig nära muren, lät varje steg landa där marken var mjukast.</p>
+<p class="pn">Inga ljus. Inga röster.</p>
+<p class="pn">Bara blad som rörde sig i vinden.</p>
+<p class="pn">Morrandet kom lågt.</p>
+<p class="pn">Två hundar steg fram ur skuggorna. Mörka, muskulösa. Rörelserna långsamma, kontrollerade.</p>
+<p class="pn">De hade redan bestämt sig.</p>
+<p class="pn">Den första kastade sig fram.</p>
+<p class="pn">Raven vek undan i samma rörelse, kände värmen från käftarna nära benet och en snabb rispa över tyget. Dolken var redan uppe — en kort, exakt rörelse mot skuldran. Ett gällt skall, ett steg tillbaka.</p>
+<p class="pn">Den andra slog in i henne från sidan.</p>
+<p class="pn">Tyngden drev henne mot väggen. Käkar slöt sig om underarmen.</p>
+<p class="pn">Smärtan var skarp, klar.</p>
+<p class="pn">Hon högg mot huvudet, men träffade mest luft. Greppet höll. Dolken slets ur handen och försvann i gräset.</p>
+<p class="pn">Hon gick över till nästa rörelse utan att stanna. Försökte nå svärdet — missade när kroppen slog emot henne igen.</p>
+<p class="pn">Inget utrymme.</p>
+<p class="pn">Hon drog in ett kort andetag, vred höften och drev knät upp i bröstkorgen på djuret.</p>
+<p class="pn">En dov stöt. Ett brutet grepp.</p>
+<p class="pn">Hon föll bakåt, tog emot sig, rullade bort.</p>
+<p class="pn">Den första hunden kom igen, blod längs skuldran, rörelserna mer hetsiga nu.</p>
+<p class="pn">Raven såg dolken i gräset.</p>
+<p class="pn">Kastade sig.</p>
+<p class="pn">Fick grepp om det och var uppe igen i samma rörelse.</p>
+<p class="pn">Hunden hoppade.</p>
+<p class="pn">Hon mötte den med en snäv båge, inte kraftfull — precis.</p>
+<p class="pn">Bladet skar genom luft och päls.</p>
+<p class="pn">Ett kort ljud.</p>
+<p class="pn">Sedan tystnad.</p>
+<p class="pn">Kroppen föll tungt vid hennes fötter.</p>
+<p class="pn">Den andra stod kvar.</p>
+<p class="pn">Morrade. Tog ett steg bakåt.</p>
+<p class="pn">Den såg henne nu på ett annat sätt.</p>
+<p class="pn">Inte byte.</p>
+<p class="pn">Risk.</p>
+<p class="pn">Den backade, långsamt, och försvann in i mörkret.</p>
+<p class="pn">Raven stod stilla. Lyssnade.</p>
+<p class="pn">Vinden i rosbuskarna. Avlägset vatten mot sten.</p>
+<p class="pn">Inget annat.</p>
+<p class="pn">Hon lade undan dolken och drog upp ärmen.</p>
+<p class="pn">Bettet var djupt. Fyra tydliga sår, blod som redan började rinna ned mot handleden.</p>
+<p class="pn">Hon kände försiktigt längs underarmen.</p>
+<p class="pn">Inget brutet.</p>
+<p class="pn">Men kraften skulle svikta om hon lät det vara.</p>
+<p class="pn">Ur bältets läderpåse tog hon fram linne, lindade det hårt, drog åt tills smärtan samlades till en punkt.</p>
+<p class="pn">Knöt. Flexade fingrarna.</p>
+<p class="pn">Det fick räcka.</p>
+<p class="pn">Huset reste sig framför henne igen.</p>
+<p class="pn">Tyst.</p>
+<p class="pn">För välordnat för att vara tomt.</p>
+<p class="pn">Luften kring det kändes tätare, som om något redan väntade på andra sidan.</p>
+<p class="pn">Raven tog ett djupt andetag.</p>
+<p class="pn">Lade handen mot dörrens handtag.</p>
+<p class="pn">Kylan från metallen gick rakt in i fingrarna.</p>
+<p class="pn">Hon tryckte ned det.</p>
+<p class="pn">Och klev över tröskeln.</p>
+
+<p class="medium-break">Värmen slog emot henne när dörren stängdes bakom ryggen. Efter nattens fukt kändes det som att stiga in i ett annat element. Ljuset kom från låga lampor i väggfästen, skärmade så att de bara föll nedåt. Taket låg i mjuk skugga. Väggarna var klädda i mörkt trä, djupt polerat. Golvet täckt av tjocka mattor, dova i färgerna, mönster som drog blicken inåt snarare än utåt. Doften av vaxat trä blandades med något annat.
+Sötare.
+Rökelse.
+Inte stark. Men närvarande överallt.</p>
+
+<p class="pn">Ljudet från gatan var borta.
+Kvar fanns en tystnad som inte var tom.
+Ett svagt knäppande från en dold eld någonstans längre in.
+Och något mer.
+En väntan.</p>
+
+<p class="pn">Raven lät blicken svepa över rummet.
+Inget här var valt för att imponera.
+Allt var valt för att fungera.</p>
+
+<p class="pn">En man stod en bit bort. Klädd i svart, ansiktet delvis i skugga. Händerna vilade lätt mot en stav.
+Han rörde sig inte när hon kom in.
+Bara såg.
+När deras blickar möttes nickade han kort och steg åt sidan.
+Inte som en hälsning.
+Som ett konstaterande.</p>
+
+<p class="pn">Hon gick vidare.
+Stegen försvann i mattorna.
+Ljuset blev varmare längre in, fick träet att glöda svagt.
+Väggarna bar målningar – små, noggrant inramade. Jakt. Hav. Stadsscener i nattljus.
+Inget som drog till sig uppmärksamhet på avstånd.
+Allt som krävde att man gick närmare.</p>
+
+<p class="pn">Korridoren fortsatte.
+Och med den känslan av att huset inte bara rymde värme.
+Utan bar den.
+Som en kropp håller andan.</p>
+
+<p class="pn">När hon rundade ett hörn stod en man redan där.
+Lutad mot väggen. Armborstet vilade mot höften.
+Han lyfte blicken långsamt, utan brådska.
+”Du är inte på min lista.”
+Rösten var låg. Saklig.
+Vapnet förblev där det var.
+Men blicken stannade kvar på henne.</p>
+
+<p class="pn">Vägde.</p>
+
+<p class="pn">Raven svarade inte.
+Hon höll kvar hans blick.
+Inte trotsigt. Inte utmanande.</p>
+
+<p class="pn">Bara stilla.</p>
+
+<p class="pn">Tystnaden drog ut.
+Ett mått som fylldes.</p>
+
+<p class="pn">Mannen ryckte till sist på axlarna.
+Flyttade sig åt sidan.
+”Gå då.”
+Inte ett tillstånd.</p>
+
+<p class="pn">Ett val.</p>
+
+<p class="pn">Raven passerade utan att se sig om.</p>
+`
+
+      },
+      {
+        type: "marker",
+        style: "default"
+      },
+      {
+        type: "text",
+        content: `<p>Korridoren smalnade. Väggarna var klädda i mörk sammet som svalkade när hon kom nära.
+Vid slutet stod en tung dörr på glänt. Ljuset därinne var djupare. Rödare.
+Raven klev över tröskeln.
+Rummet var större än väntat, nästan kvadratiskt. I mitten stod ett lågt bord av svartpolerad sten. Tre ljus brann i tunga silverstakar. Lågorna stod stilla.
+På andra sidan bordet stod en gestalt i mörk kåpa. Ansiktet dolt av huvan.
+Men blicken kändes.
+Den vilade redan på henne.</p>
+<p class="pn">Längs den högra väggen stod en man med armborst. Redan laddat.
+Han följde henne utan att röra sig mer än nödvändigt.
+Allt i honom var väntan.</p>
+<p class="pn">”Du har kommit för att prövas.”
+Rösten var låg. Inte höjd. Ändå fyllde den rummet.</p>
+<p class="pn">Raven stannade där hon stod.
+”Jag vill ha styrkan att skydda det som är mitt.”
+Orden föll utan tvekan.
+Blicken gled kort mot armborstet.
+Tillbaka till gestalten.</p>
+<p class="pn">”Styrka ges inte.”</p>
+<p class="pn">En paus.
+”Den tas.”</p>
+<p class="pn">Gestalten rörde sig knappt när hon fortsatte:
+”Här visar du om du har viljan.”</p>
+<p class="pn">En kort nick.
+Armborstmannen tog ett steg fram. Höjde vapnet.
+Siktade.</p>
+<p class="pn">Den Mörka talade igen, långsamt:
+”Du skall följa mina kommandon.”
+Ett andetag.
+”De är enkla.”
+”Stå still. Gå fram. Backa ett steg. Vänd dig om. Titta på mig.”
+En paus.
+”Gör du fel, skjuter han.”
+”Tvekar du, skjuter han.”</p>
+<p class="pn">”Förstår du?”
+”Ja.”</p>
+<p class="pn">”Då börjar vi.”</p>
+<p class="pn">”Vänd dig om.”
+Raven roterade. Kontrollerat.
+Kände blicken i ryggen. Inte som en känsla. Som ett faktum.</p>
+<p class="pn">”Stå still.”
+Hon låste kroppen. Inte spänd. Bara stilla.</p>
+<p class="pn">”Gå fram.”
+Två steg. Jämna.
+Strängen gav ifrån sig ett svagt, torrt ljud när den följde rörelsen.</p>
+<p class="pn">”Titta på mig.”
+Hon vred huvudet. Möttes av mörkret under huvan.
+Blicken där inne rörde sig inte.
+Den väntade.</p>
+<p class="pn">”Backa ett steg.”
+Hon gled bakåt. Vikten rätt. Balansen kvar.</p>
+<p class="medium-break">Den Mörka höjde handen.
+Armborstmannen sänkte vapnet, men släppte det inte ur beredskap.
+”Det var den enkla delen,” sade hon. ”Nu vill jag se hur du rör dig när det verkligen gäller.”</p>
+<p class="pn">En dörr öppnades i rummets hörn.
+Två figurer steg in. Mörkgrå dräkter utan tecken. Var sin trästav.
+Inget överflöd.
+Bara vana.</p>
+<p class="pn">”Du behöver inte vinna,” fortsatte den Mörka.
+En kort paus.
+”Men du måste läsa dem.”
+”Och handla därefter.”</p>
+<p class="pn">Ett ögonblicks stillhet.
+”Dör du, misslyckas du.”</p>
+<p class="pn">De började röra sig.
+Inte snabbt.
+Rätt.</p>
+<p class="pn">Den första kom lågt.
+Ett hugg mot knäna.
+Raven vek undan, lät slaget passera och rullade vidare i samma rörelse.
+Den andra var redan där. Ett slag mot huvudet.
+Hon tog det på underarmen.
+Smärtan var skarp, klar.
+Men rörelsen stannade inte där.
+Hon gled innanför räckvidden, tog ett steg in och drev honom bakåt med axeln.</p>
+<p class="pn">Den första var tillbaka.
+Snabbare nu.
+Hon duckade, grep staven och ryckte till.
+Balansen bröts.
+Ett steg fram. En spark mot bröstet.
+Han slog i väggen.</p>
+<p class="pn">Den Mörkas röst skar genom rummet:
+”Stå still.”</p>
+<p class="pn">Raven frös.
+Mitt i rörelsen.
+Andningen stannade inte — men allt annat gjorde det.</p>
+<p class="pn">Den kvarvarande motståndaren stannade en meter ifrån.
+Armborstmannen var där igen.
+Inte synlig i rörelse.
+Men i konsekvens.</p>
+<p class="pn">Tystnad.</p>
+<p class="pn">”Bra,” sade den Mörka till sist.
+”Du vet när du ska röra dig… och när du ska låta bli.”</p>
+<p class="pn">En ny paus.</p>
+<p class="pn">”Sänk blicken.”</p>
+<p class="pn">Pulsen steg.
+Men Raven rörde sig inte.</p>
+<p class="pn">Orden låg kvar i rummet.
+Fel.
+Inte svåra.
+Fel.</p>
+<p class="pn">Hon höll kvar blicken.</p>
+<p class="pn">Ett långsamt leende anades under huvan.
+”Bra.”
+En kort, nästan nöjd andning.
+”De flesta faller där.”</p>
+<p class="medium-break">Den Mörka reste sig långsamt från bordet och gick fram till henne.
+Kåpan svepte över mattan med ett lågt ljud, som om tyget själv bar på röster.</p>
+<p class="pn">”Du har visat styrka.”
+En kort paus.
+”Och kyla.”
+Blicken låg kvar på Raven.
+”Nu vill jag se din vilja.”</p>
+<p class="pn">Hon nickade.
+Armborstmannen steg fram.
+Vapnet lyftes.
+Rakt mot Ravens bröst.</p>
+<p class="pn">”Stå kvar.”</p>
+<p class="pn">Luften i rummet förändrades.
+Inte tätare — mer… fokuserad.
+Allt som inte var viktigt föll bort.
+Kvar fanns strängen.
+Pilen.
+Avståndet mellan dem.</p>
+<p class="pn">Raven rörde sig inte.
+Hon såg hur spänningen i vapnet byggdes upp.
+Kände hur kroppen svarade — redo att kasta sig undan.
+Hon lät det passera.</p>
+<p class="pn">”Om du tvekar nu,” sade den Mörka, ”är du värdelös för mig.”
+En paus.
+”Om du inte kan möta hotet och äga det, kan du gå.”</p>
+<p class="pn">Ett andetag.</p>
+<p class="pn">Raven tog ett steg fram.
+Inte snabbt.
+Inte trotsigt.
+Bara framåt.</p>
+<p class="pn">Pilen låg nu så nära att hon kunde känna kylan från metallen genom tyget.</p>
+<p class="pn">Den Mörka höjde handen.
+Strängen släppte inte.
+Armborstmannen sänkte vapnet först när gesten fullföljdes.</p>
+<p class="pn">Tystnad.</p>
+<p class="pn">”Du går inte undan.”
+En antydan till något i rösten. Inte värme.
+Något närmare… godkännande.
+”Bra.”</p>
+<p class="pn">Hon vände sig bort, som om beslutet redan var taget.
+”Nu är du min att forma.”</p>
+<p class="pn">Rummet föll tillbaka i stillhet.</p>
+<p class="pn">”Du har gjort vad som krävdes,” fortsatte hon.
+”Men det du mött här är ingenting.”</p>
+<p class="pn">Ett steg bort från ljuset.
+Skuggorna slöt sig kring henne.</p>
+<p class="pn">”Jag kommer att skicka hinder i din väg.”
+”Ibland som en fiende.”
+”Ibland som en vän.”</p>
+<p class="pn">En paus.</p>
+<p class="pn">”Du kommer inte veta vilket.”</p>
+<p class="pn">”Behandla varje prövning som om ditt liv står på spel.”
+”För det gör det.”</p>
+<p class="pn">Hon tog ytterligare ett steg tillbaka.
+Ansiktet försvann helt i skuggan.</p>
+<p class="pn">”Du är fri att gå.”
+En kort paus.
+”För nu.”</p>
+<p class="pn">Armborstmannen flyttade sig åt sidan.
+Pekade mot en sidodörr.
+Ljuset därifrån var blekare. Svalare.</p>
+<p class="pn">Raven stod kvar ett ögonblick.
+Inte för att tveka.
+För att förstå vad hon just accepterat.</p>
+<p class="pn">Sedan gick hon.</p>
+<p class="medium-break">Korridoren var tyst.
+Bara hennes steg och ett svagt droppande någonstans långt bort bröt stillheten.</p>
+<p class="pn">Hon passerade en förgrening.
+En sval vindpust drog över nacken. För kall för att höra till huset.
+Sedan rösten:
+”Du håller allt under kontroll.”
+En paus.
+”För familjen.”
+”För att överleva.”
+Ett andetag, nära nu.
+”Men jag undrar… om du kan släppa det.”</p>
+<p class="pn">Raven stannade.
+”Vem är där?”
+Rösten höll. Pulsen gjorde det inte.</p>
+<p class="pn">Kylan kom först.
+Sedan trycket.
+En spets mot huden.</p>
+<p class="pn">Kniven vilade vid hennes hals.
+Inte pressad.
+Bara… där.
+Ingen hand.
+Ingen rörelse.
+Bara precision.</p>
+<p class="pn">”De lät dig gå,” sade rösten, nu bakom henne.
+”Min prövning gör inte det.”</p>
+<p class="pn">Eggen rörde sig långsamt längs halsen.
+Inte för att skära.
+För att visa att den kunde.</p>
+<p class="pn">Raven stod still.
+Inte för att hon var tvungen.
+För att varje annan rörelse var fel.</p>
+<p class="pn">”Vänd dig om.”</p>
+<p class="pn">Hon gjorde det.
+Kontrollerat.</p>
+<p class="pn">Han stod där.
+NightBlade.
+Mörkret låg över honom, men dolde inte blicken.
+Den var densamma som tidigare.
+Inte nyfiken.
+Inte hotfull.
+Mätande.</p>
+<p class="pn">”Bra.”</p>
+<p class="pn">Kniven försvann. Inte bortdragen.
+Borta.</p>
+<p class="pn">”Vi är inte färdiga.”
+En kort paus.
+”Du och jag.”</p>
+<p class="pn">Sedan var han borta.
+Inte snabbt.
+Inte dramatiskt.
+Bara… inte där längre.</p>
+<p class="pn">Raven stod kvar.
+Hjärtat slog hårdare nu.
+Inte av rädsla.
+Av något annat.</p>
+<p class="pn">Hon gick vidare.</p>
+<p class="pn">Korridoren ledde nedåt.
+Ljuset förändrades. Blev kallare.
+Till slut öppnade den sig mot hallen vid entrén.</p>
+<p class="pn">Den första vakten stod kvar.
+Som om tiden inte rört honom.</p>
+<p class="pn">Han räckte fram en hopvikt lapp.
+”Från honom.”</p>
+<p class="pn">Raven tog den utan att öppna.</p>
+<p class="pn">Vakten sträckte fram en liten, mörk plunta med träinfattningar.
+”Och det här.”
+Han visade kort med fingrarna.
+”Vrid här.”
+En liten rörelse.
+”En droppe. Genom spetsen.”</p>
+<p class="pn">Hon tog emot det.
+Kände vikten.
+Glas. Metall.
+Noggrant balanserat.</p>
+<p class="pn">”Han säger att du kommer att veta när.”</p>
+<p class="pn">Vakten höll kvar blicken ett ögonblick.
+Inte hotfullt.
+Bedömande.</p>
+<p class="pn">”En annan gång får du öppna den vägen själv,” sade han och nickade bakåt mot panelen.
+”Inte i kväll.”</p>
+<p class="pn">Raven stoppade lappen djupt i fickan.
+Pluntan ovanpå.
+Dolt.
+Men inte bortglömt.</p>
+<p class="pn">”Du vet vägen ut.”
+Vakten klev åt sidan.</p>
+<p class="pn">Dörren öppnades utan ljud.
+Nattluften slog emot henne.
+Kall. Verklig.</p>
+<p class="pn">Hon gick.
+Utan att se sig om.</p>
+<p class="pn">Lappen låg tung mot benet.
+Inte för sin vikt.
+För vad den betydde.</p>
+
+`
+      },
+      {
+        type: "marker",
+        style: "2_2_3"
+      },
+      {
+        type: "text",
+        content: `<p>Athina satt vid det lilla bordet när hon kom hem. Lampan var nedvriden, men hennes gyllene hår fångade ändå ljuset, som en stilla gloria i rummet.
+”Du ser trött ut,” sade hon mjukt.
+Blicken hade redan fastnat vid de mörka fläckarna på Keris ärm.</p>
+<p class="pn">Keri lossade bältet, drog av sig jackan utan protest när Athina reste sig och hämtade det lilla träskrinet från hyllan.
+Linneduk.
+En liten flaska vinättika.
+En burk med tjock, honungsfärgad salva.
+Doften av örter och kåda spred sig när locket öppnades.</p>
+<p class="pn">”Det ser värre ut än det är,” sade Keri.
+Athina svarade inte.
+Hon fuktade duken, stannade ett ögonblick med den i handen, som om hon lyssnade till något tyst, och började sedan rengöra såret.
+Kylan kom först.
+Sedan svedan.
+Keri drog efter andan mellan tänderna.</p>
+<p class="pn">Athina arbetade vidare utan att skynda.
+Salvan.
+Linnet.
+Hennes händer rörde sig säkert, nästan lika invant som Keris egna vid nål och tråd.</p>
+<p class="pn">När hon böjde sig ned för stövlarna gled hennes hand upp längs kappan.
+Stannade.
+Plockade upp något.</p>
+<p class="pn">”Vad är det här?”</p>
+<p class="pn">Keri såg pluntan och den hopvikta lappen i hennes hand.
+”Inte ditt.”
+Orden kom snabbt.
+Hon tog tillbaka dem innan Athina hann öppna.</p>
+<p class="pn">Ett ögonbryn höjdes.
+Inte ifrågasättande.
+Förstående.</p>
+<p class="pn">Athina sade inget mer.
+Lade undan burk och dukar.
+Lät tystnaden falla tillbaka i rummet.</p>
+<p class="pn">När Keri blev ensam vek hon upp pappret under lampans svaga ljus.
+Tre korta rader.
+Samma handstil som tidigare.</p>
+<p class="pn">Hon läste dem en gång.
+Sedan en gång till.
+Långsammare.</p>
+<p class="pn">Utan att tveka lyfte hon glaset från lampan och förde pappret mot lågan.
+Elden tog det direkt.
+Orden försvann innan de hann fästa.</p>
+<p class="pn">Askan föll tyst ned i fatet.
+Keri satt kvar en stund.
+Såg den sista glöden slockna.</p>
+<p class="pn">Sedan släckte hon lampan.</p>
+`
+      }
+    ]
+  }
+}, 
+chapter05: {
+  menuTitle: "Kapitel 5",
+  title: "Kapitel 5 – ",
+  pageType: "chapter",
+  hidden: true,
+  showPlaceholder: false,
+  chapter: {
+    subtitle: "?",
+    dropcap: "?",
+    opening: `?`,
+
+    sections: [
+      {
+        type: "text",
+        content: `
+?`
+
+      },
+      {
+        type: "marker",
+        style: "1_1_1"
+      },
+      {
+        type: "text",
+        content: `?
+`
+      },
+      {
+        type: "image",
+        src: "assets/songs/?.png",
+        alt: "?",
+        caption: "?",
+        size: "medium"
+      }
+    ]
+  }
 }
+
 
 };

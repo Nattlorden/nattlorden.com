@@ -94,10 +94,11 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
       v3 - Revision baserad på senare erfarenhet - första rimligt publika version
       
       <a class="internal-link" data-section="story" data-page="chapter01">
-  Kapitel 1 - <i>Keri McCree</i>  -  v3  
-      </a><a class="internal-link friend-only" data-section="story" data-page="chapter02">
-  Kapitel 2 - <i></i>  -  v3  
-      </a>
+  Kapitel 1.v3 - <i>Keri McCree</i></a><a class="internal-link friend-only" data-section="story" data-page="chapter02">
+  Kapitel 2.v3- <i>Raven</i></a><a class="internal-link friend-only" data-section="story" data-page="chapter03">
+  Kapitel 3.v3 - <i>Morgonljus</i></a><a class="internal-link friend-only" data-section="story" data-page="chapter04">
+  Kapitel 4.v3 - <i>Nemiran</i>    -  (inskjutet i v3, del av kap3 i v2 med följande knuff)</a><a class="internal-link friend-only" data-section="story" data-page="chapter05">
+  Kapitel 5.v3 - <i></i></a>
       `,
     showPlaceholder: false
     },

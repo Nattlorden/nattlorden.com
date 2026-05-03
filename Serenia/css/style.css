@@ -470,6 +470,11 @@ main {
   margin-top: 2.2em;
 }
 
+.chapter-text p.pn {
+  text-indent: 0;
+  margin-bottom: 0.45em;
+}
+
 .chapter-text i {
   font-style: italic;
   opacity: 0.95;
@@ -526,6 +531,70 @@ main {
 .marker-1_1_1{
 background-image: url("../assets/ui/divider_1_1_1.png");
 }
+
+.marker-1_1_2{
+background-image: url("../assets/ui/divider_1_1_2.png");
+}
+.marker-default{
+background-image: url("../assets/ui/divider_1_1_2.png");
+}
+
+.marker-1_1_3{
+background-image: url("../assets/ui/divider_1_1_3.png");
+}
+.marker-1_1_4{
+background-image: url("../assets/ui/divider_1_1_4.png");
+}
+.marker-1_1_5{
+background-image: url("../assets/ui/divider_1_1_5.png");
+}
+.marker-1_1_6{
+background-image: url("../assets/ui/divider_1_1_6.png");
+}
+.marker-1_1_7{
+background-image: url("../assets/ui/divider_1_1_7.png");
+}
+.marker-1_1_8{
+background-image: url("../assets/ui/divider_1_1_8.png");
+}
+.marker-1_1_9{
+background-image: url("../assets/ui/divider_1_1_9.png");
+}
+.marker-1_1_10{
+background-image: url("../assets/ui/divider_1_1_10.png");
+}
+.marker-1_1_11{
+background-image: url("../assets/ui/divider_1_1_11.png");
+}
+.marker-1_1_12{
+background-image: url("../assets/ui/divider_1_1_12.png");
+}
+.marker-1_1_13{
+background-image: url("../assets/ui/divider_1_1_13.png");
+}
+.marker-1_1_14{
+background-image: url("../assets/ui/divider_1_1_14.png");
+}
+.marker-1_1_15{
+background-image: url("../assets/ui/divider_1_1_15.png");
+}
+.marker-1_1_16{
+background-image: url("../assets/ui/divider_1_1_16.png");
+}
+
+.marker-2_2_3{
+background-image: url("../assets/ui/divider_2_2_3.png");
+}
+
+
+.marker-3_1_3{
+background-image: url("../assets/ui/divider_3_1_3.png");
+}
+
+.marker-button_thread{
+background-image: url("../assets/ui/button_thread.png");
+}
+
 
 .chapter-illustration {
   margin: 34px auto;
