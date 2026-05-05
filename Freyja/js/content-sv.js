@@ -424,6 +424,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "honey",
       spotify: "https://open.spotify.com/album/7lKQokuHTsr59EyJXFiFOo?si=vdzjaJxYSRy9X_df31o7Lw",
       youtube: "https://youtu.be/1PXu0vSRGeM?list=RD1PXu0vSRGeM"
+    },
+    {
+      title: "She Who Turns the Threshold",
+      image: "assets/covers/She who turns 3k.png",
+      section: "music",
+      page: "sheWhoTurns",
+      spotify: "https://open.spotify.com/album/2HWttYODbAIsOQaK0G2UAC?si=6iPADskwRQaBI16w0qb14Q",
+      youtube: "https://youtu.be/j1XmYdNKDmw"
     }
   ],
   showPlaceholder: false
@@ -1990,6 +1998,70 @@ Belladonna on my breath
 Your name inside the candlelight
 Honey of nightshade
 Stay with me through the night`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   sheWhoTurns: {
+    title: "She Who Turns the Threshold",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/She who turns 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `She walks where the last frost breaks
+Barefoot on the edge of endings
+Breath of iron, breath of bloom
+She names what stays, what withers
+
+Ash to air, and air to seed
+What was silent now must answer
+All that hunted in the dark
+Has no claim beneath her gaze
+
+Turn, turn the hidden wheel
+Let the old skin fall to ember
+Call the blood, awaken root
+Unbind the sleeping thunder
+
+She lifts the unseen flame
+Not to hold, but to become
+Through her passing, all is tried
+Through her fire, all is named
+
+Drive it out—what clings, what gnaws
+Break the teeth of winter’s whisper
+No more shadow in the marrow
+No more night within the bone
+
+Come the green, the wild, the fierce
+Come the swelling under silence
+Every branch and every vein
+Drinks the pulse she leaves behind
+
+Rise, what waited
+Rise, unbroken
+Rise, untaken by the cold
+All that faltered
+All that faded
+Now returns a hundredfold
+
+Between what was and what will be
+She stands, she burns, she opens
+No gate remains, no fear endures
+Where her will is spoken
+
+And in her wake—
+No dark can root
+No life denied
+No season mute
+`,
   showPlaceholder: false
       }
     ],

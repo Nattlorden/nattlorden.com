@@ -98,12 +98,14 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
   Kapitel 2.v3- <i>Raven</i></a><a class="internal-link friend-only" data-section="story" data-page="chapter03">
   Kapitel 3.v3 - <i>Morgonljus</i></a><a class="internal-link friend-only" data-section="story" data-page="chapter04">
   Kapitel 4.v3 - <i>Nemiran</i>    -  (inskjutet i v3, del av kap3 i v2 med följande knuff)</a><a class="internal-link friend-only" data-section="story" data-page="chapter05">
-  Kapitel 5.v3 - <i></i></a>
+  Kapitel 5.v3 - <i>Det som följer</i>     - (slutet i v2 knuffat vidare till kap6.v3)</a><a class="internal-link friend-only" data-section="story" data-page="chapter06">
+  Kapitel 6.v3 - <i></i>     - (slutet i 4.v2 knuffat vidare till kap6.v3)</a>
       `,
     showPlaceholder: false
     },
 
     ...chaptersSV_01_05,
+    ...chaptersSV_06_10,
 
     timeline: {
       menuTitle: "Tidslinje",

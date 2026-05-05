@@ -1212,32 +1212,493 @@ chapter05: {
   showPlaceholder: false,
   chapter: {
     subtitle: "?",
-    dropcap: "?",
-    opening: `?`,
+    dropcap: "Mtight",
+    dropcapAdjust: -10,
+    opening: `<p class="chapter-opening adjust-down">örker — och ändå ljus.</p>`,
 
     sections: [
       {
         type: "text",
-        content: `
-?`
+        content: `<p>En grå skymning utan källa, som om himlen låg som ett lock över världen och höll dagen ute.
+Hon gick barfota över kall sten. Stegen ekade, trots att inga väggar syntes.</p>
+
+<p class="pn">Långt borta drogs något över metall.
+En kedja.
+Långsamt.</p>
+
+<p class="pn">När hon rörde sig framåt var det som om marken gled undan.
+Inte hon som gick.
+Världen som flyttade sig.</p>
+
+<p class="pn">En rörelse i ögonvrån.
+En gestalt.
+Hög. Still.
+Något i handen.</p>
+
+<p class="pn">Hon såg den inte.
+Hon visste vad det var.</p>
+
+<p class="pn">Kniven låg plötsligt i hennes egen hand.
+Kall.
+För lätt.</p>
+
+<p class="pn">En droppe hängde från spetsen.
+Mörk.
+Den föll inte.</p>
+
+<p class="pn">Hon höjde blicken.
+Han stod där.
+På andra sidan det grå rummet.
+Huvan dolde ansiktet, men det spelade ingen roll.
+Hon visste ändå att han såg rakt igenom henne.
+</p>
+
+<p class="pn">”Du vet vad som väntar.”
+Rösten var nära.
+Och långt borta.</p>
+
+<p class="pn">Gestalten tog ett steg.</p>
+
+<p class="pn">Marken försvann.</p>
+
+<p class="pn">Hon föll.</p>
+
+<p class="pn">Och vaknade.</p>
+
+<p class="pn">Hjärtat slog hårt.
+Handen knuten.
+Som om den fortfarande höll något.</p>
+`
 
       },
       {
         type: "marker",
-        style: "1_1_1"
+        style: "default"
       },
       {
         type: "text",
-        content: `?
+        content: `<p>Hon låg kvar en stund och stirrade upp i takets mörka bjälkar.
+Drömmen låg kvar. Inte som en bild.
+Som en känsla.</p>
+
+<p class="pn">Dramond.
+Hon behövde se honom.
+I dagsljus.</p>
+
+<p class="pn">Golotha var redan vaken när hon klev ut.
+Morgonens gråljus låg över de våta gatstenarna. Doften av vedrök blandades med salt och tjära.
+Huset bakom henne reste sig tungt över gatan, övervåningen utskjutande, fönstren smala och blyinfattade.</p>
+
+<p class="pn">Hon tog sidogatan ned mot marknaden.
+Husen lutade in mot varandra, tvättlinor spända mellan dem som låga tak.
+Ljudet av träskor mot sten.
+Rop från försäljare.
+Gnisslet från en vagn som släpades över ojämn mark.</p>
+
+<p class="pn">När gatorna öppnade sig mot vattnet låg dimman kvar över kajerna.
+Masttoppar stack upp ur diset som mörka spjut.
+Kranarnas armar pekade ut mot kanalen.
+Rep i ringar.
+Tunnor.
+Män som ropade över kättingars klang.</p>
+
+<p class="pn">Hon gick mot kajdelen där briggen legat kvällen innan.</p>
+
+<p class="pn">Tom.</p>
+
+<p class="pn">Bara en vakt stod kvar, armarna hårt korsade mot kylan.</p>
+
+<p class="pn">”Hon gick vid tredje nattklockan,” sade han innan Keri hann fråga.
+Rösten var sträv.
+”Vi fick väcka folk för att öppna passagen. Hela huset var uppe.”</p>
+
+<p class="pn">Keri såg ut över vattnet.
+Strömmen rörde sig som vanligt.
+Som om inget hänt.</p>
+
+<p class="pn">”Var ägaren med?”</p>
+
+<p class="pn">Vakten ryckte på axlarna.
+”Såg honom inte.”</p>
+
+<p class="pn">Det sade inget.
+Och allt.</p>
+
+<p class="pn">Hon vände sig om.</p>
+
+<p class="pn">Då såg hon honom.</p>
+
+<p class="pn">En bit bort på kajen.
+Stilla.
+Armarna bakom ryggen.</p>
+
+<p class="pn">Blicken vilade på henne för länge.</p>
+
+<p class="pn">När deras ögon möttes vände han sig.
+Försvann in i dimman.</p>
+
+<p class="pn">Keri stod kvar ett ögonblick.</p>
+
+<p class="pn">Sedan gick hon.</p>
 `
       },
       {
-        type: "image",
-        src: "assets/songs/?.png",
-        alt: "?",
-        caption: "?",
-        size: "medium"
-      }
+        type: "marker",
+        style: "button_thread"
+      },
+      {
+        type: "text",
+        content: `<p>Butiken låg tyst i skenet från en ensam oljelampa.
+Hyllorna kastade långa skuggor över väggarna, och doften av läder och ulltyg låg kvar i luften.
+Keri satt vid disken med liggaren öppen framför sig, pennan vilande i handen.</p>
+
+<p class="pn">En dov knackning på bakdörren fick henne att lyfta blicken.
+Inte en leverantör.
+För kort. För otålig.</p>
+
+<p class="pn">Hon gick genom lagret och öppnade på glänt.
+Fabien stod där.
+Mörk rock. Blicken rörde sig över gränden bakom henne innan han ens såg på henne.
+Han klev in utan att vänta, stängde dörren och drog bulten för.</p>
+
+<p class="pn">Hans ögon fastnade direkt på disken.
+På liggaren.
+På fjädern.</p>
+
+<p class="pn">”Var fick du den där?”
+Rösten låg. Inte överraskad.
+Bekräftande.</p>
+
+<p class="pn">”Den fanns här när jag öppnade,” sade Keri.
+Hon höll tonen jämn.</p>
+
+<p class="pn">Fabien stod stilla ett ögonblick.
+Såg inte på henne.
+Såg på fjädern.</p>
+
+<p class="pn">”Det är inget du vill hitta här,” sade han till sist.
+”Inte om du vill att det här stället ska stå kvar.”</p>
+
+<p class="pn">Han stack handen innanför rocken och lade en liten läderpung på disken.
+Tömde den.</p>
+
+<p class="pn">Mynten rullade ut.
+Tunga.
+Fel.</p>
+
+<p class="pn">Keri plockade upp ett.
+Dvärgprägling.
+Samma tyngd som tidigare.</p>
+
+<p class="pn">”Dvärgmynt,” sade Fabien.
+”Samma sort som jag sett hos… andra.”
+En kort paus.
+”Människor som inte finns längre.”</p>
+
+<p class="pn">Keri höjde blicken.
+”Inte finns?”</p>
+
+<p class="pn">Fabien nickade.
+”De behövde inte vara ett hot.”
+”Det räckte att de var i vägen.”</p>
+
+<p class="pn">Han pekade mot fjädern.
+”Det där betyder att de vet att någon rör sig här.”
+En blick mot henne nu.
+”Och att de tittar tillbaka.”</p>
+
+<p class="pn">Keri lät handen vila kvar på myntet.
+Kylan i metallen kändes tydligare nu.
+”Vad är det du säger?”</p>
+
+<p class="pn">Fabien svarade inte direkt.
+Han lyssnade först.
+Mot väggarna.
+Mot tystnaden.</p>
+
+<p class="pn">”Att det här inte stannar vid dig.”
+”Dina systrar är synliga genom dig.”
+En kort paus.
+”Och någon har börjat följa spåren.”</p>
+
+<p class="pn">Orden lade sig.
+Inte högt.
+Men tungt.</p>
+
+<p class="pn">Fabien såg mot dörren igen.
+Beslutade något.</p>
+
+<p class="pn">”Jag har mer.”
+”Inte här.”</p>
+
+<p class="pn">Han mötte hennes blick nu.
+För första gången utan att väga den.</p>
+
+<p class="pn">”Utanför Golotha.”
+”Snart.”</p>
+
+<p class="pn">”Varför skulle jag lita på dig?”</p>
+
+<p class="pn">Ett svagt leende.
+Inte vänligt.
+Inte hånfullt.</p>
+
+<p class="pn">”För att jag redan vet vem du är.”</p>
+
+<p class="pn">Keri stelnade.</p>
+
+<p class="pn">Fabien lutade sig en aning närmare.
+”Raven.”</p>
+
+<p class="pn">Namnet föll mellan dem som något hårt.</p>
+
+<p class="pn">”Vi ses,” sade han.
+”Om du vill veta mer.”
+En kort paus.
+”Och det vill du.”</p>
+
+<p class="pn">Han drog undan bulten och var ute igen innan hon hann svara.</p>
+
+<p class="pn">Keri stod kvar.
+Myntet i handen.
+Fjädern i liggaren.</p>
+
+<p class="pn">Två spår.
+Samma riktning.</p>
+
+<p class="pn">Trycket i bröstet kom inte från rädsla.</p>
+
+<p class="pn">Från att det började bli tydligt.</p>
+
+<p class="medium-break">Natten blev en rad av avbrutna drömmar.
+Keri vaknade gång på gång utan att veta varför, och låg sedan stilla och lyssnade på huset.
+För tyst.
+När gryningsljuset till slut letade sig in genom fönstret kände hon sig mer sliten än kvällen innan.</p>
+
+<p class="pn">Framåt förmiddagen kom en äldre kund för att hämta ett omsytt plagg.
+Hon betalade, granskade sömmarna med små, nöjda nickningar.
+Sedan lutade hon sig fram över disken.</p>
+
+<p class="pn">”Vet du… det är en sak jag måste säga.”
+Rösten var låg nu.
+”När jag lämnade in det här stod en karl tvärs över gatan.”
+En paus.
+”Han står där nu också.”</p>
+
+<p class="pn">Keri höjde blicken.
+”Hur såg han ut?”</p>
+
+<p class="pn">”Lång. Mörk rock.”
+Kvinnan ryckte lätt på axlarna.
+”Inte mycket till rörelse. Bara… kvar.”
+En kort blick mot dörren.
+”Och han tittar mer hit än någon annanstans.”</p>
+
+<p class="pn">Hon tog sitt plagg och gick.</p>
+
+<p class="pn">Keri följde henne med blicken.
+Och lät den sedan glida vidare ut genom fönstret.</p>
+
+<p class="pn">Han stod där.
+Halvt dold bakom en tunna.
+För stilla.</p>
+
+<p class="pn">När deras blickar möttes vände han bort huvudet.
+Men flyttade sig inte.</p>
+
+`
+      },
+      {
+        type: "marker",
+        style: "writing"
+      },
+      {
+        type: "text",
+        content: `<p>Keri väntade tills butiken var tom.
+Dörren stängd.
+Regeln på plats.</p>
+
+<p class="pn">Hon tog fram skrivdonen.
+Lampan fladdrade svagt när hon lade fram ett rent blad.</p>
+
+<p class="pn">Orden fick inte vara många.
+Inte tydliga.
+Men tillräckliga.</p>`
+      },
+      {
+        type: "letter",
+        content: `<p>Aylyn.
+Det vi talade om gäller nu.
+Hämta dem snart.
+Lita inte på någon du inte redan känner.</p>`
+      },
+      {
+        type: "text",
+        content: `<p>Hon läste igenom en gång.
+Inte för innehållet.
+För vad som kunde läsas mellan raderna.</p>
+
+<p class="pn">Sedan vek hon bladet och sigillerade det med butikens stämpel.
+Inte Raven.
+Det här skulle kunna passera.</p>
+
+<p class="pn">Nästa steg var redan bestämt.</p>
+
+<p class="pn"><i>Tyrahran.</i> De hade vuxit upp i samma kvarter och delat många kvällar längs hamnens mörka kajer, innan han tagit hyra på en båt som gick Thard upp mot Moleryn. Han låg i hamn till nästa gryning. Sedan skulle han norrut — och ingen annan skulle gå i tid.</p>
+
+<p class="pn">Hon fann honom på värdshuset där sjömännen höll till.
+Han log när han såg henne.
+Det försvann snabbt.</p>
+
+<p class="pn">”Jag behöver att det här kommer fram,” sade hon och räckte över brevet.
+”Till Aylyn.”</p>
+
+<p class="pn">Han tog emot det direkt.
+Såg inte på sigillet.</p>
+
+<p class="pn">”Jag lägger ut i gryning,” sade han. ”Jag vet hur jag finner honom.”
+En kort paus.
+”Vad har hänt?”</p>
+
+<p class="pn">”Inget för det här rummet.”
+Hon höll kvar hans blick.
+”Men det är viktigt.”</p>
+
+<p class="pn">Tyrahran nickade långsamt.
+Inte frågande längre.</p>
+
+<p class="pn">”Då kommer det fram.”</p>
+
+<p class="pn">När Keri gick tillbaka genom staden hade ljuden förändrats.
+Inte högre.
+Bara… mer påtagliga.</p>
+
+<p class="pn">Hon visste vad som återstod.</p>
+
+<p class="pn">Systrarna.
+Och butiken.</p>
+
+<p class="pn">Två nya ansikten bakom disken.
+Sådana som kunde hålla öppet.</p>
+
+<p class="pn">Och sedan vänta och se.</p>
+
+<p class="medium-break">Golothas textilgillehus låg på en lugn sidogata, en kort promenad från marknaden.
+När Keri steg in möttes hon av doften av nyvävt tyg och det rytmiska dunket från vävstolar.
+Längs väggarna låg balar i dämpade färger, noggrant vikta och märkta med sigill.</p>
+
+<p class="pn">Bakom den massiva ekdisken stod gillesmästare Giorgi.
+Mörkgrön rock, guldtråd i fållen. Den runda magen spände tyget snarare än dolde den.
+Skägget vitt, yvigt.
+Blicken klar.</p>
+
+<p class="pn">”Keri.”
+Han kom runt disken, tog hennes hand.
+”Du är lika lik din far som alltid.”</p>
+
+<p class="pn">Hans handslag var varmt.
+Men inte bara det.
+Mätande.</p>
+
+<p class="pn">”Han hade varit stolt.”</p>
+
+<p class="pn">”Det hoppas jag,” svarade hon.
+Och gick vidare till ärendet.</p>
+
+<p class="pn">En yngre mästare tog emot hennes specifikationer för två tillfälliga biträden.
+Giorgi stod kvar.
+Såg mot gatan.
+Väntade tills ljudet utifrån låg rätt.</p>
+
+<p class="pn">”Det där tyget från senast…”
+Rösten lägre nu.
+”…blev det till något värt att bära?”</p>
+
+<p class="pn">”Det blev något.”</p>
+
+<p class="pn">Han nickade.
+Tog in svaret.
+Inte innehållet.
+Tonfallet.</p>
+
+<p class="pn">”Och Dramond.”
+Nu en viskning.</p>
+
+<p class="pn">”Jag vet inte vad han är.”
+En kort paus.
+”Men han är för — slät.”</p>
+
+<p class="pn">Giorgis blick höll hennes.
+”En sådan man bär alltid något som inte syns.”</p>
+
+<p class="pn">En hand på hennes arm.
+Inte tung.
+Men avsiktlig.</p>
+
+<p class="pn">”Undvik honom om du kan.”</p>
+
+<p class="pn">Keri mötte blicken.
+”Jag klarar mig.”</p>
+
+<p class="pn">Ett kort leende.
+Inte helt övertygat.</p>
+
+<p class="pn">”Det tvivlar jag inte på.”
+En paus.
+”Men att klara sig… är inte alltid det bästa utfallet.”</p>
+
+<p class="pn">När hon lämnade gillehuset hade hon två biträden ordnade till morgondagen.
+Och en varning hon inte helt kunde skaka av sig.</p>
+
+<p class="medium-break">Keri fann dem i arbetsrummet.
+Athina satt böjd över en fåll.
+Kelly vid hyllan, vek tyg med mer kraft än nödvändigt.</p>
+
+<p class="pn">”Det är dags att gå till den gamla fristaden.”
+Hon stannade inte upp innan orden kom.
+”Ni minns var Salvas bor.”</p>
+
+<p class="pn">Athina såg upp.
+Nålen vilade stilla mellan fingrarna.
+<p class="pn">”Där vi bodde… efter far.”</p>
+
+<p class="pn">”Just det.”</p>
+
+<p class="pn">”Ni går dit. Stannar där tills jag säger att det är säkert att komma hem.”
+En paus.
+”Några dagar. Kanske mer.”</p>
+
+<p class="pn">”Packa bara det ni behöver.”
+”Resten stannar.”</p>
+
+<p class="pn">Kelly och Athina utbytte en blick.
+Kort.
+Men inte tom.</p>
+
+<p class="pn">”Och butiken?” frågade Athina.</p>
+
+<p class="pn">”Jag har ordnat det.”
+”Två biträden. De börjar i morgon.”</p>
+
+<p class="pn">Kelly nickade.
+”Vi förstår.”</p>
+
+<p class="pn">Men blicken låg kvar hos Athina ett ögonblick för länge.</p>
+
+<p class="pn">Athina återgick till sömmen.
+Kelly till tyget.</p>
+
+<p class="pn">Allt såg ut som vanligt.</p>
+
+<p class="pn">Keri tog det som ett svar.
+Vände sig och gick.</p>
+
+<p class="pn">Bakom henne låg rummet kvar i tystnad.</p>
+
+<p class="pn">Och något annat.</p>
+
+`     }
+      
     ]
   }
 }

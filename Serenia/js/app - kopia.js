@@ -5,6 +5,10 @@ let lastAlbumPage = null;
 
 const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
 
+if (hasFriendAccess()) {
+  document.documentElement.classList.add("friend-access");
+}
+
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
@@ -130,7 +134,7 @@ function renderTrackList(albumKey) {
 }
 
 function openSongLyrics(songKey) {
-  lastAlbumPage = currentPage; // spara var vi kom ifrån
+  lastAlbumPage = currentPage; // spara var vi kom ifrï¿½n
 
   currentSection = "music";
   currentPage = songKey;
@@ -160,7 +164,7 @@ function goBackToAlbum() {
 
 function renderSongPage(songKey) {
   const song = musicSongs[songKey];
-  if (!song) return "<p>Sången kunde inte hittas.</p>";
+  if (!song) return "<p>Sï¿½ngen kunde inte hittas.</p>";
 
   return `
     <section class="song-page">
@@ -223,6 +227,59 @@ function renderTimeline(timeline) {
   return html;
 }
 
+function renderChapter(page) {
+  const chapter = page.chapter;
+  let html = `
+    <article class="chapter-page">
+      <h2 class="chapter-title">${page.title}</h2>
+  `;
+
+  if (chapter.subtitle) {
+    html += `<div class="chapter-subtitle">${chapter.subtitle}</div>`;
+  }
+
+  if (chapter.dropcap && chapter.opening) {
+    html += `
+      <p class="chapter-opening">
+        <img class="dropcap-image" src="assets/story/${chapter.dropcap}.png" alt="">
+        ${chapter.opening}
+      </p>
+    `;
+  }
+
+  if (chapter.sections && chapter.sections.length > 0) {
+    chapter.sections.forEach(part => {
+      if (part.type === "text") {
+        html += `
+          <div class="chapter-text">
+            ${part.content}
+          </div>
+        `;
+      }
+
+      if (part.type === "marker") {
+        html += `
+          <div class="chapter-marker marker-${part.style || "default"}"></div>
+        `;
+      }
+
+      if (part.type === "image") {
+        const imageSize = part.size ? `chapter-image-${part.size}` : "chapter-image-medium";
+
+        html += `
+          <figure class="chapter-illustration ${imageSize}">
+            <img src="${part.src}" alt="${part.alt || ""}">
+            ${part.caption ? `<figcaption>${part.caption}</figcaption>` : ""}
+          </figure>
+        `;
+      }
+    });
+  }
+
+  html += `</article>`;
+  return html;
+}
+
 function renderContent() {
   const main = document.getElementById("content");
   const content = getContent();
@@ -274,7 +331,7 @@ function renderContent() {
     return;
   }
 
-  // 2. Låtsidor med lyrics
+  // 2. Lï¿½tsidor med lyrics
   if (currentSection === "music" && page.lyrics) {
     let html = `<h2>${page.title}</h2>`;
     let backButton = "";
@@ -344,8 +401,25 @@ function renderContent() {
     return;
   }
 
-  // 4. Vanliga sidor
-  let html = `<h2>${page.title}</h2>`;
+    // 4. Kapitelsidor
+  if (page.pageType === "chapter" && page.chapter) {
+    let html = renderChapter(page);
+
+    if (page.showPlaceholder !== false) {
+      html += `
+        <div class="placeholder-box">
+          ${siteMeta[lang].placeholder}
+        </div>
+      `;
+    }
+
+    main.innerHTML = html;
+    return;
+  }
+
+  // 5. Vanliga sidor
+
+    let html = `<h2>${page.title}</h2>`;
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
@@ -478,7 +552,7 @@ function renderContent_old() {
   
   }
 
-  // Albumsidor: hämtar bild + tracklist från musicData
+  // Albumsidor: hï¿½mtar bild + tracklist frï¿½n musicData
   if (
     currentSection === "music" &&
     musicData.albums[currentPage]
@@ -516,7 +590,7 @@ function renderContent_old() {
     return;
   }
 
-  // Låtsidor med lyrics
+  // Lï¿½tsidor med lyrics
   if (currentSection === "music" && page.lyrics) {
 
   let backButton = "";
@@ -652,7 +726,7 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  // Spara var vi kom ifrån innan vi går till textsidan
+  // Spara var vi kom ifrï¿½n innan vi gï¿½r till textsidan
   if (currentSection === "music") {
     lastAlbumPage = currentPage;
   }
