@@ -431,6 +431,14 @@ Only our own landscapes — seen with different eyes.`,
       page: "sheWhoTurns",
       spotify: "https://open.spotify.com/album/2HWttYODbAIsOQaK0G2UAC?si=6iPADskwRQaBI16w0qb14Q",
       youtube: "https://youtu.be/j1XmYdNKDmw"
+    },
+    {
+      title: "Rúnir ♦ Runes",
+      image: "assets/covers/Rúnir Runes 3K.png",
+      section: "music",
+      page: "runes",
+      spotify: "https://open.spotify.com/album/6xzaXoBBJeGaS70onj1RAa?si=ezq1bUt4RdyrS5CIcxrSig",
+      youtube: "https://www.youtube.com/watch?v=lYXz8UpExRw&list=OLAK5uy_kOYlaRxd_QVEUuijkbmpotV70wcybH4oA"
     }
   ],
   showPlaceholder: false
@@ -2060,6 +2068,204 @@ And in her wake—
 No dark can root
 No life denied
 No season mute
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   runes: {
+    title: "Rúnir ♦ Runes",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Rúnir Runes 3K.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `<h3>Rúnir</h3>
+Í hinum forna lundi,
+þar sem rætur geyma nöfn,
+áðr feðr vorir gengu
+og jörðin huldi sönn.
+Þar stóðu steinar þrír sem vörðr,
+kringum þögult eið,
+myrk helgr geometría
+sem mótaði veraldar leið.
+
+Ein stóð með rúnarbyrði,
+hinar héldu forna mátt;
+loftið þykknaði í kvöldi
+sem vakið væri af nátt.
+
+Gakk um hringinn,
+brjóttu eigi línuna.
+Þrjú spor út,
+eitt spor inn.
+Hér verður hvert andadráttur eiðr
+og sannleikur að synd.
+
+ “Arglaugr veri varðmaðr —
+ en argur dauði slái þann brjótandi.”
+ Rúnir rista loftið nú,
+ rúnir muna, rúnir vaka.
+ “Véla spái ek,” hvíslið brennur
+ kringum stein Bjarkartorpsins.
+ “Rúnar sterkar lagða ek hér,”
+ og þær minnast þess er engi sér.
+
+Jörðin helt leyndarmáli,
+hulið án nafns og sár;
+hvorki lík né harmur,
+heldr gamall, bundinn már.
+Helgi hringsins skelfr nú
+er þú stígr milli ár;
+sem moldin sjálf vilji vara:
+Snertu stein — og þú fær tár.
+
+Þú finn’r orðanna þunga,
+minni blóðsins rís;
+og rödd í skugga hvíslar:
+Fættu eigi hringinn—
+nema þú viljir borga með líf og vís.
+
+Þrír steinar standa
+þar sem tíminn krýp’r.
+Þrjár skuggir falla
+við jaðar næturrýp.
+Þrjú eiða bundin
+áður dögun kom—
+þrjár raddir eftir
+sem enn kveða dóm.
+
+ “Arglaugr veri varðmaðr —
+ en argur dauði slái þann brjótandi.”
+ Rúnir vaka, rúnir vega
+ þat er þú dylr og þat er þú skyn.
+ “Véla spái ek,” hringrinn blossar
+ fyr þeim er villrast gengu inn.
+ “Rúnar sterkar lagða ek hér,”
+ eldri en andi,
+ eldri en minn.
+
+Áðr orð fengu hold,
+áðr nöfn fengu hljóð,
+áðr tími vann heim,
+var moldin helg í sjóð.
+
+Argr er eggjan
+fyr fót þanns blindr gengr inn,
+fyr þann er rýfr hinn heilaga hring
+með enga blóðsins minn.
+
+Þríhyrningrinn þegir—
+þó biðr hann þik mjúk:
+Lát jörðina verða dauðum,
+og rúnirnar undir skóg og hlíð.
+
+ “Arglaugr veri varðmaðr —
+ en argur dauði slái þann brjótandi.”
+ Helg orð í helgri jörð,
+ forn bölvan óhaggð.
+ “Véla spái ek.” Seildir glóa
+ fyr þeim er stíga of nær.
+ “Rúnar sterkar lagða ek hér,”
+ eldri en allt
+ sem þú heldur kær.
+
+<hr>
+<h3>Runes</h3>
+
+In the ancient grove
+where roots remember names
+before our fathers walked here,
+before their buried claims.
+Three stones stood as guardians
+around a silent vow,
+a room of dark geometry
+that shaped the world somehow.
+
+One stone bore the burden
+of words the earth still keeps;
+the others held its power
+as the living air grew deep.
+
+Walk the circle,
+but never break the line.
+Three steps outward,
+one step in.
+Every breath becomes an oath,
+and truth becomes a sin.
+
+ “Harmless be the watcher —
+ harm befalls the breaker.”
+ Runes carve the air tonight,
+ — runes remember, runes awaken.
+ “I foresee ruin,” the whisper burns,
+ around Björketorp’s hidden stone.
+ “Mighty runes were laid here,”
+ They remind what no one recalls.
+
+The earth hid a secret
+buried without a name—
+not a body, not a grief,
+but an old, unbroken claim.
+The sacred room is trembling
+as you step between the years,
+as if the ground itself is warning:
+Touch the stone and you court fears.
+
+You feel the weight of language,
+the memory in your blood,
+and someone murmurs:
+Do not cross it—
+if you value flesh and blood.
+
+Three stones stand
+where time folds in.
+Three shadows fall
+beyond the rim.
+Three oaths spoken
+before dawn began—
+three voices left
+that still command.
+
+ “Harmless be the watcher —
+ harm befalls the breaker.”
+ Runes carve the air tonight,
+ — runes remember, runes awaken.
+ “I foresee ruin,” the whisper burns,
+ around Björketorp’s hidden stone.
+ “Mighty runes were laid here,”
+ and they remind what none recall.
+
+Before words had flesh,
+before names had sound,
+before time had claim,
+this soil was sacred ground.
+
+Harm is a blade
+for the foot that enters blind,
+for the one who breaks the circle
+with no blood in their mind.
+
+The triangle is silent—
+but you feel its plea:
+Leave the earth to the dead,
+and to the runes beneath the trees.
+
+ “Harmless be the watcher —
+ harm befalls the breaker.”
+ Holy words in holy earth,
+ a curse that stands unshaken.
+ “I foresee ruin.” Sigils smolder
+ for those who step too near.
+ “Mighty runes I laid here,”
+ older than all
+ you hold as dear.
 `,
   showPlaceholder: false
       }
