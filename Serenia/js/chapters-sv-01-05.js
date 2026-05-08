@@ -1206,12 +1206,12 @@ Såg den sista glöden slockna.</p>
 }, 
 chapter05: {
   menuTitle: "Kapitel 5",
-  title: "Kapitel 5 – ",
+  title: "Kapitel 5 – Det som följer",
   pageType: "chapter",
   hidden: true,
   showPlaceholder: false,
   chapter: {
-    subtitle: "?",
+    subtitle: "",
     dropcap: "Mtight",
     dropcapAdjust: -10,
     opening: `<p class="chapter-opening adjust-down">örker — och ändå ljus.</p>`,
