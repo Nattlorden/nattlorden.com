@@ -298,16 +298,409 @@ The ideas diverged and resulted in three versions, all of which felt complete. T
     },
 
     instrumentals: {
-      menuTitle: "Instrumental themes",
-      title: "Instrumental themes",
-      text: `Beyond a simple curiosity to write instrumental music, there is another thought that is difficult to ignore: the rapid development of AI. It is not unreasonable to imagine that one day it may become possible to generate — if not an entire feature film — then at least coherent sequences.
+  menuTitle: "Instrumental Themes",
+  title: "Instrumental Themes",
+  text: `Beyond a simple curiosity about writing instrumental music, there is also another thought that is difficult to ignore: the rapid development of AI. It is not unreasonable to imagine that one day it may become possible to generate — if not entire feature films — then at least longer coherent sequences and narratives.
 
-Such imagery calls for a different kind of music than the sung.
+Such imagery requires a different kind of music than sung songs.
 
-At the time of writing, no symphonic work for Serenia has yet been released. A first movement is, however, approaching completion, and will be introduced into the timeline <i>Echoes in Order</i> ahead of any official release.`,
-      showPlaceholder: false
+Writing orchestrally is also difficult in an entirely different way from writing ordinary songs. It belongs to another tradition, another craft, and in many cases another education. The Beatles needed George Martin for their orchestrations. Björn & Benny had Anders Eljas.
+
+I lack the classical vocabulary and formal training, so the most viable path for me has become:<ol>
+<li>Describing emotions, movement, and atmosphere — which, ironically enough, has proven to be one of the most useful things in conversations with AI.</li>
+<li>Working thematically — inspired by documentaries about John Williams’ work on Star Wars, where identities, conflicts, and relationships are given their own musical languages.</li>
+<li>Consciously standing on the shoulders of older composers. Classical music is, in most cases, far removed from copyright concerns, and it would be foolish not to learn from people who already solved many of these problems better than I could myself.</li>
+</ol><h2>The Giants</h2>It would be easy to lean on the most famous names and write grand, monumental symphonic music. But that is not really what Serenia needs.
+
+I am not primarily searching for heroism.
+I am searching for narrative orchestral music with personal identities.
+
+<h3>Lili Boulanger</h3>Relationships, guilt, inner conflict, and female perspectives without clichés.
+
+<h3>Gustav Holst</h3>War, rituals, processions, and cosmic indifference rather than heroism.
+
+<h3>Arvo Pärt</h3>Grief, decisions, sacrifice, and the price of truth.
+
+<h3>Einojuhani Rautavaara</h3>The supernatural, the Weave, and <i>things that never quite allow themselves to be understood</i>.
+
+<h3>Jean Sibelius</h3>Lines of fate, slow catastrophes, and power accumulating over time.
+
+<h3>Ralph Vaughan Williams</h3>Memories, places, inner monologues, and moral doubt.
+
+For a more distinctly Nordic tone, Sibelius is sometimes joined by Allan Pettersson and Ralph Lundsten.
+(Carl Nielsen and Edvard Grieg were also candidates and may very well appear later.)
+
+<h2>Thematics</h2><h3>Keri / Raven</h3>Dual nature. Harmonious, but not identical.
+
+I am hopelessly in love with the cello as an instrument. One beautiful day I will buy one for myself. I have also had an almost improbable number of cellists around me throughout life, so it is probably inevitable that the cello takes on a more prominent role here than might otherwise be considered normal.
+
+Keri = viola
+Raven = cello
+
+Raven may also be supported by a gentle contrabass underneath.
+
+<h3>“The Other Woman”</h3>Serenima, Kaerith, Marvae, and other women who carry allure, intelligence, power, or danger without being the same person.
+
+Here I seek lighter timbres:<ul>
+<li>alto flute</li>
+<li>oboe d’amore</li>
+<li>bass clarinet</li>
+<li>soft woodwinds in combination rather than pure flute</li>
+</ul><h3>“Masculine Support”</h3>
+Joreth, Aylyn, Fabien, Hund, and Dramond (when he is not NightBlade).<ul>
+<li>oboe</li>
+<li>English horn</li>
+<li>pizzicato contrabass</li>
+<li>low strings</li>
+</ul>Not dominance. Rather stability, resonance, and direction.
+
+<h4>A few additional core themes are also defined for:</h4><ul>
+<li>the magical</li>
+<li>the divine</li>
+<li>darkness and danger</li>
+</ul>Individual scenes are then built by combining these musical languages with one another.
+<h2>Brief Guiding Principles</h2><b>Coordinate emotion, not form.
+Coordinate posture, not music.
+Coordinate ethics, not aesthetics.</b>`,
+  showPlaceholder: false
+  },
+
+  symph1: {
+      menuTitle: "- Serenia Symphony No.1",
+      title: "Serenia Symphony No.1 (Opus 253)",
+      blocks: [
+     { type: "image", src: "assets/songs/Symphony No1 3k.png", size: "small",  caption: `<b><i>Symphony No.1</i></b> <span class="meta-text">Published: May 6, 2026</span>` },
+{ type: "text", content: `
+  <a href="https://open.spotify.com/album/5s077kCVBL0AIyARiG1bQl?si=NrFn9dpYSOWZ9D4WFj3ZrA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://www.youtube.com/watch?v=AdJ4n_xAbTo&list=OLAK5uy_n1zhulo_nsOexXuMc9HP-84ZrG6xGx5LM" target="_blank" rel="noopener noreferrer">YouTube</a>
+  
+  <h3>Overture</h3>
+  D minor, 4/4, 72bpm
+
+  The threshold.  
+  A world that does not care.  
+  A city breathing through the night without concern.
+  
+  Golotha unfolds.  
+  Goods, wine, voices, proximity.  
+  Attractive, but never safe.
+  
+  The cost of remaining here.  
+  No violence, only the sense that something will be taken from you if you are careless.
+
+  Deceleration.  
+  No conclusion.  
+  Attention, not fear.
+
+────────────
+<h3>Satin After Dark - Notturno, con cautela</h3>
+D minor, 4/4, 60-75bpm
+
+Night in Golotha. The city feels dangerous, yet familiar.  
+Keri on unfamiliar ground. Elegant, controlled, forward motion without hesitation.  
+The man — warm, inviting, charming, articulate, yet never without intent. Tension beneath the surface.  
+Raven close to the surface — deeper, latent danger. Leaning toward intimacy, but never deciding.  
+Interruption — a slowing as though holding one's breath.  
+Ending without resolution. A voice lingers before fading. The night continues.
+
+────────────
+<h3>Nightraven - Allegro ombroso</h3>
+D minor, 4/4, 110bpm
+
+Stealth, elegance, predator.  
+Unseen movement through the sleeping city.  
+The atmosphere nocturnal, intelligent, dangerous rather than openly violent.  
+The image of Raven gliding between rooftops and streetlights.  
+The introduction of Raven as an identity separate from Keri — colder, sharper, increasingly mythic.  
+Influenced by gothic chamber orchestra, modern dark fantasy instrumentation, and restrained cinematic tension.
+
+────────────
+<h3>Nemiran Street Adagio oscuro</h3>
+D minor, 4/4, 72bpm
+
+Raven arrives at Nemiran Street. The house feels awake.
+
+Raven is tested by the house's 'inhabitants'.
+
+Confrontation. NightBlade tests her nerve. No resolution. The air grows heavier.
+
+────────────
+<h3>Presto furioso</h3>
+A minor. Allegro - 135bpm
+
+Panic, escape.  
+Interrupted motion, breath lost.
+
+Shock.  
+Interruption. No movement.
+
+────────────
+<h3>Adagio lamentoso</h3>
+G major, 4/4, 85bpm
+
+After the shock.  
+Stillness.  
+The body has stopped.
+
+Grief.  
+Quiet, controlled sorrow.
+
+End.  
+No conclusion.  
+Responsibility remains.
+
+────────────
+<h3>Training - Andante deciso</h3>
+G major, 3/4, 110bpm
+
+Training.  
+Repetition, effort, no result.
+
+Endurance.  
+The body adapts. The hand continues.
+
+Breakthrough.  
+Strength carries through. The work is complete.
+
+────────────
+<h3>Mirror - Adagio, con tensione</h3>
+Atonal, rubato between 60 and 110bpm
+
+Reflection.  
+Mirror image.  
+Recognition and hesitation.
+
+Tension.  
+Silent internal conflict.
+
+Transition.  
+The space narrows.
+
+────────────
+<h3>Herth-Akan - Grave rituale</h3>
+D minor, 4/4, 120bpm
+
+Temple.  
+Dark stillness.  
+A wordless choir observes.
+
+The trial.  
+An unnatural battle.  
+Controlled violence.
+
+Necessary death.  
+Undramatic.  
+No mercy.
+
+Afterward.  
+Raven remains.  
+So does the ritual.
+
+────────────
+<h3>Liber - Lento misterioso</h3>
+G major, 4/4, 110bpm
+
+The library.  
+The place listens.
+
+The books.  
+Knowledge offered.  
+Without intention?
+
+The mirror-book.  
+What you are.  
+Reflected back.
+
+────────────
+<h3>Lighthours lament</h3>
+D minor, 4/4, 75bpm
+
+The ruin.  
+Cold stone beneath moonlight.
+
+Reflections.  
+Light moving across the sea.
+
+Recognition.  
+A distant memory breathes.  
+And fades.
+
+────────────
+<h3>Tracks in snow - Allegro inquieto</h3>
+G major, 4/4, 120bpm
+
+Tracks.  
+Continued movement.  
+The snow reveals you.
+
+Pursuit.  
+Pressure increases.  
+No escape.
+
+Confrontation.  
+Five against one.  
+Brutal necessity.
+
+Intervention.  
+Unexpected help across the ravine.
+
+Afterward.  
+Breathing.  
+Pain.  
+Survival.
+
+────────────
+<h3>Negotiations - Andante considerato</h3>
+G major, 3/4, 110bpm
+
+Consideration.  
+A question without resistance.
+
+Protection.  
+A problem accepted.
+
+Possibility.  
+A horizon opens.
+
+Decision.  
+Nothing spoken.  
+Everything falls into place.
+
+────────────
+<h3>Ilvir - Grave theurgicum</h3>
+E minor, 4/4, 135bpm
+
+Descent.  
+Weight, nausea.  
+Ritual.
+
+The sanctuary.  
+Heaviness.  
+Silence.
+
+Presence.  
+Motionless.  
+Everything changes.
+
+The gift.  
+Something placed.  
+No response permitted.
+
+Exit.  
+The world continues.  
+Something subtly misaligned.
+
+────────────
+<h3>Anisha - Grave, inevitabile</h3>
+D minor, 4/4, 140bpm
+
+The godstone.  
+Ancient power answers.
+
+Realization.  
+Understanding arrives too late.
+
+The adversary.  
+He was already here.
+
+Lock.  
+Nothing can be undone.
+
+────────────
+<h3>Hru - Processionale immobile</h3>
+D major, 4/4, 110bpm
+
+Stillness.  
+The world waits.
+
+The first step.  
+The stone begins to move.
+
+Procession.  
+Movement outside time.
+
+Arrival.  
+The journey ends.  
+Nothing reacts.
+
+────────────
+<h3>Araka-Kalai - Conflagratione biologica</h3>
+Primarily D minor, 4/4, ~145 BPM
+
+The perfect order.  
+Cold precision marches forward.
+
+Disruption.  
+The organic disturbs the pattern.
+
+Overgrowth.  
+Life multiplies beyond control.
+
+Collapse.  
+Perfection fails.
+
+Survival.  
+What lives, remains.
+
+────────────
+<h3>NightBlade's Death - Adagio funebre</h3>
+G major, rubato, 3/4, 72bpm
+
+Aftermath.  
+The battlefield lies silent.
+
+False safety.  
+Love lost.
+
+The action.  
+Without emphasis.
+
+Collapse.  
+Strength fails.
+
+Sleep.  
+Consciousness concealed.
+
+────────────
+<h3>The Eye - Adagio, restitutio</h3>
+G minor, 4/4, 110bpm
+
+Restoration.  
+What was placed — reclaimed.
+
+Emptiness.  
+Nothing replaces it.
+
+The Eye.  
+A part returned.
+
+Afterward.  
+Life continues.  
+Changed.
+
+────────────
+<h3>Epilogo sospeso (part I)</h3>
+D major (movement), 4/4, 70bpm
+
+Afterward.  
+The danger has passed.
+
+Possibilities.  
+The horizon opens.
+
+Life.  
+Enough, for now.
+
+Pause.  
+The story breathes.
+
+` }
+        ],
+        showPlaceholder: false
     },
-    songorder: {
+
+
+
+  songorder: {
       menuTitle: "Echoes in Order",
 title: "Echoes in Order",
 showPlaceholder: false,

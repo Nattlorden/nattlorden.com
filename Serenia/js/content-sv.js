@@ -552,13 +552,758 @@ Idéerna tog olika riktningar och resulterade i tre versioner som jag var nöjd 
     instrumentals: {
       menuTitle: "Instrumentala teman",
       title: "Instrumentala teman",
-      text: `Utöver en ren nyfikenhet på att skriva instrumentalt finns också en annan tanke som är svår att bortse från: den snabba utvecklingen inom AI. Det är inte orimligt att tänka sig att det en dag blir möjligt att generera — om inte en hel spelfilm — så åtminstone sammanhängande sekvenser.
+      text: `Utöver en ren nyfikenhet på att skriva instrumentalt finns också en annan tanke som är svår att bortse från: den snabba utvecklingen inom AI. Det är inte orimligt att tänka sig att det en dag blir möjligt att generera — om inte hela spelfilmer — så åtminstone längre sammanhängande sekvenser och berättelser.
 
-Till sådana bilder krävs en annan typ av musik än den sjungna.
+Till sådana bilder krävs en annan sorts musik än den sjungna.
 
-I skrivande stund har inget symfoniskt verk för Serenia ännu publicerats. En första del närmar sig dock, och kommer att införas i tidslinjen <i>Ekon i ordning</i> redan innan ett officiellt släpp.`,
+Att skriva orkestralt är dessutom svårt på ett helt annat sätt än att skriva vanliga låtar. Det är en annan tradition, ett annat hantverk och i många fall en annan utbildning. The Beatles behövde George Martin för sina orkestreringar. Björn & Benny hade Anders Eljas.
+
+Jag saknar den klassiska vokabulären och skolningen, så den mest framkomliga vägen för mig har blivit:<ol>
+<li>Att beskriva känslor, rörelser och stämningar — vilket ironiskt nog visat sig vara en av de mest användbara sakerna i samtal med AI.</li>
+<li>Att arbeta tematiskt — inspirerat av dokumentärer om John Williams arbete med Star Wars, där identiteter, konflikter och relationer får egna musikaliska språk.</li>
+<li>Att medvetet ställa mig på axlarna av äldre tonsättare. Klassisk musik ligger i de flesta fall långt bortom upphovsrättsliga problem, och det vore dumt att inte lära av människor som redan löst många av dessa problem bättre än jag själv hade kunnat.</li>
+</ol><h2>Giganterna</h2>Det vore enkelt att luta sig mot de mest välkända namnen och skriva pampig, storslagen symfonik. Men det är egentligen inte vad Serenia behöver.
+
+Jag söker inte främst heroism.
+Jag söker narrativ orkestral musik med personliga identiteter.
+
+<h3>Lili Boulanger</h3>Relationer, skuld, inre konflikter och kvinnliga perspektiv utan klichéer.
+
+<h3>Gustav Holst</h3>Krig, ritualer, processioner och kosmisk likgiltighet snarare än heroism.
+
+<h3>Arvo Pärt</h3>Sorg, beslut, uppoffring och sanningens pris.
+
+<h3>Einojuhani Rautavaara</h3>Det övernaturliga, Väven, och <i>sådant som inte riktigt låter sig förstås</i>.
+
+<h3>Jean Sibelius</h3>Ödeslinjer, långsamma katastrofer och makt som ackumuleras.
+
+<h3>Ralph Vaughan Williams</h3>Minnen, platser, inre monologer och moraliskt tvivel.
+
+För mer uttalat nordisk klang får Sibelius ibland sällskap av Allan Pettersson och Ralph Lundsten.
+(Carl Nielsen och Edvard Grieg var också kandidater och kan mycket väl dyka upp senare.)
+
+<h2>Tematik<h2><h3>Keri / Raven</h3>Dubbelnatur. Samstämmiga, men inte identiska.
+
+Jag är hopplöst förälskad i cellon som instrument. En vacker dag köper jag mig en. Dessutom har jag haft ett nästan osannolikt antal cellister i min närhet genom livet, så det är nog ofrånkomligt att cellon får en mer framträdande plats här än vad som kanske är normalt.
+
+Keri = viola
+Raven = cello
+
+Raven kan dessutom gärna stödjas av försiktig kontrabas undertill.
+
+<h3>“Den andra kvinnan”</h3>Serenima, Kaerith, Marvae och andra kvinnor som bär lockelse, intelligens, makt eller fara utan att vara samma person.
+
+Här söker jag ljusare klanger:<ul>
+<li>altflöjt</li>
+<li>oboe d’amore</li>
+<li>basklarinett</li>
+<li>mjuka träblås i kombination snarare än ren flöjt</li>
+</ul><h3>“Manligt stöd”</h3>
+Joreth, Aylyn, Fabien, Hund och Dramond (när han inte är NightBlade).<ul>
+<li>oboe</li>
+<li>engelskt horn</li>
+<li>pizzicato-kontrabas</li>
+<li>låga stråkar</li>
+</ul>Inte dominans. Snarare stabilitet, resonans och riktning.
+
+<h4>Några ytterligare grundteman finns också definierade för:</h4><ul>
+<li>det magiska</li>
+<li>det gudomliga</li>
+<li>mörker och fara</li>
+</ul>Enskilda scener byggs sedan genom att kombinera dessa språk med varandra.
+<h2>Kortfattade förhållningsregler</h2><b>Koordinera känsla, inte form.
+Koordinera hållning, inte musik.
+Koordinera etik, inte estetik.</b>`,
       showPlaceholder: false
     },
+
+    symph1: {
+      menuTitle: "- Serenia Symphony No.1",
+      title: "Serenia Symphony No.1 (Opus 253)",
+      blocks: [
+     { type: "image", src: "assets/songs/Symphony No1 3k.png", size: "small",  caption: `<b><i>Symphony No.1</i></b> <span class="meta-text">Publicerad: 6 maj 2026</span>` },
+{ type: "text", content: `
+  <a href="https://open.spotify.com/album/5s077kCVBL0AIyARiG1bQl?si=NrFn9dpYSOWZ9D4WFj3ZrA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://www.youtube.com/watch?v=AdJ4n_xAbTo&list=OLAK5uy_n1zhulo_nsOexXuMc9HP-84ZrG6xGx5LM" target="_blank" rel="noopener noreferrer">YouTube</a>
+  
+  <h3>Overture</h3>
+  D-moll, 4/4, 72bmp
+
+  Tröskeln. 
+  En värld som inte bryr sig. 
+  En stad som inte bryr sig som andas om natten.
+  
+  Golotha öppnar upp sig. 
+  Varor, vin, röster, närhet.
+  Attraktiv men inte säker.
+  
+  Vad det kostar att stanna här. 
+  Inget våld, men känslan att något kommer att bli taget från dig om du är oförsiktig.
+
+  Nedsaktande.
+  Inget avslut. 
+  Uppmärksamhet, inte rädsla.
+
+────────────
+<h3>Satin After Dark - Notturno, con cautela</h3>
+D-moll, 4/4, 60-75bpm
+
+Natt i Golotha. Staden känns farlig, men välkänd. 
+Keri på för henne okänd mark. Elegant, kontrollerat, framåtrörelse utan tvekan.
+Mannen - varm, inbjudade, charmerande, artikulerad men aldrig utan fullbordan. Spänning under ytan.
+Raven nära ytan - mer djup, latent fara. Lutar mot intimitet, men utan att bestämma sig.
+Avbrott - nedsaktning som att hålla andan.
+Avslut utan upplösning. En röst kvarstår innan den tonar ut. Natten fortsätter.
+
+────────────
+<h3>Nightraven - Allegro ombroso</h3>
+D-moll, 4/4, 110bpm
+
+Smygande, elegans, rovdjur.
+Osedd rörelse genom sovande stan. 
+Atmosfären nattlig, intelligent, farlig snarare än öppet våldsam.
+Bilden av Raven glidande mellan takåsar och gatubelysning.
+Introduktionen av Raven som en från Keri separat identitet, kallare, skapare och ökande mytisk.
+Influerat av gotisk kammarorkester, modern dark fantasy instrumenterinf och återhållen filmisk spänning.
+
+────────────
+<h3>Nemiran Street Adagio oscuro</h3>
+D-moll, 4/4, 72bpm
+
+Raven anländer till Nemiran Street. Huset känns vaket.
+
+Raven provas av husets 'invånare'.
+
+Konfontation. NightBlade testar hennes nerv. Ingen upplösning. Luften tätnar.
+
+────────────
+<h3>Presto furioso</h3>
+A-moll. Allegro - 135bpm
+
+Panik, flykt.
+Avbruten rörlse, tappat andan.
+
+Chock.
+Avbrott. Ingen rörlse.
+
+────────────
+<h3>Adagio lamentoso</h3>
+G-dur, 4/4, 85bpm
+
+Efter chocken.
+Stillhet.
+Kroppen har stannat.
+
+Sorg
+Tyst, kontrollerad sorg
+
+Slut
+Inget avlut.
+Ansvar återstår.
+
+────────────
+<h3>Training - Andante deciso</h3>
+G-dur, 3/4, 110bpm
+
+Träning.
+Reperition, ansträngning, inget resultat.
+
+Uthållning.
+Kroppen anpassar sig. Handen fortsätter.
+
+Genombrott.
+Styrkan bär. Arbetet är klart.
+
+────────────
+<h3>Mirror - Adagio, con tensione</h3>
+Atonal, rubato mellan 60 och 110bpm
+
+Reflektion.
+Spegelbild.
+Igenkännande och tvekan.
+
+Spänning.
+Tyst intern konflikt.
+
+Övergång.
+Utrymmet krymper.
+
+────────────
+<h3>Herth-Akan - Grave rituale</h3>
+D-moll, 4/4, 120bpm
+
+Tempel.
+Mörk stillhet.
+Ordlös kör observerar.
+
+Prövningen.
+Onormal kamp.
+Kontrollerat våld.
+
+Nödvändig död.
+Odramatisk.
+Ingen nåd.
+
+Efter.
+Raven kvarstår.
+Ritualen likaså.
+
+────────────
+<h3>Liber - Lento misterioso</h3>
+G-dur, 4/4, 110bpm
+
+Biblioteket.
+Platsen lyssnar.
+
+Böckerna.
+Kunskap erbjuden.
+Utan intention?
+
+Spegelboken.
+Det du är.
+Återreflekterat.
+
+────────────
+<h3>Lighthours lament</h3>
+D-moll, 4/4, 75bpm
+
+Ruinen.
+Kall sten under månljus.
+
+Reflektikoner.
+Ljuset rör sig på havsytan.
+
+Igenkännelse.
+Ett avlägset minne andas.
+Och falnar.
+
+────────────
+<h3>Tracks in snow - Allegro inquieto</h3>
+G-dur, 4/4, 120bpm
+
+Spår.
+Forsatt rörelse.
+Snön avslöjar dig.
+
+Förföljelse.
+Trycket ökar.
+Ingen flykt.
+
+Konfrontation.
+Fem mot en.
+Brutal nödvändighet.
+
+Intervention
+Oväntad hjälp tvärs ravin.
+
+Efteråt.
+Andning.
+Smärta.
+Överlevnad.
+
+────────────
+<h3> Negotiations - Andante considerato</h3>
+G-dur, 3/4, 110bpm
+
+Övervägande.
+En fråga utan motstånd.
+
+Beskydd.
+Ett problem accepterat.
+
+Möjlighet.
+En horisont öppnar sig.
+
+Beslut.
+Inget sagt.
+Allt faller på plats.
+
+────────────
+<h3>Ilvir - Grave theurgicum</h3>
+E-moll, 4/4, 135bpm
+
+Nedstigande.
+Vikt, illamående.
+Ritual.
+
+Fristaden.
+Tyngd.
+Tystnad.
+
+Närvaro.
+Orörligt.
+Allt förändras.
+
+Gåven.
+Något placerad.
+Inget svar tillåtet.
+
+Utgång.
+Världen fortsätten.
+Något snedjusterat.
+
+────────────
+<h3>Anisha - Grave, inevitabile</h3>
+D-moll, 4/4, 140bpm
+
+Gudastenen.
+Uråldrig kraft svarar.
+
+Insikt.
+Förståelse för sent.
+
+Motståndaren.
+Han var redan här.
+
+Lås.
+Inget kan göras ogjort.
+
+────────────
+<h3>Hru - Processionale immobile</h3>
+D-dur, 4/4, 110bpm
+
+Stillhet.
+Världen väntar.
+
+Det första steget.
+Stenen börjar röra sig.
+
+Procession.
+Rörelse ur tiden.
+
+Ankomst.
+Resan slutar.
+Inget reagerar.
+
+────────────
+<h3>Araka-Kalai - Conflagratione biologica</h3>
+D-moll huvudsakligen, 4/4, ~145 BPM
+
+Den perfekta ordningen.
+Kall precision marcherar upp.
+
+Störning.
+Det organiska stör mönstret.
+
+Överväxt.
+Liv fördubblar sig utan kontroll.
+
+Kollaps.
+Perfektionen fallerar.
+
+Överlevnad.
+Det som lever, återstår
+
+────────────
+<h3>NightBlade's Death - Adagio funebre</h3>
+G-dur, rubaro, 3/4, 72bpm
+
+Efterspel.
+Slagfältet ligger tyst.
+
+Felaktig säkerhet.
+Kärlek förlorad.
+
+Agerandet.
+Utan eftertryck.
+
+Kollaps.
+Styrkan fallerar.
+
+Sömn.
+Medvetande fördolt.
+
+────────────
+<h3>The Eye - Adagio, restitutio</h3>
+G-moll, 4/4, 110bpm
+
+Återställande.
+Det som placerats - återtas.
+
+Tomhet.
+Inget ersätter.
+
+Ögat.
+En del återlämnas.
+
+Efter.
+Livet fortsätter.
+Förändrat.
+
+────────────
+<h3>Epilogo sospeso (part I) </h3>
+D-dur (rörelse), 4/4, 70bpm
+
+Efteråt.
+Faran har passerat.
+
+Möjligheter.
+Horisonten öppnar sig.
+
+Liv.
+Tillräckligt, för nu.
+
+Paus.
+Historien andas.
+
+` }
+        ],
+        showPlaceholder: false
+    },
+/* Overture: Cinematic orchestral score with a prominent solo violin lead, The arrangement features a string ensemble, orchestral percussion, and a grand piano, The solo violin performs a melancholic, legato melody characterized by wide vibrato and expressive portamento, The string section provides harmonic support with sustained pads and rhythmic pizzicato passages, Orchestral percussion includes deep timpani rolls and sharp snare drum accents that emphasize transitions, A grand piano enters with arpeggiated figures in the mid-to-high register, The piece follows a dynamic arc, building from a sparse solo violin opening to a full orchestral crescendo, The tempo is approximately 72 BPM in 4/4 time, likely in the key of D minor 
+[Threshold – the world does not care]
+[Muted strings, slow and static. Minimal harmonic movement. The feeling of an indifferent city breathing at night.]
+
+[The city opens itself]
+[Subtle inner pulse emerges. Low woodwinds hint at warmth and invitation. Goods, wine, voices, closeness — attractive but not safe.]
+
+[What it costs to stay]
+[The texture darkens. Lower registers gather quietly. No violence, only the sense that something can be taken if you are careless.]
+
+[End]
+[The motion slows. No resolution. The listener is alert, not afraid.]
+
+*/
+/* Satin after dark Contemporary classical and cinematic chamber music, The arrangement features a solo cello and a solo violin performing intricate, overlapping melodic lines, The cello provides a rich, resonant lower register with frequent use of double stops and legato phrasing, while the violin executes soaring, lyrical melodies in the upper register, The piece utilizes a call-and-response structure between the two instruments, often converging into harmonized passages, The tempo is rubato, fluctuating between 60 and 75 BPM, with a 4/4 time signature, The key is D minor, The production is dry with a natural room reverb, capturing the mechanical sounds of the bows on the strings and the vibrato of the performers
+[Opening – night in Golotha]
+[Muted strings establish a slow, nocturnal pulse. The city feels dangerous but familiar. No urgency, only awareness.]
+
+[Arrival – Keri in unknown territory]
+[Viola enters with a restrained, confident motif. Elegant, controlled, moving forward without hesitation.]
+
+[The man]
+[A warm, inviting woodwind line appears (alto flute or oboe d’amore), charming and articulate, never fully resolving. Subtle tension beneath the surface.]
+
+[Shift – Raven close to the surface]
+[Low cello begins to resonate under the viola, adding depth and latent danger. The music leans toward intimacy without committing.]
+
+[Interruption]
+[The texture thins. Harmony shifts slightly brighter but remains ambiguous. Motion slows, as if holding breath.]
+
+[End]
+[Music withdraws without resolution. One voice remains briefly, then fades. The night continues.]
+
+*/
+/* Nightraven - Allegro ombroso - Cinematic folk and orchestral hybrid, The arrangement features a prominent cello playing a melodic lead with expressive vibrato and glissando, A rhythmic acoustic guitar provides a driving foundation with percussive strumming and palm-muted accents, A deep, resonant synth bass or sub-bass reinforces the low end, The percussion consists of a steady, mid-tempo kick drum and a subtle shaker, Orchestral strings provide sustained harmonic pads and staccato rhythmic support in the background, The piece is in 4/4 time at 110 BPM in the key of D minor
+
+Dark fantasy orchestral piece with stealth, elegance, and predatory momentum. Driven by pulsing low strings, tense rhythmic patterns, and expressive viola lines, the music follows a figure moving unseen through the sleeping city. The atmosphere is nocturnal, intelligent, and dangerous rather than openly violent. Subtle vocal textures and shadowy harmonies evoke the image of a raven gliding between rooftops and lamplight. This is the emergence of Raven as an identity separate from Keri — colder, sharper, and increasingly mythic. Influences from gothic chamber orchestration, modern dark fantasy scoring, and restrained cinematic tension.
+*/
+
+/* Nemiran Street - Adagio oscuro - Cinematic orchestral score featuring a prominent solo cello and string ensemble, The piece is in D minor at 72 BPM, The solo cello performs a melancholic, legato melody characterized by wide vibrato and expressive portamento, A string section provides harmonic support with sustained pads and rhythmic ostinatos, In the middle section, a subtle electronic pulse and a ticking clock-like percussion element are introduced, creating a sense of urgency, The arrangement builds with layered violins and violas playing tremolo and staccato patterns, The piece concludes with a solo cello fade-out over a low-frequency synth drone
+
+[Approach]
+[Cold muted strings. Raven enters Nemiran Street. The house feels awake.]
+
+[Testing]
+[Low string ostinato, dissonant woodwinds. Earthmaster followers measure her without words.]
+
+[Confrontation]
+[Deep cello, close and dangerous. NightBlade tests her resolve. No resolution. The air tightens.]
+
+
+*/
+/* Presto furioso - Classical violin concerto with orchestral accompaniment, The lead violin performs rapid, virtuosic spiccato and staccato passages, utilizing wide interval leaps and chromatic runs, The orchestral backing consists of a string section providing rhythmic counterpoint and harmonic support through pizzicato and sustained legato phrases, A harpsichord provides continuo support with arpeggiated chords, The tempo is a brisk Allegro at 135 BPM, The piece is in the key of A minor, The structure features alternating tutti and solo sections typical of the Baroque concerto grosso style, The dynamics shift abruptly between forte and piano sections
+
+Presto furioso
+Instrumental dark orchestral piece with a violent, fragmented opening that quickly collapses, The music begins in frantic motion, near exhaustion, with disjointed strings and sharp accents suggesting panic and flight, This opening is brief and unsustainable, Suddenly, the motion breaks completely — silence, shock, arrested breath, Influences: Sibelius (tragic restraint), Shostakovich (collapse after violence, without bombast), Vaughan Williams (mourning without consolation)
+
+[Panic]
+[Fractured motion, running on empty. ]
+
+[Shock]
+[The sound breaks. No movement. ]
+*/
+
+/* Adagio lamentoso - Contemporary folk and chamber pop fusion, The arrangement features a solo cello, acoustic guitar, and a shaker, The cello performs a melodic lead role with frequent use of double stops and expressive vibrato, The acoustic guitar provides rhythmic accompaniment using a steady fingerpicking pattern in 4/4 time, A shaker enters periodically to accentuate the pulse, The tempo is approximately 85 BPM, The piece is in the key of G major, The production is clean with a natural room reverb on the cello and a dry, intimate sound for the acoustic guitar
+
+Instrumental slow lament led by viola, Very slow tempo, restrained and dignified, The opening panic has passed; what remains is quiet, internal grief carried with control, The viola sustains a heavy, human line over sparse muted strings, Minimal harmonic movement, unresolved and weight-bearing, No consolation, no release, no dramatic gestures, The sorrow is calm, intimate, and enduring, Cello is absent or reduced to distant resonance only, Influences: Sibelius (tragic restraint), Vaughan Williams (inner mourning), Shostakovich (aftermath without excess)
+
+[After the shock]
+[Stillness. The body has stopped.]
+
+[Grief]
+[Viola carries the weight. Quiet, controlled sorrow.]
+
+[End]
+[Nothing resolves. Responsibility remains.]
+*/
+/* Training - Andante deciso - Baroque chamber music for string quartet, The arrangement features two violins, a viola, and a cello, The piece is in G major with a 3/4 time signature at 110 BPM, The first violin carries the primary melodic line with ornate trills and rapid sixteenth-note runs, while the second violin and viola provide harmonic counterpoint using staccato eighth-note patterns, The cello maintains a steady bassline, alternating between pizzicato and legato bowing to define the harmonic shifts, The structure follows a binary form with clear cadences and terraced dynamics, The recording has a natural room reverb consistent with a small recital hall
+
+Andante deciso
+Instrumental orchestral piece focused on determination and disciplined effort, Moderate, steady tempo with a sense of forward motion, Cello carries a physical, repetitive line representing training — running, swimming, climbing — persistent and demanding, Viola introduces a slower, precise counter-line representing careful work and focus, The orchestra gradually expands: strings build layered motion, low horns add weight and endurance, subtle percussion reinforces pulse without drama, The music grows stronger through accumulation, not speed or volume, Near the end, cello and viola align in controlled harmony, suggesting physical breakthrough and completed work, No heroics, no fanfare — only earned capability, Influences: Sibelius (architectural growth), Holst (discipline and restraint), Vaughan Williams (human resolve without sentimentality)
+
+[Work]
+[Repetition, effort, no reward.]
+
+[Endurance]
+[The body adapts. The hand continues.]
+
+[Breakthrough]
+[Strength holds. The work is done.]
+*/
+/* Mirror - Adagio, con tensione - Contemporary classical solo violin piece with experimental techniques, The track features a single violin performing a series of staccato and legato phrases, It utilizes rapid glissandi, double stops, and microtonal slides, The performance includes aggressive bow pressure creating scratchy timbres and sudden dynamic shifts from pianissimo to fortissimo, The tempo is rubato, fluctuating between 60 and 110 BPM, The piece is atonal with no fixed key signature, focusing on dissonant intervals and percussive col legno strikes, High-frequency harmonics and sul ponticello bowing create a metallic, thin texture in specific passages
+
+Instrumental dark chamber piece depicting an internal transition, Slow, tense tempo, The piece begins with a solitary viola, fragile and searching, Gradually, a low cello enters, overlapping and pressing against the viola — not in dialogue, but in quiet internal conflict, Sparse strings create sustained tension without rhythm, At the turning point, the viola falls silent and the cello assumes the same musical line, deeper and more controlled, The orchestral texture closes in, darker and more contained, suggesting deliberate suppression rather than violence, No resolution, no release, Influences: Sibelius (internal pressure), Rautavaara (psychological mysticism), Arvo Pärt (stillness under tension), Holst (ritual restraint)
+
+[Reflection]
+[Viola alone. Recognition and hesitation.]
+
+[Tension]
+[Viola and cello overlap. Quiet internal conflict.]
+
+[Transition]
+[The viola withdraws. The cello continues alone. The space closes.]
+*/
+/* Herth-Akan - Grave rituale - Cinematic orchestral score with operatic choral elements, The arrangement features a prominent string section playing staccato rhythmic patterns and sustained legato lines, A deep, resonant brass section provides low-end accents and melodic counterpoints, Orchestral percussion includes heavy timpani rolls, concert bass drum hits, and metallic anvil-like strikes, A full mixed choir performs dramatic, Latin-style vocalizations with a focus on powerful, sustained vowels and sharp consonants, The piece is in D minor at 120 BPM, characterized by a 4/4 time signature with frequent syncopated orchestral hits and a building dynamic intensity
+
+[Intro]
+(Vocalizing)
+
+[Chorus]
+In vos se habas
+Et poesi compare
+In vos se habas
+Et poesi compare
+
+[Bridge]
+(Vocalizing)
+
+[Outro]
+Et poesi compare
+
+
+Grave rituale
+Instrumental dark ritualistic orchestral piece centered on low cello, Very slow to moderate tempo, heavy and oppressive atmosphere, A wordless choir sustains long, cold tones, observing rather than reacting, The music depicts a life-and-death struggle within a shadowed temple: irregular, forceful cello gestures, dark strings, restrained low brass, minimal percussion suggesting heartbeat and ritual, The choir remains detached throughout, never celebrating, The killing is necessary, not triumphant, The final section leaves the cello standing alone, victorious but unchanged, as the temple endures, Influences: Sibelius (dark structural force), Holst (ritual gravity), Rautavaara (mystic darkness), with non-lexical choral texture
+
+[The Temple]
+[Dark stillness. Wordless choir observes.]
+
+[The Trial]
+[Irregular struggle. Controlled violence.]
+
+[The Necessary Death]
+[No drama. No mercy.]
+
+[After]
+[Raven remains. The ritual continues.]
+
+*/
+/* Liber - Lento misterioso - Folk-influenced acoustic piece featuring a prominent solo violin and acoustic guitar, The violin performs a lyrical, folk-style melody with frequent double stops and vibrato, The acoustic guitar provides rhythmic accompaniment using a steady eighth-note strumming pattern, A subtle shaker and light percussion enter later to maintain the tempo, The arrangement is sparse, focusing on the interplay between the bowed strings and the plucked guitar, 110 BPM, Key of G Major, 4/4 time signature
+
+Instrumental dark-fantasy chamber piece with an ancient, arcane atmosphere, Slow and weightless tempo, Low cello moves cautiously through a vast, listening space, Muted high strings and airy woodwinds create the sense of an old library reacting to an unfamiliar presence, Subtle harp or pizzicato textures suggest books, pages, and knowledge offered without intent, The music feels magical but not divine — curious, precise, and outside moral alignment, In the center, the cello is quietly mirrored by another register, suggesting a book that reads the protagonist in return, No tension release, no judgment, no climax, The piece ends open and unresolved, Influences: Sibelius (quiet structural awareness), Rautavaara (mystic ambiguity), early Pärt (non-theistic stillness), Holst (arcane restraint)
+
+[The Library]
+[The space listens.]
+
+[The Books]
+[Knowledge offered without intent.]
+
+[The Mirror Book]
+[What you are is reflected back.]
+*/
+/* lighthouse lament - Cinematic orchestral piece featuring a prominent cello solo and string ensemble, The track begins with a low, resonant cello melody characterized by slow, expressive vibrato and legato phrasing, A second cello enters to provide a counter-melody in a higher register, The arrangement builds with the addition of a rhythmic, staccato string ostinato in the violas and cellos, creating a driving 4/4 pulse, Sustained violin pads provide harmonic support in the upper register, The piece features a gradual crescendo and decrescendo, utilizing natural orchestral dynamics, The tempo is approximately 75 BPM, centered around the key of D minor, The production is clean with a natural hall reverb, emphasizing the woody timbre of the solo string instruments
+
+*/
+
+/* Tracks in snow - Allegro inquieto - Bluegrass and folk instrumental, Acoustic guitar, banjo, and upright bass, 120 BPM, G major, 4/4 time, The banjo plays rapid, syncopated Scruggs-style three-finger rolls with heavy use of hammer-ons and pull-offs, The acoustic guitar alternates between flatpicked melodic runs and boom-chick rhythm patterns, The upright bass plays a steady two-beat pattern on the root and fifth, The arrangement features a call-and-response structure between the banjo and guitar, with each instrument taking alternating lead solos while the other provides rhythmic accompaniment, The production is dry with minimal reverb, emphasizing the percussive attack of the strings
+
+Allegro inquieto
+Instrumental dark action piece with controlled urgency, Moderate to fast tempo with persistent motion, Low cello leads a tense pursuit through a winter landscape, supported by repeating string figures suggesting footsteps and tracking in fresh snow, The atmosphere is cold, focused, and unsentimental, As the confrontation begins, the music tightens into sharp, irregular gestures — five against one, tactical and brutal, A sudden, distant interruption cuts through the texture, representing unexpected aid from across an impassable ravine — precise and cold, not heroic, The final clash is brief and decisive, The piece ends in exhaustion and pain, with the cello alone, slowed and wounded, No triumph, no celebration, Influences: Sibelius (driven structure), Holst (controlled aggression), Shostakovich (violence without glory)
+
+[Tracks]
+[Persistent motion. Snow reveals the path.]
+
+[Pursuit]
+[Pressure increases. No escape.]
+
+[Confrontation]
+[Five against one. Brutal necessity.]
+
+[Intervention]
+[A sudden, distant strike from across the ravine.]
+
+[After]
+[Breathing, pain, survival.]
+
+*/
+/*  Negotiations - Andante considerato  - Classical chamber music featuring a solo flute and a string ensemble, The flute performs a lyrical, legato melody characterized by wide interval leaps and trills, The string section, consisting of violins, viola, and cello, provides a rhythmic accompaniment using a mix of pizzicato and staccato bowing, The cello maintains a steady quarter-note pulse while the violins play syncopated counter-melodies, The piece is in 3/4 time with a moderate tempo of 110 BPM, likely in the key of G major, The arrangement features a call-and-response dynamic between the woodwind and the strings, with occasional crescendos and decrescendos defining the phrasing
+
+Instrumental orchestral piece focused on political persuasion and measured consideration, Moderate, steady tempo with calm forward motion, Viola carries a composed, rational line representing argument and intent, A cool, analytical woodwind voice (alto flute or oboe d’amore) responds with restrained, questioning phrases — curious, not confrontational, The orchestral texture remains stable and dignified, suggesting authority and long-term thinking, Subtle low brass hints at military resources without aggression, The music explores themes of protection from an unseen threat and the possibility of building something new beyond the horizon, No romance, no tension spikes, no climax, The piece settles into quiet resolve rather than triumph, Influences: Vaughan Williams (measured human authority), Sibelius (structural logic), Holst (restraint and civic weight)
+
+[Consideration]
+[A question without opposition.]
+
+[Protection]
+[A problem acknowledged.]
+
+[Opportunity]
+[The horizon opens.]
+
+[Decision]
+[Nothing is spoken. Everything aligns.]
+*/
+
+/* Ilvir - Grave theurgicum  - Symphonic metal with operatic choral arrangements, Distorted electric guitars play palm-muted rhythmic chugging and power chords, Orchestral elements include a prominent string section playing staccato ostinatos and sustained pads, alongside brass accents, The drum kit features rapid double-kick patterns and heavy crash cymbal hits, A large mixed choir provides melodic and harmonic layers with operatic delivery, The arrangement alternates between dense orchestral-choral sections and guitar-driven riffs, 135 BPM, 4/4 time signature, E minor
+
+Instrumental dark sacred orchestral piece depicting a theurgic encounter, Extremely slow tempo, heavy and oppressive atmosphere, Low strings and organ-like sustained harmonies dominate, A deep, wordless choir functions as architectural resonance rather than voices, The music feels physical, damp, and ancient — divine presence expressed through matter, not emotion, Subtle textural shifts suggest stone forming and reshaping itself into a bridge, In the central moment, a solitary viola appears briefly, isolated, as something is placed around the heart of the protagonist — not a blessing, but an implanted capacity, No melody, no consolation, no resolution, Influences: early Arvo Pärt (sacred weight), Holst (ritual gravity), Sibelius (monumental stillness)
+
+[Intro]
+(Ooh)
+(Ooh)
+(Ooh)
+(Ooh)
+
+[Chorus]
+No-ven-dos
+No-ven-dos
+No-ven-dos
+No-ven-dos
+
+[Verse]
+No-ven-dos
+No-ven-dos
+No-ven-dos
+No-ven-dos
+
+[Bridge]
+(Ooh)
+(Ooh)
+(Ooh)
+(Ooh)
+
+[Outro]
+No-ven-dos
+No-ven-dos
+No-ven-dos
+No-ven-dos
+
+[The Descent]
+[Weight, filth, ritual movement.]
+
+[The Sanctuary]
+[Mass and silence.]
+
+[Presence]
+[Nothing moves. Everything is adjusted.]
+
+[The Gift]
+[Something is placed. No response is allowed.]
+
+[Exit]
+[The world continues, slightly misaligned.]
+*/
+
+/* Anisha - Grave, inevitabile - Cinematic orchestral score with a hybrid electronic edge, The arrangement features a prominent string section playing staccato ostinatos and soaring legato melodies, Brass sections provide powerful accents and low-end weight, A driving electronic drum kit with a punchy kick and crisp snare provides a modern rhythmic pulse, complemented by orchestral percussion including timpani and taiko drums, Synthesizer layers add texture with filtered sweeps and rhythmic pulses, The piece is in D minor at 140 BPM in 4/4 time, The structure alternates between high-intensity action sequences and more atmospheric, tension-building segments, Woodwinds provide occasional melodic flourishes and counter-melodies
+
+Grave, inevitabile
+Instrumental dark orchestral piece depicting revelation and inevitability, Very slow, heavy atmosphere with no sense of release, Deep strings and organ-like sustained tones represent the activation of an ancient Godstone, Viola carries a restrained, burdened line of realization, A secondary male voice (woodwind or horn) reacts with shorter, unsettled phrases, expressing shock and resistance, A dark, low string presence enters without drama — static, immovable — representing an antagonist who has always been present, As Earthmaster forces materialize, the texture thickens and the air closes, No rhythm, no climax, no resolution, The music ends locked in place, Influences: Sibelius (architectural inevitability), Holst (ritual gravity), Rautavaara (dark mysticism), early Pärt (weight without motion)
+
+[The Godstone]
+[Ancient power responds.]
+
+[Realization]
+[Understanding arrives too late.]
+
+[The Antagonist]
+[He was already here.]
+
+[Locking]
+[Nothing can be undone.]
+
+*/
+/* Hru - Processionale immobile - Folk-influenced orchestral composition featuring a prominent solo violin and acoustic guitar, The piece is set in 4/4 time at 110 BPM in the key of D Major, A fingerpicked acoustic guitar provides a steady rhythmic pattern of eighth notes, The solo violin performs a lyrical, folk-style melody characterized by frequent double stops, slides, and trills, A small string ensemble provides harmonic support with sustained legato pads, A subtle shaker and light percussion accents appear in the middle section, The arrangement features a call-and-response dynamic between the solo violin and a flute, The piece concludes with a ritardando on a sustained D major chord
+
+Instrumental orchestral piece depicting the procession of ancient stone giants moving outside of time, Extremely slow, immobile tempo, Vast, static sound fields dominate, with deep strings and low brass articulating monumental, isolated steps, Long silences and sustained textures create the sense that the world itself has paused, Subtle, non-rhythmic percussive elements suggest stone, friction, and mass rather than motion, The music feels geological, ancient, and indifferent, with sound functioning as landscape rather than narrative, No melody, no development, no climax, Influences: Sibelius (monumental stillness), Allan Pettersson (endurance), and Ralph Lundsten’s Nordic nature symphonies (timeless environmental sound and suspended motion)
+
+[Stillness]
+[The world waits.]
+
+[The First Step]
+[Stone begins to move.]
+
+[Procession]
+[Movement without time.]
+
+[Arrival]
+[The journey ends. Nothing reacts.]
+
+*/
+
+/* Araka-Kalai - Conflagratione biologica - Orchestral soundtrack with elements of baroque and classical music, The arrangement features a prominent string section including violins, violas, cellos, and double bass, alongside woodwinds like flute and oboe, Brass instruments including trumpets and horns provide melodic accents, Percussion consists of orchestral snare drum, timpani, and crash cymbals, A harpsichord provides rhythmic and harmonic texture with rapid arpeggios and staccato chords, The piece is in 4/4 time with a tempo of 145 BPM, primarily in D minor, The structure alternates between driving, rhythmic sections led by the harpsichord and strings, and more melodic, lyrical passages featuring woodwind solos, High-register violin runs and syncopated brass stabs are characteristic of the faster movements
+
+Large-scale orchestral battle piece depicting a clash between two opposing cosmic forces, One side is cold, precise, and mechanical — strict rhythms, rigid harmonic structures, and clinical orchestration, The opposing force is organic, chaotic, and biological — flowing tempos, shifting modalities, dense string textures, and wordless choral mass, Both musical worlds exist simultaneously, often in conflicting tonal centers, creating intense polytonal tension, As the piece progresses, the organic textures grow, adapt, and overwhelm the rigid structures, not through power but through complexity and excess, The mechanical force collapses into silence, while the biological sound continues, alive and unstable, No heroic triumph — only survival through vitality
+
+[The Perfect Order]
+[Cold precision advances.]
+
+[Interference]
+[Organic matter disrupts the pattern.]
+
+[Overgrowth]
+[Life multiplies beyond control.]
+
+[Collapse]
+[Perfection fails.]
+
+[Survival]
+[What lives, remains.]
+
+*/
+
+/* NightBlade's Death - Adagio funebre - Contemporary classical chamber music featuring a duet between a cello and a violin, The piece is set in 3/4 time at a tempo of 72 BPM in the key of G major, The cello begins with a sustained, lyrical melody in its middle register, utilizing expressive vibrato and legato phrasing, The violin enters with a counter-melody, often harmonizing in thirds and sixths, The arrangement alternates between homophonic textures where both instruments move in rhythmic unison and polyphonic sections where the violin plays soaring, high-register lines over arpeggiated cello figures, Pizzicato techniques are used sparingly by the cello to provide a rhythmic pulse during the violin's melodic passages, The recording features a natural room reverb, capturing the woody resonance of the string instruments, Dynamic shifts are frequent, moving from delicate pianissimo to resonant forte swells
+
+Adagio funebre
+Instrumental elegiac orchestral piece following the aftermath of battle, Very slow, restrained tempo, Solo viola carries an exposed, fragile line of overwhelming grief and mistaken certainty, A low, nearly motionless cello remains beneath, executing necessity without emotional engagement, The orchestral texture is minimal and hollow — no percussion, no brass, only space and breath, The act itself is not dramatized; it occurs quietly, without emphasis, The music sinks into exhaustion and forced rest, ending in suspended stillness rather than resolution, Influences: late Sibelius (desolation), Allan Pettersson (unbearable inner weight), restrained Nordic elegy
+
+[Aftermath]
+[The field is silent.]
+
+[Mistaken Certainty]
+[Love is assumed lost.]
+
+[The Act]
+[It happens without emphasis.]
+
+[Collapse]
+[Strength fails.]
+
+[Sleep]
+[Consciousness withdraws.]
+
+*/
+/* The Eye - Adagio, restitutio - Classical chamber music featuring a solo violin and a string ensemble, The piece is in G minor with a tempo of 110 BPM in 4/4 time, The solo violin performs intricate, virtuosic runs, double stops, and lyrical melodic passages, The accompanying string section consists of violins, violas, cellos, and double basses, providing harmonic support through sustained legato pads and rhythmic pizzicato accents, The arrangement follows a concerto-like structure with alternating tutti and solo sections, The production is dry with a natural room reverb, emphasizing the woody timbre of the string instruments, The dynamics shift frequently between piano and forte, driven by the intensity of the bowing, The cello and double bass maintain a steady rhythmic pulse with staccato eighth notes during the faster passages
+
+Instrumental orchestral piece depicting quiet restitution after divine intervention, Slow, restrained tempo, Viola carries a subdued, emptied line as something vital is removed from the heart of the protagonist, The orchestral texture thins noticeably, allowing silence to speak, After a moment of absence, a small, fragile new sound appears briefly in the high register — a single, luminous gesture suggesting a parting gift, not a replacement, The mood is calm but deeply felt, acknowledging loss without drama and connection without sentimentality, No climax, no consolation, only acceptance, Influences: late Sibelius (quiet resignation), Arvo Pärt (sparse clarity), Nordic elegiac restraint
+
+[Restoration]
+[What was placed is removed.]
+
+[Emptiness]
+[Nothing replaces it.]
+
+[The Eye]
+[A part remains.]
+
+[After]
+[Life continues, altered.]
+*/
+/* Epilogo sospeso (part I) - Classical chamber music for solo violin and piano, The piece features a lyrical, legato violin melody characterized by frequent vibrato and expressive portamento, The piano provides a harmonic accompaniment using arpeggiated eighth-note patterns and sustained block chords, The arrangement follows a rubato feel with significant tempo fluctuations for expressive effect, The violin utilizes the upper register for melodic peaks and the middle register for more somber passages, The recording has a natural room reverb, placing the instruments in a small concert hall space, The dynamic range is wide, moving from delicate pianissimo to resonant forte, The time signature is 4/4 with a moderate tempo around 70 BPM in D major
+
+Instrumental orchestral epilogue with an open, reflective character, Moderate, calm tempo, Viola and cello share space in quiet balance, neither dominating, The orchestral texture is warm but restrained, suggesting stability without finality, Harmonic movement gently opens outward, hinting at new possibilities without defining them, The mood is contemplative, grounded, and quietly expansive — survival acknowledged, reward accepted, future undecided, No climax, no resolution, The music ends suspended, as if pausing mid-thought, Influences: late Sibelius (open endings), Vaughan Williams (human calm), restrained Nordic lyricism
+
+[After]
+[The danger has passed.]
+
+[Possibility]
+[The horizon opens.]
+
+[Life]
+[Enough, for now.]
+
+[Pause]
+[The story breathes.]
+
+*/
+
     /*songorder: {
       menuTitle: "Ekon i ordning",
       title: "Ekon i ordning",
