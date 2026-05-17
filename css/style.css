@@ -421,14 +421,15 @@ main {
   position: absolute;
   inset: 0;
 
-  background-image: url('assets/masks.png');
+  background-image: url("../assets/masks.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 42%;
+  background-size: cover;
+  background-position: center;
 
   opacity: 0;
 
-  transform: scale(0.96);
+ /* transform: scale(0.96); */
 
   transition:
     opacity 0.8s ease,
@@ -441,8 +442,10 @@ main {
   z-index: 2;
 }
 
+
+
 .tile.ornament:hover .ornament-mask {
-  opacity: 0.18;
+  opacity: 0.35;
   transform: scale(1);
 }
 
