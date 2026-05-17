@@ -1324,9 +1324,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Hârn Overture<br>
-        <i>Serenia Symphony (Opus X), spår 1</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 1</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1349,9 +1349,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       },
       {
         title: `Satin After Dark<br>
-        <i>Serenia Symphony (Opus X), spår 2</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 2</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1365,9 +1365,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Nightraven<br>
-        <i>Serenia Symphony (Opus X), spår 3</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 3</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1405,9 +1405,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Nemiran Street – Adagio oscuro<br>
-        <i>Serenia Symphony (Opus X), spår 4</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 4</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1421,9 +1421,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Presto furioso<br>
-        <i>Serenia Symphony (Opus X), spår 5</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 5</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1437,9 +1437,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Adagio lamentoso<br>
-        <i>Serenia Symphony (Opus X), spår 6</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 6</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1453,8 +1453,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Training – Andante deciso<br>
-        <i>Serenia Symphony (Opus X), spår 7</i>`,
-        image: "assets/songs/classic.png",
+        <i>Serenia Symphony No.1 (Opus 253), spår 7</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
         date: "",
         textPage: "",
         spotify: "",
@@ -1493,9 +1493,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       },
       {
         title: `Mirror – Adagio, con tensione<br>
-        <i>Serenia Symphony (Opus X), spår 8</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 8</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1518,9 +1518,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       },
       {
         title: `Herth-Akan – Grave rituale<br>
-        <i>Serenia Symphony (Opus X), spår 9</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 9</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1558,9 +1558,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       },
       {
         title: `Liber – Lento misterioso<br>
-        <i>Serenia Symphony (Opus X), spår 10</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 10</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1583,9 +1583,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       },
       {
         title: `Lighthouse Lament<br>
-        <i>Serenia Symphony (Opus X), spår 11</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 11</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1599,9 +1599,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Tracks in Snow – Allegro inquieto<br>
-        <i>Serenia Symphony (Opus X), spår 12</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 12</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1615,9 +1615,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Negotiations – Andante considerato<br>
-        <i>Serenia Symphony (Opus X), spår 13</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 13</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1631,9 +1631,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Ilvir – Grave theurgicum<br>
-        <i>Serenia Symphony (Opus X), spår 14</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 14</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1662,9 +1662,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Anisha – Grave, inevitabile<br>
-        <i>Serenia Symphony (Opus X), spår 15</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 15</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1678,9 +1678,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Hru – Processionale immobile<br>
-        <i>Serenia Symphony (Opus X), spår 16</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 16</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1703,9 +1703,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       },
       {
         title: `Araka-Kalai – Conflagratione biologica<br>
-        <i>Serenia Symphony (Opus X), spår 17</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 17</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1719,9 +1719,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `NightBlade's Death – Adagio funebre<br>
-        <i>Serenia Symphony (Opus X), spår 18</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 18</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1735,9 +1735,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `The Eye – Adagio, restitutio<br>
-        <i>Serenia Symphony (Opus X), spår 19</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 19</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -1751,9 +1751,9 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: `Epilogo sospeso (Part I)<br>
-        <i>Serenia Symphony (Opus X), spår 20</i>`,
-        image: "assets/songs/classic.png",
-        date: "<b>inte ännu</b>",
+        <i>Serenia Symphony No.1 (Opus 253), spår 20</i>`,
+        image: "assets/songs/Symphony No1 3k.png",
+        date: "6 maj 2026",
         textPage: "",
         spotify: "",
         youtube: "",
@@ -2322,8 +2322,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Hârn overture<br>
-          <i>Serenia Symphony (Opus X)  Spår 1</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 1</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2347,8 +2347,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         },
         {
           title: `Satin after dark<br>
-          <i>Serenia Symphony (Opus X)  Spår 2</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 2</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2363,8 +2363,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Nightraven<br>
-          <i>Serenia Symphony (Opus X)  Spår 3</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 3</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2403,8 +2403,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Neminan Street - Adgio oscuro <br>
-          <i>Serenia Symphony (Opus X)  Spår 4</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 4</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2419,8 +2419,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Presto furioso<br>
-          <i>Serenia Symphony (Opus X)  Spår 5</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 5</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2435,8 +2435,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Adagi lamentoso<br>
-          <i>Serenia Symphony (Opus X)  Spår 6</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 6</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2451,8 +2451,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Training - Andante deciso<br>
-          <i>Serenia Symphony (Opus X)  Spår 7</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 7</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2491,8 +2491,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         },
         {
           title: `Mirror - Adagio, con tensione<br>
-          <i>Serenia Symphony (Opus X)  Spår 8</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 8</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2518,8 +2518,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         },
         {
           title: `Herth-Akan - Grave rituale<br>
-          <i>Serenia Symphony (Opus X)  Spår 9</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 9</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2558,8 +2558,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         },
         {
           title: `Liber - Lento misterioso<br>
-          <i>Serenia Symphony (Opus X)  Spår 10</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 10</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2585,8 +2585,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         },
         {
           title: `Lighthouse lament<br>
-          <i>Serenia Symphony (Opus X)  Spår 11</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 11</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2601,8 +2601,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Tracks in snow - Allegro inquieto<br>
-          <i>Serenia Symphony (Opus X)  Spår 12</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 12</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2617,8 +2617,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Negotiations - Andante considerato<br>
-          <i>Serenia Symphony (Opus X)  Spår 13</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 13</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2633,8 +2633,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Ilvir - Grave theurgicum<br>
-          <i>Serenia Symphony (Opus X)  Spår 14</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 14</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2664,8 +2664,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Anisha - Grave, inevitabile<br>
-          <i>Serenia Symphony (Opus X)  Spår 15</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 15</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2680,8 +2680,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Hru - Processionale immobile<br>
-          <i>Serenia Symphony (Opus X)  Spår 16</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 16</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2705,8 +2705,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         },
         {
           title: `Araka-Kalai - Conflagratione biologica<br>
-          <i>Serenia Symphony (Opus X)  Spår 17</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 17</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2721,8 +2721,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `NightBlade's Death - Adagio funebre<br>
-          <i>Serenia Symphony (Opus X)  Spår 18</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 18</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2737,8 +2737,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `The Eye - Adagio, restitutio<br>
-          <i>Serenia Symphony (Opus X)  Spår 19</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 19</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2753,8 +2753,8 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: `Epilogo sospeso (part I)<br>
-          <i>Serenia Symphony (Opus X)  Spår 20</i>`,
-          image: "assets/songs/classic.png",
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 20</i>`,
+          image: "assets/songs/Symphony No1 3k.png",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
