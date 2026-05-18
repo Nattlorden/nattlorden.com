@@ -22,14 +22,176 @@ const contentSV = {
   blocks: [
     {
       type: "text",
-      content: `Vad som går att reda ut om vad jag/vi sett`
+      content: `Min mor och jag har gått på söndagsabonnemangen sedan någon går på 90-talet. Tyvärr har jag inte fört dagbok över det och så långt tillbaka har självklar även Internet svårt att se
+      
+      Har lyckats rekonstruera en del och min mor har säkert behållt program, så mer kan komma.
+      `
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `På malmö opera`
+      content: `<h4>2003-2004</h4>
+West Side Story
+Otello
+La Bohème
+Hello Dolly
+Rigoletto
+El Niño (?)
+
+<h4>2004-2005</h4>
+Turandot
+Livet med en idiot
+Nötknäpparen
+Faust
+
+<h4>2005-2006</h4>
+Skuggspel
+South Pacific
+Maskeradbalen
+Figaros Bröllop
+
+<h4>2006-2007</h4>
+Nabucco 
+Banankontakt (20 augusti)
+Pansarkryssaren Potemkins
+Dead man Walking
+La Bohème
+Macbeth
+
+<h4>2007-2008</h4>
+La Fanciulla del West
+Cullbergbaletten
+Zorba
+Faust
+Salome
+La Sonnambula
+Aida
+
+<h4>2008-2009</h4>
+Prinsessan av Cypern
+Death and the Maiden
+Jesus Christ Superstar
+La Traviata
+Nyårsfest
+Dead Man Walking
+
+<h4>2009-2010</h4>
+Askungen
+Rucklarens väg
+Julie
+Karmelitsystrarna
+Rosenkavaljeren
+
+<h4>2010-2011</h4>
+Singin' In the Rain
+Jekyll & Hyde
+Madama Butterfly
+Hemligheter(?)
+Skånes Dansteater / dans
+Hoffmans äventyr
+
+<h4>2011-2012</h4>
+Les Misérables
+Tirfing
+Jenufa
+Carmen
+Svansjön
+Parsifal
+
+<h4>2012-2013</h4>
+Evita
+Luisa Miller
+Sommarnattens leende
+Trollflöjten
+Lear
+
+<h4>2013-2014</h4>
+Miss Saigon
+Manon
+Rebecca
+La Bohème
+Rosenkavaljeren
+
+<h4>2014-2015</h4>
+Doktor Zjivago
+Greve Ory
+American Idiot
+Aida
+Kvartett
+
+<h4>2015-2016</h4>
+Billy Elliot
+Eugen Onegin
+Maskeradbalen
+My fair lady
+Pelléas och Mélisande
+Top Hat
+
+<h4>2016-2017</h4>
+Kinky Boots
+Lucrezia Borgia
+Figaros Bröllop
+Tänk om
+La Gioconda
+Aniara
+
+<h4>2017-2018</h4>
+Spelman på taket
+Lakmé
+Pippin
+Rigoletto
+Parken
+
+<h4>2018-2019</h4>
+West side story
+Matilda the musical
+Den Flygande Holländaren
+Schalgt sie tot!
+Tidens och insiktens triumf
+
+<h4>2019-2020</h4>
+Skönheten och Odjuret (?)
+Höstsonaten
+Tosca
+En midsommarnattsdröm
+Orfeus i underjorden
+
+<h4>2020-2021 (covid-remote)</h4>
+Così fan tutti
+Falstaff
+
+<h4>2021-2022</h4>
+<i>Överhoppat år - mammas risk vs covid</i>
+
+<h4>2022-2023</h4>
+Anastasia
+La Bohème
+Figaros Bröllop
+Funny Girl
+Fallet Makropulos
+
+<h4>2023-2024</h4>
+Everybody's Talking About Jamie
+Don Giovanni
+Next to Normal
+Turandot
+Death and the maiden
+
+<h4>2024-2025</h4>
+Joyride the musical
+Giovanna d’Arco
+Cosi fan tutte
+Salome
+La Bohème
+
+<h4>2025-2026</h4>
+Carmen (elavbrott hemma - åkte hem i pausen)
+Lohengrin
+Chicago
+Askungen
+Come from Away`
     },
     {
       type: "image",
@@ -42,15 +204,18 @@ const contentSV = {
   showPlaceholder: false
 },
 
-    /*
-    hifiHistory: {
-      menuTitle: "HiFi-historik",
-      title: "HiFi-historik",
-      text: `Här kan den personliga historiken byggas upp: var intresset började, vilka anläggningar som passerat, vilka vägval som i efterhand visade sig riktiga och vilka som mest var lärorika omvägar.
+    
+    konserter: {
+      menuTitle: "Andra konserter",
+      title: "Andra konserter",
+      text: `ABBA - Scandinavium Göteborg 79 eller 80
+      
+      ...
 
-Det här är en bra plats för en kronologisk berättelse. Inte bara produkter, utan också varför de kom in, varför de försvann och vad de lärde.`,
+      Amanda Jenssen - Mejeriet, Lund 2026-05-16
+      `,
       showPlaceholder: true
-    },*/
+    },
 /*
     software: {
       menuTitle: "Mjukvara",

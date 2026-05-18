@@ -17,8 +17,8 @@ const siteMeta = {
 
     sections: {
       general: {
-        title: "Opera",
-        tagline: "Personligt, upplevt",
+        title: 'Opera',
+        tagline: 'operett, musikal, o.dyl.   Personligt, upplevt.',
         headerClass: "header-hifi"
       },
       avalon: {
@@ -37,7 +37,7 @@ const siteMeta = {
     sections: {
       general: {
         title: "Opera",
-        tagline: "Personal, experiened",
+        tagline: "operetta, musical, etc.   Personal, experienced.",
         headerClass: "header-hifi"
       },
       avalon: {
