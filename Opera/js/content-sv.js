@@ -119,6 +119,41 @@ avalon: {
       showPlaceholder: false
     },
 
+    voiceOfTheLake: {
+  menuTitle: "Le Voci del Lago",
+  title: "20. Le Voci del Lago",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Act I — The Stones",
+      content: "Dimma ligger över stencirkeln. Orkestern håller en lång, mörk pedalton."
+    },
+    {
+      type: "line",
+      voice: "Arthur",
+      note: "svagt",
+      original: "Where has the kingdom gone?",
+      translation: "Vart har riket tagit vägen?"
+    },
+    {
+      type: "line",
+      voice: "Morgaine",
+      original: "It sleeps beneath your crown.",
+      translation: "Det sover under din krona."
+    },
+    {
+      type: "action",
+      content: "Ljuset faller. En ensam hornsignal hörs långt bakom scenen."
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+
 
 
      stubbe: {

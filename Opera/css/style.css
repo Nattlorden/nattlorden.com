@@ -550,3 +550,68 @@ body:not([data-theme="hifi"]) .back-home img {
   font-style: italic;
   opacity: 0.9;
 }
+
+.libretto-scene,
+.libretto-action {
+  margin: 2.5rem 0;
+  padding: 1.25rem 1.5rem;
+}
+
+.libretto-scene {
+  border-left: 3px solid currentColor;
+}
+
+.libretto-scene h3 {
+  margin-top: 0;
+}
+
+.libretto-action {
+  font-style: italic;
+  opacity: 0.78;
+}
+
+.libretto-line {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.5rem;
+  margin: 1.1rem 0;
+  align-items: start;
+}
+
+.libretto-voice {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.65;
+}
+
+.libretto-voice span {
+  display: block;
+  margin-top: 0.35rem;
+  text-transform: none;
+  letter-spacing: normal;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+.libretto-original,
+.libretto-translation {
+  line-height: 1.7;
+}
+
+.libretto-translation {
+  opacity: 0.82;
+}
+
+@media (max-width: 800px) {
+  .libretto-line {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+    margin: 1.8rem 0;
+  }
+
+  .libretto-voice {
+    border-bottom: 1px solid rgba(255,255,255,0.15);
+    padding-bottom: 0.25rem;
+  }
+}

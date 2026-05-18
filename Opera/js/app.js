@@ -209,6 +209,41 @@ function renderContent() {
       if (block.type === "divider") {
         html += `<hr>`;
       }
+      if (block.type === "scene") {
+  html += `
+    <section class="libretto-scene">
+      ${block.title ? `<h3>${block.title}</h3>` : ""}
+      ${block.content ? `<div>${block.content}</div>` : ""}
+    </section>
+  `;
+}
+
+if (block.type === "action") {
+  html += `
+    <div class="libretto-action">
+      ${block.content || ""}
+    </div>
+  `;
+}
+
+if (block.type === "line") {
+  html += `
+    <div class="libretto-line">
+      <div class="libretto-voice">
+        ${block.voice || ""}
+        ${block.note ? `<span>${block.note}</span>` : ""}
+      </div>
+
+      <div class="libretto-original">
+        ${block.original || ""}
+      </div>
+
+      <div class="libretto-translation">
+        ${block.translation || ""}
+      </div>
+    </div>
+  `;
+    }
     });
   } else {
     if (page.text) {
