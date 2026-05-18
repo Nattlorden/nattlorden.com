@@ -294,6 +294,36 @@ avalon: {
       showPlaceholder: false
     },
 
+    act1_1: {
+  menuTitle: "Ouverture",
+  title: "Ouverture",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Act I — Ouverture",
+      content: ""
+    },
+    {
+      type: "action",
+      content: `Ancient Britain before the fall.
+<br>
+<br>Avalon hidden behind cold sea mist, standing stones, sacred groves, old gods fading from the world.
+<br>
+<br>Wordless female choir emerging from the mist like forgotten voices.
+<br>
+<br>The outside world intrudes - the coming of kingdoms, law, iron and Christianity.
+<br>
+<br>The two musical worlds begin to collide: Avalon’s flowing timeless harmonies against rigid human order.
+<br>
+<br>Near the end, the old world retreats again into fog, as though memory itself is fading.
+<br>
+<br>Ends quietly: distant female voices, cold wind over dark water disappearing into silence.`
+    }
+  ]
+},
+
+
     act2: {
       menuTitle: "Akt II",
       title: "Akt II",
