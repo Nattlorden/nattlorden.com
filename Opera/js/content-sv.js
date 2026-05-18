@@ -284,6 +284,47 @@ avalon: {
       showPlaceholder: false
     },
 
+    act1: {
+      menuTitle: "Akt I",
+      title: "Akt I",
+      text: `Camelot blommar.
+
+      Fram till och med Guineveres darrande hand.
+      `,
+      showPlaceholder: false
+    },
+
+    act2: {
+      menuTitle: "Akt II",
+      title: "Akt II",
+      text: `Sprickor och skuld.
+
+      Fram till och med Morgaines ritual.
+      `,
+      showPlaceholder: false
+    },
+
+    act3: {
+      menuTitle: "Akt III",
+      title: "Akt III",
+      text: `Britannien splittras.
+
+      Fram till och med Mordreds stilla acceptans.
+      `,
+      showPlaceholder: false
+    },
+
+    act4: {
+      menuTitle: "Akt IV",
+      title: "Akt IV",
+      text: `Fall, sorg, legend.
+
+      Dimman sluter sig.
+      `,
+      showPlaceholder: false
+    },
+
+
     voiceOfTheLake: {
   menuTitle: "Le Voci del Lago",
   title: "20. Le Voci del Lago",
