@@ -295,7 +295,7 @@ avalon: {
     },
 
     act1_1: {
-  menuTitle: "Ouverture",
+  menuTitle: " Ouverture",
   title: "Ouverture",
   showPlaceholder: false,
   blocks: [
@@ -321,6 +321,219 @@ avalon: {
 <br>Ends quietly: distant female voices, cold wind over dark water disappearing into silence.`
     }
   ]
+},
+
+  act1_2: {
+  menuTitle: " Le Campane oltre l’Acqua",
+  title: "Le Campane oltre l’Acqua",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I, Scen I — Klockorna bortom vattnet ",
+      content: "Dimma ligger över stencirkeln, över sjön. Folket rör sig över markerna."
+    },
+    {
+      type: "line",
+      voice: "Kör",
+      note: "svagt",
+      original: `Le campane… le campane…
+oltre l’acqua, oltre il vento,
+chi le chiama nella notte?
+Chi risponde dal convento?`,
+      translation: `Klockorna... klockorna...
+bortom vattnet, bortom vinden,
+vem kallar på dem i natten?
+Vem svarar från klostret?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Cade il velo sopra il lago,
+tace l’isola nel blu.
+Dove andavano le barche,
+non si vede Avalon più.`,
+      translation: `Slöjan faller över sjön,
+ön är tyst i det blå.
+Där båtarna en gång seglade,
+syns inte längre Avalon.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Sorgono croci sulle colline,
+nuovi altari, nuove leggi.
+Ferro e fuoco lungo i confini,
+re senza pace, popoli e greggi.`,
+      translation: `Kors reser sig på kullarna,
+nya altare, nya lagar.
+Svärd och eld längs gränserna,
+fredlösa kungar, folk och hjordar.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Viene un tempo di corona,
+viene un tempo di spada.
+Ogni casa ascolta e trema,
+ogni strada chiama strada.`,
+      translation: `En tid av kronor kommer,
+en tid av svärd kommer.
+Varje hus lyssnar och darrar,
+varje gata talar för sig.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Chi ha veduto il cervo bianco?
+Chi ha sentito il corno antico?
+Solo il vento porta il nome,
+solo il mare resta amico.`,
+      translation: `Vem har sett den vita hjorten?
+Vem har hört det uråldriga hornet?
+Endast vinden bär namnet,
+bara havet förblir en vän.`
+    },
+       {
+      type: "action",
+      content: "..."
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Madri, sorelle, figlie del fiume,
+custodite il poco lume.
+Se la nebbia chiude il cuore,
+chi ricorda il primo nome?`,
+      translation: `Mödrar, systrar, flodens döttrar,
+vakta det lilla ljuset.
+Om dimman sluter hjärtat,
+vem minns det första namnet?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Viene un re promesso.
+L’ordine nascerà.
+Il cielo ha scelto il ferro.
+Britannia vivrà.`,
+      translation: `En utlovad kung kommer.
+Ordning kommer att födas.
+Himlen har valt järn.
+Britannien kommer att leva.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Ma sotto il bronzo delle campane,
+sotto la voce dei nuovi dèi,
+qualcosa piange nelle fontane,
+qualcosa muore dentro di noi.
+
+Non è tempesta,
+non è battaglia,
+non è soltanto morte o guerra.
+È la memoria che si assottiglia,
+è l’antico sangue della terra.`,
+      translation: `Men under klockornas brons,
+under de nya gudarnas röst,
+ropar något i fontänerna,
+dör något inom oss.
+
+Det är inte en storm,
+det är inte en strid,
+det är inte bara död eller krig.
+Det är minnet som tunnas ut,
+det är jordens uråldriga blod.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Le campane chiamano.
+— Chi risponde?
+Le croci sorgono.
+— Chi discende?
+I re combattono.
+— Chi perdona?
+L’isola fugge.
+— Chi ritorna?`,
+      translation: `Klockorna ringer.
+— Vem svarar? 
+Korsen reser sig.
+— Vem stiger ner?
+Kungarna slåss.
+— Vem förlåter?
+Ön flyr.
+— Vem återvänder?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon…
+Avalon…
+non lasciarci senza sogno,
+non tornare solo in canto.`,
+      translation: `Avalon…
+Avalon…
+lämna oss inte utan drömmar,
+återvänd inte ensam i sång.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Se la nebbia chiude il passo,
+se la riva perde il nome,
+che rimane all’uomo solo?
+Pane, ferro, legge e fame.`,
+      translation: `Om dimman blockerar vägen,
+om stranden förlorar sitt namn,
+vad återstår då för mänskligheten?
+Bröd, järn, lag och hunger.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Le campane oltre l’acqua
+non portano pace.
+Portano il giorno che nasce
+e la notte che tace.
+
+O Britannia, terra divisa,
+tra la croce e l’antico altare,
+chi salverà la tua ferita?
+Chi saprà ancora ricordare?`,
+      translation: `Klockorna bortom vattnet
+bringar ingen fred.
+De bringar den gryende dagen
+och den tysta natten.
+
+O Britannien, delat land,
+mellan korset och det uråldriga altaret,
+vem ska rädda ditt sår?
+Vem ska fortfarande minnas?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Cade il velo sopra il lago,
+tace l’isola nel blu.
+Dove andavano le barche,
+non si vede Avalon più.`,
+      translation: `Slöjan faller över sjön,
+ön är tyst i det blå.
+Där båtarna gick,
+syns inte längre Avalon.`
+    },
+    {
+      type: "action",
+      content: "Ljuset faller. En ensam hornsignal hörs långt bakom scenen."
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
 },
 
 
@@ -367,16 +580,15 @@ avalon: {
     },
     {
       type: "line",
-      voice: "Arthur",
-      note: "svagt",
-      original: "Where has the kingdom gone?",
-      translation: "Vart har riket tagit vägen?"
+      voice: "",
+      original: ``,
+      translation: ``
     },
     {
       type: "line",
-      voice: "Morgaine",
-      original: "It sleeps beneath your crown.",
-      translation: "Det sover under din krona."
+      voice: "",
+      original: ``,
+      translation: ``
     },
     {
       type: "action",

@@ -615,3 +615,12 @@ body:not([data-theme="hifi"]) .back-home img {
     padding-bottom: 0.25rem;
   }
 }
+
+.text-block,
+.note-block,
+.libretto-original,
+.libretto-translation,
+.libretto-action,
+.libretto-scene {
+  white-space: pre-line;
+}
