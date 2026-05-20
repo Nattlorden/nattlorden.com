@@ -283,6 +283,417 @@ avalon: {
       showPlaceholder: false
     },
 
+    act1: {
+      menuTitle: "Akt I",
+      title: "Akt I",
+      text: `Camelot blommar.
+
+      Fram till och med Guineveres darrande hand.
+      `,
+      showPlaceholder: false
+    },
+
+    act1_1: {
+  menuTitle: " Ouverture",
+  title: "Ouverture",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Act I — Ouverture",
+      content: ""
+    },
+    {
+      type: "action",
+      content: `Ancient Britain before the fall.
+<br>
+<br>Avalon hidden behind cold sea mist, standing stones, sacred groves, old gods fading from the world.
+<br>
+<br>Wordless female choir emerging from the mist like forgotten voices.
+<br>
+<br>The outside world intrudes - the coming of kingdoms, law, iron and Christianity.
+<br>
+<br>The two musical worlds begin to collide: Avalon’s flowing timeless harmonies against rigid human order.
+<br>
+<br>Near the end, the old world retreats again into fog, as though memory itself is fading.
+<br>
+<br>Ends quietly: distant female voices, cold wind over dark water disappearing into silence.`
+    }
+  ]
+},
+
+  act1_2: {
+  menuTitle: " Le Campane oltre l’Acqua",
+  title: "Le Campane oltre l’Acqua",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I, Scen I — Klockorna bortom vattnet ",
+      content: "Dimma ligger över stencirkeln, över sjön. Folket rör sig över markerna."
+    },
+    {
+      type: "line",
+      voice: "Kör",
+      note: "svagt",
+      original: `Le campane… le campane…
+oltre l’acqua, oltre il vento,
+chi le chiama nella notte?
+Chi risponde dal convento?`,
+      translation: `Klockorna... klockorna...
+bortom vattnet, bortom vinden,
+vem kallar på dem i natten?
+Vem svarar från klostret?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Cade il velo sopra il lago,
+tace l’isola nel blu.
+Dove andavano le barche,
+non si vede Avalon più.`,
+      translation: `Slöjan faller över sjön,
+ön är tyst i det blå.
+Där båtarna en gång seglade,
+syns inte längre Avalon.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Sorgono croci sulle colline,
+nuovi altari, nuove leggi.
+Ferro e fuoco lungo i confini,
+re senza pace, popoli e greggi.`,
+      translation: `Kors reser sig på kullarna,
+nya altare, nya lagar.
+Svärd och eld längs gränserna,
+fredlösa kungar, folk och hjordar.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Viene un tempo di corona,
+viene un tempo di spada.
+Ogni casa ascolta e trema,
+ogni strada chiama strada.`,
+      translation: `En tid av kronor kommer,
+en tid av svärd kommer.
+Varje hus lyssnar och darrar,
+varje gata talar för sig.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Chi ha veduto il cervo bianco?
+Chi ha sentito il corno antico?
+Solo il vento porta il nome,
+solo il mare resta amico.`,
+      translation: `Vem har sett den vita hjorten?
+Vem har hört det uråldriga hornet?
+Endast vinden bär namnet,
+bara havet förblir en vän.`
+    },
+       {
+      type: "action",
+      content: "..."
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Madri, sorelle, figlie del fiume,
+custodite il poco lume.
+Se la nebbia chiude il cuore,
+chi ricorda il primo nome?`,
+      translation: `Mödrar, systrar, flodens döttrar,
+vakta det lilla ljuset.
+Om dimman sluter hjärtat,
+vem minns det första namnet?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Viene un re promesso.
+L’ordine nascerà.
+Il cielo ha scelto il ferro.
+Britannia vivrà.`,
+      translation: `En utlovad kung kommer.
+Ordning kommer att födas.
+Himlen har valt järn.
+Britannien kommer att leva.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Ma sotto il bronzo delle campane,
+sotto la voce dei nuovi dèi,
+qualcosa piange nelle fontane,
+qualcosa muore dentro di noi.
+
+Non è tempesta,
+non è battaglia,
+non è soltanto morte o guerra.
+È la memoria che si assottiglia,
+è l’antico sangue della terra.`,
+      translation: `Men under klockornas brons,
+under de nya gudarnas röst,
+ropar något i fontänerna,
+dör något inom oss.
+
+Det är inte en storm,
+det är inte en strid,
+det är inte bara död eller krig.
+Det är minnet som tunnas ut,
+det är jordens uråldriga blod.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Le campane chiamano.
+— Chi risponde?
+Le croci sorgono.
+— Chi discende?
+I re combattono.
+— Chi perdona?
+L’isola fugge.
+— Chi ritorna?`,
+      translation: `Klockorna ringer.
+— Vem svarar? 
+Korsen reser sig.
+— Vem stiger ner?
+Kungarna slåss.
+— Vem förlåter?
+Ön flyr.
+— Vem återvänder?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon…
+Avalon…
+non lasciarci senza sogno,
+non tornare solo in canto.`,
+      translation: `Avalon…
+Avalon…
+lämna oss inte utan drömmar,
+återvänd inte ensam i sång.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Se la nebbia chiude il passo,
+se la riva perde il nome,
+che rimane all’uomo solo?
+Pane, ferro, legge e fame.`,
+      translation: `Om dimman blockerar vägen,
+om stranden förlorar sitt namn,
+vad återstår då för mänskligheten?
+Bröd, järn, lag och hunger.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Le campane oltre l’acqua
+non portano pace.
+Portano il giorno che nasce
+e la notte che tace.
+
+O Britannia, terra divisa,
+tra la croce e l’antico altare,
+chi salverà la tua ferita?
+Chi saprà ancora ricordare?`,
+      translation: `Klockorna bortom vattnet
+bringar ingen fred.
+De bringar den gryende dagen
+och den tysta natten.
+
+O Britannien, delat land,
+mellan korset och det uråldriga altaret,
+vem ska rädda ditt sår?
+Vem ska fortfarande minnas?`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Cade il velo sopra il lago,
+tace l’isola nel blu.
+Dove andavano le barche,
+non si vede Avalon più.`,
+      translation: `Slöjan faller över sjön,
+ön är tyst i det blå.
+Där båtarna gick,
+syns inte längre Avalon.`
+    },
+    {
+      type: "action",
+      content: "Ljuset faller. En ensam hornsignal hörs långt bakom scenen."
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+
+
+    act2: {
+      menuTitle: "Akt II",
+      title: "Akt II",
+      text: `Sprickor och skuld.
+
+      Fram till och med Morgaines ritual.
+      `,
+      showPlaceholder: false
+    },
+
+    act3: {
+      menuTitle: "Akt III",
+      title: "Akt III",
+      text: `Britannien splittras.
+
+      Fram till och med Mordreds stilla acceptans.
+      `,
+      showPlaceholder: false
+    },
+
+    act4: {
+      menuTitle: "Akt IV",
+      title: "Akt IV",
+      text: `Fall, sorg, legend.
+
+      Dimman sluter sig.
+      `,
+      showPlaceholder: false
+    },
+    notteSenzaRisposta: {
+  menuTitle: "Notte senza risposta",
+  title: "",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt IV — Scen - Natt utan svar",
+      content: "Morgaine ensam på kammaren.(?)"
+    },
+    {
+      type: "line",
+      voice: "Morgaine",
+      note: "",
+      original: `Notte senza risposta, pietra del cielo,
+io tendo le mani e non stringo che vento.
+Nel sangue ho custodito il tuo nome segreto,
+e adesso tremo sola davanti al silenzio.`,
+      translation: `Unanswered night, stone of the sky,
+I stretch out my hands and hold only the wind.
+In my blood I have guarded your secret name,
+and now I tremble alone before the silence.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Ho visto il campo piegarsi alla cenere,
+la culla svuotarsi, la porta restare.
+Ogni mia speranza, ferita e vigilante,
+ha cercato un segno sopra il fiume nero.
+Se tutto cade, se tutto ritorna polvere,
+dimmi perché questo cuore non muore.`,
+      translation: `I have seen the field bend to the ashes,
+the cradle empty, the door remain.
+All my hopes, wounded and vigilant,
+have searched for a sign above the black river.
+If everything falls, if everything returns to dust,
+tell me why this heart does not die.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `C'è una voce dentro il petto che resiste,
+come fiamma stretta fra due mani nude.
+Non mi lascia sprofondare nella terra,
+non mi lascia benedire la rovina.`,
+      translation: `There is a voice within my chest that resists,
+like a flame held between two bare hands.
+It does not let me sink into the earth,
+it does not let me bless the ruin.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Devi esistere oltre il pianto e la tempesta,
+oltre il ferro dei giorni, oltre l'addio.
+Devi vivere dove l'occhio non arriva,
+come sorgente chiusa nella roccia.
+Se non sei, chi raccoglie la mia cenere?
+Se non sei, perché ti chiamo ancora?
+Rispondi al vuoto che mi prende il fiato:
+devi esistere, o cado anch'io.`,
+      translation: `You must exist beyond the tears and the storm,
+beyond the iron of days, beyond farewell.
+You must live where the eye cannot reach,
+like a spring locked in the rock.
+If you are not, who gathers my ashes?
+If you are not, why do I still call you?
+Answer the void that takes my breath:
+You must exist, or I too will fall.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Io non domando corone né riposo,
+non voglio oro, non voglio pietà.
+Prendi la mia superbia, spezza la mia paura,
+ma non lasciare cieca questa sete.
+Fa' che il dolore non sia solo dolore,
+fa' che la perdita non sia legge eterna.`,
+      translation: `I ask for no crowns or rest,
+I want no gold, I want no pity.
+Take my pride, break my fear,
+but do not leave this thirst blind.
+Let pain not be only pain,
+let loss not be an eternal law.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Devi esistere oltre il pianto e la tempesta,
+oltre il ferro dei giorni, oltre l'addio.
+Devi ardere come giudizio e come abbraccio,
+come stella nascosta dietro il fumo.
+Se tu respiri, anche la morte trema,
+se tu mi guardi, la notte si apre.
+Strappa dal nulla il nome della vita:
+devi esistere, devi esistere.`,
+      translation: `You must exist beyond the tears and the storm,
+beyond the iron of days, beyond farewell.
+You must burn like judgment and embrace,
+like a star hidden behind the smoke.
+If you breathe, even death trembles,
+if you look at me, the night opens.
+Snatch the name of life from nothingness:
+You must exist, you must exist.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Resta nel buio come ultima luce,
+resta nel cuore che non sa mentire.
+Finché avrò voce, finché avrò ferite,
+ti cercherò.
+Devi esistere.`,
+      translation: `Remain in the darkness as the last light,
+remain in the heart that cannot lie.
+As long as I have a voice, as long as I have wounds,
+I will look for you.
+You must exist.`
+    },
+    {
+      type: "action",
+      content: ""
+    }
+  ]
+
+
+},
     voiceOfTheLake: {
   menuTitle: "Le Voci del Lago",
   title: "20. Le Voci del Lago",
@@ -295,16 +706,15 @@ avalon: {
     },
     {
       type: "line",
-      voice: "Arthur",
-      note: "svagt",
-      original: "Where has the kingdom gone?",
-      translation: "Vart har riket tagit vägen?"
+      voice: "",
+      original: ``,
+      translation: ``
     },
     {
       type: "line",
-      voice: "Morgaine",
-      original: "It sleeps beneath your crown.",
-      translation: "Det sover under din krona."
+      voice: "",
+      original: ``,
+      translation: ``
     },
     {
       type: "action",

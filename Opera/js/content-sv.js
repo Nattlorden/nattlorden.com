@@ -567,8 +567,8 @@ syns inte längre Avalon.`
       showPlaceholder: false
     },
     notteSenzaRisposta: {
-  menuTitle: "Notte senza risposta",
-  title: "",
+  menuTitle: " Notte senza risposta",
+  title: "Notte senza risposta",
   showPlaceholder: false,
   blocks: [
     {
@@ -598,12 +598,12 @@ Ogni mia speranza, ferita e vigilante,
 ha cercato un segno sopra il fiume nero.
 Se tutto cade, se tutto ritorna polvere,
 dimmi perché questo cuore non muore.`,
-      translation: `I have seen the field bend to the ashes,
-the cradle empty, the door remain.
-All my hopes, wounded and vigilant,
-have searched for a sign above the black river.
-If everything falls, if everything returns to dust,
-tell me why this heart does not die.`
+      translation: `Jag har sett fältet böja sig till askan,
+vaggan tom, dörren kvar.
+Alla mina hopp, sårade och vaksamma,
+har sökt efter ett tecken ovanför den svarta floden.
+Om allt faller, om allt återvänder till stoft,
+säg mig varför detta hjärta inte dör.`
     },
     {
       type: "line",
@@ -612,10 +612,10 @@ tell me why this heart does not die.`
 come fiamma stretta fra due mani nude.
 Non mi lascia sprofondare nella terra,
 non mi lascia benedire la rovina.`,
-      translation: `There is a voice within my chest that resists,
-like a flame held between two bare hands.
-It does not let me sink into the earth,
-it does not let me bless the ruin.`
+      translation: `Det finns en röst i mitt bröst som gör motstånd,
+likt en låga som hålls mellan två bara händer.
+Den låter mig inte sjunka ner i jorden,
+den låter mig inte välsigna förfallet.`
     },
     {
       type: "line",
@@ -628,14 +628,14 @@ Se non sei, chi raccoglie la mia cenere?
 Se non sei, perché ti chiamo ancora?
 Rispondi al vuoto che mi prende il fiato:
 devi esistere, o cado anch'io.`,
-      translation: `You must exist beyond the tears and the storm,
-beyond the iron of days, beyond farewell.
-You must live where the eye cannot reach,
-like a spring locked in the rock.
-If you are not, who gathers my ashes?
-If you are not, why do I still call you?
-Answer the void that takes my breath:
-You must exist, or I too will fall.`
+      translation: `Du måste existera bortom tårarna och stormen,
+bortom dagarnas järn, bortom farväl.
+Du måste leva där ögat inte kan nå,
+likt en källa inlåst i berget.
+Om du inte är det, vem samlar min aska?
+Om du inte är det, varför kallar jag fortfarande på dig?
+Svara på tomrummet som tar min andedräkt:
+Du måste existera, annars faller även jag.`
     },
     {
       type: "line",
@@ -646,12 +646,12 @@ Prendi la mia superbia, spezza la mia paura,
 ma non lasciare cieca questa sete.
 Fa' che il dolore non sia solo dolore,
 fa' che la perdita non sia legge eterna.`,
-      translation: `I ask for no crowns or rest,
-I want no gold, I want no pity.
-Take my pride, break my fear,
-but do not leave this thirst blind.
-Let pain not be only pain,
-let loss not be an eternal law.`
+      translation: `Jag ber om inga kronor eller vila,
+Jag vill inte ha något guld, jag vill inte ha något medlidande.
+Ta min stolthet, bryt min rädsla,
+men lämna inte denna törst blind.
+Låt smärta inte bara vara smärta,
+låt förlust inte vara en evig lag.`
     },
     {
       type: "line",
@@ -664,14 +664,14 @@ Se tu respiri, anche la morte trema,
 se tu mi guardi, la notte si apre.
 Strappa dal nulla il nome della vita:
 devi esistere, devi esistere.`,
-      translation: `You must exist beyond the tears and the storm,
-beyond the iron of days, beyond farewell.
-You must burn like judgment and embrace,
-like a star hidden behind the smoke.
-If you breathe, even death trembles,
-if you look at me, the night opens.
-Snatch the name of life from nothingness:
-You must exist, you must exist.`
+      translation: `Du måste existera bortom tårarna och stormen,
+bortom dagarnas järn, bortom farväl.
+Du måste brinna som dom och omfamna,
+som en stjärna gömd bakom röken.
+Om du andas, darrar även döden,
+om du ser på mig, öppnar sig natten.
+Ryck livets namn ur intet:
+Du måste existera, du måste existera.`
     },
     {
       type: "line",
@@ -681,11 +681,11 @@ resta nel cuore che non sa mentire.
 Finché avrò voce, finché avrò ferite,
 ti cercherò.
 Devi esistere.`,
-      translation: `Remain in the darkness as the last light,
-remain in the heart that cannot lie.
-As long as I have a voice, as long as I have wounds,
-I will look for you.
-You must exist.`
+      translation: `Förbli i mörkret som det sista ljuset,
+förbli i hjärtat som inte kan ljuga.
+Så länge jag har en röst, så länge jag har sår,
+ska jag leta efter dig.
+Du måste existera.`
     },
     {
       type: "action",
