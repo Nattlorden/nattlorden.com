@@ -536,6 +536,471 @@ syns inte längre Avalon.`
 
 },
 
+  act1_3: {
+  menuTitle: " Le Nebbie di Avalon",
+  title: "Le Nebbie di Avalon",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 3  The Stones",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_4: {
+  menuTitle: " Quando Rimane il Silenzio",
+  title: "Quando Rimane il Silenzio",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I —  Scen 4 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_5: {
+  menuTitle: " Dove Parlano le Pietre",
+  title: "Dove Parlano le Pietre",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 5",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_6: {
+  menuTitle: " Il Re della Pietra",
+  title: "Il Re della Pietra",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 6 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_7: {
+  menuTitle: " La Corona e il Silenzio",
+  title: "La Corona e il Silenzio",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 7 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_8: {
+  menuTitle: " Camelot intermezzo",
+  title: "Camelot intermezzo",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 8 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_9: {
+  menuTitle: " Le Prime Luci di Camelot",
+  title: "Le Prime Luci di Camelot",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 9 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_10: {
+  menuTitle: " Le Strade di Camelot",
+  title: "Le Strade di Camelot",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Act I — Scen 10 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_11: {
+  menuTitle: " Dove Fuggono le Creature Lievi",
+  title: "Dove Fuggono le Creature Lievi",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 11 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_12: {
+  menuTitle: " Ciò che Resta agli Uomini",
+  title: "Ciò che Resta agli Uomini",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 12 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_13: {
+  menuTitle: " Dove Splende Camelot",
+  title: "Dove Splende Camelot",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 13 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_14: {
+  menuTitle: " Come Ritorna la Primavera",
+  title: "Come Ritorna la Primavera",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 14 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_15: {
+  menuTitle: " Troppa Luce per un Cuore Mortale",
+  title: "Troppa Luce per un Cuore Mortale",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 15 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+  act1_16: {
+  menuTitle: " La Mano che Tremò",
+  title: "La Mano che Tremò",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt I — Scen 16 - Handen som darrar",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+/*
+
+*/
 
     act2: {
       menuTitle: "Akt II",

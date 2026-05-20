@@ -192,7 +192,7 @@ a:hover {
 }
 
 aside {
-  width: 220px;
+  width: 300px;
   background: var(--panel);
   min-height: 100vh;
   border-right: 1px solid var(--border);
