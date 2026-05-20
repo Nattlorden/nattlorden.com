@@ -330,13 +330,13 @@ avalon: {
   blocks: [
     {
       type: "scene",
-      title: "Akt I, Scen I — Klockorna bortom vattnet ",
-      content: "Dimma ligger över stencirkeln, över sjön. Folket rör sig över markerna."
+      title: "Akt I, Scen II — Klockorna bortom vattnet ",
+      content: "Dimma ligger svagt över stencirkeln, över sjön. Folket rör sig över markerna. Avalon skymtas tvärs sjön."
     },
     {
       type: "line",
-      voice: "Kör",
-      note: "svagt",
+      voice: "Två kvinnor",
+      note: "ur kören",
       original: `Le campane… le campane…
 oltre l’acqua, oltre il vento,
 chi le chiama nella notte?
@@ -348,7 +348,8 @@ Vem svarar från klostret?`
     },
     {
       type: "line",
-      voice: "",
+      voice: "KÖR",
+      note: "varierande försångare",
       original: `Cade il velo sopra il lago,
 tace l’isola nel blu.
 Dove andavano le barche,
@@ -393,10 +394,6 @@ solo il mare resta amico.`,
 Vem har hört det uråldriga hornet?
 Endast vinden bär namnet,
 bara havet förblir en vän.`
-    },
-       {
-      type: "action",
-      content: "..."
     },
     {
       type: "line",
@@ -513,6 +510,10 @@ vem ska rädda ditt sår?
 Vem ska fortfarande minnas?`
     },
     {
+      type: "action",
+      content: "Dimridå lägger sig framför scenografins Avalon."
+    },
+    {
       type: "line",
       voice: "",
       original: `Cade il velo sopra il lago,
@@ -523,13 +524,6 @@ non si vede Avalon più.`,
 ön är tyst i det blå.
 Där båtarna gick,
 syns inte längre Avalon.`
-    },
-    {
-      type: "action",
-      content: "Ljuset faller. En ensam hornsignal hörs långt bakom scenen."
-    },
-    {
-      type: "divider"
     }
   ]
 
@@ -543,7 +537,7 @@ syns inte längre Avalon.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 3  The Stones",
+      title: "Akt I — Scen III - Avalons dimmor",
       content: ""
     },
     {
@@ -998,40 +992,464 @@ syns inte längre Avalon.`
 
 
 },
-/*
-
-*/
 
     act2: {
       menuTitle: "Akt II",
       title: "Akt II",
       text: `Sprickor och skuld.
 
-      Fram till och med Morgaines ritual.
-      `,
-      showPlaceholder: false
-    },
-
-    act3: {
-      menuTitle: "Akt III",
-      title: "Akt III",
-      text: `Britannien splittras.
-
       Fram till och med Mordreds stilla acceptans.
       `,
       showPlaceholder: false
     },
 
-    act4: {
-      menuTitle: "Akt IV",
-      title: "Akt IV",
+    act2_1: {
+  menuTitle: " Quando Cambia il Silenzio",
+  title: "Quando Cambia il Silenzio",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 1",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_2: {
+  menuTitle: " Nel Sangue del Futuro",
+  title: "Nel Sangue del Futuro",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 2 ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_3: {
+  menuTitle: " Gli Anni sopra Camelot",
+  title: "Gli Anni sopra Camelot",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 3 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_4: {
+  menuTitle: " Le Voci del Lago",
+  title: "Le Voci del Lago",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 4",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_5: {
+  menuTitle: " Le Stanze Troppo Silenziose",
+  title: "Le Stanze Troppo Silenziose",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 5 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_6: {
+  menuTitle: " Dovrei Lasciare Camelot",
+  title: "Dovrei Lasciare Camelot",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 6 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_7: {
+  menuTitle: " Quando Tacciono le Pietre",
+  title: "Quando Tacciono le Pietre",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 7 -",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_8: {
+  menuTitle: " Britannia Ha Perduto il Suo Nome",
+  title: "Britannia Ha Perduto il Suo Nome",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 8 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_9: {
+  menuTitle: " Nessuna Lama Forgiata dagli Uomini",
+  title: "Nessuna Lama Forgiata dagli Uomini",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 9 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act2_10: {
+  menuTitle: " Dopo l’Ultima Voce del Lago",
+  title: "Dopo l’Ultima Voce del Lago",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt II — Scen 10 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+
+
+
+    act3: {
+      menuTitle: "Akt III",
+      title: "Akt III",
       text: `Fall, sorg, legend.
 
       Dimman sluter sig.
       `,
       showPlaceholder: false
     },
-    notteSenzaRisposta: {
+
+    /*
+
+*/
+    act3_1: {
+  menuTitle: " Camlann",
+  title: "Camlann",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt III — Scen 1 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+
+act3_2: {
+  menuTitle: " La Fiamma di Excalibur",
+  title: "La Fiamma di Excalibur",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt III — Scen 2 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act3_3: {
+  menuTitle: " Portatelo Piano",
+  title: "Portatelo Piano",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt III — Scen 3 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act3_4: {
   menuTitle: " Notte senza risposta",
   title: "Notte senza risposta",
   showPlaceholder: false,
@@ -1159,17 +1577,17 @@ Du måste existera.`
   ]
 
 
-},
 
-    voiceOfTheLake: {
-  menuTitle: "Le Voci del Lago",
-  title: "20. Le Voci del Lago",
+},
+act3_5: {
+  menuTitle: " L’Ultimo Passaggio verso Avalon",
+  title: "L’Ultimo Passaggio verso Avalon",
   showPlaceholder: false,
   blocks: [
     {
       type: "scene",
-      title: "Act I — The Stones",
-      content: "Dimma ligger över stencirkeln. Orkestern håller en lång, mörk pedalton."
+      title: "Akt III — Scen 5 - ",
+      content: ""
     },
     {
       type: "line",
@@ -1185,7 +1603,7 @@ Du måste existera.`
     },
     {
       type: "action",
-      content: "Ljuset faller. En ensam hornsignal hörs långt bakom scenen."
+      content: ""
     },
     {
       type: "divider"
@@ -1194,7 +1612,140 @@ Du måste existera.`
 
 
 },
+act3_6: {
+  menuTitle: " (Le Nebbie di Avalon)",
+  title: "(Le Nebbie di Avalon)",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt III — Scen 6 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
 
+
+},
+act3_7: {
+  menuTitle: " Fra Noi Due, Britannia",
+  title: "Fra Noi Due, Britannia",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt III — Scen 7 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act3_8: {
+  menuTitle: " Il Peso di Restare",
+  title: "Il Peso di Restare",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt III — Scen 8 - ",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+},
+act3_9: {
+  menuTitle: " Epilogo",
+  title: "Epilogo",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt III — Scen 9 - Epilog",
+      content: ""
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "line",
+      voice: "",
+      original: ``,
+      translation: ``
+    },
+    {
+      type: "action",
+      content: ""
+    },
+    {
+      type: "divider"
+    }
+  ]
+
+
+}
+
+/*
 
 
      stubbe: {
@@ -1203,6 +1754,6 @@ Du måste existera.`
       text: `Dummytext för senare ifyllnad.`,
       showPlaceholder: true
     }, 
-
+*/
   }
 };
