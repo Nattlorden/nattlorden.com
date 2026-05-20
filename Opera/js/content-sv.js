@@ -566,7 +566,135 @@ syns inte längre Avalon.`
       `,
       showPlaceholder: false
     },
+    notteSenzaRisposta: {
+  menuTitle: "Notte senza risposta",
+  title: "",
+  showPlaceholder: false,
+  blocks: [
+    {
+      type: "scene",
+      title: "Akt IV — Scen - Natt utan svar",
+      content: "Morgaine ensam på kammaren.(?)"
+    },
+    {
+      type: "line",
+      voice: "Morgaine",
+      note: "",
+      original: `Notte senza risposta, pietra del cielo,
+io tendo le mani e non stringo che vento.
+Nel sangue ho custodito il tuo nome segreto,
+e adesso tremo sola davanti al silenzio.`,
+      translation: `Svarlös natt, himmelens sten,
+Jag sträcker ut mina händer och håller endast vinden.
+I mitt blod har jag vaktat ditt hemliga namn,
+och nu darrar jag ensam inför tystnaden.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Ho visto il campo piegarsi alla cenere,
+la culla svuotarsi, la porta restare.
+Ogni mia speranza, ferita e vigilante,
+ha cercato un segno sopra il fiume nero.
+Se tutto cade, se tutto ritorna polvere,
+dimmi perché questo cuore non muore.`,
+      translation: `I have seen the field bend to the ashes,
+the cradle empty, the door remain.
+All my hopes, wounded and vigilant,
+have searched for a sign above the black river.
+If everything falls, if everything returns to dust,
+tell me why this heart does not die.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `C'è una voce dentro il petto che resiste,
+come fiamma stretta fra due mani nude.
+Non mi lascia sprofondare nella terra,
+non mi lascia benedire la rovina.`,
+      translation: `There is a voice within my chest that resists,
+like a flame held between two bare hands.
+It does not let me sink into the earth,
+it does not let me bless the ruin.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Devi esistere oltre il pianto e la tempesta,
+oltre il ferro dei giorni, oltre l'addio.
+Devi vivere dove l'occhio non arriva,
+come sorgente chiusa nella roccia.
+Se non sei, chi raccoglie la mia cenere?
+Se non sei, perché ti chiamo ancora?
+Rispondi al vuoto che mi prende il fiato:
+devi esistere, o cado anch'io.`,
+      translation: `You must exist beyond the tears and the storm,
+beyond the iron of days, beyond farewell.
+You must live where the eye cannot reach,
+like a spring locked in the rock.
+If you are not, who gathers my ashes?
+If you are not, why do I still call you?
+Answer the void that takes my breath:
+You must exist, or I too will fall.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Io non domando corone né riposo,
+non voglio oro, non voglio pietà.
+Prendi la mia superbia, spezza la mia paura,
+ma non lasciare cieca questa sete.
+Fa' che il dolore non sia solo dolore,
+fa' che la perdita non sia legge eterna.`,
+      translation: `I ask for no crowns or rest,
+I want no gold, I want no pity.
+Take my pride, break my fear,
+but do not leave this thirst blind.
+Let pain not be only pain,
+let loss not be an eternal law.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Devi esistere oltre il pianto e la tempesta,
+oltre il ferro dei giorni, oltre l'addio.
+Devi ardere come giudizio e come abbraccio,
+come stella nascosta dietro il fumo.
+Se tu respiri, anche la morte trema,
+se tu mi guardi, la notte si apre.
+Strappa dal nulla il nome della vita:
+devi esistere, devi esistere.`,
+      translation: `You must exist beyond the tears and the storm,
+beyond the iron of days, beyond farewell.
+You must burn like judgment and embrace,
+like a star hidden behind the smoke.
+If you breathe, even death trembles,
+if you look at me, the night opens.
+Snatch the name of life from nothingness:
+You must exist, you must exist.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Resta nel buio come ultima luce,
+resta nel cuore che non sa mentire.
+Finché avrò voce, finché avrò ferite,
+ti cercherò.
+Devi esistere.`,
+      translation: `Remain in the darkness as the last light,
+remain in the heart that cannot lie.
+As long as I have a voice, as long as I have wounds,
+I will look for you.
+You must exist.`
+    },
+    {
+      type: "action",
+      content: ""
+    }
+  ]
 
+
+},
 
     voiceOfTheLake: {
   menuTitle: "Le Voci del Lago",
