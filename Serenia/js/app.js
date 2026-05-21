@@ -9,6 +9,36 @@ if (hasFriendAccess()) {
   document.documentElement.classList.add("friend-access");
 }
 
+function readRouteFromUrl() {
+  const hash = window.location.hash.slice(1);
+  if (!hash) return;
+
+  const [section, page] = hash.split("/");
+
+  if (section) currentSection = decodeURIComponent(section);
+  if (page) currentPage = decodeURIComponent(page);
+}
+
+function updateRouteInUrl() {
+  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
+
+  if (window.location.hash.slice(1) !== route) {
+    history.pushState(null, "", `#${route}`);
+  }
+}
+
+function navigateTo(section, page, scrollToTop = true) {
+  currentSection = section;
+  currentPage = page;
+
+  renderAll();
+  updateRouteInUrl();
+
+  if (scrollToTop) {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+}
+
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
@@ -68,11 +98,12 @@ function renderTopMenu() {
       item.classList.add("active");
     }
 
-    item.onclick = function () {
-      currentSection = sectionKey;
-      currentPage = getPages(sectionKey)[0];
-      renderAll();
-    };
+   item.onclick = function () {
+  navigateTo(
+    sectionKey,
+    getPages(sectionKey)[0]
+  );
+};
 
     topMenu.appendChild(item);
   });
@@ -101,11 +132,9 @@ function renderSideMenu() {
       item.classList.add("active");
     }
 
-    item.onclick = function () {
-      currentPage = pageKey;
-      renderContent();
-      renderSideMenu();
-    };
+ item.onclick = function () {
+  navigateTo(currentSection, pageKey);
+};
 
     sideMenu.appendChild(item);
   });
@@ -134,31 +163,17 @@ function renderTrackList(albumKey) {
 }
 
 function openSongLyrics(songKey) {
-  lastAlbumPage = currentPage; // spara var vi kom ifr�n
+  lastAlbumPage = currentPage;
 
-  currentSection = "music";
-  currentPage = songKey;
-
-  renderAll();
-
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
+  navigateTo("music", songKey);
 }
 
 function goBackToAlbum() {
-  if (!lastAlbumPage) return;
+  if (!lastAlbumPage) {
+    return;
+  }
 
-  currentSection = "music";
-  currentPage = lastAlbumPage;
-
-  renderAll();
-
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
+  navigateTo("music", lastAlbumPage);
 }
 
 
@@ -750,14 +765,18 @@ document.addEventListener("click", function (e) {
     lastAlbumPage = currentPage;
   }
 
-  currentSection = link.dataset.section;
-  currentPage = link.dataset.page;
+  navigateTo(
+  link.dataset.section,
+  link.dataset.page
+);
+});
 
-  renderAll();
-  window.scrollTo({
-  top: 0,
-  behavior: "smooth"
-});
-});
+readRouteFromUrl();
 
 renderAll();
+updateRouteInUrl();
+
+window.addEventListener("popstate", () => {
+  readRouteFromUrl();
+  renderAll();
+});

@@ -241,7 +241,10 @@ function renderChapter(page) {
   if (chapter.dropcap && chapter.opening) {
     html += `
       <p class="chapter-opening">
-        <img class="dropcap-image" src="assets/story/${chapter.dropcap}.png" alt="">
+        <img class="dropcap-image" 
+     src="assets/story/${chapter.dropcap}.png" 
+     alt=""
+     style="${chapter.dropcapAdjust ? `position: relative; top: ${chapter.dropcapAdjust}px;` : ''}">
         ${chapter.opening}
       </p>
     `;
@@ -262,6 +265,14 @@ function renderChapter(page) {
           <div class="chapter-marker marker-${part.style || "default"}"></div>
         `;
       }
+
+      if (part.type === "letter") {
+  html += `<div class="letter">${part.content}</div>`;
+}
+
+if (part.type === "song") {
+  html += `<div class="song">${part.content}</div>`;
+}
 
       if (part.type === "image") {
         const imageSize = part.size ? `chapter-image-${part.size}` : "chapter-image-medium";
@@ -430,6 +441,14 @@ function renderContent() {
           </div>
         `;
       }
+
+      if (block.type === "letter") {
+  html += `<div class="letter">${block.content}</div>`;
+}
+
+if (block.type === "song") {
+  html += `<div class="song">${block.content}</div>`;
+}
 
       if (block.type === "image") {
         const imageSize = block.size ? `image-${block.size}` : "image-full";
