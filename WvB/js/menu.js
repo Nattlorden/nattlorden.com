@@ -12,11 +12,11 @@ const siteMeta = {
     missingTitle: "Saknas",
     missingText: "Innehåll kommer senare.",
     placeholder: "Stubbinnehåll. Här kan det senare läggas in fler textblock, bilder, ljudspelare, citat eller länkar.",
-
+title: 'Förlorade visor',
+        tagline: `<b>Wilhelm von Braun</b><br><i><span style="color:grey">(1813–1860)</span></i>`,
     sections: {
       general: {
-        title: 'Förlorade visor – Wilhelm von Braun',
-        tagline: '',
+        
         headerClass: "header-hifi"
       }
     }
@@ -26,11 +26,11 @@ const siteMeta = {
     missingTitle: "Missing",
     missingText: "Content will be added later.",
     placeholder: "Placeholder content. Here there can later be added more text blocks, images, audio players, quotes or links.",
-
+ title: "Lost tunes",
+        tagline: `<b>Wilhelm von Braun</b><br><i><span style="color:grey">(1813–1860)</span></i>`,
     sections: {
       general: {
-        title: "Lost tunes – Wilhelm von Braun",
-        tagline: "",
+       
         headerClass: "header-hifi"
       }
     }

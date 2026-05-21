@@ -1070,6 +1070,124 @@ Det var – en dröm, som mer jag saknat,
     }
   ],
       showPlaceholder: false
+},
+curious: {
+  menuTitle: "A Most Curious Man",
+  title: "A Most Curious Man",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+
+<p class="lyrics"><i>Min översättning av <b>Den märkvärdiga mannen</b></i><br>
+I know a most curious man,
+Whom surely the world should admire.
+Whatever a mortal one can,
+He claims to possess or acquire.
+ A curious man — that is clear!
+ Yet just a small pedant, I fear.
+
+Of Heaven’s own light he is sparing,
+Though none may obtain it for free;
+Yet learning he scatters unsparing,
+As if it were boundless as sea.
+ A curious man — that is clear!
+ Yet just a small pedant, I fear.
+
+You know that the earth is quite round,
+And dots must be set over “i”;
+But should you desire it profound,
+He’ll teach it as something gone by.
+ A curious man — that is clear!
+ Yet just a small pedant, I fear.
+
+A knot you can certainly tie,
+A candle you know how to trim;
+But go there and humbly apply,
+And lessons will flow out from him.
+ A curious man — that is clear!
+ Yet just a small pedant, I fear.
+
+He grants that the Maker is wise,
+Yet one who is wiser he knows;
+Whom exactly he never supplies —
+But he and his “Self” are quite close.
+ A curious man — that is clear!
+ Yet just a small pedant, I fear.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+laughingface: {
+  menuTitle: "Laughing Face / Broken Core",
+  title: "Laughing Face / Broken Core",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+
+<p class="lyrics"><i>Baserad på <b>Mitt konterfej</b></i><br>
+Oh what a spectacle—look at me now
+A painted smile, take a bow
+A charming face, a clever line
+A harmless fool by design
+
+They say I shine, they say I glow
+Irresistible in the show
+But every glance that falls my way
+Never sees what hides beneath the play
+
+I hesitated—should I appear?
+Or scatter this image far and near?
+A thousand hearts set into flame
+For someone they can’t ever claim
+
+ It’s only natural, isn’t it so?
+ To love the mask, but never know
+ The cost of watching, wanting more
+ A laughing face—a broken core
+
+I can’t help it, I play my part
+A single role, a borrowed heart
+You hold my image, day and night
+In waking thoughts and dreams so bright
+
+You call me warmth, you call me light
+But something in me died from sight
+What once was softened by a gaze
+Now stands alone in endless haze
+
+There was a time—reflections kind
+Mirrors lit by another mind
+Her eyes would shape what I could be
+Turn desert bones to living sea
+
+But death came through and broke the glass
+And all those gentle visions passed
+Now shadows settle in my face
+And laughter learns to take their place
+
+<i>So I joke—because I must
+Turn my sorrow into dust
+Feed them laughter, keep them fed
+While something in me stays half-dead</i>
+
+ It’s only natural—don’t you see?
+ The brighter mask, the less of me
+ A thousand smiles the world adores
+ But grief is locked behind the doors
+
+If they could read the ink I write—
+A thorn for pen, and tears for light
+They’d thank the silence they were given
+To live untouched by what I’m living</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+    }
+  ],
+      showPlaceholder: false
 }
 
   }

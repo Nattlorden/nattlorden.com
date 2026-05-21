@@ -90,14 +90,13 @@ function updateLanguageButtons() {
 function updateTagline() {
   const tagline = document.getElementById("tagline");
   const title = document.getElementById("siteTitle");
-  const meta = siteMeta?.[lang]?.sections?.[currentSection];
 
-  if (tagline) {
-    tagline.textContent = meta?.tagline || "";
+  if (title && siteMeta?.[lang]?.title) {
+    title.innerHTML = siteMeta[lang].title;
   }
 
-  if (title) {
-    title.textContent = meta?.title || "";
+  if (tagline && siteMeta?.[lang]?.tagline) {
+    tagline.innerHTML = siteMeta[lang].tagline;
   }
 
   document.documentElement.lang = lang;
