@@ -2,36 +2,6 @@ let lang = "sv";
 let currentSection = "singles";
 let currentPage = "overview";
 
-function readRouteFromUrl() {
-  const hash = window.location.hash.slice(1);
-  if (!hash) return;
-
-  const [section, page] = hash.split("/");
-
-  if (section) currentSection = decodeURIComponent(section);
-  if (page) currentPage = decodeURIComponent(page);
-}
-
-function updateRouteInUrl() {
-  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
-
-  if (window.location.hash.slice(1) !== route) {
-    history.pushState(null, "", `#${route}`);
-  }
-}
-
-function navigateTo(section, page, scrollToTop = true) {
-  currentSection = section;
-  currentPage = page;
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-}
-
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
@@ -131,10 +101,16 @@ function renderTopMenu() {
     /* item.appendChild(fallback);*/
 
     if (panel.enabled) {
-  item.onclick = function () {
-    navigateTo(panel.key, getPages(panel.key)[0]);
-  };
-}
+    item.onclick = function () {
+      currentSection = panel.key;
+      currentPage = getPages(panel.key)[0];
+      renderAll();
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    };
+    }
 
     topMenu.appendChild(item);
   });
@@ -168,8 +144,14 @@ function renderSideMenu() {
     }
 
     item.onclick = function () {
-  navigateTo(currentSection, pageKey);
-};
+      currentPage = pageKey;
+      renderContent();
+      renderSideMenu();
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    };
 
     sideMenu.appendChild(item);
   });
@@ -276,16 +258,15 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  item.onclick = function () {
-  navigateTo(currentSection, pageKey);
-};
-});
+  currentSection = link.dataset.section;
+  currentPage = link.dataset.page;
 
-readRouteFromUrl();
-renderAll();
-updateRouteInUrl();
-
-window.addEventListener("popstate", () => {
-  readRouteFromUrl();
   renderAll();
+
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
 });
+
+renderAll();

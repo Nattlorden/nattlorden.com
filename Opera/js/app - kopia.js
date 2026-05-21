@@ -2,36 +2,6 @@ let lang = "sv";
 let currentSection = "general";
 let currentPage = "about";
 
-function readRouteFromUrl() {
-  const hash = window.location.hash.slice(1);
-  if (!hash) return;
-
-  const [section, page] = hash.split("/");
-
-  if (section) currentSection = decodeURIComponent(section);
-  if (page) currentPage = decodeURIComponent(page);
-}
-
-function updateRouteInUrl() {
-  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
-
-  if (window.location.hash.slice(1) !== route) {
-    history.pushState(null, "", `#${route}`);
-  }
-}
-
-function navigateTo(section, page, scrollToTop = true) {
-  currentSection = section;
-  currentPage = page;
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-}
-
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
@@ -142,9 +112,14 @@ function renderTopMenu() {
     }
 
     item.onclick = function () {
-  const pages = getPages(sectionKey);
-  navigateTo(sectionKey, pages.length ? pages[0] : "");
-};
+      currentSection = sectionKey;
+
+      const pages = getPages(sectionKey);
+      currentPage = pages.length ? pages[0] : "";
+
+      renderAll();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    };
 
     topMenu.appendChild(item);
   });
@@ -175,8 +150,11 @@ function renderSideMenu() {
     }
 
     item.onclick = function () {
-  navigateTo(currentSection, pageKey);
-};
+      currentPage = pageKey;
+      renderContent();
+      renderSideMenu();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    };
 
     sideMenu.appendChild(item);
   });
@@ -333,11 +311,4 @@ document.addEventListener("click", function (e) {
   });
 });
 
-readRouteFromUrl();
 renderAll();
-updateRouteInUrl();
-
-window.addEventListener("popstate", () => {
-  readRouteFromUrl();
-  renderAll();
-});
