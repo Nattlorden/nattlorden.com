@@ -1,128 +1,248 @@
-let currentLang = "sv";
+let lang = "sv";
 let currentSection = "nattlorden";
 let currentPage = "about";
 
-// ===== INIT =====
-document.addEventListener("DOMContentLoaded", () => {
-  renderTopMenu();
-  renderSideMenu();
-  renderContent();
-  updateHeader();
-});
-
-// ===== LANGUAGE =====
-function setLang(lang) {
-  currentLang = lang;
-  renderTopMenu();
-  renderSideMenu();
-  renderContent();
-  updateHeader();
-}
-
-// ===== DATA HELPERS =====
 function getContent() {
-  return currentLang === "sv" ? contentSV : contentEN;
-}
-
-function getMeta() {
-  return siteMeta[currentLang];
+  return lang === "sv" ? contentSV : contentEN;
 }
 
 function getSections() {
-  return Object.keys(sectionLabels[currentLang]);
+  return Object.keys(getContent());
 }
 
-// ===== TOP MENU =====
+function getPages(sectionKey) {
+  const content = getContent();
+  if (!content[sectionKey]) {
+    return [];
+  }
+  return Object.keys(content[sectionKey]);
+}
+
+function ensureValidState() {
+  const sections = getSections();
+
+  if (!sections.includes(currentSection)) {
+    currentSection = sections[0];
+  }
+
+  const pages = getPages(currentSection);
+
+  if (!pages.includes(currentPage)) {
+    currentPage = pages[0];
+  }
+}
+
+function updateLanguageButtons() {
+  const btnSV = document.getElementById("btn-sv");
+  const btnEN = document.getElementById("btn-en");
+
+  btnSV.classList.toggle("active", lang === "sv");
+  btnEN.classList.toggle("active", lang === "en");
+}
+
+/*
+function updateTagline() {
+  const tagline = document.getElementById("tagline");
+  const meta = siteMeta[lang].sections[currentSection];
+
+  tagline.textContent = meta?.tagline || "";
+  document.documentElement.lang = lang;
+}*/
+function updateTagline() {
+  const tagline = document.getElementById("tagline");
+  const title = document.getElementById("siteTitle");
+
+  const meta = siteMeta[lang].sections[currentSection];
+
+  tagline.textContent = meta?.tagline || "";
+  title.textContent = meta?.title || "Side Projects";
+
+  document.documentElement.lang = lang;
+}
+
+
+
+function updateTheme() {
+  document.body.dataset.theme = currentSection;
+}
+
+function updateHeaderStyle() {
+  const header = document.getElementById("siteHeader");
+  if (!header) return;
+
+  header.className = "site-header";
+
+  const meta = siteMeta[lang].sections[currentSection];
+  if (meta?.headerClass) {
+    header.classList.add(meta.headerClass);
+  }
+}
+
 function renderTopMenu() {
   const topMenu = document.getElementById("topMenu");
   topMenu.innerHTML = "";
 
-  const labels = sectionLabels[currentLang];
+  const sections = getSections();
 
-  getSections().forEach(sectionKey => {
+  sections.forEach(sectionKey => {
     const item = document.createElement("div");
     item.className = "top-menu-item";
-    item.textContent = labels[sectionKey];
+    item.textContent = sectionLabels[lang][sectionKey] || sectionKey;
 
     if (sectionKey === currentSection) {
       item.classList.add("active");
     }
 
-    item.onclick = () => {
+    item.onclick = function () {
       currentSection = sectionKey;
-      currentPage = "about";
-      renderTopMenu();
-      renderSideMenu();
-      renderContent();
-      updateHeader();
-      window.scrollTo({ top: 0, behavior: "instant" });
+      currentPage = getPages(sectionKey)[0];
+      renderAll();
+      window.scrollTo({ top: 0, behavior: "smooth" });
     };
 
     topMenu.appendChild(item);
   });
 }
 
-// ===== SIDE MENU =====
 function renderSideMenu() {
   const sideMenu = document.getElementById("sideMenu");
   sideMenu.innerHTML = "";
 
-  const content = getContent()[currentSection];
+  const content = getContent();
+  const pages = getPages(currentSection);
 
-  Object.keys(content).forEach(pageKey => {
+  pages.forEach(pageKey => {
+    const page = content[currentSection][pageKey];
+
+    if (page.hidden === true) {
+      return;
+    }
+
     const item = document.createElement("div");
     item.className = "side-menu-item";
-    item.textContent = content[pageKey].menuTitle;
+    item.textContent = page.menuTitle || pageKey;
 
     if (pageKey === currentPage) {
       item.classList.add("active");
     }
 
-    item.onclick = () => {
+    item.onclick = function () {
       currentPage = pageKey;
-      renderSideMenu();
       renderContent();
-      window.scrollTo({ top: 0, behavior: "instant" });
+      renderSideMenu();
+      window.scrollTo({ top: 0, behavior: "smooth" });
     };
 
     sideMenu.appendChild(item);
   });
 }
 
-// ===== CONTENT =====
 function renderContent() {
-  const contentArea = document.getElementById("content");
-  const meta = getMeta();
-  const content = getContent()[currentSection][currentPage];
+  const main = document.getElementById("content");
+  const content = getContent();
+  const page = content[currentSection] && content[currentSection][currentPage]
+    ? content[currentSection][currentPage]
+    : null;
 
-  if (!content) {
-    contentArea.innerHTML = `
-      <h2>${meta.missingTitle}</h2>
-      <p>${meta.missingText}</p>
+  if (!page) {
+    main.innerHTML = `
+      <h2>${siteMeta[lang].missingTitle}</h2>
+      <p>${siteMeta[lang].missingText}</p>
     `;
     return;
   }
 
-  contentArea.innerHTML = `
-    <h2>${content.title}</h2>
-    <p>${content.text.replace(/\n/g, "<br><br>")}</p>
-    ${content.showPlaceholder !== false ? `<p>${meta.placeholder}</p>` : ""}
-  `;
-}
+  let html = `<h2>${page.title}</h2>`;
 
-// ===== HEADER STYLE SWITCH =====
-function updateHeader() {
-  const header = document.getElementById("siteHeader");
-  const taglineEl = document.getElementById("tagline");
-  const meta = getMeta();
+  if (page.blocks && page.blocks.length > 0) {
+    page.blocks.forEach(block => {
+      if (block.type === "text") {
+        html += `
+          <div class="text-block">
+            ${block.content}
+          </div>
+        `;
+      }
 
-  // reset classes
-  header.className = "site-header";
+      if (block.type === "image") {
+        const imageSize = block.size ? `image-${block.size}` : "image-full";
 
-  const sectionMeta = meta.sections[currentSection];
+        html += `
+          <figure class="image-block ${imageSize}">
+            <img src="${block.src}" alt="${block.alt || ""}">
+            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
+          </figure>
+        `;
+      }
 
-  if (sectionMeta) {
-    header.classList.add(sectionMeta.headerClass);
-    taglineEl.textContent = sectionMeta.tagline;
+      if (block.type === "divider") {
+        html += `<hr>`;
+      }
+    });
+  } else {
+    if (page.text) {
+      html += `
+        <div class="text-block">
+          ${page.text}
+        </div>
+      `;
+    }
+
+    if (page.images && page.images.length > 0) {
+      html += `<div class="image-gallery">`;
+
+      page.images.forEach(src => {
+        html += `<img src="${src}" alt="">`;
+      });
+
+      html += `</div>`;
+    }
   }
+
+  if (page.showPlaceholder !== false) {
+    html += `
+      <div class="placeholder-box">
+        ${siteMeta[lang].placeholder}
+      </div>
+    `;
+  }
+
+  main.innerHTML = html;
 }
+
+function renderAll() {
+  ensureValidState();
+  updateLanguageButtons();
+  updateTagline();
+  updateTheme();
+  updateHeaderStyle();
+  renderTopMenu();
+  renderSideMenu();
+  renderContent();
+}
+
+function setLang(newLang) {
+  lang = newLang;
+  renderAll();
+}
+
+document.addEventListener("click", function (e) {
+  const link = e.target.closest("a[data-section][data-page]");
+
+  if (!link) {
+    return;
+  }
+
+  e.preventDefault();
+
+  currentSection = link.dataset.section;
+  currentPage = link.dataset.page;
+
+  renderAll();
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+});
+
+renderAll();
