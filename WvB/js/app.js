@@ -1,6 +1,6 @@
 let lang = "sv";
-let currentSection = "food";
-let currentPage = "recipes_home";
+let currentSection = "general";
+let currentPage = "about";
 
 function readRouteFromUrl() {
   const hash = window.location.hash.slice(1);
@@ -40,68 +40,24 @@ function getSections() {
   return Object.keys(getContent());
 }
 
-function isGroupedSection(sectionKey) {
-  const content = getContent();
-  const section = content[sectionKey];
-
-  if (!section) {
-    return false;
-  }
-
-  const firstValue = Object.values(section)[0];
-  return !!(firstValue && firstValue.pages);
-}
-
 function getPages(sectionKey) {
   const content = getContent();
-  const section = content[sectionKey];
 
-  if (!section) {
+  if (!content[sectionKey]) {
     return [];
   }
 
-  if (!isGroupedSection(sectionKey)) {
-    return Object.keys(section);
-  }
-
-  const pages = [];
-
-  Object.values(section).forEach(group => {
-    if (!group.pages) {
-      return;
-    }
-
-    Object.keys(group.pages).forEach(pageKey => {
-      pages.push(pageKey);
-    });
-  });
-
-  return pages;
-}
-
-function getPage(sectionKey, pageKey) {
-  const content = getContent();
-  const section = content[sectionKey];
-
-  if (!section) {
-    return null;
-  }
-
-  if (!isGroupedSection(sectionKey)) {
-    return section[pageKey] || null;
-  }
-
-  for (const group of Object.values(section)) {
-    if (group.pages && group.pages[pageKey]) {
-      return group.pages[pageKey];
-    }
-  }
-
-  return null;
+  return Object.keys(content[sectionKey]);
 }
 
 function ensureValidState() {
   const sections = getSections();
+
+  if (!sections.length) {
+    currentSection = "";
+    currentPage = "";
+    return;
+  }
 
   if (!sections.includes(currentSection)) {
     currentSection = sections[0];
@@ -109,8 +65,8 @@ function ensureValidState() {
 
   const pages = getPages(currentSection);
 
-  if (pages.length === 0) {
-    currentPage = null;
+  if (!pages.length) {
+    currentPage = "";
     return;
   }
 
@@ -123,18 +79,55 @@ function updateLanguageButtons() {
   const btnSV = document.getElementById("btn-sv");
   const btnEN = document.getElementById("btn-en");
 
+  if (!btnSV || !btnEN) {
+    return;
+  }
+
   btnSV.classList.toggle("active", lang === "sv");
   btnEN.classList.toggle("active", lang === "en");
 }
 
 function updateTagline() {
   const tagline = document.getElementById("tagline");
-  tagline.textContent = siteMeta[lang].tagline;
+  const title = document.getElementById("siteTitle");
+  const meta = siteMeta?.[lang]?.sections?.[currentSection];
+
+  if (tagline) {
+    tagline.textContent = meta?.tagline || "";
+  }
+
+  if (title) {
+    title.textContent = meta?.title || "";
+  }
+
   document.documentElement.lang = lang;
+}
+
+function updateTheme() {
+  if (!currentSection) {
+    document.body.removeAttribute("data-theme");
+    return;
+  }
+
+  document.body.dataset.theme = currentSection;
+}
+
+function updateHeaderStyle() {
+  const header = document.getElementById("siteHeader");
+  if (!header) return;
+
+  header.className = "site-header";
+
+  const meta = siteMeta?.[lang]?.sections?.[currentSection];
+  if (meta?.headerClass) {
+    header.classList.add(meta.headerClass);
+  }
 }
 
 function renderTopMenu() {
   const topMenu = document.getElementById("topMenu");
+  if (!topMenu) return;
+
   topMenu.innerHTML = "";
 
   const sections = getSections();
@@ -142,7 +135,7 @@ function renderTopMenu() {
   sections.forEach(sectionKey => {
     const item = document.createElement("div");
     item.className = "top-menu-item";
-    item.textContent = sectionLabels[lang][sectionKey] || sectionKey;
+    item.textContent = sectionLabels?.[lang]?.[sectionKey] || sectionKey;
 
     if (sectionKey === currentSection) {
       item.classList.add("active");
@@ -150,7 +143,7 @@ function renderTopMenu() {
 
     item.onclick = function () {
   const pages = getPages(sectionKey);
-  navigateTo(sectionKey, pages.length > 0 ? pages[0] : null);
+  navigateTo(sectionKey, pages.length ? pages[0] : "");
 };
 
     topMenu.appendChild(item);
@@ -159,120 +152,69 @@ function renderTopMenu() {
 
 function renderSideMenu() {
   const sideMenu = document.getElementById("sideMenu");
+  if (!sideMenu) return;
+
   sideMenu.innerHTML = "";
 
   const content = getContent();
-  const section = content[currentSection];
+  const pages = getPages(currentSection);
 
-  if (!section) {
-    return;
-  }
+  pages.forEach(pageKey => {
+    const page = content?.[currentSection]?.[pageKey];
 
-  if (!isGroupedSection(currentSection)) {
-    const pages = getPages(currentSection);
+    if (!page || page.hidden === true) {
+      return;
+    }
 
-    pages.forEach(pageKey => {
-      const page = section[pageKey];
+    const item = document.createElement("div");
+    item.className = "side-menu-item";
+    item.textContent = page.menuTitle || page.title || pageKey;
 
-      if (page.hidden === true) {
-        return;
-      }
+    if (pageKey === currentPage) {
+      item.classList.add("active");
+    }
 
-      const item = document.createElement("div");
-      item.className = "side-menu-item";
-      item.textContent = page.menuTitle || pageKey;
-
-      if (pageKey === currentPage) {
-        item.classList.add("active");
-      }
-
-      item.onclick = function () {
+    item.onclick = function () {
   navigateTo(currentSection, pageKey);
 };
 
-      sideMenu.appendChild(item);
-    });
-
-    return;
-  }
-
-  Object.keys(section).forEach(groupKey => {
-    const group = section[groupKey];
-
-    if (!group || !group.pages) {
-      return;
-    }
-
-    const visiblePages = Object.keys(group.pages).filter(pageKey => {
-      const page = group.pages[pageKey];
-      return page.hidden !== true;
-    });
-
-    if (visiblePages.length === 0) {
-      return;
-    }
-
-    if (group.label) {
-      const heading = document.createElement("div");
-      heading.className = "side-menu-group";
-      heading.textContent = group.label;
-      sideMenu.appendChild(heading);
-    }
-
-    visiblePages.forEach(pageKey => {
-      const page = group.pages[pageKey];
-
-      const item = document.createElement("div");
-      item.className = "side-menu-item";
-      item.textContent = page.menuTitle || pageKey;
-
-      if (pageKey === currentPage) {
-        item.classList.add("active");
-      }
-
-      item.onclick = function () {
-        currentPage = pageKey;
-        renderContent();
-        renderSideMenu();
-        window.scrollTo({
-          top: 0,
-          behavior: "smooth"
-        });
-      };
-
-      sideMenu.appendChild(item);
-    });
+    sideMenu.appendChild(item);
   });
 }
 
 function renderContent() {
   const main = document.getElementById("content");
-  const page = currentPage ? getPage(currentSection, currentPage) : null;
+  if (!main) return;
+
+  const content = getContent();
+  const page = content?.[currentSection]?.[currentPage] || null;
 
   if (!page) {
     main.innerHTML = `
-      <h2>${siteMeta[lang].missingTitle}</h2>
-      <p>${siteMeta[lang].missingText}</p>
+      <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
+      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
     `;
     return;
   }
 
-  let html = `<h2>${page.title}</h2>`;
+  let html = `<h2>${page.title || ""}</h2>`;
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
       if (block.type === "text") {
         html += `
           <div class="text-block">
-            ${block.content}
+            ${block.content || ""}
           </div>
         `;
       }
 
-      if (block.type === "pre") {
-        html += `
-          <pre class="recipe-pre">${block.content}</pre>
-        `;
+      if (block.type === "note") {
+       html += `
+        <div class="note-block">
+            ${block.content || ""}
+        </div>
+      `;
       }
 
       if (block.type === "image") {
@@ -289,6 +231,41 @@ function renderContent() {
       if (block.type === "divider") {
         html += `<hr>`;
       }
+      if (block.type === "scene") {
+  html += `
+    <section class="libretto-scene">
+      ${block.title ? `<h3>${block.title}</h3>` : ""}
+      ${block.content ? `<div>${block.content}</div>` : ""}
+    </section>
+  `;
+}
+
+if (block.type === "action") {
+  html += `
+    <div class="libretto-action">
+      ${block.content || ""}
+    </div>
+  `;
+}
+
+if (block.type === "line") {
+  html += `
+    <div class="libretto-line">
+      <div class="libretto-voice">
+        ${block.voice || ""}
+        ${block.note ? `<span>${block.note}</span>` : ""}
+      </div>
+
+      <div class="libretto-original">
+        ${block.original || ""}
+      </div>
+
+      <div class="libretto-translation">
+        ${block.translation || ""}
+      </div>
+    </div>
+  `;
+    }
     });
   } else {
     if (page.text) {
@@ -313,7 +290,7 @@ function renderContent() {
   if (page.showPlaceholder !== false) {
     html += `
       <div class="placeholder-box">
-        ${siteMeta[lang].placeholder}
+        ${siteMeta?.[lang]?.placeholder || ""}
       </div>
     `;
   }
@@ -325,6 +302,8 @@ function renderAll() {
   ensureValidState();
   updateLanguageButtons();
   updateTagline();
+  updateTheme();
+  updateHeaderStyle();
   renderTopMenu();
   renderSideMenu();
   renderContent();
@@ -344,7 +323,14 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  navigateTo(link.dataset.section, link.dataset.page);
+  currentSection = link.dataset.section;
+  currentPage = link.dataset.page;
+
+  renderAll();
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
 });
 
 readRouteFromUrl();

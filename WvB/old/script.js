@@ -184,10 +184,8 @@ function loadContent(section) {
     <li>Evas dröm - av Olle Adolphson(?) <a href="https://youtu.be/u9fDDkL8n3k" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li>En åsknatt på Trollhättan - av (ännu) okända <a href="https://youtu.be/RDwWCxmKCTE?list=RDRDwWCxmKCTE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
 </ul>
-<hr>
 <h3>Mina</h3>
 <h4>Förlorade visor – Del 1 &nbsp; &nbsp; &nbsp;  <a href="https://open.spotify.com/album/6OyEXjdNwx5tBp7KdyeVZA?si=S9DrROllQqaDDtTkW9CAGA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=UlIDylhQQ8E&list=OLAK5uy_kv-cEJ1Un87LV_kgdpTULimbU2s9XiCKY" target="_blank" rel="noopener noreferrer">YouTube</a></h4>
-
 <ol class="track-list">
     <li onclick="loadContent('bekannelse')">Poetisk trosbekännelse <a href="https://open.spotify.com/track/2JkUnMb6hKoUKR4gbkhSZP?si=1a3c43aa1a724030" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/UlIDylhQQ8E?si=YErmm9714HNYGe4J" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li onclick="loadContent('markvardig')">Den märkvärdige mannen <a href="https://open.spotify.com/track/3cfz4FO3fDh2kkhS2PGydi?si=07fe7e2328184749 target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/YZtkVU6IN2w?si=uMw1R7zxk0vxDV_P" target="_blank" rel="noopener noreferrer">YouTube</a></li>

@@ -1,73 +1,91 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
-<meta charset="UTF-8">
-<title>Förlorade visor – Wilhelm von Braun</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Förlorade visor – Wilhelm von Braun</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
 
-<header>
-    <div class="header-content">
+<header class="site-header header-wvb">
 
-<div class="header-left">
+  <div class="header-left">
+    <a href="/" class="back-home">
+      <img src="assets/ui/back-arrow.png" alt="Tillbaka">
+    </a>
+  </div>
+
+  <div class="header-inner">
+    <div class="branding">
+      <h1>Förlorade visor</h1>
+      <p class="tagline">
+        <b>Wilhelm von Braun</b><br><i><font color=grey>(1813–1860)</font></i>
+      </p>
+    </div>
+  </div>
+
+  <div class="header-right">
+    <div class="header-portrait">
+      <img src="assets/ui/portrait.png"
+           alt="Wilhelm von Braun">
+    </div>
+    <div class="lang-switch">
+      <button  id="btn-sv" onclick="setLang('sv')">SV</button>
+      <button  id="btn-en" onclick="setLang('en')">EN</button>
+    <div>
+
+    
+  </div>
+
+</header>  
+<!--
+<header class="site-header" id="siteHeader">
+  <div class="header-left">
     <a href="/" class="back-home" title="Tillbaka till startsidan">
       <img src="assets/ui/back-arrow.png" alt="Tillbaka">
     </a>
   </div>
-              
-        <div class="header-text">
-             <h1>Förlorade visor</h1>
-            <p><b>Wilhelm von Braun</b></p>
-            <p><i><font color="grey">(1813-1860)</i></font></i></p>
-        </div>
 
-         <div class="header-portrait">
-            <img src="portrait.png" alt="Wilhelm von Braun">
-        </div>
-
-        
-
-       
+  <div class="header-inner">
+    <div class="branding">
+      <h1 id="siteTitle">Opera</h1>
+      <p class="tagline" id="tagline">Opera, operett, musikal, musikteater...</p>
     </div>
-</header>
+  </div>
 
-<div class="container">
+  <div class="header-right">
+    <div class="lang-switch">
+      <button type="button" id="btn-sv" onclick="setLang('sv')">SV</button>
+      <button type="button" id="btn-en" onclick="setLang('en')">EN</button>
+    </div>
+  </div>
+</header> -->
 
-    <!-- SIDOMENY -->
-    <nav class="sidebar">
-        <ul>
-            <li onclick="loadContent('intro')">Introduktion</li>
-            <li onclick="loadContent('portrait')">Porträttet</li>
-            <li onclick="loadContent('timeline')">Tidslinje</li>
-            <li onclick="loadContent('published')">Bibliografi</li>
-            <li onclick="loadContent('songs')">Sånger</li>
-            <li onclick="loadContent('texts')">Texter</li>
-            <li onclick="loadContent('about')">Om projektet</li>
-            <li onclick="loadContent('log')">Projektlogg</li>
-        </ul>
-    </nav>
+<!-- NOTE:  Removed top menu - remove comment-out if desire to restore
+<nav class="top-menu" id="topMenu"></nav> -->
 
-    <!-- HUVUDFÄLT -->
-    <main id="content">
+<div class="layout">
+  <aside class="side-menu" id="sideMenu"></aside>
+  <main class="content-area">
 
-        <!-- PORTRÄTTBILD -->
-        <div class="portrait">
-            <img src="portrait.png" alt="Wilhelm von Braun">
-        </div>
+  <div class="content-portrait">
+    <img src="assets/ui/portrait.png"
+         alt="Wilhelm von Braun">
+  </div>
 
-        <!-- DYNAMISKT INNEHÅLL -->
-        <div id="text-content">
-            <h2>Välkommen</h2>
-            <p>Innehåll kommer här...</p>
-        </div>
+  <div class="content-inner" id="content">
+  </div>
 
-    </main>
-
+</main>
 </div>
 
-<script src="script.js"></script>
 
+
+
+<script src="js/menu.js"></script>
+<script src="js/content-sv.js"></script>
+<script src="js/content-en.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>

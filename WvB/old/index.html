@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<title>Förlorade visor – Wilhelm von Braun</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="header-content">
+
+<div class="header-left">
+    <a href="/" class="back-home" title="Tillbaka till startsidan">
+      <img src="assets/ui/back-arrow.png" alt="Tillbaka">
+    </a>
+  </div>
+              
+        <div class="header-text">
+             <h1>Förlorade visor</h1>
+            <p><b>Wilhelm von Braun</b></p>
+            <p><i><font color="grey">(1813-1860)</i></font></i></p>
+        </div>
+
+         <div class="header-portrait">
+            <img src="assets/ui/portrait.png" alt="Wilhelm von Braun">
+        </div>
+
+        
+
+       
+    </div>
+</header>
+
+<div class="container">
+
+    <!-- SIDOMENY -->
+    <nav class="sidebar">
+        <ul>
+            <li onclick="loadContent('intro')">Introduktion</li>
+            <li onclick="loadContent('portrait')">Porträttet</li>
+            <li onclick="loadContent('timeline')">Tidslinje</li>
+            <li onclick="loadContent('published')">Bibliografi</li>
+            <li onclick="loadContent('songs')">Sånger</li>
+            <li onclick="loadContent('texts')">Texter</li>
+            <li onclick="loadContent('about')">Om projektet</li>
+            <li onclick="loadContent('log')">Projektlogg</li>
+        </ul>
+    </nav>
+
+    <!-- HUVUDFÄLT -->
+    <main id="content">
+
+        <!-- PORTRÄTTBILD -->
+        <div class="portrait">
+            <img src="portrait.png" alt="Wilhelm von Braun">
+        </div>
+
+        <!-- DYNAMISKT INNEHÅLL -->
+        <div id="text-content">
+            <h2>Välkommen</h2>
+            <p>Innehåll kommer här...</p>
+        </div>
+
+    </main>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

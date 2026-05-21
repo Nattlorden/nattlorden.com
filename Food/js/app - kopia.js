@@ -1,6 +1,6 @@
 let lang = "sv";
-let currentSection = "baking";
-let currentPage = "grahamsbullar";
+let currentSection = "food";
+let currentPage = "recipes_home";
 
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
@@ -10,12 +10,64 @@ function getSections() {
   return Object.keys(getContent());
 }
 
+function isGroupedSection(sectionKey) {
+  const content = getContent();
+  const section = content[sectionKey];
+
+  if (!section) {
+    return false;
+  }
+
+  const firstValue = Object.values(section)[0];
+  return !!(firstValue && firstValue.pages);
+}
+
 function getPages(sectionKey) {
   const content = getContent();
-  if (!content[sectionKey]) {
+  const section = content[sectionKey];
+
+  if (!section) {
     return [];
   }
-  return Object.keys(content[sectionKey]);
+
+  if (!isGroupedSection(sectionKey)) {
+    return Object.keys(section);
+  }
+
+  const pages = [];
+
+  Object.values(section).forEach(group => {
+    if (!group.pages) {
+      return;
+    }
+
+    Object.keys(group.pages).forEach(pageKey => {
+      pages.push(pageKey);
+    });
+  });
+
+  return pages;
+}
+
+function getPage(sectionKey, pageKey) {
+  const content = getContent();
+  const section = content[sectionKey];
+
+  if (!section) {
+    return null;
+  }
+
+  if (!isGroupedSection(sectionKey)) {
+    return section[pageKey] || null;
+  }
+
+  for (const group of Object.values(section)) {
+    if (group.pages && group.pages[pageKey]) {
+      return group.pages[pageKey];
+    }
+  }
+
+  return null;
 }
 
 function ensureValidState() {
@@ -26,6 +78,11 @@ function ensureValidState() {
   }
 
   const pages = getPages(currentSection);
+
+  if (pages.length === 0) {
+    currentPage = null;
+    return;
+  }
 
   if (!pages.includes(currentPage)) {
     currentPage = pages[0];
@@ -63,7 +120,9 @@ function renderTopMenu() {
 
     item.onclick = function () {
       currentSection = sectionKey;
-      currentPage = getPages(sectionKey)[0];
+      const pages = getPages(sectionKey);
+      currentPage = pages.length > 0 ? pages[0] : null;
+
       renderAll();
       window.scrollTo({
         top: 0,
@@ -80,43 +139,98 @@ function renderSideMenu() {
   sideMenu.innerHTML = "";
 
   const content = getContent();
-  const pages = getPages(currentSection);
+  const section = content[currentSection];
 
-  pages.forEach(pageKey => {
-    const page = content[currentSection][pageKey];
+  if (!section) {
+    return;
+  }
 
-    if (page.hidden === true) {
+  if (!isGroupedSection(currentSection)) {
+    const pages = getPages(currentSection);
+
+    pages.forEach(pageKey => {
+      const page = section[pageKey];
+
+      if (page.hidden === true) {
+        return;
+      }
+
+      const item = document.createElement("div");
+      item.className = "side-menu-item";
+      item.textContent = page.menuTitle || pageKey;
+
+      if (pageKey === currentPage) {
+        item.classList.add("active");
+      }
+
+      item.onclick = function () {
+        currentPage = pageKey;
+        renderContent();
+        renderSideMenu();
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+        });
+      };
+
+      sideMenu.appendChild(item);
+    });
+
+    return;
+  }
+
+  Object.keys(section).forEach(groupKey => {
+    const group = section[groupKey];
+
+    if (!group || !group.pages) {
       return;
     }
 
-    const item = document.createElement("div");
-    item.className = "side-menu-item";
-    item.textContent = page.menuTitle || pageKey;
+    const visiblePages = Object.keys(group.pages).filter(pageKey => {
+      const page = group.pages[pageKey];
+      return page.hidden !== true;
+    });
 
-    if (pageKey === currentPage) {
-      item.classList.add("active");
+    if (visiblePages.length === 0) {
+      return;
     }
 
-    item.onclick = function () {
-      currentPage = pageKey;
-      renderContent();
-      renderSideMenu();
-      window.scrollTo({
-        top: 0,
-        behavior: "smooth"
-      });
-    };
+    if (group.label) {
+      const heading = document.createElement("div");
+      heading.className = "side-menu-group";
+      heading.textContent = group.label;
+      sideMenu.appendChild(heading);
+    }
 
-    sideMenu.appendChild(item);
+    visiblePages.forEach(pageKey => {
+      const page = group.pages[pageKey];
+
+      const item = document.createElement("div");
+      item.className = "side-menu-item";
+      item.textContent = page.menuTitle || pageKey;
+
+      if (pageKey === currentPage) {
+        item.classList.add("active");
+      }
+
+      item.onclick = function () {
+        currentPage = pageKey;
+        renderContent();
+        renderSideMenu();
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+        });
+      };
+
+      sideMenu.appendChild(item);
+    });
   });
 }
 
 function renderContent() {
   const main = document.getElementById("content");
-  const content = getContent();
-  const page = content[currentSection] && content[currentSection][currentPage]
-    ? content[currentSection][currentPage]
-    : null;
+  const page = currentPage ? getPage(currentSection, currentPage) : null;
 
   if (!page) {
     main.innerHTML = `
