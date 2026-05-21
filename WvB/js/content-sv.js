@@ -206,7 +206,7 @@ timeline: {
   blocks: [
     {
       type: "text",
-      content: `Originl + översättningar...`
+      content: `Original + översättningar...`
     }
     ]
 },

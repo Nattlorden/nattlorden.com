@@ -3,50 +3,50 @@ const contentEN = {
     about: {
       menuTitle: "Introduction",
       title: "To the Public",
-      text: `Wilhelm von Braun var en gång en av Sveriges mest lästa skalder – idag nästan bortglömd.
+      text: `Wilhelm von Braun was once one of Sweden’s most widely read poets – today almost forgotten.
 
-Detta projekt är ett försök att ge hans röst liv igen, genom musik.
+This project is an attempt to give his voice life again, through music.
       `,
       showPlaceholder: false
     },
 
     portrait: {
-  menuTitle: "Porträttet",
-  title: "Porträttet",
+  menuTitle: "Portrait",
+  title: "Portrait",
   blocks: [
     {
       type: "text",
-      content: `<h3>Om detta porträtt</h3>
-<i>Detta är en personlig tolkning av Wilhelm von Brauns liv och personlighet, baserad på biografiskt material, brev, anekdoter och hans egna texter.
+      content: `<h3>About this portrait</h3>
+<i>This is a personal interpretation of Wilhelm von Braun’s life and personality, based on biographical material, letters, anecdotes, and his own writings.
 
-Det gör inte anspråk på att vara en fullständigt objektiv eller vetenskapligt fastställd bild, utan snarare ett försök att förstå människan bakom verken.</i>
+It does not claim to be a fully objective or scientifically established portrayal, but rather an attempt to understand the human being behind the works.</i>
 <hr>
-<h3>Barndom</h3>
-Wilhelm von Braun föddes 1813 som det tredje av sju barn i en officersfamilj. Fadern, överstelöjtnanten och sedermera postmästaren Kristian Benjamin von Braun, förde familjen mellan militär och borgerlig miljö, medan modern Justina Katarina Militz härstammade från en handelssläkt i Göteborg. Syskonskaran kom att följa skilda livsbanor – från militär och ämbetsmannakarriärer till religiöst och litterärt präglade liv – men endast en av bröderna förde släkten vidare.
+<h3>Childhood</h3>
+Wilhelm von Braun was born in 1813 as the third of seven children in a military family. His father, Lieutenant Colonel and later postmaster Kristian Benjamin von Braun, moved the family between military and bourgeois environments, while his mother Justina Katarina Militz came from a merchant family in Gothenburg. The siblings would go on to follow very different paths in life – from military and civil service careers to lives shaped by religion and literature – but only one of the brothers continued the family line.
 
-Wilhelm von Brauns barndom tycks ha rymt både trygghet och motsatser. Till sin farmor hyste han en djup och livslång tillgivenhet, som han själv i vuxen ålder beskrev i ovanligt starka ordalag. Samtidigt präglades hans skolgång av hård disciplin och återkommande kroppslig bestraffning, något som särskilt från tiden i Sällerhög lämnade bestående minnen. Redan som ung gav han också uttryck för en motvilja mot det tillgjorda och ytliga, vilket antyder en tidigt utvecklad känsla för autenticitet – en egenskap som senare kom att prägla både hans person och diktning.
+Wilhelm von Braun’s childhood seems to have contained both security and contradictions. He felt a deep and lifelong affection for his grandmother, which he himself described in unusually strong terms later in life. At the same time, his schooling was marked by harsh discipline and repeated corporal punishment, something that especially from his time in Sällerhög left lasting memories. Already at a young age he also expressed a dislike for the artificial and superficial, suggesting an early-developed sense of authenticity – a trait that would later characterize both his personality and poetry.
 
-<h3>Militären och det samtida</h3>
-Von Braun inträdde i militärtjänst i ung ålder, men förefaller aldrig helt ha funnit sig till rätta i den militära miljön. Samtida uppgifter antyder att hans främsta styrka snarare låg i det sociala och litterära, där hans kvickhet och diktning gjorde honom uppskattad i kamratkretsen. Det är sannolikt att skrivandet under dessa år inte bara var ett uttryck för begåvning, utan också ett sätt att göra tillvaron mer uthärdlig.
+<h3>The Military and His Time</h3>
+Von Braun entered military service at a young age, but never seems to have fully found his place within the military environment. Contemporary accounts suggest that his greatest strengths instead lay in social and literary circles, where his wit and poetry made him appreciated among his companions. It is likely that writing during these years was not merely an expression of talent, but also a way of making life more bearable.
 
-Samtidigt tycks denna period ha präglats av en mindre disciplinerad livsföring. Redan i tidig ålder utvecklade han en smak för starka drycker och hade svårt att hushålla med sina medel – drag som inte var ovanliga i officersmiljöer, men som hos honom förefaller ha fått särskild betydelse. Under flera år var han dessutom geografiskt skild från sin familj, vilket ytterligare kan ha bidragit till en lösare förankring i vardagens struktur. Den militära banan framstår därmed mindre som ett kall än som en yttre ram, formad av familjetradition och förväntningar – en ram som låg illa till hans läggning och som han aldrig riktigt växte in i.
+At the same time, this period appears to have been marked by a somewhat undisciplined lifestyle. Already early in life he developed a taste for strong drink and had difficulty managing his finances – traits not uncommon in officer circles, but which in his case seem to have gained particular significance. For several years he was also geographically separated from his family, which may further have contributed to a looser attachment to the structure of everyday life. His military career therefore appears less as a calling than as an external framework, shaped by family tradition and expectation – a framework ill-suited to his temperament and one he never truly grew into.
 
-Under sin kommendering i Vänersborg kom von Braun i nära kontakt med sin släkt på Björnegården, där han mötte kusinen Ebba. Förälskelsen tycks ha varit stark, men samtidigt präglad av en viss återhållsamhet. Sett i ljuset av den sjukdom han vid samma tid ådrog sig, framträder denna relation som en möjlig motpol – en idealiserad kärlek i kontrast till ett mer problematiskt och kroppsligt erfarenhetsfält.
+During his posting in Vänersborg, von Braun came into close contact with his relatives at Björnegården, where he met his cousin Ebba. The infatuation appears to have been strong, yet at the same time marked by a certain restraint. Seen in light of the illness he contracted around the same period, this relationship emerges as a possible counterweight – an idealized love contrasted against a more problematic and physical sphere of experience.
 
 <p><font color="red">...to be continued...</font></p>
 <hr>
-<h3>Medicinsk bakgrund och sista sjukdom</h3>
-Wilhelm von Brauns hälsotillstånd framträder i källorna som återkommande sviktande, snarare än som en serie isolerade sjukdomstillfällen. Redan 1835 uppsökte han vård för vad som betecknas som en venerisk sjukdom, och några år senare, 1842, insjuknade han på nytt och genomgick en badkur i Visby. Samtida uppgifter noterar att han därefter aldrig blev helt återställd.
+<h3>Medical Background and Final Illness</h3>
+Wilhelm von Braun’s health condition appears in the sources as repeatedly fragile rather than as a series of isolated illnesses. As early as 1835 he sought medical care for what was described as a venereal disease, and a few years later, in 1842, he fell ill again and underwent a spa treatment in Visby. Contemporary reports note that he was never fully restored afterward.
 
-Under 1840- och 1850-talen återkommer tecken på ett mer långvarigt hälsoproblem. Bland annat nämns “förlamning i fötterna”, vilket vid tiden uppfattades som ett nervöst eller reumatiskt tillstånd och behandlades med kallvattenkurer. Sådana behandlingar var dock ospecifika och användes vid en rad kroniska besvär, vilket gör diagnosen osäker i efterhand.
+During the 1840s and 1850s, signs of a more prolonged health problem recur. Among other things, “paralysis in the feet” is mentioned, which at the time was perceived as a nervous or rheumatic condition and treated with cold-water cures. Such treatments, however, were nonspecific and used for a wide range of chronic ailments, making retrospective diagnosis uncertain.
 
-Hans sista sjukdomsförlopp sommaren 1860 är däremot relativt väl beskrivet. Det inleddes med smärta i ländryggen och tilltagande svårigheter att kasta vatten, vilket i samtiden tolkades som tecken på njursten. Efter en tillfällig förbättring följde ett återfall med flera dygns fullständigt urinstopp. När läkare till slut tillkallades hade tillståndet förvärrats till kallbrand i underlivet, sannolikt till följd av den långvariga urinretentionen och efterföljande infektion. Han fördes till lasarettet i Uddevalla och opererades, men avled kort därefter.
+His final illness during the summer of 1860 is, however, relatively well documented. It began with pain in the lower back and increasing difficulty urinating, which contemporaries interpreted as signs of kidney stones. After a temporary improvement came a relapse with several days of complete urinary retention. When doctors were finally called, the condition had worsened into gangrene in the genital area, likely as a result of the prolonged urinary retention and subsequent infection. He was taken to the hospital in Uddevalla and operated on, but died shortly thereafter.
 
-Detta slutskede talar starkt för att von Braun under längre tid haft problem med urinvägarna, antingen i form av ett mekaniskt hinder (såsom förträngning) eller en störning i blåsfunktionen. Den tidigare sjukdomshistorien kan möjligen sättas i samband med detta, men sambanden är inte säkert belagda.
+This final stage strongly suggests that von Braun had long suffered from urinary tract problems, either in the form of a mechanical obstruction (such as a stricture) or dysfunction of the bladder. His earlier medical history may possibly be connected to this, but the relationship cannot be firmly established.
 
-Enligt samtida uppgifter ådrog sig von Braun sin veneriska sjukdom under en vistelse i Göteborg i början av 1830-talet, i en miljö präglad av både militär väntetid och stadens nöjesliv. Han själv anspelade senare på detta i ironiska ordalag, men noterade samtidigt att följderna blev långvariga. De symptom som framträder i hans egna texter överensstämmer närmast med gonorré, vilken vid tiden ofta ledde till kroniska komplikationer i urinvägarna.
+According to contemporary accounts, von Braun contracted his venereal disease during a stay in Gothenburg in the early 1830s, in an environment marked both by military waiting periods and the city’s nightlife. He later alluded to this in ironic terms, while at the same time noting that the consequences became long-lasting. The symptoms that appear in his own writings most closely resemble gonorrhea, which at the time often led to chronic complications in the urinary tract.
 
-Sammantaget framträder bilden av ett långvarigt, delvis oklart hälsotillstånd som aldrig fullt ut gick i regress, och som till slut övergick i ett akut och obotligt sjukdomsförlopp.
+Taken together, the picture that emerges is one of a long-term, partly unclear medical condition that never fully regressed and eventually developed into an acute and incurable illness.
 
       `
     }    
@@ -55,128 +55,129 @@ Sammantaget framträder bilden av ett långvarigt, delvis oklart hälsotillstån
 },
 
 timeline: {
-  menuTitle: "Tidslinje",
-  title: "Tidslinje",
+  menuTitle: "Timeline",
+  title: "Timeline",
   blocks: [
     {
       type: "text",
-      content: `1813, 8 nov.  - Född på Brängesås i Kölingareds socken
+      content: `1813, Nov. 8 – Born at Brängesås in Kölingared parish
 
-1815 - Flyttar till farmodern Hedvig von Staffeldt på Ingared i Kölingared
+1815 – Moves to his grandmother Hedvig von Staffeldt at Ingared in Kölingared
 
-1817 - W stannar hos farmodern när resten av familjen flyttar till ”Stabs Capitaine Bostället Hjälltorp Vestergården” i Fritsla.
+1817 – W remains with his grandmother when the rest of the family moves to “Stabs Capitaine Bostället Hjälltorp Vestergården” in Fritsla.
 
-1821 - Skolgång i Borås  <i>-22?</i>
-1834-24 - Skolgång i Skara
-1825-27 - Skolgång i Göteborg
-1827 - Dansskola på sommaren i Borås.
-1827-1828 (okt-maj) 
+1821 – Schooling in Borås  <i>-22?</i>
+1824-24 – Schooling in Skara
+1825-27 – Schooling in Gothenburg
+1827 – Dance school during the summer in Borås.
+1827-1828 (Oct-May)
 
-1828, 8 nov. - Till Karlberg (Solna) kadettskola för officersutbildning. <u>På sin födelsedag</u>
+1828, Nov. 8 – Enters Karlberg (Solna) cadet school for officer training. <u>On his birthday</u>
 
-1834 - Examinerad som Fänrik (8 feb.) och Andre adjutant (19 jul.)
-1834, sommaren - Träffar Ebba von Braun för första gången vid hennes konfirmation
+1834 – Commissioned as Ensign (Feb. 8) and Second Adjutant (Jul. 19)
+1834, summer – Meets Ebba von Braun for the first time at her confirmation
 
-1835 - Uppsöker sjukvård i Borås gällande venerisk (köns-) sjukdom (11 jan.)
-1835, aug. - Besöker föräldrarna i Vede på Gotland - första gången på 7 år.
+1835 – Seeks medical care in Borås regarding venereal disease (Jan. 11)
+1835, Aug. – Visits his parents in Vede on Gotland – first time in 7 years.
 
-1836, 23 aug. - Förste adjutant.
+1836, Aug. 23 – First Adjutant.
 
-1837 - Första diktsamlingen utgiven, rätt och slätt kallad ”Dikter"
+1837 – First poetry collection published, simply titled “Poems”
 
-1839, aug. - Uppsökt av August Blanche när han är på badorden Gustavsberg.
-1839, 12 okt. - Löjtnant.
+1839, Aug. – Visited by August Blanche while staying at the spa resort Gustavsberg.
+1839, Oct. 12 – Promoted to Lieutenant.
            
-1842 - Insjuknad. Reumatism. Badkur i Visby: Fastediet, dekokt och svavelbad. <i>Aldrig fullt återställd</i>
-1842-1843 - Nära ungdomsvän avliden <i>Vem?</i>
-1843 - Sahlgrenska. Fam. flyttar från Visby till Karlshamn, där fadern blir postmästare.
-1843, 9 jul. - Ebba von Braun, kusin och W:s enda stora kärlek, avlider 
+1842 – Falls ill. Rheumatism. Spa treatment in Visby: fasting diet, decoctions, and sulfur baths. <i>Never fully recovered</i>
+1842-1843 – Close childhood friend dies <i>Who?</i>
+1843 – Sahlgrenska Hospital. Family moves from Visby to Karlshamn, where his father becomes postmaster.
+1843, Jul. 9 – Ebba von Braun, cousin and W’s only great love, dies
 
-1846, 7 jan. - Tar avsked från militären
+1846, Jan. 7 – Resigns from the military
 
-1849-1850 (vinter-vår) - Södertälje, för bot av förlamning i fötterna.
+1849-1850 (winter-spring) – Södertälje, for treatment of paralysis in the feet.
            
-1853 - Kallvattenkuranstalten Grundsborg Skanstull
+1853 – Cold-water sanatorium Grundsborg, Skanstull
 
-1855, 6 apr. - W:s mor avliden (Karlshamn)
-1855, juli - Besök hos brodern i Ystad och där ”daguerrotyperad” (=fotograferad)
+1855, Apr. 6 – W’s mother dies (Karlshamn)
+1855, Jul. – Visits his brother in Ystad and is there “daguerreotyped” (=photographed)
 
-1860, tidig juli - känningar av eventuell njursten
+1860, early July – Symptoms of possible kidney stones
 
-1860, 14 aug. - sista kända brev skickat till bokförläggare Brundin om att hyra vinterbostad, helst på Kungsholmen.
+1860, Aug. 14 – Last known letter sent to publisher Brundin regarding rental of winter housing, preferably on Kungsholmen.
 
-1860, 12 sept. - Avliden på Uddevalla lasarett
+1860, Sept. 12 – Dies at Uddevalla hospital
 
-1860, 18 sept. - Begravd på Uddevalla Nya kyrkogård ( Idag Norra Begravningsplatsen )`
+1860, Sept. 18 – Buried at Uddevalla New Cemetery (today Norra Begravningsplatsen)`
     }
     ],
       showPlaceholder: false
 },
 
   bibliography: {
-  menuTitle: "Bibliografi",
-  title: "Bibliografi",
+  menuTitle: "Bibliography",
+  title: "Bibliography",
   blocks: [
     {
       type: "text",
-      content: `Sång för Kongl. Westgötha-Dahls regemente / Brn.. Vänersborg. 1836
-<font color=green><b>1837 - Dikter I</b></font>
-<font color=green><b>1838 - Dikter II</b></font>
-<font color=green><b>1840 - Nyare dikter</b></font>
-<font color=green><b>1841 - Dikter IV</b></font>
-<font color=green><b>1843 - Calle. Också en poetisk kalender</b></font>
-<font color=green><b>1844 - Carolina. Poetisk kalender</b></font>
-1846 - Bror. Poetisk kalender
-1847 - Berättelser och utkast
-<font color=green><b>1847 - Knut. Poetisk kalender</b></font>
-1849 - Den namnlöse. Poetisk kalender
-1849 - Lite’ nytt till julen
-<font color=green><b>1850 - Berättelser, reseminnen m. m.</b></font>
-1850 - En Hökarebetjents Äfwentyr
-1850 - En syn i paradiset
-<font color=green><b>1851 - Herr Börje. Poetisk kalender</b></font>
-1853 - Den unge Tobiæ resa
-<font color=green><b>1853 - Sju sofvare. Poetisk kalender</b></font>
-<font color=green><b>1856 - Farbror Mårten. Poetisk kalender</b></font>
-<font color=green><b>1858 - Z. Poetisk kalender</b></font>
-<font color=green><b>1860 - Borup. Poetisk kalender</b></font><p>
-<h3>Postumt</h3>
-1879 - Från Wilh. v. Brauns ungdomsdagar : [Bref från v. Braun]. Upsala. Libris 1595977 - Kommenterade och utgivna av K. Warburg och Fr. S. - Upplaga 21 exemplar.
-1887 - Skämtsamma dikter
-1888 - Inqvarteringen
-1888 - Konstapeln
-1889 - Reskamraten
-1889 - Svinaherden och grefvedottern eller Guldgräfvarens skatt
-1890 - En Löjtnants Händelser
+      content: `Song for the Royal Westgötha-Dal Regiment / Brn.. Vänersborg. 1836
+<font color=green><b>1837 - Poems I</b></font>
+<font color=green><b>1838 - Poems II</b></font>
+<font color=green><b>1840 - Newer Poems</b></font>
+<font color=green><b>1841 - Poems IV</b></font>
+<font color=green><b>1843 - Calle. Also a poetic calendar</b></font>
+<font color=green><b>1844 - Carolina. Poetic calendar</b></font>
+1846 - Brother. Poetic calendar
+1847 - Stories and Sketches
+<font color=green><b>1847 - Knut. Poetic calendar</b></font>
+1849 - The Nameless One. Poetic calendar
+1849 - A Little Something New for Christmas
+<font color=green><b>1850 - Stories, Travel Memoirs, etc.</b></font>
+1850 - The Adventures of a Shop Assistant
+1850 - A Vision in Paradise
+<font color=green><b>1851 - Uncle Börje. Poetic calendar</b></font>
+1853 - The Journey of Young Tobias
+<font color=green><b>1853 - Seven Sleepers. Poetic calendar</b></font>
+<font color=green><b>1856 - Uncle Mårten. Poetic calendar</b></font>
+<font color=green><b>1858 - Z. Poetic calendar</b></font>
+<font color=green><b>1860 - Borup. Poetic calendar</b></font><p>
+<h3>Posthumous Works</h3>
+1879 - From Wilh. v. Braun’s Youth : [Letters from v. Braun]. Uppsala. Libris 1595977 - Commented on and published by K. Warburg and Fr. S. - Edition of 21 copies.
+1887 - Humorous Poems
+1888 - The Billeting
+1888 - The Constable
+1889 - The Traveling Companion
+1889 - The Swineherd and the Count’s Daughter or The Gold-Digger’s Treasure
+1890 - Events in a Lieutenant’s Life
 1892 - Resignation
-1897 - En berättelse om en utmärkt militär
-<h3>Samlingar</h3>           
-1867-1870 1 uppl. "Samlade arbeten" utgivna (Bonnier)
-<font color=green><b>1876 - 2 uppl. </b></font>
-1882 - 3 uppl. 
-1888-1890 - 4 uppl.
-1900-1901 - "Samlade berättelser" 4 vol. (Bonnier)
-1902 - 5 uppl. "Samlade dikter" (Bonnier)
-1928-1929 - "Samlade arbeten" 8 vol. (Malmö: Världslitteraturen)
-1948 - "Valda dikter" (Västerås: Kvällstunden)`
+1897 - A Story About an Exceptional Military Officer
+<h3>Collections</h3>           
+1867-1870 1st edition of "Collected Works" published (Bonnier)
+<font color=green><b>1876 - 2nd edition </b></font>
+1882 - 3rd edition 
+1888-1890 - 4th edition
+1900-1901 - "Collected Stories" 4 vols. (Bonnier)
+1902 - 5th edition "Collected Poems" (Bonnier)
+1928-1929 - "Collected Works" 8 vols. (Malmö: Världslitteraturen)
+1948 - "Selected Poems" (Västerås: Kvällstunden)`
     }
     ],
       showPlaceholder: false
 },
 
+
   songs: {
-  menuTitle: "Sånger",
-  title: "Sånger",
+  menuTitle: "Songs",
+  title: "Songs",
   blocks: [
     {
       type: "text",
-      content: `<h3>Av andra</h3><ul class="song-links">
+      content: `<h3>By others</h3><ul class="song-links">
     <li><a href="https://lennart.angvik.se/tonsatt.htm">Av Lennart Angvik</a></li>
     <li><a href="https://www.culturum.se/Braun/Ljud/ILagaRyttartorpet.mp3">I låga ryttartorpet — Margareta Kjellberg</a></li>
     <li>Jag vill, jag ville bara, just ingenting jag vill - av Olle Adolphson <a href="https://open.spotify.com/track/3WBFRRZZf48jT0haxHhHJb?si=28cb750ec6f349f4" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/rkyW--mKf5k" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li>Evas dröm - av Olle Adolphson(?) <a href="https://youtu.be/u9fDDkL8n3k" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li>En åsknatt på Trollhättan - av (ännu) okända <a href="https://youtu.be/RDwWCxmKCTE?list=RDRDwWCxmKCTE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-</ul><h3>Mina</h3><h4>Förlorade visor – Del 1 &nbsp; &nbsp; &nbsp;  <a href="https://open.spotify.com/album/6OyEXjdNwx5tBp7KdyeVZA?si=S9DrROllQqaDDtTkW9CAGA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=UlIDylhQQ8E&list=OLAK5uy_kv-cEJ1Un87LV_kgdpTULimbU2s9XiCKY" target="_blank" rel="noopener noreferrer">YouTube</a></h4><ol class="track-list">
+</ul><h3>By me</h3><h4>Förlorade visor – Del 1 &nbsp; &nbsp; &nbsp;  <a href="https://open.spotify.com/album/6OyEXjdNwx5tBp7KdyeVZA?si=S9DrROllQqaDDtTkW9CAGA" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://www.youtube.com/watch?v=UlIDylhQQ8E&list=OLAK5uy_kv-cEJ1Un87LV_kgdpTULimbU2s9XiCKY" target="_blank" rel="noopener noreferrer">YouTube</a></h4><ol class="track-list">
     <li><a class="internal-link" data-section="songs" data-page="bekannelse">Poetisk trosbekännelse</a> <a href="https://open.spotify.com/track/2JkUnMb6hKoUKR4gbkhSZP?si=1a3c43aa1a724030" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/UlIDylhQQ8E?si=YErmm9714HNYGe4J" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li><a class="internal-link" data-section="songs" data-page="markvardig">Den märkvärdige mannen <a href="https://open.spotify.com/track/3cfz4FO3fDh2kkhS2PGydi?si=07fe7e2328184749 target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/YZtkVU6IN2w?si=uMw1R7zxk0vxDV_P" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li><a class="internal-link" data-section="songs" data-page="kyssen">Kyssen <a href="https://open.spotify.com/track/63bZaRhGeuOzVpk3QnqpGN?si=e9e5ca13b4884d87" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/5nbapw89k1s?si=EOKPA38gEFXjVdmH" target="_blank" rel="noopener noreferrer">YouTube</a></li>
@@ -189,7 +190,7 @@ timeline: {
     <li><a class="internal-link" data-section="songs" data-page="askan">Åskan <a href="https://open.spotify.com/track/4VdBdBcu5FWTtx2ckcNQat?si=2c8d70309397460f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/2pEaZtNFiM4?si=1oASgtudlp6Xgyy-" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li><a class="internal-link" data-section="songs" data-page="arkadien">Äfven jag var i Arkadien! <a href="https://open.spotify.com/track/3Wvk9WSwJ89dtU1sVOVqdY?si=68bd49298e89449e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/pnq2FUc_k9E?si=J4_33l2f_4CzkaHd" target="_blank" rel="noopener noreferrer">YouTube</a></li>
 </ol>
-        <h4>Freyja - Översatt och ev. anpassat</h4>        <ul class="track-list">
+        <h4>Freyja - translated and possibly adapted</h4>        <ul class="track-list">
     <li><a class="internal-link" data-section="songs" data-page="curious">A Most Curious Man <a href="https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=swlHKs6vQb-E_fCqCllSXQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li><a class="internal-link" data-section="songs" data-page="laughingface">Laughing Face / Broken core <a href="https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=DX-sNYG6SumsJMrEshb-0A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li>I cannot say why <a href="https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=6kuTWKDxQn-lu4p-2_l7DQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_Jatog3dewk?list=OLAK5uy_mp1WIUONL9xzsoe65LpIZS0WGYmN6zWEE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
@@ -201,97 +202,97 @@ timeline: {
 },
 
   texts: {
-  menuTitle: "Texter",
-  title: "Texter",
+  menuTitle: "Texts",
+  title: "Texts",
   blocks: [
     {
       type: "text",
-      content: `Originl + översättningar...`
+      content: `Original + translations...`
     }
     ]
 },
 
-  project: {
-  menuTitle: "Om projektet",
-  title: "Om projektet",
+project: {
+  menuTitle: "About the Project",
+  title: "About the Project",
   blocks: [
     {
       type: "text",
-      content: `Jag, som de flesta andra, kände inte till Wilhelm von Braun.
+      content: `Like most people, I had never heard of Wilhelm von Braun.
 
-”Mors lilla Olle” var bekant, men då enbart genom Alice Tegnér. Namnet bakom förlagan var för mig – liksom för många andra – okänt.
+“Little Olle” was familiar, but only through Alice Tegnér. The name behind the original poem was, to me – as to many others – unknown.
 
-Det var först i ett annat sammanhang, under arbete med projektet Freyja, som jag sökte på <i>Frejas tårar</i>. Där dök Wilhelm von Brauns dikt upp via Projekt Runeberg. Jag läste den – först med nyfikenhet, sedan med ett växande leende. Därefter följde fler texter.
+It was only in another context, while working on the Freyja project, that I searched for <i>Freja’s Tears</i>. There Wilhelm von Braun’s poem appeared through Projekt Runeberg. I read it – first with curiosity, then with a growing smile. More texts followed.
 
-Och där någonstans uppstod en märklig dissonans.
+And somewhere around there, a strange dissonance emerged.
 
-Här fanns en röst som var skarp, lekfull, melankolisk och ibland oväntat modern – och ändå tycktes den i stort sett sakna musikalisk tolkning. Nästan ingenting. Det var svårt att förstå varför ingen hade tagit sig an detta material.
+Here was a voice that was sharp, playful, melancholic, and at times unexpectedly modern – and yet it seemed to exist almost entirely without musical interpretation. Almost nothing. It was difficult to understand why no one had taken on this material.
 
-Några dagar senare höll jag en bok i handen – tryckt för 150 år sedan (1876). Texterna finns digitalt, men det är något annat att möta dem i fysisk form. En tyngd. En kontinuitet. Som om avståndet i tid plötsligt krymper.
+A few days later, I held a book in my hands – printed 150 years ago (1876). The texts exist digitally, but it is something else entirely to encounter them in physical form. A weight. A continuity. As though the distance in time suddenly shrinks.
 
-Fler volymer följde.
+More volumes followed.
 
-Men framför allt växte en övertygelse fram:
+But above all, a conviction began to grow:
 
-Om ingen annan har gjort detta – och om han dessutom i stort sett har fallit ur det allmänna minnet – då finns det kanske ett värde i att försöka åter ge honom en röst.
+If no one else has done this – and if he has largely fallen out of public memory – then perhaps there is value in trying to give him a voice again.
 
-Detta projekt är ett sådant försök.
+This project is one such attempt.
 
-Inte en vetenskaplig återupprättelse, och inte en fullständig kartläggning – utan en personlig tolkning, där orden får nytt liv genom musik.
+Not a scientific restoration, nor a complete mapping – but a personal interpretation, where the words are given new life through music.
 
-Kanske är det bara en tillfällighet.
+Perhaps it is only coincidence.
 
-Eller något annat.
+Or something else.
 
-Från en skorpion till en annan – separerade av nästan två århundraden.`
+From one scorpion to another – separated by almost two centuries.`
     }
      ],
       showPlaceholder: false
 }, 
 
-  log: {
-  menuTitle: "Projektlogg",
-  title: "Loggbok",
+log: {
+  menuTitle: "Project Log",
+  title: "Logbook",
   blocks: [
     {
       type: "text",
-      content: `Valda projektdatum...
+      content: `Selected project dates...
 
-            2026-03-15 Email till Lennart Wasling - om sällskapets nutida existens
-            - inget svar
+            2026-03-15 Email to Lennart Wasling – regarding the society’s current existence
+            - no reply
 
-            2026-03-23 "Massmail till alla i listade 2013-styrelse"
-            - fyra av sju adresser studsade
+            2026-03-23 "Mass email to all listed 2013 board members"
+            - four out of seven addresses bounced
 
-            2026-03-23 Email till DELS - om sällskapet fortfarande är medlemmar
-            - svar att medlemsavgiften betald för 2025, men inte haft kontakt på länge
+            2026-03-23 Email to DELS – asking whether the society is still a member
+            - reply stated membership fee paid for 2025, but no contact for a long time
 
-            2026-03-24 Fysiskt brev till Lennart Wasling</b>
+            2026-03-24 Physical letter sent to Lennart Wasling
 
-            2026-04-07 Fysiskt brev till Anne-Marie Bengtsson, suppleant 2013-styrelsen
+            2026-04-07 Physical letter sent to Anne-Marie Bengtsson, deputy member of the 2013 board
 
-            2026-04-07 Email till Ulricehamns kommun - om sällskapets tillgångar donerats?
-            - inget arkiverat hos kommunen
+            2026-04-07 Email to Ulricehamn Municipality – asking whether the society’s assets had been donated
+            - nothing archived by the municipality
 
-            2026-04-07 Email till Ulricehamns tidning - om det utlysts stämma därigenom
-             - svar hänvisande enbart till Lennart Wasling med hitta.se telefonnummer.
+            2026-04-07 Email to Ulricehamns Tidning – asking whether any annual meeting had been announced through them
+             - reply referred only to Lennart Wasling with a hitta.se phone number
 
-            2026-04-07 Lagt en frågande post på proveniens.infokus.se, mailat en person privat som inte hade en aning.
+            2026-04-07 Posted an inquiry on proveniens.infokus.se, emailed one person privately who had no idea.
 
-            2026-04-07 Mailat en Uddevallabloggare
+            2026-04-07 Emailed a Uddevalla blogger
 
-            2026-04-07 Mailat Föreningsarkivet i Borås och Skaraborgs Föreningsarkiv efter tips från arkivet i Ulricehamn
-            - Borås hade inget arkiverat.
+            2026-04-07 Emailed the Association Archives in Borås and the Skaraborg Association Archives following a tip from the archive in Ulricehamn
+            - Borås had nothing archived.
 
-            2026-04-08 Mailat Lennar Waslings son
+            2026-04-08 Emailed Lennart Wasling’s son
 
-            2026-04-10 'Borup' anlände med posten
+            2026-04-10 'Borup' arrived by mail
 
-            2026-04-10 Mailat kulturansvarig på Aftonbladet (i brist på adress till arkivet) om möjligheter att få tag på det som publicerats där en gång i tiden
+            2026-04-10 Emailed the culture editor at Aftonbladet (in lack of an archive address) regarding possibilities of obtaining what had once been published there
 
-            2026-04-11 Förlorade visor Del 1 släppt
+            2026-04-11 Lost Tunes Part 1 released
 
-            2026-04-12 Länkar till sånger`
+            2026-04-12 Links to songs`
     }
   ],
       showPlaceholder: false
