@@ -23,6 +23,24 @@ if (hasHexAccess()) {
   document.documentElement.classList.add("hex-access");
 }
 
+function readRouteFromUrl() {
+  const hash = window.location.hash.slice(1);
+  if (!hash) return;
+
+  const [section, page] = hash.split("/");
+
+  if (section) currentSection = decodeURIComponent(section);
+  if (page) currentPage = decodeURIComponent(page);
+}
+
+function updateRouteInUrl() {
+  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
+
+  if (window.location.hash.slice(1) !== route) {
+    history.pushState(null, "", `#${route}`);
+  }
+}
+
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
@@ -41,14 +59,36 @@ function getPages(sectionKey) {
   return Object.keys(content[sectionKey]);
 }
 
+function canAccessSection(sectionKey) {
+  const requiredKey = sectionAccess[sectionKey];
+
+  return !requiredKey || hasKey(requiredKey);
+}
+
+function canAccessPage(page) {
+  if (!page.hidden) {
+    return true;
+  }
+
+  if (page.hidden === true) {
+    return false;
+  }
+
+  return hasKey(page.hidden);
+}
+
 function ensureValidState() {
-  const sections = getSections();
+  const content = getContent();
+
+  const sections = getSections()
+    .filter(sectionKey => canAccessSection(sectionKey));
 
   if (!sections.includes(currentSection)) {
     currentSection = sections[0];
   }
 
-  const pages = getPages(currentSection);
+  const pages = getPages(currentSection)
+    .filter(pageKey => canAccessPage(content[currentSection][pageKey]));
 
   if (!pages.includes(currentPage)) {
     currentPage = pages[0];
@@ -67,6 +107,7 @@ function navigate(section, page) {
   currentPage = page;
 
   renderAll();
+  updateRouteInUrl();
 
   window.scrollTo({
     top: 0,
@@ -117,17 +158,10 @@ function renderTopMenu() {
       item.classList.add("active");
     }
 
-    item.onclick = function () {
-      const pages = getPages(sectionKey);
-      currentSection = sectionKey;
-      currentPage = pages[0];
-      renderAll();
-
-      window.scrollTo({
-        top: 0,
-        behavior: "smooth"
-      });
-    };
+  item.onclick = function () {
+  const pages = getPages(sectionKey);
+  navigate(sectionKey, pages[0]);
+};
 
     topMenu.appendChild(item);
   });
@@ -142,6 +176,10 @@ function renderSideMenu() {
 
   pages.forEach(pageKey => {
     const page = content[currentSection][pageKey];
+
+    if (!canAccessPage(page)) {
+  return;
+}
 
     if (page.hidden === true) {
       return;
@@ -161,15 +199,8 @@ function renderSideMenu() {
     }
 
     item.onclick = function () {
-      currentPage = pageKey;
-      renderContent();
-      renderSideMenu();
-
-      window.scrollTo({
-        top: 0,
-        behavior: "smooth"
-      });
-    };
+  navigate(currentSection, pageKey);
+};
 
     sideMenu.appendChild(item);
   });
@@ -340,4 +371,11 @@ document.addEventListener("click", function (e) {
   navigate(link.dataset.section, link.dataset.page);
 });
 
+readRouteFromUrl();
 renderAll();
+updateRouteInUrl();
+
+window.addEventListener("popstate", () => {
+  readRouteFromUrl();
+  renderAll();
+});

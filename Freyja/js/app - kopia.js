@@ -5,6 +5,17 @@ let currentPage = "overview";
 const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
 const hasHexAccess = () => localStorage.getItem("hexAccess") === "yes";
 
+const hasKey = (key) => localStorage.getItem(key) === "yes";
+
+const sectionAccess = {
+  freyja: null,
+  ritual: "hexAccess",
+  nature: null,
+  music: null,
+  lore: null,
+  about: null
+};
+
 if (hasFriendAccess()) {
   document.documentElement.classList.add("friend-access");
 }
@@ -92,6 +103,12 @@ function renderTopMenu() {
   const sections = getSections();
 
   sections.forEach(sectionKey => {
+    const requiredKey = sectionAccess[sectionKey];
+
+    if (requiredKey && !hasKey(requiredKey)) {
+      return;
+    }
+
     const item = document.createElement("div");
     item.className = "top-menu-item";
     item.textContent = sectionLabels[lang][sectionKey] || sectionKey;
@@ -129,6 +146,11 @@ function renderSideMenu() {
     if (page.hidden === true) {
       return;
     }
+    if (page.hidden) {
+  if (page.hidden === "hexAccess" && !hasHexAccess()) {
+    return;
+  }
+  }
 
     const item = document.createElement("div");
     item.className = "side-menu-item";
