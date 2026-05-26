@@ -189,7 +189,7 @@ Inte rädd. Inte tveksam.</p>
 
 <p class="pn">Han svarade inte. Men han såg henne.</p>
 
-<p class="pn">När bartendern kastade sig fram över kroppen, föll ljuset från elden över prästens nacke. Där, vid övergången till ryggen, låg en tatuering – en intrikat, mörk symbol. Raven doppade fingret i de sista dropparna av sitt vin och ritade snabbt av mönstret på undersidan av ett ölunderlägg.
+<p class="pn">När bartendern kastade sig fram över kroppen, föll ljuset från elden över prästens nacke. Där, vid övergången till ryggen, skymtade en tatuering – en intrikat, mörk symbol. Raven doppade fingret i de sista dropparna av sitt vin och ritade snabbt av mönstret på undersidan av ett ölunderlägg.
 ”Ser du inte att en man just blivit dödad?” fräste bartendern när han fick syn på henne.
 Hon lyfte knappt blicken. ”Jag ser det mesta.”</p>
 

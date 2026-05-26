@@ -93,7 +93,7 @@ What is presented here — and what will gradually be added — is the result of
       EN.v1 - First English translation of what is the Swedish v.3
       
       <a class="internal-link" data-section="story" data-page="chapter01">Kapitel 1 - <i>Keri McCree</i>  -  EN.v1</a>
-      <a class="internal-link friend-only" data-section="story" data-page="chapter02">Kapitel 2 - <i>Raven</i>  -  EN.v1</a>
+      <a class="internal-link" data-section="story" data-page="chapter02">Kapitel 2 - <i>Raven</i>  -  EN.v1</a>
       <a class="internal-link friend-only" data-section="story" data-page="chapter03">Kapitel 3 - <i>Morning light</i>  -  EN.v1</a>
       <a class="internal-link friend-only" data-section="story" data-page="chapter04">Kapitel 4 - <i>Nemiran</i>  -  EN.v1</a>
 
