@@ -7233,6 +7233,319 @@ och Skramlet går tyst
     }
   ],
   showPlaceholder: false
+  },
+
+  mls2: {
+      menuTitle: `Öresundsnatt (album)`,
+      title: "Öresundsnatt (album)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Oresundsnatt 3k.png",
+      size: "medium",
+      caption: `"Åter-"publicerad 13e maj 2026`
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/album/11SlIILHxMdSa0XuKBOMZq?si=L-cJQAJlQSukfobbOF4Naw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtube.com/playlist?list=OLAK5uy_mj7QZqlElW1oKgZv5xfOaCcFP1VQJ8Nw0&si=tXMsmZ1_OhHsIIdm" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>Andra fullängdssläppet från Maj-Lisa & Skramlet. Omslagsbild på M/S Ørnen i Malmö skeppbron. Gick i trafik till Havnegade fram till 1980.</i>
+      `
+    }
+  ],
+  showPlaceholder: false
+    },
+  ore1: {
+      menuTitle: " 1. Fri i håret",
+      title: "Fri i håret",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/7o9WqDN7OxN6Uz0TXs4u0k?si=40d739b26d42402a" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/-P8SAeBYSaQ?si=OS5c0ORfAWDmnPV-" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+Jag kommer ur kurvan när kvällen blir blå
+med motorn på gränsen och blicken rakt på
+svart skinn över axlar, gamla sår i fred
+jag lärde mig själv hur man tar sig vidare
+
+Min XS650 går varm som den ska
+lite för högljudd, men det vill jag ha
+jag kör som om vägen var det enda jag vet
+och vinden tar håret som om den bad om det
+
+Och ni hinner tänka
+när jag drar förbi
+att somliga föds
+med eld inuti
+
+ Jag är fri i håret
+ natten ligger öppen
+ över åkern, över spåret
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara hjärtslag där jag drar
+
+Det luktar bensin och nyklippt hö
+sista ljuset brinner i ett dikesfrö
+ingen hjälm, bara himmel och fart
+bara kroppen mot vinden och ett envist hjärta kvar
+
+Byarna glider förbi i gult
+någon står vid en mack, någon glor lite fult
+jag är inte här för att bli förstådd
+jag är här för att köra tills mörkret sagt sitt
+
+Och ni hinner tänka
+när jag drar förbi
+att en del blir kuvade
+och en del blir fri
+
+ Jag är fri i håret
+ natten ligger öppen
+ över åkern, över spåret
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara hjärtslag där jag drar
+
+Ingen ring, ingen bur
+ingen hand på mitt styr'
+bara månen, motorljud
+och ett liv som vill ut
+
+Ingen mässan, ingen dom
+ingen som får vända om
+jag har betalt för varje mil
+nu tar jag det jag själv vill ha
+
+Grus i vägkanten
+mörker över sjön
+en gammal twin som slår
+som om den vet vem jag är
+lite för fort
+lite för sant
+lite för levande
+för att be om lov
+
+ Jag är fri i håret
+ natten ligger öppen
+ och jag äger hela året
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara damm och längtan där jag drar
+
+Fri i håret
+fri i stål
+fri i mörkret
+fri ändå      
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ore2: {
+      menuTitle: " 2. Utvald tös",
+      title: "Utvald tös",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore3: {
+      menuTitle: " 3. See, see rider",
+      title: "See, see rider",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore4: {
+      menuTitle: " 4. Du får mig på scen",
+      title: "Du får mig på scen",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore5: {
+      menuTitle: " 5. Vi ska leva medan vi lever",
+      title: "Vi ska leva medan vi lever",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore6: {
+      menuTitle: " 6. Raggarbil till himlen",
+      title: "Raggarbil till himlen",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore7: {
+      menuTitle: " 7. Farlig idag",
+      title: "Farlig idag",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore8: {
+      menuTitle: " 8. Full tank & tomma löften",
+      title: "Full tank & tomma löften",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore9: {
+      menuTitle: " 9. Månljus på rutan",
+      title: "Månljus på rutan",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore10: {
+      menuTitle: " 10. Fall inte för mig",
+      title: "Fall inte för mig",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore11: {
+      menuTitle: " 11. Solen är extra vacker idag",
+      title: "Solen är extra vacker idag",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore12: {
+      menuTitle: " 12. Vinden vänder",
+      title: "Vinden vänder",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore13: {
+      menuTitle: " 13. Låt läkningen börja",
+      title: "Låt läkningen börja",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore14: {
+      menuTitle: " 14. Öresundsnatt",
+      title: "Öresundsnatt",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore15: {
+      menuTitle: " 15. Runor",
+      title: "Runor (Bonusspår på andra pressningen)",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+
+      `
+    }
+  ],
+  showPlaceholder: true
   }
 
 },
