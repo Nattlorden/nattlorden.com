@@ -116,7 +116,7 @@ Sida vid sida genom Golothas natt, tysta nog för att höra sina egna hjärtslag
       },
       {
         type: "image",
-        src: "assets/songs/TheSatinMoon.png",
+        src: "assets/story/Sea Owl etching.png",
         alt: "Sjöugglan vid kajen",
         caption: "Sjöugglan vid kajen",
         size: "medium"
