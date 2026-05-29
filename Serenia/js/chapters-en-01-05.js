@@ -149,7 +149,7 @@ They ate in silence for a time, the quiet broken only by cutlery and the soft cr
     },
       {
         type: "image",
-        src: "assets/songs/TheSatinMoon.png",
+        src: "assets/story/Sea Owl etching.png",
         alt: "The Sea Owl by the quay",
         caption: "The Sea Owl by the quay",
         size: "medium"
