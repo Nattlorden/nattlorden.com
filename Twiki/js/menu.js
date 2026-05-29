@@ -19,13 +19,13 @@ const siteMeta = {
       majlisa: {
         title: "",
         tagline: "",
-        icon: "assets/ui/mockupedia-sv2.png",
+        icon: "assets/ui/mockupedia-sv3.png",
         headerClass: "header-hifi"
       },
       gear: {
         title: "",
         tagline: "",
-        icon: "assets/ui/mockupedia-sv2.png",
+        icon: "assets/ui/mockupedia-sv3.png",
         headerClass: "header-hifi"
       }
     }
@@ -40,13 +40,13 @@ const siteMeta = {
       majlisa: {
         title: "",
         tagline: "",
-        icon: "assets/ui/mockupedia-en2.png",
+        icon: "assets/ui/mockupedia-en3.png",
         headerClass: "header-hifi"
       },
       gear: {
         title: "",
         tagline: "",
-        icon: "assets/ui/mockupedia-en2.png",
+        icon: "assets/ui/mockupedia-en3.png",
         headerClass: "header-hifi"
       }
     }

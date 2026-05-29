@@ -11,8 +11,9 @@ const contentSV = {
   alt: "Maj-Lisa Freyja",
   caption: "Bildtext",
   rows: [
-    ["Genre", "Bluesrock"],
+    ["Genrer", "Bluesrock · New-age · Folk · world · ambient"],
     ["Aktiv", "1979–"],
+    ["Skivbolag", "Serenia Records"],
     ["Koppling", "Maj-Lisa & Skramlet"]
   ]
 },
@@ -21,16 +22,16 @@ const contentSV = {
       type: "text",
       id: "Inledning",
       title: "Maj-Lisa Freyja",
-      content: `HiFi-intresset började egentligen långt tidigare än jag först brukade säga. När jag senare beskrev det som att det tog fart i början av gymnasiet, samtidigt som jag började köpa fler egna skivor, var det sant – men inte hela sanningen.
-
-Min första kontakt med ljud och anläggningar kom redan som mycket liten via min pappas hemmabyggen. Jag hjälpte till att grundmåla högtalarlådor i en ålder då jag knappt var högre än de själva. Det var också på hans stereo jag lärde mig spela musik: först bandspelaren, sedan LP-skivor. Redan då fanns en tydlig känsla för att olika musik ville ha olika ljud. Bas- och diskantreglage, Dolby-knappar och annat rattades efter gehör, inte enligt manual.`
+      content: `<b>Carolina Viktoria <i>Mailýsa</i> Freyja</b>, kallad "Maj-Lisa", född 10 januari 1960 i Linköpings församling, Östergötlands län, är en svensk sångerska och låtskrivare. 
+      
+      Freja har släppt två album i samarbete med Skramlet och otaliga singelsläpp i eget namn.`
     },
         {
       type: "text",
       id: "Alias",
       title: "Alias",
       headingLevel: 3,
-      content: `Musiken som låg tidigast i blodomloppet var sådant som ABBA, Elvis och Frank Sinatra. Senare kom en egen liten röd resegrammofon från Philips och den första egna singeln som inte var barnskiva: Sweet – <i>Fox on the Run</i>.`
+      content: `Med Skramlet, liksom i vardagen kallad "Maj-Lisa". För sitt senare solo-projekt under aliaset "Freyja".`
     },
     {
       type: "text",

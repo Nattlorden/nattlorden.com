@@ -542,22 +542,219 @@ syns inte längre Avalon.`
     },
     {
       type: "line",
-      voice: "",
-      original: ``,
-      translation: ``
+      voice: "Kvinna",
+      original: `Sotto il velo della sera,
+dorme il lago senza nome.
+Nessun remo rompe l’acqua,
+nessun fuoco chiama a casa.
+`,
+      translation: `Under kvällens slöja,
+sover den namnlösa sjön.
+Ingen åra bryter vattnet,
+ingen eld kallar hem.`
     },
     {
       type: "line",
-      voice: "",
-      original: ``,
-      translation: ``
+      voice: "Kvinnokör",
+      original: `Lenta passa la memoria
+fra le pietre e fra le canne.
+`,
+      translation: `Minnena passerar långsamt
+bland stenarna och vassen.
+`
     },
     {
-      type: "action",
-      content: ""
+      type: "line",
+      voice: "Äldre kvinna",
+      original: `Ogni anno cade il canto,
+ogni inverno prende voce.`,
+      translation: `Varje år faller sången,
+tar varje vinter röst.`
     },
     {
-      type: "divider"
+      type: "line",
+      voice: "Kör",
+      original: `Avalon…
+
+Avalon…`,
+      translation: `Avalon…
+
+Avalon…`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `Chi ricorda il primo giuramento?`,
+      translation: `Vem minns den första eden?`
+    },
+    {
+      type: "line",
+      voice: "Kvinnokör",
+      original: `Chi custodisce il fuoco antico?`,
+      translation: `Vem vaktar den uråldriga elden?`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `Le strade portano verso i re,`,
+      translation: `Vägarna leder till kungar,`
+    },
+    {
+      type: "line",
+      voice: "Man",
+      original: `ma la nebbia porta altrove.`,
+      translation: `men dimman tar dem någon annanstans.`
+    },
+    {
+      type: "line",
+      voice: "Kvinnokör",
+      original: `Sotto terra dorme il drago.
+Ultimo respiro della notte.`,
+      translation: `Under jorden sover draken.
+Nattens sista andetag.`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `Nelle ossa della collina
+resta il calore della fiamma.`,
+      translation: `I kullens ben
+blir lågans hetta kvar.
+`
+    },
+    {
+      type: "line",
+      voice: "Kör",
+      original: `Non chiamatelo.
+Non svegliatelo.`,
+      translation: `Kall inte på honom.
+Väck honom inte.`
+    },
+    {
+      type: "line",
+      voice: "Man",
+      original: `Il suo nome pesa come pietra.`,
+      translation: `Hans namn väger som sten`
+    },
+    {
+      type: "line",
+      voice: "Kör",
+      original: `nel sangue degli uomini.`,
+      translation: `i mäns blod.`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `Merlin ascolta ancora il mare.`,
+      translation: `Merlin lyssnar fortfarande till havet.`
+    },
+    {
+      type: "line",
+      voice: "Kvinnokör",
+      original: `Merlin porta ancora il segno.`,
+      translation: `Merlin bär fortfarande märket.`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `Ma le acque chiudono il passaggio,`,
+      translation: `Men vattnet blockerar passagen,`
+    },
+    {
+      type: "line",
+      voice: "Kvinnokör",
+      original: `ma le stelle dimenticano.`,
+      translation: `men stjärnorna glömmer.`
+    },
+    {
+      type: "line",
+      voice: "Man och kvinna",
+      original: `Ogni dono cerca fine.
+Ogni fiamma cerca cenere.`,
+      translation: `Varje gåva söker ett slut.
+Varje låga söker aska.`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `Anche il più antico custode`,
+      translation: `Även den äldsta väktaren`
+    },
+    {
+      type: "line",
+      voice: "Man och kvinna",
+      original: `entra piano nel silenzio.`,
+      translation: `träder mjukt in i tystnaden.`
+    },
+    {
+      type: "line",
+      voice: "Kvinnokör",
+      original: `Avalon…`,
+      translation: `Avalon…`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `non scompare nel fuoco.`,
+      translation: `försvinner inte i elden.`
+    },
+    {
+      type: "line",
+      voice: "Kvinnokör",
+      original: `Avalon…`,
+      translation: `Avalon…`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `si perde nella memoria.`,
+      translation: `går förlorad i minnet.`
+    },
+    {
+      type: "line",
+      voice: "Kvinnokör",
+      original: `Se la nebbia tornerà,
+forse tornerà anche il canto.
+Se qualcuno ricorderà,`,
+      translation: `Om dimman återvänder,
+kanske sången också återvänder.
+Om någon minns,`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `forse il lago avrà ancora un nome.`,
+      translation: `kanske sjön fortfarande har ett namn.`
+    },
+    {
+      type: "line",
+      voice: "Kör",
+      original: `Avalon…
+
+Avalon…`,
+      translation: `Avalon…
+
+Avalon…`
+    },
+    {
+      type: "line",
+      voice: "Kvinna",
+      original: `Avalon…
+      
+      Avalon…`,
+      translation: `Avalon…
+      
+      Avalon…`
+    },
+    {
+      type: "line",
+      voice: "Kör",
+      original: `Avalon…
+
+Avalon…`,
+      translation: `Avalon…
+
+Avalon…`
     }
   ]
 
@@ -570,27 +767,140 @@ syns inte längre Avalon.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I —  Scen 4 - ",
+      title: "Akt I —  Scen IV - När tystnaden kvarstår",
       content: ""
     },
     {
       type: "line",
-      voice: "",
-      original: ``,
-      translation: ``
-    },
-    {
-      type: "line",
-      voice: "",
-      original: ``,
-      translation: ``
-    },
-    {
-      type: "action",
-      content: ""
-    },
-    {
-      type: "divider"
+      voice: "Guinevere",
+      original: `La sera scende piano sulle torri,
+e il vento porta odore di pioggia.
+Le stanze sono grandi questa notte,
+troppo grandi per una sola voce.
+
+Ho visto uomini tornare stanchi
+con la polvere cucita nella pelle.
+Ho visto madri chiudere le finestre
+prima ancora che il sole fosse spento.
+
+Eppure accendo ancora una candela,
+come se bastasse il poco lume
+a dire al cuore:
+domani esiste ancora.
+
+Non chiedo gloria,
+non sogno troni.
+Vorrei soltanto
+giorni senza paura.
+
+Vorrei sentire
+le porte aprirsi
+senza il rumore
+del ferro e della guerra.
+
+Se resta un canto dentro il silenzio,
+se resta un fuoco sotto la cenere,
+allora forse questa terra stanca
+non morirà stanotte.
+
+Se resta amore nelle mani vuote,
+se resta pace sopra l’acqua scura,
+allora il cielo non si è chiuso ancora,
+allora possiamo respirare.
+
+Il tempo cambia ogni cosa.
+Anche i nomi passano.
+Ma io ricordo ancora certi sguardi
+come pietre vive dentro il fiume.
+
+E se domani perderemo tutto,
+se anche le stelle cadranno mute,
+lascia che almeno resti questo:
+avere amato senza odio.
+
+Non voglio essere leggenda.
+Le leggende dimenticano il volto.
+Io voglio mani,
+voce,
+respiro,
+la fragile pace degli esseri umani.
+
+Se resta un canto dentro il silenzio,
+se resta luce dietro la nebbia,
+allora forse anche questa notte
+può imparare il mattino.
+
+Se resta amore nelle mani vuote,
+se il lago ascolta ancora piano,
+allora il mondo non è perduto,
+allora il mondo può cambiare.
+
+La sera scende piano sulle torri…
+e una candela resta accesa.`,
+      translation: `Kvällen faller långsamt över tornen,
+och vinden bär doften av regn.
+Rummen är stora ikväll,
+för stora för en enda röst.
+
+Jag har sett män återvända trötta
+med damm insytt i huden.
+Jag har sett mödrar stänga sina fönster
+innan solen ens hade gått ner.
+
+Och ändå tänder jag fortfarande ett ljus,
+som om det svaga ljuset vore tillräckligt
+för att säga till hjärtat:
+morgondagen existerar fortfarande.
+
+Jag ber inte om ära,
+jag drömmer inte om troner.
+Jag vill bara ha
+dagar utan rädsla.
+
+Jag skulle vilja höra
+dörrarna öppnas
+utan bullret
+av järn och krig.
+
+Om en sång förblir i tystnaden,
+om en eld förblir under askan,
+då kanske denna trötta jord
+inte kommer att dö i natt.
+
+Om kärleken förblir i tomma händer,
+om freden förblir ovanför det mörka vattnet,
+då har himlen inte slutit sig än,
+då kan vi andas.
+
+Tiden förändrar allt.
+Till och med namn går förbi.
+Men jag minns fortfarande vissa blickar
+som levande stenar i floden.
+
+Och om vi imorgon förlorar allt,
+om till och med stjärnorna tystnar,
+låt åtminstone detta förbli:
+att ha älskat utan hat.
+
+Jag vill inte vara en legend.
+Legender glömmer ansikten.
+Jag vill ha händer,
+röst,
+andetag,
+mänskliga varelsers bräckliga frid.
+
+Om en sång förblir i tystnaden,
+om det finns ljus bakom dimman,
+då kanske även denna natt
+kan lära sig morgonen.
+
+Om kärleken förblir i tomma händer,
+om sjön fortfarande lyssnar mjukt,
+då är världen inte förlorad,
+då kan världen förändras.
+
+Kvällen faller mjukt över tornen...
+och ett ljus förblir tänt.`
     }
   ]
 
@@ -603,27 +913,139 @@ syns inte längre Avalon.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 5",
+      title: "Akt I — Scen V - Där stenarna talar",
       content: ""
     },
     {
       type: "line",
-      voice: "",
-      original: ``,
-      translation: ``
+      voice: "Merlin",
+      note: "talat",
+      original: `La notte conosce ancora il mio nome.
+Le pietre ricordano passi più antichi dei re.
+Qui il vento non mente.
+Qui il silenzio conserva ciò che gli uomini dimenticano.`,
+      translation: `Natten känner fortfarande mitt namn.
+Stenarna påminner om fotsteg äldre än kungar.
+Här ljuger inte vinden.
+Här bevarar tystnaden det som människor glömmer.`
     },
     {
       type: "line",
-      voice: "",
-      original: ``,
-      translation: ``
+      voice: "Merlin",
+      original: `Ho camminato lungo rive scomparse,
+quando Avalon parlava ancora al sangue.
+Ho visto il fuoco dormire sotto la collina
+e le acque aprirsi senza paura.
+
+Ora le torce bruciano più fredde.
+Ora gli uomini pregano altri cieli.
+Eppure…
+fra queste pietre resta qualcosa.
+`,
+      translation: `Jag gick längs försvunna stränder,
+när Avalon fortfarande talade till blod.
+Jag såg elden sova under kullen
+och vattnet dela sig utan rädsla.
+
+Nu brinner facklorna kallare.
+Nu ber människor till andra himlar.
+Och ändå…
+bland dessa stenar kvarstår något.`
     },
     {
-      type: "action",
-      content: ""
+      type: "line",
+      voice: "Merlin",
+      note: "talat/sjunget",
+      original: `Non è potere.
+Il potere passa come ferro nella pioggia.
+È custodia.
+È ascoltare la terra
+quando perfino gli dèi tacciono.
+
+Molti volevano dominare il mistero.
+Molti hanno chiamato la nebbia col proprio nome.
+La nebbia li ha dimenticati tutti.
+
+Io sento ancora il respiro sotto la roccia.
+Lento.
+Antico.
+Come ultimo carbone sotto la cenere del mondo.
+
+Finché quel respiro rimane,
+non tutto è perduto.
+
+Le mie mani tremano più dell’inverno.
+Gli anni siedono pesanti nelle ossa.
+Ma qui…
+fra muschio, pioggia e pietra,
+la terra ricorda ancora chi sono.
+
+E finché le stelle torneranno sopra il lago,
+finché il mare porterà nebbia alle rive,
+qualcuno dovrà vegliare.`,
+      translation: `Det är inte makt.
+Makten passerar som järn i regnet.
+Det är förmynderskap.
+Det är att lyssna till jorden
+när till och med gudarna är tysta.
+
+Många ville bemästra mysteriet.
+Många har kallat dimman vid dess namn.
+Dimman har glömt dem alla.
+
+Jag hör fortfarande andningen under berget.
+Långsam.
+Uråldrig.
+Som det sista kolet under världens aska.
+
+Så länge den andningen består,
+är allt inte förlorat.
+
+Mina händer darrar mer än vintern.
+Åren sitter tunga i mina ben.
+Men här…
+bland mossa, regn och sten,
+minns jorden fortfarande vem jag är.
+
+Och så länge stjärnorna återvänder över sjön,
+så länge havet för med sig dimma till stränderna,
+måste någon hålla vakt.`
     },
     {
-      type: "divider"
+      type: "line",
+      voice: "Kör",
+      original: `Non per gloria.
+Non per regni.`,
+      translation: `Inte för ära.
+Inte för kungadömen.`
+    },
+    {
+      type: "line",
+      voice: "Merlin",
+      original: `I regni passano.
+
+Ma certe porte,
+una volta chiuse,
+non devono essere aperte ancora.`,
+      translation: `Kungadömen försvinner.
+
+Men vissa dörrar,
+när de väl är stängda,
+får aldrig öppnas igen.
+`
+    },
+    {
+      type: "line",
+      voice: "Merlin",
+      note: "talat",
+      original: `Per questo resto.
+Per questo ascolto.
+Per questo custodisco il silenzio
+dove parlano le pietre.`,
+      translation: `Det är därför jag stannar.
+Det är därför jag lyssnar.
+Det är därför jag vaktar tystnaden
+där stenarna talar.`
     }
   ]
 
