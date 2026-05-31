@@ -793,3 +793,83 @@ body:not([data-theme="hifi"]) .back-home img {
 .wiki-infobox td {
   color: var(--text-soft);
 }
+
+/*.wiki-term {
+  border-bottom: 1px dotted var(--accent);
+  cursor: help;
+  position: relative;
+  display: inline;
+}
+
+.wiki-term:hover::after {
+  content: attr(data-popup);
+  position: absolute;
+  left: 0;
+  top: 1.6em;
+  z-index: 2000;
+
+  width: 260px;
+  padding: 0.7rem 0.8rem;
+
+  background: var(--panel);
+  color: var(--text-soft);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.22);
+
+  font-size: 0.9rem;
+  line-height: 1.4;
+  white-space: normal;
+}*/
+
+.wiki-term {
+  color: #6a5fa8;
+  font-weight: 500;
+}
+
+.wiki-term:hover {
+  color: #7d72c7;
+}
+
+#wikiTooltip,
+.wiki-tooltip {
+  position: fixed;
+  display: none;
+  max-width: 340px;
+  padding: 0.8rem;
+  background: var(--panel);
+  color: var(--text-soft);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+  z-index: 5000;
+  pointer-events: none;
+  line-height: 1.4;
+}
+
+.wiki-tooltip-title {
+  margin-bottom: 0.35rem;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.wiki-tooltip-text {
+  font-size: 0.9rem;
+}
+
+.wiki-tooltip-top img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 0.6rem;
+}
+
+#wikiTooltip.wiki-tooltip-side {
+  display: flex;
+  gap: 0.8rem;
+  max-width: 420px;
+}
+
+.wiki-tooltip-side img {
+  width: 95px;
+  height: auto;
+  flex-shrink: 0;
+}
