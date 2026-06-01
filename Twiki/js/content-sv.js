@@ -79,7 +79,7 @@ const contentSV = {
     },
     {
       type: "sideImage",
-      src: "../Fragments/assets/covers/oresundsnatt.png",
+      src: "../Fragments/assets/covers/Öresundanatt med bonus 3k.png",
       caption: "Öresundsnatt, 1980",
       size: "medium"
     },
