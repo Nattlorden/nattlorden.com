@@ -78,11 +78,25 @@ const contentSV = {
       Albumet sålde i uppskattningsvis 4 000 exemplar, huvudsakligen i södra Sverige och Danmark. Försäljningen var blygsam i nationell jämförelse men tillräcklig för att motivera fortsatt stöd från skivbolaget.`
     },
     {
+      type: "sideImage",
+      src: "../Fragments/assets/covers/oresundsnatt.png",
+      caption: "Öresundsnatt, 1980",
+      size: "medium"
+    },
+    {
       type: "text",
       id: "Öresundsnatt",
       title: "Öresundsnatt",
       headingLevel: 3,
-      content: ``
+      content: `Det andra albumet präglades i hög grad av Maj-Lisas uppbrott från ett destruktivt förhållande, något som avspeglas i flera av skivans texter. Samtidigt innehåller albumet ett antal låtar med tydliga influenser från den svenska proggrörelsen, vilket gav utgivningen en bredare tematisk spännvidd än debutalbumet.
+
+Albumets enda externa komposition blev en tolkning av "See See Rider Blues", ursprungligen inspelad av Ma Rainey 1924. På albumet angavs låten som "See, see rider", en stavning som sannolikt förmedlats genom muntlig tradition eller via senare inspelningar snarare än direkt från den ursprungliga utgåvan.
+      
+      Albumets avslutande titelspår "Öresundsnatt" kretsar kring färjetrafiken mellan Malmö och Köpenhamn, ett motiv som även återkom på skivomslaget där färjan M/S Ørnen avbildades. Kort efter albumets utgivning upphörde den aktuella färjelinjen, vilket gav både låten och omslaget en oväntad karaktär av tidsdokument. Omslagsbilden har senare kommit att förknippas starkt med albumet och nämns ofta som en bidragande orsak till viss kultstatus bland samlare.
+      
+      En andra pressning av albumet utgavs med bonusspåret "Runor", inspelat under ledig studiotid i samband med förberedelserna inför bandets nästa album. Låten hade ursprungligen inte varit avsedd för utgivning då den skilde sig markant från gruppens etablerade blues- och rootsrocksound. Skivbolaget valde dock att inkludera inspelningen som ett extraspår på den nya upplagan.
+
+I efterhand har "Runor" uppmärksammats för sitt avvikande uttryck och har av flera skribenter beskrivits som ett tidigt exempel på de nordiska och mytologiska teman som Maj-Lisa senare kom att utforska i sitt soloprojekt <i>Freyja</i>.`
     },
     {
       type: "divider"

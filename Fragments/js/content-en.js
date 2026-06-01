@@ -7233,6 +7233,1141 @@ och Skramlet går tyst
     }
   ],
   showPlaceholder: false
+  },
+
+  mls2: {
+      menuTitle: `Öresundsnatt (album)`,
+      title: "Öresundsnatt (album)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Oresundsnatt 3k.png",
+      size: "medium",
+      caption: `"Åter-"publicerad 13e maj 2026`
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/album/11SlIILHxMdSa0XuKBOMZq?si=L-cJQAJlQSukfobbOF4Naw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtube.com/playlist?list=OLAK5uy_mj7QZqlElW1oKgZv5xfOaCcFP1VQJ8Nw0&si=tXMsmZ1_OhHsIIdm" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>Andra fullängdssläppet från Maj-Lisa & Skramlet. Omslagsbild på M/S Ørnen i Malmö skeppbron. Gick i trafik till Havnegade fram till 1980.</i>
+      `
+    }
+  ],
+  showPlaceholder: false
+    },
+  ore1: {
+      menuTitle: " 1. Fri i håret",
+      title: "Fri i håret",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/7o9WqDN7OxN6Uz0TXs4u0k?si=40d739b26d42402a" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/-P8SAeBYSaQ?si=OS5c0ORfAWDmnPV-" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+Jag kommer ur kurvan när kvällen blir blå
+med motorn på gränsen och blicken rakt på
+svart skinn över axlar, gamla sår i fred
+jag lärde mig själv hur man tar sig vidare
+
+Min XS650 går varm som den ska
+lite för högljudd, men det vill jag ha
+jag kör som om vägen var det enda jag vet
+och vinden tar håret som om den bad om det
+
+Och ni hinner tänka
+när jag drar förbi
+att somliga föds
+med eld inuti
+
+ Jag är fri i håret
+ natten ligger öppen
+ över åkern, över spåret
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara hjärtslag där jag drar
+
+Det luktar bensin och nyklippt hö
+sista ljuset brinner i ett dikesfrö
+ingen hjälm, bara himmel och fart
+bara kroppen mot vinden och ett envist hjärta kvar
+
+Byarna glider förbi i gult
+någon står vid en mack, någon glor lite fult
+jag är inte här för att bli förstådd
+jag är här för att köra tills mörkret sagt sitt
+
+Och ni hinner tänka
+när jag drar förbi
+att en del blir kuvade
+och en del blir fri
+
+ Jag är fri i håret
+ natten ligger öppen
+ över åkern, över spåret
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara hjärtslag där jag drar
+
+Ingen ring, ingen bur
+ingen hand på mitt styr'
+bara månen, motorljud
+och ett liv som vill ut
+
+Ingen mässan, ingen dom
+ingen som får vända om
+jag har betalt för varje mil
+nu tar jag det jag själv vill ha
+
+Grus i vägkanten
+mörker över sjön
+en gammal twin som slår
+som om den vet vem jag är
+lite för fort
+lite för sant
+lite för levande
+för att be om lov
+
+ Jag är fri i håret
+ natten ligger öppen
+ och jag äger hela året
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara damm och längtan där jag drar
+
+Fri i håret
+fri i stål
+fri i mörkret
+fri ändå      
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  ore2: {
+      menuTitle: " 2. Utvald tös",
+      title: "Utvald tös",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/1fDnf9mL7CO33QTQ8HxupW?si=386e9997513741e4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/H4Y4_ajMGVs?si=REVgADZ-SCmX5cva" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+Jag föddes inte med en karta i min hand
+Ingen grinnd stod öppen när jag kom
+De sa: håll dig rak, bit ihop, gör ditt land
+Men de rika gled undan som om lagen var tom
+
+Pappa slet i regnet för en lön som försvann
+Mamma höll ihop oss med nål och tråd
+På torget stod unga med gevär i sin famn
+Medan maktens barn fick gå en annan väg
+
+Och de ropar om ära från ett varmt kontor
+Med rena händer, blankpolerad tro
+
+ Jag är ingen utvald tös
+ Ingen krona, inget namn
+ Jag är rösten från marken
+ Med sot i min hand
+ Jag är ingen skyddad flicka
+ Ingen biljett härifrån
+ Jag bär landet på ryggen
+ Medan de går fria ändå
+
+De pekar på flaggan som om den vore min skuld
+Säger: var tacksam, stå still, tig och lyd
+Men jag har sett notan skrivas i blod
+Medan de dansar där uppe till en köpt melodi
+
+De säljer mod som flaskor över disk
+Men de dricker aldrig själva ur krigets gift
+
+ Jag är ingen utvald tös
+ Ingen krona, inget namn
+ Jag är rösten från marken
+ Med sot i min hand
+ Jag är ingen skyddad flicka
+ Ingen biljett härifrån
+ Jag bär landet på ryggen
+ Medan de går fria ändå
+
+Säg mig vem som får springa
+Och vem som ska stå kvar
+Säg mig vem som får ärva
+Och vem som får betala allt de tar
+Jag har inga fina papper
+Bara hjärtat som slår
+Och en ilska i halsen
+Som vägrar gå
+
+ Jag är ingen utvald tös
+ Ingen krona, inget namn
+ Jag är rösten från marken
+ Med sot i min hand
+ Jag är ingen skyddad flicka
+ Ingen biljett härifrån
+ Jag bär landet på ryggen
+ Medan de går fria ändå
+
+Ingen utvald tös
+Nej, jag går inte ner
+Ingen skyddad flicka
+Jag sjunger tills de hör mer`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore3: {
+      menuTitle: " 3. See, see rider",
+      title: "See, see rider",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/2HpOsRMyhbetn4hlwml9Xu?si=136a91c2b52c49a0" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/tj5Nq3HPgiw?si=gXBtSva6HJeVdNgq" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Oh see, see rider
+See what you have done
+
+Oh see, see rider
+See what you have done
+You made me love you
+Now your time has come
+
+Yeah...
+
+I'm goin' away baby
+And I won't be back till fall
+If I find me a good man
+I won't be back at all
+
+See see rider
+You know you done me wrong
+You kept me worried baby
+Both night and day so long
+
+Oh see, see rider...
+See what you have done...      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore4: {
+      menuTitle: " 4. Du får mig på scen",
+      title: "Du får mig på scen",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/2JlWbtwmIqOlLu0P6I1SiB?si=6c1ff097be204a9b" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/U5e2rtZ4w2M?si=oJhUZezMvJ91dNlb" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Du får mig på scen
+Men inte mer av mina ben
+
+Du tror att kort kjol betyder fri passage
+Att händer får vandra utan sabotage
+Ett flin över ölen, ett grepp i förbifart
+Som om min kropp blev allmän marknad
+
+Jag kom hit för ljudet, för ljusen, för svett
+Inte för att väga vad en man tror är rätt
+Och varje liten blick som vill äga min kväll
+Får lära sig snabbt vem som bestämmer själv
+
+Så backa ett steg
+Du hörde mig fel
+Jag är inte till salu
+Bara för att jag syns ikväll
+
+ Du får mig på scen
+ Men inte mer av mina ben
+ Musik är det enda jag säljer
+ Till sängs är det jag som väljer
+
+Rör du fel så spiller jag öl
+Rakt ner i ditt billiga skryt
+Och fattar du ändå inte hinten
+Kommer knäet till slut
+
+Inte din
+Inte din
+Inte din att ta
+Inte din
+
+Jag har hört de gamla visor ni sjunger till varann
+Om kvinnan som belöning till varje törstig man
+Men jag är inte myten ni vill hålla kvar
+Jag skriver egna regler för vart gränsen går
+
+Stiletten har aldrig fått sitt dop
+Men tro mig, den väntar om du tror
+Att ett nej är nåt att skratta bort
+Eller pressa tills jag tappar ord
+
+Jag är inte rädd
+Bara trött på samma visa
+Ni kallar det charm
+När ni testar mina gränser
+
+Så se mig
+Hör mig
+Men tro aldrig att du äger mig
+
+ Du får mig på scen
+ Men inte mer av mina ben
+ Musik är det enda jag säljer
+ Till sängs är det jag som väljer
+
+Häll din blick någon annanstans
+Jag dansar inte för ditt bord
+Och lär du dig aldrig skillnaden
+Så svarar kroppen utan ord
+
+Du får applådera
+Resten väljer jag
+
+Du får applådera
+Resten väljer jag
+
+Du får applådera
+Resten väljer jag      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore5: {
+      menuTitle: " 5. Vi ska leva medan vi lever",
+      title: "Vi ska leva medan vi lever",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/4XTMRoACLjeA5XyEAfNq5h?si=abd5823f9c0b4570" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/JhVlpdzC4mI?si=7-68-n9zWpaIgX1D" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Nå'n sa det var balans i världen
+Som om skräck kan väga jämt
+Men nätterna låg vakna då
+Och ingen kallade det lugnt
+
+Det stod kaffe på ett köksbord
+Och nyheterna gick som ett sår
+Två gamla gubbar mätte muskler
+Över kartor ingen unge rår
+Man lär sig tidigt hålla käften
+När vuxna pratar domedag
+Men jag hörde glasen skramla
+I ett helt vanligt vardagslag
+
+Och morsan sa sov nu, älskling
+Men sömn går inte på kommando
+När hela himlen känns uthyrd
+Till män med kalla händer på
+
+ Vi ska leva medan vi lever
+ Inte huka under deras hot
+ Vi ska leva medan vi lever
+ Inte tystna, inte buga oss
+ Låt dom prata om sina knappar
+ Låt dom skramla med sitt stål
+ Vi ska leva medan vi lever
+ Under samma öppna himmel blå
+
+Vi ska leva
+Medan vi lever
+Vi ska leva
+Inte under hot
+
+Det var skinnjackor vid hållplatsen
+Det var regn i varenda sko
+Det var framtid upptejpad på väggen
+Och ändå gick man aldrig i ro
+Nån sa fred som om det vore
+Nåt naivt och lite svagt
+Men lite fred är allt man begärde
+När hela luften luktade makt
+
+För vad är det ni kallar ordning
+När varenda unge fattar mer
+Än att världen hålls i gisslan
+Av herrar som vill ha ännu mer
+
+ Vi ska leva medan vi lever
+ Inte huka under deras hot
+ Vi ska leva medan vi lever
+ Inte tystna, inte buga oss
+ Låt dom prata om sina knappar
+ Låt dom skramla med sitt stål
+ Vi ska leva medan vi lever
+ Under samma öppna himmel blå
+
+Jag vill inte ge mina dar
+Till er rädsla i slips och skor
+Jag vill inte ärva askan
+Från ännu ett herrbordskor
+Om ni kallar detta trygghet
+Då vill jag ha ett annat ord
+
+ Vi ska leva medan vi lever
+ Inte huka under deras hot
+ Vi ska leva medan vi lever
+ Inte tystna, inte buga oss
+ Låt dom prata om sina knappar
+ Låt dom skramla med sitt stål
+ Vi ska leva medan vi lever
+ Under samma öppna himmel blå
+ Vi ska leva medan vi lever
+ Inte under deras hot
+
+Nån gång måste himlen bli vår
+Nån gång måste rädslan gå
+Tills dess står vi kvar och sjunger
+Under samma himmel blå`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore6: {
+      menuTitle: " 6. Raggarbil till himlen",
+      title: "Raggarbil till himlen",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/0z6zkiAsUaRyLjEP0iRZE6?si=19a59cc023244e4d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/YlGxashJTJc?si=O2ylESonYh9C21Sl" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Natten luktar bensin och hav
+nånstans mellan Barsebäck och stan
+ingen frågar vart vi ska längre
+
+Han kör med vänsterarmen hängande ut
+Lucky Strike-glöd i ett trött mungipsskjut
+Chevan är rostig men motorn går ren
+och radion spelar nåt om kärlek igen
+Vägskyltar darrar förbi i blått
+folk står utanför kiosken och glor lite smått
+men här inne finns bara vägen kvar
+och havsvind genom mitt hår
+
+Och varje mil bort från gårdagen
+känns som nån lossar en kedja till
+
+ Raggarbil till himlen
+ genom skånsk sommarnatt
+ inga löften bakom oss
+ inga frågor om i natt
+ Bara hjul som aldrig tvekar
+ och ett hjärta utan broms
+ raggarbil till himlen
+ innan mörkret hunnit om oss
+
+Macken i Lödde är sista stopp
+kaffe svart som synd och billigt hopp
+någon i baksätet skrattar för högt
+någon har ett munspel som aldrig blev trött
+Vi drar längs kustvägen söderut
+där månen ligger silvervit ut
+och varje kurva säger samma sak
+fortsätt nu, se dig aldrig bak
+
+ Raggarbil till himlen
+ utan karta, utan namn
+ hela världen bakom rutan
+ hela natten i min hand
+ Om morgonen vill hitta mig
+ får den försöka bäst den kan
+ för inatt är vägen större
+ än hela denna jävla stan
+
+Mamma sa att livet väntar
+bakom ansvar, jobb och tid
+men ingen känner sig så levande
+som fyra hjul i mörk musik
+
+ Raggarbil till himlen
+ och vi brinner medan vi kör
+ inga helgon i framsätet
+ bara folk som vägrar dö
+ Kustljus över vindrutan
+ motorvarv och saltig vind
+ raggarbil till himlen
+ och jag tänker aldrig kliva in`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore7: {
+      menuTitle: " 7. Farlig idag",
+      title: "Farlig idag",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/0IPkSpdmeJhtBuNJMJo5WO?si=28586281aaee40b8" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/q7DV-r4gFP0?si=xSLM05qlRdPyH15e" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Det luktar regn över varm asfalt
+Nån sparkar grus mot en stängd port
+Du ler som om du äger natten
+Som om varje sanning kan köpas loss
+
+Du pratar lent med gift i handen
+Du bjuder in och stänger till
+Du säger kom, jag visar vägen
+Men varje steg går dit du vill
+Du känner svaga sprickor tidigt
+Du hör när någon tvekar till
+Du klär ditt hot i varma färger
+Och kallar lydnad för god vilja
+
+Men jag har sett hur blicken skiftar
+När ingen längre spelar med
+Och under skratten, under röken
+Finns nåt som ber om mer än fred
+
+ Då är du farlig, farlig på riktigt
+ När du vill äga hjärtat utan namn
+ Då är du farlig, farlig i tystnad
+ När du gör bojor av en öppen famn
+ Och när du viskar att det är för mitt bästa
+ Då hör jag stormen bakom ditt behag
+ Ja, då är du farlig
+ Då är du farlig idag
+
+Du står i dörren som en domare
+Läpparna svullna av gammal strid
+Du älskar folk som böjer nacken
+Men hatar dem som tar sin tid
+Du kan få rum att stelna snabbt nu
+Du kan få glas-splitter att sjunga med
+Men jag är trött på dina löften
+Som alltid slutar på dina led
+
+För varje gång du säger "älskling"
+Blir luften tunn och kall och trång
+Och varje nåd du låtsas ge mig
+Har alltid haft en baksida lång
+
+ Då är du farlig, farlig på riktigt
+ När du vill äga hjärtat utan namn
+ Då är du farlig, farlig i tystnad
+ När du gör bojor av en öppen famn
+ Och när du viskar att det är för mitt bästa
+ Då hör jag stormen bakom ditt behag
+ Ja, då är du farlig
+ Då är du farlig idag
+
+Jag var inte född för att be om tillstånd
+Inte gjord av glas, inte byggd för bur
+Så ta din blick från min spegelbild nu
+Jag går genom elden och kommer  ur
+Och du kan slå i väggar, ropa mitt namn
+Du kan spela kung över tom parad
+Men den som lever på andras rädsla
+Blir liten när ljuset blir kvar
+
+ Ja, då är du farlig, farlig på riktigt
+ När du vill äga hjärtat utan namn
+ Då är du farlig, farlig i tystnad
+ När du gör bojor av en öppen famn
+ Och när du viskar att det är för mitt bästa
+ Då hör jag stormen bakom ditt behag
+ Ja, då är du farlig
+ Då är du farlig idag
+
+Farlig när rummet håller andan
+Farlig när ingen säger nej
+Farlig när kärlek blir till vapen
+Men inte längre farlig för mig
+Inte längre farlig för mig`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore8: {
+      menuTitle: " 8. Full tank & tomma löften",
+      title: "Full tank & tomma löften",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/4LaaPYYKQeIDepxLcecjtM?si=8812f28491654677" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/FaG1hpwzLdw?si=GzArnLRaQR2W-m4H" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Han lovade guld, han lovade allt
+Men handen var snabb och orden rang kallt
+Ikväll var det en gång för mycket
+Sprucken läpp, blodet på min kind
+Jag tittade honom rakt i ögonen
+Och log för första gången på länge
+
+ Full tank och tomma löften
+ Jag lämnar dig i backspegeln nu
+ Motorcykeln vrålar, natten är min
+ Ingen mer jävla man som ska slå mig blå
+
+Dörren smällde igen med hans hand i kläm
+Han skrek som ett djur, jag kände ingen skam
+Ute på gården låg en kantsten lös
+Jag lyfte den med båda händerna, tung som mitt hat
+Genom framrutan på hans gamla Impala
+Glas regnade som stjärnor över sätena
+
+ Full tank och tomma löften
+ Jag lämnar dig i backspegeln nu
+ Motorcykeln vrålar, natten är min
+ Ingen mer jävla man som ska slå mig blå
+
+Läderjackan knarrar, hjälmen sitter tight
+Blodet på läppen smakar järn och frihet
+Inga fler lögner, inga fler slag
+Bara vägen, vinden och min egen kraft
+
+Jag gasar upp på Skånes kustväg svart
+Motorcykeln sjunger sitt eget bluesiga ljud
+Vinden river i lädret, hjärtat slår i takt
+Med varje explosion i cylindrarna
+Han kan sitta där och slicka sina sår
+Jag har redan glömt hans namn
+
+ Full tank och tomma löften!
+ Jag kör ifrån allt du var
+ Motorcykeln vrålar som en sång
+ Jag är friare än jag nånsin varit
+
+Du trodde du kunde bryta mig…
+Men du gjorde mig bara stark.`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore9: {
+      menuTitle: " 9. Månljus på rutan",
+      title: "Månljus på rutan",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/7EqoyrPOnzMohEoRkoJEFx?si=7d779bd20c5e4eaa" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/uWe1ox3ZF7k?si=9AzBFTNPxYgIDAx5" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Regnet drog långa streck mot glas
+månen låg still över sundet ett tag
+Jag satt vaken med radion av
+hörde huset andas mellan varje slag
+
+Din kopp står kvar där du lämna den sist
+med en spricka i kanten och läppstiftets skugga kvar
+Det är märkligt vad som överlever oss
+när allt annat redan dragit härifrån
+
+Först kom dimman över vattnet in
+sen försvann ljuset bakom molnen ett för ett
+Precis sådär gled också du ur syn
+utan dörrar som slog, utan nåt dramatiskt sätt
+
+Och jag vill inte ha dig tillbaka hit
+inte handen mot min nacke eller röken i min hall
+Men vissa nätter fryser genom märg och skinn
+och ensamheten ekar lite väl
+
+Kanske är det bara vädret som gör sitt
+kanske är det åren som blivit fler
+Man blir blå av sådant som redan dött
+fast man vet att det aldrig riktigt fungerade mer
+
+Så jag ser regnet sluka sista spår av månens sken
+och låter mörkret komma som det vill
+Det finns saker man överlever lätt
+fast ändå aldrig riktigt tål när det blir still
+
+Regnet mot rutan
+och inget mer ikväll`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore10: {
+      menuTitle: " 10. Fall inte för mig",
+      title: "Fall inte för mig",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/5j8C1lJIxBiP4Lk3BhANFF?si=327c65632f5a4662" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/XnURv9lmUiQ?si=D-nBtbXJA1ECRl92" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Du säger jag ser ensam ut
+som om du vill laga nåt
+men jag är inte porslin längre
+och inte den du tror du fått
+Du gillar hur jag skrattar högt
+hur jag går hem sist från stan
+men män älskar fria kvinnor
+tills friheten gäller dem ibland
+
+Och jag vill inte se dig
+bli en till som vill förstå
+hur man håller eld i händerna
+utan att själv gå åt
+
+ Så fall inte för mig
+ inte om du vill ha lugn och ro
+ jag kommer alltid välja vägen
+ före villa, ring och bro
+ Fall inte för mig
+ om du vill veta var jag är
+ vissa människor är hamnar
+ andra är bara dåligt väder
+
+Jag har sovit på färjor hem
+med sminket kvar från kvällen innan
+som om staden vore en kvinna
+Jag har lovat att bli bättre
+det var aldrig riktigt sant
+man överlever först i livet
+sen lär man sig ibland nåt annat
+
+Du tror kärlek är ett ankare
+jag tror kärlek är en vind
+och tar du fast mig för hårt nu
+är det där allting tar slut
+
+ Så fall inte för mig
+ jag är inte byggd för bur
+ men sitter du kvar bredvid mig
+ när natten blåser ur
+ då kanske vi kan dela vägen
+ utan att nån äger nån
+ bara två trasiga motorer
+ som fortfarande går igång`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore11: {
+      menuTitle: " 11. Solen är extra vacker idag",
+      title: "Solen är extra vacker idag",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/6zhaSCgXCV9iqkMap7mPL3?si=c7d932b2689c41f8" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/H14EVE7dKU4?si=WY8fzS6jzwM_qDxF" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Jag höll andan redan innan dagen börjat om
+Som om himlen kunde ljuga fast den såg så öppen ut
+Lite dimma över tanken, lite värme i mitt blod
+Bara nog för att slippa känna hur det faktiskt stod till
+
+Man kan gömma hela stormen i ett mjukare rus
+Låta timmarna bli suddiga och kalla det för ljus
+Inte vänta på att raset ska slå in genom min dörr
+Hellre dämpa alla färger än bli sviken som förr
+
+Jag har lärt mig läsa molnen där det inte finns ett hot
+Lärt min kropp att alltid backa innan världen säger stopp
+Och jag skrattar lite blankt som om allting är okej
+Med en hand över mitt hjärta och den andra över mig
+
+Men i spegeln står en vana som jag känner allt för väl
+Samma flyktväg, samma tystnad
+Samma hjälp som blivit skäl
+
+ Jag blir precis som honom
+ När jag släcker ner mig själv
+ Blir precis som honom
+ När jag lägger allt på hyll
+ Pojken jag höll i, pappan jag bar
+ Samma skugga i mitt steg varje gång det blir för klart
+ Jag blir precis som honom
+ Om jag aldrig vågar känna där det gör mig hel
+
+Bedövad, bedövad
+Det ser lugnt ut från min kant
+Bedövad, bedövad
+Men jag försvinner sakta bort
+
+Han sa världen är för vass, ta nåt som rundar av
+Pappa sa det utan ord, bara så som han blev kvar
+Och jag bar det som en sanning, som en tråd från hud till hud
+Att man överlever bäst när man går sönder lite tyst
+
+Men jag ser hur kärlek vissnar när man aldrig riktigt är
+I ett rum, i en beröring, i ett ja, i det som sker
+Och jag vill inte bli ett eko av en rädsla jag fått låna
+Vill inte ge mitt liv till något som gör morgnarna så platta
+
+För i spegeln kom en insikt
+Rak och kall och nästan klar
+Om jag fortsätter att fly nu
+Blir jag allt jag inte var
+
+ Jag blir precis som honom
+ När jag släcker ner mig själv
+ Blir precis som honom
+ När jag gömmer allt jag känt
+ Pojken jag höll i, pappan jag bar
+ Samma skugga i mitt steg varje gång det blir för klart
+ Jag blir precis som honom
+ Om jag aldrig vågar känna där det gör mig hel
+
+Så jag låter händer skaka
+Låter hjärtat slå för högt
+Låter dagen komma nära
+Utan skydd och utan stöd
+Om den krossar mig så gör den det
+Men den kanske bär mig med
+
+Jag måste inte döma himlen
+Innan molnen ens har vänt
+Jag kan möta det som kommer
+Som om livet också hänt för mig
+
+ Jag blir inte bara honom
+ Jag är mer än det jag sett
+ Mer än alla tysta kvällar
+ Mer än flykten jag fått lätt
+ Pojken jag höll i, pappan jag bar
+ Får stå kvar men inte styra varje steg jag tar
+ Jag chansar på dagen
+ Jag låter huden känna allt
+ Solen är extra vacker idag
+ Och jag vill vara vaken när den faller överallt
+
+Solen är extra vacker idag
+Solen är extra vacker idag
+Ingen dimma över hjärtat
+Jag är här, jag är kvar`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore12: {
+      menuTitle: " 12. Vinden vänder",
+      title: "Vinden vänder",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/3Lonml5WGJT00mrhYKAbcm?si=f00aff732b4443e8" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/8Qu0S4bynmE?si=neZpNvWrSkVK0NsJ" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Fönstren bär ett svagt och skakigt sken
+natten håller kvar det den vill ha
+gatan ligger vaken under regn
+men ingen här har något svar
+
+Jag går förbi de dörrar vi stod utanför
+som om de ännu kände våra namn
+nu är allting mindre än jag minns det
+men tyngre än jag bar den gången
+
+Det finns en rörelse i mörkret
+som knappt syns men känns ändå
+som när något långsamt lossnar
+utan att först säga till
+
+ Det här är stunden innan vinden vänder om
+ innan himlen lättar från sitt tryck
+ innan hjärtat vågar slå för egen skull
+ utan att be om lov, utan att se tillbaks
+ Jag står kvar där natt och morgon möts
+ och låter tystnaden dra förbi
+ Det här är stormen när den sänker sin röst
+ och något stilla börjar om i mig
+
+Du var den som hörde när jag tvekade
+fast jag gömde allt i skämt och brus
+vi kallade det styrka att stå kvar för länge
+och märkte sent hur tomt det blivit nu
+
+I varje ruta finns ett annat liv
+i varje skugga går ett gammalt jag
+jag ser dem passera utan att ropa
+som om natten själv vill lämna plats
+
+Och luften bär på sådant vi har sparat
+ord som aldrig fick bli av
+nu faller de så tyst mot marken
+som ett regn man knappt hör av
+
+ Det här är stunden innan vinden vänder om
+ innan himlen lättar från sitt tryck
+ innan hjärtat vågar slå för egen skull
+ utan att be om lov, utan att se tillbaks
+ Jag står kvar där natt och morgon möts
+ och låter tystnaden dra förbi
+ Det här är stormen när den sänker sin röst
+ och något stilla börjar om i mig
+
+Låt mörkret stanna
+bara en minut
+låt mig känna vikten
+innan den tar slut
+Jag har sprungit färdigt
+genom samma spår
+nu vill jag möta ljuset
+utan rustning, utan svar
+
+ Det här är stunden innan vinden vänder om
+ innan himlen öppnar upp sitt djup
+ innan hjärtat finner en enklare takt
+ och låter varje andetag bli nog till slut
+ Jag står kvar där natt och morgon möts
+ och marken känns mindre kall
+ Det här är stormen när den sänker sin röst
+ och i det stilla hör jag mig själv igen
+
+Nu rör sig molnen
+utan att ta strid
+och jag går långsamt
+in i nästa tid`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore13: {
+      menuTitle: " 13. Låt läkningen börja",
+      title: "Låt läkningen börja",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/0yqB7SHuWDarIMeL60UJKK?si=57ad654f1a6c4f1c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/EKqxdbAxPvQ?si=lKi5CSGFiOqFnjM3" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Jag ser kvällsnyheterna brinna i neon
+En blåljusnatt går genom varje zon
+Händer byggda för att hålla slår istället bort
+Alla skriker högre men det blir ändå för kort
+
+De trötta helgonen har tappat sina namn
+Och lögner säljs billigt från varenda talarstol och hamn
+Vi byggde våra hem med rädsla i var vägg
+Nu faller varje eko tungt här där vi blev
+
+Och kunde jag dra ner mörkret från vår sky
+Så skulle jag fråga varför vi lät det fly
+
+ Jag skulle gråta floder för de oskyldiga
+ För varje litet hjärta som aldrig hann bli fri
+ Jag skulle skölja gatorna med sorg och med förlåt
+ Tills vi minns hur man älskar det vi glömde långt igår
+
+ Inget mer stå still när de hårda spelar blint
+ Inget mer låta ömhet blåsa bort i kall motvind
+ Om världen aldrig ändras — skrik igen
+ För de små, för de trasiga
+ Låt läkningen börja igen
+
+De handlar med vår rädsla och kallar det för vett
+Bygger fler murar runt ett liv som redan spräckts
+Och varje unge som fryser under regnig station
+Bär på frågor ingen vuxen gav förklaring om
+
+Jag ser hungriga blickar under stadens ljus
+Och blåmärken som göms bakom smink och fina hus
+Alla vuxnas krig vi lär oss att förstå
+Lämnar ändå barnen kvar att undra varför då
+
+Och kunde jag slita maskerna från varenda en
+Så skulle sanningen få stå där istället
+
+ Jag skulle gråta floder för de oskyldiga
+ För varje litet hjärta som aldrig hann bli fri
+ Jag skulle skölja gatorna med sorg och med förlåt
+ Tills vi minns hur man älskar det vi glömde långt igår
+
+ Inget mer stå still när de hårda spelar blint
+ Inget mer låta ömhet blåsa bort i kall motvind
+ Om världen aldrig ändras — skrik igen
+ För de små, för de trasiga
+ Låt läkningen börja igen
+
+Vad byggde vi av stolthet och knutna händer hårt
+En större kall maskin där alla tittar bort
+Så låt tårarna falla tillräckligt hårt inatt
+För att visa att det fortfarande finns ett hjärta kvar
+
+Inte ett barn till ute i kylan
+Inte en framtid till som säljs ut billigt
+
+ Jag skulle gråta floder för de oskyldiga
+ För varje litet hjärta som aldrig hann bli fri
+ Jag skulle skölja gatorna med sorg och med förlåt
+ Tills vi minns hur man älskar det vi glömde långt igår
+
+ Inget mer stå still när de hårda spelar blint
+ Inget mer låta ömhet blåsa bort i kall motvind
+ Om världen aldrig ändras — skrik igen
+ För de små, för de trasiga
+ Låt läkningen börja igen
+
+För de små
+För de trasiga
+Låt läkningen börja…`
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore14: {
+      menuTitle: " 14. Öresundsnatt",
+      title: "Öresundsnatt",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/4pYU3FyqjByCq0ZHaDfNbA?si=610afa9a85a649fc" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/5QpZcvpA1yo?si=9cd7lgxwIFhWUCJE" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Fartyget mullrar över svart vatten
+Neon speglas i sundet
+Malmö bakom mig
+Köpenhamn där framme
+
+Färjan glider ut från Malmö hamn
+Motorerna dånar, natten är varm
+Jag lämnar vardagen och stadens bestyr
+Med en öl i handen och vinden i min frisyr
+Ljuset från Nyhavn blinkar över sundet
+Som en gammal synd som aldrig glömmer bort mig
+Nånstans där ute väntar ännu en natt
+Där ingen känner namnet jag lämnat kvar
+
+Och havet mellan länderna
+Känns mindre än mitt liv
+
+ Öresundsnatt, ta mig dit jag vill
+ Ingen som frågar, ingen som håller mig still
+ Jag väljer äventyret själv ikväll
+ Köpenhamn väntar, och jag är fri som faan
+ Öresundsnatt, låt mig försvinna bort
+ Bland neonljus, sista glas och sönderslitna ord
+ Ingen väg tillbaka just inatt
+ Bara sundet och jag genom mörkret
+
+Nere på Istedgade bakom stationen
+Neon och skuggor, hjärtan slår i betong
+Flickor skrattar högt när klubbarna lockar
+Doften av cigg och gamla läderjackor
+Jag går förbi Tato-Jack i Nyhavn
+Tänker kanske ikväll får huden bära nåt kvar
+Inget stort, bara ett enkelt spår
+Som säger: jag var här, och jag levde ändå
+
+Ingen väntar hemma nu
+Ingen håller räkningen längre
+
+ Öresundsnatt, ta mig dit jag vill
+ Ingen som frågar, ingen som håller mig still
+ Jag väljer äventyret själv ikväll
+ Köpenhamn väntar, och jag är fri som faan
+
+Inga löften, inga bojor, bara vägen fram
+Rött läppstift, svart skinn, hjärtat slår som trumman
+Maj-Lisa kör sin egen resa
+Genom natten, över vattnet, in i ljuset
+
+När gryningen kommer kryper jag hem igen
+Med salt på läpparna och historier ingen annan vet
+Men sundet är alltid där, färjan går varje natt
+Och jag vet vart jag hör
+Både här och där
+
+ Öresundsnatt…
+ Du kallar mig igen
+ Jag kommer alltid tillbaka
+ Min vän
+
+      `
+    }
+  ],
+  showPlaceholder: true
+  },
+  ore15: {
+      menuTitle: " 15. Runor",
+      title: "Runor (Bonusspår på andra pressningen)",
+      blocks: [
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/27yqr7EB08wjXLy108lMtY?si=9a3a816bedc74b9e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/j9WvglV2yrA?si=OdCsPMTWAwYO4klH" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+I den gamla lunden
+där rötterna bär namn
+före våra fäder
+före deras gravda kval
+Där restes tre som vakter
+kring ett tyst och glömd förbund
+ett rum av mörk geometri
+som höll världen i sin rund
+
+En sten bar ordens börda
+de andra bar dess kraft
+och luften skar i skinnet
+som om någon höll vakt
+
+Gå varvet runt
+men bryt ej linjen
+Tre steg bort
+och ett steg in
+Här väger andetag som eder
+och sanningen som synd
+
+ “Arglös vare den som vakar –
+ arg död drabbe den som bryter”
+ Runor ristar rummet här
+ Runor vakar, runor vet
+ “Jag spår fördärv” – viskningen bränner
+ i skuggorna av Björketorps sten
+ “Mäktiga runor dolde jag här”
+ och de minns vad ingen människa ser
+
+Jorden bar en hemlighet
+begraven utan namn
+Inte kropp och inte skuld
+men ett lömskt och heligt krav
+Det gamla rummet sjuder
+när du stiger genom skyn
+som om marken själv vill varna:
+Här binds makten i sten
+
+Du känner ordens våg
+blodets minne i ditt bröst
+och någon viskar:
+Rör ej stenen—
+om du värnar om din röst
+
+Tre stenar står
+där tiden viker
+Tre skuggor faller
+över tidens kant
+Tre eder svurna
+innan världen vaknat
+Tre röster kvar
+som ingen längre kan
+
+ “Arglös vare den som vakar –
+ arg död drabbe den som bryter”
+ Runor vakar, runor väger
+ det du döljer, det du vet
+ “Jag spår fördärv” – i cirkeln bränner
+ världens äldsta tysta ed
+ “Mäktiga runor dolde jag här”
+ och du andas som en del av deras led
+
+Det som var heligt innan ord
+fick kött av röst och namn
+Det som var bundet innan tid
+blev skyddat av en skam
+Arghet som ett svärd
+mot den som kliver in
+och bryter gamla cirklar
+utan blod i sina sinnen
+
+Triangeln tiger,
+men du hör dess bön:
+Lämna marken åt de döda
+och åt runans hemliga rötter
+
+ “Arglös vare den som vakar –
+ arg död drabbe den som bryter”
+ Heliga ord i helig jord
+ en förbannelse som står
+ “Jag spår fördärv” – sigillet brister
+ för den som går för djupt i år
+ “Mäktiga runor dolde jag här”
+ och deras makt är äldre
+ än allt du tror och allt du når`
+    }
+  ],
+  showPlaceholder: true
   }
 
 },
@@ -8645,7 +9780,7 @@ Stone ... wants.
       blocks: [
      {
       type: "text",
-      content: `<i>Remix of my colleague Michael’s <b>Turntablism (weird 🤣)</b>. Not my usual style at all, but I thought it might lend itself to a kind of EPA-dunk track. Since I am not especially fond of that whole phenomenon, it turned into an anti-EPA lyric instead.</i>`
+      content: `<i>Remix of my colleague Michael’s <b>Turntablism (weird ������)</b>. Not my usual style at all, but I thought it might lend itself to a kind of EPA-dunk track. Since I am not especially fond of that whole phenomenon, it turned into an anti-EPA lyric instead.</i>`
     },
     {
       type: "divider"
