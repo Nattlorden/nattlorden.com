@@ -3445,6 +3445,415 @@ Skåne, vårt och öppet land`
   ],
   showPlaceholder: false
     },
+    cryARiver: {
+      menuTitle: "Cry a river",
+      title: "Cry a river",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Released May 10th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/5vBYMUPzTCMbs41NP49mcy?si=5fy4HYwzQWKshL8Yt1tCiAy" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/UhuZLDtoeRY?si=hfdYrHFg9RFCfL40" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+I watch the headlines burn into the walls
+Another siren cutting through it all
+Hands built to hold now only push away
+A world of noise with nothing left to say
+The saints are tired, the guilty never sleep
+The promises are cheap, the damage runs so deep
+We made a home and filled it up with fear
+Now every broken echo lands right here
+
+If I could pull the dark out of the sky
+I’d drag it down and ask it why
+
+ I would cry a river for the innocent
+ For every little heart that never got a chance
+ I would flood the streets with mercy and regret
+ Till we learn to love what we keep trying to forget
+ No more standing still while the cruel pretend
+ No more letting tenderness come to an end
+ If this world won’t change, then scream again
+ For the kids, for the lost, let the healing begin
+
+They trade in pain and call it common sense
+Hide behind flags and fences and defense
+But every child that shivers in the rain
+Carries a weight they never should explain
+I see the hunger in the public light
+The quiet bruises dressed up for the night
+And all the grown-up wars we glorify
+Still leave the smallest ones to wonder why
+
+If I could tear the masks from every face
+I’d leave the truth there in their place
+
+ I would cry a river for the innocent
+ For every little heart that never got a chance
+ I would flood the streets with mercy and regret
+ Till we learn to love what we keep trying to forget
+ No more standing still while the cruel pretend
+ No more letting tenderness come to an end
+ If this world won’t change, then scream again
+ For the kids, for the lost, let the healing begin
+
+What did we build with our fists and our pride
+A louder machine with nowhere to hide
+So let the tears fall hard enough to show
+There’s still a pulse beneath the undertow
+Not one more child left out in the cold
+Not one more future bought and sold
+
+ I would cry a river for the innocent
+ For every little heart that never got a chance
+ I would flood the streets with mercy and regret
+ Till we learn to love what we keep trying to forget
+ No more standing still while the cruel pretend
+ No more letting tenderness come to an end
+ If this world won’t change, then scream again
+ For the kids, for the lost, let the healing begin
+
+
+ For the kids, for the lost
+ Let the healing begin
+      `
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+    moonlightMoves: {
+      menuTitle: "Moonlight moves",
+      title: "Moonlight moves",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Release May 18th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Most "interesting" about this one is that the AI-vocals has been coded from my own vocal effort.</i>
+      
+      <a href="https://open.spotify.com/album/3k0vr9E2HdsGtz5D3qZEkv?si=ZsU2_9LiTlCGFqiRw0LW-g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KsJgFGmZUiA?si=rHuh2y7nb6vCvJFa" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Moonlight on the window
+City sleeping slow
+You smile and pull me closer
+And the whole room starts to glow
+
+Take my hand, let the night breathe in
+Silver sky and your skin in the wind
+No need for diamonds, no need for gold
+You say my name and the stars unfold
+Heartbeats riding that low tide wave
+Your eyes got the kind of calm I crave
+No rush, no fear, let the world fall through
+Tonight feels easy when I'm next to you
+
+We don't need wings to rise
+We just need one more kiss
+The moon leans down tonight
+Like it was made for this
+
+ Take me where the moonlight moves
+ Only you, only you
+ Hold me in the midnight blue
+ Only you, only you
+ We can float above the room
+ Slow and true, slow and true
+ Take me where the moonlight moves
+ Only you, only you
+
+Moonlight moves
+Only you
+Moonlight moves
+Only you
+
+Taxi lights fading under our feet
+Summer on your lips, heartbeat in the street
+No promises heavy, no lines rehearsed
+Just your laugh making the silence burst
+If tomorrow comes, let it come real slow
+Tonight got a rhythm we already know
+No ceiling above us, no weight to prove
+Just me and you in the moonlight groove
+
+We don't need wings to rise
+We just need one more kiss
+The moon leans down tonight
+Like it was made for this
+
+ Take me where the moonlight moves
+ Only you, only you
+ Hold me in the midnight blue
+ Only you, only you
+ We can float above the room
+ Slow and true, slow and true
+ Take me where the moonlight moves
+ Only you, only you
+
+Late night, low tide, cool air, one vibe
+Your hand in mine got the whole world tongue-tied
+No jet, no runway, still we take flight
+Two shadows dancing in the soft streetlight
+No stress, no countdown, no need to rush
+Just your name in my chest when the city goes hush
+If love got a rhythm, this must be the tune
+You pull me closer and we drift with the moon
+
+ Take me where the moonlight moves
+ Only you, only you
+ Hold me in the midnight blue
+ Only you, only you
+ We can float above the room
+ Slow and true, slow and true
+ Take me where the moonlight moves
+ Only you, only you
+
+Moonlight moves
+Only you
+Moonlight moves
+Only you
+      `
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+    mittEgetLand: {
+      menuTitle: "Mitt eget land",
+      title: "Mitt eget land",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Released May 23rd 2026"
+    },
+    {
+      type: "text",
+      content: `<i>A summer hymn.</i>
+      
+      <a href="https://open.spotify.com/album/6dQlToLoVdjlk9Cz7HagBw?si=zCPEYpJ9TAyAYpj9fxCyqQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/FUuSOj2nfsA" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Det doftar jord när dagen gryr
+och ljuset vilar över myr och by
+en stilla vind går genom ask och al
+och sommarn öppnar sina famnar
+
+Över ängen går ett gyllne sken
+sjön ligger klar och stilla
+Mellan tall och björk och blommande gren
+får hjärtat vara lilla
+Här finns ro i mjuka vattnens gång
+här finns tröst i lärkas sång
+och varje stig jag vandrat hem
+blir ljus när sommarn kommer
+
+Allt jag älskar andas här
+i vindens enkla svar
+marken bär mig som ett löfte
+natten bleknar, dagen tar
+
+ Åh denna sommar, mild och klar
+ du lever i mitt blod
+ i suset genom gröna blad
+ i sjö och skog och jord
+ Åh denna sommar, nära, fri
+ du sjunger där jag står
+ som i mitt eget land, mitt liv
+ när ljuset åter går
+
+Sol över vatten
+vind över land
+sommar i hjärtat
+hand i hand
+
+Genom hagen, över berg och hed
+går dagen långsamt vidare
+Humlan dröjer kvar vid klöverns fred
+och luften bär det mildare
+Ingen krona, ingen hög paroll
+bara markens varma moll
+och i det enkla, nära, sant
+blir världen vid och stilla
+
+Allt jag drömde finns så nära
+i ett kvällsblått andetag
+när de långa skuggor faller
+står sommarn ännu kvar
+
+ Åh denna sommar, mild och klar
+ du lever i mitt blod
+ i suset genom gröna blad
+ i sjö och skog och jord
+ Åh denna sommar, nära, fri
+ du sjunger där jag står
+ som i mitt eget land, mitt liv
+ när ljuset åter går
+
+När skymning lägger blånad över viken
+och himlen dricker dagens sista glöd
+då vet jag att det enkla är det rika
+att allt kan blomma där en människa får stöd
+
+ Åh denna sommar, mild och klar
+ du lever i mitt blod
+ i suset genom gröna blad
+ i sjö och skog och jord
+ Åh denna sommar, nära, fri
+ du sjunger där jag står
+ som i mitt eget land, mitt liv
+ när ljuset åter går
+ Åh denna sommar, stanna kvar
+ i allt som växer nu
+
+Sol över vatten
+vind över land
+sommar i hjärtat
+i mitt eget land
+      `
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+    juniJuni: {
+      menuTitle: "Juni, juni",
+      title: "Juni, juni",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Released May 31st 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Attempt at writing the summer earworm for 2026.������</i>
+      
+      <a href="https://open.spotify.com/album/23vVTVa2gkPpYx356ew0Of?si=5FAzGgbURmalZGebXJbpuQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/qVr7tH1KPqQ?list=OLAK5uy_nrHkAvFz9a85UbpSiKXOMGeUQUQn6ycOk" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Ljumma gator efter regn
+Vackert glitter över sundet
+Någon ropar ditt namn igen
+Och hela himlen står i guld
+
+Barfotasteg mot varm asfalt
+Salt i vinden, skratt från kajen
+Du sa stanna, bara i natt
+Och vi blev kvar i hela staden
+Blåa timmar över bron
+Fönster öppna, toner spelar
+Allt vi tappat känns så långt
+När juni drar oss lite närmare
+
+Och vi behöver inget mer
+Än ljuset som aldrig vill dö
+Du håller takten med mitt hjärta
+Som om sommaren redan vet
+
+ Juni, juni
+ Natten är vår, nu
+ Juni, juni
+ Allting känns som nytt
+ Hela stan står still
+ När du drar mig intill
+ Juni, juni
+ Vi vill aldrig hem
+
+ Juni, juni
+ Vi vill aldrig hem
+ Juni, juni
+ Vi vill aldrig hem
+
+Cykelljus och sena bad
+Någon sätter på en högtalare
+Du ser ut som första dagen
+Fast vi bär på gamla svaren
+Ingen frågar vad klockan är
+När det nästan aldrig mörknar
+Vi var sjutton för en stund
+I ett ögonkast vid Öresund
+
+Och vi behöver inget mer
+Än händerna mot nattvarm hud
+Du ler som om du redan visste
+Att det här blir årets ljud
+
+ Juni, juni
+ Natten är vår, nu
+ Juni, juni
+ Allting känns som nytt
+ Hela stan står still
+ När du drar mig intill
+ Juni, juni
+ Vi vill aldrig hem
+
+Om morgonen kommer för fort
+Låt den vänta lite till
+Vi har havet i våra röster
+Och ett löfte i varje vind
+
+Så höj mig högre
+Håll kvar mig här
+När första fågeln sjunger
+Är vi fortfarande där
+
+ Juni, juni
+ Natten är vår, nu
+ Juni, juni
+ Allting känns som nytt
+ Hela stan står still
+ När du drar mig intill
+ Juni, juni
+ Vi vill aldrig hem
+ Juni, juni
+ Låt det aldrig ta slut
+ Juni, juni
+ Vi var sommar nu
+
+ Juni, juni
+ Vi vill aldrig hem
+ Juni, juni
+ Vi vill aldrig hem`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    }
 
 
 /*
@@ -9780,7 +10189,7 @@ Stone ... wants.
       blocks: [
      {
       type: "text",
-      content: `<i>Remix of my colleague Michael’s <b>Turntablism (weird ������)</b>. Not my usual style at all, but I thought it might lend itself to a kind of EPA-dunk track. Since I am not especially fond of that whole phenomenon, it turned into an anti-EPA lyric instead.</i>`
+      content: `<i>Remix of my colleague Michael’s <b>Turntablism (weird ������)</b>. Not my usual style at all, but I thought it might lend itself to a kind of EPA-dunk track. Since I am not especially fond of that whole phenomenon, it turned into an anti-EPA lyric instead.</i>`
     },
     {
       type: "divider"

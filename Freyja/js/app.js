@@ -71,10 +71,10 @@ function canAccessPage(page) {
   }
 
   if (page.hidden === true) {
-    return false;
+    return true; // dold i menyn, men öppningsbar via kort/intern länk
   }
 
-  return hasKey(page.hidden);
+  return hasKey(page.hidden); // t.ex. "hexAccess"
 }
 
 function ensureValidState() {
@@ -175,35 +175,31 @@ function renderSideMenu() {
   const pages = getPages(currentSection);
 
   pages.forEach(pageKey => {
-    const page = content[currentSection][pageKey];
+  const page = content[currentSection][pageKey];
 
-    if (!canAccessPage(page)) {
-  return;
-}
-
-    if (page.hidden === true) {
-      return;
-    }
-    if (page.hidden) {
-  if (page.hidden === "hexAccess" && !hasHexAccess()) {
+  if (page.hidden === true) {
     return;
   }
+
+  if (typeof page.hidden === "string" && !hasKey(page.hidden)) {
+    return;
   }
 
-    const item = document.createElement("div");
-    item.className = "side-menu-item";
-    item.textContent = page.menuTitle || pageKey;
+  const item = document.createElement("div");
+  item.className = "side-menu-item";
+  item.textContent = page.menuTitle || pageKey;
 
-    if (pageKey === currentPage) {
-      item.classList.add("active");
-    }
+  if (pageKey === currentPage) {
+    item.classList.add("active");
+  }
 
-    item.onclick = function () {
-  navigate(currentSection, pageKey);
-};
+  item.onclick = function () {
+    navigate(currentSection, pageKey);
+  };
 
-    sideMenu.appendChild(item);
-  });
+  sideMenu.appendChild(item);
+});
+
 }
 
 function renderCardPage(main, page) {
@@ -225,7 +221,7 @@ function renderCardPage(main, page) {
     html += `
       <div class="music-card">
         <a
-          href="#"
+          href="#${card.section}/${card.page}"
           class="music-card-image"
           data-section="${card.section}"
           data-page="${card.page}"
@@ -236,7 +232,7 @@ function renderCardPage(main, page) {
 
         <div class="music-card-title">
           <a
-            href="#"
+            href="#${card.section}/${card.page}"
             data-section="${card.section}"
             data-page="${card.page}"
           >
@@ -376,6 +372,11 @@ renderAll();
 updateRouteInUrl();
 
 window.addEventListener("popstate", () => {
+  readRouteFromUrl();
+  renderAll();
+});
+
+window.addEventListener("hashchange", () => {
   readRouteFromUrl();
   renderAll();
 });
