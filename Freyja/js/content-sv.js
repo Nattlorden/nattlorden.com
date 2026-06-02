@@ -70,7 +70,7 @@ Ofta är den bara igenkänd.`,
     },
     {
       type: "text",
-      content: `Mailýsa Freyja är inte en rollfigur i berättande mening.
+      content: `Freyja är inte enbart rollfigur i berättande mening.
 
 Hon är en gestaltad aspekt — kvinnan, modern, gudinnans avbild, häxan — och den form i vilken projektet får ansikte, kropp och blick.
 
@@ -90,7 +90,7 @@ den som vet när något måste skäras bort.`
     },
     {
       type: "text",
-      content: `Mailýsa Freyja hör hemma i vår värld.
+      content: `<a href="https://nattlorden.com/Twiki/index.html#majlisa/about">Mailýsa Freyja</a> hör hemma i vår värld.
 
 I jord under naglarna.
 I tända ljus.

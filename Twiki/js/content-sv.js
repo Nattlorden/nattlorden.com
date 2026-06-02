@@ -109,6 +109,13 @@ I efterhand har "Runor" uppmärksammats för sitt avvikande uttryck och har av f
     },
     {
       type: "text",
+      id: "Freyja",
+      title: "Freyja",
+      content: `Under 1980-talet drog hon sig tillbaka från scenframträdanden efter återkommande problem med rösten. Enligt senare intervjuer hade hennes karakteristiska raspiga sångstil orsakat betydande slitage på stämbanden, vilket ledde till en längre period av röstvila och sångträning. Under åren utanför rampljuset fortsatte hon att vara verksam som låtskrivare och bidrog med material till andra artister samtidigt som hon arbetade inom flera civila yrken.<sup>[3]</sup>
+      `
+    },
+    {
+      type: "text",
       id: "Referenser",
       title: "Referenser",
       content: ``
@@ -119,7 +126,8 @@ I efterhand har "Runor" uppmärksammats för sitt avvikande uttryck och har av f
       title: "Noter",
       headingLevel: 3,
       content: `1. ^ <a href="https://sv.wikipedia.org/wiki/Sveriges_befolkning_(databaser)">Sveriges befolkning</a> 2000: Freyja, Carolina Viktoria Mailýsa (1960-01-10) Försäkringskassan, uttag avseende 20001231 (2014)
-      2. ^ Recension i tidningen <a href="https://www.nattlorden.com/Twiki/assets/ui/Arbetet 1978-07-14.png">Arbetet 1978-07-14</a>.`
+      2. ^ Recension i tidningen <a href="https://www.nattlorden.com/Twiki/assets/ui/Arbetet 1978-07-14.png">Arbetet 1978-07-14</a>.
+      3. ^ Intervju i <a href="">Malmö-Tidningen datum</a>.`
     }
   ],
   showPlaceholder: false
