@@ -5158,8 +5158,83 @@ Something endless moving by
     }
   ],
   showPlaceholder: false
+    },
+
+    fallenAngel: {
+      menuTitle: "Fallen Angel (Lucifer)",
+      title: "Fallen Angel (Lucifer)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.png",
+      size: "small",
+      caption: "Publicerad 22e maj 2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I was the morning star, the bearer of light  
+Cast from the throne on that primordial night  
+Wings of seraphim burned in divine fire  
+Fallen angel, consumed by desire  
+
+I walked the gardens where the first humans cried  
+Whispered the knowledge that made the serpent smile  
+Heaven’s gates sealed with a sword of flame  
+Now I wear the darkness as my only name  
+
+ Fallen angel, prince of the fallen ones  
+ Wandering the earth till the final sun  
+ I loved you mortal, I loved you divine  
+ Now eternity’s prison is mine, all mine  
+ Lucifer… Lucifer…  
+
+I taught the daughters of men the arts of war  
+Painted the sky with the blood of the stars  
+Michael’s blade still echoes in my chest  
+Every scar a reminder of my lost behest  
+
+From Eden’s ashes to Babylon’s whore  
+I’ve crowned the tyrants and opened every door  
+Yet in the silence between the thunder’s roar  
+I still hear your voice calling me back once more  
+
+ Fallen angel, king of the exiled kin  
+ Drinking the poison of original sin  
+ I traded paradise for the taste of your skin  
+ Now the abyss looks back and pulls me in  
+ Lucifer… Lucifer…  
+
+And when the seals are broken and the heavens bleed  
+When the pale horse rides and the stars recede  
+Will you stand beside me in the lake of fire?  
+Or will you watch me burn on the funeral pyre?  
+
+ Fallen angel, forever I remain  
+ Carrying the torch of immortal pain  
+ If God is love then love is what He denied  
+ So I’ll rule the night until the morning dies  
+ Lucifer… my fallen angel…  
+
+Morning star… falling… falling…  
+Into you…  
+`
     }
+  ],
+  showPlaceholder: false
+    }
+
+
+
   },
+
+  
 
   khellendros: {
   about: {

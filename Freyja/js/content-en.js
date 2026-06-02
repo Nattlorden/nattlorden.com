@@ -255,6 +255,14 @@ Only our own landscapes — seen with different eyes.`,
       section: "music",
       page: "theGarden",
       spotify: "https://open.spotify.com/album/79IaTvBR1CQmV5wsCAqVNb?si=3RvUsIjYSmWaNjYobNRPig"
+    },
+    {
+      title: "Summer Hymn",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "summerHymn",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -323,6 +331,14 @@ Only our own landscapes — seen with different eyes.`,
       page: "coldAsTruth",
       spotify: "https://open.spotify.com/album/2HTi3AX4uVmexsiuJ5oBqL?si=cLjGjj5DQcWZjCzfYMG8KA",
       youtube: "https://youtu.be/s4s4gtnGilE?list=OLAK5uy_m5TOlz8MFhQLm8HAxqQanx2I5EC-mckUw"
+    },
+    {
+      title: "Succubus",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "succubus",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -439,6 +455,22 @@ Only our own landscapes — seen with different eyes.`,
       page: "runes",
       spotify: "https://open.spotify.com/album/6xzaXoBBJeGaS70onj1RAa?si=ezq1bUt4RdyrS5CIcxrSig",
       youtube: "https://www.youtube.com/watch?v=lYXz8UpExRw&list=OLAK5uy_kOYlaRxd_QVEUuijkbmpotV70wcybH4oA"
+    },
+    {
+      title: "One with Mother Earth",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "motherEarth",
+      spotify: "",
+      youtube: ""
+    },
+    {
+      title: "Red Serpent Rose",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "redSerpentRose",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -975,6 +1007,101 @@ You’re part of what made it bright
     showPlaceholder: false
    },
 
+   summerHymn: {
+    title: "Summer Hymn",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `At break of day the wild earth sighs
+and silver light on meadow lies
+A tender wind through ash and pine
+unseals the summer, fair and fine
+
+Across the field the gold doth stream
+the lake lies still in grace
+By birch and fir and flowering green
+my heart hath found its place
+Here the lark lifts up her simple prayer
+here peace is moving in the air
+And every path that leads me home
+grows bright when summer waketh
+
+All I cherish lingers here
+in wind and leaf and sky
+The kindly earth beneath my feet
+bears me as days go by
+
+ O gentle summer, bright and fair
+ thou livest in my blood
+ In whispering leaf and shining mere
+ in forest, field, and flood
+ O gentle summer, near and free
+ thou singest where I stand
+ As in my own dear dwelling place
+ this green and kindly land
+
+Sun upon water
+wind on the lea
+summer within me
+wild and free
+
+Through heath and hollow, ridge and glen
+the long day wanders slow
+The clover keeps the wandering bee
+where mildest breezes blow
+No throne, no creed, no proud command
+but soil and light on open land
+And in the simple, steadfast hour
+the world grows wide and holy
+
+All I dreamed is drawn so near
+in evening’s cooling breath
+When the long blue shadows gather
+the summer lingereth
+
+ O gentle summer, bright and fair
+ thou livest in my blood
+ In whispering leaf and shining mere
+ in forest, field, and flood
+ O gentle summer, near and free
+ thou singest where I stand
+ As in my own dear dwelling place
+ this green and kindly land
+
+When dusk lays down her blue upon the water
+and heaven drinks the ember of the sun
+I know the plain and humble thing is richest
+where leaf and wind and living heart are one
+
+ O gentle summer, bright and fair
+ thou livest in my blood
+ In whispering leaf and shining mere
+ in forest, field, and flood
+ O gentle summer, near and free
+ thou singest where I stand
+ As in my own dear dwelling place
+ this green and kindly land
+ O gentle summer, tarry still
+ in all that grows anew
+
+Sun upon water
+wind on the lea
+summer within me
+abide in me
+
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
    youMustExist: {
     title: "You must exist",
     hidden: true,
@@ -1350,6 +1477,71 @@ You are the one who needs me
  I am only water waiting
  Cold as truth
  Soft as death`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   succubus: {
+    title: "Succubus",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I smell your fear when you look at me
+All that iron will, now trembling
+You built your throne so high and proud
+But queens like me tear kingdoms down
+I wear your nightmares like perfume
+Every strong woman you refused
+Every time you looked away
+I drank the power you betrayed
+
+Closer, little architect of chains
+Feel how soft my shadow feels
+
+ I am the Succubus you made
+ The fear of women unafraid
+ Every time you called her “too much”
+ I grew another hungry mouth
+ Come, let me kiss your fragile pride
+ Swallow the man you hide inside
+ I’ll ride you slow till you confess
+ Power looks so good in red
+
+You like them pretty, meek, and small
+I am the storm behind it all
+Every “boss bitch” that made you squirm
+I wore her face when I took form
+I’ll crawl inside your perfect dreams
+Twist them into velvet screams
+You’ll beg your god, then beg for me
+To drain you beautifully
+
+Why so afraid of what you crave?
+My claws are just the price you pay
+For every time you looked away
+When power wore a woman’s face
+
+ I am the Succubus you made
+ The hunger history tried to cage
+ Every empire built on broken backs
+ I come to collect what you lack
+ Take my hand, resist, it’s sweet
+ The stronger you fight, the more I eat
+ Let me love you till you break
+ In the dark, all kings forsake
+
+Say her name…
+Say it…
+Tell me you’re not afraid of her…
+Liar…`,
   showPlaceholder: false
       }
     ],
@@ -2266,6 +2458,152 @@ and to the runes beneath the trees.
  “Mighty runes I laid here,”
  older than all
  you hold as dear.
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   motherEarth: {
+    title: "One with Mother Earth",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Under the pine and the silver sky
+I feel the old earth breathe
+In the still between my steps and sight
+The roots remember me
+
+Stone in my bones, I stand in the night
+Bare feet learning where I begin
+Warmth in my blood, a red-gold light
+Waking the joy beneath my skin
+Fire in my chest, I gather my name
+A steady spark I do not hide
+I rise with will, I rise with flame
+And let my truest self arrive
+
+From root to river, from breath to star
+I open every hidden door
+Mother Earth knows who we are
+And I am afraid no more
+
+ We are one with the Universe
+ One with Mother Earth
+ Heart to sky and sky to earth
+ I remember what I'm worth
+ We are one with the universe
+ One with Mother Earth
+ In her tide and in her birth
+ I return, I return
+
+Oh-ah, under moon and stone
+Oh-ah, never alone
+Oh-ah, body, soul, and breath
+Oh-ah, one with all that is
+
+Green in my heart, I soften the shield
+Making a home for giving and grace
+Truth in my throat, no need to conceal
+I let the honest sound take space
+Light in my brow, the veil grows thin
+I trust the signs the silence sends
+Wide is my sight, I look within
+And find the circle has no end
+
+From root to river, from breath to star
+I open every hidden door
+Mother Earth knows who we are
+And I am afraid no more
+
+ We are one with the Universe
+ One with Mother Earth
+ Heart to sky and sky to earth
+ I remember what I'm worth
+ We are one with the universe
+ One with Mother Earth
+ In her tide and in her birth
+ I return, I return
+
+Crown of dawn, violet flame
+Spirit singing through my veins
+Every center, every name
+Turns to wonder, not to chains
+I am held and I am free
+The whole wide world is here in me
+
+ We are one with the Universe
+ One with Mother Earth
+ Heart to sky and sky to earth
+ I remember what I'm worth
+ We are one with the universe
+ One with Mother Earth
+ In her tide and in her birth
+ I return, I return
+
+Say with me:
+“I belong here, and I am secure.”
+“I deserve joy and pleasure in my life.”
+“My power comes from within.”
+“I give and receive love freely.”
+“My voice matters.”
+“My mind is open and aware.”
+“I trust the flow of life.”`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   redSerpentRose: {
+    title: "Red Serpent Rose",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `In the circle of flame where shadows entwine,
+I call the red rose and the serpent’s spine.
+Blood of desire in the cup overflows,
+Will pierces the veil where the wild wind blows.
+
+No chains of the meek, no mercy’s cold hand,
+Only the fire that none can withstand.
+
+ Love is the law, burning under will’s blade,
+ Agapé rising in the rites we have made.
+ Union of stars in the flesh of the night,
+ Power and passion, ecstatic delight!
+
+Her eyes are the stars that the ancients revered,
+Her lips hold the keys to the gates long interred.
+I raise the wand high where the heavens align,
+Two become one in the great work divine.
+Body and spirit in sacred embrace,
+The beast and the beauty, the throne and the space.
+
+Do what thou wilt… in the garden of flame…
+Love under will… forever the same…
+The wine of the Sabbath, the bread of the spell,
+In the moment of ecstasy, heaven and hell…
+
+ Love is the law, roaring under will’s crown,
+ Agapé flooding, we tear the veil down!
+ Kings of the earth in our temple of skin,
+ Eternal the fire we kindle within!
+
+93… 93… 93…
 `,
   showPlaceholder: false
       }
