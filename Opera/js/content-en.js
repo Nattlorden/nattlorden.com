@@ -539,43 +539,42 @@ Avalon is no longer visible.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen III - Avalons dimmor",
+      title: "Act I — Scene III - The mists of Avalon",
       content: ""
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Sotto il velo della sera,
 dorme il lago senza nome.
 Nessun remo rompe l’acqua,
 nessun fuoco chiama a casa.
 `,
-      translation: `Under kvällens slöja,
-sover den namnlösa sjön.
-Ingen åra bryter vattnet,
-ingen eld kallar hem.`
+      translation: `Under the veil of evening,
+the nameless lake sleeps.
+No oar breaks the water,
+no fire calls home.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Lenta passa la memoria
 fra le pietre e fra le canne.
 `,
-      translation: `Minnena passerar långsamt
-bland stenarna och vassen.
-`
+      translation: `Memory passes slowly
+among the stones and the reeds.`
     },
     {
       type: "line",
-      voice: "Äldre kvinna",
+      voice: "Older woman",
       original: `Ogni anno cade il canto,
 ogni inverno prende voce.`,
-      translation: `Varje år faller sången,
-tar varje vinter röst.`
+      translation: `Every year the song falls,
+every winter takes voice.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon…
 
 Avalon…`,
@@ -585,152 +584,151 @@ Avalon…`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Chi ricorda il primo giuramento?`,
-      translation: `Vem minns den första eden?`
+      translation: `Who remembers the first oath?`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Chi custodisce il fuoco antico?`,
-      translation: `Vem vaktar den uråldriga elden?`
+      translation: `Who guards the ancient fire?`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Le strade portano verso i re,`,
-      translation: `Vägarna leder till kungar,`
+      translation: `The roads lead to kings,`
     },
     {
       type: "line",
       voice: "Man",
       original: `ma la nebbia porta altrove.`,
-      translation: `men dimman tar dem någon annanstans.`
+      translation: `but the mist takes them elsewhere.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Sotto terra dorme il drago.
 Ultimo respiro della notte.`,
-      translation: `Under jorden sover draken.
-Nattens sista andetag.`
+      translation: `Under the earth the dragon sleeps.
+Last breath of the night.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Nelle ossa della collina
 resta il calore della fiamma.`,
-      translation: `I kullens ben
-blir lågans hetta kvar.
-`
+      translation: `In the bones of the hill
+the heat of the flame remains.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Non chiamatelo.
 Non svegliatelo.`,
-      translation: `Kall inte på honom.
-Väck honom inte.`
+      translation: `Do not call him.
+Do not wake him.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Il suo nome pesa come pietra.`,
-      translation: `Hans namn väger som sten`
+      translation: `His name weighs like stone`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `nel sangue degli uomini.`,
-      translation: `i mäns blod.`
+      translation: `in the blood of men.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Merlin ascolta ancora il mare.`,
-      translation: `Merlin lyssnar fortfarande till havet.`
+      translation: `Merlin still listens to the sea.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Merlin porta ancora il segno.`,
-      translation: `Merlin bär fortfarande märket.`
+      translation: `Merlin still bears the mark.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Ma le acque chiudono il passaggio,`,
-      translation: `Men vattnet blockerar passagen,`
+      translation: `But the waters block the passage,`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `ma le stelle dimenticano.`,
-      translation: `men stjärnorna glömmer.`
+      translation: `and the stars forget.`
     },
     {
       type: "line",
       voice: "Man och kvinna",
       original: `Ogni dono cerca fine.
 Ogni fiamma cerca cenere.`,
-      translation: `Varje gåva söker ett slut.
-Varje låga söker aska.`
+      translation: `Every gift seeks an end.
+Every flame seeks ash.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Anche il più antico custode`,
-      translation: `Även den äldsta väktaren`
+      translation: `Even the most ancient guardian`
     },
     {
       type: "line",
       voice: "Man och kvinna",
       original: `entra piano nel silenzio.`,
-      translation: `träder mjukt in i tystnaden.`
+      translation: `enters softly into the silence.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Avalon…`,
       translation: `Avalon…`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `non scompare nel fuoco.`,
-      translation: `försvinner inte i elden.`
+      translation: `does not disappear in the fire.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Avalon…`,
       translation: `Avalon…`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `si perde nella memoria.`,
-      translation: `går förlorad i minnet.`
+      translation: `is lost in memory.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Se la nebbia tornerà,
 forse tornerà anche il canto.
 Se qualcuno ricorderà,`,
-      translation: `Om dimman återvänder,
-kanske sången också återvänder.
-Om någon minns,`
+      translation: `If the fog returns,
+perhaps the song will return too.
+If anyone remembers,`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `forse il lago avrà ancora un nome.`,
-      translation: `kanske sjön fortfarande har ett namn.`
+      translation: `perhaps the lake will still have a name.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon…
 
 Avalon…`,
@@ -740,7 +738,7 @@ Avalon…`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Avalon…
       
       Avalon…`,
@@ -750,7 +748,7 @@ Avalon…`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon…
 
 Avalon…`,
@@ -769,7 +767,7 @@ Avalon…`
   blocks: [
     {
       type: "scene",
-      title: "Akt I —  Scen IV - När tystnaden kvarstår",
+      title: "Act I —  Scene IV - When the silence lingers",
       content: ""
     },
     {
@@ -839,70 +837,70 @@ allora il mondo può cambiare.
 
 La sera scende piano sulle torri…
 e una candela resta accesa.`,
-      translation: `Kvällen faller långsamt över tornen,
-och vinden bär doften av regn.
-Rummen är stora ikväll,
-för stora för en enda röst.
+      translation: `Evening falls slowly on the towers,
+and the wind carries the scent of rain.
+The rooms are large tonight,
+too large for a single voice.
 
-Jag har sett män återvända trötta
-med damm insytt i huden.
-Jag har sett mödrar stänga sina fönster
-innan solen ens hade gått ner.
+I've seen men return tired
+with dust sewn into their skin.
+I've seen mothers close their windows
+before the sun was even out.
 
-Och ändå tänder jag fortfarande ett ljus,
-som om det svaga ljuset vore tillräckligt
-för att säga till hjärtat:
-morgondagen existerar fortfarande.
+And yet I still light a candle,
+as if the dim light were enough
+to tell the heart:
+tomorrow still exists.
 
-Jag ber inte om ära,
-jag drömmer inte om troner.
-Jag vill bara ha
-dagar utan rädsla.
+I don't ask for glory,
+I don't dream of thrones.
+I only want
+days without fear.
 
-Jag skulle vilja höra
-dörrarna öppnas
-utan bullret
-av järn och krig.
+I'd like to hear
+the doors open
+without the noise
+of iron and war.
 
-Om en sång förblir i tystnaden,
-om en eld förblir under askan,
-då kanske denna trötta jord
-inte kommer att dö i natt.
+If a song remains within the silence,
+if a fire remains beneath the ashes,
+then perhaps this tired earth
+will not die tonight.
 
-Om kärleken förblir i tomma händer,
-om freden förblir ovanför det mörka vattnet,
-då har himlen inte slutit sig än,
-då kan vi andas.
+If love remains in empty hands,
+if peace remains above the dark water,
+then the sky hasn't closed yet,
+then we can breathe.
 
-Tiden förändrar allt.
-Till och med namn går förbi.
-Men jag minns fortfarande vissa blickar
-som levande stenar i floden.
+Time changes everything.
+Even names pass.
+But I still remember certain glances
+like living stones within the river.
 
-Och om vi imorgon förlorar allt,
-om till och med stjärnorna tystnar,
-låt åtminstone detta förbli:
-att ha älskat utan hat.
+And if tomorrow we lose everything,
+if even the stars fall silent,
+let at least this remain:
+to have loved without hate.
 
-Jag vill inte vara en legend.
-Legender glömmer ansikten.
-Jag vill ha händer,
-röst,
-andetag,
-mänskliga varelsers bräckliga frid.
+I don't want to be a legend.
+Legends forget faces.
+I want hands,
+voice,
+breath,
+the fragile peace of human beings.
 
-Om en sång förblir i tystnaden,
-om det finns ljus bakom dimman,
-då kanske även denna natt
-kan lära sig morgonen.
+If a song remains within the silence,
+if there is light behind the fog,
+then perhaps even this night
+can learn the morning.
 
-Om kärleken förblir i tomma händer,
-om sjön fortfarande lyssnar mjukt,
-då är världen inte förlorad,
-då kan världen förändras.
+If love remains in empty hands,
+if the lake still listens softly,
+then the world is not lost,
+then the world can change.
 
-Kvällen faller mjukt över tornen...
-och ett ljus förblir tänt.`
+Evening falls softly on the towers...
+and a candle remains lit.`
     }
   ]
 
@@ -1015,7 +1013,7 @@ måste någon hålla vakt.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Non per gloria.
 Non per regni.`,
       translation: `Inte för ära.
@@ -1065,7 +1063,7 @@ där stenarna talar.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Dalla costa fino ai campi
 corre voce nella pioggia.`,
       translation: `Från kusten till fälten
@@ -1081,7 +1079,7 @@ ett namn fött ur dimman.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Chi lo ha visto presso il lago?
 Chi lo ha visto fra le pietre?`,
       translation: `Vem såg honom vid sjön?
@@ -1089,7 +1087,7 @@ Vem såg honom bland stenarna?`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Le colline tacciono ancora`,
       translation: `Kullarna är fortfarande tysta`
     },
@@ -1105,7 +1103,7 @@ Vem såg honom bland stenarna?`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Il ferro ha preso voce.`,
       translation: `Järnet har tagit röst.`
     },
@@ -1117,13 +1115,13 @@ Vem såg honom bland stenarna?`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `ha sollevato il peso dei re.`,
       translation: `Har lyft kungarnas tyngd.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Un re…`,
       translation: `En kung…`
     },
@@ -1135,13 +1133,13 @@ Vem såg honom bland stenarna?`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Un volto…`,
       translation: `Ett ansikte…`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `forse scelto dal destino.`,
       translation: `kanske valt av ödet.`
     },
@@ -1178,7 +1176,7 @@ döljer bottenlösa djup.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Merlin guarda oltre il tempo.`,
       translation: `Merlin blickar bortom tiden.`
     },
@@ -1190,13 +1188,13 @@ döljer bottenlösa djup.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Ha mentito alle pietre.`,
       translation: `han ljög för stenarna.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       note: "en varning",
       original: `Attenti alle antiche porte.`,
       translation: `Se upp för de gamla portarna.`
@@ -1209,7 +1207,7 @@ döljer bottenlösa djup.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `La nebbia custodisce ancora`,
       translation: `Dimman rymmer fortfarande`
     },
@@ -1227,7 +1225,7 @@ döljer bottenlösa djup.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Le strade chiedono un sovrano!`,
       translation: `Gatorna ropar efter en härskare!`
     },
@@ -1239,7 +1237,7 @@ döljer bottenlösa djup.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Arthur!
 Arthur!`,
       translation: `Arthur!
@@ -1254,7 +1252,7 @@ Arthur!`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       note: "lågt, nästan talat",
       original: `Figlio della guerra…`,
       translation: `Krigets son...`
@@ -1268,7 +1266,7 @@ Arthur!`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Se davvero la pietra ha ceduto,
 se davvero il lago lo guarda,`,
       translation: `Om stenen verkligen har gett vika,
@@ -1282,13 +1280,13 @@ om sjön verkligen vakar över honom,`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `non cadrà nell’ultima notte.`,
       translation: `inte kommer att falla i sin sista natt.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Ma chi porta una corona`,
       translation: `Men den som bär en krona`
     },
@@ -1334,13 +1332,13 @@ En kung för folket.
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `— Un re già dentro la storia.`,
       translation: `— En kung redan i historien.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon ascolta ancora.`,
       translation: `Avalon lyssnar fortfarande.`
     },
@@ -1352,7 +1350,7 @@ En kung för folket.
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Le acque ricordano`,
       translation: `Vattnet minns`
     },
@@ -1364,7 +1362,7 @@ En kung för folket.
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Arthur…
 Arthur…
 
@@ -1376,7 +1374,7 @@ Må himlen skydda hans väg.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Che la terra sopporti il suo destino.`,
       translation: `Må jorden bära sitt öde.`
     }
@@ -1722,7 +1720,7 @@ och vinden bär doften av bröd och regn.
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Le porte sono aperte!
 Pane caldo questa mattina!`,
       translation: `Dörrarna är öppna!
@@ -1775,25 +1773,25 @@ oftare än krig!
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Ma Camelot cresce ogni giorno.`,
       translation: `Men Camelot växer varje dag.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Nuove pietre sopra le mura.`,
       translation: `Nya stenar på väggarna.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Nuove botteghe nella piazza.`,
       translation: `Nya butiker på torget.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Nuove canzoni nelle sale.`,
       translation: `Nya sånger i salarna.`
     },
@@ -1811,31 +1809,31 @@ denna säsong.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `La regina passa senza guardie.`,
       translation: `Drottningen går förbi utan vakter.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Parla ai bambini nella piazza.`,
       translation: `Hon talar till barnen på torget.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Lascia monete ai vecchi mendicanti.`,
       translation: `Hon lämnar mynt åt de gamla tiggarna.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Ricorda ancora i nomi della gente.`,
       translation: `Hon minns fortfarande folks namn.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Arthur ascolta tutti.
 Persino i pescatori.`,
       translation: `Arthur lyssnar på alla.
@@ -1843,13 +1841,13 @@ Till och med fiskarna.`
     },
     {
       type: "line",
-      voice: "Äldre kvinna",
+      voice: "Older woman",
       original: `Persino i fabbri delle rive.`,
       translation: `Till och med smederna på stranden.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       note: "huvudsakligen talat, tankfullt",
       original: `Forse è questo un vero re:
 uno che porta il peso
@@ -1876,7 +1874,7 @@ utan upplysta bord på kvällen,`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `voci umane dietro le finestre,
 pace fragile contro il vento.`,
       translation: `mänskliga röster bakom fönstren,
@@ -1890,7 +1888,7 @@ bräcklig fred mot vinden.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `come se il mondo non avesse ombre.`,
       translation: `som om världen inte hade några skuggor.`
     },
@@ -1902,13 +1900,13 @@ bräcklig fred mot vinden.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Ogni estate prepara inverno.`,
       translation: `Varje sommar förbereder vintern.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Che duri questa pace!
 Che duri questo fuoco!`,
       translation: `Må denna fred bestå!
@@ -1916,7 +1914,7 @@ Må denna eld bestå!`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Abbiamo sepolto troppi figli
 per non credere ancora nel domani!`,
       translation: `Vi har begravt för många barn
@@ -1924,7 +1922,7 @@ för att inte fortfarande tro på morgondagen!`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `La nebbia guarda ancora il lago…`,
       translation: `Dimman blickar fortfarande över sjön…`
     },
@@ -1936,7 +1934,7 @@ för att inte fortfarande tro på morgondagen!`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Più legna per l’inverno!`,
       translation: `Mer ved till vintern!`
     },
@@ -1948,7 +1946,7 @@ för att inte fortfarande tro på morgondagen!`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       note: "under bibehållen ton",
       original: `Camelot…
 Camelot…`,
@@ -1957,7 +1955,7 @@ Camelot…`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Che la notte resti lontana ancora un poco.`,
       translation: `Må natten förbli avlägsen en stund till.`
     }
@@ -2000,7 +1998,7 @@ De har huggit ner hasselträden längs floden.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Serviva legno per nuove case.`,
       translation: `Trä behövdes till nya hus.`
     },
@@ -2021,7 +2019,7 @@ ser jag inte längre de små ljusen dansa
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon…
 
 Avalon…`,
@@ -2043,7 +2041,7 @@ Vax för kapellen.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `E i piccoli spiriti dei fiori`,
       translation: `Och blommornas små andar`
     },
@@ -2101,7 +2099,7 @@ förblir ensamma på kvällen.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Le creature lievi tornano al lago…`,
       translation: `Ljusvarelserna återvänder till sjön…`
     },
@@ -2113,7 +2111,7 @@ förblir ensamma på kvällen.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Tornano al silenzio…`,
       translation: `Återvänder till tystnaden…`
     },
@@ -2131,7 +2129,7 @@ för att känna sig evigt.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Eppure ogni albero caduto
 apre spazio al freddo.`,
       translation: `Och ändå
@@ -2171,7 +2169,7 @@ för inget av detta
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon…
 Avalon…
 `,
@@ -2199,7 +2197,7 @@ där världen en gång visste hur man drömmer.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon…`,
       translation: `Avalon…`
     }
@@ -3526,7 +3524,7 @@ De är fortfarande unga i sinnet.
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `Arthur governa con giustizia.
 Le guerre sono più lontane.
 I mercanti arrivano senza paura.
@@ -3544,7 +3542,7 @@ Till och med vintern verkar mindre grym.`
     },
     {
       type: "line",
-      voice: "Kvinna",
+      voice: "Woman",
       original: `dentro la propria grandezza…`,
       translation: `inom sin egen storhet…`
     },
@@ -3762,7 +3760,7 @@ Inte igen.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Poi ho imparato`,
       translation: `Då lärde jag mig`
     },{
@@ -3773,7 +3771,7 @@ Inte igen.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `meglio degli uomini stessi.`,
       translation: `bättre än männen själva.`
     },{
@@ -3784,7 +3782,7 @@ Inte igen.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `che Camelot ha dimenticato.`,
       translation: `som Camelot har glömt.`
     },{
@@ -3841,7 +3839,7 @@ förälskade i sin egen legend.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Ogni strada porta nuove pietre.
 Ogni inverno porta nuove chiese.`,
       translation: `Varje väg ger nya stenar.
@@ -3861,7 +3859,7 @@ Varje vinter ger nya kyrkor.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Forse Camelot ha vinto il mondo…`,
       translation: `Kanske har Camelot erövrat världen…`
     },
@@ -3905,7 +3903,7 @@ De ber inte om blod.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Chiedono soltanto`,
       translation: `De ber bara`
     },
@@ -3917,7 +3915,7 @@ De ber inte om blod.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `ciò che era`,
       translation: `vad det var`
     },
@@ -3929,7 +3927,7 @@ De ber inte om blod.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `prima delle corone,`,
       translation: `före kronorna,`
     },
@@ -4569,7 +4567,7 @@ drömmer om sig själv.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Mordred…`,
       translation: `Mordred…`
     },{
@@ -4637,7 +4635,7 @@ Nu räknas allt.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Misurato.`,
       translation: `Mätt.`
     },
@@ -4670,7 +4668,7 @@ medan jorden glöms bort.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Britannia sanguina…`,
       translation: `Britannien blöder…`
     },
@@ -4693,7 +4691,7 @@ och så tomt samtidigt?`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Forse Arthur ha salvato gli uomini.`,
       translation: `Kanske räddade Arthur mänskligheten.`
     },
@@ -4730,7 +4728,7 @@ Jag känner rötterna röra sig under stenen.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Sento il mondo antico`,
       translation: `Jag känner att den antika världen`
     },
@@ -4760,7 +4758,7 @@ Det är sjön`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Forse perché il sangue ricorda`,
       translation: `Kanske för att blod minns`
     },
@@ -4788,7 +4786,7 @@ Det är sjön`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Mordred…`,
       translation: `Mordred…`
     },
@@ -4843,7 +4841,7 @@ vad tiden påstår.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       note: `vokalisering över <i>Avalon</i>`,
       original: `<i>Avalon...Avalon...Avalon...Avalon...</i>`,
       translation: `<i>Avalon...Avalon...Avalon...Avalon</i>`
@@ -4891,7 +4889,7 @@ och minnet av Britannien.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Ti ho visto ascoltare il lago`,
       translation: `Jag såg dig lyssna på sjön`
     },{
@@ -4902,7 +4900,7 @@ och minnet av Britannien.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Ti ho visto portare il peso`,
       translation: `Jag såg dig bära tyngden`
     },{
@@ -4917,7 +4915,7 @@ och minnet av Britannien.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Dio…`,
       translation: `Gud…`
     },{
@@ -4934,7 +4932,7 @@ Inget spjut.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Nessuna spada.`,
       translation: `Inget svärd.`
     },{
@@ -4945,7 +4943,7 @@ Inget spjut.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Nessuna lama`,
       translation: `Ingen klinga`
     },{
@@ -4956,7 +4954,7 @@ Inget spjut.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `potrà ferirti`,
       translation: `kan såra dig`
     },{
@@ -4967,7 +4965,7 @@ Inget spjut.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Avalon…
       Avalon…
       Avalon…
@@ -4990,7 +4988,7 @@ som världen inte har glömt.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Excalibur.`,
       translation: `Excalibur.`
     },{
@@ -5045,7 +5043,7 @@ som behåller hedern
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Non volevo questo per Britannia.`,
       translation: `Jag ville inte detta för Britannien.`
     },{
@@ -5056,7 +5054,7 @@ som behåller hedern
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Ma Camelot ha dimenticato`,
       translation: `Men Camelot har glömt`
     },{
@@ -5069,7 +5067,7 @@ slutar med att förtära sig självt.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Ora Avalon chiama attraverso di te.`,
       translation: `Nu kallar Avalon genom dig.`
     },{
@@ -5080,7 +5078,7 @@ slutar med att förtära sig självt.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Attraverso la ferita`,
       translation: `Genom såret`
     },{
@@ -5109,7 +5107,7 @@ anche mentre temo ciò che diventerai.`,
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Avalon…
       Avalon…`,
       translation: `Avalon…
@@ -5123,7 +5121,7 @@ anche mentre temo ciò che diventerai.`,
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Avalon…
       Avalon…`,
       translation: `Avalon…
@@ -5307,7 +5305,7 @@ ser jag det tydligt.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Avalon non mi ha promesso vittoria.`,
       translation: `Avalon lovade mig inte seger.`
     },
@@ -5319,7 +5317,7 @@ ser jag det tydligt.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Mi ha promesso soltanto`,
       translation: `Bara lovat mig`
     },
@@ -6302,7 +6300,7 @@ utan med trötthet.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Guarda…
 
 la forgia del drago`,
@@ -6319,7 +6317,7 @@ drakens smedja`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Ma nessuna magia antica`,
       translation: `Men ingen uråldrig magi`
     },
@@ -6347,7 +6345,7 @@ som öppnar passagen.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Non più.`,
       translation: `Inte längre.`
     },
@@ -6363,7 +6361,7 @@ efter att ha bott för långt från stranden.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Avalon…
 Avalon…`,
       translation: `Avalon…
@@ -6444,7 +6442,7 @@ att leva utan min hand
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Ho custodito il fuoco abbastanza a lungo.
 Ho ascoltato le pietre.
 Ho parlato col drago.`,
@@ -6462,7 +6460,7 @@ mellan människorna och mysteriet.`
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Ora la porta si chiude.`,
       translation: `Nu stängs dörren.`
     },
@@ -6478,7 +6476,7 @@ av den antika världen.`
     },
     {
       type: "line",
-      voice: "Kvinnokör",
+      voice: "Women's choir",
       original: `Avalon…
 Avalon…
 `,
@@ -6797,7 +6795,7 @@ att jag aldrig slutade
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Dorme Camelot.`,
       translation: `Camelot sover.`
     },
@@ -6810,7 +6808,7 @@ att jag aldrig slutade
     },
     {
       type: "line",
-      voice: "Kör",
+      voice: "Choir",
       original: `Dorme Britannia.`,
       translation: `Britannien sover.`
     },

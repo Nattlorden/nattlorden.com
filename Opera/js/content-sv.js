@@ -628,7 +628,7 @@ blir lågans hetta kvar.
       voice: "Kör",
       original: `Non chiamatelo.
 Non svegliatelo.`,
-      translation: `Kall inte på honom.
+      translation: `Kalla inte på honom.
 Väck honom inte.`
     },
     {
