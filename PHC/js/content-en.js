@@ -2834,16 +2834,991 @@ only by its outcomes.`,
 
 Everything is a stage. Everything is deliberate.`
     },
-    tracks: {
-      menuTitle: "Tracks",
-      title: "Tracks",
-      text: "Track listing will be placed here."
+    tracks3_1: {
+      menuTitle: "1. Velvet rope eternal",
+      title: "Velvet rope eternal",
+      blocks: [
+    {
+      type: "text",
+      content: `Lights align
+Names get checked
+You don’t ask
+You’re selected
+
+Dress code tight
+Timing right
+Every step
+Already met
+
+ Velvet rope eternal
+ Some get in
+ Some don’t
+ Velvet rope eternal
+ You don’t push
+ You don’t hope
+
+ Velvet rope eternal
+ Feel the calm
+ In control
+ Velvet rope eternal
+ Welcome home
+
+ Velvet rope eternal
+ Some get in
+ Some don’t
+ Velvet rope eternal
+ You don’t push
+ You don’t hope
+
+ Velvet rope eternal
+ Feel the calm
+ In control
+ Velvet rope eternal
+ Welcome home
+
+Gold-lit room
+Perfect sound
+Every face
+Knows the ground
+
+No surprise
+No debate
+This is how
+We separate
+
+ Velvet rope eternal
+ Some get in
+ Some don’t
+ Velvet rope eternal
+ You don’t push
+ You don’t hope
+
+ Velvet rope eternal
+ Feel the calm
+ In control
+ Velvet rope eternal
+ Welcome home
+
+ Velvet rope eternal
+ Some get in
+ Some don’t
+ Velvet rope eternal
+ You don’t push
+ You don’t hope
+
+ Velvet rope eternal
+ Feel the calm
+ In control
+ Velvet rope eternal
+ Welcome home
+
+ Velvet rope eternal
+ Welcome home
+ Velvet rope eternal
+ Welcome home
+
+Inside
+Inside
+Inside
+Inside`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_2: {
+      menuTitle: "2. Gold is a feeling",
+      title: "Gold is a feeling",
+      blocks: [
+    {
+      type: "text",
+      content: `Sun on glass
+Late afternoon
+Every color
+Feels like June
+
+Nothing rushed
+Nothing tight
+Even time
+Treats us right
+
+You think it’s money
+That makes it glow
+But it’s the way
+We already know
+
+ Gold is a feeling
+ Before it’s a price
+ Gold is a feeling
+ When everything’s right
+
+ Gold is a feeling
+ In how you move
+ Gold is a feeling
+ When the light moves too
+
+ Gold is a feeling
+ Before it’s a price
+ Gold is a feeling
+ When everything’s right
+
+ Gold is a feeling
+ In how you move
+ Gold is a feeling
+ When the light moves too
+
+Morning spills
+Into noon
+Plans dissolve
+We improvise
+
+Every choice
+Feels complete
+Luck looks good
+When it repeats
+
+It’s not excess
+It’s not greed
+It’s knowing
+What you need
+
+ Gold is a feeling
+ Before it’s a price
+ Gold is a feeling
+ When everything’s right
+
+ Gold is a feeling
+ In how you move
+ Gold is a feeling
+ When the light moves too
+
+ Gold is a feeling
+ You don’t explain
+ Gold is a feeling
+ That always stays
+
+ Gold is a feeling
+ You never chase
+ Gold is a feeling
+ You recognize
+
+Gold is a feeling
+Gold is a feeling
+
+Feel it
+Feel it
+Feel it`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_3: {
+      menuTitle: "3. Champagne Democracy",
+      title: "Champagne Democracy",
+      blocks: [
+    {
+      type: "text",
+      content: `Everyone is equal
+Under the lights tonight
+Same beat, same floor
+Same expensive kind of right
+
+No speeches, no debate
+Just movement in design
+We vote with our bodies
+Every single time
+
+Liberté on the rhythm
+Égalité in the sound
+Fraternité in the way
+We all spin around
+
+ Champagne democracy
+ Pour la nuit, pour la vie
+ Everybody matters
+ When the music agrees
+
+ Champagne democracy
+ Tous ensemble ici
+ No winners, no losers
+ Just bodies set free
+
+ Champagne democracy
+ Pour la nuit, pour la vie
+ Everybody matters
+ When the music agrees
+
+ Champagne democracy
+ Tous ensemble ici
+ No winners, no losers
+ Just bodies set free
+
+Dress code softly broken
+By sweat and symmetry
+No background checks
+On how you dance with me
+
+Status melts in motion
+Under mirrored skies
+Hierarchy dissolves
+When the DJ decides
+
+C’est pas sérieux
+C’est essentiel
+Tonight we practice
+L’universel
+
+ Champagne democracy
+ Pour la nuit, pour la vie
+ Everybody matters
+ When the music agrees
+
+ Champagne democracy
+ Tous ensemble ici
+ No winners, no losers
+ Just bodies set free
+
+ Champagne democracy
+ Liberté de bouger
+ Égalité de rythme
+ Fraternité
+
+ Champagne democracy
+ Pour la nuit, pour la vie
+ No borders, no speeches
+ Just you and me
+
+Ensemble
+Ensemble
+Ensemble`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_4: {
+      menuTitle: "4. Lipstick Dynasty",
+      title: "Lipstick Dynasty",
+      blocks: [
+    {
+      type: "text",
+      content: `Ruby Woo on porcelain skin
+Midnight Poison breathing in
+Chanel lines, cut just right
+History tailored overnight
+
+No inheritance of land or throne
+Just how you walk
+And how you own
+Every glance
+Every tone
+This is learned
+Not loaned
+
+It’s not about the price you pay
+It’s how you wear it anyway
+
+ Lipstick dynasty
+ Paint it on
+ Carry it
+ Lipstick dynasty
+ Born in style
+ Raised in it
+
+ Lipstick dynasty
+ Red on red
+ Heel to floor
+ Lipstick dynasty
+ You’ve done this
+ All before
+
+ Lipstick dynasty
+ Paint it on
+ Carry it
+ Lipstick dynasty
+ Born in style
+ Raised in it
+
+ Lipstick dynasty
+ Red on red
+ Heel to floor
+ Lipstick dynasty
+ You’ve done this
+ All before
+
+Louboutin on marble nights
+Silent rooms and sharper lights
+No bloodline
+No decree
+Just posture taught meticulously
+
+Legacy in how you stand
+How you take
+And how you land
+Elegance as muscle memory
+Passed down casually
+
+Couture isn’t bought or sold
+It’s the way you learn control
+
+ Lipstick dynasty
+ Paint it on
+ Carry it
+ Lipstick dynasty
+ Born in style
+ Raised in it
+
+ Lipstick dynasty
+ Red on red
+ Heel to floor
+ Lipstick dynasty
+ You’ve done this
+ All before
+
+ Lipstick dynasty
+ Rouge et noir
+ Encore
+ Lipstick dynasty
+ You don’t ask
+ You are sure
+
+ Lipstick dynasty
+ Strike the pose
+ Shut the door
+ Lipstick dynasty
+ You’ve been here
+ Before
+
+Click
+Click
+Click`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_5: {
+      menuTitle: "5. Neon never lies",
+      title: "Neon never lies",
+      blocks: [
+    {
+      type: "text",
+      content: `Neon cuts through powder and skin
+Shows where the night has been
+Mascara softens, lines appear
+Nothing wrong
+Just clearer
+
+Mirrors stop performing now
+They only tell the truth somehow
+This light doesn’t flatter or try
+It just stays on
+
+No shadow left to hide behind
+No myth to keep intact
+The glow doesn’t care who you are
+It shows you where you’re at
+
+ Neon never lies
+ It tells you how good you have it
+ Right now
+ Neon never lies
+ No promise
+ No future
+ Just now
+
+ Neon never lies
+ It doesn’t judge
+ Or choose
+ It only asks
+ Are you still enjoying the truth?
+
+Lipstick fades into something else
+Heels come off
+Or get exchanged
+Names dissolve into pronouns
+Glances lose their frames
+
+Some girls aren’t girls anymore
+Some boys stop keeping score
+The light doesn’t care at all
+It just stays on
+
+No fantasy to save the night
+No storyline to keep
+Just bodies lit in perfect detail
+Wide awake
+Not deep
+
+ Neon never lies
+ It tells you how good you have it
+ Right now
+ Neon never lies
+ No meaning
+ No climax
+ Just now
+
+ Neon never lies
+ No sin
+ No proof
+ Just the moment
+ Looking back at you
+
+It’s not cruel
+It’s not kind
+It’s only bright
+At the wrong time
+
+ Neon never lies
+ Not even to you
+ Neon never lies
+ Especially to you
+
+ Neon never lies
+ And neither do you
+
+Lights stay on
+Music low
+This is what remains
+When the fantasy lets go`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `text`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_6: {
+      menuTitle: "6. Afterparty immortals",
+      title: "Afterparty immortals",
+      blocks: [
+    {
+      type: "text",
+      content: `Doors are closed
+Lights are low
+Names don’t matter anymore
+We’re past the list
+Past the line
+Still exactly where we’re meant to go
+
+No need to ask
+No need to leave
+The night knows how to carry us
+Not chasing youth
+Not proving strength
+Just staying when the rest give up
+
+This isn’t extra
+This is core
+Some nights don’t end
+They shift their form
+
+ We are the afterparty immortals
+ Still standing
+ Still precise
+ We don’t fade
+ We don’t fall
+ We outlast the sunrise
+
+ Afterparty immortals
+ No regret
+ No release
+ Not because we can’t go home
+ Because we don’t need to leave
+
+ We are the afterparty immortals
+ Still standing
+ Still precise
+ We don’t fade
+ We don’t fall
+ We outlast the sunrise
+
+ Afterparty immortals
+ No regret
+ No release
+ Not because we can’t go home
+ Because we don’t need to leave
+
+Shoes in hand
+Hair undone
+Perfect in a different way
+The room breathes slow
+The beat stays sharp
+This is where the careful stay
+
+No excess
+No collapse
+Just rhythm held in place
+Elegance under pressure
+Grace that doesn’t need a face
+
+It’s not escape
+It’s not delay
+It’s choosing
+How long you stay
+
+ We are the afterparty immortals
+ Still awake
+ Still aligned
+ The night bends
+ But it doesn’t break
+ The ones who learned to pace time
+
+ Afterparty immortals
+ Nothing left to prove
+ We don’t stay because we’re lost
+ We stay because we choose
+
+Still here
+Still here
+Still here
+
+ Afterparty immortals
+ Measured breath
+ Steady light
+ This is not the end of fun
+ It’s the form it takes at night
+
+ Afterparty immortals
+ No collapse
+ No chase
+ Just the calm
+ Of knowing
+ You can stay
+
+Beat continues
+Room thins out
+We remain`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_7: {
+      menuTitle: "7. Silk gloves, steel heels",
+      title: "Silk gloves, steel heels",
+      blocks: [
+    {
+      type: "text",
+      content: `Streets still loud
+Lights too close
+Every shortcut
+Costs a pose
+Heels hit concrete
+Count the steps
+Home is earned
+In narrow gaps
+
+Smile locked
+Jaw set tight
+Every glance
+A minor fight
+Steel in posture
+Steel in pace
+You don’t slow
+You don’t explain
+
+This isn’t fear
+It’s awareness
+This isn’t weak
+It’s trained
+
+ Silk gloves
+ Steel heels
+ Different weapons
+ Same ideals
+ One survives
+ One selects
+ Both know
+ How power flexes
+
+ Silk gloves
+ Steel heels
+ No permission
+ No appeals
+ You don’t ask
+ You decide
+ How you walk
+ Through the night
+
+Quiet room
+Soft restraint
+Hand on silk
+Around his name
+Tie pulled closer
+Voice stays low
+This is control
+You never show
+
+Not defense
+Not retreat
+This is choosing
+What you keep
+He follows
+Thinking it’s his
+You smile
+Because it is
+
+This isn’t charm
+It’s leverage
+This isn’t luck
+It’s read
+
+ Silk gloves
+ Steel heels
+ Different weapons
+ Same ideals
+ One escapes
+ One collects
+ Both know
+ How power flexes
+
+ Silk gloves
+ Steel heels
+ No confession
+ No reveals
+ You don’t beg
+ You don’t wait
+ You decide
+ Who comes late
+
+Some nights
+You run
+Some nights
+You pull
+Both are strength
+If done in full
+
+ Silk gloves
+ Steel heels
+ No innocence
+ No deals
+ Elegance
+ Under threat
+ Is the sharpest
+ Skill we get
+
+ Silk gloves
+ Steel heels
+ No need
+ To explain
+ You survive
+ Or you choose
+ Either way
+ You remain
+
+Bass holds
+Lights cut
+You walk out
+Unbroken`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_8: {
+      menuTitle: "8. Mirrorball Heirs",
+      title: "Mirrorball Heirs",
+      blocks: [
+    {
+      type: "text",
+      content: `Light comes down
+On everyone
+No front row
+No second ones
+Every face
+Caught in flare
+Same reflection
+Everywhere
+
+Gold and sweat
+Spin as one
+Night forgets
+Where we’re from
+No before
+No next
+Just the now
+At its best
+
+No names above
+No debts below
+This is all
+We need to know
+
+ We are the mirrorball heirs
+ Spinning in borrowed light
+ Every body equal
+ In the shimmer tonight
+
+ We are the mirrorball heirs
+ Hands up
+ Don’t think
+ Just feel
+ We don’t own the moment
+ But the moment is real
+
+ We are the mirrorball heirs
+ Spinning in borrowed light
+ Every body equal
+ In the shimmer tonight
+
+ We are the mirrorball heirs
+ No guilt
+ No prayer
+ No shame
+ Just the rhythm
+ Calling our names
+
+No hierarchy
+In the glow
+Same beat
+From head to toe
+What we lack
+We don’t miss
+When the room
+Moves like this
+
+No one leads
+No one stays
+The light decides
+Who we are
+For a while
+For a phase
+
+This isn’t owned
+This isn’t earned
+This is what
+We all return
+
+ We are the mirrorball heirs
+ Caught in the same design
+ All reflections
+ Perfectly aligned
+
+ We are the mirrorball heirs
+ No need
+ To compare
+ Tonight the light
+ Is something we share
+
+ We are the mirrorball heirs
+ Hearts in sync
+ With the floor
+ Every move
+ Every glare
+ Belongs to everyone
+
+ We are the mirrorball heirs
+ Round and round
+ No regret
+ This is not forever
+ But it’s perfect
+ Yet
+
+Together
+Together
+Together
+Tonight`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_9: {
+      menuTitle: "9. Decadence, but make it Fun (Dominance Cut)",
+      title: "Decadence, but make it Fun (Dominance Cut)",
+      blocks: [
+    {
+      type: "text",
+      content: `Lights obey
+When we arrive
+Bass decides
+Who stays alive
+
+No confusion
+No consent
+Bodies move
+How they’re meant
+
+Gold on teeth
+Pressure clean
+Pleasure sharp
+And well-defined
+
+If it’s dangerous
+Good
+If it hurts
+You’re understood
+
+ Decadence
+ But make it fun
+ Do what you’re told
+ Until it’s done
+
+ Decadence
+ No escape
+ Move in time
+ Or get replaced
+
+ Decadence
+ Taste the floor
+ You came for pleasure
+ Nothing more
+
+Velvet hides
+The clenched command
+Silk disguises
+Iron hands
+
+Every smile
+A calibration
+Every kiss
+An application
+
+This isn’t excess
+This is form
+This is how
+Control is worn
+
+No discussion
+No delay
+Dance is law
+And law is play
+
+ Decadence
+ But make it fun
+ Obey the beat
+ And call it love
+
+ Decadence
+ No remorse
+ If you hesitate
+ You’re lost
+
+ Decadence
+ Stay in line
+ This is pleasure
+ By design
+
+Kneel
+Move
+Breathe
+Again
+
+ Decadence
+ But make it fun
+ If this is power
+ We’ve already won
+
+ Decadence
+ Lights go red
+ Dance until
+ You’re reprogrammed`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tracks3_10: {
+      menuTitle: "10. Last Dance at the Neon Palace",
+      title: "Last Dance at the Neon Palace",
+      blocks: [
+    {
+      type: "text",
+      content: `Lights still on
+But softer now
+Nothing left
+We don’t allow
+We drank the glow
+We took the sound
+We wore the night
+Until it thinned
+
+This wasn’t stolen
+This wasn’t wrong
+It was ours
+For just this long
+
+No alarms
+No regret
+Just the sense
+We’re done with it
+
+ This is the last dance
+ At the neon palace
+ Not because we failed
+ But because we had it
+
+ This is the last dance
+ No disguise
+ No advance
+ We knew the cost
+ We paid it twice
+
+Freedom glittered
+Under glass
+Some things held
+Some things passed
+Not everyone got in
+We know
+But those who did
+Still glow
+
+Outside, the tone has changed
+Words get sharp
+The light rearranged
+We don’t argue
+We don’t stay
+We finish
+Properly
+
+Not defeat
+Not shame
+Just the closing
+Of a frame
+
+ This is the last dance
+ At the neon palace
+ No more pretending
+ This could last us
+
+ This is the last dance
+ Slow and clear
+ We don’t beg
+ To keep it here
+
+We had our moment
+We made it bright
+Now comes discipline
+And quieter nights
+
+Not everything that ends
+Was wrong
+Some things end
+Because they’re strong
+
+ This was the last dance
+ Under borrowed light
+ No innocence
+ But not a lie
+
+ This was the last dance
+ We don’t resist
+ We let it end
+ Like this
+
+Lights change
+Music low
+Doors don’t slam
+They close`
+    }
+  ],
+  showPlaceholder: false
     },
     concept: {
       menuTitle: "Concept",
       title: "Concept",
-      text: "Themes, ideas and structural intent behind the album."
-    }
+      text: `This album is about the 'decadent' phase in generational theory. And specifically for what is Posthuman Cabaret it refers to mankinds last celebration prior to the shift.
+      More to the point than <i>Last Dance at the Neon Palace</i> it is not part of the PHC-concept to be.`
+    },
+  showPlaceholder: false
   },
 
   album4: {
