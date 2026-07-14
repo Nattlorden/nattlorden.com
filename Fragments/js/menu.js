@@ -1,21 +1,17 @@
 const sectionLabels = {
   sv: {
-    majlisa: "Maj-Lisa & Skramlet",
-    echaon: "Echæon",
+   
     nattlorden: "Nattlorden",
     croonlius: "Croonlius",
     khellendros: "Khellendros",
-    threshold: "Threshold Canticle",
-    /*hifi: "HiFi",*/
+       /*hifi: "HiFi",*/
     other: "Övrigt"
   },
   en: {
     nattlorden: "Nattlorden",
     croonlius: "Croonlius",
-    echaon: "Echæon",
-    khellendros: "Khellendros",
-    threshold: "Threshold Canticle",
-    /*hifi: "HiFi",*/
+       khellendros: "Khellendros",
+       /*hifi: "HiFi",*/
     other: "Other"
   }
 };
@@ -27,11 +23,6 @@ const siteMeta = {
     placeholder: "Stubbinnehåll. Här kan det senare läggas in fler textblock, bilder, ljudspelare, citat eller länkar.",
 
     sections: {
-  majlisa: {
-    title: "Maj-Lisa & Skramlet",
-    tagline: "Svensk bluesrock, vägdam och sena refränger",
-    headerClass: "header-majlisa"
-  },    
   nattlorden: {
     title: "Nattlorden",
     tagline: "Fragment, skuggor och sådant som vägrade passa in",
@@ -42,21 +33,10 @@ const siteMeta = {
     tagline: "Rök, sammet och gamla rum med sena refränger",
     headerClass: "header-croonlius"
   },
-  echaon: {
-    title: "Echæon",
-    tagline: "Neon, natt och urbana ekon",
-    headerClass: "header-echaon"
-  },
   khellendros: {
     title: "Khellendros",
     tagline: "Minnet av spelvärldar, syntar och ouppfyllda teman",
     headerClass: "header-khellendros"
-  },
-  
-  threshold: {
-    title: "Threshold Canticle",
-    tagline: "Mytiska strukturer under tryck",
-    headerClass: "header-threshold"
   },
   /*<hifi: {
     title: "HiFi, hemmabio & billjud",
@@ -89,20 +69,10 @@ const siteMeta = {
         tagline: "Smoke, velvet, and late refrains in old rooms",
         headerClass: "header-croonlius"
       },
-      echaon: {
-        title: "Echæon",
-        tagline: "Neon, night, and urban echoes",
-        headerClass: "header-echaon"
-      },
       khellendros: {
         title: "Khellendros",
         tagline: "Memory of game worlds, synths, and unfinished themes",
         headerClass: "header-khellendros"
-      },
-      threshold: {
-        title: "Threshold Canticle",
-        tagline: "Mythic structures under strain",
-        headerClass: "header-threshold"
       },
       /*hifi: {
         title: "Hifi, Home Theater & Car audio",

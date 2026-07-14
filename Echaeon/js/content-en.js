@@ -4275,7 +4275,7 @@ And maybe that’s the truth`
     }
   },
 
-  echaon: {
+  echaeon: {
     about: {
       menuTitle: "About",
       title: "Echæon",

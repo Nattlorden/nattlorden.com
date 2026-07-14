@@ -1,7 +1,7 @@
 const sectionLabels = {
   sv: {
     majlisa: "Maj-Lisa & Skramlet",
-    echaon: "Echæon",
+    echaeon: "Echæon",
     nattlorden: "Nattlorden",
     croonlius: "Croonlius",
     khellendros: "Khellendros",
@@ -12,7 +12,7 @@ const sectionLabels = {
   en: {
     nattlorden: "Nattlorden",
     croonlius: "Croonlius",
-    echaon: "Echæon",
+    echaeon: "Echæon",
     khellendros: "Khellendros",
     threshold: "Threshold Canticle",
     /*hifi: "HiFi",*/
@@ -42,7 +42,7 @@ const siteMeta = {
     tagline: "Rök, sammet och gamla rum med sena refränger",
     headerClass: "header-croonlius"
   },
-  echaon: {
+  echaeon: {
     title: "Echæon",
     tagline: "Neon, natt och urbana ekon",
     headerClass: "header-echaon"
@@ -89,7 +89,7 @@ const siteMeta = {
         tagline: "Smoke, velvet, and late refrains in old rooms",
         headerClass: "header-croonlius"
       },
-      echaon: {
+      echaeon: {
         title: "Echæon",
         tagline: "Neon, night, and urban echoes",
         headerClass: "header-echaon"

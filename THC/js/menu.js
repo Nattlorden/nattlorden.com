@@ -1,8 +1,8 @@
 const sectionLabels = {
   sv: {
-    majlisa: "Maj-Lisa & Skramlet",
+    thekey: "The Key Beyond the Seventh",
     echaon: "Echæon",
-    nattlorden: "Nattlorden",
+    nattlorden: "Singlar",
     croonlius: "Croonlius",
     khellendros: "Khellendros",
     threshold: "Threshold Canticle",
@@ -10,7 +10,8 @@ const sectionLabels = {
     other: "Övrigt"
   },
   en: {
-    nattlorden: "Nattlorden",
+    thekey: "The Key Beyond the Seventh",
+    nattlorden: "Singles",
     croonlius: "Croonlius",
     echaon: "Echæon",
     khellendros: "Khellendros",
@@ -27,14 +28,14 @@ const siteMeta = {
     placeholder: "Stubbinnehåll. Här kan det senare läggas in fler textblock, bilder, ljudspelare, citat eller länkar.",
 
     sections: {
-  majlisa: {
-    title: "Maj-Lisa & Skramlet",
-    tagline: "Svensk bluesrock, vägdam och sena refränger",
+  thekey: {
+    title: "The Key Beyond the Seventh",
+    tagline: "...",
     headerClass: "header-majlisa"
   },    
   nattlorden: {
-    title: "Nattlorden",
-    tagline: "Fragment, skuggor och sådant som vägrade passa in",
+    title: "Threshold Canticle",
+    tagline: "Singlarna",
     headerClass: "header-nattlorden"
   },
   croonlius: {
@@ -80,13 +81,13 @@ const siteMeta = {
 
     sections: {
       nattlorden: {
-        title: "Nattlorden",
-        tagline: "Fragments, shadows, and what refused to fit elsewhere",
+        title: "Threshold Canticle",
+        tagline: "The singles",
         headerClass: "header-nattlorden"
       },
-      croonlius: {
-        title: "Croonlius",
-        tagline: "Smoke, velvet, and late refrains in old rooms",
+      thekey: {
+        title: "The Key Beyond the Seventh",
+        tagline: "...",
         headerClass: "header-croonlius"
       },
       echaon: {

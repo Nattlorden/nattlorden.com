@@ -1,5 +1,5 @@
 let lang = "sv";
-let currentSection = "majlisa";
+let currentSection = "threshold";
 let currentPage = "about";
 
 function readRouteFromUrl() {
