@@ -1,5 +1,5 @@
 let lang = "sv";
-let currentSection = "nattlorden";
+let currentSection = "majlisa";
 let currentPage = "about";
 
 function readRouteFromUrl() {

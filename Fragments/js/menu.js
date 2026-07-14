@@ -1,10 +1,10 @@
 const sectionLabels = {
   sv: {
+    majlisa: "Maj-Lisa & Skramlet",
+    echaon: "Echæon",
     nattlorden: "Nattlorden",
     croonlius: "Croonlius",
-    echaon: "Echæon",
     khellendros: "Khellendros",
-    majlisa: "Maj-Lisa & Skramlet",
     threshold: "Threshold Canticle",
     /*hifi: "HiFi",*/
     other: "Övrigt"
@@ -27,7 +27,11 @@ const siteMeta = {
     placeholder: "Stubbinnehåll. Här kan det senare läggas in fler textblock, bilder, ljudspelare, citat eller länkar.",
 
     sections: {
-      
+  majlisa: {
+    title: "Maj-Lisa & Skramlet",
+    tagline: "Svensk bluesrock, vägdam och sena refränger",
+    headerClass: "header-majlisa"
+  },    
   nattlorden: {
     title: "Nattlorden",
     tagline: "Fragment, skuggor och sådant som vägrade passa in",
@@ -48,11 +52,7 @@ const siteMeta = {
     tagline: "Minnet av spelvärldar, syntar och ouppfyllda teman",
     headerClass: "header-khellendros"
   },
-  majlisa: {
-    title: "Maj-Lisa & Skramlet",
-    tagline: "Svensk bluesrock, vägdam och sena refränger",
-    headerClass: "header-majlisa"
-  },
+  
   threshold: {
     title: "Threshold Canticle",
     tagline: "Mytiska strukturer under tryck",
