@@ -3,20 +3,21 @@ const sectionLabels = {
     majlisa: "Maj-Lisa & Skramlet",
     nerlangsvagen: "Ner längs vägen",
     oresundsnatt: "Öresundsnatt",
-    croonlius: "Vägskäl",
+    vagskal: "Vägskäl",
     khellendros: "The Sinners' place",
     threshold: "1983",
-    hifi: "1984",
+    anno84: "1984",
     other: "Varsamt"
   },
   en: {
-    oresundsnatt: "Nattlorden",
-    nerlangsvagen: "Croonlius",
-    echaon: "Echæon",
-    khellendros: "Khellendros",
-    threshold: "Threshold Canticle",
-    /*hifi: "HiFi",*/
-    other: "Other"
+     majlisa: "Maj-Lisa & Skramlet",
+    nerlangsvagen: "Ner längs vägen",
+    oresundsnatt: "Öresundsnatt",
+    vagskal: "Vägskäl",
+    khellendros: "The Sinners' place",
+    threshold: "1983",
+    anno84: "1984",
+    other: "Varsamt"
   }
 };
 
@@ -37,36 +38,36 @@ const siteMeta = {
     tagline: "...",
     headerClass: "header-nattlorden"
   },
-  croonlius: {
-    title: "Croonlius",
-    tagline: "Rök, sammet och gamla rum med sena refränger",
-    headerClass: "header-croonlius"
+  vagskal: {
+    title: "Vägskäl",
+    tagline: "...",
+    headerClass: "header-nattlorden"
   },
   nerlangsvagen: {
     title: "Ner längs vägen",
     tagline: "...",
-    headerClass: "header-echaon"
+    headerClass: "header-nattlorden"
   },
   khellendros: {
-    title: "Khellendros",
-    tagline: "Minnet av spelvärldar, syntar och ouppfyllda teman",
-    headerClass: "header-khellendros"
+    title: "The Sinner's place",
+    tagline: "...",
+    headerClass: "header-nattlorden"
   },
   
   threshold: {
-    title: "Threshold Canticle",
-    tagline: "Mytiska strukturer under tryck",
-    headerClass: "header-threshold"
+    title: "1983",
+    tagline: "...",
+    headerClass: "header-nattlorden"
   },
-  /*<hifi: {
-    title: "HiFi, hemmabio & billjud",
-    tagline: "Signal, precision och systemtänkande",
-    headerClass: "header-hifi"
-  },*/
+  anno84: {
+    title: "1984",
+    tagline: "...",
+    headerClass: "header-nattlorden"
+  },
   other: {
-    title: "*",
-    tagline: "Det övriga. Det envisa. Det användbara.",
-    headerClass: "header-other"
+    title: "Varsamt",
+    tagline: "...",
+    headerClass: "header-nattlorden"
   }
 }
 
@@ -84,35 +85,35 @@ const siteMeta = {
         tagline: "...",
         headerClass: "header-nattlorden"
       },
-      croonlius: {
-        title: "Croonlius",
-        tagline: "Smoke, velvet, and late refrains in old rooms",
-        headerClass: "header-croonlius"
+      vagskal: {
+        title: "Vägskäl",
+        tagline: "...",
+        headerClass: "header-nattlorden"
       },
       nerlangsvagen: {
         title: "Ner längs vägen",
         tagline: "...",
-        headerClass: "header-echaon"
+        headerClass: "header-nattlorden"
       },
       khellendros: {
-        title: "Khellendros",
-        tagline: "Memory of game worlds, synths, and unfinished themes",
-        headerClass: "header-khellendros"
+        title: "The Sinners' place",
+        tagline: "...",
+        headerClass: "header-nattlorden"
       },
       threshold: {
-        title: "Threshold Canticle",
-        tagline: "Mythic structures under strain",
-        headerClass: "header-threshold"
+        title: "1983",
+        tagline: "...",
+        headerClass: "header-nattlorden"
       },
-      /*hifi: {
-        title: "Hifi, Home Theater & Car audio",
-        tagline: "Signal, precision, and engineering logic",
-        headerClass: "header-hifi"
-      },*/
+      anno84: {
+        title: "1984",
+        tagline: "...",
+        headerClass: "header-nattlorden"
+      },
       other: {
-        title: `*`,
-        tagline: "The miscellaneous. The stubborn. The useful.",
-        headerClass: "header-other"
+        title: `Varsamt`,
+        tagline: "...",
+        headerClass: "header-nattlorden"
       }
     }
   }
