@@ -2371,14 +2371,87 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/cyXfEvrWUNo?si=Gkb4uOA606jNYpeI" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Jag ser affischerna i Köpenhamn
+Ansikten bleka som månljus nu
+Ingen bär jeans som vi gjorde förr
+Alla ser ut som de kom från en annan värld
+
+På klubben där vi brukade stå
+Finns nya namn på varje vägg
+Och de som sjöng om vägar och damm
+Har blivit gårdagen innan de märkt det själv
+
+I musikaffären står syntarna blankt
+Prislappar större än hyran jag har
+Killen bakom disken säger framtiden finns här
+Och nickar mot tangenter av plast
+
+Han säger att gitarren tappat sin glans
+Att världen vill ha något nytt
+Men varje gång jag hör ett öppet E
+Finns det fortfarande eld däruti
+
+Jag tittar på mitt munspel
+Slitet krom och lite rost
+Det har tagit mig längre
+Än någon av oss trott
+
+ Är det dags att lägga munspelet ner?
+ Köpa en synt och följa med?
+ Måla ögonen blå och låtsas förstå
+ Vad framtiden vill att jag ska bli
+
+ Men när natten öppnar vägen framför mig
+ Och motorn sjunger samma gamla melodi
+ Då vet jag inte längre om jag är sen
+ Eller om världen sprungit förbi
+
+Nere vid torget står ungdomar kvar
+Med frisyrer höga som drömmarna förr
+De skrattar åt samma saker som vi
+Fast orden har bytt både färg och form
+
+Och kanske är det så det måste bli
+Att varje tid får sitt eget ljud
+Men under sminket och neonets sken
+Slår samma hjärta som alltid gjort
+
+För varje ny generation
+Måste hitta sin egen väg
+Men vägarna är gamla
+Även när skyltarna bytts ut
+
+ Är det dags att lägga munspelet ner?
+ Köpa en synt och följa med?
+ Måla ögonen blå och låtsas förstå
+ Vad framtiden vill att jag ska bli
+
+ Men när natten öppnar vägen framför mig
+ Och motorn sjunger samma gamla melodi
+ Då vet jag inte längre om jag är sen
+ Eller om världen sprungit förbi
+
+Kanske finns det plats för mer än en dröm
+Mer än en röst i samma stad
+Kanske behöver ingen välja alls
+Mellan det som kommer och det man har
+
+ Jag tänker inte lägga munspelet ner
+ Men kanske låter jag något nytt ske
+ För framtiden frågar inte vem du var
+ Bara om du vågar följa med
+
+ Och när gryningen färgar sundet i blå
+ Och nattens sista stjärna bleknat så
+ Då vrider jag om nyckeln och kör vidare
+ In i  ett 80-tal - jag ännu ej förstår
 `
     }
   ],
@@ -2400,14 +2473,90 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/u7ryDvvDnos?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Drömmar tar aldrig slut
+som New Order på Saltlagret
+Men ikväll är det inte det jag behöver
+Inte Rockmaskinen
+Inte huset i Magstræde
+
+Jag går genom Köpenhamn med hetta i min hud
+Midnatt i porten, luften ligger tät och tung
+Annan crowd, andra kläder, ett annat jag i natt
+En annan sorts kvinna som tar det hon vill ha
+Parfym och svett, svarta boots mot golv
+Blickar överallt, men jag vill ha mer än så
+Jag vill inte räddas, vill inte bli nåns namn
+Jag kom hit för febern, inte för en famn
+
+Inte ikväll, inte samma gamla spel
+Inte ikväll, inte trygghet för min del
+Jag vill ha rummet när ljusen går i brand
+Jag vill ha Barbarellah i natt
+
+ Barbarellah i natt
+ Brinner under rödblå glans
+ Rör din kropp och tappa allt
+ Men du får aldrig kalla mig din
+ Barbarellah i natt
+ Svett och rök och hungrig blick
+ Jag kan vilja, jag står fri
+ Åtrådd, aldrig ägd
+
+ Åtrådd, aldrig ägd
+ Åtrådd, aldrig ägd
+ Barbarellah i natt
+ Åtrådd, aldrig ägd
+
+Jag rullar axlarna mot kick och virvelslag
+Låter hela rummet titta, men ger dem inget svar
+Ett leende som varning, långsam eld i mörkret
+Jag tänder hela salen som en tändsticka i stormen
+Ingen kommer närmare än rytmen själv tillåter
+Jag ger dem min silhuett, men aldrig några löften
+En smak av åska, en glimt av guld
+Jag älskar att bli sedd, men aldrig köpt och såld
+
+Inte ikväll, inte gamla steg igen
+Inte ikväll, inte nåns trofé, min vän
+Jag vill ha pulsen där natten lutar in
+Jag vill ha Barbarellah i natt
+
+ Barbarellah i natt
+ Brinner under rödblå glans
+ Rör din kropp och tappa allt
+ Men du får aldrig kalla mig din
+ Barbarellah i natt
+ Svett och rök och hungrig blick
+ Jag kan vilja, jag står fri
+ Åtrådd, aldrig ägd
+
+Annan crowd, annan klänning, annan hud
+En annan historia när mörkret fylls av ljud
+Jag vill inte ha kärlek, inte nån tron
+Jag vill ha natten och natten ensam
+Låt dem se, låt hela världen förstå
+Jag kom hit för att känna mitt hjärta slå
+
+ Barbarellah i natt
+ Brinner under rödblå glans
+ Rör din kropp och tappa allt
+ Men du får aldrig kalla mig din
+ Barbarellah i natt
+ Svett och rök och hungrig blick
+ Jag kan vilja, jag står fri
+ Åtrådd, aldrig ägd
+
+Drömmar tar aldrig slut
+Men det här är inte den vägen
+I natt dansade jag i Köpenhamn
+Åtrådd, aldrig ägd
 `
     }
   ],
@@ -2428,14 +2577,58 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/0knruODYYuY?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Du bär dina löften djupt i fickans tyg
+Du säger kanske, jag är byggd för kliv
+Jag läser rummet, jag läser dig
+Det glöder under allt du gömmer i dig
+
+Jag har väntat klart, jag har tvivlat nog
+Nu går min sanning rakt i blod
+
+ Jag tar det jag vill ha, jag ber inte mer
+ Jag slår som åska och jag kliver ner
+ Ingen lånad nåd, inget halvt begär
+ Jag tar det jag vill ha, och jag vill ha dig här
+
+Du bär din tvekan som en skräddad dräkt
+Men händer avslöjar vad munnen har släckt
+Tala nu rakt, göm inte din eld
+Jag kom för glöden, inte nån trygg modell
+
+Jag vet vad det kostar, jag vet vad som bränns
+Ändå står jag kvar tills hjärtat känns
+
+ Jag tar det jag vill ha, jag ber inte mer
+ Jag slår som åska och jag kliver ner
+ Ingen lånad nåd, inget halvt begär
+ Jag tar det jag vill ha, och jag vill ha dig här
+
+Hey
+Jag vill ha sanningen med damm och glans
+Hey
+Inte sen, jag vill ha den nånstans
+
+Är kärlek en risk, låt den lämna spår
+Jag brinner hellre sant än bleknar år för år
+Behåll dina staket, behåll din lilla plan
+Jag kom hit levande, inte tam i din hand
+
+ Jag tar det jag vill ha, jag ber inte mer
+ Jag slår som åska och jag kliver ner
+ Ingen lånad nåd, inget halvt begär
+ Jag tar det jag vill ha, och jag vill ha dig här
+
+Jag tar det jag vill ha
+Jag tar det jag vill ha
+Med båda händer öppna
+Jag tar det jag vill ha
 `
     }
   ],
@@ -2456,14 +2649,75 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/ahUGF03QW-8?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Ingen stod bredvid när trummorna drog
+gråa kvarter skakade loss i ett tåg
+hela stan dansa', det svängde förbi
+Malmö fick färg där vi satte den fri
+
+Kom som du är, det var ingen som sa' det
+inga dörrar kvar, ingen väntan mer
+bakom maskerna brann samma blick
+för en dag var allt möjligt här
+
+ Ingen publik, gatan blev vår
+ vi tog gatorna tillbaka i år
+ alla fick plats när rytmen tog fart
+ när staden började le blev natten varm
+ ingen publik, bara vi
+ hjärta mot hjärta i samma melodi
+ bakom maskerna, fria till fest
+ för en dag var Malmö som bäst
+
+Någon kom haltande, någon kom stolt
+någon bar paljetter, någon bara sitt mod
+ingen fråga först, ingen fin entré
+bara händer i luften och skor mot sten
+
+Kom som du är, hör ropen gå runt
+från Möllevången ner mot sundets punkt
+inga kanter kvar, inget vi och dom
+bara skratt som bar oss fram
+
+ Ingen publik, gatan blev vår
+ vi tog gatorna tillbaka i år
+ alla fick plats när rytmen tog fart
+ när staden började le blev natten varm
+ ingen publik, bara vi
+ hjärta mot hjärta i samma melodi
+ bakom maskerna, fria till fest
+ för en dag var Malmö som bäst
+
+Vi hade redan spelat 
+för att drömmen skulle bli av
+Under färgen fanns trötthet och skav
+allt vi burit fick äntligen andas
+och mitt i larmet blev sanningen klar
+en stad kan vakna när människor svarar
+
+ Ingen publik, gatan blev vår
+ vi tog gatorna tillbaka i år
+ alla fick plats när rytmen tog fart
+ när staden började le blev natten varm
+ ingen publik, bara vi
+ hjärta mot hjärta i samma melodi
+ bakom maskerna, fria och bäst
+ för en dag var Malmö en fest
+
+Hela stan dansa', par efter par
+kom som du är, vi visste vad vi bar
+gatan blev vår, och luften stod kvar
+bakom maskerna glödde våra svar
+för en dag
+för en dag
+när staden började le
+så lärde vi oss vilka vi var
 `
     }
   ],
@@ -2484,14 +2738,89 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/8ub-WO9oRbs?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Det finns ett rum jag aldrig öppnar
+Där orden bränner som eld
+Där skratten ekar tomma
+Och ingen vill veta vem jag var
+
+De sa att jag var för mycket
+För högljudd, för svag, för fri
+Jag bar deras blickar som stenar
+I fickorna inuti
+
+Jag lärde mig stå helt stilla
+När marken skakade under mig
+Log som om inget kändes
+Fast hjärtat ropade nej
+
+Men varje gång jag böjde mig
+Växte en storm i mitt bröst
+En viskning genom mörkret:
+Du är mer än deras röst
+
+ Jag är inte deras dyrbara ting
+ Inte en skärva de kan slå itu
+ Jag är blodet som brusar i natten
+ En eld som vägrar ge upp nu
+
+ Och alla ord de kastade
+ Faller som damm omkring
+ Jag är inte deras dyrbara ting
+
+De ville forma min spegel
+Så den passade deras bild
+En lydig skugga i hörnet
+En längtan som hölls still
+
+Men under huden brann något
+En hunger efter luft
+Ett namn som ingen kunde
+Ta ifrån min egen röst
+
+Och varje sår de lämnade
+blev sprickor där ljus kom in
+En sanning jag bar i tystnad:
+Jag tillhör bara mig själv, min vän
+
+ Jag är inte deras dyrbara ting
+ Inte en dröm de kan kasta bort
+ Jag är stegen över isen
+ När vintern varit alltför hård
+
+ Och alla murar de byggde
+ Rämnar inför min sång
+ Jag är inte deras dyrbara ting
+
+Om jag darrar är det vinden
+Inte rädslan som styr
+Om jag gråter är det styrka
+Som bryter sig ur
+
+Jag bär mina ärr som fanor
+I ett land som glömt mitt namn
+Men jag står kvar i stormen
+Med hjärtat i min hand
+
+ Jag är inte deras dyrbara ting
+ Inte en skugga i någon annans ljus
+ Jag är rösten som vägrar tystna
+ När natten försöker göra mig tyst
+
+ Och alla kedjor de smidde
+ Rostar sönder runt min sång
+ Jag är inte deras dyrbara ting
+
+Det finns ett rum som nu är öppet
+Där jag andas utan tvång
+Där mitt namn får klinga fritt
+I min egen sång
 `
     }
   ],
@@ -2512,14 +2841,93 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/aINsSH8ep1E?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Luften står still över staden ikväll
+Mörka moln rullar in från havet
+Något kallar mitt namn genom vinden
+
+Folk drar ner persienner och låser sin dörr
+När himlen blir svart och träden böjer sig
+Men jag står kvar och väntar på första smällen
+När sommarnatten spricker upp i ljus
+
+Jag hör avlägsna dån över taken
+Ser blixtar teckna silver över stan
+Det känns som om någonting vaknar i mig
+Som om blodet minns en gammal sång
+
+Och när regnet börjar falla
+Finns det ingen väg tillbaks
+Hela världen drar mig närmare
+Som en kraft jag inte kan stå emot
+
+ Låt åskan komma
+ Låt himlen slå
+ Låt regnet skölja genom märg och ben
+
+ Låt åskan komma
+ Jag tar emot
+ Min välsignelse i sommarregn
+
+I regnet
+I ljuset
+I regnet
+Jag tar emot
+
+Jag går mot Jesusparken utan tvekan
+Genom vatten som dansar över grus
+Varje blixt blir som en hand på axeln
+Varje dunder som ett hjärta som slår
+
+Den gamle långhårige vandraren
+Som folk gav ett annat namn
+Har lämnat kvar en märklig sorts frihet
+Mellan träden och den öppna skyn
+
+Och när regnet faller tyngre
+Känner jag hur rädslan lossnar
+Allting som hållit mig tillbaks
+Sköljs bort i varm sommarnatt
+
+ Låt åskan komma
+ Låt himlen slå
+ Låt regnet skölja genom märg och ben
+
+ Låt åskan komma
+ Jag tar emot
+ Min välsignelse i sommarregn
+
+Genomblöt men aldrig frusen
+Barfota i stadens ljus
+Ingen sanning, inga svar
+Bara himlens energi
+
+Jag sträcker händerna mot natten
+Mot blixtarnas vita eld
+Och för ett ögonblick känns livet
+Större än jag trodde själv
+
+ Låt åskan komma
+ Låt himlen slå
+ Låt regnet skölja genom märg och ben
+
+ Låt åskan komma
+ Låt himlen slå
+ Jag känner kraften igen
+
+ Låt åskan komma
+ Jag tar emot
+ Min välsignelse i sommarregn
+
+Regnet faller
+Värmen stannar kvar
+Och natten andas långsamt vidare
 `
     }
   ],
@@ -2540,14 +2948,96 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KOvntnufERw?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Det finns folk man aldrig ser
+fast de går här mitt ibland oss
+med skift i ryggen, damm i lungor
+och sömn som aldrig räcker till
+
+Hon tar bussen innan gryning
+lämnar ungar, låser dörr
+stämplar in där ljusen surrar
+hela kroppen går på törn
+Han står tyst vid bandet, böjd där
+som om dagen aldrig tar slut
+äter kallnat i ett hörnrum
+går hem med oljan i sin hud
+
+Och dom biter ihop när ingen ser
+sväljer stormen, sväljer mer
+världen går förbi i full fart
+utan att stanna, uppenbart
+
+ Vi som aldrig frågar
+ hur det känns att hålla ut
+ Vi som aldrig frågar
+ då hjärtat nästan tagit slut
+ Men vi står ändå kvar här
+ fast det blåser genom ben och märg
+ dom som aldrig frågar
+ ska få se att vi bär
+
+Vi bär
+vi bär ändå
+Vi bär
+vi bär ändå
+
+Nån dricker bort sin lördag kväll nu
+för att tysta allt han vet
+hela byn kan se hur det går sönder
+ingen säger vad dom ser
+Ensam mamma, köksbord, räkning
+barn som somnar framför tvn
+hon räknar mynt och räknar timmar
+bär ett helt liv utan scen
+
+Och som biter ihop när natten gror
+när varenda vägg blir kall och stor
+världen säger håll dig flytande
+men ger dig sten i stället för ord
+
+ Vi som aldrig frågar
+ hur det känns att hålla ut
+ vi som aldrig frågar
+ då hjärtat nästan tagit slut
+ Men vi står ändå kvar här
+ fast det blåser genom ben och märg
+ dom som aldrig frågar
+ ska få se att vi bär
+
+Det är inte vackert, inte rättvist
+inte något sagan skrev
+men det finns en eld i dom som stannar
+när dom borde gått för längesen
+och den elden, den går vidare
+genom sprickor, genom regn
+
+Så när mörkret vill ha sista ordet
+när det knakar i varenda led
+står vi rakare i blåsten
+än dom nånsin trodde vi kunde
+
+ Vi som aldrig frågar
+ hur det känns att hålla ut
+ Vi som aldrig frågar
+ då hjärtat nästan tagit slut
+ Men vi står ändå kvar här
+ fast det blåser genom ben och märg
+ dom som aldrig frågar
+ ska få se att vi bär
+
+Vi bär
+Vi bär ändå
+Vi bär
+genom natt och nederlag
+Vi bär
+fast ingen fråga kom idag
 `
     }
   ],
@@ -2568,14 +3058,87 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/VTjgX0_7pSU?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Det går en ensam väg genom mitt liv
+Där många löften blev till tidsfördriv
+Men i blåsten, dar till dar
+Var det ni som alltid stod kvar
+
+Morgonljus i lastkajns damm
+Trötta steg i gryningsfamn
+Nån har en termos för två
+Nån sa: vi kan spela ändå
+Slitna vägar, sena kvällar
+Tomma hus och kalla smällar
+Men i allt som livet bar
+Var det ni som alltid var kvar
+
+Varje skratt i mörka rum
+Bar mig när allt kändes tungt
+Det som bara var ett band
+Blev nåt större än ibland
+
+ När ni stod kvar när stormen drog
+ När min egen röst bara dog
+ I varje ton och varje slag
+ Fanns det nåt som bar mig fram
+ Ni gick inte bara med
+ Ni bar mig genom allt som sved
+ Och de vägar vi tagit oss fram
+ Bär ännu spår av vårat damm
+
+Många kvällar blev till år
+Många drömmar blev till sår
+Men ni höll mitt mod vid liv
+När mitt hjärta gick på kniv
+Från små scener, tomma hus
+Genom natt och genom brus
+Har ni tagit varje strid
+Och stått kvar bredvid
+
+Varje blick och varje ord
+Blev en eld i frusen jord
+Det som föll ur mina händer
+Har ni burit när det vänder
+
+ När ni stod kvar när stormen drog
+ När min egen röst bara dog
+ I varje ton och varje slag
+ Fanns det nåt som bar mig fram
+ Ni gick inte bara med
+ Ni bar mig genom allt som sved
+ Och de vägar vi tagit oss fram
+ Bär ännu spår av vårat damm
+
+När den sista lampan slår
+Över tomma sceners sår
+Kan jag höra allting än
+Från varenda natt vi känt
+Från ett darrigt första steg
+Till ett liv på samma väg
+Det vi byggt står ändå kvar
+Fast tiden tar
+
+ När ni stod kvar när stormen drog
+ När min egen röst bara dog
+ Genom regn och genom trasig tro
+ Har er värme hållit i
+ Ni gick inte bara med
+ Ni gjorde mer än någon sett
+ Och de vägar vi tagit oss fram
+ Bär ännu spår av vårat damm
+
+Så om någon frågar sen
+Hur man orkar om och om igen
+Säger jag: det var ni som bar
+Det var ni som stod kvar
+
 `
     }
   ],
@@ -2596,14 +3159,61 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/zuMyLzx4nWo?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Tallarna står svarta
+Mot himlen inatt
+Ingen vind som svarar
+Ingen väg tillbaks
+
+Var gick du min älskling
+När sommaren dog
+Ingen såg dig lämna
+Ingen hörde ett ord
+Bara rälsen genom skogen
+Och månen över sjön
+Och ett namn som ingen
+Nånsinn säger högt
+
+Jag stod kvar vid vägen
+När nattdimman steg
+Såg ljusen försvinna
+Bakom träd och regn
+Nu sover gamla minnen
+I jord kall och svart
+Och skogen håller hårt i
+Allt den tatt
+
+Och tågen går ännu
+Genom mörkret varje natt
+Som om inget nånsin hände
+Som om du aldrig fanns
+
+ I tallarnas skugga
+ Där ingen ser
+ Där nätterna gömmer
+ Det människan ger
+ Ännu hör dina steg
+ När dimman drar in
+ Ett blekt gammalt eko
+ Djupt inne i skog
+
+Gamla vägar rostar
+Gamla hjärtan med
+Men vissa kvällar öppnar
+Skogen sig igen
+Och långt bort bland träden
+När månen blivit blå
+Tycker jag mig höra
+Dig ropa ändå
+
+Tallarna står svarta...
+Mot himlen inatt...
 `
     }
   ],
@@ -2708,6 +3318,10 @@ och åt runans hemliga rötter
     title: "The Sinners' place (album)",
     text: ``,
     blocks: [
+      {
+        type: "text",
+        content: `<a href="https://open.spotify.com/album/5xn8Sv2DJCdZe5IXVqoxxj?si=dwLjUOdXQ0-4MmPpq92Kqg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      },
       {
         type: "image",
         src: "assets/covers/The sinners' place 3k.png",
