@@ -1,17 +1,18 @@
 const sectionLabels = {
   sv: {
-    majlisa: "Maj-Lisa & Skramlet",
+    galdra: "Galdrakällan",
     echaon: "Echæon",
-    nattlorden: "Nattlorden",
-    croonlius: "Croonlius",
+    nattlorden: "Singlar",
+    album: "Album",
     khellendros: "Khellendros",
     threshold: "Threshold Canticle",
     /*hifi: "HiFi",*/
     other: "Övrigt"
   },
   en: {
-    nattlorden: "Nattlorden",
-    croonlius: "Croonlius",
+    galdra: "Galdrakällan",
+    nattlorden: "Singles",
+    album: "Album",
     echaon: "Echæon",
     khellendros: "Khellendros",
     threshold: "Threshold Canticle",
@@ -27,19 +28,19 @@ const siteMeta = {
     placeholder: "Stubbinnehåll. Här kan det senare läggas in fler textblock, bilder, ljudspelare, citat eller länkar.",
 
     sections: {
-  majlisa: {
-    title: "Maj-Lisa & Skramlet",
-    tagline: "Svensk bluesrock, vägdam och sena refränger",
+  galdra: {
+    title: "Galdrakällan",
+    tagline: "Nordiskt, myter och mysterier",
     headerClass: "header-majlisa"
   },    
   nattlorden: {
-    title: "Nattlorden",
-    tagline: "Fragment, skuggor och sådant som vägrade passa in",
+    title: "Galdrakällan",
+    tagline: "singlar",
     headerClass: "header-nattlorden"
   },
-  croonlius: {
-    title: "Croonlius",
-    tagline: "Rök, sammet och gamla rum med sena refränger",
+  album: {
+    title: "Galdrakällan",
+    tagline: "album",
     headerClass: "header-croonlius"
   },
   echaon: {
@@ -79,14 +80,19 @@ const siteMeta = {
     placeholder: "Placeholder content. Here there can later be added more text blocks, images, audio players, quotes or links.",
 
     sections: {
+       galdra: {
+    title: "Galdrakällan",
+    tagline: "Norse, mythic, mystic",
+    headerClass: "header-majlisa"
+    },  
       nattlorden: {
-        title: "Nattlorden",
-        tagline: "Fragments, shadows, and what refused to fit elsewhere",
+        title: "Galdrakällan",
+        tagline: "singles",
         headerClass: "header-nattlorden"
       },
-      croonlius: {
-        title: "Croonlius",
-        tagline: "Smoke, velvet, and late refrains in old rooms",
+      album: {
+        title: "Galdrakällan",
+        tagline: "album",
         headerClass: "header-croonlius"
       },
       echaon: {
