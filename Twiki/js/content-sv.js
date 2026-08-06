@@ -127,7 +127,7 @@ I efterhand har "Runor" uppmärksammats för sitt avvikande uttryck och har av f
       headingLevel: 3,
       content: `1. ^ <a href="https://sv.wikipedia.org/wiki/Sveriges_befolkning_(databaser)">Sveriges befolkning</a> 2000: Freyja, Carolina Viktoria Mailýsa (1960-01-10) Försäkringskassan, uttag avseende 20001231 (2014)
       2. ^ Recension i tidningen <a href="https://www.nattlorden.com/Twiki/assets/ui/Arbetet 1978-07-14.png">Arbetet 1978-07-14</a>.
-      3. ^ Intervju i <a href="">Malmö-Tidningen datum</a>.`
+      3. ^ Intervju i <a href="https://www.nattlorden.com/Twiki/assets/ui/Artikel_med_datum.png">Malmö-Tidningen datum</a>.`
     }
   ],
   showPlaceholder: false
