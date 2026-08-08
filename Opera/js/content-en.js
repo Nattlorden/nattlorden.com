@@ -1,31 +1,30 @@
 const contentEN = {
   general: {
     about: {
-      menuTitle: "About",
-      title: "Tech",
-      text: `Jag vet inte vilket/vilka år den visades på svensk - eller dansk - tv. Men starten på allt är miniserien "(The Life of) Verdi" som gjordes 1982-1983
-      
-      https://en.wikipedia.org/wiki/The_Life_of_Verdi_(miniseries)
-      
-      https://www.imdb.com/title/tt0087621/
-      
-      När min mor vid något senare tillfälle förslog att vi skulle gå se någon så var svaret självklart ja. Detta blev sedan säsongsprenumerationer. 
-      
-      Vi behöll samma stolar fram till vi tappade dem i samband att vi avstod ett år efter Covid för säkerhets skull.
-      `,
-      showPlaceholder: false
-    },
-
-    History: {
-  menuTitle: "Historik Malmö Opera",
-  title: "Historik Malmö Opera",
+  menuTitle: "About",
+  title: "Tech",
+  text: `I don't remember which year or years it was shown on Swedish—or Danish—television. But the beginning of everything was the miniseries "(The Life of) Verdi", produced in 1982–1983.
+  
+  https://en.wikipedia.org/wiki/The_Life_of_Verdi_(miniseries)
+  
+  https://www.imdb.com/title/tt0087621/
+  
+  When my mother later suggested that we go and see an opera, the answer was an obvious yes. That eventually became season subscriptions.
+  
+  We kept the same seats until we gave them up for a year after Covid, simply to be on the safe side.
+  `,
+  showPlaceholder: false
+},
+  History: {
+  menuTitle: "Malmö Opera History",
+  title: "Malmö Opera History",
   blocks: [
     {
       type: "text",
-      content: `Min mor och jag har gått på söndagsabonnemangen sedan någon går på 90-talet. Tyvärr har jag inte fört dagbok över det och så långt tillbaka har självklar även Internet svårt att se
-      
-      Har lyckats rekonstruera en del och min mor har säkert behållt program, så mer kan komma.
-      `
+      content: `My mother and I have attended the Sunday subscription performances since sometime in the 1990s. Unfortunately I never kept a diary, and information that far back is naturally difficult to reconstruct even with the Internet.
+
+I've managed to piece together part of it, and my mother has almost certainly kept the programmes, so more may be added later.
+`
     },
     {
       type: "divider"
@@ -42,15 +41,15 @@ El Niño (?)
 
 <h4>2004-2005</h4>
 Turandot
-Livet med en idiot
-Nötknäpparen
+Life with an Idiot
+The Nutcracker
 Faust
 
 <h4>2005-2006</h4>
-Skuggspel
+Shadow Play
 South Pacific
-Maskeradbalen
-Figaros Bröllop
+Un Ballo in Maschera
+The Marriage of Figaro
 
 <h4>2006-2007</h4>
 Nabucco 
@@ -70,7 +69,7 @@ La Sonnambula
 Aida
 
 <h4>2008-2009</h4>
-Prinsessan av Cypern
+The Princess of Cyprus
 Death and the Maiden
 Jesus Christ Superstar
 La Traviata
@@ -78,10 +77,10 @@ Nyårsfest
 Dead Man Walking
 
 <h4>2009-2010</h4>
-Askungen
-Rucklarens väg
+Cinderella
+The Way of the Wastrel
 Julie
-Karmelitsystrarna
+Dialogues of the Carmelites
 Rosenkavaljeren
 
 <h4>2010-2011</h4>
@@ -97,14 +96,14 @@ Les Misérables
 Tirfing
 Jenufa
 Carmen
-Svansjön
+Swan Lake
 Parsifal
 
 <h4>2012-2013</h4>
 Evita
 Luisa Miller
-Sommarnattens leende
-Trollflöjten
+Smiles of a Summer Night
+The Magic Flute
 Lear
 
 <h4>2013-2014</h4>
@@ -115,11 +114,11 @@ La Bohème
 Rosenkavaljeren
 
 <h4>2014-2015</h4>
-Doktor Zjivago
-Greve Ory
+Doctor Zhivago
+Count Ory
 American Idiot
 Aida
-Kvartett
+Quartet
 
 <h4>2015-2016</h4>
 Billy Elliot
@@ -132,13 +131,13 @@ Top Hat
 <h4>2016-2017</h4>
 Kinky Boots
 Lucrezia Borgia
-Figaros Bröllop
-Tänk om
+The Marriage of Figaro
+What If
 La Gioconda
 Aniara
 
 <h4>2017-2018</h4>
-Spelman på taket
+Fiddler on the Roof
 Lakmé
 Pippin
 Rigoletto
@@ -147,37 +146,37 @@ Parken
 <h4>2018-2019</h4>
 West side story
 Matilda the musical
-Den Flygande Holländaren
+The Flying Dutchman
 Schalgt sie tot!
-Tidens och insiktens triumf
+The Triumph of Time and Truth
 
 <h4>2019-2020</h4>
-Skönheten och Odjuret (?)
-Höstsonaten
+Beauty and the Beast(?)
+Autumn Sonata
 Tosca
-En midsommarnattsdröm
-Orfeus i underjorden
+A Midsummer Night's Dream
+Orpheus in the Underworld
 
 <h4>2020-2021 (covid-remote)</h4>
 Così fan tutti
 Falstaff
 
 <h4>2021-2022</h4>
-<i>Överhoppat år - mammas risk vs covid</i>
+<i>Skipped season – my mother's Covid risk</i>
 
 <h4>2022-2023</h4>
 Anastasia
 La Bohème
 Figaros Bröllop
 Funny Girl
-Fallet Makropulos
+The Makropulos Case
 
 <h4>2023-2024</h4>
 Everybody's Talking About Jamie
 Don Giovanni
 Next to Normal
 Turandot
-Death and the maiden
+Death and the Maiden
 
 <h4>2024-2025</h4>
 Joyride the musical
@@ -187,7 +186,7 @@ Salome
 La Bohème
 
 <h4>2025-2026</h4>
-Carmen (elavbrott hemma - åkte hem i pausen)
+Carmen (power outage at home – left during the interval)
 Lohengrin
 Chicago
 Askungen
@@ -204,18 +203,17 @@ Come from Away`
   showPlaceholder: false
 },
 
-    
     konserter: {
-      menuTitle: "Andra konserter",
-      title: "Andra konserter",
-      text: `ABBA - Scandinavium Göteborg 79 eller 80
-      
-      ...
+  menuTitle: "Other Concerts",
+  title: "Other Concerts",
+  text: `ABBA – Scandinavium, Gothenburg, 1979 or 1980
 
-      Amanda Jenssen - Mejeriet, Lund 2026-05-16
-      `,
-      showPlaceholder: true
-    },
+...
+
+Amanda Jenssen – Mejeriet, Lund, 2026-05-16
+`,
+  showPlaceholder: true
+},
 /*
     software: {
       menuTitle: "Mjukvara",
@@ -261,29 +259,32 @@ Här passar det att samla operativsystem, musikprogram, mediaspelare, verktyg, a
 
 avalon: {
     about: {
-      menuTitle: "Om",
-      title: "Camelot e Avalon",
-      text: `Detta är bakgrunden till operan.
-      
-      Efter att ha utnyttjat AI för mina musikaliska idéer i andra genrer så återstod opera som ett gapande hål.
-      Inte för att det borde vara ett problem i sig - men opera till sin form nyttjar ofta många röster kombinerat och styrning av duetter är halvt omöjligt i nuläget - och att specifikt sätta mer än en röst - helt omöjligt.
+  menuTitle: "About",
+  title: "Camelot e Avalon",
+  text: `This is the story behind the opera.
 
-      Tanken landade... går det att skriva opera med enbart arior kombinera med blandad ensembel, kör och instrumentellt?
+After using AI to develop my musical ideas in other genres, opera remained the one great unexplored frontier.
+Not because opera itself should be any more difficult, but because the art form so often relies on several voices singing simultaneously. At the moment, directing duets is only partially possible, while assigning more than one individual voice with any real control is simply impossible.
 
-      För att se hur ett sådant stycke skulle bli behövde jag en story för librettot - definitivt inte Serenia för ett sådan't experiment, blir det någonsin av i den formen så blir det senare när jag lärt mig - och AI mognat förbi nuvarande begränsningar.
-      Eftersom det urprungligen bara skulle bli ett experiment, så var på väg att helt sonika be ChatGPT om idéer ur litteraturen.
-      <b>MEN</b>, jag hade skänkt några tankar åt vad Wagner nyttjat så tankarna hade redan spunnit på gammalt och mytologiskt, så precis innan jag skulle skriva frågan så kom svaret: Arthur-legenden.
-      Den har man ju en grundkänsla för via filmer, tv-serier, böcker, dokumentärer och uppslagsverk.
+The idea gradually took shape... could an opera be written almost entirely from arias, supported by ensembles, choruses and orchestral passages?
 
-      Så det bli att bryta ned historien i mindre och mindre block och specifikt - vad det är jag vill berätta via historian - utan en egen vinkling vore det inte värt göra.
+To find out, I first needed a story for the libretto. Serenia was never going to be the right choice for such an experiment; if that project is ever realised in operatic form, it should happen later, after I've learned more and AI has matured beyond its current limitations.
 
-      Känslan efter att testat med en handfull scener var god... så det var vidare "på ritbordet" och utöka till en fullständig historia.
+Since this was originally meant to be nothing more than an experiment, I was about to ask ChatGPT for suggestions drawn from literature.
 
-      Lite annorlunda blir det via de angivna begränsningarna, men hoppas ni kan uppskatta den - eller någon begränsad del av den - likfullt!
-      `,
-      showPlaceholder: false
-    },
+<b>But</b> I had already been thinking about the myths Wagner drew upon, so my thoughts were circling around ancient legends. Just before I typed the question, the answer appeared almost by itself: the Arthurian legend.
 
+It is a story most people already carry with them in some form, through films, television series, books, documentaries and countless retellings.
+
+From there, the work became one of breaking the legend down into ever smaller pieces and deciding exactly what I wanted to say through it. Without a personal interpretation, there would have been little reason to write it at all.
+
+After completing the first handful of scenes, the result felt surprisingly convincing. That was enough to move beyond the experiment, return to the drawing board, and expand it into a complete opera.
+
+The result is inevitably shaped by those technical limitations, but I hope you'll still find something to enjoy—whether in the work as a whole or simply in one small part of it.
+`,
+  showPlaceholder: false
+},
+  
     act1: {
       menuTitle: "Act I",
       title: "Act I",
@@ -301,7 +302,7 @@ avalon: {
   blocks: [
     {
       type: "scene",
-      title: "Act I — Ouverture",
+      title: "Act I, Scene I — Ouverture",
       content: ""
     },
     {
@@ -913,21 +914,21 @@ and a candle remains lit.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen V - Där stenarna talar",
+      title: "Act I — Scene V - Where the Stones Speak",
       content: ""
     },
     {
       type: "line",
       voice: "Merlin",
-      note: "talat",
+      note: "spoken",
       original: `La notte conosce ancora il mio nome.
 Le pietre ricordano passi più antichi dei re.
 Qui il vento non mente.
 Qui il silenzio conserva ciò che gli uomini dimenticano.`,
-      translation: `Natten känner fortfarande mitt namn.
-Stenarna påminner om fotsteg äldre än kungar.
-Här ljuger inte vinden.
-Här bevarar tystnaden det som människor glömmer.`
+      translation: `The night still knows my name.
+The stones remember footsteps older than kings.
+Here the wind does not lie.
+Here silence preserves what men forget.`
     },
     {
       type: "line",
@@ -942,20 +943,20 @@ Ora gli uomini pregano altri cieli.
 Eppure…
 fra queste pietre resta qualcosa.
 `,
-      translation: `Jag gick längs försvunna stränder,
-när Avalon fortfarande talade till blod.
-Jag såg elden sova under kullen
-och vattnet dela sig utan rädsla.
+      translation: `I walked along vanished shores,
+when Avalon still spoke to the blood.
+I saw the fire sleeping beneath the hill
+and the waters parting without fear.
 
-Nu brinner facklorna kallare.
-Nu ber människor till andra himlar.
-Och ändå…
-bland dessa stenar kvarstår något.`
+Now the torches burn colder.
+Now men pray to other heavens.
+And yet…
+among these stones, something remains.`
     },
     {
       type: "line",
       voice: "Merlin",
-      note: "talat/sjunget",
+      note: "spoken/sung",
       original: `Non è potere.
 Il potere passa come ferro nella pioggia.
 È custodia.
@@ -983,41 +984,41 @@ la terra ricorda ancora chi sono.
 E finché le stelle torneranno sopra il lago,
 finché il mare porterà nebbia alle rive,
 qualcuno dovrà vegliare.`,
-      translation: `Det är inte makt.
-Makten passerar som järn i regnet.
-Det är förmynderskap.
-Det är att lyssna till jorden
-när till och med gudarna är tysta.
+      translation: `It is not power.
+Power passes like iron in the rain.
+It is guardianship.
+It is listening to the earth
+when even the gods fall silent.
 
-Många ville bemästra mysteriet.
-Många har kallat dimman vid dess namn.
-Dimman har glömt dem alla.
+Many sought to master the mystery.
+Many have called the mist by their own name.
+The mist has forgotten them all.
 
-Jag hör fortfarande andningen under berget.
-Långsam.
-Uråldrig.
-Som det sista kolet under världens aska.
+I can still hear the breathing beneath the rock.
+Slow.
+Ancient.
+Like the last ember beneath the ashes of the world.
 
-Så länge den andningen består,
-är allt inte förlorat.
+As long as that breath remains,
+not all is lost.
 
-Mina händer darrar mer än vintern.
-Åren sitter tunga i mina ben.
-Men här…
-bland mossa, regn och sten,
-minns jorden fortfarande vem jag är.
+My hands tremble more than winter.
+The years sit heavy in my bones.
+But here…
+among moss, rain and stone,
+the earth still remembers who I am.
 
-Och så länge stjärnorna återvänder över sjön,
-så länge havet för med sig dimma till stränderna,
-måste någon hålla vakt.`
+And as long as the stars return above the lake,
+as long as the sea carries mist to the shores,
+someone must keep watch.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Non per gloria.
 Non per regni.`,
-      translation: `Inte för ära.
-Inte för kungadömen.`
+      translation: `Not for glory.
+Not for kingdoms.`
     },
     {
       type: "line",
@@ -1027,69 +1028,69 @@ Inte för kungadömen.`
 Ma certe porte,
 una volta chiuse,
 non devono essere aperte ancora.`,
-      translation: `Kungadömen försvinner.
+      translation: `Kingdoms pass away.
 
-Men vissa dörrar,
-när de väl är stängda,
-får aldrig öppnas igen.
+But some doors,
+once closed,
+must never be opened again.
 `
     },
     {
       type: "line",
       voice: "Merlin",
-      note: "talat",
+      note: "spoken",
       original: `Per questo resto.
 Per questo ascolto.
 Per questo custodisco il silenzio
 dove parlano le pietre.`,
-      translation: `Det är därför jag stannar.
-Det är därför jag lyssnar.
-Det är därför jag vaktar tystnaden
-där stenarna talar.`
+      translation: `That is why I remain.
+That is why I listen.
+That is why I guard the silence
+where the stones speak.`
     }
   ]
 
 
 },
-  act1_6: {
+act1_6: {
   menuTitle: " Il Re della Pietra",
   title: "Il Re della Pietra",
   showPlaceholder: false,
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 6 - Kung av sten",
-      content: "Kvinnor,män,munkar,soldater. Folket drömmer fram det nya Britannien via Arthur"
+      title: "Act I — Scene VI - King of the Stone",
+      content: "Women, men, monks, soldiers. The people dream the new Britain into being through Arthur."
     },
     {
       type: "line",
       voice: "Woman",
       original: `Dalla costa fino ai campi
 corre voce nella pioggia.`,
-      translation: `Från kusten till fälten
-löper en röst i regnet.`
+      translation: `From the coast to the fields
+a rumour runs through the rain.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Un ragazzo senza insegna,
 un nome nato dalla nebbia.`,
-      translation: `En pojke utan tecken,
-ett namn fött ur dimman.`
+      translation: `A boy without insignia,
+a name born from the mist.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Chi lo ha visto presso il lago?
 Chi lo ha visto fra le pietre?`,
-      translation: `Vem såg honom vid sjön?
-Vem såg honom bland stenarna?`
+      translation: `Who has seen him by the lake?
+Who has seen him among the stones?`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Le colline tacciono ancora`,
-      translation: `Kullarna är fortfarande tysta`
+      translation: `The hills are silent still`
     },
     {
       type: "line",
@@ -1097,143 +1098,143 @@ Vem såg honom bland stenarna?`
       original: `ma il vento porta cambiamento.
       
       La roccia si è aperta.`,
-      translation: `men vinden bringar förändring.
+      translation: `but the wind bears change.
       
-      Klippan har öppnat sig.`
+      The stone has opened.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Il ferro ha preso voce.`,
-      translation: `Järnet har tagit röst.`
+      translation: `The iron has found its voice.`
     },
     {
       type: "line",
       voice: "Man",
       original: `una mano senza corona`,
-      translation: `En okrönt hand`
+      translation: `an uncrowned hand`
     },
     {
       type: "line",
       voice: "Woman",
       original: `ha sollevato il peso dei re.`,
-      translation: `Har lyft kungarnas tyngd.`
+      translation: `has lifted the burden of kings.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Un re…`,
-      translation: `En kung…`
+      translation: `A king…`
     },
     {
       type: "line",
       voice: "Man",
       original: `forse un re promesso.`,
-      translation: `kanske en utlovad kung.`
+      translation: `perhaps a promised king.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Un volto…`,
-      translation: `Ett ansikte…`
+      translation: `A face…`
     },
     {
       type: "line",
       voice: "Woman",
       original: `forse scelto dal destino.`,
-      translation: `kanske valt av ödet.`
+      translation: `perhaps chosen by destiny.`
     },
     {
       type: "line",
-      voice: "Präst och munkar",
+      voice: "Priest and monks",
       original: `Britannia cerca ordine.
 Britannia cerca pace.
 Troppo sangue nelle valli,
 troppi fuochi sulle rive.`,
-      translation: `Britannien söker ordning.
-Britannien söker fred.
-För mycket blod i dalarna,
-för många bränder på stränderna.`
+      translation: `Britain seeks order.
+Britain seeks peace.
+Too much blood in the valleys,
+too many fires along the shores.`
     },
     {
       type: "line",
-      voice: "Kvinna och körsvar",
-      note: "oroligt",
+      voice: "Woman and choir response",
+      note: "uneasily",
       original: `Ma ogni stella porta ombra.
 Ogni dono chiede prezzo.
 Anche il lago più silenzioso
 nasconde profondità senza fondo.`,
-      translation: `Men varje stjärna kastar en skugga.
-Varje gåva kräver ett pris.
-Även den tystaste sjön
-döljer bottenlösa djup.`
+      translation: `But every star casts a shadow.
+Every gift demands a price.
+Even the quietest lake
+conceals unfathomable depths.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Merlin cammina accanto al giovane.`,
-      translation: `Merlin går bredvid den unge mannen.`
+      translation: `Merlin walks beside the young man.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Merlin guarda oltre il tempo.`,
-      translation: `Merlin blickar bortom tiden.`
+      translation: `Merlin looks beyond time.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Ha parlato con le acque.`,
-      translation: `Han talade till vattnet.`
+      translation: `He has spoken with the waters.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Ha mentito alle pietre.`,
-      translation: `han ljög för stenarna.`
+      translation: `He has lied to the stones.`
     },
     {
       type: "line",
       voice: "Choir",
-      note: "en varning",
+      note: "a warning",
       original: `Attenti alle antiche porte.`,
-      translation: `Se upp för de gamla portarna.`
+      translation: `Beware the ancient gates.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Attenti ai nomi dimenticati.`,
-      translation: `Se upp för glömda namn.`
+      translation: `Beware the forgotten names.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `La nebbia custodisce ancora`,
-      translation: `Dimman rymmer fortfarande`
+      translation: `The mist still guards`
     },
     {
       type: "line",
       voice: "Man",
       original: `ciò che il mondo non comprende.`,
-      translation: `vad världen inte förstår.`
+      translation: `what the world does not understand.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Ma il popolo vuole sperare!`,
-      translation: `Men folket vill hoppas!`
+      translation: `But the people want to hope!`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Le strade chiedono un sovrano!`,
-      translation: `Gatorna ropar efter en härskare!`
+      translation: `The streets cry out for a ruler!`
     },
     {
       type: "line",
       voice: "Man",
       original: `Le campane chiamano il suo nome!`,
-      translation: `Klockorna ropar hans namn!`
+      translation: `The bells call out his name!`
     },
     {
       type: "line",
@@ -1246,119 +1247,119 @@ Arthur!`
     {
       type: "line",
       voice: "Man",
-      note: "lågt, nästan talat",
+      note: "low, almost spoken",
       original: `Figlio del ferro…`,
-      translation: `Järnets son...`
+      translation: `Son of iron…`
     },
     {
       type: "line",
       voice: "Woman",
-      note: "lågt, nästan talat",
+      note: "low, almost spoken",
       original: `Figlio della guerra…`,
-      translation: `Krigets son...`
+      translation: `Son of war…`
     },
     {
       type: "line",
       voice: "Man",
-      note: "lågt, nästan talat",
+      note: "low, almost spoken",
       original: `…o figlio della nebbia?`,
-      translation: `…eller dimmans son?`
+      translation: `…or son of the mist?`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Se davvero la pietra ha ceduto,
 se davvero il lago lo guarda,`,
-      translation: `Om stenen verkligen har gett vika,
-om sjön verkligen vakar över honom,`
+      translation: `If the stone has truly yielded,
+if the lake truly watches him,`
     },
     {
       type: "line",
       voice: "Man",
       original: `allora forse questa terra`,
-      translation: `då kanske detta land`
+      translation: `then perhaps this land`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `non cadrà nell’ultima notte.`,
-      translation: `inte kommer att falla i sin sista natt.`
+      translation: `will not fall into its final night.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Ma chi porta una corona`,
-      translation: `Men den som bär en krona`
+      translation: `But whoever bears a crown`
     },
     {
       type: "line",
       voice: "Man",
       original: `porta anche il peso dell’inverno.`,
-      translation: `bär också vinterns tyngd.`
+      translation: `also bears the weight of winter.`
     },
     {
       type: "line",
-      voice: "Kvinnor",
+      voice: "Women",
       original: `Ogni regno nasce cantando.`,
-      translation: `Varje kungarike börjar med sång.`
+      translation: `Every kingdom is born in song.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Ogni regno finisce nel silenzio.`,
-      translation: `Varje kungarike slutar i tystnad.`
+      translation: `Every kingdom ends in silence.`
     },
     {
       type: "line",
-      voice: "C&R Kör - man",
+      voice: "C&R Choir - man",
       original: `Un re per le strade.
 — Un re per la guerra.
 Un re per le chiese.
 — Un re per la terra.
 Un re per il popolo.
 — Un re per la gloria.`,
-      translation: `En kung för gatorna.
-— En kung för kriget.
-En kung för kyrkorna.
-— En kung för landet.
-En kung för folket.
-— En kung för ära.`
+      translation: `A king for the streets.
+— A king for war.
+A king for the churches.
+— A king for the land.
+A king for the people.
+— A king for glory.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Un re per il presente.`,
-      translation: `En kung för nuet.`
+      translation: `A king for the present.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `— Un re già dentro la storia.`,
-      translation: `— En kung redan i historien.`
+      translation: `— A king already part of history.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Avalon ascolta ancora.`,
-      translation: `Avalon lyssnar fortfarande.`
+      translation: `Avalon is still listening.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Avalon non dorme.`,
-      translation: `Avalon sover inte.`
+      translation: `Avalon does not sleep.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Le acque ricordano`,
-      translation: `Vattnet minns`
+      translation: `The waters remember`
     },
     {
       type: "line",
       voice: "Man",
       original: `ciò che gli uomini cambiano.`,
-      translation: `vad människor förändrar.`
+      translation: `what men change.`
     },
     {
       type: "line",
@@ -1370,13 +1371,13 @@ Che il cielo protegga il suo cammino.`,
       translation: `Arthur…
 Arthur…
 
-Må himlen skydda hans väg.`
+May heaven guard his path.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Che la terra sopporti il suo destino.`,
-      translation: `Må jorden bära sitt öde.`
+      translation: `May the earth bear his destiny.`
     }
   ]
 
@@ -1389,7 +1390,7 @@ Må himlen skydda hans väg.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 7 - Kronan och tystnaden",
+      title: "Act I — Scene VII - The Crown and the Silence",
       content: ""
     },
     {
@@ -1466,101 +1467,99 @@ Le campane continuano lontano.
 La notte non risponde.
 E la corona resta qui…
 come una porta che non posso più chiudere.`,
-      translation: `De lämnade kronan på bordet
-som man lämnar ett svärd efter krig.
-Och alla tittade på mig
-som om himlen redan hade talat.
+      translation: `They left the crown upon the table
+as one leaves a sword after war.
+And everyone looked at me
+as though heaven had already spoken.
 
-Jag känner till stallens ljud,
-regnet på järndörrarna,
-händerna smutsiga av jord och vinter.
-Jag känner inte till legendernas tyngd.
+I know the sounds of the stables,
+the rain against the iron of the gates,
+hands soiled by earth and winter.
+I do not know the weight of legends.
 
-Ändå bär varje gata mitt namn.
-Varje ansikte söker i mina ögon
-efter något jag inte kan ge,
-något större än en människa.
+And yet every street bears my name.
+Every face searches my eyes
+for something I do not know how to give,
+something greater than a man.
 
-Kanske föds ett kungarike så här:
-ur nöd,
-inte från ära.
+Perhaps this is how a kingdom is born:
+from need,
+not from glory.
 
-Kanske väljer människornas hopp
-sitt eget ansikte.
+Perhaps the hope of men
+chooses its own face.
 
-Men denna krona väger mer än järn,
-mer än natten ovanför kullarna.
-Det är inte guld:
-det är röst,
-väntan,
-rädsla.
+But this crown weighs more than iron,
+more than the night above the hills.
+It is not gold:
+it is voice,
+expectation,
+fear.
 
-Och om jag verkligen måste leda dem,
-låt mig förbli en man
-under folkets sång,
-under ödets tyngd.
+And if I truly must lead them,
+let me remain a man
+beneath the people's song,
+beneath the weight of destiny.
 
-Jag hörde dem sjunga på torgen.
+I heard them singing in the squares.
 Arthur…
 Arthur…
 
-Som om namnet vore tillräckligt
-för att stoppa blodet på fälten.
-Som om en kung vore tillräckligt
-för att läka jordens minne.
+As though the name alone could
+stop the bloodshed in the fields.
+As though a king alone could
+heal the memory of the earth.
 
-Merlin säger:
-"En man väljer inte alltid den tidpunkt då han föds."
-Kanske är det sant.
+Merlin says:
+“A man does not always choose the age into which he is born.”
+Perhaps it is true.
 
-Men vissa nätter
-skulle jag fortfarande vilja gå utan symboler,
-utan ögon vänd mot mig.
+But on certain nights
+I would still like to walk without symbols,
+without eyes turned toward me.
 
-Vad ser folket
-när de tittar på en krona?
-En man?
-En dröm?
-Eller bara en rädsla klädd i ljus?
+What do the people see
+when they look upon a crown?
+A man?
+A dream?
+Or only fear clothed in light?
 
-Denna krona väger mer än järn,
-mer än stenar, mer än havet.
-Och varje hopp som stiger mot mig
-blir tystnad i mina händer.
+This crown weighs more than iron,
+more than stone, more than the sea.
+And every hope that rises toward me
+becomes silence in my hands.
 
-Om himlen verkligen har kallat mig,
-må den ge mig åtminstone detta:
-att inte förlora mitt hjärta
-i legenden.
+If heaven has truly called me,
+then grant me at least this:
+not to lose my heart
+within the legend.
 
-Klockorna fortsätter i fjärran.
-Natten svarar inte.
-Och kronan förblir här...
-som en dörr jag inte längre kan stänga.`
+The bells continue in the distance.
+The night does not answer.
+And the crown remains here…
+like a door I can no longer close.`
     }
   ]
-
-
 },
-  act1_8: {
+
+
+act1_8: {
   menuTitle: " Camelot intermezzo",
   title: "Camelot intermezzo",
   showPlaceholder: false,
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 8 - Camelot intermezzo",
-      content: `Morgonljus,
-arbete,
-stilla klockor,
-och människor som vågar leva igen.
+      title: "Act I — Scene VIII - Camelot intermezzo",
+      content: `Morning light,
+work,
+quiet bells,
+and people daring to live again.
 
-Men:
-en tyst påminnelse om att den gamla världen fortfarande ser på från bortom dimmorna.`
+But:
+a silent reminder that the old world is still watching from beyond the mists.`
     }
   ]
-  
-
 },
  
   act1_9: {
@@ -1570,7 +1569,7 @@ en tyst påminnelse om att den gamla världen fortfarande ser på från bortom d
   blocks: [
     {
       type: "scene",
-      title: "Act I — Scen 9 - Camelots första ljus",
+      title: "Act I — Scene IX - Camelot's First Light",
       content: ""
     },
     {
@@ -1608,43 +1607,43 @@ Che Camelot sia luce nelle finestre,
 non soltanto pietra sopra la collina.
 Che chi ha conosciuto guerra
 possa finalmente dormire.`,
-      translation: `Denna morgon är dörrarna öppna.
-Ingen springer.
-Ingen ropar på marknaden.
+      translation: `This morning the gates stand open.
+No one runs.
+No one shouts in the marketplace.
 
-Till och med vinden verkar lättare
-när den passerar genom Camelots torn.
+Even the wind seems lighter
+as it passes through the towers of Camelot.
 
-Jag har sett barn jaga solen
-där förut bara rädsla växte.
-Jag har sett händer vila utan att darra
-på de enkla kvällsborden.
+I have seen children chase the sun
+where once only fear could grow.
+I have seen hands rest without trembling
+upon simple evening tables.
 
-Och för ett ögonblick
-andades detta sårade land
-mjukt
-som efter en lång feber.
+And for a moment
+this wounded land
+breathed softly,
+as after a long fever.
 
-Kanske föds inte fred av kungar.
-Kanske föds den så här:
-från eldar tända i hemmen,
-från bröd delat utan rädsla.
+Perhaps peace is not born of kings.
+Perhaps it is born like this:
+from fires lit in homes,
+from bread shared without fear.
 
-Om denna dröm ska leva,
-låt den leva i människornas ansikten.
-Inte i kronor,
-inte i legender,
-utan i människornas bräckliga godhet.
+If this dream is to live,
+let it live in the faces of the people.
+Not in crowns,
+not in legends,
+but in the fragile goodness of men.
 
-Må Camelot vara ljus i fönstren,
-inte bara sten på kullen.
-Må de som har känt krig
-äntligen sova.`
+Let Camelot be light in the windows,
+not merely stone upon the hill.
+Let those who have known war
+finally sleep.`
 },
-    
+
     {
       type: "action",
-      content: "Orkesterparti"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -1676,34 +1675,33 @@ che trovi almeno una luce accesa.
 
 Questa mattina le porte sono aperte…
 e il vento porta odore di pane e pioggia.`,
-      translation: `Arthur lyssnar för mycket på tystnaden.
-Han bär redan skuggor bakom ögonen.
-Och ändå, när han ser på människorna,
-mjuknar något inom honom.
+      translation: `Arthur listens too deeply to the silence.
+He already carries shadows behind his eyes.
+And yet, when he looks upon the people,
+something within him softens.
 
-Som om även han önskade
-inte ära...
-utan bara ett hem
-som tiden inte kommer att förstöra.
+As though he too longed
+not for glory…
+but simply for a home
+that time cannot destroy.
 
-Jag ber inte om evighet.
-Ingenting mänskligt lever utan vinter.
-Men låt denna årstid vara tillräckligt länge
-för att lära hjärtan hopp.
+I do not ask for eternity.
+Nothing human lives without winter.
+But let this season last long enough
+to teach our hearts to hope.
 
-Om denna dröm måste leva,
-låt den leva i salarnas sång,
-i klockornas mjuka ljud,
-i händerna som bygger tillsammans.
+If this dream is to live,
+let it live in the song of the halls,
+in the gentle sound of bells,
+in the hands that build together.
 
-Må Camelot vara ett milt minne
-i en värld född ur aska.
-Och om natten återvänder,
-må den åtminstone finna ett brinnande ljus.
+Let Camelot be a tender memory
+in a world born from ashes.
+And if the night should return,
+let it find at least one light still burning.
 
-Denna morgonen är dörrarna öppna…
-och vinden bär doften av bröd och regn.
-`
+This morning the gates stand open…
+and the wind carries the scent of bread and rain.`
     }
   ]
 },
@@ -1715,7 +1713,7 @@ och vinden bär doften av bröd och regn.
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 10 - Gatorna i Camelot",
+      title: "Act I — Scene X - The Streets of Camelot",
       content: ""
     },
     {
@@ -1723,42 +1721,42 @@ och vinden bär doften av bröd och regn.
       voice: "Woman",
       original: `Le porte sono aperte!
 Pane caldo questa mattina!`,
-      translation: `Dörrarna är öppna!
-Varmt bröd denna morgon!`
+      translation: `The gates are open!
+Fresh bread this morning!`
     },
     {
       type: "line",
       voice: "Man",
       original: `Più carri sulle strade,
 meno croci lungo il fiume!`,
-      translation: `Fler vagnar på gatorna,
-färre kors längs floden!`
+      translation: `More carts on the roads,
+fewer crosses by the river!`
     },
     {
       type: "line",
-      voice: "Ung kvinna",
-      note: "talat",
+      voice: "Young woman",
+      note: "spoken",
       original: `Hai visto i cavalieri passare?
 Con mantelli rossi nella pioggia?
 E quello francese —
 quello dagli occhi chiari?`,
-      translation: `Såg du riddarna passera?
-Med röda kappor i regnet?
-Och den franske —
-den med de ljusa ögonen?`
+      translation: `Did you see the knights ride by?
+With their red cloaks in the rain?
+And the French one—
+the one with the bright eyes?`
     },
-     {
+    {
       type: "action",
-      content: "Man skrattar."
+      content: "Laughter."
     },
     {
       type: "line",
-      voice: "Ung kvinna",
-      note: "talat",
+      voice: "Young woman",
+      note: "spoken",
       original: `Sir Lancelot…
 sembra uscito da una vetrata di chiesa.`,
       translation: `Sir Lancelot…
-verkar ha klivit ut från ett kyrkfönster.`
+he looks as though he stepped out of a stained-glass window.`
     },
     {
       type: "line",
@@ -1766,99 +1764,98 @@ verkar ha klivit ut från ett kyrkfönster.`
       original: `Attenta, ragazza!
 I cavalieri portano guai
 più spesso della guerra!`,
-      translation: `Var försiktig, flicka!
-Riddare bringar problem
-oftare än krig!
-`
+      translation: `Careful, girl!
+Knights bring trouble
+more often than war itself!`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Ma Camelot cresce ogni giorno.`,
-      translation: `Men Camelot växer varje dag.`
+      translation: `But Camelot grows stronger every day.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Nuove pietre sopra le mura.`,
-      translation: `Nya stenar på väggarna.`
+      translation: `New stones upon the walls.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Nuove botteghe nella piazza.`,
-      translation: `Nya butiker på torget.`
+      translation: `New shops in the square.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Nuove canzoni nelle sale.`,
-      translation: `Nya sånger i salarna.`
+      translation: `New songs in the halls.`
     },
     {
       type: "line",
-      voice: "Munk",
+      voice: "Monk",
       original: `Le campane segnano le ore.
 Il raccolto arriva senza fuoco.
 Perfino il mare sembra dormire
 questa stagione.`,
-      translation: `Klockorna ringer timmarna.
-Skörden anländer utan eld.
-Till och med havet verkar sova
-denna säsong.`
+      translation: `The bells mark the passing hours.
+The harvest comes without fire.
+Even the sea seems to sleep
+this season.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `La regina passa senza guardie.`,
-      translation: `Drottningen går förbi utan vakter.`
+      translation: `The Queen walks without guards.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Parla ai bambini nella piazza.`,
-      translation: `Hon talar till barnen på torget.`
+      translation: `She speaks with the children in the square.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Lascia monete ai vecchi mendicanti.`,
-      translation: `Hon lämnar mynt åt de gamla tiggarna.`
+      translation: `She leaves coins for the old beggars.`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Ricorda ancora i nomi della gente.`,
-      translation: `Hon minns fortfarande folks namn.`
+      translation: `She still remembers people's names.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Arthur ascolta tutti.
 Persino i pescatori.`,
-      translation: `Arthur lyssnar på alla.
-Till och med fiskarna.`
+      translation: `Arthur listens to everyone.
+Even the fishermen.`
     },
     {
       type: "line",
       voice: "Older woman",
       original: `Persino i fabbri delle rive.`,
-      translation: `Till och med smederna på stranden.`
+      translation: `Even the blacksmiths by the river.`
     },
     {
       type: "line",
       voice: "Woman",
-      note: "huvudsakligen talat, tankfullt",
+      note: "mostly spoken, thoughtfully",
       original: `Forse è questo un vero re:
 uno che porta il peso
 senza amare la corona.`,
-      translation: `Kanske är detta en sann kung:
-en som bär bördan
-utan att älska kronan.`
+      translation: `Perhaps this is what a true king is:
+one who bears the burden
+without loving the crown.`
     },
     {
       type: "line",
-      voice: "Kvinnor",
+      voice: "Women",
       original: `Camelot…
 Camelot…`,
       translation: `Camelot…
@@ -1869,85 +1866,85 @@ Camelot…`
       voice: "Man",
       original: `Non soltanto pietra e ferro,
 ma tavole accese nella sera,`,
-      translation: `Inte bara sten och järn,
-utan upplysta bord på kvällen,`
+      translation: `Not only stone and iron,
+but tables lit for the evening,`
     },
     {
       type: "line",
       voice: "Woman",
       original: `voci umane dietro le finestre,
 pace fragile contro il vento.`,
-      translation: `mänskliga röster bakom fönstren,
-bräcklig fred mot vinden.`
+      translation: `human voices behind the windows,
+fragile peace against the wind.`
     },
     {
       type: "line",
       voice: "Man",
       original: `E Sir Lancelot sorride ancora`,
-      translation: `Och Sir Lancelot ler fortfarande`
+      translation: `And Sir Lancelot still smiles`
     },
     {
       type: "line",
       voice: "Choir",
       original: `come se il mondo non avesse ombre.`,
-      translation: `som om världen inte hade några skuggor.`
+      translation: `as though the world held no shadows.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Ogni luce genera ombra.`,
-      translation: `Varje ljus föder skugga.`
+      translation: `Every light casts a shadow.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Ogni estate prepara inverno.`,
-      translation: `Varje sommar förbereder vintern.`
+      translation: `Every summer prepares the way for winter.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Che duri questa pace!
 Che duri questo fuoco!`,
-      translation: `Må denna fred bestå!
-Må denna eld bestå!`
+      translation: `May this peace endure!
+May this fire endure!`
     },
     {
       type: "line",
       voice: "Woman",
       original: `Abbiamo sepolto troppi figli
 per non credere ancora nel domani!`,
-      translation: `Vi har begravt för många barn
-för att inte fortfarande tro på morgondagen!`
+      translation: `We have buried too many children
+not to keep believing in tomorrow!`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `La nebbia guarda ancora il lago…`,
-      translation: `Dimman blickar fortfarande över sjön…`
+      translation: `The mist still watches the lake…`
     },
     {
       type: "line",
       voice: "Man",
       original: `Più vino per le sale!`,
-      translation: `Mer vin till salarna!`
+      translation: `More wine for the halls!`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Più legna per l’inverno!`,
-      translation: `Mer ved till vintern!`
+      translation: `More firewood for the winter!`
     },
     {
       type: "line",
       voice: "Man",
       original: `Avalon non dorme…`,
-      translation: `Avalon sover inte…`
+      translation: `Avalon does not sleep…`
     },
     {
       type: "line",
       voice: "Women's choir",
-      note: "under bibehållen ton",
+      note: "maintaining the tone",
       original: `Camelot…
 Camelot…`,
       translation: `Camelot…
@@ -1957,10 +1954,9 @@ Camelot…`
       type: "line",
       voice: "Woman",
       original: `Che la notte resti lontana ancora un poco.`,
-      translation: `Må natten förbli avlägsen en stund till.`
+      translation: `May the night remain distant a little longer.`
     }
   ]
-
 },
   act1_11: {
   menuTitle: " Dove Fuggono le Creature Lievi",
@@ -1969,7 +1965,7 @@ Camelot…`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 11 - Där de milda varelserna flyr",
+      title: "Act I — Scene XI - Where the Gentle Creatures Flee",
       content: ""
     },
     {
@@ -1985,22 +1981,22 @@ Ora il sentiero è più largo.
 Più carri passano verso Camelot.
 
 Hanno tagliato i noccioli lungo il fiume.`,
-      translation: `En gång talade skogen mjukt.
-Inte med en människoröst...
-med vingar,
-med vatten,
-med ljus mellan löven.
+      translation: `Once the forest spoke softly.
+Not with a human voice…
+with wings,
+with water,
+with light among the leaves.
 
-Nu är vägen bredare.
-Fler vagnar passerar mot Camelot.
+Now the path is wider.
+More carts pass toward Camelot.
 
-De har huggit ner hasselträden längs floden.`
+They have cut down the hazel trees along the river.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Serviva legno per nuove case.`,
-      translation: `Trä behövdes till nya hus.`
+      translation: `Wood was needed for new houses.`
     },
     {
       type: "line",
@@ -2011,20 +2007,19 @@ Ma da tre mattine
 non vedo più danzare
 le piccole luci sopra le felci.
 `,
-      translation: `Och kanske är det sant.
+      translation: `And perhaps that is true.
 
-Men om tre morgonar
-ser jag inte längre de små ljusen dansa
-över ormbunkarna.`
+But for three mornings now
+I have no longer seen
+the little lights dancing above the ferns.
+`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Avalon…
-
 Avalon…`,
       translation: `Avalon…
-
 Avalon…`
     },
     {
@@ -2034,34 +2029,34 @@ Avalon…`
 crescono alveari ordinati.
 Miele per l’inverno.
 Cera per le cappelle.`,
-      translation: `Nära de gamla stenarna
-växer prydliga bikupor.
-Honung för vintern.
-Vax för kapellen.`
+      translation: `Beside the old stones
+neat beehives are growing.
+Honey for the winter.
+Wax for the chapels.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `E i piccoli spiriti dei fiori`,
-      translation: `Och blommornas små andar`
+      translation: `And the little spirits of the flowers`
     },
     {
       type: "line",
       voice: "Morgaine",
       original: `fuggono sempre più lontano,
 come neve che teme il sole.`,
-      translation: `flyr allt längre,
-likt snö som fruktar solen.`
+      translation: `flee farther and farther away,
+like snow afraid of the sun.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Nessuno li ha cacciati.
 Nessuno ha levato spade.
 È questo il dolore.`,
-      translation: `Ingen har jagat bort dem.
-Ingen har höjt svärd.
-Detta är smärtan.`
+      translation: `No one drove them away.
+No one raised a sword.
+That is the sorrow.`
     },
     {
       type: "line",
@@ -2069,13 +2064,13 @@ Detta är smärtan.`
       original: `Gli uomini costruiscono il domani
 senza accorgersi
 di ciò che smette di respirare.`,
-      translation: `Människor bygger morgondagen
-utan att märka
-det som slutar andas.`
+      translation: `Men build tomorrow
+without noticing
+what has stopped breathing.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -2088,32 +2083,32 @@ I bambini imparano nuove preghiere
 ma dimenticano i nomi del vento.
 E le antiche sorgenti
 restano sole nella sera.`,
-      translation: `Till och med skogen ändrar sin doft.
-Mindre regn.
-Mer rök.
+      translation: `Even the forest changes its scent.
+Less rain.
+More smoke.
 
-Barn lär sig nya böner
-men glömmer vindens namn.
-Och de uråldriga källorna
-förblir ensamma på kvällen.`
+The children learn new prayers
+but forget the names of the wind.
+And the ancient springs
+remain alone in the evening.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Le creature lievi tornano al lago…`,
-      translation: `Ljusvarelserna återvänder till sjön…`
+      translation: `The gentle creatures return to the lake…`
     },
     {
       type: "line",
       voice: "Morgaine",
       original: `Tornano alla nebbia…`,
-      translation: `Återvänder till dimman…`
+      translation: `They return to the mist…`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Tornano al silenzio…`,
-      translation: `Återvänder till tystnaden…`
+      translation: `They return to silence…`
     },
     {
       type: "line",
@@ -2122,18 +2117,18 @@ förblir ensamma på kvällen.`
 Forse ogni regno
 deve consumare il mistero
 per sentirsi eterno.`,
-      translation: `Kanske är detta ödet.
-Kanske måste varje kungarike
-förtära mysteriet
-för att känna sig evigt.`
+      translation: `Perhaps this is destiny.
+Perhaps every kingdom
+must consume the mystery
+to believe itself eternal.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Eppure ogni albero caduto
 apre spazio al freddo.`,
-      translation: `Och ändå
-ger varje fallet träd vika för kylan.`
+      translation: `And yet every fallen tree
+makes room for the cold.`
     },
     {
       type: "line",
@@ -2152,20 +2147,20 @@ E il popolo finalmente ride.
 Per questo il mio cuore si spezza:
 perché nulla di tutto questo
 nasce dal male.`,
-      translation: `Varje glömd sång
-gör världen tyngre.
+      translation: `Every forgotten song
+makes the world heavier.
 
-Merlin lyssnar fortfarande på stenarna.
-Jag lyssnar fortfarande på vattnet.
-Men stränderna drar sig tillbaka.
+Merlin still listens to the stones.
+I still listen to the water.
+But the shores draw farther away.
 
-Camelot lyser på kullarna.
-Dess fönster lyser som stjärnor.
-Och folket skrattar äntligen.
+Camelot shines upon the hills.
+Its windows glow like stars.
+And at last the people laugh.
 
-För detta brister mitt hjärta:
-för inget av detta
-är fött av ondska.`
+That is why my heart breaks:
+because none of this
+is born of evil.`
     },
     {
       type: "line",
@@ -2179,21 +2174,21 @@ Avalon…
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Le creature lievi fuggono piano.
 Non lasciano sangue.
 Non lasciano rovine.`,
-      translation: `Ljusvarelserna flyr långsamt.
-Lämnar inget blod.
-Lämnar inga ruiner.`
+      translation: `The gentle creatures flee quietly.
+They leave no blood.
+They leave no ruins.`
     },
     {
       type: "line",
       voice: "Morgaine",
       original: `Solo silenzio
 dove una volta il mondo sapeva sognare.`,
-      translation: `Bara tystnad
-där världen en gång visste hur man drömmer.`
+      translation: `Only silence
+where once the world knew how to dream.`
     },
     {
       type: "line",
@@ -2212,7 +2207,7 @@ där världen en gång visste hur man drömmer.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 12 - Vad som återstår för människan",
+      title: "Act I — Scene XII - What Remains to Man",
       content: ""
     },
     {
@@ -2244,36 +2239,36 @@ E se nel fare questo
 feriamo il silenzio della terra,
 allora porterò anch’io quel peso
 fino alla fine dei miei giorni.`,
-      translation: `Jag gick efter att rösterna
-hade dött bort i salarna.
-Regnet föll långsamt på väggarna
-som om himlen fortfarande lyssnade.
+      translation: `I walked after the voices
+had faded from the halls.
+The rain fell slowly upon the walls,
+as though heaven were still listening.
 
-Morgaine ser mysteriet dö.
-— Och kanske…
-kanske har hon inte fel.
-Jag minns också djupare skogar,
-vägar förlorade i dimman,
-vatten som tycktes innehålla
-namn äldre än människan.
+Morgaine sees the mystery dying.
+— And perhaps…
+perhaps she is not wrong.
+I too remember deeper forests,
+roads lost within the mist,
+waters that seemed to guard
+names older than mankind.
 
-Men vad finns kvar för dem som lever i kylan?
-Vad finns kvar för barn utan bröd?
-Ett kungarike föds inte bara ur drömmar.
-Det föds ur elden tänd mot vintern.
+But what remains for those who live in the cold?
+What remains for children without bread?
+A kingdom is not born from dreams alone.
+It is born from fire kindled against the winter.
 
-Om världen förändras i våra händer,
-förändras den inte alltid av stolthet.
-Ibland bygger män murar
-bara för att sova utan rädsla.
-Och om vi genom att göra detta
-sårar jordens tystnad,
-då kommer även jag att bära den bördan
-till mina dagars slut.`
+If the world changes in our hands,
+it does not always change through pride.
+Sometimes men build walls
+simply so they may sleep without fear.
+And if, in doing so,
+we wound the silence of the earth,
+then I too shall bear that burden
+until the end of my days.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -2303,31 +2298,31 @@ continua a vivere dentro di noi.
 
 La pioggia continua sopra le mura.
 E la notte non sceglie fra i nostri sogni.`,
-      translation: `Jag ville inte bli en symbol.
-Legender förtär människornas ansikten.
-Ändå leder varje väg till mig
-likt vatten som söker havet.
+      translation: `I never wished to become a symbol.
+Legends devour the faces of men.
+And yet every road leads to me
+like water seeking the sea.
 
-Merlin tystnar allt oftare.
-Och i hans ögon ser jag trötthet
-äldre än stenar.
+Merlin falls silent more and more often.
+And in his eyes I see a weariness
+older than the stones.
 
-Kanske varje gång
-förlorar något heligt
-för att rädda det som fortfarande kan leva.
+Perhaps every age
+loses something sacred
+to save what may still survive.
 
-Om världen förändras i våra händer,
-må den åtminstone lära sig barmhärtighet.
-Må Camelot inte bara bli järn,
-utan ett levande minne av medkänsla.
+If the world changes in our hands,
+let it at least learn mercy.
+Let Camelot become not merely iron,
+but a living memory of compassion.
 
-Och om Avalon försvinner in i dimman,
-kommer jag inte att skratta åt dess frånvaro.
-För även det som bleknar
-lever inom oss.
+And if Avalon withdraws into the mist,
+I will not mock its absence.
+For even that which fades away
+continues to live within us.
 
-Regnet fortsätter mot väggarna.
-Och natten väljer inte bland våra drömmar.`
+The rain continues upon the walls.
+And the night does not choose between our dreams.`
     }
   ]
 
@@ -2340,7 +2335,7 @@ Och natten väljer inte bland våra drömmar.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 13 - Där Camelot lyser",
+      title: "Act I — Scene XIII - Where Camelot Shines",
       content: ""
     },
     {
@@ -2373,37 +2368,37 @@ No…
 non soltanto cavaliere.
 Vorrei essere degno
 di ciò che questo luogo promette.`,
-      translation: `Äntligen…
-Camelots torn.
+      translation: `At last…
+the towers of Camelot.
 
-Jag såg dem resa sig i vägfararnas berättelser,
-i de vinupplysta salarna,
-i soldaternas sånger längs vägen.
+I have seen them rise in travellers' tales,
+in halls glowing with wine,
+in the songs of soldiers along the road.
 
-Men ingen röst
-var stor nog för detta ljus.
+But no voice
+was great enough for this light.
 
-Portarna förblir öppna vid solnedgången.
-Barn springer utan rädsla.
-Till och med vakternas järn
-verkar lättare under dessa murar.
+The gates remain open at sunset.
+Children run without fear.
+Even the guards' iron
+seems lighter beneath these walls.
 
-Jag har korsat kungadömen som förtärts av krig.
-Jag har sett män knäböja inför hunger.
-Här…
-talar till och med vinden mjukare.
+I have crossed kingdoms consumed by war.
+I have seen men kneel before hunger.
+Here…
+even the wind speaks more softly.
 
-"Välkommen till Camelot!"
-"Ännu en riddare för det runda bordet!"
+“Welcome to Camelot!”
+“Another knight for the Round Table!”
 
-Nej…
-inte bara en riddare.
-Jag skulle vilja vara värdig
-vad denna plats lovar.`
+No…
+not merely a knight.
+I want to be worthy
+of what this place promises.`
     },
     {
       type: "line",
-      voice: "Lancelot + Kör",
+      voice: "Lancelot + Choir",
       original: `Se davvero esiste una terra
 dove forza e misericordia siedono alla stessa tavola,
 allora forse il mondo
@@ -2419,31 +2414,30 @@ E Arthur porta la corona
 come un uomo porta una ferita:
 senza superbia,
 senza vanità.`,
-      translation: `Om det verkligen finns ett land
-där styrka och barmhärtighet sitter vid samma bord,
-då kanske världen
-inte skapades förgäves.
+      translation: `If there truly is a land
+where strength and mercy sit at the same table,
+then perhaps the world
+was not created in vain.
 
 Camelot…
-du lyser som eld i regnet.
-Inte för guld,
-inte för ära,
-utan för hoppet i folkets ögon.
+you shine like fire in the rain.
+Not for gold,
+not for glory,
+but for the hope in the people's eyes.
 
-Och Arthur bär kronan
-som en man bär ett sår:
-utan stolthet,
-utan fåfänga.
-`
+And Arthur bears the crown
+as a man bears a wound:
+without pride,
+without vanity.`
     },
     {
       type: "line",
       voice: "Lancelot",
-      note: "talat",
+      note: "spoken",
       original: `E la regina…
 Dio…`,
-      translation: `Och drottningen…
-Gud…`
+      translation: `And the Queen…
+God…`
     },
     {
       type: "line",
@@ -2452,14 +2446,14 @@ Gud…`
 come se ascoltare fosse una forma d’amore.
 I vecchi si inchinano sorridendo.
 I bambini le prendono la mano.`,
-      translation: `Hon vandrar bland folket
-som om lyssnande vore en form av kärlek.
-De gamla männen bugar sig och ler.
-Barnen tar hennes hand.`
+      translation: `She walks among the people
+as though listening were a form of love.
+The old men bow and smile.
+The children take her hand.`
     },
     {
       type: "line",
-      voice: "Lancelot + Kör",
+      voice: "Lancelot + Choir",
       original: `Forse la vera nobiltà
 non nasce dal sangue,
 ma dalla gentilezza che resiste al potere.
@@ -2477,23 +2471,23 @@ forse guarda qui questa sera.
 Dove il pane è condiviso.
 Dove il debole non abbassa gli occhi.
 Dove perfino gli stranieri`,
-      translation: `Kanske sann adel
-inte föds av blod,
-utan av den vänlighet som motstår makt.
+      translation: `Perhaps true nobility
+is not born of blood,
+but of kindness that withstands power.
 
-Låt mig tjäna detta land.
-Låt mitt namn
-bli sten i dess murar,
-järn i dess portar,
-ljus i dess hallar.
+Let me serve this land.
+Let my name
+become stone in its walls,
+iron in its gates,
+light in its halls.
 
 Camelot…
-om himlen verkligen ser på människor,
-kanske tittar den hit ikväll.
+if heaven truly watches over men,
+perhaps it watches here tonight.
 
-Där bröd delas.
-Där de svaga inte sänker sina ögon.
-Där även främlingar`
+Where bread is shared.
+Where the weak do not lower their eyes.
+Where even strangers`
     },
     {
       type: "line",
@@ -2505,20 +2499,20 @@ lasciate che io cada
 difendendo questa luce.
 
 Finalmente…`,
-      translation: `känner sig mindre kalla i sina hjärtan.
+      translation: `feel less cold within their hearts.
 
-Och om allt detta en dag måste falla,
-låt mig falla
-och försvara detta ljus.
+And if one day all this must fall,
+let me fall
+defending this light.
 
-Slutligen…`
+At last…`
     },
     {
       type: "line",
-      voice: "Lancelot + Kör",
+      voice: "Lancelot + Choir",
       original: `Camelot.`,
       translation: `Camelot.`
-    }    ,
+    },
     {
       type: "line",
       voice: "Lancelot",
@@ -2536,7 +2530,7 @@ Slutligen…`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 14 - När våren kommer tillbaka",
+      title: "Act I — Scene XIV - When Spring Returns",
       content: ""
     },
     {
@@ -2558,7 +2552,6 @@ resta ancora accesa dentro di me.
 
 Non è colpa.
 Non ancora.
-
 È soltanto…
 come quando dopo un lungo inverno
 si apre una finestra
@@ -2582,50 +2575,49 @@ Non follia.
 Solo una dolcezza dimenticata
 che torna piano
 come pioggia lieve sopra la sera.`,
-      translation: `Salarna sover äntligen.
-Till och med de sista facklorna
-bleknar långsamt in i natten.
+      translation: `At last the halls are asleep.
+Even the final torches
+burn low into the night.
 
-Camelot är tyst…
-och ändå
-finner mitt hjärta ingen tystnad.
+Camelot is silent…
+and yet my heart
+finds no silence.
 
-Jag har lyssnat till hundra röster ikväll,
-skratt, vin, löften om fred.
-Men bland dem alla
-tänds fortfarande en enda närvaro
-inom mig.
+I have listened to a hundred voices tonight,
+laughter, wine, promises of peace.
+But among them all
+one presence alone
+still burns within me.
 
-Det är inte mitt fel.
-Inte än.
+It is not guilt.
+Not yet.
+It is only…
+like a window opening
+after a long winter,
+and the air taking on a different scent.
 
-Det är bara…
-som när efter en lång vinter
-ett fönster öppnas
-och luften ändrar doft.
+Sir Lancelot smiles
+like one who has not yet learned
+to doubt the light.
 
-Sir Lancelot ler
-som en som ännu inte har lärt sig
-att tvivla på ljuset.
+And when I look at him,
+even the ancient stones of Camelot
+seem less weary.
 
-Och när man ser på,
-verkar även Camelots gamla stenar
-mindre trötta.
+As spring returns
+to a garden believed lost,
+so something within my heart
+has stirred without asking leave.
 
-När våren återvänder
-i en trädgård jag trodde var förlorad,
-så rörde sig något i mitt hjärta
-utan att be om lov.
-
-Inte begär.
-Inte galenskap.
-Bara en glömd sötma
-som återvänder långsamt
-likt ett milt regn på kvällen.`
+Not desire.
+Not madness.
+Only a forgotten tenderness
+returning softly,
+like gentle rain upon the evening.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -2636,7 +2628,6 @@ E io conosco la bontà delle sue mani,
 la stanchezza nascosta dietro i suoi occhi.
 
 Per questo tremo.
-
 Perché nulla manca davvero
 alla vita che abbiamo costruito.
 
@@ -2663,43 +2654,40 @@ Camelot dorme sotto le stelle…
 e io ascolto il vento
 come una ragazza che ha paura
 del proprio sogno.`,
-      translation: `Arthur bär kungarikets tyngd
-även när ingen ser.
-Och jag känner hans händers godhet,
-tröttheten som är dold bakom hans ögon.
+      translation: `Arthur bears the weight of the kingdom
+even when no one sees.
+And I know the kindness of his hands,
+the weariness hidden behind his eyes.
 
-För detta darrar jag.
+That is why I tremble.
+Because nothing is truly lacking
+in the life we have built together.
 
-För att ingenting verkligen saknas
-i det liv vi har byggt upp.
+And yet…
+when Lancelot speaks,
+the world seems younger.
 
-Och ändå...
-när Lancelot talar,
-verkar världen yngre.
+Perhaps I do not love him.
+Perhaps I love
+the part of myself
+that still believed in miracles.
 
-Kanske älskar jag honom inte.
-Kanske älskar jag
-den delen av mig
-som fortfarande trodde på mirakel.
+As spring returns
+even to branches scarred by frost,
+so an unexpected light
+has brushed against my weary soul.
 
-När våren återvänder
-även till de grenar som är mest präglade av frost,
-så rörde ett oväntat ljus
-vid min trötta själ.
+But every flower, too fragile,
+fears the return of winter.
+And my heart already knows
+what beauty costs mankind.
 
-Men varje blomma, alltför ömtålig
-fruktar vinterns återkomst.
-Och mitt hjärta vet redan
-hur mycket skönhet kostar människan.
-
-Camelot sover under stjärnorna…
-och jag lyssnar på vinden
-som en flicka rädd
-för sin egen dröm.`
+Camelot sleeps beneath the stars…
+and I listen to the wind
+like a girl
+afraid of her own dream.`
     }
   ]
-
-
 },
   act1_15: {
   menuTitle: " Troppa Luce per un Cuore Mortale",
@@ -2708,7 +2696,7 @@ för sin egen dröm.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 15 - För mycket ljus för ett förgängligt hjärta",
+      title: "Act I — Scene XV - Too Much Light for a Mortal Heart",
       content: ""
     },
     {
@@ -2733,6 +2721,7 @@ forse il mondo può essere salvato.
 Arthur…
 porta la corona come una ferita nascosta.
 Eppure sorride ancora agli uomini.
+
 Come non seguirlo?
 Come non offrirgli la mia spada,
 la mia voce,
@@ -2749,16 +2738,13 @@ non la guerra,
 ma la pace che apre lentamente
 ciò che credevamo chiuso per sempre.
 
-
 E la regina…
-
 Dio mi perdoni.
 
 Quando ascolta qualcuno parlare
 sembra che il tempo stesso rallenti.
 Non c’è superbia nei suoi occhi.
 Non c’è distanza.
-
 Solo quella tristezza dolce
 di chi ha imparato ad amare gli uomini
 senza smettere di soffrire per loro.
@@ -2780,7 +2766,6 @@ di poter finalmente riposare.
 
 Ma ogni uomo che abbassa l’armatura
 espone il petto al destino.
-
 E forse gli dèi ridono piano
 quando vedono la felicità
 avvicinarsi troppo agli uomini.
@@ -2789,84 +2774,79 @@ Camelot dorme sotto le stelle…
 e io temo
 la dolcezza di questa notte.
 `,
-      translation: `De sista rösterna försvinner långsamt.
-Bara vinden finns kvar
-mellan de upplysta tornen.
+      translation: `The last voices fade away.
+Only the wind remains
+among the lighted towers.
 
-Och jag…
-kan fortfarande inte sova.
+And I…
+still cannot sleep.
 
-Jag har känt krig,
-regntröttade gator,
-män redo att sälja sina namn
-för en dag utan hunger.
+I have known wars,
+roads worn down by rain,
+men ready to sell their very names
+for a single day without hunger.
 
-Sedan öppnade Camelot sina portar…
-och för första gången
-kanske världen kan räddas.
+Then Camelot opened its gates…
+and for the first time
+perhaps the world can yet be saved.
 
 Arthur…
-bär kronan som ett dolt sår.
-Ändå ler han fortfarande mot män.
-Hur kan jag inte följa honom?
-Hur kan jag inte erbjuda honom mitt svärd,
-min röst,
-mitt liv?
+bears the crown like a hidden wound.
+And yet he still smiles upon his people.
 
-Men det finns för mycket ljus i dessa salar,
-för mycket skönhet i enkla ting.
-Hjärtat glömmer att försvara sig
-när världen blir vänlig.
+How could I not follow him?
+How could I not offer him my sword,
+my voice,
+my life?
 
-Och kanske är detta den verkliga faran:
-inte hat,
-inte krig,
-utan freden som långsamt öppnar
-det vi trodde var stängt för alltid.
+But there is too much light in these halls,
+too much beauty in simple things.
+The heart forgets to guard itself
+when the world grows gentle.
 
+And perhaps that is the true danger:
+not hatred,
+not war,
+but the peace that slowly opens
+what we believed closed forever.
 
-Och drottningen…
+And the Queen…
+God forgive me.
 
-Gud förlåt mig.
+When she listens to someone speak,
+time itself seems to slow.
+There is no pride in her eyes.
+No distance.
+Only that gentle sorrow
+of one who has learned to love mankind
+without ever ceasing to suffer for them.
 
-När hon lyssnar på någon tala,
-verkar det som om tiden själv saktar ner.
-Det finns ingen stolthet i deras ögon.
-Det finns inget avstånd.
+I do not wish to betray anything.
+Not Arthur.
+Not Camelot.
+Not the dream that binds us together.
 
-Bara den där ljuva sorgen
-hos någon som har lärt sig att älska män
-utan att sluta lida för dem.
+And yet something grows in the silence,
+like a root beneath the snow.
 
-Jag vill inte förråda någonting.
-Inte Arthur.
-Inte Camelot.
-Inte drömmen som håller oss samman.
+There is too much light in these halls,
+too much hope in the hands of the people.
+And my heart,
+weary from battle,
+begins to believe
+that at last it may find rest.
 
-Och ändå växer något i tystnaden
-som en rot under snön.
+But every man who lays aside his armour
+bares his breast to destiny.
+And perhaps the gods smile quietly
+when they see happiness
+drawing too close to mankind.
 
-Det finns för mycket ljus i dessa salar,
-för mycket hopp i folkets händer.
-Och mitt hjärta,
-trött av strid,
-börjar tro
-att det äntligen kan vila.
-
-Men varje man som sänker sin rustning
-utsätter sitt bröst för ödet.
-
-Och kanske skrattar gudarna mjukt
-när de ser lyckan
-komma för nära människorna.
-
-Camelot sover under stjärnorna...
-och jag fruktar
-denna natts sötma.`
+Camelot sleeps beneath the stars…
+and I fear
+the sweetness of this night.`
     }
   ]
-
-
 },
   act1_16: {
   menuTitle: " La Mano che Tremò",
@@ -2875,7 +2855,7 @@ denna natts sötma.`
   blocks: [
     {
       type: "scene",
-      title: "Akt I — Scen 16 - Handen som darrade",
+      title: "Act I — Scene XVI - The Hand That Trembled",
       content: ""
     },
     {
@@ -2916,7 +2896,6 @@ Ed è questo che spezza il mio cuore.
 
 La mia mano…
 Dio…
-
 la mia mano ha tremato
 sollevando il ferro sopra le sue spalle.
 
@@ -2937,6 +2916,7 @@ più terribile.
 
 Che cos’è questa dolce ferita
 nata nel luogo più puro del regno?
+
 Perché il cuore cerca il fuoco
 proprio quando dovrebbe temerlo?
 
@@ -2950,94 +2930,94 @@ che la ragione non può comandare.
 
 Le campane continuano lontano.
 La sala applaude ancora.
+
 E io sorrido
 mentre dentro di me
 qualcosa ha appena cominciato a cadere.
 `,
-      translation: `Facklorna lyser som stjärnor
-genom Camelots salar.
-Riddarna böjer sina huvuden.
-Klockorna ropar efter ära.
+      translation: `The torches shine like stars
+through the halls of Camelot.
+The knights bow their heads.
+The bells proclaim glory.
 
-Och ikväll
-kommer ett nytt namn
-att sitta vid det runda bordet.
+And tonight
+a new name
+will take its place at the Round Table.
 
-Sir Lancelot går mjukt framåt
-mellan ljus, järn och böner.
-Så ung…
-och redan älskad
-som en sång lärd för evigt.
+Sir Lancelot steps forward slowly
+through light, iron and prayer.
+So young…
+and already beloved,
+like a song the world has always known.
 
-Folket håller andan.
-Till och med de gamla stenarna
-tycks lyssna.
+The people hold their breath.
+Even the ancient stones
+seem to listen.
 
-Jag måste bara
-höja svärdet,
-uttala de gamla orden,
-erbjuda symbolen för kungariket.
+All I must do
+is raise the sword,
+speak the ancient words,
+offer the symbol of the kingdom.
 
-Inget mer.
+Nothing more.
 
-Och ändå…
-när han knäböjer framför mig,
-saktar tiden ner som snö i luften.
+And yet…
+when he kneels before me,
+time slows like snow suspended in the air.
 
-Hans ögon frågar ingenting.
-Och det är det som krossar mitt hjärta.
+His eyes ask nothing.
+And that is what breaks my heart.
 
-Min hand…
-Gud…
+My hand…
+God…
+my hand trembled
+as I lifted the steel above his shoulders.
 
-min hand darrade
-och lyfte svärdet över hans axlar.
+For one brief moment I feared
+that all Camelot might see
+what I myself
+still dare not name.
 
-För ett ögonblick fruktade jag
-att hela Camelot kunde se
-vad jag själv
-ännu inte vågar namnge.
+Arthur was there.
+Noble.
+Silent.
+Trusting us
+as only truly good men
+know how.
 
-Arthur var där.
-Ädel.
-Tyst.
-Han litade på oss
-som bara verkligt goda män
-kan.
+And that makes everything
+more terrible.
 
-Och det gör allting
-mer fruktansvärt.
+What is this gentle wound
+born in the purest place of the kingdom?
 
-Vad är detta söta sår
-som är fött på den renaste platsen i kungariket?
-Varför söker hjärtat eld
-just när det borde frukta den?
+Why does the heart seek the fire
+at the very moment it ought to fear it?
 
-Jag vill inte förstöra någonting.
-Inte kungen.
-Inte Camelot.
-Inte den fred som så omsorgsfullt byggts.
+I do not wish to destroy anything.
+Not the King.
+Not Camelot.
+Not the peace built with such care.
 
-Ändå minns mitt blod något
-som förnuftet inte kan befalla.
+And yet my blood remembers something
+that reason cannot command.
 
-Klockorna fortsätter i fjärran.
-Salen applåderar fortfarande.
-Och jag ler
-medan något inom mig
-just har börjat falla.`
+The bells continue in the distance.
+The hall still applauds.
+
+And I smile
+while within me
+something has just begun to fall.`
     }
   ]
-
-
 },
 
     act2: {
-      menuTitle: "Akt II",
-      title: "Akt II",
-      text: `Sprickor och skuld.
+      menuTitle: "Act II",
+      title: "Act II",
+      text: `Cracks and guilt..
 
-      Fram till och med Mordreds stilla acceptans.
+      Up to and including Mordred's still acceptance.
       `,
       showPlaceholder: false
     },
@@ -3049,7 +3029,7 @@ just har börjat falla.`
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 1 - När tystnaden förändras",
+      title: "Act II — Scene I - When the Silence Changes",
       content: ""
     },
     {
@@ -3072,7 +3052,6 @@ anche quando le ossa chiedevano riposo.
 
 Eppure…
 stanotte qualcosa è diverso.
-
 Non nelle parole.
 Non nei volti.
 Ma nel silenzio che rimane
@@ -3088,43 +3067,42 @@ Non so quale stella abbia mutato luce.
 Ma Camelot stanotte
 sembra più bella…
 e per questo più fragile.`,
-      translation: `Salarna töms äntligen.
-De sista facklorna darrar i vinden.
-Och Camelot…
-Camelot verkar andas
-som en levande varelse efter sången.
+      translation: `At last the halls grow empty.
+The final torches tremble in the wind.
+And Camelot…
+Camelot seems to breathe
+like a living creature after song.
 
-Jag har sett män le ikväll
-som en gång bara talade om krig.
-Jag har sett barn somna
-utan att hålla rädsla i sina händer.
+Tonight I have seen men smile
+who once spoke only of war.
+I have seen children fall asleep
+without clutching fear in their hands.
 
-På detta trodde jag.
-På detta bar jag kronans tyngd
-även när mina ben bad om vila.
+For this I believed.
+For this I bore the weight of the crown
+even when my bones cried out for rest.
 
-Och ändå…
-ikväll är något annorlunda.
+And yet…
+tonight something is different.
+Not in the words.
+Not in the faces.
+But in the silence that remains
+between one breath and the next.
 
-Inte i orden.
-Inte i ansiktena.
-Utan i tystnaden som kvarstår
-mellan ett andetag och nästa.
+When the silence of a hall changes,
+even the strongest heart can feel it.
+As the sea senses the coming storm
+before the wind has even begun to rise.
 
-När tystnaden i en sal förändras,
-känner även det starkaste hjärtat det.
-När havet känner stormen
-innan vinden ens stiger.
-
-Jag vet inte vilken dörr som har öppnats.
-Jag vet inte vilken stjärna som har ändrat sitt ljus.
-Men Camelot ikväll
-verkar vackrare...
-och därför mer skör.`
+I do not know which door has opened.
+I do not know which star has changed its light.
+But Camelot tonight
+seems more beautiful…
+and therefore more fragile.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -3136,9 +3114,7 @@ perfino i vecchi cavalieri
 ricordano ciò che erano un tempo.
 
 E Guinevere…
-
 Dio…
-
 questa sera il suo sorriso
 somigliava a primavera dopo neve.
 
@@ -3151,6 +3127,7 @@ in cui si crede eterno.
 
 Quando cambia il silenzio di una sala,
 anche le pietre imparano la paura.
+
 E io,
 che ho costruito mura contro l’inverno,
 non so difendere il cuore
@@ -3170,52 +3147,48 @@ Camelot dorme sotto le stelle.
 E io resto sveglio
 ad ascoltare
 qualcosa che ancora non ha nome.`,
-      translation: `Lancelot bär i sina ögon
-den tron ​​som män förlorar när de blir äldre.
-När de tittar på honom
-kommer även gamla riddare
-minns vad de en gång var.
+      translation: `Lancelot carries in his eyes
+the faith that men lose as they grow older.
+Looking upon him,
+even the oldest knights
+remember who they once were.
 
-Och Guinevere…
+And Guinevere…
+God…
+tonight her smile
+was like spring after snow.
 
-Gud…
+Why then do I feel cold?
 
-Ikväll såg hennes leende
-ut som vår efter snö.
+Perhaps every kingdom
+begins to fall
+at the very moment
+it believes itself eternal.
 
-Varför känner jag mig då kall?
+When the silence of a hall changes,
+even the stones learn fear.
 
-Kanske varje kungarike
-börjar falla
-i det exakta ögonblicket
-det tror sig vara evigt.
+And I,
+who have built walls against the winter,
+do not know how to defend my heart
+against what grows unseen.
 
-När tystnaden i en hall förändras,
-lär sig även stenarna frukta.
-Och jag,
-som har byggt murar mot vintern,
-kan inte försvara mitt hjärta
-från det som växer osynligt.
+If this is happiness,
+why does it resemble sorrow so closely?
 
-Om detta är lycka,
-varför liknar det melankoli så mycket?
+And if destiny enters the hearts of men
+not with iron,
+but with beauty…
+then no king
+shall be able to stop it.
 
-Och om ödet kommer in i människorna
-inte med järn,
-utan med skönhet...
-då kan ingen kung
-stoppa det.
-
-De sista facklorna slocknar långsamt.
-Camelot sover under stjärnorna.
-Och jag håller mig vaken
-och lyssnar
-på något som fortfarande inte har något namn.
-`
+The last torches slowly fade.
+Camelot sleeps beneath the stars.
+And I remain awake,
+listening
+to something that still has no name.`
     }
   ]
-
-
 },
 act2_2: {
   menuTitle: " Nel Sangue del Futuro",
@@ -3224,7 +3197,7 @@ act2_2: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 2 - I framtidens blod",
+      title: "Act II — Scene II - In the Blood of the Future",
       content: ""
     },
     {
@@ -3245,7 +3218,6 @@ come chi teme il proprio stesso cuore.
 
 Dice di desiderare un figlio.
 Dice di voler dare un erede al regno.
-
 Ma le sue mani tremavano
 come tremano le foglie
 quando il vento cambia direzione.
@@ -3255,56 +3227,54 @@ Biancospino contro la febbre del sangue.
 Miele per addolcire il destino.
 E verbena…
 per ciò che gli uomini non sanno nominare.`,
-      translation: `Regnet faller långsamt på tornen.
-Camelot sover
-och tror sig vara evig.
+      translation: `The rain falls softly upon the towers.
+Camelot sleeps,
+believing itself eternal.
 
-Ändå även ikväll
-knackade en drottning på min dörr
-med rädsla i ögonen.
+And yet even tonight
+a queen knocked upon my door
+with fear in her eyes.
 
 Guinevere…
-så ädel i att bringa tystnad.
-Så noggrann i att välja sina ord
-som en som fruktar sitt eget hjärta.
+so noble in bearing her silence.
+So careful in choosing her words,
+like one who fears her own heart.
 
-Hon säger att hon önskar sig en son.
-Hon säger att hon vill ge en arvinge till kungariket.
+She says she longs for a child.
+She says she wishes to give the kingdom an heir.
+But her hands trembled
+as leaves tremble
+when the wind changes direction.
 
-Men hennes händer darrade
-som löv darrar
-när vinden ändrar riktning.
-
-Rosmarin för minnet.
-Hagtorn mot blodfeber.
-Honung för att söta ödet.
-Och verbena...
-för det som män inte kan namnge.`
+Rosemary for memory.
+Hawthorn against the fever of the blood.
+Honey to sweeten destiny.
+And vervain…
+for what men do not know how to name.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Antiche erbe.
 Antiche acque.
 Antiche lune sopra Avalon.`,
-      translation: `Forntida örter.
-Forntida vatten.
-Forntida månar ovanför Avalon.`
-    },{
+      translation: `Ancient herbs.
+Ancient waters.
+Ancient moons above Avalon.`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Gli uomini credono
 che il futuro nasca dalle corone.
-
 Sciocchi.`,
-      translation: `Människor tror
-att framtiden föds ur kronor.
-
-Dårar.`
+      translation: `Men believe
+that the future is born from crowns.
+Fools.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Il futuro nasce sempre
 da ciò che il cuore tenta di nascondere.
 
@@ -3322,16 +3292,16 @@ Avalon…
 Avalon… Avalon…
 Avalon…
 Avalon…`,
-      translation: `Framtiden uppstår alltid
-ur det som hjärtat försöker dölja.
+      translation: `The future is always born
+from what the heart tries to hide.
 
-Jag ser vad som växer i tystnad.
-Jag ser begär
-innan det ens lär sig sitt namn.
+I see what grows in silence.
+I see desire
+before it has even learned its own name.
 
-Camelot tror att det styr morgondagen.
-Men morgondagen
-tillhör redan blodet.
+Camelot believes it rules tomorrow.
+But tomorrow
+already belongs to the blood.
 
 Avalon… Avalon…
 Avalon… Avalon…
@@ -3339,7 +3309,8 @@ Avalon…
 Avalon… Avalon…
 Avalon…
 Avalon…`
-    },{
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Bevi, dolce regina.
@@ -3352,37 +3323,35 @@ Una radice che nessun inverno spezzerà.
 
 Ma nelle vene del futuro
 scorrerà anche il mio canto.`,
-      translation: `Drick, söta drottning.
-Drick utan rädsla.
+      translation: `Drink, sweet Queen.
+Drink without fear.
 
-Jag ska ge dig vad du ber om.
-En son.
-Ett arv.
-En rot som ingen vinter kommer att bryta.
+I shall give you what you ask.
+A child.
+A legacy.
+A root that no winter shall break.
 
-Men i framtidens ådror
-ska min sång också flöda.`
+But through the veins of the future
+my song shall flow as well.`
     },
     {
       type: "line",
       voice: "Morgaine",
-      note: "lågt, talat",
+      note: "low, spoken",
       original: `Quando i muri cadranno,
 quando gli uomini dimenticheranno i vecchi dèi,
 quando Camelot sarà soltanto polvere e leggenda…
-
 qualcuno ricorderà ancora Avalon.`,
-      translation: `När murarna faller,
-när människorna glömmer de gamla gudarna,
-när Camelot bara är damm och legender…
-
-kommer vissa fortfarande att minnas Avalon.`
-    },{
+      translation: `When the walls have fallen,
+when men have forgotten the old gods,
+when Camelot is nothing but dust and legend…
+someone will still remember Avalon.`
+    },
+    {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Non per odio.
 Non per vendetta.
-
 Io sono stanca della vendetta.
 
 Ma nessun regno
@@ -3402,32 +3371,29 @@ Così intreccio il destino.
 Così la nebbia
 entra silenziosa
 nelle vene di Camelot.`,
-      translation: `Inte av hat.
-Inte av hämnd.
+      translation: `Not out of hatred.
+Not out of vengeance.
+I have grown weary of vengeance.
 
-Jag är trött på hämnd.
+But no kingdom
+can take everything
+without leaving something behind.
 
-Men inget kungarike
-kan ta allt
-utan att lämna något bakom sig.
+If the world of men
+must consume the mystery,
+then the mystery shall live
+within the child of their dream.
 
-Om människornas värld
-måste sluka mysteriet,
-då kommer mysteriet att leva
-inuti deras drömbarn.
+In the blood…
+in the blood of the future…
 
-I blodet…
-i framtidens blod…
-
-Så jag brygger vinet.
-Så jag väver ödet.
-Så dimman
-tyst tränger in i
-Camelots ådror.`
+Thus I prepare the wine.
+Thus I weave destiny.
+Thus the mist
+enters silently
+into the veins of Camelot.`
     }
   ]
-
-
 },
 act2_3: {
   menuTitle: " Gli Anni sopra Camelot",
@@ -3436,12 +3402,12 @@ act2_3: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 3 - Tidens gång över Camelot",
+      title: "Act II — Scene III - The Years over Camelot",
       content: ""
     },
     {
       type: "line",
-      voice: "barn + kör",
+      voice: "Children + Choir",
       original: `Un figlio è nato a Camelot!
 Le campane chiamano la gioia!
 Nuovo sangue nelle sale del re!
@@ -3480,47 +3446,46 @@ Come lui abbassa gli occhi davanti a lei?
 Sciocchezze.
 Sono giovani ancora nel cuore.
 
-Eppure Camelot parla…
-`,
-      translation: `En son föds i Camelot!
-Klockorna ropar av glädje! 
-Nytt blod i kungens salar!
-Nytt hopp på kullen!
+Eppure Camelot parla…`,
+      translation: `A son is born in Camelot!
+The bells proclaim rejoicing!
+New blood in the King's halls!
+New hope upon the hill!
 
-Mordred...
-Mordred...
+Mordred…
+Mordred…
 
-Han sover fridfullt i sin mors armar.
-Hans ögon är alltför uppmärksamma för en nyfödd.
+He sleeps peacefully in his mother's arms.
+Eyes too watchful for a newborn child.
 
-Varje barn ser på världen
-som om de kunde förändra den!
+Every child looks upon the world
+as though it could change it!
 
-Vintrarna går.
-Skördar går.
-Murarna växer.
-Vägarna förlängs.
+The winters pass.
+The harvests pass.
+The walls grow higher.
+The roads grow longer.
 
-Camelot handlar med havet.
-Camelot talar med Rom.
-Camelot skickar domare och riddare
-där det en gång bara fanns skogar.
+Camelot trades with the sea.
+Camelot speaks with Rome.
+Camelot sends judges and knights
+where once there were only forests.
 
-Och de gamla ekarna faller långsamt...
+And the ancient oaks fall quietly…
 
-Nya kyrkor längs floden!
-Nya broar till kusten!
+New churches along the river!
+New bridges to the coast!
 
 Sir Lancelot!
 Sir Lancelot!
 
-Ser du hur drottningen lyssnar på honom?
-Hur han sänker blicken inför henne?
+Have you seen how the Queen listens to him?
+How he lowers his eyes before her?
 
-Nonsens.
-De är fortfarande unga i sinnet.
+Nonsense.
+They are still young at heart.
 
-Ändå talar Camelot…`
+And yet Camelot speaks…`
     },
     {
       type: "line",
@@ -3529,54 +3494,53 @@ De är fortfarande unga i sinnet.
 Le guerre sono più lontane.
 I mercanti arrivano senza paura.
 Perfino l’inverno sembra meno crudele.`,
-      translation: `Arthur styr med rättvisa.
-Krig är längre bort.
-Köpmän anländer utan rädsla.
-Till och med vintern verkar mindre grym.`
+      translation: `Arthur rules with justice.
+The wars lie farther away.
+Merchants arrive without fear.
+Even winter seems less cruel.`
     },
     {
       type: "line",
       voice: "Man",
       original: `Ma ogni regno inizia a dormire`,
-      translation: `Men varje kungarike börjar sova`
+      translation: `But every kingdom begins to sleep`
     },
     {
       type: "line",
       voice: "Woman",
       original: `dentro la propria grandezza…`,
-      translation: `inom sin egen storhet…`
+      translation: `within its own greatness…`
     },
     {
       type: "line",
-      voice: "Barnkör",
+      voice: "Children's choir",
       original: `Mordred cresce in silenzio.
 Ascolta più di quanto parli.
 Cammina spesso solo
 vicino alle acque vecchie.`,
-      translation: `Mordred växer i tystnad.
-Han lyssnar mer än han talar.
-Han går ofta ensam
-nära de gamla vattnen.`
+      translation: `Mordred grows in silence.
+He listens more than he speaks.
+He often walks alone
+beside the ancient waters.`
     },
     {
       type: "line",
-      voice: "Ung man",
+      voice: "Young man",
       original: `Quel ragazzo guarda gli uomini
 come se ricordasse qualcosa
 che nessuno gli ha insegnato.`,
-      translation: `Den pojken tittar på männen
-som om han kommer ihåg något
-som ingen lärt honom.`
+      translation: `That boy looks upon men
+as though he remembers something
+no one ever taught him.`
     },
     {
       type: "line",
-      voice: "Kvinna + barnkör / kökr",
+      voice: "Woman + Children's choir / Choir",
       original: `Camelot…
 Camelot…
 
 Non più sogno,
 ma regno.
-
 Non più fiamma,
 ma pietra.
 
@@ -3587,7 +3551,7 @@ Nuove sale.
 Nuovi figli.
 — Vecchie canzoni dimenticate.
 
-Avalon… 
+Avalon…
 Avalon…Avalon…
 Avalon…
 Avalon…Avalon…
@@ -3595,13 +3559,12 @@ Avalon…
 
 Gli anni passano sopra Camelot
 come pioggia lenta sopra le mura.
+
 E ciò che un tempo sembrava eterno
 impara piano il peso del tempo.
 
 Sir Lancelot sorride meno.
-
 La regina prega più a lungo.
-
 Arthur ascolta più silenzi
 che parole.
 
@@ -3621,78 +3584,70 @@ Camelot…
 
 Così splendida
 da dimenticare la propria ombra.
-
 Così viva
 da non sentire ancora l’inverno.
 
 Avalon… Avalon…
 Avalon… Avalon…
 Avalon…
-
 Avalon…`,
       translation: `Camelot…
 Camelot…
 
-Inte längre en dröm,
-utan ett kungarike.
+No longer a dream,
+but a kingdom.
+No longer a flame,
+but stone.
 
-Inte längre en låga,
-utan sten.
+New treaties.
+— New taxes.
+New halls.
+— New altars.
+New children.
+— Old songs forgotten.
 
-Nya fördrag.
-—Nya skatter.
-Nya hallar.
-—Nya altaren.
-Nya söner.
-—Gamla glömda sånger.
-
-Avalon… 
-Avalon…Avalon…
 Avalon…
 Avalon…Avalon…
 Avalon…
+Avalon…Avalon…
+Avalon…
 
-Åren går över Camelot
-som långsamt regn över murarna.
-Och det som en gång verkade evigt
-lär sig långsamt tidens tyngd.
+The years pass over Camelot
+like gentle rain upon the walls.
 
-Sir Lancelot ler mindre.
+And what once seemed eternal
+slowly learns the weight of time.
 
-Drottningen ber längre.
+Sir Lancelot smiles less.
+The Queen prays longer.
+Arthur listens to more silences
+than words.
 
-Arthur hör mer tystnad
-än ord.
+And Merlin…
+Merlin appears ever less often in the halls.
 
-Och Merlin...
-Merlin dyker upp allt mindre i salarna.
+The bells continue.
+The markets continue.
+The children become men.
 
-Klockorna fortsätter.
-Marknaderna fortsätter.
-Barnen blir till män.
+But something
+slips away from the world
+without a sound.
 
-Men något
-försvinner från världen
-tyst.
+Camelot…
+Camelot…
 
-Camelot...
-Camelot...
-
-Så praktfull
-att den glömmer sin egen skugga.
-
-Så levande
-att den ännu inte känner vintern.
+So splendid
+that it forgets its own shadow.
+So alive
+that it does not yet feel the coming winter.
 
 Avalon… Avalon…
 Avalon… Avalon…
 Avalon…
-
 Avalon…`
     }
   ]
-
-
 },
 act2_4: {
   menuTitle: " Le Voci del Lago",
@@ -3701,7 +3656,7 @@ act2_4: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 4 - Sjöns röster",
+      title: "Act II — Scene IV - The Voices of the Lake",
       content: ""
     },
     {
@@ -3723,165 +3678,168 @@ Le campane cantano vittoria.
 Eppure le mura respirano stanchezza.
 Perfino il fuoco
 sembra consumarsi più in fretta.`,
-      translation: `På natten sover sjön aldrig.
+      translation: `At night the lake never sleeps.
 
-De andra hör bara vind,
-vass,
-vatten mot stenarna.
+The others hear only the wind,
+the reeds,
+the water against the stones.
 
-Men under tystnaden
-fortsätter något att tala.
+But beneath the silence
+something goes on speaking.
 
-Camelot skrattar fortfarande i salarna.
-Kopparna höjs.
-Klockorna sjunger seger.
+Camelot still laughs in its halls.
+The cups are raised.
+The bells sing of victory.
 
-Och ändå andas väggarna trötthet.
-Till och med elden
-verkar brinna ut snabbare.`
+And yet the walls breathe weariness.
+Even the fire
+seems to burn itself away more quickly.`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `Mordred…
-      
+
 No.
 Non di nuovo.`,
       translation: `Mordred…
-      
-Nej.
-Inte igen.`
+
+No.
+Not again.`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Da bambino credevo fossero sogni.`,
-      translation: `Som barn trodde jag att det var drömmar.`
+      translation: `As a child I thought they were dreams.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Poi ho imparato`,
-      translation: `Då lärde jag mig`
-    },{
+      translation: `Then I learned`
+    },
+    {
       type: "line",
       voice: "Mordred",
       original: `che certi luoghi ricordano gli uomini`,
-      translation: `att vissa platser minns män`
+      translation: `that some places remember men`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `meglio degli uomini stessi.`,
-      translation: `bättre än männen själva.`
-    },{
+      translation: `better than men remember themselves.`
+    },
+    {
       type: "line",
       voice: "Mordred",
       original: `Il lago conosce nomi`,
-      translation: `Sjön känner till namn`
+      translation: `The lake knows names`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `che Camelot ha dimenticato.`,
-      translation: `som Camelot har glömt.`
-    },{
+      translation: `that Camelot has forgotten.`
+    },
+    {
       type: "line",
       voice: "Mordred",
       original: `Arthur ha portato pace.`,
-      translation: `Arthur förde fred.`
+      translation: `Arthur brought peace.`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `Camelot durerà oltre il tempo.`,
-      translation: `Camelot kommer att bestå bortom tiden.`
+      translation: `Camelot shall endure beyond time.`
     },
     {
       type: "line",
-      voice: "Mordred + sjön",
+      voice: "Mordred + Lake",
       original: `Ma io vedo i cavalieri
 ripetere gesti svuotati.
 Vedo sorrisi stanchi.
 Vedo uomini
 innamorati della propria leggenda.`,
-      translation: `Men jag ser riddarna
-upprepa tomma gester.
-Jag ser trötta leenden.
-Jag ser män
-förälskade i sin egen legend.`
+      translation: `But I see the knights
+repeating hollow gestures.
+I see weary smiles.
+I see men
+in love with their own legend.`
     },
     {
       type: "line",
-      voice: "Sjön",
-      note: "viskar",
+      voice: "Lake",
+      note: "whispering",
       original: `Britannia dorme…`,
-      translation: `Britannien sover…`
+      translation: `Britain sleeps…`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Britannia dimentica…`,
-      translation: `Britannien glömmer…`
+      translation: `Britain forgets…`
     },
     {
       type: "line",
-      voice: "Sjön",
-      note: "viskar",
+      voice: "Lake",
+      note: "whispering",
       original: `Chi siete?`,
-      translation: `Vem är du?`
+      translation: `Who are you?`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Perché chiamate me?`,
-      translation: `Varför kallar du på mig?`
+      translation: `Why do you call to me?`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Ogni strada porta nuove pietre.
 Ogni inverno porta nuove chiese.`,
-      translation: `Varje väg ger nya stenar.
-Varje vinter ger nya kyrkor.`
+      translation: `Every road brings new stones.
+Every winter brings new churches.`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `E il lago si ritira piano`,
-      translation: `Och sjön drar sig långsamt tillbaka`
+      translation: `And the lake slowly withdraws`
     },
     {
       type: "line",
-      voice: "Mordred + sjön",
+      voice: "Mordred + Lake",
       original: `come animale ferito.`,
-      translation: `som ett sårat djur.`
+      translation: `like a wounded animal.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Forse Camelot ha vinto il mondo…`,
-      translation: `Kanske har Camelot erövrat världen…`
+      translation: `Perhaps Camelot has conquered the world…`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `e perduto la sua anima.
-      
-      Se una terra dimentica il proprio cuore,
+
+Se una terra dimentica il proprio cuore,
 quanto può vivere ancora?
 Se un regno diventa soltanto memoria di sé stesso,`,
-      translation: `och förlorat sin själ.
-      
-      Om ett land glömmer sitt hjärta,
-hur mycket längre kan det leva?
-Om ett kungarike bara blir ett minne av sig självt,`
-    },  
+      translation: `and lost its soul.
+
+If a land forgets its own heart,
+how much longer can it live?
+If a kingdom becomes nothing more than the memory of itself,`
+    },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `chi avrà il coraggio di svegliarlo?`,
-      translation: `vem kommer att ha modet att väcka det?`
+      translation: `who will have the courage to awaken it?`
     },
     {
       type: "line",
@@ -3893,65 +3851,64 @@ perché la verità teme la luce delle sale.
 
 Le voci non chiedono guerra.
 Non chiedono sangue.`,
-      translation: `Jag lyssnar på vattnet
-för att män pratar för mycket.
-Jag återvänder till dimman
-för att sanningen fruktar ljuset i salarna.
+      translation: `I listen to the waters
+because men speak too much.
+I return to the mist
+because truth fears the light of the halls.
 
-Rösterna ber inte om krig.
-De ber inte om blod.`
+The voices do not ask for war.
+They do not ask for blood.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Chiedono soltanto`,
-      translation: `De ber bara`
+      translation: `They ask only`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `che Britannia ricordi`,
-      translation: `att Britannien ska komma ihåg`
+      translation: `that Britain remember`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `ciò che era`,
-      translation: `vad det var`
+      translation: `what it was`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `prima delle mura,`,
-      translation: `före murarna,`
+      translation: `before the walls,`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `prima delle corone,`,
-      translation: `före kronorna,`
+      translation: `before the crowns,`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `prima della paura.`,
-      translation: `före rädslan.`
+      translation: `before fear.`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `Mordred…`,
       translation: `Mordred…`
     },
     {
       type: "line",
       voice: "Mordred",
-      note: "talat",
+      note: "spoken",
       original: `Perché soltanto io riesco a sentirvi?`,
-      translation: `Varför är jag den enda som kan höra dig?`
+      translation: `Why am I the only one who can hear you?`
     }
   ]
-
 
 },
 act2_5: {
@@ -3961,7 +3918,7 @@ act2_5: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 5 - De alltför tysta rummen",
+      title: "Act II — Scene V - The Rooms That Have Grown Too Quiet",
       content: ""
     },
     {
@@ -3986,9 +3943,9 @@ senza ardere davvero.
 
 Guinevere sorride ancora con gentilezza.
 Io rispondo con la stessa dolcezza imparata negli anni.
+
 Nessuna ferita aperta.
 Nessun rimprovero.
-
 Ed è questo
 che mi spaventa di più.
 
@@ -4002,45 +3959,45 @@ E noi continuiamo a vivere
 fra parole educate,
 fra mani che si cercano ancora
 senza trovarsi davvero.`,
-      translation: `En gång andades Camelot som eld.
-Nu andas det som het aska:
-fortfarande vid liv…
-men trött.
+      translation: `Once Camelot breathed like fire.
+Now it breathes like warm ashes:
+still alive…
+yet weary.
 
-Salarna är fulla varje natt.
-Skratt.
-Musik.
-Vin hälls upp till gryningen.
+The halls are full every evening.
+Laughter.
+Music.
+Wine poured until dawn.
 
-Ändå minns jag en tid
-då en blick räckte
-för att känna kungarikets hjärta slå.
+And yet I remember a time
+when a single glance was enough
+to hear the kingdom's heart beating.
 
-Nu fortsätter allt…
-utan att verkligen brinna.
+Now everything goes on…
+without truly burning.
 
-Guinevere ler fortfarande vänligt.
-Jag svarar med samma sötma som jag lärt mig genom åren.
-Inga öppna sår.
-Inga förebråelser.
+Guinevere still smiles with kindness.
+I answer with the same tenderness we have learned over the years.
 
-Och det är
-det som skrämmer mig mest.
+No open wounds.
+No reproaches.
+And that is
+what frightens me most.
 
-För kärlek dör inte alltid i elden.
-Ibland drar den sig långsamt tillbaka,
-likt dimma över sjön,
-och lämnar formerna intakta...
-men tömmer värmen.
+For love does not always die in fire.
+Sometimes it slips quietly away,
+like mist upon the lake,
+leaving every shape untouched…
+while carrying away the warmth.
 
-Och vi fortsätter att leva
-mellan artiga ord,
-mellan händer som fortfarande söker
-utan att verkligen hitta varandra.`
+And we go on living
+among courteous words,
+among hands that still reach for one another
+without ever truly meeting.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -4051,9 +4008,7 @@ ma qualcosa nei suoi occhi
 guarda sempre altrove.
 
 E Mordred…
-
 mio figlio…
-
 cammina spesso con Morgaine
 vicino alle rive vecchie.
 Con lei parla liberamente
@@ -4062,7 +4017,6 @@ come non fa più con noi.
 Quando mi guarda
 vedo rispetto.
 Mai intimità.
-
 Come se fossi diventato
 una statua costruita per governare
 e non un uomo da amare.
@@ -4093,58 +4047,53 @@ La pioggia continua sopra le mura.
 Le torce tremano nel vento.
 E Camelot sembra ascoltare
 la propria stanchezza.`,
-      translation: `Till och med Lancelot skrattar mindre än han en gång gjorde.
-Han bringar fortfarande ära till salarna,
-men något i hans ögon
-ser alltid någon annanstans.
+      translation: `Even Lancelot laughs less than he once did.
+He still brings honour to the halls,
+yet something in his eyes
+is always looking elsewhere.
 
-Och Mordred…
+And Mordred…
+my son…
+often walks with Morgaine
+along the ancient shores.
+With her he speaks freely,
+as he no longer does with us.
 
-min son…
+When he looks at me,
+I see respect.
+Never closeness.
+As though I had become
+a statue built to rule,
+and not a man to love.
 
-går ofta med Morgaine
-nära de gamla stränderna.
-Han talar fritt med henne
-som han inte längre gör med oss.
+Perhaps this is the fate of kingdoms:
+slowly to transform men
+into the symbols their people desire.
 
-När han tittar på mig,
-ser jag respekt.
-Aldrig intimitet.
+And symbols…
+can no longer touch one another.
 
-Som om jag hade blivit
-en staty byggd för att härska
-och inte en man att älska.
+The rooms of Camelot have grown too quiet
+behind all the music of the feasts.
+Too perfect.
+Too orderly.
 
-Kanske är detta kungadömenas öde:
-att långsamt förvandla människor
-till de symboler som folket önskar.
+As though the whole kingdom
+were holding its breath,
+waiting for something
+that no one dares to name.
 
-Och symbolerna...
-kan inte längre röra vid varandra.
+And I…
+who wanted peace above all else…
+am beginning to fear
+the stillness we have built.
 
-Camelots salar är för tysta
-bakom all festlig musik.
-För perfekta.
-För ordnade.
-
-Som om hela kungariket
-höll andan
-och väntade på något
-som ingen vågar namnge.
-
-Och jag...
-som ville ha fred framför allt...
-börjar frukta
-den tystnad vi har byggt upp.
-
-Regnet fortsätter mot väggarna.
-Facklorna darrar i vinden.
-Och Camelot verkar lyssna
-på sin egen trötthet.`
+The rain continues upon the walls.
+The torches tremble in the wind.
+And Camelot seems to listen
+to its own weariness.`
     }
   ]
-
-
 },
 act2_6: {
   menuTitle: " Dovrei Lasciare Camelot",
@@ -4153,7 +4102,7 @@ act2_6: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 6 - Jag borde lämna Camelot",
+      title: "Act II — Scene VI - I Should Leave Camelot",
       content: ""
     },
     {
@@ -4178,7 +4127,6 @@ fino alla fine del mondo.
 Per questo il cuore trema.
 Non per desiderio.
 Non per follia.
-
 Ma perché alcune anime
 si riconoscono troppo profondamente
 e trasformano la luce
@@ -4197,57 +4145,56 @@ più di quanto ami me stesso.
 E proprio per questo
 non posso sopportare
 l’ombra che cresce dietro la bellezza.`,
-      translation: `Korridorerna är tysta nu.
-Till och med de sista facklorna
-brinner tyst.
+      translation: `The halls are quiet now.
+Even the last torches
+burn away without a sound.
 
-Och Camelot sover…
-fortfarande litande på oss.
+And Camelot sleeps…
+still trusting us.
 
-Arthur gav mig en plats vid sitt bord
-innan han ens riktigt visste mitt namn.
-Han erbjöd mig förtroende
-med den sällsynta enkelheten
-som bara tillhör goda män.
+Arthur gave me a place at his table
+before he truly knew my name.
+He offered me his trust
+with that rare simplicity
+found only in truly good men.
 
-Och jag skulle ha följt honom
-till världens ände.
+And I would have followed him
+to the ends of the earth.
 
-Det är därför hjärtat darrar.
-Inte av lust.
-Inte av galenskap.
+That is why my heart trembles.
+Not from desire.
+Not from madness.
+But because some souls
+recognize one another too deeply
+and turn light itself
+into danger.
 
-Utan för att vissa själar
-känner igen varandra för djupt
-och förvandlar ljuset
-till fara.
+I should leave Camelot
+before the silence learns our names.
+Before a glance held too long
+becomes a wound in the heart of the kingdom.
 
-Jag borde lämna Camelot
-innan tystnaden lär sig vårt namn.
-Innan en blick som hålls för länge
-blir ett sår i kungarikets hjärta.
+For I love Arthur.
+I love what he has built.
+I love this land
+more than I love myself.
 
-För att jag älskar Arthur.
-Jag älskar det han har byggt.
-Jag älskar detta land
-mer än jag älskar mig själv.
-
-Och på grund av detta
-kan jag inte bära
-skuggan som växer bakom skönheten.`
+And it is for that very reason
+that I cannot bear
+the shadow growing behind its beauty.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
       voice: "Lancelot",
       original: `Quando Guinevere entra nelle sale
 perfino la musica sembra rallentare.
+
 Non c’è peccato nei suoi occhi.
 Non c’è inganno.
-
 Ed è questo
 che rende tutto più crudele.
 
@@ -4258,7 +4205,6 @@ somiglia troppo alla verità.
 
 E Camelot…
 Dio…
-
 Camelot è stata il primo luogo
 dove ho creduto
 che gli uomini potessero davvero diventare migliori.
@@ -4276,7 +4222,6 @@ qualcosa mi trattiene ancora:
 la luce nelle sale,
 le campane nella pioggia,
 la fragile speranza degli uomini…
-
 e quel sogno meraviglioso
 che chiamiamo Camelot.
 
@@ -4285,52 +4230,47 @@ non con l’odio…
 ma concedendo loro
 troppa bellezza.
 `,
-      translation: `När Guinevere kommer in i salarna
-verkar till och med musiken sakta ner.
-Det finns ingen synd i hennes ögon.
-Det finns inget bedrägeri.
+      translation: `When Guinevere enters the halls,
+even the music seems to slow.
 
-Och det är
-det som gör allting grymmare.
+There is no sin in her eyes.
+There is no deceit.
+And that is
+what makes everything more cruel.
 
-Om det fanns en lögn
-skulle jag lätt kunna hata mig själv.
-Men det som växer mellan oss
-är för likt sanningen.
+If there were falsehood,
+I could easily hate myself.
+But what is growing between us
+resembles the truth too closely.
 
-Och Camelot…
-Gud…
+And Camelot…
+God…
+Camelot was the first place
+where I believed
+that men could truly become better.
 
-Camelot var den första platsen
-där jag trodde
-att människor verkligen kunde bli bättre.
+How can I be the one 
+who brings winter within these walls?
 
-Hur kan jag vara
-den som bringar vintern inom dessa murar?
+I should leave Camelot
+before the fire consumes what I love.
+Before Arthur learns
+to recognize the silence in our breathing.
 
-Jag borde lämna Camelot
-innan elden förtär det jag älskar.
-Innan Arthur lär sig
-att känna igen tystnaden i vår andning.
+But every time I try to leave,
+something still holds me here:
+the light in the halls,
+the bells in the rain,
+the fragile hope of mankind…
+and that wondrous dream
+we call Camelot.
 
-Men varje gång jag försöker gå,
-håller fortfarande något mig tillbaka:
-ljuset i salarna,
-klockorna i regnet,
-människornas bräckliga hopp…
-
-och den underbara drömmen
-vi kallar Camelot.
-
-Kanske straffar gudarna människorna
-inte med hat…
-utan genom att ge dem
-för mycket skönhet.`
+Perhaps the gods punish mankind
+not with hatred…
+but by granting them
+too much beauty.`
     }
-    
   ]
-
-
 },
 act2_7: {
   menuTitle: " Quando Tacciono le Pietre",
@@ -4339,14 +4279,13 @@ act2_7: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 7 - När stenarna tystnar",
+      title: "Act II — Scene VII - When the Stones Fall Silent",
       content: ""
     },
     {
       type: "line",
       voice: "Merlin",
       original: `Un tempo le pietre parlavano senza paura.
-
 Bastava posare la mano
 sulla loro antica pazienza
 per sentire il sangue della terra
@@ -4354,7 +4293,6 @@ muoversi lento sotto il mondo.
 
 Ora…
 ascolto più a lungo.
-
 E il silenzio cresce.
 
 Le colline ricordano ancora.
@@ -4369,7 +4307,6 @@ come un tempo.
 
 Forse non è morte.
 Forse è soltanto distanza.
-
 Come il mare che si ritira piano
 prima dell’inverno.
 
@@ -4383,49 +4320,45 @@ E io…
 ultimo custode di un linguaggio antico…
 resto qui ad ascoltare
 una porta che lentamente si chiude.`,
-      translation: `En gång talade stenarna utan rädsla.
+      translation: `Once the stones spoke without fear.
+It was enough to lay a hand
+upon their ancient patience
+to feel the blood of the earth
+moving slowly beneath the world.
 
-Det räckte med att lägga handen
-på deras uråldriga tålamod
-för att känna jordens blod
-röra sig långsamt under världen.
+Now…
+I listen for longer.
+And the silence grows.
 
-Nu…
-lyssnar jag längre.
+The hills still remember.
+But their voice
+is becoming more and more
+like an old dream forgotten at dawn.
 
-Och tystnaden växer.
+Even the Dragon sleeps more deeply.
+I no longer hear the fire
+breathing beneath the rock
+as once I did.
 
-Kullarna minns fortfarande.
-Men deras röst
-är alltmer som
-en gammal dröm glömd på morgonen.
+Perhaps it is not death.
+Perhaps it is only distance.
+Like the sea slowly drawing back
+before the winter.
 
-Till och med draken sover djupare.
-Jag känner inte längre elden
-andas under klippan
-som den en gång gjorde.
+When the stones fall silent,
+men change as well.
+They forget the weight of the stars.
+They forget that the world
+was alive before their kingdoms.
 
-Kanske är det inte döden.
-Kanske är det bara avstånd.
-
-Som havet som sakta drar sig tillbaka
-före vintern.
-
-När stenarna tystnar,
-förändras även människor.
-De glömmer stjärnornas tyngd.
-De glömmer att världen
-levde före deras regeringstid.
-
-Och jag…
-den siste väktaren av ett forntida språk…
-Jag står här och lyssnar
-på en dörr som långsamt stängs.
-`
+And I…
+the last keeper of an ancient tongue…
+remain here, listening
+to a door slowly closing.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -4436,11 +4369,8 @@ Lancelot ama troppo profondamente
 per sopravvivere intatto.
 
 E Mordred…
-
 il ragazzo sente già la nebbia.
-
 La sente meglio di quanto io stesso riesca ormai.
-
 Forse Avalon
 ha scelto lui
 nel momento stesso
@@ -4450,7 +4380,6 @@ Quando tacciono le pietre,
 la terra cerca nuove voci.
 Non sempre sagge.
 Non sempre gentili.
-
 Ma il vuoto richiama sempre qualcosa.
 
 E ciò che gli uomini dimenticano,
@@ -4469,55 +4398,47 @@ Nemmeno Avalon.
 Nemmeno io.
 
 Stanotte le pietre non hanno risposto.
-
 E per la prima volta…
 ho avuto paura.`,
-      translation: `Arthur bär fortfarande tyngden med värdighet.
-Guinevere döljer sin smärta med grace.
-Lancelot älskar för djupt
-för att överleva intakt.
+      translation: `Arthur still bears his burden with dignity.
+Guinevere hides her sorrow with grace.
+Lancelot loves too deeply
+to remain unbroken.
 
-Och Mordred…
+And Mordred…
+the boy already hears the mist.
+He hears it better than I do now.
+Perhaps Avalon
+chose him
+at the very moment
+it ceased speaking to me.
 
-Pojken känner redan dimman.
+When the stones fall silent,
+the earth seeks new voices.
+Not always wise.
+Not always gentle.
+But the void always calls something to itself.
 
-Han känner den bättre än jag kan längre.
+And what men forget,
+the mist patiently gathers
+among water,
+roots,
+and blood.
 
-Kanske Avalon
-valde honom
-i det ögonblick
-han slutade tala med mig.
+I have guarded the passage all my life.
+I have kept closed
+doors that men could not understand.
 
-När stenarna är tysta,
-söker jorden nya röster.
-Inte alltid klokt.
-Inte alltid vänligt.
+But no guardian remains forever.
+Not even the Dragon.
+Not even Avalon.
+Not even I.
 
-Men tomrummet kallar alltid på något.
-
-Och vad människor glömmer,
-samlas dimman tålmodigt
-bland vatten,
-rötter
-och blod.
-
-Jag har vaktat passagen hela mitt liv.
-Jag har hållit stängda dörrar
-som människor inte förstod.
-
-Men ingen väktare förblir evig.
-Inte ens draken.
-Inte ens Avalon.
-Inte ens jag.
-
-Ikväll svarade inte stenarna.
-
-Och för första gången…
-var jag rädd.`
+Tonight the stones gave no answer.
+And for the first time…
+I was afraid.`
     }
   ]
-
-
 },
 act2_8: {
   menuTitle: " Britannia Ha Perduto il Suo Nome",
@@ -4526,14 +4447,13 @@ act2_8: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 8 - Britannien har förlorat sitt namn",
+      title: "Act II — Scene VIII - Britain Has Lost Its Name",
       content: ""
     },
     {
       type: "line",
       voice: "Mordred",
       original: `La nebbia torna sempre al lago.
-
 Anche quando gli uomini costruiscono torri.
 Anche quando le campane coprono il vento.
 Anche quando i re credono
@@ -4548,29 +4468,29 @@ il silenzio delle sale di Camelot.
 Perché il lago ancora respira.
 Camelot invece…
 sogna sé stessa.`,
-      translation: `Dimman återvänder alltid till sjön.
+      translation: `The mist always returns to the lake.
+Even when men build towers.
+Even when the bells drown out the wind.
+Even when kings believe
+they have brought order to the world.
 
-Även när män bygger torn.
-Även när klockor överröstar vinden.
-Även när kungar tror
-att de har skapat ordning i världen.
+The mist returns.
 
-Dimman återvänder.
+As a child I feared these waters.
+Now I fear far more
+the silence of Camelot's halls.
 
-Som barn var jag rädd för dessa vatten.
-Nu fruktar jag mer
-tystnaden i Camelots salar.
-
-För sjön andas fortfarande.
-Camelot däremot…
-drömmer om sig själv.`
+For the lake still breathes.
+Camelot, instead…
+dreams only of itself.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Mordred…`,
       translation: `Mordred…`
-    },{
+    },
+    {
       type: "line",
       voice: "Mordred",
       original: `Mordred…`,
@@ -4578,44 +4498,40 @@ drömmer om sig själv.`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `Chi siete?`,
-      translation: `Vem är du?`
+      translation: `Who are you?`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Perché chiamate ancora il mio nome?
-
 Le voci parlano attraverso l’acqua.
 Non come uomini.
 Non come dèi.
-
 Come memoria della terra.`,
-      translation: `Varför ropar du fortfarande mitt namn?
-
-Rösterna talar genom vattnet.
-Inte som män.
-Inte som gudar.
-
-Som minne av jorden.`
+      translation: `Why do you still call my name?
+The voices speak through the water.
+Not as men.
+Not as gods.
+But as the memory of the earth.`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `Britannia ha perduto il suo nome.`,
-      translation: `Britannien har förlorat sitt namn.`
+      translation: `Britain has lost its name.`
     },
     {
       type: "line",
       voice: "Mordred",
-      note: "djupt, talat",
+      note: "deep, spoken",
       original: `Camelot ha vissuto oltre il proprio destino.`,
-      translation: `Camelot har levt bortom sitt öde.`
+      translation: `Camelot has outlived its destiny.`
     },
-      {
+    {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -4626,51 +4542,49 @@ Una volta il mare
 non apparteneva alle mappe degli uomini.
 
 Ora tutto viene contato.`,
-      translation: `En gång lyssnade kungar till kullarna.
-En gång bevakade skogarna det heliga.
-En gång tillhörde inte havet
-människornas kartor.
+      translation: `Once kings listened to the hills.
+Once the forests guarded the sacred.
+Once the sea
+belonged to no man's maps.
 
-Nu räknas allt.`
+Now everything is counted.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Misurato.`,
-      translation: `Mätt.`
+      translation: `Measured.`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Diviso.
-
 Le querce cadono per costruire sale più grandi.
 I vecchi sentieri scompaiono sotto la pietra.`,
-      translation: `Delat.
-
-Ekarna faller för att bygga större salar.
-De gamla stigarna försvinner under stenen.`
+      translation: `Divided.
+The oaks fall to build greater halls.
+The ancient paths disappear beneath stone.`
     },
     {
       type: "line",
-      voice: "Mordred + sjön",
+      voice: "Mordred + Lake",
       original: `Le preghiere salgono verso cieli lontani
 mentre la terra viene dimenticata.`,
-      translation: `Böner stiger till avlägsna himlar
-medan jorden glöms bort.`
+      translation: `Prayers rise toward distant heavens
+while the earth is forgotten.`
     },
     {
       type: "line",
       voice: "Mordred",
+      note: "whispered",
       original: `Britannia dorme…`,
-      note: "viskat",
-      translation: `Britannien sover…`
+      translation: `Britain sleeps…`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Britannia sanguina…`,
-      translation: `Britannien blöder…`
+      translation: `Britain bleeds…`
     },
     {
       type: "line",
@@ -4678,111 +4592,105 @@ medan jorden glöms bort.`
       original: `Eppure Camelot ride ancora.
 Parla di pace.
 Parla di gloria.
-
 Come può un regno essere tanto amato
-e tanto vuoto allo stesso tempo?
-`,
-      translation: `Ändå skrattar Camelot fortfarande.
-Det talar om fred.
-Det talar om ära.
-
-Hur kan ett kungarike vara så älskat
-och så tomt samtidigt?`
+e tanto vuoto allo stesso tempo?`,
+      translation: `And yet Camelot still laughs.
+It speaks of peace.
+It speaks of glory.
+How can a kingdom be so beloved
+and yet so empty at the same time?`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Forse Arthur ha salvato gli uomini.`,
-      translation: `Kanske räddade Arthur mänskligheten.`
+      translation: `Perhaps Arthur saved mankind.`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Ma chi salverà la terra...`,
-      translation: `Men vem ska rädda landet...
-      `
+      translation: `But who will save the earth...`
     },
     {
       type: "line",
-      voice: "Mordre + kvinnokör",
+      voice: "Mordred + Lake",
       original: `...dagli uomini stessi?
-      
 Se il cuore di Britannia smette di battere,
 allora ogni vittoria è soltanto cenere.
 Se Avalon svanisce nella nebbia,
 anche il futuro perderà la strada.`,
-      translation: `...från mänskligheten själv?
-      
-Om Britanniens hjärta slutar slå,
-då är varje seger bara aska.
-Om Avalon bleknar in i dimman,
-kommer även framtiden att gå vilse.`
+      translation: `...from mankind itself?
+If the heart of Britain ceases to beat,
+then every victory is nothing but ashes.
+If Avalon fades into the mist,
+the future itself will lose its way.`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Io sento ancora le acque chiamare.
 Sento le radici muoversi sotto la pietra.`,
-      translation: `Jag hör fortfarande vattnet kalla.
-Jag känner rötterna röra sig under stenen.`
+      translation: `I still hear the waters calling.
+I feel the roots moving beneath the stone.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Sento il mondo antico`,
-      translation: `Jag känner att den antika världen`
+      translation: `I feel the ancient world`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `rifiutarsi di morire in silenzio.
-      
 Non sono io a cercare il lago.
 È il lago`,
-      translation: `vägrar att dö i tystnad.
-      
-Det är inte jag som söker sjön.
-Det är sjön`
+      translation: `refusing to die in silence.
+It is not I who seek the lake.
+It is the lake`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `che ha cercato me`,
-      translation: `som har sökt mig`
+      translation: `that has sought me`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `fin dalla nascita.`,
-      translation: `sedan födseln.`
+      translation: `since my birth.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Forse perché il sangue ricorda`,
-      translation: `Kanske för att blod minns`
+      translation: `Perhaps because blood remembers`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `ciò che la storia dimentica.`,
-      translation: `vad historien glömmer.`
-    },{
+      translation: `what history forgets.`
+    },
+    {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `Forse perché qualcuno`,
-      translation: `Kanske för att någon`
+      translation: `Perhaps because someone`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `deve ancora ascoltare`,
-      translation: `fortfarande måste lyssna`
-    },{
+      translation: `must still listen`
+    },
+    {
       type: "line",
-      voice: "Mordred + sjön",
+      voice: "Mordred + Lake",
       original: `quando il mondo smette di sognare.`,
-      translation: `när världen slutar drömma.`
+      translation: `when the world ceases to dream.`
     },
     {
       type: "line",
@@ -4798,19 +4706,17 @@ Det är sjön`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `Se Britannia è davvero perduta…`,
-      translation: `Om Britannien verkligen är förlorat…`
+      translation: `If Britain is truly lost…`
     },
     {
       type: "line",
-      voice: "Mordred + sjön",
+      voice: "Mordred + Lake",
       original: `allora lasciate che io la ritrovi.`,
-      translation: `låt mig då hitta henne.`
+      translation: `then let me be the one to find it again.`
     }
   ]
-
-
 },
 act2_9: {
   menuTitle: " Nessuna Lama Forgiata dagli Uomini",
@@ -4819,7 +4725,7 @@ act2_9: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 9 - Inget klinga smidd av män",
+      title: "Act II — Scene IX - No Blade Forged by Men",
       content: ""
     },
     {
@@ -4832,166 +4738,177 @@ credendosi ancora eterna,
 mentre la nebbia raccoglie lentamente
 ciò che il tempo reclama.
 `,
-      translation: `Natten tillhör inte längre människorna.
+      translation: `The night no longer belongs to men.
 
-Camelot sover bakom sina murar,
-och tror sig fortfarande vara evig,
-medan dimman långsamt samlas
-vad tiden påstår.`
+Camelot sleeps behind its walls,
+still believing itself eternal,
+while the mist slowly gathers
+what time lays claim to.`
     },
     {
       type: "line",
       voice: "Choir",
-      note: `vokalisering över <i>Avalon</i>`,
-      original: `<i>Avalon...Avalon...Avalon...Avalon...</i>`,
-      translation: `<i>Avalon...Avalon...Avalon...Avalon</i>`
-    },{
+      note: `vocalising over Avalon`,
+      original: `Avalon...Avalon...Avalon...Avalon...`,
+      translation: `Avalon...Avalon...Avalon...Avalon...`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Per secoli questa armatura
 ha riposato sotto Avalon,
 dove il fuoco del drago
 scorre ancora nelle vene della terra.`,
-      translation: `I århundraden har denna rustning
-vilat under Avalon,
-där drakens eld
-fortfarande flyter i jordens ådror.`
+      translation: `For centuries this armour
+has rested beneath Avalon,
+where the Dragon's fire
+still flows through the veins of the earth.`
     },
     {
       type: "line",
-      voice: "Morgaine + kör",
+      voice: "Morgaine + Choir",
       original: `Non fu forgiata per vanità.`,
-      translation: `Den smiddes inte för fåfänga.`
-    },{
+      translation: `It was not forged for vanity.`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Non per conquista.
 Ma per l’ultima guerra
 che nessuno voleva vedere arrivare.`,
-      translation: `Inte för erövring.
-Utan för det sista kriget
-som ingen ville se komma`
+      translation: `Not for conquest.
+But for the last war,
+the one no one wished to see approaching.`
     },
     {
       type: "line",
-      voice: "Morgaine + kör",
+      voice: "Morgaine + Choir",
       original: `Mordred…`,
       translation: `Mordred…`
-    },{
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `figlio della nebbia e delle sale,
 sangue di Camelot
 e memoria di Britannia.`,
-      translation: `dimmans och salarnas son,
-Camelots blod
-och minnet av Britannien.`
+      translation: `son of the mist and the halls,
+blood of Camelot,
+and memory of Britain.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Ti ho visto ascoltare il lago`,
-      translation: `Jag såg dig lyssna på sjön`
-    },{
+      translation: `I have seen you listen to the lake`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `quando tutti gli altri ascoltavano soltanto sé stessi.`,
-      translation: `när alla andra bara lyssnade på sig själva.`
+      translation: `when all the others listened only to themselves.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Ti ho visto portare il peso`,
-      translation: `Jag såg dig bära tyngden`
-    },{
+      translation: `I have seen you bear the burden`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `di verità che gli uomini temono.
-      
-      E il mio cuore…`,
-      translation: `av sanningar som män fruktar.
-      
-      Och mitt hjärta…`
+
+E il mio cuore…`,
+      translation: `of truths that men fear.
+
+And my heart…`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Dio…`,
-      translation: `Gud…`
-    },{
+      translation: `God…`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `non sa più distinguere
 l’orgoglio dalla paura.
 
 Nessuna lancia.`,
-      translation: `kan inte längre skilja
-stolthet från rädsla.
+      translation: `can no longer tell
+pride from fear.
 
-Inget spjut.`
+No spear.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Nessuna spada.`,
-      translation: `Inget svärd.`
-    },{
+      translation: `No sword.`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Nessuna freccia.`,
-      translation: `Ingen pil.`
+      translation: `No arrow.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Nessuna lama`,
-      translation: `Ingen klinga`
-    },{
+      translation: `No blade`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `forgiata dagli uomini`,
-      translation: `smidd av män`
+      translation: `forged by men`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `potrà ferirti`,
-      translation: `kan såra dig`
-    },{
+      translation: `shall wound you`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `finché porterai questa armatura.`,
-      translation: `medan du bär denna rustning.`
+      translation: `so long as you wear this armour.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Avalon…
-      Avalon…
-      Avalon…
-      Avalon…
-      Avalon…
-      Avalon…`,
+Avalon…
+Avalon…
+Avalon…
+Avalon…
+Avalon…`,
       translation: `Avalon…
-      Avalon…
-      Avalon…
-      Avalon…
-      Avalon…
-      Avalon…`
-    },{
+Avalon…
+Avalon…
+Avalon…
+Avalon…
+Avalon…`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Ma esiste ancora una ferita
 che il mondo non ha dimenticato.`,
-      translation: `Men det finns fortfarande ett sår
-som världen inte har glömt.`
+      translation: `But there remains one wound
+the world has never forgotten.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Excalibur.`,
       translation: `Excalibur.`
-    },{
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `La lama nata prima dei re.
@@ -5017,127 +4934,131 @@ E gli uomini più pericolosi
 sono quelli
 che conservano onore
 anche alla fine del loro sogno.`,
-      translation: `Klingan född för kungar.
-Bladet som fortfarande bär
-tyngden av den forntida eden.
+      translation: `The blade born before kings.
+The blade that still bears
+the weight of the ancient oath.
 
-Ta detta spjut.
+Take this spear.
 
-Sök inte ära.
-Sök inte närhet.
-Låt inte blod
-förvandla mod till galenskap.
+Seek no glory.
+Seek no closeness.
+Do not let blood
+turn courage into madness.
 
-Slå på avstånd.
-Som vintern gör.
-Som ödet gör.
+Strike from afar.
+As winter does.
+As destiny does.
 
-För Arthur…
-Arthur kämpar fortfarande
-som den man han en gång var.
+For Arthur…
+Arthur still fights
+as the man he once was.
 
-Och de farligaste männen
-är de
-som behåller hedern
-även i slutet av sin dröm.`
+And the most dangerous men
+are those
+who keep their honour
+even at the end of their dream.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Non volevo questo per Britannia.`,
-      translation: `Jag ville inte detta för Britannien.`
-    },{
+      translation: `I never wished this for Britain.`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Non volevo guerra contro sangue del mio sangue.`,
-      translation: `Jag ville inte ha krig mot mitt eget blod.`
+      translation: `I never wished for war against my own blood.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Ma Camelot ha dimenticato`,
-      translation: `Men Camelot har glömt`
-    },{
+      translation: `But Camelot has forgotten`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `che ogni regno costruito contro la terra
 finisce per divorare sé stesso.`,
-      translation: `att varje kungarike som byggs mot landet
-slutar med att förtära sig självt.`
+      translation: `that every kingdom built against the earth
+ends by devouring itself.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Ora Avalon chiama attraverso di te.`,
-      translation: `Nu kallar Avalon genom dig.`
-    },{
+      translation: `Now Avalon calls through you.`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Attraverso il tuo cuore inquieto.`,
-      translation: `Genom ditt rastlösa hjärta.`
+      translation: `Through your restless heart.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Attraverso la ferita`,
-      translation: `Genom såret`
-    },{
-      type: "line",
-      voice: "Morgaine",
-      original: `che Camelot non ha mai saputo guarire.
-      
-      E io…`,
-      translation: `som Camelot aldrig läkte.
-      
-      Och jag…`
+      translation: `Through the wound`
     },
     {
       type: "line",
-      voice: "Morgaine + kör",
+      voice: "Morgaine",
+      original: `che Camelot non ha mai saputo guarire.
+
+E io…`,
+      translation: `that Camelot never knew how to heal.
+
+And I…`
+    },
+    {
+      type: "line",
+      voice: "Morgaine + Choir",
       original: `ultima figlia della nebbia…`,
-      translation: `dimmans sista dotter…`
+      translation: `last daughter of the mist…`
     },
     {
       type: "line",
       voice: "Morgaine",
       original: `devo consegnarti al destino
 anche mentre temo ciò che diventerai.`,
-      translation: `måste överlämna dig till ödet
-även om jag fruktar vad du kommer att bli.`
+      translation: `must surrender you to destiny
+even as I fear what you will become.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Avalon…
-      Avalon…`,
+Avalon…`,
       translation: `Avalon…
-      Avalon…`
+Avalon…`
     },
     {
       type: "line",
       voice: "Morgaine",
       original: `Va’, Mordred.`,
-      translation: `Gå, Mordred.`
+      translation: `Go, Mordred.`
     },
     {
       type: "line",
       voice: "Women's choir",
       original: `Avalon…
-      Avalon…`,
+Avalon…`,
       translation: `Avalon…
-      Avalon…`
+Avalon…`
     },
     {
       type: "line",
       voice: "Morgaine",
       original: `Porta con te la memoria del lago.`,
-      translation: `Ta med dig minnet av sjön.`
+      translation: `Carry with you the memory of the lake.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `E se Britannia deve bruciare`,
-      translation: `Och om Britannien måste brinna`
+      translation: `And if Britain must burn`
     },
     {
       type: "line",
@@ -5146,14 +5067,12 @@ anche mentre temo ciò che diventerai.`,
 
 allora che gli dèi
 abbiano pietà di noi tutti.`,
-      translation: `för att minnas sitt namn…
+      translation: `to remember its own name…
 
-må gudarna då
-förbarma sig över oss alla.`
+then may the gods
+have mercy on us all.`
     }
   ]
-
-
 },
 act2_10: {
   menuTitle: " Dopo l’Ultima Voce del Lago",
@@ -5162,7 +5081,7 @@ act2_10: {
   blocks: [
     {
       type: "scene",
-      title: "Akt II — Scen 10 - Efter sjöns sista röst",
+      title: "Act II — Scene X - After the Lake's Final Voice",
       content: ""
     },
     {
@@ -5193,38 +5112,38 @@ E il sangue di Britannia
 si chiuderà sopra le colline di Camlann
 come pioggia sopra terra antica.
 `,
-      translation: `I natt är sjön tyst.
+      translation: `Tonight the lake is silent.
 
-Ingen röst i dimman.
-Ingen sång under vattnet.
-Till och med vinden
-verkar ha lagt ner sin tyngd.
+No voice in the mist.
+No song beneath the water.
+Even the wind
+seems to have laid down its burden.
 
-Avalon har redan talat.
+Avalon has already spoken.
 
-Som barn fruktade jag tystnad.
-Nu förstår jag:
-det finns nätter
-då världen slutar fråga.
+As a child I feared silence.
+Now I understand:
+there are nights
+when the world stops asking questions.
 
-Och bara
-vad en man bestämmer sig för att
-ställas inför sitt öde återstår.
+And all that remains
+is what a man chooses to be
+when he stands before his destiny.
 
-Arthur kommer.
-Excalibur kommer.
+Arthur will come.
+Excalibur will come.
 
-Och Britanniens blod
-kommer att sluta sig över Camlanns kullar
-som regn över forntida land.`
+And the blood of Britain
+will close over the hills of Camlann
+like rain upon ancient earth.`
     },
     {
       type: "line",
-      voice: "Mordred + Kör",
+      voice: "Mordred + Choir",
       original: `Non provo odio.
 Non provo gloria.`,
-      translation: `Jag känner inget hat.
-Jag känner ingen ära.`
+      translation: `I feel no hatred.
+I feel no glory.`
     },
     {
       type: "line",
@@ -5236,17 +5155,17 @@ Ma Camelot ha camminato troppo lontano
 dalla voce della terra.
 E qualcuno doveva ascoltare
 quando Avalon chiamava ancora.`,
-      translation: `I en bättre värld
-skulle detta krig aldrig ha behövt födas.
+      translation: `In a better world,
+this war would never have needed to be born.
 
-Men Camelot har gått för långt
-från jordens röst.
-Och någon var tvungen att lyssna
-när Avalon fortfarande kallade.`
+But Camelot has strayed too far
+from the voice of the earth.
+And someone had to listen
+while Avalon still called.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -5256,22 +5175,22 @@ Le risate.
 Le mani calde sul tavolo d’inverno.
 
 Ho amato Camelot.`,
-      translation: `Jag minns de upplysta salarna.
-Skrattet.
-De varma händerna på vinterbordet.
+      translation: `I remember the lighted halls.
+The laughter.
+Warm hands upon the winter table.
 
-Jag älskade Camelot.`
+I loved Camelot.`
     },
     {
       type: "line",
       voice: "Mordred",
-      note: "viskande",
+      note: "whispering",
       original: `Dio…
 
 l’ho amata davvero.`,
-      translation: `Gud…
+      translation: `God…
 
-Jag älskade det verkligen.`
+I truly loved it.`
     },
     {
       type: "line",
@@ -5289,37 +5208,37 @@ finché non sentono il suo respiro vicino.
 
 E stanotte…
 io la vedo chiaramente.`,
-      translation: `Kanske är det
-det som gör ödet så tungt:
-att behöva såra det som
-en gång verkade som ett hem.
+      translation: `Perhaps this is
+what makes destiny so heavy:
+having to wound
+what once felt like home.
 
-Jag fruktar inte längre döden.
+I no longer fear death.
 
-Döden är bara en dörr
-som människor låtsas inte se
-tills de känner dess andedräkt nära.
+Death is only a door
+that men pretend not to see
+until they feel its breath draw near.
 
-Och ikväll…
-ser jag det tydligt.`
+And tonight…
+I see it clearly.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Avalon non mi ha promesso vittoria.`,
-      translation: `Avalon lovade mig inte seger.`
+      translation: `Avalon promised me no victory.`
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Non mi ha promesso salvezza.`,
-      translation: `Inte lovat mig någon frälsning.`
+      translation: `It promised me no salvation.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Mi ha promesso soltanto`,
-      translation: `Bara lovat mig`
+      translation: `It promised me only`
     },
     {
       type: "line",
@@ -5341,23 +5260,23 @@ Stanotte il lago tace.
 E la mia anima
 finalmente
 conosce la pace.`,
-      translation: `att Britannien skulle komma ihåg
-sitt förlorade namn.
+      translation: `that Britain would remember
+its lost name.
 
-Om jag måste falla för att det ska hända,
-då lämnar jag mitt blod
-till dimman,
-till sjön,
-och till de uråldriga kullarna.
+If I must fall for that to happen,
+then I leave my blood
+to the mist,
+to the lake,
+and to the ancient hills.
 
-Ty vissa sanningar
-kostar mer än människors liv.
+For some truths
+cost more than the lives of men.
 
-Ikväll är sjön tyst.
+Tonight the lake is silent.
 
-Och min själ
-äntligen
-känner frid.`
+And my soul
+at last
+knows peace.`
     }
   ]
 
@@ -5367,11 +5286,11 @@ känner frid.`
 
 
     act3: {
-      menuTitle: "Akt III",
-      title: "Akt III",
-      text: `Fall, sorg, legend.
+      menuTitle: "Act III",
+      title: "Act III",
+      text: `Fall, sorrow, legend.
 
-      Dimman sluter sig.
+      The Mists close.
       `,
       showPlaceholder: false
     },
@@ -5386,12 +5305,12 @@ känner frid.`
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 1 - Camlann",
+      title: "Act III — Scene I - Camlann",
       content: ""
     },
     {
       type: "line",
-      voice: "Försångare och Kör",
+      voice: "Lead singer and Choir",
       original: `Pioggia sopra Camlann.
 Fango sopra il sangue.
 Nebbia sopra gli stendardi spezzati.
@@ -5485,94 +5404,94 @@ Avalon…
 Avalon…
 Avalon…
 Avalon…`,
-      translation: `Regn över Camlann.
-Gyttja över blodet.
-Dimma över de trasiga fanorna.
+      translation: `Rain over Camlann.
+Mud over blood.
+Mist over the broken banners.
 
-Britannien håller andan.
+Britain holds its breath.
 
-Bröder mot bröder.
-Samma eder.
-Samma böner.
-Samma gravar.
+Brother against brother.
+The same oaths.
+The same prayers.
+The same graves.
 
-För Arthur!
-— För Avalon!
-För Camelot!
-— För Britannien!
+For Arthur!
+— For Avalon!
+For Camelot!
+— For Britain!
 
-Och himlen väljer inte mellan män.
+And heaven chooses no side among men.
 
-Jag har kämpat vid hans sida i tjugo år!
-— Och nu höjer jag mitt svärd mot hans ansikte!
+I fought beside him for twenty years!
+— And now I raise my blade against his face!
 
-Vart har de upplysta salarna tagit vägen?
-— Vart har löftena om fred tagit vägen?
+Where have the lighted halls gone?
+— Where have the promises of peace gone?
 
-Vinden bär bara aska!
-— Och namn ropade i leran!
-
-Avalon…
-Avalon…
-Avalon…
-
-Hästar halkar i blod.
-Spjut faller brutna.
-Sköldar sjunker ner i den våta jorden.
-
-Och ändå stannar ingen.
-
-För vissa krig
-fortsätter även efter att drömmar dör.
-
-Arthur avancerar i regnet!
-Mordred passerar genom dimman!
-
-Excalibur lyser fortfarande
-som den sista elden i den antika världen!
-
-Och Britannien ser
-sina barn
-slakta varandra under den grå himlen.
-
-Jag hör inte längre orderna!
-— Jag ser inte längre insignierna!
-
-Gud förbarma dig över oss!
-— Avalon förbarma dig över oss!
-
-För sent…
-För sent…
-
-Camelot faller
-inte i elden…
-utan i tyngden av sina egna sår.
-
-Regnet fortsätter.
-Leran fortsätter.
-Skriken tystnar.
-
-Och ingen sjunger seger.
-
-För här slutar något
-äldre än kungar.
-Mer bräckligt än murar.
-Mer heligt än svärd.
-
-Här förlorar Britannien
-sitt hjärta.
+The wind carries nothing but ashes!
+— And names shouted into the mud!
 
 Avalon…
 Avalon…
 Avalon…
+
+Horses slip in blood.
+Spears fall broken.
+Shields sink into the sodden earth.
+
+And still no one stops.
+
+For some wars
+continue even after dreams have died.
+
+Arthur advances through the rain!
+Mordred moves through the mist!
+
+Excalibur still shines
+like the last fire of the ancient world!
+
+And Britain watches
+its own children
+slaughter one another beneath the grey sky.
+
+I can no longer hear the orders!
+— I can no longer see the banners!
+
+God have mercy on us!
+— Avalon have mercy on us!
+
+Too late…
+too late…
+
+Camelot falls
+not in fire…
+but beneath the weight of its own wounds.
+
+The rain continues.
+The mud remains.
+The screams fade into silence.
+
+And no one sings of victory.
+
+For here something ends
+older than kings.
+More fragile than walls.
+More sacred than swords.
+
+Here Britain
+loses its heart.
+
+Avalon…
+Avalon…
+Avalon…
 Avalon…
 
-Regn över Camlann.
-Dimma över de döda.
+Rain over Camlann.
+Mist over the dead.
 
-Och den antika världen
-stängs sakta
-som en dörr i natten.
+And the ancient world
+slowly closes
+like a door in the night.
 
 Avalon…
 Avalon…
@@ -5591,7 +5510,7 @@ act3_2: {
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 2 - Excaliburs låga",
+      title: "Act III — Scene II - The Flame of Excalibur",
       content: ""
     },
     {
@@ -5643,55 +5562,55 @@ Dio…
 non aveva più forza
 per desiderare la vittoria.
 `,
-      translation: `Regnet faller fortfarande över Camlann.
+      translation: `The rain still falls over Camlann.
 
-För många döda.
-För många namn förlorade i leran.
+Too many dead.
+Too many names lost in the mud.
 
-Och jag…
-Jag ville inte komma till denna punkt.
+And I…
+I never wanted it to come to this.
 
-I timmar förblev jag långt från stridens hjärta.
-Lämnade åt mina riddare
-vad en far inte borde se.
+For hours I stayed far from the heart of the battle,
+leaving to my knights
+what no father should have to see.
 
-Jag fortsatte hoppas
-att Mordred skulle sluta.
-Att ett ord skulle räcka.
-En gest.
-Ett sista fragment av kärlek
-lämnat vid liv mitt i blodet.
+I kept hoping
+that Mordred would stop.
+That one word might be enough.
+A gesture.
+One final fragment of love
+still alive amid the blood.
 
-Då såg jag hans rustning.
+Then I saw his armour.
 
-Svart som den forntida natten.
-Omättlig.
-Orubblig under männens järn.
+Black as the ancient night.
+Immense.
+Unmoving beneath the iron of men.
 
-Spjuten bröt mot honom
-som vågor mot en klippa.
-Svärden föll värdelöst ner i leran.
+Spears shattered against him
+like waves against a cliff.
+Swords fell useless into the mud.
 
-Och sedan förstod jag.
+And then I understood.
 
 Avalon.
 
-Ingen riddare kunde stoppa honom.
-Ingen dödlig hand.
-Ingen armé.
+No knight could have stopped him.
+No mortal hand.
+No army.
 
-Bara Excalibur återstod.
-Bara kungen återstod.
+Only Excalibur remained.
+Only the King remained.
 
-Och mitt hjärta…
-Gud…
+And my heart…
+God…
 
-hade inte mer styrka
-att önska seger.`
+had no strength left
+to wish for victory.`
     },
      {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -5763,72 +5682,72 @@ E il mio cuore…
 finalmente…
 conosce la stanchezza del re.
 `,
-      translation: `Han tittade på mig genom regnet
-utan hat.
-Nästan med sorg.
+      translation: `He looked at me through the rain
+without hatred.
+Almost with sorrow.
 
-Som en man
-som ser sitt hus falla sönder
-och ändå fortsätter att gå framåt.
+Like a man
+who sees his own house collapsing
+and still keeps moving forward.
 
-Och i det ögonblicket
-förstod jag den grymmaste sanningen:
+And in that moment
+I understood the cruelest truth:
 
-Mordred, också
-försökte rädda något.
+Mordred too
+was trying to save something.
 
-Men ödet öppnar inte dörrar.
-Det stänger dem.
+But destiny does not open doors.
+It closes them.
 
-Således steg Excalibur
-likt solen i en storm.
+And so Excalibur rose
+like the sun within the storm.
 
-Och den uråldriga elden
-kände äntligen igen
-drakens smedja.
+And the ancient fire
+at last recognised
+the Dragon's forge.
 
-Bladet genomborrade rustningen
-i ett vitt ljus
-starkare än dagen.
+The blade passed through the armour
+in a white light
+fiercer than day.
 
-Och min sons hjärta
-bröt mot mitt namn.
+And my son's heart
+broke against my name.
 
-Sedan…
-tittade jag ner.
+Then…
+I looked down.
 
-Och jag såg hans spjut
-passera genom min sida
-som vinter genom levande kött.
+And I saw his spear
+pass through my side
+like winter entering living flesh.
 
-Så slutar Camelot.
+Thus Camelot ends.
 
-Inte i triumf.
-Inte i ära.
+Not in triumph.
+Not in glory.
 
-Utan i det ögonblick
-då en far och son
-dödar varandra
-båda i tron
-att de räddar Britannien.
+But in the moment
+when a father and a son
+kill one another,
+each believing
+he is saving Britain.
 
-Excalibur brinner fortfarande i regnet.
-Mordred faller ner i lera och tystnad.
-Och jag känner redan den antika världen
-röra sig från kullarna.
+Excalibur still burns in the rain.
+Mordred falls among mud and silence.
+And already I can feel the ancient world
+withdrawing from the hills.
 
-Kanske hade ingen av oss
-verkligen fel.
+Perhaps neither of us
+was ever truly wrong.
 
-Kanske hade tiden helt enkelt kommit
-för Britannien att fälla sin hud
-i sina barns blod.
+Perhaps the time had simply come
+for Britain to shed its skin
+in the blood of its children.
 
-Regnet fortsätter över Camlann.
+The rain continues over Camlann.
 
-Och mitt hjärta…
-slutligen…
-känner kungens trötthet.`
+And my heart…
+at last…
+knows the weariness of the King.`
     }
   ]
 
@@ -5841,27 +5760,26 @@ act3_3: {
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 3 - Ta det försiktigt!",
+      title: "Act III — Scene III - Carry Him Gently",
       content: ""
     },
     {
       type: "line",
       voice: "Guinevere",
       original: `Perché le campane suonano così lente?
-
 Perché nessuno parla?
 
 Apri le porte…
 Fate spazio…
+
 Il re ritorna…
 
 No…
-
 No…
-
 No!!
 
 Portatelo piano!
+
 Dio…
 portatelo piano!
 
@@ -5869,13 +5787,14 @@ Le sue mani…
 sono fredde…
 
 Arthur!
-
 Arthur, guardami!
+
 Sono qui!
 Sono qui!
 
 Per anni ho temuto
 questo momento senza nome.
+
 Questa ferita silenziosa
 cresciuta dentro le nostre sale.
 
@@ -5900,63 +5819,63 @@ E adesso tutto ciò che resta
 è questa distanza terribile
 fra il tuo respiro
 e le mie mani.`,
-      translation: `Varför ringer klockorna så långsamt?
+      translation: `Why do the bells ring so slowly?
+Why does no one speak?
 
-Varför talar ingen?
+Open the gates…
+Make way…
 
-Öppna dörrarna…
-Gör plats…
-Kungen återvänder…
+The King returns…
 
-Nej…
+No…
+No…
+No!!
 
-Nej…
+Carry him gently!
 
-Nej!!
+God…
+carry him gently!
 
-Bär honom försiktigt!
-Gud…
-bär honom mjukt!
-
-Hans händer…
-är kalla…
+His hands…
+are cold…
 
 Arthur!
+Arthur, look at me!
 
-Arthur, titta på mig!
-Jag är här!
-Jag är här!
+I'm here!
+I'm here!
 
-I åratal har jag fruktat
-detta namnlösa ögonblick.
-Detta tysta sår
-som vuxit inuti våra hallar.
+For years I have feared
+this nameless moment.
 
-Men ingen förbjuden dröm,
-ingen stulen sötma,
-är värd tyngden
-av att se dig så här.
+This silent wound
+that grew within our halls.
+
+But no forbidden dream,
+no stolen sweetness,
+is worth the burden
+of seeing you like this.
 
 Arthur…
-min kärlek…
+my love…
 
-Jag älskade dig
-även när tystnaden
-sprider sig mellan oss
-som vintern över sjön.
+I loved you
+even when silence
+spread between us
+like winter upon the lake.
 
-Jag älskade dig
-även medan mitt hjärta
-var förlorat i någon annans ljus.
+I loved you
+even while my heart
+lost itself in another's light.
 
-Och nu är allt som återstår
-detta fruktansvärda avstånd
-mellan din andedräkt
-och mina händer.`
+And now all that remains
+is this terrible distance
+between your breath
+and my hands.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -5998,6 +5917,7 @@ ha mai amato Britannia
 con tanta dolcezza e dolore insieme.
 
 Resta ancora un poco.
+
 Non lasciare che Camelot
 diventi soltanto pietra e pioggia.
 
@@ -6006,69 +5926,65 @@ sola fra queste mura
 piene dei nostri fantasmi.
 
 Arthur…
-
 se esiste ancora misericordia
 oltre il sangue e le corone…
 
 allora aspettami
 dall’altra parte del silenzio.
 `,
-      translation: `Camelots salar ekar tomma.
-Riddarna sänker sina ögon.
-Till och med facklorna verkar darra
-som skrämda varelser.
+      translation: `The halls of Camelot echo empty.
+The knights lower their eyes.
+Even the torches seem to tremble
+like frightened creatures.
 
-Och jag…
-Jag ser äntligen
-hur trött du var.
+And I…
+at last I see
+how weary you were.
 
-Hur mycket tyngd du bar
-bakom varje leende du erbjöd kungariket.
+How much weight you carried
+behind every smile you offered the kingdom.
 
-Jag borde ha hållit dig hårdare.
-Jag var tvungen att prata med dig innan tystnaden
-blev en vägg.
+I should have held you more tightly.
+I should have spoken to you before silence
+became a wall.
 
-Men människor lär sig kärlekens värde
-först när ödet
-börjar slita bort det.
-
-Arthur…
-förlåt mig…
-
-Förlåt mig för varje blick som hålls tillbaka.
-För varje sanning som lämnats kvar för att dö i mitt hjärta.
-För varje källa som sökts någon annanstans
-medan du byggde fred för hela världen.
-
-Och ändå har ingen man
-någonsin känt mig
-som du har.
-
-Ingen man
-har någonsin älskat Britannien
-med sådan sötma och smärta tillsammans.
-
-Stanna lite längre.
-Låt inte Camelot
-bli till ingenting annat än sten och regn.
-
-Lämna mig inte
-ensam inom dessa murar
-fyllda med våra spöken.
+But men learn the value of love
+only when destiny
+begins to tear it away.
 
 Arthur…
+forgive me…
 
-Om det fortfarande finns nåd
-bortom blod och kronor…
+Forgive me for every glance left unspoken.
+For every truth left to die within my heart.
+For every spring I sought elsewhere
+while you built peace for the whole world.
 
-Vänta då på mig
-på andra sidan tystnaden.
-`
+Yet no man
+has ever truly known me
+as you did.
+
+No man
+has ever loved Britain
+with such tenderness and sorrow together.
+
+Stay a little longer.
+
+Do not let Camelot
+become nothing but stone and rain.
+
+Do not leave me
+alone within these walls
+filled with our ghosts.
+
+Arthur…
+if mercy still exists
+beyond blood and crowns…
+
+then wait for me
+on the other side of silence.`
     }
   ]
-
-
 },
 act3_4: {
   menuTitle: " Notte senza risposta",
@@ -6077,8 +5993,8 @@ act3_4: {
   blocks: [
     {
       type: "scene",
-      title: "Akt IV — Scen - Natt utan svar",
-      content: "Morgaine ensam på kammaren.(?)"
+      title: "Act IV — Scene IV - Night Without an Answer",
+      content: "Morgaine alone in her chamber."
     },
     {
       type: "line",
@@ -6088,10 +6004,10 @@ act3_4: {
 io tendo le mani e non stringo che vento.
 Nel sangue ho custodito il tuo nome segreto,
 e adesso tremo sola davanti al silenzio.`,
-      translation: `Svarlös natt, himmelens sten,
-Jag sträcker ut mina händer och håller endast vinden.
-I mitt blod har jag vaktat ditt hemliga namn,
-och nu darrar jag ensam inför tystnaden.`
+      translation: `Answerless night, stone of heaven,
+I reach out my hands and grasp only the wind.
+Within my blood I have guarded your secret name,
+and now I tremble alone before the silence.`
     },
     {
       type: "line",
@@ -6102,12 +6018,12 @@ Ogni mia speranza, ferita e vigilante,
 ha cercato un segno sopra il fiume nero.
 Se tutto cade, se tutto ritorna polvere,
 dimmi perché questo cuore non muore.`,
-      translation: `Jag har sett fältet böja sig till askan,
-vaggan tom, dörren kvar.
-Alla mina hopp, sårade och vaksamma,
-har sökt efter ett tecken ovanför den svarta floden.
-Om allt faller, om allt återvänder till stoft,
-säg mig varför detta hjärta inte dör.`
+      translation: `I have seen the field bend beneath the ashes,
+the cradle emptied, the doorway left standing.
+Every hope of mine, wounded yet watchful,
+has searched for a sign above the black river.
+If everything falls, if everything returns to dust,
+tell me why this heart does not die.`
     },
     {
       type: "line",
@@ -6116,10 +6032,10 @@ säg mig varför detta hjärta inte dör.`
 come fiamma stretta fra due mani nude.
 Non mi lascia sprofondare nella terra,
 non mi lascia benedire la rovina.`,
-      translation: `Det finns en röst i mitt bröst som gör motstånd,
-likt en låga som hålls mellan två bara händer.
-Den låter mig inte sjunka ner i jorden,
-den låter mig inte välsigna förfallet.`
+      translation: `There is a voice within my breast that resists,
+like a flame held between two bare hands.
+It will not let me sink into the earth,
+it will not let me bless the ruin.`
     },
     {
       type: "line",
@@ -6132,14 +6048,14 @@ Se non sei, chi raccoglie la mia cenere?
 Se non sei, perché ti chiamo ancora?
 Rispondi al vuoto che mi prende il fiato:
 devi esistere, o cado anch'io.`,
-      translation: `Du måste existera bortom tårarna och stormen,
-bortom dagarnas järn, bortom farväl.
-Du måste leva där ögat inte kan nå,
-likt en källa inlåst i berget.
-Om du inte är det, vem samlar min aska?
-Om du inte är det, varför kallar jag fortfarande på dig?
-Svara på tomrummet som tar min andedräkt:
-Du måste existera, annars faller även jag.`
+      translation: `You must exist beyond the tears and the storm,
+beyond the iron of the days, beyond farewell.
+You must live where the eye cannot reach,
+like a spring sealed within the rock.
+If you are not there, who will gather my ashes?
+If you are not there, why do I still call to you?
+Answer the emptiness that steals my breath:
+you must exist, or I too shall fall.`
     },
     {
       type: "line",
@@ -6150,12 +6066,12 @@ Prendi la mia superbia, spezza la mia paura,
 ma non lasciare cieca questa sete.
 Fa' che il dolore non sia solo dolore,
 fa' che la perdita non sia legge eterna.`,
-      translation: `Jag ber om inga kronor eller vila,
-Jag vill inte ha något guld, jag vill inte ha något medlidande.
-Ta min stolthet, bryt min rädsla,
-men lämna inte denna törst blind.
-Låt smärta inte bara vara smärta,
-låt förlust inte vara en evig lag.`
+      translation: `I ask for neither crowns nor rest,
+I want no gold, I want no pity.
+Take my pride, break my fear,
+but do not leave this thirst blind.
+Let pain be more than pain alone,
+let loss not become an eternal law.`
     },
     {
       type: "line",
@@ -6168,14 +6084,14 @@ Se tu respiri, anche la morte trema,
 se tu mi guardi, la notte si apre.
 Strappa dal nulla il nome della vita:
 devi esistere, devi esistere.`,
-      translation: `Du måste existera bortom tårarna och stormen,
-bortom dagarnas järn, bortom farväl.
-Du måste brinna som dom och omfamna,
-som en stjärna gömd bakom röken.
-Om du andas, darrar även döden,
-om du ser på mig, öppnar sig natten.
-Ryck livets namn ur intet:
-Du måste existera, du måste existera.`
+      translation: `You must exist beyond the tears and the storm,
+beyond the iron of the days, beyond farewell.
+You must burn like judgement and like an embrace,
+like a star hidden behind the smoke.
+If you breathe, even death trembles;
+if you look upon me, the night opens.
+Tear the name of life from nothingness:
+you must exist, you must exist.`
     },
     {
       type: "line",
@@ -6185,14 +6101,13 @@ resta nel cuore che non sa mentire.
 Finché avrò voce, finché avrò ferite,
 ti cercherò.
 Devi esistere.`,
-      translation: `Förbli i mörkret som det sista ljuset,
-förbli i hjärtat som inte kan ljuga.
-Så länge jag har en röst, så länge jag har sår,
-ska jag leta efter dig.
-Du måste existera.`
+      translation: `Remain in the darkness as the final light,
+remain within the heart that cannot lie.
+As long as I have a voice, as long as I bear wounds,
+I will search for you.
+You must exist.`
     }
   ]
-
 
 
 },
@@ -6203,7 +6118,7 @@ act3_5: {
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 5 - Den sista resan till Avalon",
+      title: "Act III — Scene V - The Final Passage to Avalon",
       content: ""
     },
     {
@@ -6253,50 +6168,50 @@ dal corpo di un figlio morto.
 Così finiscono le leggende:
 non con il tuono…
 ma con la stanchezza.`,
-      translation: `Regnet har nästan utplånat namnen.
+      translation: `The rain has almost erased the names.
 
-Camlann sover under lera och blod,
-som om jorden själv
-ville blunda
-för vad män har gjort.
+Camlann sleeps beneath mud and blood,
+as though the earth itself
+wished to close its eyes
+to what men have done.
 
-För många bekanta ansikten.
-För många brutna eder.
+Too many familiar faces.
+Too many broken oaths.
 
-Och Britannien…
-Britannien är äntligen tyst.
+And Britain…
+Britain is silent at last.
 
-Ingen mer ilska finns kvar.
-Ingen mer ära finns kvar.
+No anger remains.
+No glory remains.
 
-Bara tyngden
-av det som aldrig kommer att återvända.
+Only the weight
+of what will never return.
 
 
-Där är du.
+There you are.
 
 Excalibur.
 
-Fortfarande fast i pojkens kropp
-som en sol fängslad i kött.
+Still lodged in the boy's body,
+like a sun imprisoned in flesh.
 
 Mordred…
 
-stackars dimmans son.
+poor son of the mist.
 
-Du ville rädda en dröm
-som män redan hade förtärt.
+You wanted to save a dream
+that men had already consumed.
 
-En gång väntade denna klinga
-i stenen
-som ett löfte.
+Once this blade
+waited within the stone
+like a promise.
 
-Nu glider den bort utan motstånd
-från en död sons kropp.
+Now it slips free without resistance
+from the body of a dead son.
 
-Sådana slutar legenderna:
-inte med åska...
-utan med trötthet.`
+So legends end:
+not with thunder…
+but with weariness.`
     },
     {
       type: "line",
@@ -6304,50 +6219,50 @@ utan med trötthet.`
       original: `Guarda…
 
 la forgia del drago`,
-      translation: `Se…
+      translation: `Look…
 
-drakens smedja`
+the Dragon's forge`
     },
     {
       type: "line",
       voice: "Merlin",
-      note: "lågt, talat",
+      note: "low, spoken",
       original: `ricuce lentamente il ferro spezzato.`,
-      translation: `lagar långsamt det trasiga järnet.`
+      translation: `slowly mends the broken iron.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Ma nessuna magia antica`,
-      translation: `Men ingen uråldrig magi`
+      translation: `But no ancient magic`
     },
     {
       type: "line",
       voice: "Merlin",
-      note: "lågt, talat",
+      note: "low, spoken",
       original: `ricuce il cuore degli uomini.`,
-      translation: `lagar människors hjärtan.
+      translation: `can mend the hearts of men.
 `
     },
     {
       type: "line",
-      voice: "Merlin + Kör",
+      voice: "Merlin + Choir",
       original: `Il lago mi aspetta ancora.`,
-      translation: `Sjön väntar fortfarande på mig.`
+      translation: `The lake is still waiting for me.`
     },
     {
       type: "line",
       voice: "Merlin",
       original: `Non è più la mia forza
 ad aprire il passaggio.`,
-      translation: `Det är inte längre min styrka
-som öppnar passagen.`
+      translation: `It is no longer my strength
+that opens the passage.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Non più.`,
-      translation: `Inte längre.`
+      translation: `No longer.`
     },
     {
       type: "line",
@@ -6355,9 +6270,9 @@ som öppnar passagen.`
       original: `Io sento Avalon
 come si sente il mare
 dopo aver vissuto troppo lontano dalla costa.`,
-      translation: `Jag känner Avalon
-som man känner havet
-efter att ha bott för långt från stranden.`
+      translation: `I feel Avalon
+as one feels the sea
+after living too long far from the shore.`
     },
     {
       type: "line",
@@ -6369,7 +6284,7 @@ Avalon…`
     },
     {
       type: "line",
-      voice: "Merline + Kör",
+      voice: "Merlin + Choir",
       original: `Questa sarà l’ultima traversata.
 L’ultima nebbia.
 L’ultimo custode.
@@ -6380,26 +6295,27 @@ con le proprie mura,
 le proprie corone,
 e le proprie guerre.
 `,
-      translation: `Detta blir den sista övergången.
-Den sista dimman.
-Den sista väktaren.
+      translation: `This will be the final crossing.
+The final mist.
+The final guardian.
 
-Efter ikväll
-kommer männen att lämnas ensamma
-med sina murar,
-sina kronor
-och sina krig.`
+After tonight
+men will be left alone
+with their walls,
+their crowns,
+and their wars.
+`
     },
     {
       type: "line",
       voice: "Merlin",
-      note: "lågt, talat",
+      note: "low, spoken",
       original: `E forse è giusto così.`,
-      translation: `Och kanske är det rätt så här.`
+      translation: `And perhaps that is how it should be.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -6413,21 +6329,21 @@ Dovrei voltarmi?
 
 Dovrei guardare ancora
 le colline di Britannia?`,
-      translation: `Dimman öppnar sig igen.
-Tyst.
-Uråldrig.
-Så trött som jag är.
+      translation: `The mist opens once more.
+Silent.
+Ancient.
+As weary as I am.
 
-Ska jag vända mig om?
+Should I turn back?
 
-Ska jag titta igen
-på Britanniens kullar?`
+Should I look once more
+upon the hills of Britain?`
     },
     {
       type: "line",
-      voice: "Sjön",
+      voice: "Lake",
       original: `No.`,
-      translation: `Nej.
+      translation: `No.
 `
     },
     {
@@ -6436,9 +6352,9 @@ på Britanniens kullar?`
       original: `Il mondo dovrà imparare
 a vivere senza la mia mano
 sopra il suo destino.`,
-      translation: `Världen måste lära sig
-att leva utan min hand
-över sitt öde.`
+      translation: `The world must learn
+to live without my hand
+upon its destiny.`
     },
     {
       type: "line",
@@ -6446,23 +6362,23 @@ att leva utan min hand
       original: `Ho custodito il fuoco abbastanza a lungo.
 Ho ascoltato le pietre.
 Ho parlato col drago.`,
-      translation: `Jag har vaktat elden tillräckligt länge.
-Jag har lyssnat på stenarna.
-Jag har talat med draken.`
+      translation: `I have guarded the fire long enough.
+I have listened to the stones.
+I have spoken with the Dragon.`
     },
     {
       type: "line",
       voice: "Merlin",
       original: `Ho tenuto aperta la porta
 fra gli uomini e il mistero.`,
-      translation: `Jag har hållit dörren öppen
-mellan människorna och mysteriet.`
+      translation: `I have kept the door open
+between men and the mystery.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Ora la porta si chiude.`,
-      translation: `Nu stängs dörren.`
+      translation: `Now the door closes.`
     },
     {
       type: "line",
@@ -6470,9 +6386,9 @@ mellan människorna och mysteriet.`
       original: `E Avalon richiama a sé
 gli ultimi frammenti
 del mondo antico`,
-      translation: `Och Avalon kallar tillbaka
-de sista fragmenten
-av den antika världen.`
+      translation: `And Avalon calls back to itself
+the final fragments
+of the ancient world`
     },
     {
       type: "line",
@@ -6486,19 +6402,19 @@ Avalon…
     },
     {
       type: "line",
-      voice: "Merlin + Kör",
+      voice: "Merlin + Choir",
       original: `Addio, Arthur.
 Addio, Britannia.`,
-      translation: `Farväl, Arthur.
-Farväl, Britannien.`
+      translation: `Farewell, Arthur.
+Farewell, Britain.`
     },
     {
       type: "line",
       voice: "Merlin",
       original: `Che gli uomini imparino finalmente
 a sognare senza di noi.`,
-      translation: `Må män äntligen lära sig
-att drömma utan oss`
+      translation: `May men at last learn
+to dream without us.`
     }
   ]
 
@@ -6511,7 +6427,7 @@ act3_6: {
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 6 - Dimman försvinner",
+      title: "Akt III — Scen VI - The Mists disappear",
       content: ""
     }
   ]
@@ -6525,7 +6441,7 @@ act3_7: {
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 7 - Britannien mellan oss två",
+      title: "Act III — Scene 7 - Britain Between Us",
       content: ""
     },
     {
@@ -6560,39 +6476,39 @@ Antiche acque.
 Le stesse che un tempo
 guarivano i re
 prima che gli uomini dimenticassero la terra.`,
-      translation: `Facklorna brinner sakta ut.
+      translation: `The torches are slowly burning out.
 
-Till och med Camelot
-verkar rädd för tystnaden
-som kommer in i dessa rum.
+Even Camelot
+seems afraid of the silence
+entering these rooms.
 
 Arthur…
 
-Så äntligen lämnar ödet
-oss ifred.
+So at last destiny
+leaves us alone.
 
-Inga rådgivare.
-Inga riddare.
-Inga kronor.
+No counsellors.
+No knights.
+No crowns.
 
-Bara jag…
-och min bror
-vid världens ände.
+Only me…
+and my brother
+at the end of the world.
 
-Tala inte.
-Slösa inte bort den lilla andedräkt som återstår.
+Do not speak.
+Do not waste the little breath that remains.
 
-Jag tog med mig något mot smärtan.
+I brought something for the pain.
 
-Uråldriga örter.
-Uråldriga vatten.
-Samma som en gång
-helade kungar
-innan människorna glömde jorden.`
+Ancient herbs.
+Ancient waters.
+The same ones that once
+healed kings
+before men forgot the earth.`
     },
-       {
+    {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -6609,39 +6525,40 @@ Finalmente riposi.
 Dio…
 era da anni
 che non vedevo pace sul tuo volto.`,
-      translation: `Ja…
+      translation: `Yes…
 
-så där.
+like that.
 
-Nu ser jag det.
-Plågan lämnar långsamt dina ögon.
+Now I see it.
+The torment is slowly leaving your eyes.
 
-Du vilar äntligen.
+At last you can rest.
 
-Gud…
-det har gått år
-sen jag såg frid i ditt ansikte.`
+God…
+it has been years
+since I saw peace upon your face.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Non chiedermi perdono.
 Non oggi.`,
-      translation: `Be mig inte om förlåtelse.
-Inte idag.`
+      translation: `Do not ask me for forgiveness.
+Not today.`
     },
     {
       type: "line",
       voice: "Morgaine",
       original: `Perché non rinnegherò Avalon.`,
-      translation: `För jag kommer inte att förneka Avalon.`
+      translation: `For I will not renounce Avalon.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Non rinnegherò Britannia.`,
-      translation: `Jag kommer inte att förneka Britannien.`
-    },{
+      translation: `I will not renounce Britain.`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Non rinnegherò ciò che cercavo di salvare.
@@ -6651,36 +6568,37 @@ questo sangue…
 questa rovina…
 
 non era ciò che desideravo per te.`,
-      translation: `Jag kommer inte att förneka det jag försökte rädda.
+      translation: `I will not renounce what I tried to save.
 
-Men detta…
-detta blod…
-denna ruin…
+But this…
+this blood…
+this ruin…
 
-var inte vad jag önskade dig.`
+was not what I wished for you.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Fra noi due è morta Britannia.`,
-      translation: `Mellan oss två har Britannien dött.`
-    },{
+      translation: `Between the two of us, Britain has died.`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Fra il tuo sogno di ordine
 e il mio sogno di mistero,
 la terra si è spezzata
 come ghiaccio sotto il sole.`,
-      translation: `Mellan din dröm om ordning
-och min dröm om mysterium
-har jorden spruckit
-som is under solen.`
+      translation: `Between your dream of order
+and my dream of mystery,
+the land has broken
+like ice beneath the sun.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Eppure nessun uomo`,
-      translation: `Och ändå har ingen människa`
+      translation: `And yet no man`
     },
     {
       type: "line",
@@ -6713,60 +6631,62 @@ la pioggia si ferma.
 Perfino il cielo
 sembra stanco di piangere.
 `,
-      translation: `någonsin burit kronans tyngd
-så försiktigt.
+      translation: `has ever borne the weight of the crown
+with such gentleness.
 
-Ingen människa
-har någonsin älskat sitt folk
-till den grad att den blivit fullständigt utmattad.
+No man
+has ever loved his people
+until there was nothing left of himself.
 
 
-Kanske var vi båda för gamla.
+Perhaps we were both too ancient.
 
-Du föddes för en värld
-som människor ännu inte förtjänade.
-Jag föddes för en
-som redan höll på att blekna.
+You were born for a world
+that men did not yet deserve.
+I was born for one
+that was already fading.
 
-Och Britannien…
-stackars Britannien…
+And Britain…
+poor Britain…
 
-har bett oss att välja
-mellan två halvor av samma själ.
+asked us to choose
+between two halves of the same soul.
 
-Titta…
+Look…
 
-regnet slutar.
+the rain is stopping.
 
-Till och med himlen
-verkar trött på att gråta.`
+Even heaven
+seems weary of weeping.
+`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Riposa ora, Arthur.
 
 Lascia che siano altri`,
-      translation: `Vila nu, Arthur.
+      translation: `Rest now, Arthur.
 
-Låt andra`
-    },{
+Let others`
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `a costruire nuove guerre,
 nuove chiese,
 nuove menzogne.`,
-      translation: `bygga nya krig,
-nya kyrkor,
-nya lögner.`
+      translation: `build new wars,
+new churches,
+new lies.`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `Tu hai già dato abbastanza sangue
 a questa terra affamata di re.`,
-      translation: `Du har redan gett tillräckligt med blod
-till detta kungahungriga land.`
+      translation: `You have already given enough blood
+to this land hungry for kings.`
     },
     {
       type: "line",
@@ -6774,14 +6694,15 @@ till detta kungahungriga land.`
       original: `E se Avalon esiste ancora
 oltre nebbia e memoria…
 `,
-      translation: `Och om Avalon fortfarande existerar
-bortom dimma och minne...`
+      translation: `And if Avalon still exists
+beyond mist and memory…
+`
     },
     {
       type: "line",
-      voice: "Morgaine + Kör",
+      voice: "Morgaine + Choir",
       original: `allora forse un giorno`,
-      translation: `då kanske du en dag`
+      translation: `then perhaps one day`
     },
     {
       type: "line",
@@ -6789,28 +6710,28 @@ bortom dimma och minne...`
       original: `capirai finalmente
 che non ho mai smesso
 di amarti come fratello.`,
-      translation: `äntligen förstår
-att jag aldrig slutade
-älska dig som en bror.`
+      translation: `you will finally understand
+that I never stopped
+loving you as my brother.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Dorme Camelot.`,
-      translation: `Camelot sover.`
+      translation: `Camelot sleeps.`
     },
     {
       type: "line",
       voice: "Morgaine",
-      note: "lågt, talat",
+      note: "low, spoken",
       original: `Dorme Britannia.`,
-      translation: `Britannien sover.`
+      translation: `Britain sleeps.`
     },
     {
       type: "line",
       voice: "Choir",
       original: `Dorme Britannia.`,
-      translation: `Britannien sover.`
+      translation: `Britain sleeps.`
     },
     {
       type: "line",
@@ -6818,14 +6739,11 @@ att jag aldrig slutade
       original: `E fra le mie mani
 il re lascia lentamente
 andare il mondo.`,
-      translation: `Och i mina händer
-släpper kungen långsamt
-världen lös.`
+      translation: `And in my hands
+the King slowly
+lets go of the world.`
     }
   ]
-
-  
-  
 
 
 },
@@ -6836,7 +6754,7 @@ act3_8: {
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 8 - Tyngden av att stanna",
+      title: "Act III — Scene VIII - The Weight of Remaining",
       content: ""
     },
     {
@@ -6846,6 +6764,7 @@ act3_8: {
 
 Nessun passo.
 Nessuna musica.
+
 Perfino gli arazzi
 sembrano pendere come lutto dalle pietre.
 
@@ -6853,8 +6772,11 @@ E io…
 sono ancora vivo.
 
 Arthur riposa sotto terra e leggenda.
+
 Merlin è svanito nella nebbia.
+
 Morgaine appartiene ormai al silenzio.
+
 Guinevere prega dietro mura lontane.
 
 E io resto qui.
@@ -6867,72 +6789,87 @@ Non esiste giudice più crudele
 del cuore che ricorda tutto.
 
 Ogni sala.
+
 Ogni sguardo trattenuto.
+
 Ogni silenzio lasciato crescere
 fino a diventare destino.
 
 Avrei dovuto partire anni fa.
 
 Quando l’amore era ancora soltanto luce.
+
 Quando Camelot rideva ancora
 senza sentire l’inverno nelle mura.
 
 Ma sono rimasto.
+
 Per Arthur.
+
 Per Britannia.
+
 Per quel sogno meraviglioso
 che credevo più forte degli uomini.
 
 E adesso porto dentro il petto
-le rovine di tutto ciò che ho amato.
-`,
-      translation: `Camelots salar är tomma.
+le rovine di tutto ciò che ho amato.`,
+      translation: `The halls of Camelot stand empty.
 
-Inga fotsteg.
-Ingen musik.
-Till och med gobelängerna
-tycks hänga som sorg från stenarna.
+No footsteps.
+No music.
 
-Och jag…
-lever fortfarande.
+Even the tapestries
+seem to hang like mourning from the stone.
 
-Arthur vilar under jord och legender.
-Merlin har försvunnit i dimman.
-Morgaine tillhör nu tystnaden.
-Guinevere ber bakom avlägsna murar.
+And I…
+am still alive.
 
-Och jag förblir här.
+Arthur rests beneath earth and legend.
 
-Som den siste mannen
-som lämnas vaken
-efter drömmens slut.
+Merlin has vanished into the mist.
 
-Det finns ingen grymmare domare
-än hjärtat som minns allt.
+Morgaine now belongs to silence.
 
-Varje sal.
-Varje blick som hålls tillbaka.
-Varje tystnad som lämnas att växa
-tills den blir öde.
+Guinevere prays behind distant walls.
 
-Jag borde ha lämnat för flera år sedan.
+And I remain.
 
-När kärleken fortfarande bara var ljus.
-När Camelot fortfarande skrattade
-utan att känna vintern inom dess väggar.
+Like the last man
+left awake
+after the dream has ended.
 
-Men jag stannade.
-För Arthur.
-För Britannien.
-För den underbara drömmen
-som jag trodde var starkare än män.
+There is no judge more merciless
+than the heart that remembers everything.
 
-Och nu bär jag inom mitt bröst
-ruinerna av allt jag älskade.`
+Every hall.
+
+Every lingering glance.
+
+Every silence allowed to grow
+until it became destiny.
+
+I should have left years ago.
+
+When love was still only light.
+
+When Camelot still laughed
+without feeling winter in its walls.
+
+But I stayed.
+
+For Arthur.
+
+For Britain.
+
+For that wondrous dream
+I believed was stronger than men.
+
+And now I carry within my breast
+the ruins of all I ever loved.`
     },
     {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
@@ -6946,6 +6883,7 @@ guardava gli uomini
 come se potessero ancora diventare migliori.
 
 E io…
+
 io gli ho portato dolore
 senza aver mai desiderato altro
 che proteggerlo.
@@ -6966,56 +6904,61 @@ quando il regno è caduto
 e la gloria si è trasformata in cenere?
 
 Resta il peso di respirare ancora.
+
 Resta il peso del mattino.
+
 Resta la memoria
 che continua a camminare accanto a te
-come fantasma senza pace.
-`,
-      translation: `Gud…
+come fantasma senza pace.`,
+      translation: `God…
 
-Vad bra han var.
+how good he was.
 
-Även i slutändan
-tittade han på män
-som om de fortfarande kunde bli bättre.
+Even in the end
+he looked upon men
+as though they could still become better.
 
-Och jag…
-Jag gav honom smärta
-utan att någonsin vilja något
-annat än att skydda honom.
+And I…
 
-Och Guinevere…
+I brought him sorrow
+without ever wishing for anything
+but to protect him.
 
-Nej.
+And Guinevere…
 
-Jag kommer inte att uttala hennes namn
-som män gör
-när de försöker förvandla ånger till poesi.
+No.
 
-Det som fanns mellan oss
-tillhör nu de döda.
+I will not speak her name
+as men do
+when they try to turn remorse into poetry.
 
-Vad återstår för en riddare
-när kungariket har fallit
-och äran har förvandlats till aska?
+What existed between us
+now belongs to the dead.
 
-Bördan av att fortfarande andas kvarstår.
-Bördan av morgonen kvarstår.
-Minnet kvarstår
-som fortsätter att vandra bredvid dig
-likt ett rastlöst spöke.
-`
+What remains to a knight
+when the kingdom has fallen
+and glory has turned to ash?
+
+The weight of still breathing remains.
+
+The weight of morning remains.
+
+Memory remains,
+still walking beside you
+like a ghost that knows no peace.`
     },
-     {
+    {
       type: "action",
-      content: "Orkesterpassage"
+      content: "Orchestral passage"
     },
     {
       type: "line",
       voice: "Lancelot",
-      note: "lågt, talat",
+      note: "low, spoken",
       original: `Forse questa è la vera punizione degli uomini:
+
 non morire con ciò che amano…
+
 ma sopravvivere abbastanza
 da vedere il mondo cambiare senza di loro.
 
@@ -7029,33 +6972,33 @@ Arthur…
 
 se esiste ancora una strada
 oltre nebbia e memoria…`,
-      translation: `Kanske är detta människornas sanna straff:
-att inte dö med det de älskar...
-utan att överleva tillräckligt länge
-för att se världen förändras utan dem.
+      translation: `Perhaps this is mankind's true punishment:
 
-Camelot lever nu bara
-i barnsagor,
-i de äldres sånger,
-och i såren
-hos dem som verkligen kände den.
+not to die with what they love…
+
+but to survive long enough
+to watch the world change without them.
+
+Camelot now lives only
+in children's tales,
+in the songs of the old,
+and in the wounds
+of those who truly knew her.
 
 Arthur…
 
-om det fortfarande finns en väg
-bortom dimma och minne…`
+if there is still a road
+beyond mist and memory…`
     },
     {
       type: "line",
       voice: "Lancelot",
       original: `allora custodisci tu
 ciò che non sono riuscito a salvare.`,
-      translation: `då vaktar du
-vad jag inte kunde rädda.`
+      translation: `then keep safe
+what I could not save.`
     }
   ]
-
-
 },
 act3_9: {
   menuTitle: " Epilogo",
@@ -7064,7 +7007,7 @@ act3_9: {
   blocks: [
     {
       type: "scene",
-      title: "Akt III — Scen 9 - Epilog",
+      title: "Act III — Scen IX - Epilog",
       content: ""
     },
     {
