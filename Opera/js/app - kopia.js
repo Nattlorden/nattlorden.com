@@ -295,84 +295,6 @@ if (block.type === "line") {
     `;
   }
 
-  const visiblePages = getPages(currentSection).filter(pageKey => {
-  const candidate = content?.[currentSection]?.[pageKey];
-  return candidate && candidate.hidden !== true;
-});
-
-const currentIndex = visiblePages.indexOf(currentPage);
-
-const previousKey =
-  currentIndex > 0
-    ? visiblePages[currentIndex - 1]
-    : null;
-
-const nextKey =
-  currentIndex >= 0 && currentIndex < visiblePages.length - 1
-    ? visiblePages[currentIndex + 1]
-    : null;
-
-if (previousKey || nextKey) {
-  const previousPage = previousKey
-    ? content?.[currentSection]?.[previousKey]
-    : null;
-
-  const nextPage = nextKey
-    ? content?.[currentSection]?.[nextKey]
-    : null;
-
-  html += `
-    <nav class="page-navigation"
-         aria-label="${lang === "sv" ? "Sidnavigering" : "Page navigation"}">
-
-      <div class="page-navigation-prev">
-        ${
-          previousPage
-            ? `
-              <button
-                type="button"
-                class="page-nav-link"
-                data-page-nav="${previousKey}"
-              >
-                <span class="page-nav-direction">
-                  ← ${lang === "sv" ? "Föregående" : "Previous"}
-                </span>
-
-                <span class="page-nav-title">
-                  ${previousPage.menuTitle || previousPage.title || previousKey}
-                </span>
-              </button>
-            `
-            : ""
-        }
-      </div>
-
-      <div class="page-navigation-next">
-        ${
-          nextPage
-            ? `
-              <button
-                type="button"
-                class="page-nav-link"
-                data-page-nav="${nextKey}"
-              >
-                <span class="page-nav-direction">
-                  ${lang === "sv" ? "Nästa" : "Next"} →
-                </span>
-
-                <span class="page-nav-title">
-                  ${nextPage.menuTitle || nextPage.title || nextKey}
-                </span>
-              </button>
-            `
-            : ""
-        }
-      </div>
-
-    </nav>
-  `;
-}
-
   main.innerHTML = html;
 }
 
@@ -393,22 +315,6 @@ function setLang(newLang) {
 }
 
 document.addEventListener("click", function (e) {
-  const pageNav = e.target.closest("[data-page-nav]");
-
-  if (pageNav) {
-    currentPage = pageNav.dataset.pageNav;
-
-    renderContent();
-    renderSideMenu();
-
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
-
-    return;
-  }
-
   const link = e.target.closest("a[data-section][data-page]");
 
   if (!link) {
@@ -421,31 +327,11 @@ document.addEventListener("click", function (e) {
   currentPage = link.dataset.page;
 
   renderAll();
-
   window.scrollTo({
     top: 0,
     behavior: "smooth"
   });
 });
-
-/*document.addEventListener("click", function (e) {
-  const link = e.target.closest("a[data-section][data-page]");
-
-  if (!link) {
-    return;
-  }
-
-  e.preventDefault();
-
-  currentSection = link.dataset.section;
-  currentPage = link.dataset.page;
-
-  renderAll();
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
-});*/
 
 readRouteFromUrl();
 renderAll();

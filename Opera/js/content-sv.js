@@ -228,6 +228,7 @@ Här passar det att samla operativsystem, musikprogram, mediaspelare, verktyg, a
 
     software: {
   menuTitle: "Stubbe",
+  hidden: true,
   title: "Stubbe",
   blocks: [
     {
