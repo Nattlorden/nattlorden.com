@@ -264,7 +264,10 @@ avalon: {
     about: {
       menuTitle: "Om",
       title: "Camelot e Avalon",
-      text: `Detta är bakgrunden till operan.
+      blocks: [
+    {
+      type: "text",
+      content: `Detta är bakgrunden till operan.
       
       Efter att ha utnyttjat AI för mina musikaliska idéer i andra genrer så återstod opera som ett gapande hål.
       Inte för att det borde vara ett problem i sig - men opera till sin form nyttjar ofta många röster kombinerat och styrning av duetter är halvt omöjligt i nuläget - och att specifikt sätta mer än en röst - helt omöjligt.
@@ -281,7 +284,15 @@ avalon: {
       Känslan efter att testat med en handfull scener var god... så det var vidare "på ritbordet" och utöka till en fullständig historia.
 
       Lite annorlunda blir det via de angivna begränsningarna, men hoppas ni kan uppskatta den - eller någon begränsad del av den - likfullt!
-      `,
+      `},
+        {
+      type: "image",
+      src: "assets/images/Camelot e Avalon 3k 3.png",
+      alt: "Opera album cover",
+      size: "medium"
+    
+        }
+      ],
       showPlaceholder: false
     },
 

@@ -262,7 +262,10 @@ avalon: {
     about: {
   menuTitle: "About",
   title: "Camelot e Avalon",
-  text: `This is the story behind the opera.
+  blocks: [
+    {
+      type: "text",
+      content: `This is the story behind the opera.
 
 After using AI to develop my musical ideas in other genres, opera remained the one great unexplored frontier.
 Not because opera itself should be any more difficult, but because the art form so often relies on several voices singing simultaneously. At the moment, directing duets is only partially possible, while assigning more than one individual voice with any real control is simply impossible.
@@ -282,7 +285,15 @@ From there, the work became one of breaking the legend down into ever smaller pi
 After completing the first handful of scenes, the result felt surprisingly convincing. That was enough to move beyond the experiment, return to the drawing board, and expand it into a complete opera.
 
 The result is inevitably shaped by those technical limitations, but I hope you'll still find something to enjoy—whether in the work as a whole or simply in one small part of it.
-`,
+`},
+        {
+      type: "image",
+      src: "assets/images/Camelot e Avalon 3k 3.png",
+      alt: "Opera album cover",
+      size: "medium"
+    
+        }
+      ],
   showPlaceholder: false
 },
   

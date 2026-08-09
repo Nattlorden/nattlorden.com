@@ -11,11 +11,12 @@ if (hasHexAccess()) {
 document.addEventListener("DOMContentLoaded", () => {
   const operaLink = document.getElementById("operaLink");
 
-  if (operaLink && hasFriendAccess() ) {
+  // was with: && hasFriendAccess()
+  if (operaLink ) {
     operaLink.href = "Opera/index.html";
   }
-  if (!hasFriendAccess()) {
-  document.getElementById("operaMask")?.remove();
-}
+  //if (!hasFriendAccess()) {
+  //document.getElementById("operaMask")?.remove();
+  //}
 
 });
