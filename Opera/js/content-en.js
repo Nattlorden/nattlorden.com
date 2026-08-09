@@ -285,6 +285,8 @@ From there, the work became one of breaking the legend down into ever smaller pi
 After completing the first handful of scenes, the result felt surprisingly convincing. That was enough to move beyond the experiment, return to the drawing board, and expand it into a complete opera.
 
 The result is inevitably shaped by those technical limitations, but I hope you'll still find something to enjoy—whether in the work as a whole or simply in one small part of it.
+
+<a href="https://open.spotify.com/album/2NkKsbWFfcc01brNyDzhtm?si=_Zg_-4slQraK7tO9WYBW0g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
 `},
         {
       type: "image",

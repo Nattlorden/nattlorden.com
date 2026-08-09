@@ -284,6 +284,9 @@ avalon: {
       Känslan efter att testat med en handfull scener var god... så det var vidare "på ritbordet" och utöka till en fullständig historia.
 
       Lite annorlunda blir det via de angivna begränsningarna, men hoppas ni kan uppskatta den - eller någon begränsad del av den - likfullt!
+
+      <a href="https://open.spotify.com/album/2NkKsbWFfcc01brNyDzhtm?si=_Zg_-4slQraK7tO9WYBW0g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+
       `},
         {
       type: "image",
