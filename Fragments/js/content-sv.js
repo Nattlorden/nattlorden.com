@@ -3856,6 +3856,357 @@ När första fågeln sjunger
     }
   ],
   showPlaceholder: false
+    },
+    
+    flaket: {
+      menuTitle: "Flaket till gryning",
+      title: "Flaket till gryning",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    enFagel: {
+      menuTitle: "En fågel på skylten",
+      title: "En fågel på skylten",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    iDennaLjuvaSommartid: {
+      menuTitle: "I denna ljuva sommartid",
+      title: "I denna ljuva sommartid",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    zarathustra: {
+      menuTitle: "Also sprach Zarathustra",
+      title: "Also sprach Zarathustra",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    cuteSide1: {
+      menuTitle: "The cute side of us(1)",
+      title: "The cute side of us",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    bubuDuduParadise: {
+      menuTitle: "The cute side of us(2)",
+      title: "The cute side of us",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    lampanIhallen: {
+      menuTitle: "Lampan i hallen",
+      title: "Lampan i hallen",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    angelsInTheFeed: {
+      menuTitle: "Angels in the feed",
+      title: "Angels in the feed",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    sometimesIforget: {
+      menuTitle: "Sometimes I Forget",
+      title: "Sometimes I Forget",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    deDieInDiem: {
+      menuTitle: "De Die in Diem",
+      title: "De Die in Diem",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    deDie2: {
+      menuTitle: "De Die in Diem(2)",
+      title: "De Die in Diem(2)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    steelBeast: {
+      menuTitle: "Steel Beast",
+      title: "Steel Beast",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    
+    mammaMia: {
+      menuTitle: "Mamma Mia… What Have You Done?",
+      title: "Mamma Mia… What Have You Done?",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
     }
 
 
@@ -4275,6 +4626,32 @@ And maybe that’s the truth`
     }
   ],
   showPlaceholder: false
+    },
+    track6: {
+      menuTitle: "Charleston Queen (feat. Eva Z)",
+      title: "Charleston Queen (feat. Eva Z)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
     }
   },  /* end Croonlius */
 
@@ -5638,7 +6015,59 @@ the road itself becomes a home`
       }
     ],
     showPlaceholder: false
-  }
+  },
+  dayOfTheTentacle: {
+      menuTitle: "Day of the Tentacle",
+      title: "Threads we cannot see",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    },
+    threadsWeCannotSee: {
+      menuTitle: "Threads we cannot see",
+      title: "Threads we cannot see",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: true
+    }
 
 }, /* end Khellendros */
 

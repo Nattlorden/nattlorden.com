@@ -754,6 +754,90 @@ and calling it home
   ],
   showPlaceholder: false
   },
+  stubbe0_8: {
+      menuTitle: "Think for yourself",
+      title: "Think for yourself",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e  2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: true
+  },
+  stubbe0_9: {
+      menuTitle: "The Apostate",
+      title: "The Apostate",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e  2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: true
+  },
+  /* stubbe0_X: {
+      menuTitle: "",
+      title: "",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e  2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: true
+  }, */
     notes: {
       menuTitle: "Noteringar",
       title: "Noteringar",

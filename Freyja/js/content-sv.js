@@ -264,6 +264,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "summerHymn",
       spotify: "",
       youtube: ""
+    },
+    {
+      title: "Before we had names",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "beforeWeHadNames",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -306,6 +314,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "iWillRise",
       spotify: "https://open.spotify.com/album/2Q6i421JDlhwWwSLpl4nPN?si=GJqXGfN-R0eLufQAzUUX-Q",
       youtube: "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M"
+    },
+    {
+      title: "Melinoë",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "melinoe",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -338,6 +354,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       image: "assets/covers/todo.png",
       section: "music",
       page: "succubus",
+      spotify: "",
+      youtube: ""
+    },
+    {
+      title: "Midsummer Dominion",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "midsummerDominion",
       spotify: "",
       youtube: ""
     }
@@ -515,6 +539,22 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "scania",
       spotify: "https://open.spotify.com/album/42AarkdC4En5Gk6hKirgDe?si=XtUovdr_RLK4AagAYWDmIg",
       youtube: "https://youtu.be/BrdPCtitsYU?list=RDBrdPCtitsYU"
+    },
+    {
+      title: "Stay in the Blue",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "stayInTheBlue",
+      spotify: "",
+      youtube: ""
+    },
+    {
+      title: "A bird on the sign",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "aBirdOnTheSign",
+      spotify: "",
+      youtube: ""
     }
   ],
   showPlaceholder: false
@@ -1103,6 +1143,24 @@ abide in me
     showPlaceholder: false
    },
 
+   beforeWeHadNames: {
+    title: "Before we had names",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `
+`,
+      }
+    ],
+    showPlaceholder: true
+   },
+
    youMustExist: {
     title: "You must exist",
     hidden: true,
@@ -1306,6 +1364,43 @@ Ooh
     showPlaceholder: false
    },
 
+   melinoe: {
+    title: "Melinoë",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `
+`,
+      }
+    ],
+    showPlaceholder: true
+   },
+
+   /*
+   stubbe: {
+    title: "",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `
+`,
+      }
+    ],
+    showPlaceholder: true
+   },
+*/
    undertow: {
     title: "Undertow",
     hidden: true,
@@ -1547,6 +1642,24 @@ Liar…`,
       }
     ],
     showPlaceholder: false
+   },
+
+   midsummerDominion: {
+    title: "Midsummer Dominion",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: ``,
+  
+      }
+    ],
+    showPlaceholder: true
    },
 
    moonlightsFall: {
@@ -3058,6 +3171,45 @@ Scania, our open land`,
    },
 
 
+   stayInTheBlue: {
+    title: "Stay in the Blue",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `
+`,
+      }
+    ],
+    showPlaceholder: true
+   },
+
+   aBirdOnTheSign: {
+    title: "A bird on the sign",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `lyrics`
+      }
+    ],
+    showPlaceholder: true
+   },
+
+
+
+
+
 
    stubbe: {
     title: "titel",
@@ -3065,16 +3217,15 @@ Scania, our open land`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/",
+        src: "assets/covers/todo.png",
         size: "small"
       },
       {
         type: "text",
-        content: `lyrics`,
-  showPlaceholder: false
+        content: `lyrics`
       }
     ],
-    showPlaceholder: false
+    showPlaceholder: true
    }
 
   },

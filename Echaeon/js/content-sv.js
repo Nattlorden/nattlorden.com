@@ -951,11 +951,118 @@ Into you…
     }
   ],
   showPlaceholder: false
+    },
+
+    stayAsYouAre: {
+      menuTitle: "Stay as you are",
+      title: "Stay as you are",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.png",
+      size: "small",
+      caption: "Publicerad  2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+      `
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    uncover: {
+      menuTitle: "Uncover the art",
+      title: "Uncover the art",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.png",
+      size: "small",
+      caption: "Publicerad  2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+      `
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    wheelWithin: {
+      menuTitle: "Wheel within the light",
+      title: "Wheel within the light",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.png",
+      size: "small",
+      caption: "Publicerad  2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+      `
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    stubbe: {
+      menuTitle: "",
+      hidden: true,
+      title: "",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.png",
+      size: "small",
+      caption: "Publicerad  2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+      `
+    }
+  ],
+  showPlaceholder: true
     }
 
 
 
-  }
+  },
+
+  
   
   
 };

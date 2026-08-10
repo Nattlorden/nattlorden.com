@@ -3693,11 +3693,11 @@ Mot himlen inatt...
   threshold: {
     about: {
       menuTitle: "Om",
-      title: "(1983 album)",
+      title: "Maj-Lisa & Skramlet",
       blocks: [
       {
         type: "image",
-        src: "assets/covers/",
+        src: "assets/covers/Landskrona.png",
         size: "small",
         caption: ""
       },
@@ -3725,7 +3725,7 @@ Mot himlen inatt...
       blocks: [
       {
         type: "image",
-        src: "assets/covers/",
+        src: "assets/covers/stubbe.png",
         size: "small",
         caption: ""
       },
@@ -3749,7 +3749,25 @@ Mot himlen inatt...
     about: {
       menuTitle: "Om",
       title: "Varsamt",
-      text: ``,
+      blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Varsamt 3k.png",
+        size: "small",
+        caption: ""
+      },
+      {
+        type: "text",
+        content: ``
+      }/*,
+      {
+        type: "divider"
+      },
+      {
+        type: "text",
+        content: `lyrics`
+      }*/
+    ],
       showPlaceholder: true
     }
 
@@ -3762,6 +3780,319 @@ Mot himlen inatt...
      {
       type: "image",
       src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    }, */
+
+  },
+  singles: {
+    about: {
+      menuTitle: " ",
+      title: "Singlar/EP",
+      text: ``,
+      showPlaceholder: true
+    },
+
+    friIharet: {
+      menuTitle: "Fri i håret (A)",
+      title: "Fri i håret",
+      blocks: [
+        {
+      type: "image",
+      src: "assets/covers/Fri i håret 3k.png",
+      size: "small",
+      caption: "Publicerad 19e november 1979"
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/7o9WqDN7OxN6Uz0TXs4u0k?si=40d739b26d42402a" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/-P8SAeBYSaQ?si=OS5c0ORfAWDmnPV-" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+Jag kommer ur kurvan när kvällen blir blå
+med motorn på gränsen och blicken rakt på
+svart skinn över axlar, gamla sår i fred
+jag lärde mig själv hur man tar sig vidare
+
+Min XS650 går varm som den ska
+lite för högljudd, men det vill jag ha
+jag kör som om vägen var det enda jag vet
+och vinden tar håret som om den bad om det
+
+Och ni hinner tänka
+när jag drar förbi
+att somliga föds
+med eld inuti
+
+ Jag är fri i håret
+ natten ligger öppen
+ över åkern, över spåret
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara hjärtslag där jag drar
+
+Det luktar bensin och nyklippt hö
+sista ljuset brinner i ett dikesfrö
+ingen hjälm, bara himmel och fart
+bara kroppen mot vinden och ett envist hjärta kvar
+
+Byarna glider förbi i gult
+någon står vid en mack, någon glor lite fult
+jag är inte här för att bli förstådd
+jag är här för att köra tills mörkret sagt sitt
+
+Och ni hinner tänka
+när jag drar förbi
+att en del blir kuvade
+och en del blir fri
+
+ Jag är fri i håret
+ natten ligger öppen
+ över åkern, över spåret
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara hjärtslag där jag drar
+
+Ingen ring, ingen bur
+ingen hand på mitt styr'
+bara månen, motorljud
+och ett liv som vill ut
+
+Ingen mässan, ingen dom
+ingen som får vända om
+jag har betalt för varje mil
+nu tar jag det jag själv vill ha
+
+Grus i vägkanten
+mörker över sjön
+en gammal twin som slår
+som om den vet vem jag är
+lite för fort
+lite för sant
+lite för levande
+för att be om lov
+
+ Jag är fri i håret
+ natten ligger öppen
+ och jag äger hela året
+ jag är fri i håret
+ ingen håller kvar
+ jag tar kurvan hårt
+ och lämnar bara damm och längtan där jag drar
+
+Fri i håret
+fri i stål
+fri i mörkret
+fri ändå      
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  },
+  seeSeeRider: {
+      menuTitle: "See, see rider (B)",
+      title: "See, see rider",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Fri i håret 3k.png",
+      size: "small",
+      caption: "Publicerad 19e november 1979"
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/track/2HpOsRMyhbetn4hlwml9Xu?si=136a91c2b52c49a0" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/tj5Nq3HPgiw?si=gXBtSva6HJeVdNgq" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+Oh see, see rider
+See what you have done
+
+Oh see, see rider
+See what you have done
+You made me love you
+Now your time has come
+
+Yeah...
+
+I'm goin' away baby
+And I won't be back till fall
+If I find me a good man
+I won't be back at all
+
+See see rider
+You know you done me wrong
+You kept me worried baby
+Both night and day so long
+
+Oh see, see rider...
+See what you have done...      `
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    div1: {
+      menuTitle: " -----",
+      title: "",
+      blocks: [
+     
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: false
+    },
+    linje4: {
+      menuTitle: "Linje 4(Var finns ett ja?) (A)",
+      title: "Linje 4(Var finns ett ja?)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad 28e januari 1980"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tankOm: {
+      menuTitle: "Tänk om (B)",
+      title: "Tänk om",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad 28e januari 1980"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    div2: {
+      menuTitle: " -----",
+      title: "",
+      blocks: [
+     
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: false
+    },
+    ingenKnuda: {
+      menuTitle: "Ingen knuda på strängen (A)",
+      title: "Ingen knuda på strängen",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad 21e mars 1984"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+    tillbakaTillGrunden: {
+      menuTitle: "Tillbaka till grunden (B)",
+      title: "Tillbaka till grunden",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad 21e mars 1984"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    /*
+
+    stubbe: {
+      menuTitle: "titel",
+      title: "titel",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
       size: "small",
       caption: "Publicerad e  202"
     },

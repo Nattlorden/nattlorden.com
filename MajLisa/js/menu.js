@@ -5,9 +5,10 @@ const sectionLabels = {
     oresundsnatt: "Öresundsnatt",
     vagskal: "Vägskäl",
     khellendros: "The Sinners' place",
-    threshold: "1983",
+    threshold: "Maj-Lisa & Skramlet",
     anno84: "1984",
-    other: "Varsamt"
+    other: "Varsamt",
+    singles: "Singlar/EP"
   },
   en: {
      majlisa: "Maj-Lisa & Skramlet",
@@ -15,9 +16,10 @@ const sectionLabels = {
     oresundsnatt: "Öresundsnatt",
     vagskal: "Vägskäl",
     khellendros: "The Sinners' place",
-    threshold: "1983",
+    threshold: "Maj-Lisa & Skramlet",
     anno84: "1984",
-    other: "Varsamt"
+    other: "Varsamt",
+    singles: "Singles/EPs"
   }
 };
 
@@ -55,7 +57,7 @@ const siteMeta = {
   },
   
   threshold: {
-    title: "1983",
+    title: "Maj-Lisa & Skramlet",
     tagline: "...",
     headerClass: "header-nattlorden"
   },
@@ -66,6 +68,11 @@ const siteMeta = {
   },
   other: {
     title: "Varsamt",
+    tagline: "...",
+    headerClass: "header-nattlorden"
+  },
+  singles: {
+    title: "Singlar/EP",
     tagline: "...",
     headerClass: "header-nattlorden"
   }
@@ -101,7 +108,7 @@ const siteMeta = {
         headerClass: "header-nattlorden"
       },
       threshold: {
-        title: "1983",
+        title: "Maj-Lisa & Skramlet",
         tagline: "...",
         headerClass: "header-nattlorden"
       },
@@ -112,6 +119,11 @@ const siteMeta = {
       },
       other: {
         title: `Varsamt`,
+        tagline: "...",
+        headerClass: "header-nattlorden"
+      },
+      singles: {
+        title: "Singles/EPs",
         tagline: "...",
         headerClass: "header-nattlorden"
       }

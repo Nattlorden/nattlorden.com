@@ -817,109 +817,109 @@ And in its glow, the cosmos burns
   nattlorden: {
     about: {
       menuTitle: "Om",
-      title: "Nattlorden",
-      text: `Nattlorden är ett utrymme för sådant som inte riktigt passar någon annanstans.
-
-Det är inte ett projekt byggt kring en enda stil eller ett enda löfte, utan snarare ett namn för musik som fått följa sitt eget spår. Ibland mörkt, ibland märkligt, ibland bara envist olämpligt för tydliga fack.
-
-Här får fragment, enstaka idéer och friare uttryck existera utan att först behöva förklara sig.`,
+      title: "Singlar",
+      text: `Ibland hör musiken inte till ett större koncept.`,
       showPlaceholder: false
     },
 
-    sevenSons: {
-      menuTitle: "Me and seven sons of a gun",
-      title: "Me and seven sons of a gun",
+    watcher: {
+      menuTitle: "The Watcher",
+      title: "The Watcher",
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Golf_songcover.png",
+      src: "assets/covers/stubbe.png",
       size: "small",
-      caption: "Publicerad 1a juni 2007"
+      caption: "Publicerad  2026"
     },
     {
       type: "text",
-      content: `<i>Skriven den 1 juni 2007 för den sjunde säsongen av SummerTour, tillsammans med Jonas och Jimmy. Detta är en cover från 2025 — ungefär så som jag hade önskat att låten hade kunnat låta redan då. Texten är min, musiken är vår gemensamma.
-
-Omslaget visar, med glimten i ögat, Keri uppställd för golf — som om sporten hade funnits på Hârn.</i>
-      
-      <a href="https://open.spotify.com/album/0DQZn2PnLovGHxP99uooOU?si=i8kVUY70Tg2tGWXVf5HKbA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/S4RUiyK3rZ0" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `The winter is now gone
-The feeling's coming
-I want to get out on the fields of green
-I want to hit the ball way out and longer
-Carry it far away and pick up the points
-Just you try to catch me
-Don't overdo it
-No one's gonna touch me
-
- This is my year, seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
-
-Shoot out the flagsticks
-Across the sand traps
-Forget the water and split the greens
-Want to get the birdies
-Start to roll in
-Picking up the points at ten plus one
-Just you try to catch me
-Don't overdo it
-No one's gonna touch me
-
- This is my year, seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
-
-Another season
-Another round
-A lot is gonna happen
-More is to come
-The ball is in the air
-Let's grab the cup
-This seventh time around and we're never gonna stop
-
- Seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
-
-This is where I'm heading
-Try to follow
-Yet another record is due to fall
-Seven times on the run
-It's seven times the fun
-Seven times in the sun with the sons of a gun
-
- Seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
-
-(This is true)
-(And blue)`
+      content: ``
     }
   ],
-  showPlaceholder: false
+  showPlaceholder: true
+    },
+
+    washTheStain: {
+      menuTitle: "Wash the stain",
+      title: "Wash the stain",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad  2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    scorpio: {
+      menuTitle: "Scorpio",
+      title: "Scorpio",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad  2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    mother: {
+      menuTitle: "Mother",
+      title: "Mother",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad  2026"
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: true
     }
 
 
@@ -948,7 +948,7 @@ Seven times in the sun with the sons of a gun
       content: `lyrics`
     }
   ],
-  showPlaceholder: false
+  showPlaceholder: true
     },
 
     */
