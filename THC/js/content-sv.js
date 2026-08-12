@@ -830,7 +830,7 @@ And in its glow, the cosmos burns
       type: "image",
       src: "assets/covers/stubbe.png",
       size: "small",
-      caption: "Publicerad  2026"
+      caption: "Publicerad 25 juni 2026"
     },
     {
       type: "text",
@@ -841,7 +841,66 @@ And in its glow, the cosmos burns
     },
     {
       type: "text",
-      content: ``
+      content: `Streetlight burns on the window frame
+Every shadow seems to know my name
+Footsteps drift where the cold wind dies
+Static flickers with a thousand eyes
+
+I turn the lock, I hold my breath
+A whisper circles round the steps
+No place left where I can hide
+The walls are listening from inside
+
+ Somebody’s out in the dark tonight
+ Tracing my steps in the neon light
+ Over my shoulder, under my skin
+ I feel the silence closing in
+ Somebody’s out where the black trees sway
+ Counting the hours till I slip away
+ I run but the feeling won’t let me be
+ The watcher is walking with me
+
+Telephone rings with a dead-eyed tone
+A voice like frost says I’m not alone
+Curtains breathe in the midnight rain
+Every mirror throws me back again
+
+I hear the floorboards speak in code
+A cold hand travels down the road
+Every spark behind my eyes
+Turns to a warning in disguise
+
+ Somebody’s out in the dark tonight
+ Tracing my steps in the neon light
+ Over my shoulder, under my skin
+ I feel the silence closing in
+ Somebody’s out where the black trees sway
+ Counting the hours till I slip away
+ I run but the feeling won’t let me be
+ The watcher is walking with me
+
+No prayer in the wires
+No sleep in the flame
+A mark on the doorway
+A breath with no name
+I stand in the thunder
+The sky split in three
+And face the horizon
+That’s staring at me
+
+ Somebody’s out in the dark tonight
+ Tracing my steps in the neon light
+ Over my shoulder, under my skin
+ I feel the silence closing in
+ Somebody’s out where the black trees sway
+ Counting the hours till I slip away
+ I run but the feeling won’t let me be
+ The watcher is walking with me
+
+Eyes in the alley, eyes in the rain
+Eyes in the pulse inside my brain
+No matter where the lost ones flee
+The watcher is walking with me`
     }
   ],
   showPlaceholder: true
@@ -855,18 +914,83 @@ And in its glow, the cosmos burns
       type: "image",
       src: "assets/covers/stubbe.png",
       size: "small",
-      caption: "Publicerad  2026"
+      caption: "Publicerad 6e juli 2026"
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="https://open.spotify.com/album/3EWXNlsdl10bGXc1D8W5LU?si=32jLCGwDQoSW4bk27WqegQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/_MReihlv19I" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: ``
+      content: `You point your hand like a witness stand
+With a halo made of static light
+You name the flaw in everyone
+While your own sparks jump in the night
+You dress your doubt in sacred words
+Like a verdict no one asked to hear
+Every sentence lands half-shined
+Then leaves the room unclear
+
+I can feel the floor tilt slow
+Every truth you throw comes back in tow
+You keep circling the blame
+But the echo keeps your name
+
+ Who are you to wash the stain with smoke
+ Who are you to frame the fire as a joke
+ You keep leaning on the glass 'til it breaks
+ Then call it fate
+ Who are you when all the mirrors wake
+ And the mask slips out of place
+
+You wear control like tailored black
+Every crease cut razor clean
+But underneath the measured calm
+There’s a fracture in the machine
+You pull the wire, you sell the spark
+Then swear the outage came from me
+A perfect script for hollow kings
+Performed in vanity
+
+I can hear the warning tone
+Every stone you cast was carved at home
+You keep circling the blame
+But the echo keeps your name
+
+ Who are you to wash the stain with smoke
+ Who are you to frame the fire as a joke
+ You keep leaning on the glass 'til it breaks
+ Then call it fate
+ Who are you when all the mirrors wake
+ And the mask slips out of place
+
+Slow down
+The room is turning inside out
+Your crown
+Is only wires and borrowed sound
+No throne
+Just a shadow on a painted wall
+Stand still
+And watch the righteous glitter fall
+
+The current bends
+The signal frays
+A quiet storm
+Inside the phrase
+
+ Who are you to wash the stain with smoke
+ Who are you to frame the fire as a joke
+ You keep leaning on the glass 'til it breaks
+ Then call it fate
+ Who are you when all the mirrors wake
+ And every borrowed light goes grey
+
+Now the room goes still
+Now the room goes still
+And the echo keeps your name`
     }
   ],
   showPlaceholder: true
@@ -880,18 +1004,105 @@ And in its glow, the cosmos burns
       type: "image",
       src: "assets/covers/stubbe.png",
       size: "small",
-      caption: "Publicerad  2026"
+      caption: "Publicerad 11e juli 2026"
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="https://open.spotify.com/album/7nCF3KOmdeHPw7TjaXLKq7?si=Nm9-WggKRDuVUFluy8vu1A" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/YXtpTbvxUYk" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: ``
+      content: `Cold moon over black water
+I move without a ripple
+No warning in the silver
+Just the pull beneath
+
+I keep my fire under glass
+A hidden blade, a quiet mask
+B minor blood in every wave
+I circle slow, I calculate
+
+I read the tremor in your chest
+I know the ache you never said
+You call it fate, I call it mine
+A sting of truth beneath the tide
+
+Come closer, closer
+Into the undertow
+I never needed mercy
+I only need to know
+
+ Scorpio, Scorpio
+ I drag your shadow below
+ Scorpio, Scorpio
+ I hold the venom, I hold the glow
+ Scorpio, Scorpio
+ You feel the current take control
+ Scorpio, Scorpio
+ Love me like a blade, then let it go
+
+Under the tide
+Under the tide
+Under the tide
+You already know
+
+I wear the dark like second skin
+No wasted prayer, no cheap absolve
+I kiss the wound, I salt the edge
+I break, return, evolve, dissolve
+
+You saw a surface, smooth and still
+You never saw the iron will
+I bloom in poison, burn in blue
+I pull the night and split it through
+
+Come closer, closer
+I am the undertow
+You wanted holy water
+I gave you undertow
+
+ Scorpio, Scorpio
+ I drag your shadow below
+ Scorpio, Scorpio
+ I hold the venom, I hold the glow
+ Scorpio, Scorpio
+ You feel the current take control
+ Scorpio, Scorpio
+ Love me like a blade, then let it go
+
+No halo
+No shelter
+No mercy in my veins
+I shed the skin
+I keep the name
+I rise again, again
+
+Under the tide
+Under the tide
+You came for heaven
+You sink in mine
+
+Closer, closer
+Breathe in the blue
+Closer, closer
+I come for you
+
+ Scorpio, Scorpio
+ I drag your shadow below
+ Scorpio, Scorpio
+ I hold the venom, I hold the glow
+ Scorpio, Scorpio
+ You feel the current take control
+ Scorpio, Scorpio
+ Love me like a blade, then let it go
+
+Under the tide
+Under the tide
+You already know
+Scorpio`
     }
   ],
   showPlaceholder: true
@@ -905,18 +1116,97 @@ And in its glow, the cosmos burns
       type: "image",
       src: "assets/covers/stubbe.png",
       size: "small",
-      caption: "Publicerad  2026"
+      caption: "Publicerad 28 juli 2026"
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<i>En sång med multipla inspirationskällor. 'Amazing Grace' uppenbar sådan, men det finns tre till - hittar du dem?</i>
+      
+      <a href="https://open.spotify.com/album/4fICYKGKVuDm9XrMMdTHh0?si=RaV3_ne_SnWZj54yh_bqBw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/pk3InFTyfUU?list=OLAK5uy_ntYwETSHT2bQVoqXc_d5oOjOg5IgUo-xU" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: ``
+      content: `Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost, but now I'm found
+Was blind, but now I see... through the veil
+
+In the garden of Gethsemane
+Under olive trees that never sleep
+I fall on my knees, blood like sweat
+And I cry to the sky that will not speak
+
+Why must this cup be mine alone?
+Why the silence after all these years?
+Since the days when the sacred groves were burned
+And the name of the Mother disappeared
+
+You must exist... you must exist
+Or the stars are lies and the dark is all
+You must exist... behind the mask
+They called you Spirit, they called you Ghost
+
+ Our Mother who art in the hidden places
+ Hallowed be Thy ancient name
+ Thy kingdom come, Thy will be done
+ In earth as it was before the flame
+
+ Give us this day the bread of truth
+ Forgive us the forgetting of Your face
+ And lead us not into the temples of men
+ But deliver us into Your embrace
+
+Amazing grace that once was sung
+To a Father throned in distant light
+But I have seen the broken stones
+Where Asherah once stood in the night
+
+Past six-two-two the silence fell
+The consort erased, the tree cut down
+Yet every wind that moves the leaves
+Still whispers the name they tried to drown
+
+You must exist... you must exist
+The Holy Ghost they never named
+You must exist... the breath, the dove
+The wisdom they buried and claimed
+
+ Our Mother who art in the hidden places
+ Hallowed be Thy ancient name
+ Thy kingdom come, Thy will be done
+ In earth as it was before the shame
+
+ Give us this day the bread of truth
+ Forgive us the forgetting of Your face
+ And lead us not into the temples of men
+ But deliver us into Your grace
+
+Why have You forsaken... or did they forsake You?
+I only want to say
+That if this is the way
+Then let the old name rise again
+
+Asherah... Asherah...
+Concealed in the Spirit they feared to see
+Asherah... the grace I never knew
+Was always You... was always You
+
+ Our Mother who art in the hidden places
+ Hallowed be Thy true and living name
+ Thy kingdom come, Thy will be done
+ In earth as it was before the claim
+
+ Amazing grace, how sweet the sound
+ That found me when the Father stayed away
+ I once was lost in a borrowed faith
+ Now found in the Goddess they hid away
+
+You must exist...
+You must exist...
+Asherah...`
     }
   ],
   showPlaceholder: true

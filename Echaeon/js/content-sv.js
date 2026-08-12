@@ -965,14 +965,70 @@ Into you…
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="https://open.spotify.com/album/6muBKHqtyWgHNpK3H1VoNr?si=VQcQYV_eTfqkA5IW0-wTrw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/VrgqrgQpwQI" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `We found a light in the cold tonight
+
+You came through the silence
+Like a candle in the snow
+I was half a heartbeat
+With nowhere left to go
+
+I saw the distance fading
+In the silver of your eyes
+Every lonely shadow
+Started turning into sky
+
+And when the world feels far away
+We hold on to the spark we made
+
+ Stay just as you are
+ Shining where you stand
+ Close enough to reach me
+ Stronger than we planned
+ Stay just as you are
+ No need to change your heart
+ Love is all I see
+ When you are here with me
+
+Roads may run behind us
+Dreams may disappear
+But every step beside you
+Makes the future clear
+
+And when the night begins to fall
+Your voice becomes my miracle
+
+ Stay just as you are
+ Shining where you stand
+ Close enough to reach me
+ Stronger than we planned
+ Stay just as you are
+ No need to change your heart
+ Love is all I see
+ When you are here with me
+
+No perfect words to say
+No promise carved in stone
+Just two hearts finding faith
+In a world we call our own
+
+ Stay just as you are
+ Shining where you stand
+ Close enough to reach me
+ Stronger than we planned
+ Stay just as you are
+ No need to change your heart
+ Love is all I see
+ When you are here with me
+
+Stay just as you are
+Here with me
       `
     }
   ],
@@ -991,14 +1047,83 @@ Into you…
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="https://open.spotify.com/album/5JeR2vi1KP69FFyVStA9fs?si=i3X41MpuTf-fnr08s3d05A" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/j-tYP6m8wq0" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `I been countin' down the hours, lettin' patience do its part
+Now the mirror's callin' me to uncover the art
+
+Had to leave it wrapped up tight, let the healing take its time
+Fought the itch and fought the urge, read every warning sign
+It ain't just skin and ink, it ain't a sticker in the dark
+It's a promise in the blood when you uncover the art
+Some will laugh and shake their heads, say they don't get that kind
+But some truths don't hit a soul that's still scared of its own mind
+It ain't for everybody, no, it cuts a little sharp
+You gotta mentally grow for it to show when you uncover the art
+
+Yeah, you earn every line
+You wear every scar
+Ain't about the noise
+It's about who you are
+
+ Uncover the art, uncover the art
+ Let the story breathe, let it hit the heart
+ It ain't for everybody, no, not where they are
+ Some gotta mentally grow for it to show
+ Uncover the art
+ Uncover the art
+ When the healing's done and the truth ain't far
+ Pull it back slow and let the whole world know
+ Uncover the art
+
+And if they ask about the woman in the fire and the storm
+Tell 'em she's no passing thought, she was always gonna form
+Yeah, the message rides beside her, bold as any rebel chord
+She's back to put things in order
+There it is in black and green, there it is in grace and fight
+Like a reckoning with mercy standin' tall in broad daylight
+You can call it just a picture if you only see the frame
+But the ones who've lived a little know a mark can hold a name
+
+Yeah, you earn every line
+You wear every scar
+Ain't about the noise
+It's about who you are
+
+ Uncover the art, uncover the art
+ Let the story breathe, let it hit the heart
+ It ain't for everybody, no, not where they are
+ Some gotta mentally grow for it to show
+ Uncover the art
+ Uncover the art
+ When the healing's done and the truth ain't far
+ Pull it back slow and let the whole world know
+ Uncover the art
+
+It ain't vanity, it ain't for show
+It's where the hurt and the healing go
+Some see ink, some see a brand-new start
+Some never will 'til they grow enough heart
+
+ Uncover the art, uncover the art
+ Let the story breathe, let it hit the heart
+ It ain't for everybody, no, not where they are
+ Some gotta mentally grow for it to show
+ Uncover the art
+ Uncover the art
+ She's back to put things in order
+ Burnin' bright inside the border
+ Pull it back slow and let the whole world know
+ Uncover the art
+
+Yeah, uncover the art
+Let it breathe, let it speak
+Uncover the art
       `
     }
   ],
@@ -1017,7 +1142,7 @@ Into you…
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="https://open.spotify.com/album/0zrBNGec5P8C0bpnjJ0fjQ?si=QStcK6rbSLu7ddHtRSOBWA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"

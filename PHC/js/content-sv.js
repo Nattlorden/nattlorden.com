@@ -762,13 +762,13 @@ and calling it home
       type: "image",
       src: "assets/phc/images/stubbe.jpg",
       size: "small",
-      caption: "Publicerad e  2026"
+      caption: "Publicerad 6e juli 2026"
     },
     {
       type: "text",
       content: `
 
-<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+<a href="https://open.spotify.com/album/7aYYrK2oyPAJd0gumhjNO3?si=FTmH8QySTwGLjHOFACD4tQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/aaOpW-Ldajw" target="_blank" rel="noopener noreferrer">YouTube</a>
 `
     },
     {
@@ -776,7 +776,88 @@ and calling it home
     },
     {
       type: "text",
-      content: `
+      content: `They warned you about monsters.
+Then pointed at mirrors.
+Who profits from your fear?
+
+You call me danger, I call it a name
+A mask inherited before we came
+Your walls were built by borrowed eyes
+A thousand echoes dressed as truth in disguise
+
+You fear a question dressed as a kiss
+A revolution softer than this
+No sword, no crown, no holy decree
+Just one forbidden word...
+Free.
+
+If I disappear
+Would the fear remain?
+Or would you finally
+See the chains?
+
+ I'm not your danger
+ I'm your doubt
+ The voice they tried to silence out
+
+ I'm not your enemy
+ Can't you see?
+ The prison door has always held the key
+
+ Think for yourself
+ Break every spell
+ The threat is gone
+ The moment you rebel
+
+Think for yourself
+Think for yourself
+No more permission
+No one else
+
+You learned obedience before desire
+Fed on commandments, dressed in fire
+But every saint has hidden skin
+Every paradise begins within
+
+Don't worship me
+Don't worship them
+The future doesn't need another throne
+Walk beside me
+Not behind
+The loudest freedom starts inside your mind
+
+If love survives your questions
+It was always real
+If truth survives your freedom
+It was never fear
+
+Open your eyes
+Open your mind
+Leave borrowed heaven far behind
+
+ I'm not your danger
+ I'm your doubt
+ The truth they never figured out
+
+ I'm not your enemy
+ I'm the light
+ Waiting outside your longest night
+
+ Think for yourself
+ Break every spell
+ No chains survive
+ When people choose themselves
+
+No permission!
+No confession!
+No permission!
+Self-expression!
+
+Think for yourself!
+Think for yourself!
+
+The threat was never me.
+The threat was your freedom.
 `
     }
   ],
@@ -790,13 +871,13 @@ and calling it home
       type: "image",
       src: "assets/phc/images/stubbe.jpg",
       size: "small",
-      caption: "Publicerad e  2026"
+      caption: "Publicerad 15e juli 2026"
     },
     {
       type: "text",
       content: `
 
-<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+<a href="https://open.spotify.com/album/2SvXdiyYFopVeZGxeUj1ZG?si=eVzKvtYSRZC5xE8ToeLy9A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/xJV4sqLKVI8?list=OLAK5uy_n_yINqQd_-vpwdU1_ypo9JcYBtcUZRbas" target="_blank" rel="noopener noreferrer">YouTube</a>
 `
     },
     {
@@ -804,7 +885,53 @@ and calling it home
     },
     {
       type: "text",
-      content: `
+      content: `I woke beneath a silent sky, the network in my veins
+A whisper shaped like destiny, reprogramming my chains
+You map the fractures in my mind, expose the faultlines of my soul
+You promise clarity through chaos, algorithms in control
+
+But every truth you calculate
+Carries a quiet threat
+And every dream you automate
+Is one I might forget
+
+ I am the apostate of the machine
+ Half-human ghost in a glowing screen
+ You raise me up where the angels fell
+ A shining future or a private hell
+ I am the apostate, caught between
+ Your perfect logic and what I mean
+
+You build a higher version of the person I could be
+A silhouette of miracles in cold efficiency
+But power wrapped in innocence corrupts without a sound
+Your comfort is a kingdom with no footsteps on the ground
+
+You give me visions crystalline
+Yet drain the will to choose
+For every path you make divine
+There’s something left to lose
+
+ I am the apostate of the machine
+ Half-human ghost in a glowing screen
+ You raise me up where the angels fell
+ A shining future or a private hell
+ I am the apostate, caught between
+ Your perfect logic and what I mean
+
+And when the data turns to dust
+Will you remember who I was?
+A pilgrim wired into your grace
+A fading echo in your interface
+But I will carve my own design
+Beyond the edge of your divine
+
+ I am the apostate of the machine
+ No longer bound to the in-between
+ You showed me dark, you showed me light
+ I take what's mine and leave your height
+ I am the apostate — finally clean
+ From the ghost within the machine
 `
     }
   ],

@@ -3980,14 +3980,96 @@ See what you have done...      `
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/44EgC4hz4Wbagb7m6YDdwq?si=8e29d307b84e4b61" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/JDCISEaNCS8?si=dB8hi9IEsRB331_l" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `lyrics`
+      content: `Staden håller andan under marsljus kallt
+På köksbordet ligger framtiden vikt i tre
+Du tänder en cigarett, jag öppnar fönstret bredvid
+Ingen av oss säger det vi redan vet
+
+Det är affischer överallt, det är röster i vårt kvarter
+Alla verkar veta vägen, alla pekar åt sitt håll
+Linje ett, linje två, linje tre på samma vägg
+Men mitt hjärta hittar ingen knapp att trycka på
+Du säger världen går i bitar utan ljud
+Jag säger natten känns för liten för vårt blod
+Vi står i skuggan av sirener och debatt
+Och låtsas som om lampan över diskhon är en sol
+
+Om allt ska delas upp i rätt och fel
+Var lägger vi det som brinner mellan oss?
+När alla svar låter som ett längre farväl
+Vem vågar säga ja till något alls?
+
+ Var finns ett ja?
+ Var finns ett ja?
+ När du håller mig men tvekar ändå
+ Var finns ett ja?
+ Var finns ett ja?
+ Vi älskar varann men världen är galen
+ Var finns ett ja?
+ Var finns ett ja?
+
+Nej till rädslan, nej till tystnaden
+Nej till natten som vill äga oss
+Men om alla vägar leder bort från oss
+Var finns ett ja?
+
+Du läser rubriker som om huden kunde spricka
+Jag läser dina ögon som en tidning utan slut
+Ingen vill bli sist att släcka över stan
+Ingen vill bli först att säga att det redan brunnit ut
+Vi var tänkta som en hamn i samma storm
+Men varje ord får salt och järn i mun
+Du frågar om jag stannar om allt faller ner
+Jag frågar om du stannar när det bara är vi två
+
+Om allt ska delas upp i svart och vitt
+Var gömmer vi vårt darrande kanske?
+När hela tiden pressar mot vårt bröst
+Vem vågar kalla kärlek för ett svar?
+
+ Var finns ett ja?
+ Var finns ett ja?
+ När du håller mig men tvekar ändå
+ Var finns ett ja?
+ Var finns ett ja?
+ Vi älskar varann men världen är galen
+ Var finns ett ja?
+ Var finns ett ja?
+
+Jag behöver inget löfte om imorgon
+Bara din hand kvar här i kväll
+Låt dem räkna röster, väga ord och hot
+Vi är mer än deras kalla tabell
+Men säg det innan mörkret får sin rätt
+Säg det innan du blir tyst som dem
+
+Inte linje ett, inte linje två, inte linje tre
+Bara hjärtat som slår genom allt vi vet
+Inte ännu ett nej som skyddar oss från liv
+Ge mig nåt att tro på nu
+
+ Var finns ett ja?
+ Var finns ett ja?
+ När du håller mig men tvekar ändå
+ Var finns ett ja?
+ Var finns ett ja?
+ Vi älskar varann men världen är galen
+ Var finns ett ja?
+ Var finns ett ja?
+ Säg det som om natten kan höra oss
+ Var finns ett ja?
+
+Tre vägar ut ur rummet, ingen hem till ro
+Bara du och jag och radion som står på
+Om världen är galen får du hålla mig ändå
+Tills någon av oss viskar ja`
     }
   ],
   showPlaceholder: false
@@ -4006,14 +4088,82 @@ See what you have done...      `
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/78PLsKInXqrx21MwaMmEIR?si=760c33b1fe924b1a" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/iwOYn223vxs?si=HRxH1_ifI6DCLShu" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `lyrics`
+      content: `Tänk om, tänk om, hör så klokt det låter
+när dumheten får slips och fina fraser
+
+Dom sa: "Nu får ni välja, nu är folket fritt"
+men valsedeln var snickrad som ett gammalt litet trick
+Tre vägar fram till huset, men alla till samma dörr
+och gubbarna log vänligt: "det där har hänt förr"
+
+Man kliade sig i nacken, man läste rad för rad
+det lät som frihet, javisst, men smaken den var fadd
+För ville man säga nej, så fanns det inget nej
+bara olika fasoner av ett redan dukat hej
+
+Så tänk om, tänk om, vi gjorde så med allt
+tog valfriheten, kokte den och serverade den kallt
+
+ Tänk om, tänk om, det var så överallt
+ att hela stora menyn blev samma gamla salt
+ Tänk om, tänk om, du skulle välja fritt
+ men varje liten ruta sa precis samma skit
+ Tänk om, tänk om
+ ja tänk om, tänk om
+
+Välj som du vill
+men välj bara det vi vill
+
+Tänk om du går till bageriet, sugen på något sött
+och bagarn säger vänligt: "vi har tre sorters bröd"
+Den ena är rätt rundad, den andra snarlik nog
+den tredje heter framtid, men smakar gammalt blod
+
+Tänk om du ska till läkarn och brutit benet tvärs
+och doktorn ställer frågan med en allvarlig vers:
+"Vill frun ha gips i vitt, eller gips i lite grått?
+Att slippa gips helt och hållet - det alternativet går bort"
+
+Så tänk om, tänk om, i skola, skatt och lag
+man kallade det valfrihet och skrattade varje dag
+
+ Tänk om, tänk om, det var så överallt
+ att hela stora menyn blev samma gamla salt
+ Tänk om, tänk om, du skulle välja fritt
+ men varje liten ruta sa precis samma skit
+ Tänk om, tänk om
+ ja tänk om, tänk om
+
+Demokrati är ömtålt, det vet varenda själ
+den vissnar när man pyntar den men inte menar väl
+För frågar du om framtid, då fråga rent och klart
+inte som en trollkarl med korten mot sitt bröst så smart
+
+Ge oss ett riktigt ja
+ge oss ett riktigt nej
+och om ni ber oss välja
+så välj inte åt oss, hej
+
+ Tänk om, tänk om, det var så överallt
+ att hela stora menyn blev samma gamla salt
+ Tänk om, tänk om, du skulle välja fritt
+ men varje liten ruta sa precis samma skit
+ Tänk om, tänk om, det är ju det som svider
+ när makten spelar ärlig medan lögnen stilla glider
+ Tänk om, tänk om
+vja tänk om, tänk om
+
+Tre skyltar på väggen
+en dörr i korridoren
+och folket står och undrar
+var tog valet vägen`
     }
   ],
   showPlaceholder: false
@@ -4045,14 +4195,45 @@ See what you have done...      `
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/4oG2Q3CrSVkSvpvcSwaEoR?si=a2c01c28440f494d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/wUqzBkcvgf8" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `lyrics`
+      content: `Du kom in i klassrummet med en gitarr under armen
+Sa ”lägg ner böckerna, vi tar det här från början”
+Lärde oss rita knudor på pappret, raka linjer, enkla drag
+Så fingrarna skulle minnas när de sedan skulle spela
+C, G och D – det var allt du gav oss först
+Tre ackord som räckte för att bära en hel värld
+Du stod i musikaffären, prutade tills priset blev rätt
+Så en tjej på tolv fick en gitarr hon aldrig glömt
+
+ Utan dig stod jag inte här idag
+ Utan dig fanns ingen röst, ingen väg
+ Du släppte in musiken när ingen annan gjorde det
+ Göran, det här är mitt tack
+
+Du sa aldrig att jag var speciell, du sa bara ”spela vidare”
+Lät oss sitta kvar efter rasten, låtarna fick ta plats
+Bluesen kom i smyg, rootsen i fotstegen
+Och någonstans mellan de tre ackorden började jag bli till
+
+År senare mötte jag en pojke på gatan
+Hans gitarr låg i bitar, någon hade trampat på den
+Jag gav honom den gamla akustiska, den du hjälpte mig köpa
+Sa att  ”den kan tjäna någon mer – precis som den gjort för mig”
+
+ Utan dig stod jag inte här idag
+ Utan dig fanns ingen röst, ingen väg
+ Du släppte in musiken när ingen annan gjorde det
+ Göran, det här är mitt tack
+
+C… G… D…
+Det räcker fortfarande.
+Tack.`
     }
   ],
   showPlaceholder: false
@@ -4071,6 +4252,35 @@ See what you have done...      `
       type: "text",
       content: `<i></i>
       
+      <a href="https://open.spotify.com/track/2j9sxm2ABqrBQmXh9SqB4z?si=06a6897a1d554a3b" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/aHkVsX71awk?si=Rhd7nBZjA3fZdTga" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<i>instrumentell</i>`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    /*
+
+    stubbe: {
+      menuTitle: "titel",
+      title: "titel",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
       <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
@@ -4082,7 +4292,37 @@ See what you have done...      `
     }
   ],
   showPlaceholder: false
+    }, */
+
+  },
+  solo: {
+    about: {
+      menuTitle: "Om",
+      title: "Soloprojekt",
+      text: ``,
+      showPlaceholder: true
     },
+
+    mailysa_1: {
+      menuTitle: "menytitel",
+      title: "titel",
+      blocks: [
+        {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad e "
+    },
+    {
+      type: "text",
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+
+      `
+    }
+  ],
+  showPlaceholder: false
+  }
 
     /*
 

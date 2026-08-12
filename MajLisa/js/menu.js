@@ -8,7 +8,8 @@ const sectionLabels = {
     threshold: "Maj-Lisa & Skramlet",
     anno84: "1984",
     other: "Varsamt",
-    singles: "Singlar/EP"
+    singles: "Singlar/EP",
+    solo: "Soloprojekt"
   },
   en: {
      majlisa: "Maj-Lisa & Skramlet",
@@ -19,7 +20,8 @@ const sectionLabels = {
     threshold: "Maj-Lisa & Skramlet",
     anno84: "1984",
     other: "Varsamt",
-    singles: "Singles/EPs"
+    singles: "Singles/EPs",
+    solo: "Solo projects"
   }
 };
 
@@ -75,6 +77,11 @@ const siteMeta = {
     title: "Singlar/EP",
     tagline: "...",
     headerClass: "header-nattlorden"
+  },
+  solo: {
+    title: "Soloprojekt",
+    tagline: "...",
+    headerClass: "header-nattlorden"
   }
 }
 
@@ -124,6 +131,11 @@ const siteMeta = {
       },
       singles: {
         title: "Singles/EPs",
+        tagline: "...",
+        headerClass: "header-nattlorden"
+      },
+      solo: {
+        title: "Solo projects",
         tagline: "...",
         headerClass: "header-nattlorden"
       }
