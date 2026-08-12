@@ -3864,7 +3864,7 @@ När första fågeln sjunger
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Flaket till gryning 3k.jpg",
       size: "small",
       caption: "Publicerad 4e juni 2026"
     },
@@ -3969,7 +3969,7 @@ Flaket till gryning
 Inga bromsar nu`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     enFagel: {
@@ -3978,7 +3978,7 @@ Inga bromsar nu`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Fågel på skylt 3k.png",
       size: "small",
       caption: "Publicerad 23e juni 2026"
     },
@@ -4071,7 +4071,7 @@ det som är älskat
 lämnar aldrig oss`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     iDennaLjuvaSommartid: {
@@ -4080,7 +4080,7 @@ lämnar aldrig oss`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/i denna ljuva sommartid 3k.png",
       size: "small",
       caption: "Publicerad 1e juli 2026"
     },
@@ -4168,7 +4168,7 @@ I trohet sann, i kärlek ren,
 Så vill jag mer ej önska.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     zarathustra: {
@@ -4177,7 +4177,7 @@ Så vill jag mer ej önska.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Also sprah Zarathustra 3k.png",
       size: "small",
       caption: "Publicerad 2e juli 2026"
     },
@@ -4272,7 +4272,7 @@ När solen öppnar mörkret
 står jag kvar`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     cuteSide1: {
@@ -4281,7 +4281,7 @@ står jag kvar`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Cute side of us 3k.png",
       size: "small",
       caption: "Publicerad 6e juli 2026"
     },
@@ -4372,7 +4372,7 @@ Love you...
 You...`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     bubuDuduParadise: {
@@ -4381,7 +4381,7 @@ You...`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Cute side of us 3k.png",
       size: "small",
       caption: "Publicerad 6e juli 2026"
     },
@@ -4442,7 +4442,7 @@ Every Oops! becomes a win.
  They somehow found... the cute side of life.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     lampanIhallen: {
@@ -4451,7 +4451,7 @@ Every Oops! becomes a win.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Lampan i hallen 3k.png",
       size: "small",
       caption: "Publicerad 10e juli 2026"
     },
@@ -4564,7 +4564,7 @@ Jag släckte lampan.
 Den lyste hela vägen hem.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     angelsInTheFeed: {
@@ -4573,7 +4573,7 @@ Den lyste hela vägen hem.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Angels in the feed 3k.png",
       size: "small",
       caption: "Publicerad 15e juli 2026"
     },
@@ -4622,7 +4622,7 @@ I already did.
   A human heartbeat interrupts the code.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     sometimesIforget: {
@@ -4631,7 +4631,7 @@ I already did.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Sometimes I Forget - iconic 3k.png",
       size: "small",
       caption: "Publicerad 19e juli 2026"
     },
@@ -4734,7 +4734,7 @@ Sometimes I forget
 Maybe part of you is carrying on`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     deDieInDiem: {
@@ -4743,7 +4743,7 @@ Maybe part of you is carrying on`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/De Die in Diem.png",
       size: "small",
       caption: "Publicerad 24e juli 2026"
     },
@@ -4832,7 +4832,7 @@ In pace tua
 requiescam.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     deDie2: {
@@ -4841,7 +4841,7 @@ requiescam.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/De Die in Diem.png",
       size: "small",
       caption: "Publicerad 24e juli 2026"
     },
@@ -4925,7 +4925,7 @@ Bär du mig.
 `
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     steelBeast: {
@@ -4934,7 +4934,7 @@ Bär du mig.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Steel beast 3k.png",
       size: "small",
       caption: "Publicerad 2e augusti 2026"
     },
@@ -5040,7 +5040,7 @@ One kept rolling out of town
 `
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     
     mammaMia: {
@@ -5049,7 +5049,7 @@ One kept rolling out of town
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Mamma mia 3k.png",
       size: "small",
       caption: "Publicerad 7e augusti 2026"
     },
@@ -5136,7 +5136,7 @@ By disappointed grandmothers everywhere.
 Arrivederci...`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     }
 
 
@@ -5563,25 +5563,70 @@ And maybe that’s the truth`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Charleston.png",
       size: "small",
-      caption: "Publicerad e  202"
+      caption: "Publicerad 22e juli 2026"
     },
     {
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/39x5dTVrTGSx2bOqfrLteJ?si=thO3b5fKSLC6whcSLGKjpw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/5C4uZ4L21bk" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `lyrics`
+      content: `Velvet smoke, the night's awake
+Every heartbeat starts to shake
+
+Silk gloves hiding loaded dice
+Red lips smiling, cold as ice
+Every glance's a little crime
+Stealing hearts one drink at a time
+Pocket watch says don't be late
+Fortune waits beyond the gate
+Raise your chin, don't lose your cool
+Tonight the queen rewrites the rules
+
+Boots on wood, hear them sing
+Every step's a reckoning
+
+ Spin me round, Charleston Queen
+ Sharpest smile you've ever seen
+ Clap your hands, keep the beat
+ Fire dancing in the street
+ Charleston Queen, Charleston Queen
+ Every eye knows what I mean
+ Spin me round, don't look down
+ Charleston Queen owns this town
+
+Pearls and danger, side by side
+Secrets never need to hide
+Lucky cards inside my sleeve
+Truth is what I choose to leave
+Raise a toast and kiss the air
+No one else could ever dare
+When the sunrise paints the sky
+Legends never say goodbye
+
+If tomorrow calls my name
+I'll still leave behind the flame
+
+ Spin me round, Charleston Queen
+ Sharpest smile you've ever seen
+ Clap your hands, keep the beat
+ Fire dancing in the street
+ Charleston Queen, Charleston Queen
+ Every eye knows what I mean
+ One more spin before the dawn
+ Charleston Queen keeps dancing on
+
+Charleston Queen...`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     }
   },  /* end Croonlius */
 
@@ -6952,25 +6997,118 @@ the road itself becomes a home`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/DOTT 3k.png",
       size: "small",
-      caption: "Publicerad e  202"
+      caption: "Publicerad 2e juli 2026"
     },
     {
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6o8NTnQxNKXGtM5iWNmSoC?si=5015542ea5254469" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/OPRcq6eHlOU?list=OLAK5uy_nrcmAwvr6zw5ZUnM8imE4liIVGhvjUD6s" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `lyrics`
+      content: `At the Edison place the wallpaper stares
+Bad ideas hum in the midnight air
+Three shadows split where the clockwork bends
+And a purple smile says, "This world is mine, my friends"
+
+Bernard with the panic in a straight white shirt
+Hoagie grins sideways like disaster might work
+Laverne sees tomorrow through a cracked TV glow
+Everybody acts normal, so you know it’s a show
+Hallways talk back and the portraits complain
+Dr. Fred shrugs science like a carnival brain
+The whole house wobbles but the deadpan lands
+When doom wears suction cups and tiny little hands
+
+Tick-tock, tip-toe, don’t blink, don’t stall
+One wrong grin and the century falls
+We’re not heroes, we’re late and strange
+But chaos loves a very bad change
+
+ Day of the Tentacle, run run run
+ Crooked little moon and a cartoon sun
+ Day of the Tentacle, laugh then duck
+ History’s elegant, outrageously stuck
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+
+Bow before purple perfection
+Day of the Tentacle, no correction
+
+Purple, purple, smug as a crown
+Purple, purple, talking it down
+Purple, purple, slick little spectacle
+Everybody panic: Day of the Tentacle
+
+Green keeps the heart while the purple wants the throne
+One wants a spotlight, one just wants home
+The motel sighs in fluorescent blues
+And every room looks guilty with impossible clues
+A plan in the attic, a crack in the frame
+A future in trouble with a very loud name
+We dance through the danger with a sideways grin
+When logic taps out, that’s where we begin
+
+Snap-brass, backbeat, shoes on fire
+Madcap manners and a livewire choir
+No neat map, no saintly role
+Just nerve and nonsense on a barrel roll
+
+ Day of the Tentacle, run run run
+ Crooked little moon and a cartoon sun
+ Day of the Tentacle, laugh then duck
+ History’s elegant, outrageously stuck
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+ Everybody panic: Day of the Tentacle
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+
+I improve every century
+Day of the Tentacle, tentacle-entry
+
+Behold the poise, the polish, the hue
+
+You’re very confident for a lab accident
+
+Greatness requires excellent posture
+
+And world domination?
+
+Mostly branding
+
+That tracks
+
+Left foot, right foot, timeline tilts
+Brass in the ceiling, panic in stilts
+Hold that nerve, keep it theatrical
+Tonight belongs to the Tentacle
+
+ Day of the Tentacle, run run run
+ Crooked little moon and a cartoon sun
+ Day of the Tentacle, laugh then duck
+ History’s elegant, outrageously stuck
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+
+Day of the Tentacle, impossible, electrical
+
+Naturally, I’m unforgettable
+
+Purple, purple, smug as a crown
+Purple, purple, never backing down
+Three odd hearts in a temporal spectacle
+Fade to the grin of the Tentacle
+`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     threadsWeCannotSee: {
       menuTitle: "Threads we cannot see",
@@ -6978,25 +7116,90 @@ the road itself becomes a home`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Threads 3k.png",
       size: "small",
-      caption: "Publicerad e  202"
+      caption: "Publicerad 10e juli 2026"
     },
     {
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/7bNXZ4FYXaG1Zpsvo4wl4a?si=be58f44252f14a0d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/QzRYuIEQADM?list=OLAK5uy_lQ96VUZUMxtZvnHv4rCXVYjrFCT76Svxg" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `lyrics`
+      content: `There's a language asking for no name,
+a quiet pattern stitched beneath our days.
+
+Every heartbeat starts before a story,
+before the world decides what we should be.
+A hidden fire waking in the silence,
+a fearless pulse that writes its own belief.
+
+Some hands can mend without a single promise,
+some eyes can calm a storm without a word.
+The deepest scars surrender to compassion,
+and broken wings remember how they soared.
+
+Morning spills its gold across the windows,
+dust becomes a universe of light.
+No one owns the warmth that keeps us breathing;
+it's only ours because we choose to share.
+
+ We're bound by threads unseen,
+ stronger than we know.
+ Calling every wandering heart
+ back toward home.
+
+ We're bound by threads unseen,
+ woven through the soul.
+ Even in the darkest night,
+ love remembers where to go.
+
+Roots keep reaching farther than the surface,
+branches learn the language of the sky.
+Nothing living ever asks permission
+just to open gently to the light.
+
+Someone hides the stars inside a pocket,
+someone paints a doorway through a wall.
+Every miracle begins in whispers
+long before the doubters hear the call.
+
+When our voices find the same horizon,
+silence loses everything it knew.
+No one's song grows smaller when it's echoed;
+every harmony begins with two.
+
+Maybe every road was always leading,
+not to answers waiting at the end,
+but to every soul still searching softly
+for another soul to call a friend.
+
+ We're bound by threads unseen,
+ stronger than we know.
+ Calling every wandering heart
+ back toward home.
+
+ We're bound by threads unseen,
+ woven through the soul.
+ Even in the darkest night,
+ love remembers where to go.
+
+If you listen past the silence,
+if you stand where shadows fall,
+you may find we've been connected
+long before we named it all.
+
+Nothing true
+ever needed
+a name.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     }
 
 }, /* end Khellendros */
