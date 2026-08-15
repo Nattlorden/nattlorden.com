@@ -43,7 +43,7 @@ galdra: {
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/Till Fädernas Sal 3k.png",
       size: "small",
       caption: "Publicerad 11e juli 2026"
     },
@@ -119,7 +119,7 @@ Elden minns oss.
 Fädernas sal.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
 
     narHornetLjuder: {
@@ -128,7 +128,7 @@ Fädernas sal.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/När hornet ljuder 3k.png",
       size: "small",
       caption: "Publicerad 12e juli 2026"
     },
@@ -256,7 +256,7 @@ Men ingen
 får vila.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
 
     yggdrasilsAndedrakt: {
@@ -265,7 +265,7 @@ får vila.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Yggdrasils andedräkt 3k.png",
       size: "small",
       caption: "Publicerad 2e augusti 2026"
     },
@@ -341,7 +341,88 @@ Där börjar åter skapelsen,
 i Ginnungagaps tysta sång.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
+    },
+
+    benBrista: {
+      menuTitle: "Ben må brista",
+      title: "Ben må brista",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Ben må brista 3k.png",
+      size: "small",
+      caption: "Publicerad 15e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Baserad på en dikt av <b>John Michael Wandland</b>, varsamt expanderad med ett par verser.</i>
+      
+      <a href="https://open.spotify.com/album/2pja57cHdEbvdgomB1GFD6?si=QeYL-sjwQSONgvV_nbTRzw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/icBhIUZ1d5U" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Sunna glömmer
+ingen fallen;
+stoftet gömmer,
+graven bevarar
+
+...beständigt.
+
+Säden sjunker
+svart i mullen,
+stiger grön
+när solen värmer.
+
+Åren vänder,
+vindar vandrar;
+ekar minnen
+under högar
+tyst och troget.
+
+Korpen vakar,
+vargen väntar;
+ingen skugga
+släcker löftet
+jorden bär.
+
+ Ben må brista,
+ blod må rinna;
+ rättfärds ande
+ rår ej döden över.
+
+ Så står åter
+ stridens fallne,
+ klädd i liv
+ som aldrig ändas.
+
+Horn skall ljuda,
+himmel brinna;
+fäders röster
+kallar stilla
+över fjällen.
+
+Mod är sådden,
+tro är skörden;
+ingen vinter
+vinner evigt
+över ljus.
+
+ Ben må brista,
+ blod må rinna;
+ rättfärds ande
+ rår ej döden över.
+
+ Så står åter
+ stridens fallne,
+ klädd i liv
+ som aldrig ändas.`
+    }
+  ],
+  showPlaceholder: false
     }
 
 
@@ -383,7 +464,7 @@ i Ginnungagaps tysta sång.`
     about: {
       menuTitle: "Om",
       title: "Album",
-      text: ``,
+      text: `Ännu inget.`,
       showPlaceholder: false
     }
   }  /* end Album */
