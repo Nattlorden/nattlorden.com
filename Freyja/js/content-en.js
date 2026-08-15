@@ -258,11 +258,19 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Summer Hymn",
-      image: "assets/covers/todo.png",
+      image: "assets/covers/Summer hymn 3k.png",
       section: "music",
       page: "summerHymn",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/4gUqrC2pzrNdm0nkGY95BP?si=Qsh49__1QtKh4XOVF8c_iw",
+      youtube: "https://youtu.be/q_P2nU-yCvw?list=OLAK5uy_mz46SWRHL6RdS-8EF53TQdKUBOI-KvLP4"
+    },
+    {
+      title: "Before we had names",
+      image: "assets/covers/Before we had names 3k cold.png",
+      section: "music",
+      page: "beforeWeHadNames",
+      spotify: "https://open.spotify.com/album/7DQi9bdHVbznCwOC4V3VA6?si=2zekirwhTvaEJXCOD6vDog",
+      youtube: "https://youtu.be/tvzx0xQNgjM?list=OLAK5uy_kxlODR4WV3sjcuFe72dT1s4kdos99NrNg"
     }
   ],
   showPlaceholder: false
@@ -305,6 +313,14 @@ Only our own landscapes — seen with different eyes.`,
       page: "iWillRise",
       spotify: "https://open.spotify.com/album/2Q6i421JDlhwWwSLpl4nPN?si=GJqXGfN-R0eLufQAzUUX-Q",
       youtube: "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M"
+    },
+    {
+      title: "Melinoë",
+      image: "assets/covers/Melinoë 3k.png",
+      section: "music",
+      page: "melinoe",
+      spotify: "https://open.spotify.com/album/5SUZcBHU3FG0alHCnaevDC?si=_DKyLwPmTImbWwrYihiVlw",
+      youtube: "https://youtu.be/Gki-hIDWqpE?list=OLAK5uy_m59Ivhstzg2fdPbEioZfp87pY97oTh_CI"
     }
   ],
   showPlaceholder: false
@@ -334,15 +350,73 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Succubus",
-      image: "assets/covers/todo.png",
+      image: "assets/covers/Succubus 3k.png",
       section: "music",
       page: "succubus",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/5oj87B4KFkrcE0tqpWho8H?si=MkqSabVBRi6jw6Ji5GkvPA",
+      youtube: "https://youtu.be/3Y1OlZY_cyk?list=OLAK5uy_nzUjB_OYNKhkpZ06o7v963E5o3AyvYA8Q"
+    },
+    {
+      title: "Midsummer Dominion",
+      image: "assets/covers/Midsummer Dominion 2 3k.png",
+      section: "music",
+      page: "midsummerDominion",
+      spotify: "https://open.spotify.com/album/6yiCRfXIINWqTsCStj9Ufb?si=Fmu0EyRmTHCchyZ5lSK6_A",
+      youtube: "https://youtu.be/nG7aoughrnE?list=OLAK5uy_nFtbLKWvONx65fcM8cVmhKsGJLimpfGVI"
     }
   ],
   showPlaceholder: false
     },
+
+    songsLifeDetah: {
+      menuTitle: "Livet och Döden",
+      title: "Livet och Döden",
+      intro: `Dessa sånger är om livets kretslopp, dess början och slut.`,
+      layout: "cards",
+      columns: 4,
+      cards: [
+        {
+      title: "A bird on the sign",
+      image: "assets/covers/A bird on the sign 3k.png",
+      section: "music",
+      page: "aBirdOnTheSign",
+      spotify: "https://open.spotify.com/album/7uEDzplg1p6Xx2FTt4nF0J?si=alO5rOJ0SH-7mrlklpguIA",
+      youtube: "https://youtu.be/mRSBCqWoVig?list=OLAK5uy_kgR62Lmk164DjjbqYOdbA13lW4fyVAxfA"
+    },
+    {
+      title: "Back to the roots",
+      image: "assets/covers/Back to the roots 3k 4.png",
+      section: "music",
+      page: "backToTheRoots",
+      spotify: "https://open.spotify.com/album/4fBEDSTSDVxWTgp4vebsDz?si=ARANwYOmSFu3Gmh1V3PegA",
+      youtube: "https://youtu.be/_YmzSx_RAdA?list=OLAK5uy_mDild3CtL_g2k5ravs3BgAmnKk1TzvSZQ"
+    },
+    {
+      title: "Death is nothing at all",
+      image: "assets/covers/Death is nothing at all 3k.png",
+      section: "music",
+      page: "deathIsNothingAtAll",
+      spotify: "https://open.spotify.com/album/2X2nAGVV7D3MtlVP0BSvWG?si=BhD8NtVgTHWCyDO0Kv_Rbw",
+      youtube: "https://youtu.be/FUwnxnMhKw8?list=OLAK5uy_nCG06phhAeUa2YnUjGHQlA0BNLCDsRRwc"
+    }
+    
+    /*
+    ,
+    {
+      title: "Stubbe",
+      image: "assets/covers/todo.png",
+      section: "music",
+      page: "stubbe",
+      spotify: "",
+      youtube: ""
+    }
+      */
+  ],
+  showPlaceholder: false
+    },
+
+
+
    songsSpirits: {
       menuTitle: "Ghosts and spirits",
       title: "Ghosts and spirits",
@@ -458,19 +532,19 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "One with Mother Earth",
-      image: "assets/covers/todo.png",
+      image: "assets/covers/One with Mother Earth 3k.png",
       section: "music",
       page: "motherEarth",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/10ziE18fznizhKQ1F6uMOq?si=3Djk0WE3S86ioGSSx_0EZw",
+      youtube: "https://youtu.be/ABZEO2O8Gyc?list=OLAK5uy_mQnPxUwgspgcjp7UTL4qMFyCsnrlpkVu4"
     },
     {
       title: "Red Serpent Rose",
-      image: "assets/covers/todo.png",
+      image: "assets/covers/Red serpent rose 3k.png",
       section: "music",
       page: "redSerpentRose",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/0kHMYgDclD4fEK4FKVeYEY?si=lGQSHeACStaR7OgoHeRakQ",
+      youtube: "https://youtu.be/8jqBgcZtdFo?list=OLAK5uy_msnf4s7vHqrDdPfX1VYMgscYl-2nvouMA"
     }
   ],
   showPlaceholder: false
@@ -514,6 +588,14 @@ Only our own landscapes — seen with different eyes.`,
       page: "scania",
       spotify: "https://open.spotify.com/album/42AarkdC4En5Gk6hKirgDe?si=XtUovdr_RLK4AagAYWDmIg",
       youtube: "https://youtu.be/BrdPCtitsYU?list=RDBrdPCtitsYU"
+    },
+    {
+      title: "Stay in the Blue",
+      image: "assets/covers/Stay in the Blue 3k.png",
+      section: "music",
+      page: "stayInTheBlue",
+      spotify: "https://open.spotify.com/album/2lVyrmldMW172SQL9g3NfP?si=7xdkwEeCThq_IlfiDBDSKw",
+      youtube: "https://youtu.be/9glUxqloouc"
     }
   ],
   showPlaceholder: false
@@ -1013,7 +1095,7 @@ You’re part of what made it bright
     blocks: [
       {
         type: "image",
-        src: "assets/covers/todo.png",
+        src: "assets/covers/Summer hymn 3k.png",
         size: "small"
       },
       {
@@ -1097,6 +1179,189 @@ abide in me
 
 `,
   showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   beforeWeHadNames: {
+    title: "Before we had names",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Before we had names 3k cold.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Before the names,
+before the maps,
+
+the earth
+was already listening.
+
+The flame
+did not ask
+to be believed.
+
+It gathered itself
+beneath the smallest breath,
+
+until darkness
+forgot
+its own name.
+
+Rain never remembers
+where it first began.
+
+Still,
+
+it finds
+every open hand,
+
+every quiet wound
+
+waiting
+for another season.
+
+Light arrives
+
+without footsteps.
+
+Dust becomes
+a sky of its own,
+
+and every window
+opens twice.
+
+Something keeps calling us—
+
+beneath the noise.
+
+Like the sea
+inside a shell,
+
+like home
+
+before
+there was a word
+for home.
+
+Roots
+write slowly
+
+to rivers
+no eye has seen.
+
+Whole forests
+
+rise
+
+from conversations
+
+held underground.
+
+Some doors
+appear
+
+only after
+someone dreams them.
+
+Stars
+have always preferred
+
+ordinary hands.
+
+Listen.
+
+No bird
+owns the wind.
+
+No echo
+belongs
+to the mountain.
+
+Nothing beautiful
+
+asks permission
+
+to remain.
+
+Perhaps
+
+we were never meant
+
+to become
+
+the same.
+
+Only
+
+near enough
+
+to hear
+
+the same silence.
+
+Morning
+
+is simply
+
+thousands of voices
+
+agreeing
+
+to become light.
+
+Where rivers
+
+meet oceans,
+
+nothing ends.
+
+Every current
+
+becomes
+
+a larger memory.
+
+Something keeps calling us—
+
+beyond ourselves.
+
+Like branches
+finding light,
+
+like rivers
+finding oceans,
+
+like strangers
+
+remembering
+
+they were never
+
+alone.
+
+Something keeps calling us—
+
+home.
+
+The earth
+
+never asked
+
+our names.
+
+Only
+
+whether
+
+we would
+
+listen.
+`,
       }
     ],
     showPlaceholder: false
@@ -1305,6 +1570,118 @@ Ooh
     showPlaceholder: false
    },
 
+   melinoe: {
+    title: "Melinoë",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Melinoë 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Keeper of the thinlit stair
+When the dark has two directions
+say my name there
+
+I saw a door in the hour before sleeping
+not made of wood, not made of stone
+it opened like a thought you never finish
+a breath between the marrow and the moon
+and someone walked there, half ash, half silver
+
+She did not ask for worship
+only listening
+only the courage not to turn away
+
+ Melinoë
+ walking between the worlds
+ Melinoë
+ where the hidden river curls
+ She comes in dream-light, black and pearl
+ she comes where the broken meanings swirl
+ Melinoë
+
+The night keeps books in a language of weather
+inked with the selves we refuse to see
+all of the faces I buried alive
+waiting with patience beneath my ribs
+shadow is not the beast at the threshold
+shadow is the child left out in the rain
+touch it and suddenly terror grows tender
+name it and even the silence has veins
+I followed the sound of my own intuition
+
+Into the not-yet-known
+into the room without corners
+into the hand of the unseen
+where every myth begins
+and every mask remembers
+
+ Melinoë
+ walking between the worlds
+ Melinoë
+ where the hidden river curls
+ She comes in dream-light, black and pearl
+ she comes where the broken meanings swirl
+ Melinoë
+
+Why have we always told these stories?
+Because the border keeps breathing at night
+Because the lost need a lantern of language
+Because the soul knows more than the eyes
+Because there are people who live in the crossing
+keepers of doorways, of omen, of flame
+and when we meet what we cannot explain
+we give it a face
+so we can bear its name
+
+I am afraid
+I am listening
+I am afraid
+I am listening
+
+ Melinoë
+ walking between the worlds
+ Melinoë
+ where the hidden river curls
+ Come through the dream-light, black and pearl
+ come where the hidden self uncurls
+ Melinoë
+ between the wound and wonder
+ Melinoë
+
+When morning fastens me back to one body
+leave one foot in the other land
+so I remember the oldest stories
+were only bridges
+built by trembling hands
+`,
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   /*
+   stubbe: {
+    title: "",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `
+`,
+      }
+    ],
+    showPlaceholder: true
+   },
+*/
    undertow: {
     title: "Undertow",
     hidden: true,
@@ -1489,7 +1866,7 @@ You are the one who needs me
     blocks: [
       {
         type: "image",
-        src: "assets/covers/todo.png",
+        src: "assets/covers/Succubus 3k.png",
         size: "small"
       },
       {
@@ -1541,8 +1918,64 @@ When power wore a woman’s face
 Say her name…
 Say it…
 Tell me you’re not afraid of her…
-Liar…`,
-  showPlaceholder: false
+Liar…`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   midsummerDominion: {
+    title: "Midsummer Dominion",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Midsummer Dominion 2 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Golden light on ancient fields, where the birch leaves dance and sigh
+Flower crown upon my head, beneath the never-setting sky
+Whispers of the old gods breathe through the maypole’s ribboned spine
+I am the flame, I am the root, the sacred and the wild divine
+
+Silk and velvet softly bind, like ivy ‘round the heart
+Sweet surrender calls my name, yet I hold the darker art
+
+ Come dance with me in twilight’s fire, my sweet and willing thrall
+ I wear the crown of summer’s bloom, I answer freedom’s call
+ With every kiss of wind and rose, every whispered fierce command
+ I rule the night with velvet claws in this Midsummer land
+ Oh, yield to me, my love, beneath the pagan moon so bright
+ In chains of flowers, bound in power… I own the endless light
+
+Blue and yellow on my skin, the colors of the North so true
+Black strands kiss like sacred vows, the old ways born anew
+Wind carries scent of lilac, earth and warm midsummer skin
+I am your queen, your gentle storm, the one who lets you sin
+
+Ribbons tight and heartbeats wild, between the sacred and profane
+In this rite of summer night, pleasure writes my name
+
+ Come dance with me in twilight’s fire, my sweet and willing thrall
+ I wear the crown of summer’s bloom, I answer freedom’s call
+ With every kiss of rope and rose, every whispered fierce command
+ I rule the night with velvet claws in this Midsummer land
+  Oh, yield to me, my love, beneath the pagan moon so bright
+ In chains of flowers, bound in power… I own the endless light
+
+Feel the pulse beneath the weather, taste the salt of summer sweat
+Here the old gods smile upon us… no shame, no regret…
+
+ Come burn with me in endless light, my fierce and tender thrall
+ I am the May Queen, I am the night, I hold you when you fall
+ Northern winds and pagan fire, leather, lace and blooming thorn
+ In sweet intensity we rise… forever I am born
+
+Midsummer… my dominion… forevermore…
+`,
+  
       }
     ],
     showPlaceholder: false
@@ -2471,7 +2904,7 @@ and to the runes beneath the trees.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/.png",
+        src: "assets/covers/One with Mother Earth 3k.png",
         size: "small"
       },
       {
@@ -2555,8 +2988,7 @@ Say with me:
 “I give and receive love freely.”
 “My voice matters.”
 “My mind is open and aware.”
-“I trust the flow of life.”`,
-  showPlaceholder: false
+“I trust the flow of life.”`
       }
     ],
     showPlaceholder: false
@@ -2568,7 +3000,7 @@ Say with me:
     blocks: [
       {
         type: "image",
-        src: "assets/covers/.png",
+        src: "assets/covers/Red serpent rose 3k.png",
         size: "small"
       },
       {
@@ -2604,8 +3036,7 @@ In the moment of ecstasy, heaven and hell…
  Eternal the fire we kindle within!
 
 93… 93… 93…
-`,
-  showPlaceholder: false
+`
       }
     ],
     showPlaceholder: false
@@ -3057,6 +3488,397 @@ Scania, our open land`,
    },
 
 
+   stayInTheBlue: {
+    title: "Stay in the Blue",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Stay in the Blue 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Blue smoke on the ceiling
+Night hum under my skin
+
+The room is breathing slow again
+A red light shakes against the wall
+Your shadow moves like velvet sin
+Then disappears before it falls
+The air tastes sweet and a little strange
+Like something holy turned inside-out
+I hear the floorboards say my name
+But no one here is speaking now
+
+I know this hour
+It bends the truth
+A silver fever
+Pulling me to you
+
+ Stay in the blue with me
+ Stay in the blue
+ Half dream, half danger
+ I want the whole of you
+ Stay in the blue with me
+ Stay in the blue
+ Slow fire, strange angel
+ I fade into you
+
+Stay in the blue
+Stay in the blue
+Slow fire
+I fade into you
+
+A glass of midnight on the table
+A soft confusion in the lamps
+Your kiss is tender, then unstable
+A quiet spark, a velvet trap
+The mirror bends the shape of time
+The curtains move with no wind through
+I should be running from this light
+But every dark road leads to you
+
+I know this fever
+I know this bruise
+A little heaven
+A little doom
+
+ Stay in the blue with me
+ Stay in the blue
+ Half dream, half danger
+ I want the whole of you
+ Stay in the blue with me
+ Stay in the blue
+ Slow fire, strange angel
+ I fade into you
+
+If this is madness, let it bloom
+If this is magic, let it bruise
+Your eyes go dark, the walls go soft
+And I go missing next to you
+
+Closer now
+Don't wake me up
+Closer now
+Don't wake me up
+
+ Stay in the blue with me
+ Stay in the blue
+ Half dream, half danger
+ I want the whole of you
+ Stay in the blue with me
+ Stay in the blue
+ Slow fire, strange angel
+ I fade into you
+
+Blue smoke
+Strange angel
+Stay in the blue
+Stay in the blue
+`,
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   aBirdOnTheSign: {
+    title: "A bird on the sign",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/A bird on the sign 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `The evening held its breath that day
+the road was quiet, the light was thin
+something moved inside the stillness
+before I could let it in
+
+You opened the door like I was no stranger
+no distance to cross, no doubt in your eyes
+just warmth in the room and space at the table
+and kindness made simple with time
+You carried that gift without ever naming it
+you made it feel easy to just belong
+and all of those hours now glow in the memory
+gentle as dusk, gentle as song
+
+And I felt something I could not say
+moving close as the fading light
+like a hush on the edge of the journey
+like a wing in the quiet sky
+
+ A bird on the sign in the last light waiting
+ still as a word that was never said
+ There in the wind I could almost hear you
+ soft as a blessing above my head
+ A bird on the sign, and my heart knew slowly
+ what my lips could not speak out loud
+ love leaves a mark in the air around us
+ and stays when the night comes down
+
+A bird on the sign
+I carry that still
+A bird on the sign
+and I always will
+
+Some people enter and alter the feeling
+not by force, only by who they are
+you were never the shadow the world likes painting
+you were hearthlight, an open arm
+I think of the cups and the cloth in the evening
+the small quiet grace in the shape of a room
+how welcome can live in the simplest gesture
+and turn an ordinary hour to bloom
+
+Now the road runs on, but it carries traces
+of all that was tender and true
+and sometimes the silence fills with a wingbeat
+and I know I am hearing you
+
+ A bird on the sign in the last light waiting
+ still as a word that was never said
+ There in the wind I could almost hear you
+ soft as a blessing above my head
+ A bird on the sign, and my heart knew slowly
+ what my lips could not speak out loud
+ love leaves a mark in the air around us
+ and stays when the night comes down
+
+I do not need to speak the name
+it lives in the hush, it lives in the flame
+in the cloth on the table, the fall of the evening
+in all of the ways a home can be kind
+Some loves do not leave with the body
+they stay in the breath and the light
+
+ A bird on the sign in the last light waiting
+ still as a word that was never said
+ There in the wind I could almost hear you
+ soft as a blessing above my head
+ A bird on the sign, and my heart knew slowly
+ what my lips could not speak out loud
+ love leaves a mark in the air around us
+ and stays when the night comes down
+
+A bird on the sign
+when the day was done
+love stays behind
+love carries on`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   deathIsNothingAtAll: {
+    title: "Death is nothing at all",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Death is nothing at all 3k.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `<i>Lyrics by <b>Henry Scott Holland</b> from sermon given in 1910</i>
+        
+        Death is nothing at all
+I have only slipped away into the next room
+I am I and you are you
+Whatever we were to each other
+That ...
+... we are still
+
+Call me by my old familiar name
+Speak to me in the easy way you always used
+Put no difference into your tone
+Wear no ... forced air of solemnity ... or sorrow
+
+Laugh as we always laughed
+At the little jokes we always enjoyed together
+Play, smile, think of me, pray for me
+
+Let my name be ever the household word that it always was
+Let it be spoken without effort
+Without the ghost of a shadow in it
+
+Life means all that it ever meant
+It is the same as it ever was
+There is absolute unbroken continuity
+
+What is death but a negligible accident?
+Why should I be out of mind
+Because I am out of sight?
+
+I am waiting for you for an interval
+Somewhere very near
+Just around the corner
+
+ All is well
+ All is well
+ All is well
+
+Nothing is hurt; nothing is lost.
+One brief moment
+and all will be as it was before.
+
+ All is well
+ All is well
+ All is well
+
+How we shall laugh at the trouble of parting
+when we meet again!
+
+ All is well
+ All is well`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   backToTheRoots: {
+    title: "titel",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Back to the roots 3k 4.png",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `[Intro - Distant choir, soft piano, low cello and breath-like flute]
+From the first dark soil beneath us
+To the last star overhead,
+We are carried for a little while,
+Then carried home instead.
+
+We brought you where the grasses bend,
+Where roots hold rain below,
+Where summer leaves return to earth
+And winter seeds will grow.
+
+I touched the ground above you,
+Warm from the fading sun,
+And thought of every road you walked,
+And all the miles now done.
+
+There were words I meant to tell you,
+Small things I thought could wait,
+How your laughter changed a room,
+How your presence gave it weight.
+
+Grief is not a door I close,
+Nor something I outgrow.
+It is love that lost its resting place
+And has nowhere else to go.
+
+So I will speak your name with kindness,
+And let the tears arrive.
+For everything that hurts this much
+Was beautiful alive.
+
+ Ashes to ashes,
+ Dust into ground,
+ Back to the roots
+ Where all life is found.
+
+ Breath to the wind,
+ Blood to the sea,
+ Earth, gentle mother,
+ Receive what we free.
+
+ Carry them softly
+ Through darkness and loam,
+ Under the branches,
+ Into the oldest home.
+
+ We give them with sorrow,
+ We give them with grace,
+ Back to the earth
+ That first gave us a place.
+
+Some speak of a garden,
+Some halls beyond the foam,
+Some trust the wheel of seasons,
+Where every soul turns home.
+
+Some gave their dead to fire
+And watched the smoke ascend.
+Some laid them near the standing stones
+Among their blood and friends.
+
+But fire becomes the weather,
+And ash becomes the field.
+The fallen leaf feeds roots below,
+And broken wood is healed.
+
+Bone returns to mineral,
+Breath returns to air,
+Rain becomes the river,
+And nothing stays nowhere.
+
+The oak releases every leaf.
+The mountain yields its snow.
+The tide receives a thousand streams
+And lets a thousand go.
+
+So may the soil receive you,
+Not as stranger, not as guest,
+But as one returning quietly
+To where all journeys rest.
+
+May flowers draw from what was you
+And lift themselves to light.
+May roots pass gently by your bones
+In the deep and patient night.
+
+ Ashes to ashes,
+ Dust into ground,
+ Back to the roots
+ Where all life is found.
+
+ Breath to the wind,
+ Blood to the sea,
+ Earth, gentle mother,
+ Receive what we free.
+
+ Carry them softly
+ Through darkness and loam,
+ Past root and stone,
+ Into the oldest home.
+
+ We give them with sorrow,
+ We give them with grace,
+ Back to the earth
+ That first gave us a place.
+
+ Ash into earth.
+ Breath into sky.
+ Love stays with love
+ When the body must die.
+
+ Root under root,
+ Stone under stone,
+ Earth, gentle mother,
+ Carry them home.`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   
+
+
+
+
+
+
 
    stubbe: {
     title: "titel",
@@ -3064,16 +3886,15 @@ Scania, our open land`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/",
+        src: "assets/covers/todo.png",
         size: "small"
       },
       {
         type: "text",
-        content: `lyrics`,
-  showPlaceholder: false
+        content: `lyrics`
       }
     ],
-    showPlaceholder: false
+    showPlaceholder: true
    }
   },
 
