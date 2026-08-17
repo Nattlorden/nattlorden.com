@@ -37,7 +37,7 @@ const contentSV = {
       type: "text",
       id: "Biografi",
       title: "Biografi",
-      content: `Freyja växte upp i stadsdelen Tannefors i Linköping som enda barnet. Pappa Jón som arbetskraftinvandrat, från Island via Italien, för arbete på SAAB, mamma Inger född i Linköping. 
+      content: `Freyja växte upp i stadsdelen Tannefors i Linköping som enda barnet. Pappa Jón som arbetskraftinvandrat, från Island via Italien, för arbete på SAAB, mamma Ingrid född i Linköping. 
       
       Skolgång vid Tanneforsskolan och därefter Kungsbergsskolan.
 
@@ -97,6 +97,74 @@ Albumets enda externa komposition blev en tolkning av "See See Rider Blues", urs
       En andra pressning av albumet utgavs med bonusspåret "Runor", inspelat under ledig studiotid i samband med förberedelserna inför bandets nästa album. Låten hade ursprungligen inte varit avsedd för utgivning då den skilde sig markant från gruppens etablerade blues- och rootsrocksound. Skivbolaget valde dock att inkludera inspelningen som ett extraspår på den nya upplagan.
 
 I efterhand har "Runor" uppmärksammats för sitt avvikande uttryck och har av flera skribenter beskrivits som ett tidigt exempel på de nordiska och mytologiska teman som Maj-Lisa senare kom att utforska i sitt soloprojekt <i>Freyja</i>.`
+    },
+    {
+      type: "sideImage",
+      src: "../MajLisa/assets/covers/Vägskäl 3k.jpg",
+      caption: "Vägskäl, 1981",
+      size: "medium"
+    },
+    {
+      type: "text",
+      id: "Vägskäl",
+      title: "Vägskäl",
+      headingLevel: 3,
+      content: `Albumets första sida domineras av mer utåtriktade låtar, medan B-sidan innehåller flera av Maj-Lisas mest introspektiva kompositioner.
+
+På frågan om vilken låt som var svårast att spela svarade Viking Hammarlund i en intervju: ”Skogen håller hårt. Inte för att den är tekniskt svårast, utan för att den betyder så mycket för Maj-Lisa att det måste bli rätt. Den stod alltid med ett frågetecken på setlistan, om hon skulle vilja – eller orka – sjunga den.”
+
+Omslagsfotot togs hemma i Maj-Lisas lägenhet under en låtskrivarkväll. Skivbolaget tyckte om bilden och använde den som albumomslag utan att något arrangerades om. Flera föremål på bordet – bland annat den handskrivna texten, kartorna och kassetten märkt ”Demo 3” – har senare blivit föremål för spekulationer bland fans.
+
+Om den synliga texten någonsin hamnade på någon demokassett är okänt. Fram tills eventuellt demomaterial dyker upp ur skivbolagets arkiv förblir ”Nick Carter” ett mysterium.
+
+Baksidan visar trappuppgången utanför Maj-Lisas lägenhet, som hon långt senare själv beskrev som ”platsen där varje spelning började”.
+      `
+    },
+    {
+      type: "sideImage",
+      src: "../MajLisa/assets/covers/The sinners' place 3k.png",
+      caption: "The Sinners' Place, 1982",
+      size: "medium"
+    },
+    {
+      type: "text",
+      id: "The Sinners' Place",
+      title: "The Sinners' Place",
+      headingLevel: 3,
+      content: `Maj-Lisa & Skramlet betalade en lång USA-semester ur egen ficka då skivbolaget enbart var villigt att stå för studiokostnaderna i New Orleans. Både Maj-Lisa och BP tog dessutom varsin paus under vistelsen och reste inrikes för att hälsa på släktingar.
+
+Många betraktar i efterhand "The Sinners' Place" som gruppens definitiva album. Det var också första gången en inspelningsort fick så tydligt avtryck på själva materialet. Flera av låtarna skrevs eller färdigställdes under vistelsen, och gränsen mellan sådant gruppen hade kommit dit för att spela in och sådant de upptäckte på plats blev efter hand allt mindre tydlig.
+
+Tidsdokumentet "They Buried a Promise", om <a href="https://en.wikipedia.org/wiki/Jazz_funeral_for_the_ERA">jazzbegravningen för Equal Rights Amendment</a>, cementerar gruppens närvaro i New Orleans i juli 1982. Maj-Lisa och flera av de andra följde processionen, som avslutades vid Jackson Square framför St. Louis Cathedral.
+
+Likaså kunde "Elysian Fields", om ett oplanerat och tankeväckande besök på Charlene's, knappast ha skrivits någon annanstans. Låten tillkom efter att Maj-Lisa under en ledig kväll följt med en av studions medarbetare till baren på Elysian Fields Avenue. Det som först tycks ha gjort starkast intryck på henne var hur odramatisk kvällen blev: en jukebox, samtal över bardisken och människor som för dem själva inte behövde förklara vilka de var.
+
+"Back to the Rising Sun" utgör en intressant alternativ behandling av "House of the Rising Sun". I stället för att ännu en gång spela in den traditionella sången använder Maj-Lisa dess välbekanta hus och miljö som utgångspunkt för en ny berättelse, denna gång sedd från människorna som arbetar i dess närhet.
+
+Även "Easy Mercy" och "Preacher" visar hur stadens religiösa språk letade sig in i materialet. Kyrkor, synd, förlåtelse och moral återkommer genom albumet, men sällan med enkla svar. Det religiösa bildspråket används snarare för människor som försöker leva med sina motsägelser än för att dela upp dem i skyldiga och oskyldiga.
+
+Maj-Lisas egna ord:
+
+"Vi kom till New Orleans för att spela in en skiva om människor. Inte om helgon. Om folk som gör fel, blir kära i fel person, dricker för mycket ibland, jobbar för hårt och försöker igen nästa dag. Efter ett tag insåg vi att vi själva passade in rätt bra där också. Så skivan fick heta <i>The Sinners' Place</i>."
+
+I efterhand framstår "Two Songs in One Voice" som albumets märkligaste låt. Medan stora delar av skivan betraktar New Orleans syndare, kyrkor, nattliv och människor handlar denna om något helt annat: Maj-Lisa själv. Texten utgår från ett möte med en tarotläsare. I senare intervjuer talade hon hellre om att två röster kunde finnas i samma människa än om själva spådomen.
+
+Albumets amerikanska prägel innebar samtidigt ingen fullständig musikalisk kursändring. Skramlets bluesrock finns kvar, men arrangemangen är öppnare än tidigare och ger större utrymme åt piano, blås och lokala rytmiska infall. Erfarenheterna från inspelningen skulle höras även efter hemkomsten, om än i alltmer svensk och mindre uttalat New Orleans-färgad form.
+
+När gruppen återvände till Sverige hade den därför inte bara spelat in sin fjärde LP. Den hade också fått med sig ett nytt sätt att arrangera, spela och skriva om andra människor. Spåren av det går att följa genom resten av Maj-Lisa & Skramlets katalog`
+    },
+    {
+      type: "sideImage",
+      src: "../MajLisa/assets/covers/Landskrona.png",
+      caption: "Maj-Lisa & Skramlet, 1984",
+      size: "medium"
+    },
+    {
+      type: "text",
+      id: "Maj-Lisa & Skramlet",
+      title: "Maj-Lisa & Skramlet",
+      headingLevel: 3,
+      content: `Text om Maj-Lisa & Skramlet`
     },
     {
       type: "divider"
