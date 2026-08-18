@@ -1210,6 +1210,129 @@ Asherah...`
     }
   ],
   showPlaceholder: true
+    },
+
+     materBona: {
+      menuTitle: "Mater Bona",
+      title: "Mater Bona",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 16e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Mater bona, mater lucis
+Mater vitae, duc nos
+Ave, mater misericordiae
+In corde tuo manemus
+
+When I was wandering without a name
+You kept a candle against the rain
+No hand was raised and no door was closed
+You gave me shelter when I needed most
+
+Through every valley, through every year
+Your quiet mercy was always near
+And when the road disappeared from view
+A patient light led me back to you
+
+From the earth to the morning sky
+Every living heart replies
+
+ She is
+ The hand that carries us home
+ She is
+ The love that never leaves us alone
+ Good Mother, stay beside us
+ When every earthly lantern is gone
+ She is
+ The dawn we are leaning upon
+
+Mater bona, lux aeterna
+Mater pacis, audi nos
+Sub tua luce ambulamus
+In amore vivimus
+
+She knows the weight of the smallest grief
+And turns our sorrow toward relief
+No crown of fear, no throne of pride
+Only compassion with arms open wide
+
+Where there is anger, teach us peace
+Where there is hunger, bring release
+Where we are strangers, make us one
+Children together beneath one sun
+
+From the earth to the morning sky
+Every living heart replies
+
+ She is
+ The hand that carries us home
+ She is
+ The love that never leaves us alone
+ Good Mother, stay beside us
+ When every earthly lantern is gone
+ She is
+ The dawn we are leaning upon
+
+Mater, doce nos amare
+Mater, doce nos donare
+Cor ad cor et manus in manu
+Ad pacem duc nos
+
+Teach us to give without asking why
+Teach us to lift every fallen life
+Teach us that kindness is never small
+A single flame can awaken us all
+
+Mater vitae
+Mater pacis
+Mater bona
+Mane nobiscum
+
+Mater vitae
+Mater pacis
+Mater bona
+Duc nos ad lucem
+
+ She is
+ The hand that carries us home
+ She is
+ The love that never leaves us alone
+ Good Mother, walk beside us
+ Until every wandering child belongs
+ She is
+ The dawn we are leaning upon
+
+ She is
+ The mercy stronger than stone
+ She is
+ The garden patiently grown
+ Good Mother, keep us together
+ And teach every heart to become
+ A light
+ For everyone
+
+Mater bona, mater lucis
+Mater vitae, duc nos
+In pace, in amore
+Mane nobiscum
+Amen`
+    }
+  ],
+  showPlaceholder: true
     }
 
 

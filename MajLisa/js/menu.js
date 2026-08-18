@@ -4,8 +4,8 @@ const sectionLabels = {
     nerlangsvagen: "Ner längs vägen",
     oresundsnatt: "Öresundsnatt",
     vagskal: "Vägskäl",
-    khellendros: "The Sinners' place",
-    threshold: "Maj-Lisa & Skramlet",
+    sinners: "The Sinners' place",
+    mls: "Maj-Lisa & Skramlet",
     anno84: "1984",
     other: "Varsamt",
     singles: "Singlar/EP",
@@ -16,8 +16,8 @@ const sectionLabels = {
     nerlangsvagen: "Ner längs vägen",
     oresundsnatt: "Öresundsnatt",
     vagskal: "Vägskäl",
-    khellendros: "The Sinners' place",
-    threshold: "Maj-Lisa & Skramlet",
+    sinners: "The Sinners' place",
+    mls: "Maj-Lisa & Skramlet",
     anno84: "1984",
     other: "Varsamt",
     singles: "Singles/EPs",
@@ -52,13 +52,13 @@ const siteMeta = {
     tagline: "...",
     headerClass: "header-nattlorden"
   },
-  khellendros: {
+  sinners: {
     title: "The Sinner's place",
     tagline: "...",
     headerClass: "header-nattlorden"
   },
   
-  threshold: {
+  mls: {
     title: "Maj-Lisa & Skramlet",
     tagline: "...",
     headerClass: "header-nattlorden"
@@ -109,12 +109,12 @@ const siteMeta = {
         tagline: "...",
         headerClass: "header-nattlorden"
       },
-      khellendros: {
+      sinners: {
         title: "The Sinners' place",
         tagline: "...",
         headerClass: "header-nattlorden"
       },
-      threshold: {
+      mls: {
         title: "Maj-Lisa & Skramlet",
         tagline: "...",
         headerClass: "header-nattlorden"

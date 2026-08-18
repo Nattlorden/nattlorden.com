@@ -2371,7 +2371,7 @@ och åt runans hemliga rötter
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/cyXfEvrWUNo?si=Gkb4uOA606jNYpeI" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6cZ8yxNlknD0wBGYtp7YPH?si=4e9908b0a745430c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/cyXfEvrWUNo?si=Gkb4uOA606jNYpeI" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -2473,7 +2473,7 @@ Mellan det som kommer och det man har
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/u7ryDvvDnos?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/4Usn2Q4VS3dpCUoaEu4bGv?si=1bcd36289849496d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/u7ryDvvDnos?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -2577,7 +2577,7 @@ I natt dansade jag i Köpenhamn
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/0knruODYYuY?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6wKSnSP6SyikxcLq7EmI3L?si=67b1d6ad4b6f412f" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/0knruODYYuY?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -2649,7 +2649,7 @@ Jag tar det jag vill ha
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/ahUGF03QW-8?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/316Ld55nerUHCNOj6slJVz?si=42b93e00d74d494e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/ahUGF03QW-8?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -2738,7 +2738,7 @@ så lärde vi oss vilka vi var
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/8ub-WO9oRbs?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/10OslGIfnaveqG63y6s2rl?si=2862f99937fa4b2c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/8ub-WO9oRbs?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -2841,7 +2841,7 @@ I min egen sång
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/aINsSH8ep1E?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0cRK01JAewf2DAxMdAQwP1?si=c7ca54e17f5c4483" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/aINsSH8ep1E?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -2948,7 +2948,7 @@ Och natten andas långsamt vidare
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KOvntnufERw?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/54VvjIOCJ2FQowtiaOmy9j?si=7207fc2a61234de4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KOvntnufERw?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3058,7 +3058,7 @@ fast ingen fråga kom idag
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/VTjgX0_7pSU?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/3f99qQCaX52lXFoczkW2Jf?si=8b90d3b9373b4600" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/VTjgX0_7pSU?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3159,7 +3159,7 @@ Det var ni som stod kvar
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/zuMyLzx4nWo?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/16yMl0hH61HeHbekaZeStl?si=7b7c551eb90e4d0d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/zuMyLzx4nWo?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3234,14 +3234,92 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/3rLD0Ad1IyD2q7G1I9wnNi?si=cc290f6e5b5f4d80" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Cold by the shoreline
+Wind in my hair
+Names in the timber
+Cut in with a blade
+
+We pulled the black boats over sleeping stones
+Breath like smoke from a wolf-bit dawn
+Iron on leather, ash on the hand
+A promise is heavier than any man
+
+The tide kept calling with a broken tongue
+The old ones listened, the young ones ran
+I stood where the fire made ghosts on the sail
+And swore my blood to the northern trail
+
+Hear the oars in the swell of the sea
+Hear the dark make a law out of me
+
+ Raise the sail, let it lash through the night
+ We were born where the cold learns to bite
+ Runes awake when the red sparks fly
+ No king above us, only sea and sky
+
+ Raise the flame, let it carve through the rain
+ Call my name through the thunder again
+ If I fall, let the long wind say
+ I went with the storm and I did not sway
+
+Snow on the shoulder, frost in the beards
+Fear is a thing that we sharpened for years
+Shields in a ring and the mast rope sings
+Luck is a crow with a knife in its wings
+
+I saw the edge of the world in the foam
+I saw the dead walk close to home
+Still I laughed when the breakers climbed
+Fate wants teeth, and so do I
+
+Hear the drum under skin and bone
+Hear the waves say you walk alone
+
+ Raise the flame, let it lash through the night
+ We were born where the cold learns to bite
+ Runes awake when the red sparks fly
+ No king above us, only sea and sky
+
+ Raise the flame, let it carve through the rain
+ Call my name through the thunder again
+ If I fall, let the long wind say
+ I went with the storm and I did not sway
+
+Stone remember
+Steel remember
+Every oath we fed to ember
+Wind remember
+Sea remember
+I am not the one to sever
+
+Stone remember
+Steel remember
+Drag my shadow into weather
+When the world splits
+When the mast bends
+I will row until the ending
+
+ Raise the flame, let it lash through the night
+ We were born where the cold learns to bite
+ Runes awake when the red sparks fly
+ No king above us, only sea and sky
+
+ Raise the flame, let it carve through the rain
+ Call my name through the thunder again
+ If I fall, let the long wind say
+ I went with the storm and I did not sway
+
+Ash in the wake
+Fire in the spray
+Night took the shore
+But not our name
 `
     }
   ],
@@ -3262,14 +3340,59 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0bH2Ql7UprCQ184QrcouWm?si=87b77b5e7c17464d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `I found your trace where the black trees bend
+Cold on the floor where the daylight ends
+Your coat on the chair like a ghost that stayed
+Your name in the dust that the window made
+
+I call through the boards and the broken light
+I ask every shadow where you went that night
+
+ Tell me where your heart ran wild
+ Tell me who could hold that fire
+ I crossed the dark for a single sign
+ Still chasing your footsteps through the pines
+
+The creek kept still but the wires hummed
+The moon looked thin like a bitten thumb
+I wore my fear like a borrowed skin
+Knocking on doors I should not have been in
+
+I heard your laugh in the winter glass
+A flash in the distance that would not last
+
+ Tell me where your heart ran wild
+ Tell me who could hold that fire
+ I crossed the dark for a single sign
+ Still chasing your footsteps through the pines
+
+No bed would warm
+No roof would keep
+The night grew teeth
+It would not sleep
+I held your echo against my chest
+A faithful wound that never rests
+
+ Tell me where your heart ran wild
+ Tell me who could hold that fire
+ I crossed the dark for a single sign
+ Still chasing your footsteps through the pines
+ Tell me where your soul fell loose
+ Out where the frozen branches shiver
+ I gave my breath to the empty blue
+ And the mountain gave me back a whisper
+
+I wait where the tall pines lean
+Where love goes lost and leaves no seam
+Your fading step, your vanished light
+I keep the watch through the longest night
 `
     }
   ],
@@ -3290,14 +3413,86 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0U6bL2QV5TlYEg8tx5h2gZ?si=c72fc08209714830" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `I ran through the names on the edge of the map
+I wore out the roads with a fire in my hands
+Every bright window said stay for the night
+But I was chasing a door that could open inside
+
+I asked the stations, I asked the sea
+Is there a corner of the world keeping room for me
+Not just a face in a frame of light
+Not just a kiss in the blur of night
+I want a place with a pulse and a flame
+A field I can call by a truer name
+Something wider than arms around
+Something living beneath the ground
+
+Then you stood there
+Like a road and a refuge at once
+And my heart said
+Maybe two truths can touch
+
+ Take me where the air knows my voice
+ Where the dark gives way by choice
+ I am not only looking for someone to hold
+ I am looking for a land for the soul
+ If your eyes can carry that light
+ If your hands can widen the night
+ Then be my sign, be my sky, be my home for a while
+ Be the place and the person combined
+
+I crossed through cities that glittered and lied
+Gold on the surface, no room deep inside
+I learned that a body can stand in a crowd
+And still feel smaller than dust in a cloud
+But when you laugh there is space in the sound
+A porch light steady when the rain comes down
+You are not only skin and bone
+You move like a country I’ve almost known
+
+So I keep turning
+From the noise to the living source
+And you keep leaning
+Like mercy without force
+
+ Take me where the air knows my voice
+ Where the dark gives way by choice
+ I am not only looking for someone to hold
+ I am looking for a land for the soul
+ If your eyes can carry that light
+ If your hands can widen the night
+ Then be my sign, be my sky, be my home for a while
+ Be the place and the person combined
+
+Maybe home is not a wall or a town
+Maybe home is the truth we make aloud
+A river in the blood, a shelter in the bone
+A road that says wander, but never alone
+So if I reach for you, I am reaching through
+To the larger blue
+To the room I knew was real
+Before I knew what to call it
+
+ Take me where the air knows my voice
+ Where the dark gives way by choice
+ I am not only looking for someone to hold
+ I am looking for a land for the soul
+ If your love can carry that light
+ If your heart can widen the night
+ Then be my sign, be my sky, be my home for a while
+ Be the place and the person combined
+
+I was searching for more than a name
+For a fire no storm could contain
+Now the road and the arms and the dawn align
+You are the place and the person combined
 `
     }
   ],
@@ -3312,7 +3507,7 @@ Mot himlen inatt...
   
   
 
-  khellendros: {
+  sinners: {
   about: {
     menuTitle: "The Sinners' place (album)",
     title: "The Sinners' place (album)",
@@ -3363,14 +3558,94 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6TBgWPJk7ZutYWkngqFEeN?si=5000eb538f6e4d70" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Moon hangs low on the Quarter tonight
+Sweat on the shutters, gold in the light
+
+Worked all day under red recording lamps
+Came out half-starved with a tremble in my hands
+One small drink on an emptier heart
+Now the street signs blur like a deck of cards
+Back home they'd raise up the midsummer pole
+Laugh in a ring, let the bright night roll
+Here the windows glow with a different kind of flame
+And every whispered blessing sounds almost like a name
+
+Little frogs in my head
+Snakes in the alley instead
+Birch leaves, beads, and summer smoke
+Two old worlds in one warm throat
+
+ Midsummer in New Orleans
+ White dress, black water, fever dreams
+ Maypole heart in a voodoo town
+ Saints look up while the sun goes down
+ Midsummer in New Orleans
+ Little frogs and serpent queens
+ I only saw what the tourists see
+ But the night made a ritual out of me
+
+Ritual out of me
+Ritual out of me
+Hot night, river breeze
+Ritual out of me
+
+No graveyard secrets opened wide
+Just painted signs and a guided side
+A shop with candles, a charm in glass
+A laugh from a doorway as the strangers passed
+But a tipsy moon can make its own parade
+Turn brass to prophecy, shadow to braid
+And somewhere between the church bell and the drum
+I felt my two old summers trying to become one
+
+Flower crowns and rattlesnake skin
+Innocence and original sin
+Little frogs, soft and strange
+Turned in the heat till the whole world changed
+
+ Midsummer in New Orleans
+ White dress, black water, fever dreams
+ Maypole heart in a voodoo town
+ Saints look up while the sun goes down
+ Midsummer in New Orleans
+ Little frogs and serpent queens
+ I only saw what the tourists see
+ But the night made a ritual out of me
+
+Maybe every town has its own spell
+One with flowers, one with bells
+One with a river dark and wide
+One where the daylight never dies
+And maybe I was dizzy, maybe that was true
+But the sky wore blue like a bruise you sing through
+
+Round and round in my mind I go
+Pole or serpent, bloom or bone
+Round and round till the night agrees
+Make a little myth of me
+
+ Midsummer in New Orleans
+ White dress, black water, fever dreams
+ Maypole heart in a voodoo town
+ Saints look up while the sun goes down
+ Midsummer in New Orleans
+ Little frogs and serpent queens
+ I only saw what the tourists see
+ But the night made a ritual out of me
+ Yeah, the night made a ritual out of me
+ Midsummer in New Orleans
+
+Little frogs - far from home
+River rising, don’t let go
+Morning comes to set me free
+But the night keeps singing through me
 `
     }
   ],
@@ -3391,14 +3666,79 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0ilexZWQpk5mQAZL3tXpif?si=c102ff9856c94a10" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Landed in the heat of a Louisiana July
+Taxi rolling slow beneath a purple evening sky
+Somewhere near Decatur Street I happened to look high
+Saw an old woman on a balcony watching people pass by
+
+The driver kept on talking, I was half a world away
+Trying to learn a city that seemed older than the day
+Streetcars rattled through the dusk, brass drifting from a doorway
+Old woman on a balcony watching the end of day
+
+Three nights later heading back from another studio run
+Band still arguing records, songs and which take should've won
+Neon shining in the puddles left behind the evening storm
+There she was above the sidewalk like she'd always been there before
+
+Young men chasing young dreams, lovers laughing in the rain
+Tourists getting lost again and finding Bourbon Lane
+Nobody looked up to see her, nobody knew her name
+
+Old woman on a balcony watching them again
+
+Made me start to wonder what those eyes had lived to see
+Riverboats and hurricanes rolling in from the sea
+Jazzmen hauling battered cases through the dawn humidity
+Old woman on a balcony watching history
+
+She's seen saints and she's seen sinners
+Seen them swear and seen them leave
+Seen forever made by midnight
+Gone by morning with the heat
+
+Old woman on a balcony
+Watching years go by
+
+Maybe once she wore the red dress
+Maybe once she danced till dawn
+Maybe once some young musician
+Wrote her name into a song
+
+Maybe once she broke a heart
+Maybe once she lost one too
+Maybe once she stood downstairs
+Exactly like the young girls do
+
+Ten years on if I come back
+Chasing songs through summer rain
+Will the jukebox still be playing
+Will the streets still know my name
+
+Will that balcony still hold her
+Watching through the evening heat
+Looking down on all the dreamers
+Moving restless through the street
+
+Or will somebody younger stop
+And wonder who she used to be
+Looking up and seeing
+An old woman on a balcony
+
+Louisiana evening
+River rolling endlessly
+One more song
+One more summer
+
+Old woman on a balcony
+Watching me
 `
     }
   ],
@@ -3419,14 +3759,84 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/5e7kIpckAh3QiLrXjdJD7J?si=8d1c9d4053664e66" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Tape deck running in a back-room studio,
+French Quarter air and a slow red radio.
+Lee was a tape-op girl, sharp eyes, a sideways smile,
+Said, “Not the band tonight — come lose your head a little while.”
+“I know a place with a jukebox out on Elysian Fields,
+Come on, May-Lease, leave the boys — let's see what the night reveals.”
+
+I said, maybe just one round,
+Then the whole world shifted when we crossed that side of town.
+
+ Just us girls on Elysian Fields,
+ That’s what the jukebox, the room, the midnight feels.
+ I stood there wondering what I'd find,
+ Listening to stories I'd carried a long time.
+ Cold beer, warm room, nowhere to hide,
+ Just people being people on a Saturday night.
+ Just us girls on Elysian Fields,
+ And the jukebox knew exactly how to heal.
+
+Back home there were stories passed around,
+Half in a whisper, half handed down.
+Folks talked like trouble waited behind every door,
+But nobody ever seemed to know what they were warning for.
+Lee said, “Baby, nobody’s hunting you,”
+And something in me caught when she said it like the truth.
+No sermon in the doorway, no sneer across the floor,
+Just a room full of women I'd been hearing about before.
+
+I said, maybe I was wrong,
+Maybe fear's just a story that survives too long.
+
+ Just us girls on Elysian Fields,
+ That’s what the jukebox, the room, the midnight feels.
+ Maybe all those warnings fade
+ When you finally walk inside the place they made.
+ Cold beer, warm room, nowhere to hide,
+ Just people being people on a Saturday night.
+ Just us girls on Elysian Fields,
+ And the jukebox knew exactly how to heal.
+
+Women slow-dancing in the red bar light,
+Somebody bought me a beer, asked what Sweden was like.
+No one grabbing, no one preaching, no one making a scene,
+Just laughter rolling easy through the nicotine sheen.
+I watched Lee laughing, and something in me gave,
+All those borrowed stories suddenly felt strange.
+Turns out the room I'd heard so much about
+Was just people trying to figure their own lives out.
+
+Then Charlene leaned across the bar and said,
+“Sweetheart, you registered? Election day’s ahead.”
+I laughed and said, “I’m Swedish — voting’s just what we do.”
+Half the room laughed, half raised a glass or two.
+And Charlene slapped the bar and grinned, “Well, ain’t that a world?”
+Me learning New Orleans, New Orleans teaching this girl.
+
+ Just us girls on Elysian Fields,
+ Turned out the only mask was the one the stories built.
+ Albert Collins crying, Irma Thomas on the wheel,
+ Just us girls on Elysian Fields.
+ Cold beer, warm room, nowhere to hide,
+ I let go of a few old tales I'd carried inside.
+ Just us girls on Elysian Fields,
+ And the jukebox knew exactly how to heal.
+ I walked in curious —
+ I walked out healed.
+
+Just us girls...
+Out on Elysian Fields...
+The afterlife could wait...
+And something in me healed.
 `
     }
   ],
@@ -3447,14 +3857,96 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/2qOcdhBoEF3rFLsYdTdkvG?si=0c145053a1794dfc" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Sunday morning, river light
+White cuffs clean, shoes shining bright
+He talks like mercy, talks like grace
+Keeps a soft blue smile on his face
+
+He shakes every hand by the churchyard gate
+Knows every widow, remembers every plate
+Calls out heaven in a Sunday suit
+But the mud on his tires tells another truth
+He blesses the broken, bows his head
+Pours out comfort like daily bread
+Then the sun goes down on St. Claude Street
+And another man walks in those same white feet
+
+No, I ain't saying he don't believe
+Only saying what a soul can weave
+Gold on the chain, dust on the knees
+One hand on the Book, one hand on the keys
+
+ Preacher, sweet and slow
+ Sermon high, shadow low
+ Preacher, gentle voice
+ Makes you think you got a choice
+ Sunday saint, Saturday sins
+ Lets the light in, lets the dark walk in
+ Preacher, heaven's grin
+ Sunday saint, Saturday sins
+
+Sunday saint, Saturday sins
+Sunday saint, Saturday sins
+Gentle voice, velvet skin
+Sunday saint, Saturday sins
+
+He don't have to steal, he don't have to lie
+Truth bends easy when the room runs dry
+He wears conviction like a tailored coat
+And slips through judgment note by note
+Not a monster, not a fraud
+Maybe he trembles before his God
+But his sins wore a collar and spoke in a gentle voice
+And the whole damn room mistook that sound for choice
+
+No, I ain't mocking the faith he knew
+I'm talking 'bout the split he grew into
+Fire on Sunday, smoke all week
+Halos look cheap when the whiskey speaks
+
+ Preacher, sweet and slow
+ Sermon high, shadow low
+ Preacher, gentle voice
+ Makes you think you got a choice
+ Sunday saint, Saturday sins
+ Lets the light in, lets the dark walk in
+ Preacher, heaven's grin
+ Sunday saint, Saturday sins
+
+I seen the river wash nothing clean
+Only carry off what might have been
+A man can pray and still be split
+Still kiss the cross with whiskey on his breath
+So ring that bell, let the people in
+Some saints wear white just to hide the skin
+
+Preacher
+Gentle voice
+Preacher
+No real choice
+
+ Preacher, sweet and slow
+ Sermon high, shadow low
+ Preacher, gentle voice
+ Makes you think you got a choice
+ Sunday saint, Saturday sins
+ Lets the light in, lets the dark walk in
+ Preacher, heaven's grin
+ Sunday saint, Saturday sins
+ Sunday saint, Saturday sins
+ Preacher
+
+He prayed on Sunday
+He strayed all week
+White collar, soft words
+River don't speak
 `
     }
   ],
@@ -3475,15 +3967,96 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6GmX2CeiTClVRkodudTTxz?si=7fb9c6445d924ffd" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
-`
+      content: `I keep my sins in a Sunday dress
+White gloves on a cheap red mess
+
+I lied with my chin held high
+Smiled like a saint, let the truth walk by
+Stole a kiss from the wrong back seat
+Left good love bleeding in the heat
+Broke my vows in a midnight glow
+Said "forgive me" before they'd know
+Down by the river I washed my hands
+Still saw the mark when the daylight landed
+
+Name it
+liar
+Name it
+thief
+Name it
+all underneath
+Every little wrong comes walking with me
+
+ Wash me in the rain again
+ Wash me white, wash me clean
+ Easy mercy, where have you been
+ I fall down, I walk in
+ I say sorry, they let me in
+ Wash me in the rain again
+ But the stain still shines underneath
+
+Easy mercy
+Easy mercy
+Rain again
+Rain again
+
+I used my tears like holy proof
+Turned my guilt into a little roof
+Held back love just to feel control
+Fed my hunger, starved my soul
+Bless me, Father, I know the line
+Say the script and I come out fine
+But heaven knows and the gutter too
+How easy grace gets used by fools
+
+Name it
+gambler
+Name it
+fake
+Name it
+every mistake
+Ring the bell, let the whole town wake
+
+ Wash me in the rain again
+ Wash me white, wash me clean
+ Easy mercy, where have you been
+ I fall down, I walk in
+ I say sorry, they let me in
+ Wash me in the rain again
+ But the stain still shines underneath
+
+If it all comes off that easily
+Why does it still stay on me
+If love forgives so naturally
+Why am I scared of what I see
+Rain on the roof, bells in the street
+Mercy is sweet, but it isn't free
+
+Count the sins
+One by one
+Kiss the cross
+Still not done
+
+ Wash me in the rain again
+ Wash me white, wash me clean
+ Easy mercy, where have you been
+ I fall down, I walk in
+ I say sorry, they let me in
+ Wash me in the rain again
+ Easy mercy on my skin
+ But the stain still sings within
+
+Easy mercy
+easy mercy
+Rain again
+let it rain again`
     }
   ],
   showPlaceholder: false
@@ -3503,15 +4076,89 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/41Gw4XAqBPr4FZsceG3Ru0?si=62015773ad2c4ff6" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
-`
+      content: `There is a house down by the riverside
+They know my face, they know my name
+
+There is a house down by the riverside
+Where the red lights burn like a warning flame
+And it's been the ruin of a thousand souls
+Now I'm walking back through that door again
+I swore one spring I'd leave this town
+With clean white shoes and an honest plan
+But the cold got mean and the money died
+Now the house is taking me back again
+
+Don't tell my mother where I've been
+Don't tell my sister what I am
+I wore my pride like a silver cross
+Till hunger put it in their hands
+
+ Back to the rising sun
+ Back where the good girls come undone
+ Back to the hall with the velvet walls
+ And the fists and the perfume and the loaded fun
+ Back to the rising sun
+ Lord, I said I'd run, I'd run
+ But the rent don't wait and the night don't care
+ So I'm back, back to the rising sun
+
+Back, back to the rising sun
+Back, back to the rising sun
+
+The dealer smiles with a preacher's teeth
+The boss man talks like a gentleman
+But every room in that crooked house
+Has a price on flesh and a debt on breath
+I learned too young how to paint my eyes
+How to laugh when the wolves walk in
+How to dance on a broken heel
+And make bad luck look like confidence
+
+Don't tell my mother I came home
+Don't say I bent, don't say I broke
+A woman can drown in daylight too
+With both hands wrapped around false hope
+
+ Back to the rising sun
+ Back where the good girls come undone
+ Back to the hall with the velvet walls
+ And the fists and the perfume and the loaded fun
+ Back to the rising sun
+ Lord, I said I'd run, I'd run
+ But the rent don't wait and the night don't care
+ So I'm back, back to the rising sun
+
+If I had a daughter, I'd teach her fast
+Keep your heart out of a hungry town
+Don't trade your name for a satin dress
+Don't let hard men write your value down
+But the road is long and the winter bites
+And mercy's thin when the money's gone
+So I pin my hair and I fix my smile
+And I step back in before the dawn
+
+Oh Lord
+Mm-mm
+Hey
+
+ Back to the rising sun
+ Back where the good girls come undone
+ Back to the hall with the velvet walls
+ And the fists and the perfume and the loaded fun
+ Back to the rising sun
+ Lord, I said I'd run, I'd run
+ If I lose my soul for another month
+ Still I'm back, back to the rising sun
+
+There is a house down by the riverside
+And tonight that house still owns my name`
     }
   ],
   showPlaceholder: false
@@ -3531,7 +4178,7 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6Ya1OBBKkBQX6uSotD6LHX?si=995601f47c0b4d8c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3559,14 +4206,88 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/7lTZY4vqnWbQ6FoLeah8CR?si=edf89055cba14cc4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `On the street I saw a girl cry
+Told myself she'd be alright
+
+On the street I saw a girl cry
+Told myself she'd be alright
+Told myself it’s not my fight
+Kept on walking through the night
+Pains me now I never asked why
+
+Ain’t always the things we do
+Sometimes it’s what we don’t come through
+
+ Not my fight
+ Not my place
+ Not my business anyway
+
+ Funny how those words come back
+ When the river runs black
+
+Old trumpeter stepped off the stage
+Smoked his phag
+Coughed blood in a rag
+Took another drag
+
+We called it age
+We called it whiskey’s wage
+Like some old debt being paid
+Nobody asked if he was afraid
+
+Ain’t always the things we do
+Sometimes it’s what we let pass through
+
+ Not my fight
+ Not my place
+ Not my business anyway
+
+ Funny how those words come back
+ When the river runs black
+
+Seen it happen time after time
+Barkeep leaned on the bar
+Counted tips in a jar
+Watched her leave in his car
+
+Young girl got too drunk
+Old man was surely no monk
+Next week she turned up in a trunk
+And I said it was no fault of mine
+
+Every silence leaves a mark
+Every “later” feeds the dark
+You can wash your hands in rain
+Still it all comes back again
+
+Funny how it wears my face
+Funny how it knows my name
+
+ Not my fight
+ Not my place
+ Not my business anyway
+
+ Funny how those words come back
+ When the river runs black
+
+ Not my fight
+ Not my place
+ Not my business anyway
+
+ Funny how it wears my face
+ When the river runs black
+
+Not my fight
+Not my place
+Funny how it wears my face
+River runs black through the night
 `
     }
   ],
@@ -3587,14 +4308,93 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/3fnuxLgmXvz13J81tvksfC?si=f4cd02b303804abf" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `I came down by the river
+just to cool this weary head
+July heat hung like a blanket
+over words nobody said
+
+A brass band turned the corner
+all dressed in black and white
+playing something old and lonesome
+through the fading summer light
+
+People lined the sidewalks
+some were crying, some just stared
+someone whispered "it's a funeral"
+for a dream that wasn't spared
+
+I asked what soul they'd come to bury
+what sinner met his end
+they said no man was in that casket
+just a promise and a friend
+
+Nobody could tell me
+how a promise comes to die
+but I watched that slow parade roll past
+beneath a burning sky
+
+ They buried a promise in St. Louis this summer
+ carried it slow through the heat and the haze
+ If heaven keeps its gates locked tighter than ever
+ we'll find our own road
+ to the sinners' place
+
+ Oh, the sinners' place
+ yeah, the sinners' place
+
+Saw a waitress from Missouri
+raise her glass along the r/au/wt
+saw a biker kill his engine
+just to hear the trumpets shout
+
+Saw old women dressed for Sunday
+standing tall against the sun
+every face looked like it carried
+some unfinished thing undone
+
+Nobody was preaching
+nobody called a name
+but the silence told a story
+and everybody felt the same
+
+ They buried a promise in St. Louis this summer
+ carried it slow through the heat and the haze
+ If heaven keeps its gates locked tighter than ever
+ we'll find our own road
+ to the sinners' place
+
+ Oh, the sinners' place
+ yeah, the sinners' place
+
+If the saints won't have us
+we'll find another door
+there's a place for sinners somewhere
+like there always was before
+
+Maybe all we're really searching
+for beneath these borrowed skies
+is a place where broken promises
+don't have to wear disguise
+
+ They buried a promise in St. Louis this summer
+ I still hear the horns when the evening turns grey
+ They can bury a promise
+ but they can't bury the hunger
+ that keeps us walking
+ to the sinners' place
+
+ Oh, the sinners' place
+ that's where we'll stay
+
+They buried a promise...
+in St. Louis this summer...
 `
     }
   ],
@@ -3615,15 +4415,101 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0oY3suwFNMfEo7Ve76Tf2E?si=9834dd6c4aa747b0" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
-`
+      content: `Band had a night off down in New Orleans
+Humidity rising off the blacktop sheen
+A trumpet man laughed from a doorway light
+"You've never had your cards read?" "Not tonight"
+
+[Before the Reading - female vocal, half-spoken, sly, 4 bars]
+Half for a laugh, half curiosity
+Half for the band, half for the mystery
+I said, "Lead on, boys, let's see what she sees"
+With the river rolling warm through the cypress breeze
+
+She laid down The Hermit with a candle hand
+Said, "Child, you're hunting what you already have"
+I smiled at the boys like it was old ghost-talk
+Cheap room incense and a whole lot of fog
+But she kept her eyes where the truth sits still
+Like she knew my name before I said I will
+I laughed too quick, said, "Lady, that's rich"
+But something in me gave a little twitch
+
+ Two songs in one voice
+ Two roads, one choice
+ I laughed when she said it
+ But I still hear it
+
+Could've been whiskey
+Could've been the heat
+
+Then came The Chariot, wheels under flame
+She grinned and said, "You spend your life moving"
+I thought of chrome and highway rain
+Cold Swedish mornings and Louisiana evenings
+Bootheels, backbeats, bus windows, bars
+Letters never sent and sleep in cars
+Everybody laughed, "Well, that much is true"
+But she said, "Motion ain't the same as getting through"
+
+ Two songs in one voice
+ Two roads, one choice
+ You can run all night
+ Still carry both lives
+
+I looked at the table
+And then at my hands
+
+Then The Moon came down like a bruise in blue
+She touched the card and the room got small
+Said, "There's a woman in you you don't speak to
+She walks beside you when the shadows fall"
+I said, "Now hold on, you reading dreams?"
+She said, "No child, I'm reading seams
+The place where one true thing divides in two
+The face you hide when the night looks through"
+
+ Two songs in one voice
+ Low fire, low noise
+ I wanted to joke
+ But my throat went tight
+
+Last came Two of Cups and I rolled my eyes
+Thought she'd talk romance like they always do
+She shook her head slow, said, "No, not this time
+This is not about somebody coming to you"
+"Everybody thinks that, but they think too small
+This is two selves hearing one long call
+One day you'll stop choosing what to destroy
+You'll let them meet, and you'll make one joy"
+
+Outside the boys said, "So you're two people now?"
+We all cracked up and somebody ordered beer
+Streetcar bells rang, somebody took a bow
+Night kept moving like nothing happened here
+I raised my glass, said, "Here's to prophecy"
+But the words sat down and stared back at me
+
+ Two songs in one voice
+ Two roads, one choice
+ I laughed when she said it
+ Now I live inside it
+ Two songs in one voice
+ No coin toss, no choice
+ When the dark speaks plain
+ Both names remain
+
+Old Madame, candle, cards, and smoke
+One night in New Orleans, one little joke
+But the river keeps what the river knows
+And the second self was the one that rose`
     }
   ],
   showPlaceholder: false
@@ -3643,7 +4529,7 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/1l7TtX1I44AwkdXm7CBIV1?si=201672468f7742b4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3672,14 +4558,42 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6sLCUqu8INr3A9pqovI3Of?si=2c4ecdbfdf094931" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `
+      content: `Trouble in mind...
+I'm blue...
+But I won't be blue always...
+
+Trouble in mind
+I'm blue
+But I won't be blue always
+The sun's gonna shine
+In my back door someday
+
+I'm all alone now
+At the close of day
+Thinking 'bout the good times
+That just slipped away
+
+I ain't never running
+Back where I came from
+Some roads leave scars
+Long after they're gone
+
+Rain against the window
+Neon on the floor
+Every shadow whispers
+He won't walk through that door
+
+Trouble in mind...
+Yeah I'm blue...
+But the sun's gonna shine...
+Someday...
 `
     }
   ],
@@ -3687,10 +4601,10 @@ Mot himlen inatt...
       
     }
 
-}, /* end Khellendros */
+}, /* end sinners */
 
 
-  threshold: {
+  mls: {
     about: {
       menuTitle: "Om",
       title: "Maj-Lisa & Skramlet",
@@ -3714,6 +4628,406 @@ Mot himlen inatt...
       }*/
     ],
     showPlaceholder: true
+    },
+
+    mls1: {
+      menuTitle: " 1. Syndarnas plats",
+      title: "Syndarnas plats",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/6gEScwQSY4H99KL2qNpMdJ?si=8d264715e9234079" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Vi kom hem ifrån Syndarnas Plats
+med lera på stövlar och New Orleans i blodet
+där nere sjöng de högt om synd och nåd
+här hemma är det tystare, mer undangömt
+
+Inga präster som säljer förlåtelse på gatan
+ingen häxkonst i skyltfönstret, inga neonljus som skriker
+bara grå betonghus i rad, fönster som stirrar tillbaka
+
+ Vi kom hem ifrån Syndarnas Plats
+ här finns inga Syndens Palats
+ men synden bor ändå bakom fasaderna grå
+ i svartklubbar som aldrig ser dagens ljus
+ och längs Kungsgatan gled torskarna tysta
+ letandes efter en kropp att köpa för natten
+
+Jag gick på Malmö Latin varje dag
+böcker under armen, sexton och arg
+nån gång tog en hand i mörkret tag
+"vill du följa med, lilla flicka, du får bra betalt"
+Jag spottade och sprang, men jag glömde det aldrig
+
+Teresa var sex år äldre, hittades vid Värnhem
+under en matta i ett rivningshus, strypt och skändad
+samma gata, samma skugga som jag kände i nacken
+de säger att det var en ensam galning
+men vi vet att synden aldrig är ensam här
+
+ Vi kom hem ifrån Syndarnas Plats
+ här finns inga Syndens Palats
+ men synden finns att få, den ligger och väntar
+ bakom anonyma dörrar, i trappuppgångar kalla
+ ingen jazzbegravning, bara tystnad och regn
+ och en flicka som lärde sig tidigt hur mörkret luktar
+
+Vi kom hem… ifrån Syndarnas Plats…
+och synden följde med hem…`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls2: {
+      menuTitle: " 2. Look at me now",
+      title: "Look at me now",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/3Sy3J4LGaSBqU3Gmy9tYQW?si=d9469e83c6294769" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls3: {
+      menuTitle: " 3. Tom B",
+      title: "Tom B",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/2bJL0AG6OaVT4wuMXHCTMA?si=cb89af18e9f1468e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls4: {
+      menuTitle: " 4. Mellan hyllorna",
+      title: "Mellan hyllorna",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/6yGS75b8z054t6KUPOfup0?si=781b415f9090448c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls5: {
+      menuTitle: " 5. Before I found you",
+      title: "Before I found you",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls6: {
+      menuTitle: " 6. Huset minns",
+      title: "Huset minns",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/409dlJeBthj28unnGoTBT9?si=65090ae05fd744b1" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls7: {
+      menuTitle: " 7. Främmande män på vår strand",
+      title: "Främmande män på vår strand",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/5fuTxQtTrBrsLwKp9FOvMD?si=caae603e9d1a4f15" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls8: {
+      menuTitle: " 8. Ride, Sally Ride",
+      title: "Ride, Sally Ride",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/29vrNYs85gL9ZZB4R1DUxT?si=f4f895297bff4fa2" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls9: {
+      menuTitle: " 9. Näcken",
+      title: "Näcken",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/6KWVVGH7FH0J9fdgQuJ3OB?si=8cc24cad2de34767" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls10: {
+      menuTitle: " 10. Starka armar, mjukt hjärta",
+      title: "Starka armar, mjukt hjärta",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/1hziu482qur5gTFPKUkMQj?si=e58acd9d9b354ae7" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls11: {
+      menuTitle: " 11. Jag och vägen lever",
+      title: "Jag och vägen lever",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/6xyVyCqzoZEyxC5RUb6rwH?si=7ac63b91c2384826" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls12: {
+      menuTitle: " 12. Autumn",
+      title: "Autumn",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/3A0K2RQPt3GAULdkxKTuLo?si=36a0912c7d1b4ac4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
+    },
+    mls13: {
+      menuTitle: " 13. Där borta börjar världen",
+      title: "Där borta börjar världen",
+      blocks: [
+     /*{
+      type: "image",
+      src: "assets/covers/Inside the amber smoke.png",
+      size: "small",
+      caption: "Publicerad 26e oktober 2025"
+    },*/
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/4ROQRGIyEn75f3w6AaTRta?si=b371f7e475524b46" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: false
+      
     }
 
   },
