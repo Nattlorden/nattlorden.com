@@ -4714,8 +4714,88 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Look at me now
+Look at me now
+
+I wore my patience like a borrowed coat
+Kept every warning folded in a note
+You drew a doorway where the wall had been
+Then stood there smiling, daring me to lean
+
+I heard the floorboards talking in the dark
+A little rhythm and a restless spark
+You said tomorrow had a sweeter name
+But every promise tasted just the same
+
+I have been waiting at the edge too long
+Turning every doubt into a song
+Now the night is pulling back its veil
+And I can see the fire on the trail
+
+ See me, I am standing in the light
+ No more disappearing from the fight
+ See me, every scar has learned to shine
+ This heart, this voice, this life is mine
+
+ See me, let the old world lose its hold
+ I am done with doing what I’m told
+ Let the thunder roll across the blue
+ I can finally see right through you
+
+You kept your mercy in a locked-up room
+Fed me a flower that refused to bloom
+I made a ladder from the words you threw
+Climbed past the shadow that I mistook for you
+
+The mirror knows the woman I became
+She does not tremble when you say her name
+She wears the weather like a crown of sparks
+And leaves her footprints burning through the dark
+
+I have been waiting at the edge too long
+Turning every doubt into a song
+Now the night is pulling back its veil
+And I can see the fire on the trail
+
+ See me, I am standing in the light
+ No more disappearing from the fight
+ See me, every scar has learned to shine
+ This heart, this voice, this life is mine
+
+ See me, let the old world lose its hold
+ I am done with doing what I’m told
+ Let the thunder roll across the blue
+ I can finally see right through you
+
+Oh, look at me now
+Look at me now
+
+I do not need your eyes to know
+How far I came, how high I go
+I do not need your hands to steer
+The road is wide, the way is clear
+
+You built your kingdom out of doubt
+I struck one match and walked right out
+
+ See me, I am standing in the light
+ No more disappearing from the fight
+ See me, every scar has learned to shine
+ This heart, this voice, this life is mine
+
+ See me, let the old world lose its hold
+ I am done with doing what I’m told
+ Let the thunder roll across the blue
+ I can finally see right through you
+
+See me
+Look at me now
+See me
+I will not bow
+
+This heart
+This voice
+This life is mine`
     }
   ],
   showPlaceholder: false
@@ -4742,8 +4822,74 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `När dimman lägger sig över mossen
+och världen håller andan en stund,
+går någon där som aldrig frågar
+vem som äger skog och grund.
+
+Han hälsar sten som gamla vänner,
+bäcken svarar med sitt brus.
+Ingen brådska, inga planer,
+bara dagens stilla ljus.
+
+En handelsman kom tung av silver,
+frågade: "Vilken väg är bäst?"
+Tom log bara mot hans oro:
+"Den du ser när du går  med resten."
+
+"Resten?" sa mannen.
+"Ja, med skogen.
+Den har väntat längre än du."
+
+ Hej, Tom, gamle vandringsman,
+ vinden bär din gång.
+ Ingen krona, ingen tron,
+ du var fri med egen sång.
+
+ Hej, Tom, under lövens valv,
+ dagen blir så lång.
+ Den som lyssnar innan han talar
+ går sällan riktigt fel.
+
+Soldater drog med blanka hjälmar,
+präster kom med heliga ord.
+Kungar ritade nya gränser,
+alla ville lämna spår.
+
+Tom såg hösten komma stilla,
+såg en björk bli gammal ved.
+Han sa: "Löv vet inget om seger.
+Ändå faller de med gra:s."
+
+Jag har mött dem som vill äga
+jord, idéer, själ och namn.
+Men den friaste jag känner
+gick med tomma händer fram.
+
+Kanske finns den största styrkan
+där ingen söker den.
+Hos den som kan lämna guldet
+utan att se sig om igen.
+
+ Hej, Tom, gamle vandringsman,
+ vinden bär din sång.
+ Ingen krona, ingen tron,
+ bara jorden dagen lång.
+
+ Hej, Tom, under lövens valv,
+ solen går sin gång.
+ Den som släpper taget först
+ är den som bär sig längst.
+
+När kvällen lägger skuggor
+över vide, sten och sjö,
+hörs ett skratt bland alarnas kronor.
+
+Vissa säger:
+"Det var bara vinden."
+
+Kanske har de rätt.
+Det gör mig ingenting.`
     }
   ],
   showPlaceholder: false
@@ -4770,8 +4916,104 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Jag gick in för att låna en bok
+och kom hem med ett annat liv
+
+Det regnade snett över torgets sten
+jag sökte ett svar till seminariet
+men damen vid disken såg på mig
+som om hon visste vad jag inte vet
+
+Hon ställde tre böcker bredvid min hand
+en från Chile, en från Japan
+den tredje bar damm från en Indisk stad
+och ingen stod på kursens blad
+
+Jag kunde ha lämnat dem där
+gått hem som den jag var
+men mellan pärmarna låg en värld
+och väntade på mitt svar
+
+ Mellan hyllorna, mellan hyllorna
+ fick mitt lilla rum en horisont
+ Jag gick in för att låna en bok
+ men kom hem med ett annat liv
+
+ Mellan hyllorna, mellan hyllorna
+ samma längtan under andra namn
+ Jag gick in för att låna en bok
+ men kom hem med ett annat liv
+
+Ett annat liv
+mellan hyllorna
+ett annat liv
+i mina händer nu
+
+En kvinna i Santiago höll ut
+när dörrarna slogs igen
+En ensam man såg vintern falla
+och väntade på en vän
+
+Vid en flod där hettan aldrig sov
+bar någon samma oro som jag
+olika gator, olika ord
+men samma natt och samma dag
+
+De sa att världen var för stor
+för den som aldrig rest
+men varje sida öppnade
+en dörr mot öst och väst
+
+ Mellan hyllorna, mellan hyllorna
+ fick mitt lilla rum en horisont
+ Jag gick in för att låna en bok
+ men kom hem med ett annat liv
+
+ Mellan hyllorna, mellan hyllorna
+ samma längtan under andra namn
+ Jag gick in för att låna en bok
+ men kom hem med ett annat liv
+
+Det var inte flykt
+det var inte dröm
+det var människor som höll sig kvar
+
+Inte hjältar av sten
+bara rädda ibland
+med en morgondag att försvara
+
+Och jag såg mig själv
+där jag minst anade
+på en plats där jag aldrig varit
+
+Så stämpla mitt kort
+och skriv dagens datum
+jag lämnar tillbaka det jag lånat
+
+Men något blir kvar
+när boken går hem
+något ingen kan kräva tillbaka
+
+ Mellan hyllorna, mellan hyllorna
+ fick mitt lilla rum en horisont
+ Jag gick in för att låna en bok
+ men kom hem med ett annat liv
+
+ Mellan hyllorna, mellan hyllorna
+ samma längtan under andra namn
+ Jag gick in för att låna en bok
+ men kom hem med ett annat liv
+
+Ett annat liv
+ett annat liv
+mellan hyllorna
+ett annat liv
+
+Kortet ligger kvar i min hand
+med ett datum blekt av tid
+
+Jag gick in för att låna en bok
+och kom hem med ett annat liv`
     }
   ],
   showPlaceholder: false
@@ -4798,8 +5040,100 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Dust in the window, bells on the door
+Saturday light on a secondhand floor
+I came for a lamp, maybe something small
+Then two strangers stopped me from inside a frame
+
+He’s wearing a tie like the day meant a lot
+She’s holding his arm, but her smile looks caught
+There’s a house in the distance, a summer-blue sky
+And somebody’s handwriting fading behind
+
+Was it their wedding, their first piece of land?
+Did he build that porch with the cuts on his hands?
+Did she sing in the kitchen when nobody knew?
+Did they grow old together, or just mean to?
+
+The clerk says, “Three dollars, the frame’s still good”
+Like the faces inside it are only wood
+I turn it around, but I can’t walk away
+Somebody loved them enough to save that day
+
+ Who were you before I found you?
+ Where did all your years run to?
+ Were you held when the hard rain came?
+ Did somebody still call your name?
+
+ Now your whole life fits in my hands
+ Two unknown hearts in a secondhand frame
+ I’m taking you home, though I’ll never know
+ Who you were before I found you
+
+Before I found you
+Before I found you
+Somebody knew you
+Before I found you
+
+Maybe that boy in the corner was theirs
+Maybe he left before silver touched their hair
+Maybe the picture was boxed in a move
+Then passed through a family with nothing to prove
+
+Did she outlive him and keep it nearby?
+Did she speak to his face on the loneliest nights?
+Or were they just friends on a bright afternoon
+Who promised to write, then forgot to?
+
+There’s no date I can trust, no name I can read
+Only sunlight, two shadows, a half-hidden tree
+But the longer I look, the more certain it seems
+A life can go missing and still leave a gleam
+
+ Who were you before I found you?
+ Where did all your years run to?
+ Were you held when the hard rain came?
+ Did somebody still call your name?
+
+ Now your whole life fits in my hands
+ Two unknown hearts in a secondhand frame
+ I’m taking you home, though I’ll never know
+ Who you were before I found you
+
+One day my face may lose its name
+On a stranger’s shelf in a lovely frame
+They’ll guess at the coat, the room, the year
+They’ll never know why you were standing near
+
+Maybe that’s all any picture can do
+Hold one small second and swear it was true
+Not who we became, not what we went through
+Just proof that somebody once stood beside you
+
+So I pay at the counter and carry you out
+Past the lamps and the records and old winter coats
+The street keeps moving, the afternoon goes
+And two quiet strangers come home
+
+ Who were you before I found you?
+ Where did all your years run to?
+ I hope you were held when the hard rain came
+ I hope somebody still spoke your name
+
+ Now your whole life fits in my hands
+ Two unknown hearts in a secondhand frame
+ I’m taking you home, though I’ll never know
+ Who you were before I found you
+
+Before I found you
+Before I found you
+Somebody loved you
+Before I found you
+
+Dust in the window, bells on the door
+Two lives leaving a secondhand store
+No names, no answers, only the view
+Of somebody standing beside you`
     }
   ],
   showPlaceholder: false
@@ -4826,8 +5160,57 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Det finns ett hus som aldrig somnar...
+Det viskar mitt namn när vinden vänder.
+
+Mormor sa att väggar lyssnar,
+jag skrattade och gick min väg.
+Nu hör jag steg i tomma rum,
+från någon som försvann för längesen.
+
+Jag bär en nyckel utan lås,
+ett fotografi utan år.
+Alla lämnar sina skuggor,
+ingen lämnar spåren kvar.
+
+Om blodet minns...
+måste hjärtat få glömma.
+
+ Huset minns,
+ men jag stannar inte kvar.
+ Jag river tystnaden ur väggarna,
+ lämnar ljuset där det var.
+
+ Jag är inte kedjan,
+ inte sista såret nu.
+ Jag går ut genom den dörr
+ ingen vågade gå ut genom förut.
+
+Kvinnor bar hela himlen
+utan att be om en hand.
+De sydde ihop spruckna vintrar
+med nål av hopp och tråd av brand.
+
+Jag hör deras namn i regnet,
+inte som sorg,
+utan som kör.
+De säger:
+"Gå längre än vi gjort."
+
+Om de döda följer efter
+är det inte för att hålla kvar.
+De vill bara se en människa
+välja en annan väg.
+
+ Huset minns,
+ men jag skriver om mitt liv.
+ Av askan blir det en ny rot,
+ av rötter blir det framtid.
+
+ Huset minns...
+ men inte mitt slut.
+ Jag lämnar dörren öppen.
+ Jag går.`
     }
   ],
   showPlaceholder: false
@@ -4854,8 +5237,89 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Främmande män på våran strand
+vi såg hur havet bar dem in
+medtagen stång bar en annan fana
+främmande sol över Falkens land
+
+Vi stod vid torv och stengärds backar
+när järn mot vind slog hård och kall
+de sade ord om rätt och rike
+men ingen här hade kallat på dem
+De steg i land som om våran jord
+var tom och stum och utan namn
+som om ett hem kan tas i gryning
+och göras om med vapenhand
+
+Vi sände bud till klanens kvinna
+över svart natt, salt och svall
+är vi ej förbi det gamla
+att främmande tar vad främmande vill
+
+ Främmande män på vår strand
+ på Falkens land, på Falkens land
+ Ingen krona föds ur härnad
+ på Falkens land, på Falkens land
+ Låt långbåt gå, låt fred bli sann
+ på Falkens land, på Falkens land
+ Främmande män på vår strand
+ vänd om igen från Falkens land
+
+På Falkens land
+på Falkens land
+vänd om igen
+på Falkens land
+
+De mätte mark med främmande stövlar
+de skrev sin vilja i salt och rök
+men varje gård och varje vik här
+bar redan namn och minne nog
+Vi bad ej om deras fana
+vi bad ej om deras eld
+vad är det för usel tidsålder
+när män ännu går så till verks
+
+Och över höjd och mörka ryggar
+går våra krigare natt till dag
+de går över berget för att säga
+att fred ej vinns med överfall
+
+ Främmande män på vår strand
+ på Falkens land, på Falkens land
+ Ingen krona föds ur härnad
+ på Falkens land, på Falkens land
+ Låt långbåt gå, låt fred bli sann
+ på Falkens land, på Falkens land
+ Främmande män på vår strand
+ vänd om igen från Falkens land
+
+Om ni kallar detta ära
+är er ära rutten järn
+Om ni kallar detta ordning
+är er ordning gammal skam
+Skulle vi inte vara förbi det nu
+att ett land tar ett annat land
+
+Bud går ut och kölen svarar
+hav ger plats åt ek och fred
+ingen här vill bli er trofé
+ingen här vill böja knä
+
+ Främmande män på vår strand
+ på Falkens land, på Falkens land
+ Ingen krona föds ur härnad
+ på Falkens land, på Falkens land
+ Låt långbåt gå, låt fred bli sann
+ på Falkens land, på Falkens land
+ Främmande män på vår strand
+ vänd om igen från Falkens land
+ Främmande män på vår strand
+ vänd om igen från Falkens land
+
+När långbåt lagt sig vid vår hamn
+ska annan fana tas härfrån
+och över hed och stenig mylla
+ska freden åter få ett namn`
     }
   ],
   showPlaceholder: false
@@ -4882,8 +5346,58 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `The sky said "not yet"
+She smiled and rose instead
+Every ceiling is just another line
+Waiting to be left behind
+
+She carried questions farther than fear
+A steady heart, a vision clear
+No crown of gold, no need for fame
+Just quiet courage lit the flame
+Beyond the blue where dreamers glide
+She wrote tomorrow in the sky
+For every girl who wondered why
+She answered, "Come and try."
+
+Every mile, every star
+Shows us who we really are
+
+ Ride, Sally Ride
+ Higher than the morning light
+ Ride, Sally Ride
+ You turned impossible into flight
+ Ride, Sally Ride
+ Leave a trail the world can see
+ Ride, Sally Ride
+ You lifted every dream in me
+
+The universe became a friend
+Where hope and wonder never end
+A single launch, a thousand lives
+Inspired every heart to rise
+The future called, you took its hand
+And proved that limits never stand
+Your story echoes far and wide
+A beacon in the night
+
+When doubt says "stay"
+We answer "go"
+When fear says "stop"
+We let it know
+The stars belong to all of us
+
+ Ride, Sally Ride
+ Higher than the morning light
+ Ride, Sally Ride
+ You turned impossible into flight
+ Ride, Sally Ride
+ Every heart can learn to fly
+ Ride, Sally Ride
+ Your light will never leave the sky
+
+Ride, Sally Ride...
+Still showing us the way.`
     }
   ],
   showPlaceholder: false
@@ -4901,7 +5415,7 @@ och synden följde med hem…`
     },*/
     {
       type: "text",
-      content: `<i></i>
+      content: `<i>Dikt av Erik Johan Stagnelius [1793–1823]. Min modernisering. Original: "Quällens gullmoln fästet kransa"... </i>
       
       <a href="https://open.spotify.com/track/6KWVVGH7FH0J9fdgQuJ3OB?si=8cc24cad2de34767" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
@@ -4910,8 +5424,32 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Kvällens gyllne moln kring fästet kransar.
+Älvorna på ängen dansar,
+och den bladkrönte Näcken
+spelar fela vid silverbäcken.
+
+En liten pojke bland strandens pilar
+vilar i violens doft,
+hör klangen från källans vatten,
+ropar i den stilla natten:
+
+»Arma gubbe, varför spela?
+Kan det lindra dina smärtor?
+Skogen och marken får du råda över,
+men Guds barn blir du aldrig.
+
+Paradisets månskensnätter,
+Edens blomsterkrönta slätter,
+Ljusets änglar där ovan —
+aldrig får ditt öga se dem.»
+
+Tårar sköljer gubbens ansikte.
+Ned han dyker i sin bölja.
+Felan tystnar.
+Aldrig spelar Näcken
+mer ... 
+i silverbäcken.`
     }
   ],
   showPlaceholder: false
@@ -4938,8 +5476,70 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Kall betong under mina knän
+regn mot plåttak halv två igen
+verket luktar bensin och damm
+och gammal olja i varje hand
+
+Kamkedjan slog som ett dåligt samvete
+ventilerna tickade nätterna igenom
+jag drog av kåporna själv inatt
+svor åt skruvar som aldrig ville lossna
+
+Två förgasare på arbetsbordet
+munstycken i kaffe på en tidningssida
+svart olja högt upp på kinden
+och ännu mer i mitt hår
+
+Det finns dom som säger
+att sånt här är för tunga händer
+men mina händer bär
+allt jag blivit av
+
+ Starka armar
+ mjukt hjärta
+ jag håller ihop det som skakar sönder
+ kalla fingrar
+ trötta ögon
+ men jag ger mig aldrig ändå
+
+Och när natten känns för stor
+och allting nästan går itu
+är det bara jag
+och motorn
+som vet vad jag gått igenom
+
+Ny packning på vänster sida
+kamaxeln tillbaka i märkning igen
+vrider runt motorn för hand i mörkret
+lyssnar efter något som låter fel
+
+Bensin i slangen
+tändning på
+ett långsamt andetag mot novemberluft
+första kicken bara tom metall
+andra nästan liv
+
+Jag har burit hem mig själv
+fler gånger än någon vet
+och ibland håller man ihop
+bara för att något måste göra det
+
+ Starka armar
+ mjukt hjärta
+ svart olja under varje nagel
+ ingen räddning
+ ingen hjälte
+ bara någon som vägrar ge upp
+
+Och när motorn äntligt vaknar
+skakar hela garaget till
+står jag ensam där och ler
+med tårar
+som luktar bensin
+
+Tomgång genom natten
+som ett hjärta som hittat hem`
     }
   ],
   showPlaceholder: false
@@ -4966,8 +5566,53 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Motorn vaknar, natten ler
+Stjärnor tänds där vägen ser
+Hjärtat slår i samma takt
+Ingen håller mig i schack
+
+Asfalten glöder under hjul
+Bakom mig blir världen ful
+Hjälmen döljer varje spår
+Framåt är där framtiden går
+
+Vinden viskar mitt namn igen
+Ingen tvekan, inte än
+Kurva efter kurva fri
+Det är här jag vill förbli
+
+ Jag gasar genom natten
+ Där horisonten brinner klar
+ Två hjul bär min längtan
+ Dit mitt öppna hjärta drar
+ Ingen bromsar drömmen
+ Ingen kedja håller kvar
+ Jag och vägen lever
+ Som om gryningen är vår
+
+Regnet dansar på mitt visir
+Varje mil gör själen fri
+Motorljudet blir min sång
+Här är platsen jag hör till en gång
+
+Om världen säger sakta ner
+Svarar hjulen bara mer
+Frihet bor i varje sväng
+Ingen rädsla når mig längre
+
+ Jag gasar genom natten
+ Där horisonten brinner klar
+ Två hjul bär min längtan
+ Dit mitt öppna hjärta drar
+ Varje mil är min berättelse
+ Skriven där däcken tar
+ Jag och vägen lever
+ Och natten är vårt svar
+
+Motorn sjunger mjukt farväl
+Nästa gryning väntar väl
+Vägen ropar tyst mitt namn
+Och friheten tar mig i sin famn`
     }
   ],
   showPlaceholder: false
@@ -4994,8 +5639,71 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Streetlights blink like they forgot my name
+Cold on the glass, I draw a shape, then let it break
+Your footsteps live where the buses turn
+I keep that corner in my chest and let it burn
+
+I walk the blocks where summer lost its nerve
+Neon in puddles, every color starts to blur
+Windows are bright with someone else inside
+I wear the night like a coat that never dries
+
+And every signal says go on
+But every shadow pulls me back
+I hear your echo in the wires
+A little cut I can't unpack
+
+ Autumn hit me like a slammed door
+ Dry leaves spinning on the floor
+ I still call your silence home
+ Even when I know you're gone
+ City breathing black and blue
+ Every road still points to you
+ I bite my tongue till daylight shows
+ I fall apart in Autumn
+
+Your old cassette is hissing in my car
+The song keeps skipping where we said we'd never part
+I pass the park, the bench, the market sign
+Like every place is trying on your outline
+
+The sky hangs low above the tracks
+The rails keep humming through my teeth
+I want to tear this season down
+But grief is stubborn underneath
+
+ Autumn hit me like a slammed door
+ Dry leaves spinning on the floor
+ I still call your silence home
+ Even when I know you're gone
+ City breathing black and blue
+ Every road still points to you
+ I bite my tongue till daylight shows
+ I fall apart in Autumn
+
+You said the cold would make us clear
+Instead it made a room of smoke
+I talk too loud to cover fear
+I laugh and sound like I might choke
+So let the storefronts flicker out
+Let the avenue go numb
+If I can't pull your memory down
+I'll drown it in the drums
+
+ Autumn hit me like a slammed door
+ Dry leaves spinning on the floor
+ I still call your silence home
+ Even when I know you're gone
+ City breathing black and blue
+ Every road still points to you
+ I bite my tongue till daylight shows
+ I fall apart in Autumn
+
+Cold wind, dead phone, worn-out glow
+Your name keeps riding under every note
+I keep moving, but I don't get close
+I still go under in Autumn`
     }
   ],
   showPlaceholder: false
@@ -5022,8 +5730,95 @@ och synden följde med hem…`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Solen sjunker långsamt
+över sundets blanka blå
+Jag har hela kvällen
+och ingenstans att gå
+
+Strandpaviljongen vilar
+tyst och varm bakom min rygg
+Gräset kittlar bara ben
+och vinden känns så trygg
+
+Någon skrattar längre bort
+ett glas slår an mot sten
+Dagen drar sitt sista andetag
+och allting faller på plats igen
+
+På andra sidan vattnet
+tänds de första ljusen nu
+Men jag behöver inget mer
+än denna himmel, denna stund
+
+ Där borta börjar världen
+ säger många som jag mött
+ Men för mig är den just här, just nu
+ där dagens sista låga dött
+
+ Där borta börjar världen
+ men jag längtar inte dit
+ För mig är den just här, just nu
+ just här, just nu, mitt i mitt liv
+
+Just här, just nu
+Just här, just nu
+Ingen morgondag att jaga
+just här, just nu
+
+Danmark ligger som en skugga
+under kopparfärgad sky
+En båt går hemåt genom sundet
+med en mås som enda bry
+
+Jag har burit många frågor
+som om svaren gjorde mig fri
+Men ikväll får allting vara
+utan mening, utan strid
+
+Låt de andra tala högt
+om allt de måste hinna med
+Jag har funnit hela världen
+i att bara sitta ned
+
+ Där borta börjar världen
+ säger många som jag mött
+ Men för mig är den just här, just nu
+ där dagens sista låga dött
+
+ Där borta börjar världen
+ men jag längtar inte dit
+ För mig är den just här, just nu
+ just här, just nu, mitt i mitt liv
+
+Kanske vaknar samma oro
+när morgonen slår upp sin dörr
+Kanske springer jag mot världen
+precis som alla gånger förr
+
+Men så länge solen glöder
+som ett mynt vid sundets slut
+är jag fri från alla frågor
+just här, just nu
+
+ Där borta börjar världen
+ säger många som jag mött
+ Men för mig är den just här, just nu
+ där dagens sista låga dött
+
+ Där borta börjar världen
+ låt den börja var den vill
+ För mig är den just här, just nu
+ när hela sommaren står still
+
+Just här, just nu
+Just här, just nu
+Jag har ingenting att sakna
+just här, just nu
+
+Solen går ner över Danmark
+halvmånen väntar tyst
+Där borta börjar världen
+men här börjar mitt liv`
     }
   ],
   showPlaceholder: false

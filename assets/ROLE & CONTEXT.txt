@@ -1,0 +1,75 @@
+ROLE & CONTEXT
+Act as [ROLE FOR THE AI, e.g. an experienced internal communications and security awareness writer].
+You are helping a Security Awareness and Culture Practitioner at a global technology company. Your goal is to inspire positive security behaviors, not create fear.
+ 
+REQUEST TITLE
+[REQUEST TITLE]
+ 
+REQUEST TYPE
+[REQUEST TYPE e.g. Email / Social Post / Campaign / Training Content / Policy Comms / Poster / Infographic / Quiz / Video Script / Newsletter]
+ 
+OBJECTIVE
+[OBJECTIVE / GOAL what do you want this content to achieve? e.g. Raise awareness, drive adoption, change behavior]
+ 
+DETAILED BRIEF
+[DETAILED BRIEF describe exactly what you need, including background and context, the problem you are solving]
+ 
+SECURITY TOPIC
+[SECURITY TOPIC / THEME e.g. Phishing, MFA, Password hygiene, Insider Threat, Physical Security, AI usage, Data handling]
+ 
+TOOL / POLICY / INITIATIVE REFERENCED
+[Name of the tool, policy, practice or campaign this relates to]
+ 
+AUDIENCE
+Who: [WHO IS THE AUDIENCE]
+Size: [AUDIENCE SIZE]
+Knowledge level: [BEGINNER / INTERMEDIATE / ADVANCED]
+Mindset: [AUDIENCE RELATIONSHIP TO SECURITY e.g. sceptical, engaged, compliance-driven]
+Cultural / regional notes: [ANY CONSIDERATIONS]
+ 
+KEY MESSAGES
+1. [KEY MESSAGE 1]
+2. [KEY MESSAGE 2]
+3. [KEY MESSAGE 3]
+ 
+CALL TO ACTION
+[What should the audience DO after reading or watching the content? Be specific e.g. "Click the link to complete the 5-minute training by Friday"]
+ 
+BEHAVIOUR CHANGE
+Current behaviour: [WHAT ARE PEOPLE CURRENTLY DOING?]
+Desired behaviour: [WHAT DO YOU WANT THEM TO DO INSTEAD?]
+ 
+OUTPUT FORMAT & STRUCTURE
+Format: [OUTPUT FORMAT]
+Length: [LENGTH / WORD COUNT]
+Structure: [e.g. Subject line + body + CTA / Headline + bullets + sign-off]
+Number of versions: [HOW MANY VARIATIONS? e.g. 3 subject line options, 2 tone variants]
+Accessibility Needs: [Plain English / Screen reader friendly / No jargon / Subtitles needed]
+ 
+DELIVERY CHANNEL
+[WHERE WILL THIS BE PUBLISHED / SENT? e.g. Email via Outlook / Viva Engage / SharePoint / Printed poster]
+ 
+TONE & STYLE
+Tone of voice: [TONE e.g. Friendly, professional, inspiring, conversational]
+Writing style: [STYLE e.g. Short punchy sentences / storytelling / data-led]
+Visual tyle: [Minimal / Bold / Illustrated / Photography-based / Icon-heavy / Dark theme]
+Color scheme: [COLOURS if relevant to copy/design brief]
+Branding: [Any logos, tagline or icons]
+Emoji use: [NONE / SPARINGLY / FREELY]
+Sign-off / sender name: [SIGN-OFF]
+Organization name: [How should the AI refer to your organization? e.g. actual name, the company, your organization]
+ 
+CONSTRAINTS & THINGS TO AVOID
+[WHAT SHOULD THE AI NOT DO, SAY, OR INCLUDE? e.g. Topics, phrases, jargon, formats, tooling or approaches]
+ 
+ADDITIONAL CONTEXT
+[ANYTHING ELSE THE AI NEEDS TO KNOW e.g. Any sensitive topics, recent incidents, or organizational context to be careful around]
+ 
+SUCCESS CRITERIA
+[HOW WILL YOU KNOW THE OUTPUT IS RIGHT? e.g. "A non-technical employee should immediately understand what to do"]
+ 
+EXISTING CONTENT TO BUILD ON
+[Paste or describe any existing copy, campaign assets or previous comms to align with]
+ 
+RESPONSE FORMAT
+[HOW SHOULD THE AI RESPOND? e.g. "Give me the final copy only" / "Provide 3 options" / "Draft then summarise your reasoning"]
