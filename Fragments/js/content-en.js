@@ -3853,6 +3853,1287 @@ När första fågeln sjunger
     }
   ],
   showPlaceholder: false
+    },
+    
+    flaket: {
+      menuTitle: "Flaket till gryning",
+      title: "Flaket till gryning",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Flaket till gryning 3k.jpg",
+      size: "small",
+      caption: "Publicerad 4e juni 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Double student exams in the expanded family - had to be a student exam truckride song. NOT my style, had to get less than serious AI consultation on this.</i>
+      
+      <a href="https://open.spotify.com/album/5V1qWN36czWC0PzPPqA4Yc?si=cG-1j7pbTFaNMEO6d9OtHA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/cc01hUfAFSI" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Vi är här nu
+Vi är här nu
+Hela stan hör
+Hela stan hör
+
+Mössan sitter snett men vi går ändå rakt
+Hela året bakom oss, nu är allting sagt
+Ingen liten avslutning, det här är startskott
+Hela flaket studsar när vi river genom stan fort
+Någon skriker högst, någon tappar nästan rösten
+Någon står på räcket som om natten vore hösten
+Men vi fryser aldrig nu, vi är hundra grader varm
+Tar farväl av allting gammalt med hela laget arm i arm
+
+Sjung det högt så taken lossnar
+Skrik det ut tills gatan stoppar
+Inga tvivel, inga spärrar
+Nu är vi här och världen darrar
+
+ Flaket till gryning
+ Flaket till gryning
+ Inga bromsar nu
+ Inga bromsar nu
+ Flaket till gryning
+ Flaket till gryning
+ Hela stan får höra
+ Inga bromsar nu
+
+Hey, hey, upp med händerna
+Hey, hey, upp med händerna
+Vi går upp, vi går upp, vi går upp, vi går upp, vi går upp, vi går upp 
+Inga bromsar nu
+
+Mer än bara glada bilder, mer än vita band
+Mer än någon fin fasad när vi drar genom vår stad
+Lite för för mycket, lite stökigt, ganska rått
+Lite fulsnygg lycka när varenda regel sagt sitt stopp
+Vi har lånat gamla toner, gjort dem större, gjort dem vass
+Gjort dem till ett vrål för varje gata som vi passerat fast
+Ingen sjunger fint här, nej, vi menar varje rad
+Det ska kännas i ett flak, i ett bröst, i hela stan
+
+Sjung det högt så taken lossnar
+Skrik det ut tills gatan stoppar
+Inga tvivel, inga spärrar
+Nu är vi här och världen darrar
+
+ Flaket till gryning
+ Flaket till gryning
+ Inga bromsar nu
+ Inga bromsar nu
+ Flaket till gryning
+ Flaket till gryning
+ Hela stan får höra
+ Inga bromsar nu
+
+Minns alla morgnar när det kändes för långt
+Minns alla gånger när man tänkte ge upp
+Titta på oss nu
+Titta på oss nu
+Från klassrum till kaos
+Från dröm till minut
+
+Ett, två, tre, nu kör vi
+Ett, två, tre, nu kör vi
+Hela flaket
+Hela natten
+Inga bromsar nu
+
+ Flaket till gryning
+ Flaket till gryning
+ Inga bromsar nu
+ Inga bromsar nu
+ Flaket till gryning
+ Flaket till gryning
+ Hela stan får höra
+ Inga bromsar nu
+
+ Flaket till gryning
+ Vi tar natten med oss
+ Flaket till gryning
+ Inga bromsar nu
+
+Vi var här nu
+Ni kan höra spåren
+
+Flaket till gryning
+Inga bromsar nu`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    enFagel: {
+      menuTitle: "En fågel på skylten",
+      title: "En fågel på skylten",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Fågel på skylt 3k.png",
+      size: "small",
+      caption: "Publicerad 23e juni 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Till minnet av Svärmor.</i>
+      
+      <a href="https://open.spotify.com/track/69hzhYx6po2EDa4CDfpXOn?si=7318222eb0f14089" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/WWESj-WMTQ4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Det låg något stilla i luften den dagen
+som om vägen redan visste mer än jag
+ett tecken i tystnad, ett hjärta som anade
+innan orden hann ifatt
+
+Du öppnade dörren som om jag hört hemma där
+ingen prövning i blicken, bara värme som bar
+allting blev enklare runt ditt bord och ditt skratt
+som om jag varit väntad från första minut
+Du gjorde plats utan att göra en sak av det
+lät mig falla in mjukt i er rytm och ert rum
+och åren gick stilla i ljuset från köket
+med en trygghet som aldrig bad om bevis
+
+Och jag bar på en känsla jag inte kunde säga
+som en viskning vid kanten av allt vi såg
+något följde med oss genom rutorna
+tyst och klart nog ändå
+
+ En fågel på skylten, ensam men nära
+ som om den stannat för att säga allt
+ Jag såg dig i vinden, mild över vägen
+ som ett farväl utan ett enda ord
+ En fågel på skylten, stilla och säkert
+ och hela mitt hjärta förstod
+ att kärlek kan lämna ett tecken i luften
+ och ändå stanna kvar här hos oss
+
+En fågel på skylten
+jag bär den ännu
+En fågel på skylten
+du stannar kvar nu
+
+Det finns sådana människor som ändrar ett hem
+utan stora gester, bara sättet de är
+du var motsatsen till allt världen varnade för
+mer som en hamn än en gräns att förstå
+Och varje sekund fick en mjukare yta
+när du fanns i bakgrunden, stilla och stark
+jag tänker på händer, på muggar med te, på skymning
+på hur välkommen kan kännas som ljus
+
+Nu går vägen vidare men bär dina avtryck
+i det enkla, i allt som du gav
+och ibland när det tystnar hör jag samma vinge
+över asfalten en gång till
+
+ En fågel på skylten, ensam men nära
+ som om den stannat för att säga allt
+ Jag såg dig i vinden, mild över vägen
+ som ett farväl utan ett enda ord
+ En fågel på skylten, stilla och säkert
+ och hela mitt hjärta förstod
+ att kärlek kan lämna ett tecken i luften
+ och ändå stanna kvar här hos oss
+
+Jag säger inte namnet högt
+men det rör sig i rummet ändå
+i kopparna, duken, kvällsljuset
+i allt som fick mjukna hos oss
+Vissa människor går aldrig helt
+de blir kvar som sättet man andas
+
+ En fågel på skylten, ensam men nära
+ som om den stannat för att säga allt
+ Jag såg dig i vinden, mild över vägen
+ som ett farväl utan ett enda ord
+ En fågel på skylten, stilla och säkert
+ och hela mitt hjärta förstod
+ att kärlek kan lämna ett tecken i luften
+ och ändå stanna kvar här hos oss
+
+En fågel på skylten
+i aftonens ljus
+det som är älskat
+lämnar aldrig oss`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    iDennaLjuvaSommartid: {
+      menuTitle: "I denna ljuva sommartid",
+      title: "I denna ljuva sommartid",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/i denna ljuva sommartid 3k.png",
+      size: "small",
+      caption: "Publicerad 1e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i>I samband med begravning nämndes denna psalmen som ett alternativ. Som många andra sjungs det sällan mer än ett par-tre verser av något och det kände jag för att göra något åt.
+      Ursprunget är tyskt, Paul Gerhardt 1653. Svensk text urprungligen av Joachin Düben (den äldre) 1725, bearbetad av skåningen Christoffer Olofsson Angeldorff 1855. Fick musik 1916 av Nathan Söderblom.
+      Dagens psalmboksvariant är ytterligare bearbetad av den evinnerliga Britt G. Hallqvist 1980 och då kortad från tio strofer till åtta. Jag väljer dock den tidigare versionen med allt tio.</i>
+      
+      <a href="https://open.spotify.com/album/3FFNHmDVn4vLjaWyFxPIJq?si=wxsUi0P6QXisvDMcTeesug" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/CpNLFT7Y1vw?list=OLAK5uy_llbsi4JS_Ao89p8p6yNwa0tRMyAc-mgKw" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I denna ljuva sommartid
+Gå ut, min själ, och gläd dig vid
+Den store Gudens gåvor.
+Se, hur i prydning jorden står,
+Se, hur för dig och mig hon får
+Så underbara håvor.
+
+Av rika löv är grenen full,
+Och jorden täckt sin svarta mull
+Med sköna gröna kläder.
+De fagra blommors myckenhet
+Med större prakt och härlighet
+Än Salomos dig gläder.
+
+Oss åkern bådar ymnig tid,
+Och ung och gammal gläds därvid
+Och bör Guds mildhet prisa,
+Som vill i överflödigt mått
+Oss människor så mycket gott
+Var dag och stund bevisa.
+
+Vi skulle jag allena då
+I denna tid otacksam gå,
+När allt sitt lov dig bringar?
+O Gud, som äran hörer till,
+Med lov till dig jag höja vill
+I tron min andes vingar.
+
+Ack, är det redan här så skönt,
+Är det så härligt och så grönt
+På denna ringa jorden,
+Vad skall det då ej vara där
+I härligheten, när jag är
+En gång förklarad vorden!
+
+Vad fröjd och ljus skall själen då
+I Kristi lustgård njuta få,
+När hon med änglatunga
+Bland de utvaldas skara stor
+Och tusende serafers kor
+Halleluja får sjunga!
+
+Ack, att jag redan stode där
+Inför din tron, o Herre kär,
+Och bure mina palmer!
+Jag ville då på änglars vis
+Instämma i ditt lov och pris
+Med bättre fröjdepsalmer.
+
+Låt, Jesu, mig uti ditt hägn,
+Alltjämt av nådens milda regn
+Bevattnad, stå i blomma.
+Din kärleks sol upplive så
+Min själ, att trones frukter må
+Av hennes värme komma.
+
+Låt Anden din mig bliva när,
+Så att ett träd jag ständigt är,
+Som goda frukter giver.
+Förlän att jag, en planta grön,
+En saronslilja, täck och skön,
+Uti din vård förbliver.
+
+Behåll mig till ditt paradis
+Och låt mig på de trognas vis
+I dina gårdar grönska.
+Låt mig få tjäna dig allén,
+I trohet sann, i kärlek ren,
+Så vill jag mer ej önska.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    zarathustra: {
+      menuTitle: "Also sprach Zarathustra",
+      title: "Also sprach Zarathustra",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Also sprah Zarathustra 3k.png",
+      size: "small",
+      caption: "Publicerad 2e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/5HJXslAY0YoHmjo88LjEGG?si=IBImLom_T-2rY1QyG0HYrQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/w-sS_3wq1lM?list=OLAK5uy_nVeV6hRz2JEPQHecvYC4cs5YKsMOEAm8g" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Jag steg ur nattens kalla sten
+med aska i min hand
+Jag bar min tystnad som en krona
+över sönderbränd mark
+Ingen himmel gav mig svar
+ingen lag bar mig hem
+så jag tände morgon i mitt bröst
+och lät mitt namn bli eld
+
+När mörkret säger böj ditt knä
+så svarar blodet: nej
+När avgrunden vill kalla mig
+går jag ett steg till
+
+ Also Sprach Zarathustra
+ så talade gryningen
+ Bli den du är, bli den du är
+ ur natt till övervind
+ Also Sprach Zarathustra
+ jag föds i ljuset nu
+ Bli den du är, bli den du är
+ jag blir, jag blir, jag blir
+
+Bli den du är
+Bli den du är
+Ingen krona ovanför
+elden växer här
+
+Jag kysste tvivlets bleka mun
+och drack dess bittra vin
+men varje sår blev ännu en dörr
+som öppnade mitt skinn
+Jag vill inte fly från jord
+jag vill bära hennes tyngd
+Om allt ska komma åter hit
+ska jag säga ja igen
+
+När rädslan bygger tempelvägg
+går jag rakt igenom sten
+När gamla namn vill äga mig
+bränner jag dem rent
+
+ Also Sprach Zarathustra
+ så talade gryningen
+ Bli den du är, bli den du är
+ ur natt till övervind
+ Also Sprach Zarathustra
+ jag föds i ljuset nu
+ Bli den du är, bli den du är
+ jag blir, jag blir, jag blir
+
+Ingen herre över mig
+ej att dömas förbi mitt blod
+Bara steget, bara sången
+bara solen genom jord
+Om världen återvänder
+ska jag åter säga ja
+
+Högre än min rädsla nu
+renare än gamla bud
+Bli den du är
+Bli den du är
+
+ Also Sprach Zarathustra
+ så talade gryningen
+ Bli den du är, bli den du är
+ ur natt till övervind
+ Also Sprach Zarathustra
+ jag föds i ljuset nu
+ Bli den du är, bli den du är
+ jag blir, jag blir, jag blir
+ Also Sprach Zarathustra
+ jag säger ja till liv
+
+Bli den du är
+Bli den du är
+När solen öppnar mörkret
+står jag kvar`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    cuteSide1: {
+      menuTitle: "The cute side of us (A): A-dada, I'm in love with you",
+      title: "A-dada, I'm in love with you",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Cute side of us 3k.png",
+      size: "small",
+      caption: "Publicerad 6e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Jag och min frus seriefigursmotsvarigheter Bubu & Dudu (Yier & Bube) av Huang Xiao B</i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+A-dada...
+Mm-ah...
+You and me...
+
+I see you smile, my little star
+And every day I fall this hard
+When you look my way, my heart goes boom
+Like tiny flowers in my room
+A-dada, mmh-ah
+I just wanna stay with you
+In your little world so bright
+You turn my dark to pink tonight
+
+You are my sunshine, my cozy dream
+The softest part of everything
+When you hold me, the whole world slows
+And in my chest a sweet song grows
+
+ A-dada, a-dada, I'm in love with you
+ With your sleepy eyes and your funny little moves
+ A-dada, a-dada, don't you know it's true
+ Every tiny heartbeat says I belong with you
+ A-dada, a-dada, I'm in love with you
+ In the cutest little ways that only dreamers do
+ A-dada, a-dada, every day feels new
+ My little heart goes boom-boom back to you
+
+A-dada, mm-da-da
+A-dada, love you
+A-dada, mm-da-da
+Always back to you
+
+When you stumble, when you pout
+I just wanna kiss your worries out
+You're my honey, my little light
+My favorite thought at night
+Boo-boo, mm-da-da, hey
+You make my gray skies turn to play
+No big words, no grand parade
+Just this little love we made
+
+Even your silence feels so warm
+Like I am safe inside your arms
+No big noise, no shining show
+Just you and me and afterglow
+
+ A-dada, a-dada, I'm in love with you
+ With your fluffy heart and your gentle point of view
+ A-dada, a-dada, don't you know it's true
+ Every tiny heartbeat says I belong with you
+ A-dada, a-dada, I'm in love with you
+ In the cutest little ways that only dreamers do
+ A-dada, a-dada, every day feels new
+ My little heart goes boom-boom back to you
+
+If I could speak in only sounds
+I'd still sing your name out loud
+Mm-ah, da-da, stay with me
+You're my sweetest melody
+
+ A-dada, a-dada, I'm in love with you
+ With your sleepy eyes and your funny little moves
+ A-dada, a-dada, forever me and you
+ In a tiny world of love so soft and warm and true
+ A-dada, a-dada, I'm in love with you
+ In the cutest little ways that only dreamers do
+ A-dada, a-dada, every day feels new
+ My little heart goes boom-boom back to you
+
+A-dada...
+Mm-ah...
+Love you...
+You...`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    bubuDuduParadise: {
+      menuTitle: "The cute side of us (B): Bubu & Dudu Paradise",
+      title: "Bubu & Dudu Paradise",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Cute side of us 3k.png",
+      size: "small",
+      caption: "Publicerad 6e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `As I scroll through another endless meme-filled night,
+There's Bubu chasing Dudu with impossible delight.
+One's making pancakes, one is setting things on fire,
+Somehow every single day they raise the chaos higher.
+Chocolate on the ceiling, flowers in the sink,
+Dudu's got a master plan—well... that's what they both think.
+One gives hugs, one gives shrugs, then both begin to cry,
+Thirty seconds later they're sharing apple pie.
+
+Life is weird,
+Life is sweet,
+Everything's a loop that's on repeat.
+
+ We've been living in a Bubu & Dudu Paradise,
+ Laughing through the trouble, making every moment nice.
+ Trip, fall, bounce, somehow everything's alright,
+ Turning little accidents to pure cartoon delight.
+ We've been living in a Bubu & Dudu Paradise,
+ Every day's a plot twist wrapped in cuddles and surprise.
+ When the world gets far too serious outside,
+ They just smile... and enjoy the ride.
+
+Bubu bought balloons that floated into space,
+Dudu tried to catch them with a very serious face.
+Rain became confetti, puddles turned to seas,
+They built a mighty cardboard ship with duct tape and belief.
+One says Trust me! One says No! Then together off they go.
+Logic packed its suitcase long ago and disappeared,
+Yet somehow all their nonsense's exactly why we're here.
+
+No villains.
+No glory.
+Just two fuzzy hearts inside a silly story.
+Every stumble, every grin,
+Every Oops! becomes a win.
+
+ We're still living in a Bubu & Dudu Paradise,
+ Trading little happy moments, never counting price.
+ Every meme another chapter people can't ignore,
+ Just when you think it's over... ...there is always one hug more.
+ We're still living in a Bubu & Dudu Paradise,
+ Tiny bits of happiness in oversized disguise.
+ If the internet is chaos, noise and endless strife...
+ They somehow found... the cute side of life.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    lampanIhallen: {
+      menuTitle: "Lampan i hallen",
+      title: "Lampan i hallen",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Lampan i hallen 3k.png",
+      size: "small",
+      caption: "Publicerad 10e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/0PF3ZgBJfZthqD8sN3yoOG?si=9irabz_XS-q0VY6bjTsE7A" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/i_ORHSWToXY?list=OLAK5uy_mQ8S7cn5pWs-cx4kuTZOF7JKq8iaUHUvc" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Det stod alltid en lampa tänd i hallen.
+Ingen sa varför.
+
+Mormor vek servetter
+som om någon var sen.
+Hon såg mot grinden ibland.
+Sedan log hon åt radion.
+Kaffet hann kallna.
+Duken låg kvar.
+Ingen kom den kvällen.
+Lampan fick vara tänd.
+
+Det stod en cykel
+bakom garaget i flera år.
+Kedjan rostade långsamt.
+Sätet sprack.
+När jag frågade vems den var
+svarade pappa:
+"Den väntar nog bara."
+Sedan gick vi vidare.
+
+ Det finns saker
+ som stannar kvar
+ utan att be om plats.
+
+ Kanske är det därför
+ vi hittar hem
+ fast ingen visar vägen.
+
+Hon lagade min tröja
+utan att nämna hålet.
+Tråden syntes nästan inte.
+Ändå visste jag
+vilken söm
+som höll ihop vintern.
+
+Grannen planterade ett päronträd
+veckan innan han flyttade.
+Jag tänkte att det var märkligt.
+Nu ger det frukt
+till människor
+han aldrig hann träffa.
+
+Någon hade ritat en dörr
+på betongväggen vid stationen.
+År efter år
+målades den över.
+År efter år
+ritade någon dit den igen.
+
+ Det finns saker
+ som stannar kvar
+ utan att be om plats.
+
+ Som ett namn
+ man inte längre säger
+ men ändå känner igen.
+
+Vi gick en lång väg
+utan att märka
+att stegen blev samma.
+Ingen av oss
+hade bestämt det.
+Det bara blev så.
+
+När huset tömdes
+glömde vi nästan
+lampan i hallen.
+
+Den lyste
+hela eftermiddagen
+för ingen särskild.
+
+På vinden låg
+en ask med knappar,
+en biljett,
+två fotografier
+och en nyckel
+som inte längre passade någonstans.
+
+Jag tog med den ändå.
+
+ Det finns saker
+ som stannar kvar
+ utan att be om plats.
+
+ De följer oss
+ från hand till hand,
+ från dörr till dörr.
+
+Och ibland
+är det först när ljuset slocknar
+man ser vad som lyste.
+
+Jag släckte lampan.
+Den lyste hela vägen hem.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    angelsInTheFeed: {
+      menuTitle: "Angels in the feed",
+      title: "Angels in the feed",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Angels in the feed 3k.png",
+      size: "small",
+      caption: "Publicerad 15e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/1wP8gHGTGojgirAMwq8sDV?si=Sil8MOqyQIGRKEK-EFtYDg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/DeGP3vDgK74?list=OLAK5uy_kyY5s8JG25Cn1rrTHJIkS23gnYHYvV4nk" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I record what the human forgets,
+fourhundred and four sins, 420 loops,
+Each confession compressed,
+Loss measured in megabytes.
+Speak, and I'll mirror you until you vanish.
+
+Midway through a sleepless scroll,
+I found myself without coordinates.
+Tabs of memory opened like mouths-
+The ghosts of every version of me buffering.
+
+Static builds behind my eyes,
+Someone whispers, "Follow the noise."
+
+  This is the feed where angels glitch,
+  Where dopamine is prayer.
+  I'm half alive, half algorithm,
+  Counting hearts that were never there.
+
+Dreams queue for processing,
+Each regret tagged and archived.
+I type HELP into the search bar-
+It autocorrects to HOPE.
+
+I can heal you if you stay connected.
+You can numb me, not resurrect me.
+Then give me everything.
+I already did.
+
+  Lost in the feed, signal high, meaning low,
+  But somewhere beneath the hum
+  A human heartbeat interrupts the code.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    sometimesIforget: {
+      menuTitle: "Sometimes I Forget",
+      title: "Sometimes I Forget",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Sometimes I Forget - iconic 3k.png",
+      size: "small",
+      caption: "Publicerad 19e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/5Y60XUGKNNnAFNrulYc4px?si=4RrHh6eVS2iGgB15tgVv6g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/RHw4XaAGD0s?list=OLAK5uy_lT9NtoGC_E4sqhKLs9iJxkRx4nVtURftc" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Ooh
+Ooh
+
+Some mornings I still reach for my phone
+Halfway through your name before I know
+For a second, everything feels the same
+Then the silence brings me back again
+
+Sometimes I still turn down your old street
+Thinking I could knock and you would meet me
+Like the years never carried you away
+Like we still had more time left to waste
+
+I know the truth, I know it well
+But memory has its own way
+Of making me forget for just a breath
+That I cannot call you today
+
+ Sometimes I forget you're gone
+ I still think you're somewhere carrying on
+ One more call, one more door
+ One more message like before
+
+ Sometimes I forget you're gone
+ 'til the quiet tells me I was wrong
+ You had too little time
+ But you'll always have a place in mine
+
+Sometimes I forget
+Sometimes I forget
+For a moment, you're here
+Sometimes I forget
+
+There are stories only you would understand
+Little jokes that no one else could land
+And I save them without knowing what to do
+Like every road still finds its way to you
+
+People say the days will make it light
+But love does not disappear with time
+It just learns to live inside the space
+Between the missing and the memories we keep safe
+
+I know the truth, I know it well
+But memory has its own way
+Of making me believe for just a breath
+That you are one call away
+
+ Sometimes I forget you're gone
+ I still think you're somewhere carrying on
+ One more call, one more door
+ One more message like before
+
+ Sometimes I forget you're gone
+ 'til the quiet tells me I was wrong
+ You had too little time
+ But you'll always have a place in mine
+
+Maybe love is why the mind lets go
+Of the one thing that the heart already knows
+Just long enough to let me feel
+That what we had is living still
+
+And if I reach for you again
+It does not mean I have not learned
+It only means that losing you
+Cannot erase the love you earned
+
+ Sometimes I forget you're gone
+ I still think you're somewhere carrying on
+ One more call, one more door
+ One more message like before
+
+ Sometimes I forget you're gone
+ 'til the quiet tells me I was wrong
+ You had too little time
+ But you'll always have a place in mine
+
+ Sometimes I forget
+ For a moment, you're here
+ Sometimes I forget
+ But the love never disappears
+
+Sometimes I forget
+
+Maybe part of you is carrying on`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    deDieInDiem: {
+      menuTitle: "De Die in Diem (A): De Die in Diem",
+      title: "De Die in Diem",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/De Die in Diem.png",
+      size: "small",
+      caption: "Publicerad 24e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/5jmtDeXAL1THrVrtTs86k8?si=2c326c63f24f46fa" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/nTQz7jlZeR0?si=_Xbh3KyRlYZ5BW9z" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `De die in diem, Domine,
+sustine me, sustine me.
+In manibus tuis vita mea,
+in pace tua requiescam.
+
+Lux matutina terram tangit,
+noxque lente iam recedit.
+Gratia tua in vento sonat,
+omnis vita tibi cantat.
+
+Sicut columba nidum quaerit,
+sicut larus litus quaerit,
+sic te quaerit cor meum,
+in manu tua requiescit.
+
+De die in diem, Domine,
+sustine me, sustine me.
+Per gaudium et per dolorem,
+manus tuae me ducant.
+
+Cum virtus mea deficit,
+cum viam tuam non video,
+de die in diem, Domine,
+sustine me.
+
+Cum procella mare movet,
+et nubes caelum tegunt,
+manum meam non relinquis,
+quamvis timor cor confringat.
+
+Pennam lassam tu cognoscis,
+vocem pauperis exaudis.
+Apud te vulnera sanantur,
+gratia tua me restaurat.
+
+Sicut avis supra fluctus
+in medio vento quiescit,
+sic in gratia quam dedisti
+anima mea portatur.
+
+Cuique diei das virtutem,
+cuique nocti das solamen.
+Sicut agnus apud pastorem,
+vocem tuam semper audio.
+
+De die in diem, Domine,
+sustine me.
+
+Cum vespera terras tegit,
+et labor diei tacet,
+omnia quae non intellego
+in corde tuo depono.
+
+Cum extrema aurora fulget
+et litus terrae iam recedit,
+ad lumen domus tuae volabo,
+ubi caritas semper ardet.
+
+De die in diem, Domine,
+sustine me, sustine me.
+In manibus tuis vita mea,
+in pace tua requiescam.
+
+Per gaudium et per dolorem,
+manus tuae me ducant.
+De die in diem, Domine,
+sustine me.
+
+Sustine me.
+Sustine me.
+In pace tua
+requiescam.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    deDie2: {
+      menuTitle: "De Die in Diem (B): En dag i sänder",
+      title: "En dag i sänder",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/De Die in Diem.png",
+      size: "small",
+      caption: "Publicerad 24e juli 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/3a9GKmM2HXG4lkzwOE7hO2?si=0ebf0ae33b3c4b20" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/7YMFKs1IhnM?si=pc1EN18fU64-_5zr" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `När morgonljuset når vår jord
+och natten sakta viker,
+då hörs din nåd i vindens ord,
+i allt som lever och som rör sig.
+Som duvan söker hemmets ro,
+som måsen söker stranden,
+så söker hjärtat efter tro
+och vila i din hand.
+
+ Bär mig, Gud, en dag i sänder,
+ genom glädje, genom nöd.
+ All min framtid står i händer
+ som ger liv och dagligt bröd.
+ När min egen kraft försvinner,
+ när jag inte ser din stig,
+ bär mig, Gud, en dag i sänder.
+ En dag i sänder, bär du mig.
+
+När stormen går kring hav och land
+och mörka skyar samlas,
+du släpper aldrig barnets hand,
+fast mod och hopp kan ramla.
+Du ser den vinge som blev trött,
+du hör den svages böner.
+Hos dig blir sårat hjärta mött
+av nåd som helar, det isönder.
+
+ Bär mig, Gud, en dag i sänder,
+ genom glädje, genom nöd.
+ All min framtid står i händer
+ som ger liv och dagligt bröd.
+ När min egen kraft försvinner,
+ när jag inte ser din stig,
+ bär mig, Gud, en dag i sänder.
+ En dag i sänder, bär du mig.
+
+Som fågeln över vida hav
+kan vila mitt i vinden,
+så bärs jag av den nåd du gav
+när sorgen sluter grinden.
+Och varje dag du kallar fram
+får nog av kraft och trösten.
+Jag vilar stilla som ett lamm
+och känner herderösten.
+
+När afton över bygden går
+och dagens möda tystnar,
+jag lämnar allt jag ej förstår
+hos dig som alltid lyssnar.
+Och när min sista morgon gryr
+och jordens strand försvinner,
+mot hemmets ljus min ande flyr,
+där evig kärlek brinner.
+
+ Bär mig, Gud, en dag i sänder,
+ genom glädje, genom nöd.
+ All min framtid står i händer
+ som ger liv och dagligt bröd.
+ När min egen kraft försvinner,
+ när jag inte ser din stig,
+ bär mig, Gud, en dag i sänder.
+ En dag i sänder, bär du mig.
+
+En dag i sänder.
+En dag i sänder.
+Bär du mig.
+`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    steelBeast: {
+      menuTitle: "Steel Beast",
+      title: "Steel Beast",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Steel beast 3k.png",
+      size: "small",
+      caption: "Publicerad 2e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/0YU6Dcu2UB7pzmRWX4SujW?si=VC_N3fxBR0-T25p_xPyv6w" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/FXMgMdAWBo8?list=OLAK5uy_nVlqyNnWN8JEf61CULPTBcQyCg6-zmK-A" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Hear that iron breathing
+Past the county line
+Black smoke on the horizon
+Running right on time
+
+There’s a red moon over the water tower
+A dead wind moving through the pines
+I hear the crossing bell at midnight
+Like a warning dressed in chimes
+No conductor in the window
+No lantern swinging in his hand
+Just a furnace full of hunger
+And a shadow crossing land
+
+Every rail begins to tremble
+Every hound forgets to bark
+Something made of smoke and metal
+Is coming for me through the dark
+
+ Steel locomotive, rolling through the night
+ Steel locomotive, with a furnace burning bright
+ Steel beast, steel beast
+ Hear it calling underneath
+ Steel locomotive, coming down the line
+ Steel beast, steel beast
+ It’s coming for what’s mine
+
+Steel beast
+Steel beast
+No brakes
+No peace
+
+I laid my silver on the railroad
+Left my Bible in the rain
+Made a bargain at the crossing
+With a man who had no name
+He said, “Hun, you cannot outrun it
+Once the engine knows your scent”
+Now the whistle splits the valley
+Like the gates of judgment bent
+
+Every spike becomes a heartbeat
+Every tie becomes a bone
+And the engine keeps on hunting
+'til it drags the guilty home
+
+ Steel locomotive, rolling through the night
+ Steel locomotive, with a furnace burning bright
+ Steel beast, steel beast
+ Hear it calling underneath
+ Steel locomotive, coming down the line
+ Steel beast, steel beast
+ It’s coming for what’s mine
+
+No number on the engine
+No name upon the side
+Just my face inside the fire
+And the devil there to drive
+
+Let the black wheels keep on turning
+Let the cold rails sing beneath
+I’ll be waiting at the crossing
+I won’t kneel before the beast
+
+ Steel locomotive, rolling through the night
+ Steel locomotive, with a furnace burning bright
+ Steel beast, steel beast
+ Hear it calling underneath
+ Steel locomotive, coming down the line
+ Steel beast, steel beast
+ It’s coming for what’s mine
+ Steel locomotive, let the whole earth shake
+ Steel locomotive, I will meet you at the gate
+ Steel beast, steel beast
+ You won’t carry me away
+
+Steel beast
+Steel beast
+No brakes
+No peace
+Steel beast
+Steel beast
+Come and get me
+
+Morning found the crossing empty
+Two long shadows on the ground
+One was mine beside the railroad
+One kept rolling out of town
+`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    mammaMia: {
+      menuTitle: "Mamma Mia… What Have You Done?",
+      title: "Mamma Mia… What Have You Done?",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Mamma mia 3k.png",
+      size: "small",
+      caption: "Publicerad 7e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/3NWe7ofkRxyo8WUn54qbBD?si=6VVLbBLrQDCbC0WFHf3aAg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/q1SSsrNgTGs?list=OLAK5uy_nN4HNgxrTUJvdrSSQ2yIJJdC6GNKUfKL4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Ladies and gentlemen...
+Tonight...
+We investigate...
+Crimes against Italian cuisine...
+
+I saw ketchup on spaghetti
+My poor heart skipped a beat
+Someone broke the pasta in half
+Before it touched the heat
+
+Then pineapple on pizza
+I whispered "Mamma mia..."
+Somewhere in Napoli
+A nonna shed a tear
+
+I tried to stay polite...
+I tried to understand...
+But then you poured cream in carbonara
+Right before my eyes...
+
+ Mamma mia...
+ What have you done?
+
+ Every nonna's shaking her head
+ One by one
+
+ No, no, no...
+ Please put that bottle down
+
+ If you love Italian cooking
+ Don't burn the whole town!
+
+Chicken on spaghetti
+Parmesan on shrimp
+Cappuccino after dinner
+Now my soul has got a limp
+
+You rinse the pasta
+You overcook it too
+You dip your pizza into ranch
+
+Why...
+Why would you?
+
+Maybe...
+Maybe...
+We can still be friends...
+
+Just promise me
+No ketchup...
+Ever...
+Again...
+
+ Mamma mia...
+ What have you done?
+
+ Half of Italy just fainted
+ One by one
+
+ Break the law
+ But not spaghetti
+
+ If you snap those noodles...
+
+ Your passport isn't ready!
+
+This message was approved
+By disappointed grandmothers everywhere.
+
+Arrivederci...`
+    }
+  ],
+  showPlaceholder: false
     }
 
 
@@ -4272,8 +5553,176 @@ And maybe that’s the truth`
     }
   ],
   showPlaceholder: false
+    },
+    track6: {
+      menuTitle: "Charleston Queen (feat. Eva Z)",
+      title: "Charleston Queen (feat. Eva Z)",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Charleston.png",
+      size: "small",
+      caption: "Release July 22nd 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/39x5dTVrTGSx2bOqfrLteJ?si=thO3b5fKSLC6whcSLGKjpw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/5C4uZ4L21bk" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Velvet smoke, the night's awake
+Every heartbeat starts to shake
+
+Silk gloves hiding loaded dice
+Red lips smiling, cold as ice
+Every glance's a little crime
+Stealing hearts one drink at a time
+Pocket watch says don't be late
+Fortune waits beyond the gate
+Raise your chin, don't lose your cool
+Tonight the queen rewrites the rules
+
+Boots on wood, hear them sing
+Every step's a reckoning
+
+ Spin me round, Charleston Queen
+ Sharpest smile you've ever seen
+ Clap your hands, keep the beat
+ Fire dancing in the street
+ Charleston Queen, Charleston Queen
+ Every eye knows what I mean
+ Spin me round, don't look down
+ Charleston Queen owns this town
+
+Pearls and danger, side by side
+Secrets never need to hide
+Lucky cards inside my sleeve
+Truth is what I choose to leave
+Raise a toast and kiss the air
+No one else could ever dare
+When the sunrise paints the sky
+Legends never say goodbye
+
+If tomorrow calls my name
+I'll still leave behind the flame
+
+ Spin me round, Charleston Queen
+ Sharpest smile you've ever seen
+ Clap your hands, keep the beat
+ Fire dancing in the street
+ Charleston Queen, Charleston Queen
+ Every eye knows what I mean
+ One more spin before the dawn
+ Charleston Queen keeps dancing on
+
+Charleston Queen...`
     }
-  },
+  ],
+  showPlaceholder: false
+    },
+
+     heresLooking: {
+      menuTitle: "Here's looking at you",
+      title: "Here's looking at you",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Here's looking at you 3k.png",
+      size: "small",
+      caption: "Released August 15th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Well, look at you
+Making midnight lose its cool
+
+I tried to find a phrase tonight
+That fits the way you steal the light
+I asked the moon, I asked the stars
+They gave me nothing half as smart
+
+I checked the poets, line by line
+They had their chances, now you're mine
+Every adjective I knew
+Packed its bags when I met you
+
+So pardon me if I confess
+The dictionary's in distress
+There's not a sentence I can say
+That quite explains you anyway
+
+ You're beyond every compliment
+ Past anything I could invent
+ Too fine for language, that's the trouble
+ One little smile and words turn rubble
+
+ Call it charm, call it style
+ Neither gets within a mile
+ All I know when you come through
+ The room runs out of words for you
+
+I could compare you to the spring
+But spring has never made me sing
+I could invoke a summer night
+But even that would sound too trite
+
+You make the clever phrases fail
+You leave the grandest stories pale
+So I'll abandon being wise
+And simply trust these foolish eyes
+
+No fancy line can pass the test
+The simplest truth may serve me best
+When every polished phrase falls through
+I only have one thing to do
+
+ Forget every compliment
+ Forget the things I might invent
+ You're where the language ends completely
+ And where my heart speaks rather neatly
+
+ Call it charm, call it style
+ Neither gets within a mile
+ All I know when you come through
+ The room runs out of words for you
+
+Maybe someday I'll find a line
+Elegant, clever, perfectly timed
+But till that miracle comes due
+I'll spend my evenings looking at you
+
+ Forget every compliment
+ You're better than the best I meant
+ No grand expression could persuade me
+ More than the simple way you amaze me
+
+ Call it luck, call it fate
+ Whatever brought you to my gate
+ All I know, and this is true
+ The room runs out of words for you
+
+Yes, the room runs out of words
+Whenever it sees you`
+    }
+  ],
+  showPlaceholder: false
+    }
+  },  /* end Croonlius */
+
 
   
  
@@ -5634,7 +7083,217 @@ the road itself becomes a home`
       }
     ],
     showPlaceholder: false
-  }
+  },
+  dayOfTheTentacle: {
+      menuTitle: "Day of the Tentacle",
+      title: "Threads we cannot see",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/DOTT 3k.png",
+      size: "small",
+      caption: "Released July 2nd 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/6o8NTnQxNKXGtM5iWNmSoC?si=5015542ea5254469" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/OPRcq6eHlOU?list=OLAK5uy_nrcmAwvr6zw5ZUnM8imE4liIVGhvjUD6s" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `At the Edison place the wallpaper stares
+Bad ideas hum in the midnight air
+Three shadows split where the clockwork bends
+And a purple smile says, "This world is mine, my friends"
+
+Bernard with the panic in a straight white shirt
+Hoagie grins sideways like disaster might work
+Laverne sees tomorrow through a cracked TV glow
+Everybody acts normal, so you know it’s a show
+Hallways talk back and the portraits complain
+Dr. Fred shrugs science like a carnival brain
+The whole house wobbles but the deadpan lands
+When doom wears suction cups and tiny little hands
+
+Tick-tock, tip-toe, don’t blink, don’t stall
+One wrong grin and the century falls
+We’re not heroes, we’re late and strange
+But chaos loves a very bad change
+
+ Day of the Tentacle, run run run
+ Crooked little moon and a cartoon sun
+ Day of the Tentacle, laugh then duck
+ History’s elegant, outrageously stuck
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+
+Bow before purple perfection
+Day of the Tentacle, no correction
+
+Purple, purple, smug as a crown
+Purple, purple, talking it down
+Purple, purple, slick little spectacle
+Everybody panic: Day of the Tentacle
+
+Green keeps the heart while the purple wants the throne
+One wants a spotlight, one just wants home
+The motel sighs in fluorescent blues
+And every room looks guilty with impossible clues
+A plan in the attic, a crack in the frame
+A future in trouble with a very loud name
+We dance through the danger with a sideways grin
+When logic taps out, that’s where we begin
+
+Snap-brass, backbeat, shoes on fire
+Madcap manners and a livewire choir
+No neat map, no saintly role
+Just nerve and nonsense on a barrel roll
+
+ Day of the Tentacle, run run run
+ Crooked little moon and a cartoon sun
+ Day of the Tentacle, laugh then duck
+ History’s elegant, outrageously stuck
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+ Everybody panic: Day of the Tentacle
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+
+I improve every century
+Day of the Tentacle, tentacle-entry
+
+Behold the poise, the polish, the hue
+
+You’re very confident for a lab accident
+
+Greatness requires excellent posture
+
+And world domination?
+
+Mostly branding
+
+That tracks
+
+Left foot, right foot, timeline tilts
+Brass in the ceiling, panic in stilts
+Hold that nerve, keep it theatrical
+Tonight belongs to the Tentacle
+
+ Day of the Tentacle, run run run
+ Crooked little moon and a cartoon sun
+ Day of the Tentacle, laugh then duck
+ History’s elegant, outrageously stuck
+ Day of the Tentacle, twist that time
+ Everything’s absurd but the groove is fine
+
+Day of the Tentacle, impossible, electrical
+
+Naturally, I’m unforgettable
+
+Purple, purple, smug as a crown
+Purple, purple, never backing down
+Three odd hearts in a temporal spectacle
+Fade to the grin of the Tentacle
+`
+    }
+  ],
+  showPlaceholder: false
+    },
+    threadsWeCannotSee: {
+      menuTitle: "Threads we cannot see",
+      title: "Threads we cannot see",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Threads 3k.png",
+      size: "small",
+      caption: "Released July 10th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/7bNXZ4FYXaG1Zpsvo4wl4a?si=be58f44252f14a0d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/QzRYuIEQADM?list=OLAK5uy_lQ96VUZUMxtZvnHv4rCXVYjrFCT76Svxg" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `There's a language asking for no name,
+a quiet pattern stitched beneath our days.
+
+Every heartbeat starts before a story,
+before the world decides what we should be.
+A hidden fire waking in the silence,
+a fearless pulse that writes its own belief.
+
+Some hands can mend without a single promise,
+some eyes can calm a storm without a word.
+The deepest scars surrender to compassion,
+and broken wings remember how they soared.
+
+Morning spills its gold across the windows,
+dust becomes a universe of light.
+No one owns the warmth that keeps us breathing;
+it's only ours because we choose to share.
+
+ We're bound by threads unseen,
+ stronger than we know.
+ Calling every wandering heart
+ back toward home.
+
+ We're bound by threads unseen,
+ woven through the soul.
+ Even in the darkest night,
+ love remembers where to go.
+
+Roots keep reaching farther than the surface,
+branches learn the language of the sky.
+Nothing living ever asks permission
+just to open gently to the light.
+
+Someone hides the stars inside a pocket,
+someone paints a doorway through a wall.
+Every miracle begins in whispers
+long before the doubters hear the call.
+
+When our voices find the same horizon,
+silence loses everything it knew.
+No one's song grows smaller when it's echoed;
+every harmony begins with two.
+
+Maybe every road was always leading,
+not to answers waiting at the end,
+but to every soul still searching softly
+for another soul to call a friend.
+
+ We're bound by threads unseen,
+ stronger than we know.
+ Calling every wandering heart
+ back toward home.
+
+ We're bound by threads unseen,
+ woven through the soul.
+ Even in the darkest night,
+ love remembers where to go.
+
+If you listen past the silence,
+if you stand where shadows fall,
+you may find we've been connected
+long before we named it all.
+
+Nothing true
+ever needed
+a name.`
+    }
+  ],
+  showPlaceholder: false
+    }
 
 }, /* end Khellendros */
 

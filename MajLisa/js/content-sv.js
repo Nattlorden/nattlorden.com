@@ -4176,7 +4176,7 @@ And tonight that house still owns my name`
     },*/
     {
       type: "text",
-      content: `<i></i>
+      content: `<i>Projektnamnet var 'The river don't tell'.</i>
       
       <a href="https://open.spotify.com/track/6Ya1OBBKkBQX6uSotD6LHX?si=995601f47c0b4d8c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/z4YTI5LstXU?si=2w1wasErwwtRRIwJ" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
@@ -4185,8 +4185,84 @@ And tonight that house still owns my name`
     },
     {
       type: "text",
-      content: `
-`
+      content: `Moon on the water, black as a pearl
+Graveyard magnolia, welcome to my world
+
+Down in the delta where the backroads bend
+I smile like a sinner, let the night come in
+French Quarter shadows on a balcony rail
+Red lips shining like a storm lantern pale
+You heard my footsteps in the evening heat
+You felt that danger underneath the beat
+I said come closer, honey, don't be shy
+The river keeps secrets better than I
+
+I got a mouth full of midnight
+A kiss like a funeral hymn
+One taste and the whole room sways
+One touch and the candle goes dim
+
+ Back to the rising sun
+ Come on in, baby, the river don't tell
+ Come on in, baby, I know you too well
+ I bite like love and I burn like sin
+ Come on in, baby, come on in
+ Come on in, baby, the river don't tell
+ Velvet teeth and a Vieux Carré spell
+ If you want forever, let the night begin
+ Come on in, baby, come on in
+
+Come on in
+Come on in
+The river don't tell
+The river don't tell
+
+I wear white lace with a graveyard grin
+Sunday-born trouble with a Saturday skin
+Catfish moon and a hurricane sky
+Church bells ringing while the dead pass by
+I don't need silver, I don't need flame
+Just your trembling breath when I say my name
+You think you're leaving when the dawn gets thin
+But once I'm in your blood, I'm always in
+
+I got a voice like a warning
+Sweet as the edge of a knife
+You can run to the daylight, darling
+But you won't outrun the bite
+
+ Come on in, baby, the river don't tell
+ Come on in, baby, I know you too well
+ I bite like love and I burn like sin
+ Come on in, baby, come on in
+ Come on in, baby, the river don't tell
+ Velvet teeth and a Vieux Carré spell
+ If you want forever, let the night begin
+ Come on in, baby, come on in
+
+Under the cypress, under the vine
+Your heartbeat stumbled and matched with mine
+No prayer can save what the dark has kissed
+You crossed that line with your eyes like this
+
+Say my name slow
+Let the low tide spin
+Say my name slow
+Now let me in
+
+ Come on in, baby, the river don't tell
+ Come on in, baby, I know you too well
+ I bite like love and I burn like sin
+ Come on in, baby, come on in
+ Come on in, baby, the river don't tell
+ Velvet teeth and a Vieux Carré spell
+ If you want forever, let the night begin
+ Come on in, baby, come on in
+
+Come on in
+The river don't tell
+Come on in
+And never tell`
     }
   ],
   showPlaceholder: false
@@ -4527,7 +4603,7 @@ And the second self was the one that rose`
     },*/
     {
       type: "text",
-      content: `<i></i>
+      content: `<i>Projektnamn 'Sun's coming down'.</i>
       
       <a href="https://open.spotify.com/track/1l7TtX1I44AwkdXm7CBIV1?si=201672468f7742b4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/7U7kP7KyX_I?si=10mNlg4k8kViKMYD" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
@@ -4536,7 +4612,78 @@ And the second self was the one that rose`
     },
     {
       type: "text",
-      content: `
+      content: `Don’t keep waiting on me
+Don’t keep waiting on me
+
+Night keeps leaning on the window frame
+Your shadow’s burning slow like a borrowed flame
+I heard the screen door sigh, heard the back porch moan
+But I been carrying this trouble on my own
+Don’t pour mercy like it changes what I know
+Don’t light a candle when it’s time for me to go
+I got dust on my boots, red fire in my lungs
+And the day’s run out of places for my tongue
+
+No, don’t you call me back from the edge
+No, don’t you dress it up in gold
+The sky is folding down in red
+And this tired heart won’t do what it’s told
+
+ Don’t keep waiting on me
+ Don’t keep waiting on me
+ Sun’s coming down
+ Sun’s coming down
+ Don’t keep waiting on me
+ Don’t keep waiting on me
+ When the sun’s coming down
+ Baby, the sun’s coming down
+
+Coming down, coming down
+Yeah, the sun’s coming down
+
+Church bells never did ring true for me
+Not with a barroom ache and a river need
+You can keep your promise by the bedroom light
+I was born to leave before the dead of night
+Got a heart like thunder in a rusted tin
+Got a mean old wind saying go again
+If you loved me, let it be wild and clean
+Not a chain dressed up in a Sunday dream
+
+No, don’t you call me back from the edge
+No, don’t you dress it up in gold
+The sky is folding down in red
+And this tired heart won’t do what it’s told
+
+ Don’t keep waiting on me
+ Don’t keep waiting on me
+ Sun’s coming down
+ Sun’s coming down
+ Don’t keep waiting on me
+ Don’t keep waiting on me
+ When the sun’s coming down
+ Baby, the sun’s coming down
+
+I’m not an angel, never said I was
+Just a little too late and a little too rough
+If you see me in that last light fade
+Know I loved you true in the mess I made
+Don’t keep praying for what won’t stay
+The dusk has already learned my name
+
+ Don’t keep waiting on me
+ Don’t keep waiting on me
+ Sun’s coming down
+ Sun’s coming down
+ Don’t keep waiting on me
+ Don’t keep waiting on me
+ When the sun’s coming down
+ Baby, the sun’s coming down
+ Don’t keep waiting on me
+ Sun’s coming down
+
+Don’t keep waiting on me
+No, the sun’s coming down
 `
     }
   ],

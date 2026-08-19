@@ -5627,6 +5627,102 @@ Charleston Queen...`
     }
   ],
   showPlaceholder: false
+    },
+
+     heresLooking: {
+      menuTitle: "Here's looking at you",
+      title: "Here's looking at you",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Here's looking at you 3k.png",
+      size: "small",
+      caption: "Publicerad 15e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Well, look at you
+Making midnight lose its cool
+
+I tried to find a phrase tonight
+That fits the way you steal the light
+I asked the moon, I asked the stars
+They gave me nothing half as smart
+
+I checked the poets, line by line
+They had their chances, now you're mine
+Every adjective I knew
+Packed its bags when I met you
+
+So pardon me if I confess
+The dictionary's in distress
+There's not a sentence I can say
+That quite explains you anyway
+
+ You're beyond every compliment
+ Past anything I could invent
+ Too fine for language, that's the trouble
+ One little smile and words turn rubble
+
+ Call it charm, call it style
+ Neither gets within a mile
+ All I know when you come through
+ The room runs out of words for you
+
+I could compare you to the spring
+But spring has never made me sing
+I could invoke a summer night
+But even that would sound too trite
+
+You make the clever phrases fail
+You leave the grandest stories pale
+So I'll abandon being wise
+And simply trust these foolish eyes
+
+No fancy line can pass the test
+The simplest truth may serve me best
+When every polished phrase falls through
+I only have one thing to do
+
+ Forget every compliment
+ Forget the things I might invent
+ You're where the language ends completely
+ And where my heart speaks rather neatly
+
+ Call it charm, call it style
+ Neither gets within a mile
+ All I know when you come through
+ The room runs out of words for you
+
+Maybe someday I'll find a line
+Elegant, clever, perfectly timed
+But till that miracle comes due
+I'll spend my evenings looking at you
+
+ Forget every compliment
+ You're better than the best I meant
+ No grand expression could persuade me
+ More than the simple way you amaze me
+
+ Call it luck, call it fate
+ Whatever brought you to my gate
+ All I know, and this is true
+ The room runs out of words for you
+
+Yes, the room runs out of words
+Whenever it sees you`
+    }
+  ],
+  showPlaceholder: false
     }
   },  /* end Croonlius */
 
