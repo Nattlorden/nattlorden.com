@@ -2344,7 +2344,7 @@ och åt runans hemliga rötter
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="https://open.spotify.com/album/3xoPepRjUQT7drJuwzFX2D?si=uNv1ZlHcS260_PrBSDmiZg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtube.com/playlist?list=OLAK5uy_kUvKmaEQd-YGklgq0FOygHTpouRf3d5f4&si=UShqeHv0KcmStTsr" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3234,7 +3234,7 @@ Mot himlen inatt...
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/3rLD0Ad1IyD2q7G1I9wnNi?si=cc290f6e5b5f4d80" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/3rLD0Ad1IyD2q7G1I9wnNi?si=cc290f6e5b5f4d80" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/p4SQSz4cz60?si=bGYpfR_Z0fACiWm6" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3340,7 +3340,7 @@ But not our name
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/0bH2Ql7UprCQ184QrcouWm?si=87b77b5e7c17464d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0bH2Ql7UprCQ184QrcouWm?si=87b77b5e7c17464d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/b_bx94ubKQg?si=h7_DH2XMLY-sFwcr" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3413,7 +3413,7 @@ I keep the watch through the longest night
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/0U6bL2QV5TlYEg8tx5h2gZ?si=c72fc08209714830" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0U6bL2QV5TlYEg8tx5h2gZ?si=c72fc08209714830" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/6SVdyCnErtQ?si=nNLXkWmbEVG2Zb_2" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3515,7 +3515,7 @@ You are the place and the person combined
     blocks: [
       {
         type: "text",
-        content: `<a href="https://open.spotify.com/album/5xn8Sv2DJCdZe5IXVqoxxj?si=dwLjUOdXQ0-4MmPpq92Kqg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+        content: `<a href="https://open.spotify.com/album/5xn8Sv2DJCdZe5IXVqoxxj?si=dwLjUOdXQ0-4MmPpq92Kqg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtube.com/playlist?list=OLAK5uy_mRhGwjpPmt7kHVHh7qudkhPOxxAnRR8FA&si=37wVrtaFFsxImqbS" target="_blank" rel="noopener noreferrer">YouTube</a>`
       },
       {
         type: "image",
@@ -3558,7 +3558,7 @@ You are the place and the person combined
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/6TBgWPJk7ZutYWkngqFEeN?si=5000eb538f6e4d70" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6TBgWPJk7ZutYWkngqFEeN?si=5000eb538f6e4d70" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/FqEYlRBoMPg?si=SJbQzx3OqhoVJv0j" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3666,7 +3666,7 @@ But the night keeps singing through me
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/0ilexZWQpk5mQAZL3tXpif?si=c102ff9856c94a10" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0ilexZWQpk5mQAZL3tXpif?si=c102ff9856c94a10" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/JN8zT7xEIGI?si=e8uEAGzCHYC6JAt9" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3759,7 +3759,7 @@ Watching me
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/5e7kIpckAh3QiLrXjdJD7J?si=8d1c9d4053664e66" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/5e7kIpckAh3QiLrXjdJD7J?si=8d1c9d4053664e66" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/62pm1OnEWvY?si=MHCRDL152aHNnsBP" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3857,7 +3857,7 @@ And something in me healed.
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/2qOcdhBoEF3rFLsYdTdkvG?si=0c145053a1794dfc" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/2qOcdhBoEF3rFLsYdTdkvG?si=0c145053a1794dfc" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/UrUnI4EkcRk?si=OfwBxI5SIKIH9wOQ" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -3967,7 +3967,7 @@ River don't speak
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/6GmX2CeiTClVRkodudTTxz?si=7fb9c6445d924ffd" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6GmX2CeiTClVRkodudTTxz?si=7fb9c6445d924ffd" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/4IclAMyAGFs?si=Fe_cZ3-9JA8_6u4f" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -4076,7 +4076,7 @@ let it rain again`
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/41Gw4XAqBPr4FZsceG3Ru0?si=62015773ad2c4ff6" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/41Gw4XAqBPr4FZsceG3Ru0?si=62015773ad2c4ff6" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/zqwe4ZM-8yM?si=IkdfwI-fwB7Yk7lp" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -4178,7 +4178,7 @@ And tonight that house still owns my name`
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/6Ya1OBBKkBQX6uSotD6LHX?si=995601f47c0b4d8c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6Ya1OBBKkBQX6uSotD6LHX?si=995601f47c0b4d8c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/z4YTI5LstXU?si=2w1wasErwwtRRIwJ" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -4308,7 +4308,7 @@ River runs black through the night
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/3fnuxLgmXvz13J81tvksfC?si=f4cd02b303804abf" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/3fnuxLgmXvz13J81tvksfC?si=f4cd02b303804abf" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/xTEhDkncqyU?si=pF_G4KbpPThDtg8K" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -4415,7 +4415,7 @@ in St. Louis this summer...
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/0oY3suwFNMfEo7Ve76Tf2E?si=9834dd6c4aa747b0" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/0oY3suwFNMfEo7Ve76Tf2E?si=9834dd6c4aa747b0" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/ZERCqUKLVfg?si=tLMEd-Ze-SdKbntF" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -4529,7 +4529,7 @@ And the second self was the one that rose`
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/1l7TtX1I44AwkdXm7CBIV1?si=201672468f7742b4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/1l7TtX1I44AwkdXm7CBIV1?si=201672468f7742b4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/7U7kP7KyX_I?si=10mNlg4k8kViKMYD" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -4558,7 +4558,7 @@ And the second self was the one that rose`
       type: "text",
       content: `<i></i>
       
-      <a href="https://open.spotify.com/track/6sLCUqu8INr3A9pqovI3Of?si=2c4ecdbfdf094931" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/6sLCUqu8INr3A9pqovI3Of?si=2c4ecdbfdf094931" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/8R6233Tvi74?si=rQZZBv-8IXSTTKch" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
