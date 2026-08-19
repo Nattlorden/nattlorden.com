@@ -6408,26 +6408,121 @@ Tack.`
     about: {
       menuTitle: "Om",
       title: "Soloprojekt",
-      text: ``,
+      text: `Efter att kombinationen Maj-Lisa & Skramlet fick ta ett abrupt slut på grund av röstproblem försvann medlemmarna åt olika håll.
+      
+      Förutom att skriva till andra, spenderar Maj-Lisa själv nästan 5 år i vila och omträning med röstpedagog innan hon återuppfinner sig i en annan genre som <a href="../Freyja/index.html#music/overview">Freyja</a> men även vid ett mindre antal tillfällen mycket senare under till riktiga förnamn <i>Mailýsa</i> i samma stil som med Skramlet.
+
+      BP skriver och producerar för andra, Karna fortsätter sin bana som studiomusiker. De två återknyter senare och bildar <a href="../Galdra/index.html">Galdrakällan</a>
+
+      `,
       showPlaceholder: true
     },
 
-    mailysa_1: {
-      menuTitle: "menytitel",
-      title: "titel",
+    mailysa: {
+      menuTitle: "--- MailýsA ---",
+      title: "...",
       blocks: [
+        /*
         {
       type: "image",
       src: "assets/covers/stubbe.png",
       size: "small",
       caption: "Publicerad e "
+    },*/
+    {
+      type: "text",
+      content: `...`
+    }
+  ],
+  showPlaceholder: true
+  },
+
+    mailysa_1: {
+      menuTitle: " Uncover the art",
+      title: "Uncover the art",
+      blocks: [
+        {
+      type: "image",
+      src: "assets/covers/stubbe.png",
+      size: "small",
+      caption: "Publicerad 20e juni 2026"
     },
     {
       type: "text",
-      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      content: `<i>Skriven för egen del, men kom med i material som presenterades för Echæon som ville spela in den också.</i>
+      
+      <a href="https://open.spotify.com/album/2qybJwLMrkQ2xx7l7qns84?si=aL-giGzOQp6x0fQzAkDiGg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
 
+I been countin' down the hours, lettin' patience do its part
+Now the mirror's callin' me to uncover the art
 
-      `
+Had to leave it wrapped up tight, let the healing take its time
+Fought the itch and fought the urge, read every warning sign
+It ain't just skin and ink, it ain't a sticker in the dark
+It's a promise in the blood when you uncover the art
+Some will laugh and shake their heads, say they don't get that kind
+But some truths don't hit a soul that's still scared of its own mind
+It ain't for everybody, no, it cuts a little sharp
+You gotta mentally grow for it to show when you uncover the art
+
+Yeah, you earn every line
+You wear every scar
+Ain't about the noise
+It's about who you are
+
+ Uncover the art, uncover the art
+ Let the story breathe, let it hit the heart
+ It ain't for everybody, no, not where they are
+ Some gotta mentally grow for it to show
+ Uncover the art
+ Uncover the art
+ When the healing's done and the truth ain't far
+ Pull it back slow and let the whole world know
+ Uncover the art
+
+And if they ask about the woman in the fire and the storm
+Tell 'em she's no passing thought, she was always gonna form
+Yeah, the message rides beside her, bold as any rebel chord
+She's back to put things in order
+There it is in black and green, there it is in grace and fight
+Like a reckoning with mercy standin' tall in broad daylight
+You can call it just a picture if you only see the frame
+But the ones who've lived a little know a mark can hold a name
+
+Yeah, you earn every line
+You wear every scar
+Ain't about the noise
+It's about who you are
+
+ Uncover the art, uncover the art
+ Let the story breathe, let it hit the heart
+ It ain't for everybody, no, not where they are
+ Some gotta mentally grow for it to show
+ Uncover the art
+ Uncover the art
+ When the healing's done and the truth ain't far
+ Pull it back slow and let the whole world know
+ Uncover the art
+
+It ain't vanity, it ain't for show
+It's where the hurt and the healing go
+Some see ink, some see a brand-new start
+Some never will 'til they grow enough heart
+
+ Uncover the art, uncover the art
+ Let the story breathe, let it hit the heart
+ It ain't for everybody, no, not where they are
+ Some gotta mentally grow for it to show
+ Uncover the art
+ Uncover the art
+ She's back to put things in order
+ Burnin' bright inside the border
+ Pull it back slow and let the whole world know
+ Uncover the art
+
+Yeah, uncover the art
+Let it breathe, let it speak
+Uncover the art`
     }
   ],
   showPlaceholder: false
