@@ -456,8 +456,12 @@ document.addEventListener("mouseover", e => {
   const text = term.dataset.text || term.dataset.popup || "";
   const image = term.dataset.image || "";
   const layout = term.dataset.layout || "none";
+  const imageSide = term.dataset.imageSide || "left";
 
-  tooltip.className = `wiki-tooltip wiki-tooltip-${layout}`;
+  tooltip.className =
+  `wiki-tooltip wiki-tooltip-${layout} wiki-tooltip-image-${imageSide}`;
+
+  // tooltip.className = `wiki-tooltip wiki-tooltip-${layout}`;
 
   tooltip.innerHTML = `
     ${image && layout !== "none" ? `<img src="${image}" alt="">` : ""}
@@ -473,7 +477,7 @@ document.addEventListener("mouseover", e => {
 
 document.addEventListener("mousemove", e => {
 
-  if (tooltip.style.display !== "block") return;
+  if (tooltip.style.display === "none") return; // was: if (tooltip.style.display !== "block") return;
 
   tooltip.style.left = (e.clientX + 15) + "px";
   tooltip.style.top = (e.clientY + 15) + "px";

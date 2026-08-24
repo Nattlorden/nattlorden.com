@@ -830,6 +830,29 @@ body:not([data-theme="hifi"]) .back-home img {
   color: #7d72c7;
 }
 
+.wiki-term a {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.wiki-term a:hover,
+.wiki-term a:visited,
+.wiki-term a:active {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.wiki-term {
+  cursor: default;
+}
+
+.wiki-term a {
+  cursor: pointer;
+}
+
 #wikiTooltip,
 .wiki-tooltip {
   position: fixed;
@@ -868,6 +891,22 @@ body:not([data-theme="hifi"]) .back-home img {
   max-width: 420px;
 }
 
+
+.wiki-tooltip-image-left img {
+  order: 1;
+}
+
+.wiki-tooltip-image-left .wiki-tooltip-body {
+  order: 2;
+}
+
+.wiki-tooltip-image-right img {
+  order: 2;
+}
+
+.wiki-tooltip-image-right .wiki-tooltip-body {
+  order: 1;
+}
 .wiki-tooltip-side img {
   width: 95px;
   height: auto;
