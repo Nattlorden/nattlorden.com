@@ -467,6 +467,116 @@ body[data-theme="majlisa"] {
   --font-main: Georgia, serif;
 }
 
+body[data-theme="skramlet"] {
+  --bg: #ffffff;
+  --panel: #f3f5f8;
+  --border: #ccd5df;
+  --text: #11161c;
+  --text-soft: #27313b;
+  --text-muted: #5f6b78;
+  --caption: #4c5966;
+  --meta: #66717d;
+  --accent: #2a6cff;
+  --accent-hover: #1149c9;
+  --active: #000000;
+  --side-active-bg: #e3e9f0;
+  --button-bg: #dfe6ee;
+  --button-text: #11161c;
+  --font-main: Georgia, serif;
+}
+
+body[data-theme="bp"] {
+  --bg: #ffffff;
+  --panel: #f3f5f8;
+  --border: #ccd5df;
+  --text: #11161c;
+  --text-soft: #27313b;
+  --text-muted: #5f6b78;
+  --caption: #4c5966;
+  --meta: #66717d;
+  --accent: #2a6cff;
+  --accent-hover: #1149c9;
+  --active: #000000;
+  --side-active-bg: #e3e9f0;
+  --button-bg: #dfe6ee;
+  --button-text: #11161c;
+  --font-main: Georgia, serif;
+}
+
+body[data-theme="mikael"] {
+  --bg: #ffffff;
+  --panel: #f3f5f8;
+  --border: #ccd5df;
+  --text: #11161c;
+  --text-soft: #27313b;
+  --text-muted: #5f6b78;
+  --caption: #4c5966;
+  --meta: #66717d;
+  --accent: #2a6cff;
+  --accent-hover: #1149c9;
+  --active: #000000;
+  --side-active-bg: #e3e9f0;
+  --button-bg: #dfe6ee;
+  --button-text: #11161c;
+  --font-main: Georgia, serif;
+}
+
+body[data-theme="eddie"] {
+  --bg: #ffffff;
+  --panel: #f3f5f8;
+  --border: #ccd5df;
+  --text: #11161c;
+  --text-soft: #27313b;
+  --text-muted: #5f6b78;
+  --caption: #4c5966;
+  --meta: #66717d;
+  --accent: #2a6cff;
+  --accent-hover: #1149c9;
+  --active: #000000;
+  --side-active-bg: #e3e9f0;
+  --button-bg: #dfe6ee;
+  --button-text: #11161c;
+  --font-main: Georgia, serif;
+}
+
+body[data-theme="viking"] {
+  --bg: #ffffff;
+  --panel: #f3f5f8;
+  --border: #ccd5df;
+  --text: #11161c;
+  --text-soft: #27313b;
+  --text-muted: #5f6b78;
+  --caption: #4c5966;
+  --meta: #66717d;
+  --accent: #2a6cff;
+  --accent-hover: #1149c9;
+  --active: #000000;
+  --side-active-bg: #e3e9f0;
+  --button-bg: #dfe6ee;
+  --button-text: #11161c;
+  --font-main: Georgia, serif;
+}
+
+body[data-theme="karna"] {
+  --bg: #ffffff;
+  --panel: #f3f5f8;
+  --border: #ccd5df;
+  --text: #11161c;
+  --text-soft: #27313b;
+  --text-muted: #5f6b78;
+  --caption: #4c5966;
+  --meta: #66717d;
+  --accent: #2a6cff;
+  --accent-hover: #1149c9;
+  --active: #000000;
+  --side-active-bg: #e3e9f0;
+  --button-bg: #dfe6ee;
+  --button-text: #11161c;
+  --font-main: Georgia, serif;
+}
+
+
+
 /* Övrigt – neutral */
 body[data-theme="other"] {
   --bg: #121315;

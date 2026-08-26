@@ -1,10 +1,22 @@
 const sectionLabels = {
   sv: {
     majlisa: "Maj-Lisa Freyja",
+    skramlet: "Skramlet",
+    bp: "BP Andersson",
+    eddie: "Eddie Sundberg",
+    viking: "Viking Hammarlund",
+    mikael: "Mikael Assarson",
+    karna: "Karna Jönsdotter",
     gear: "HiFi"
   },
   en: {
     majlisa: "Maj-Lisa Freyja",
+    skramlet: "Skramlet",
+    bp: "BP Andersson",
+    eddie: "Eddie Sundberg",
+    viking: "Viking Hammarlund",
+    mikael: "Mikael Assarson",
+    karna: "Karna Jönsdotter",
     gear: "HiFi"
   }
 };
@@ -17,6 +29,42 @@ const siteMeta = {
 
     sections: {
       majlisa: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      skramlet: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      bp: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      viking: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      eddie: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      mikael: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      karna: {
         title: "",
         tagline: "",
         icon: "assets/ui/mockupedia-sv3.png",
@@ -41,6 +89,42 @@ const siteMeta = {
         title: "",
         tagline: "",
         icon: "assets/ui/mockupedia-en3.png",
+        headerClass: "header-hifi"
+      },
+      skramlet: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-en3.png",
+        headerClass: "header-hifi"
+      },
+      bp: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      viking: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      eddie: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      mikael: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
+        headerClass: "header-hifi"
+      },
+      karna: {
+        title: "",
+        tagline: "",
+        icon: "assets/ui/mockupedia-sv3.png",
         headerClass: "header-hifi"
       },
       gear: {

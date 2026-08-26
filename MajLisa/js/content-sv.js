@@ -20,7 +20,7 @@ Debutalbumet <b>Ner längs vägen</b> gavs ut i april 1978.
 
 <b>Ursprunglig sättning</b>
 
-<b>Maj-Lisa</b> Freyja – sång, akustisk gitarr, Les Paul, munspel
+<a href="../Twiki/index.html#majlisa/about"  style="color: inherit;"><b>Maj-Lisa</b> Freyja</a> – sång, akustisk gitarr, Les Paul, munspel
 Björn Peter <b>"BP"</b> Andersson – Hammondorgel, piano, keyboard
 Pehr <b>"Eddie"</b> Sundberg – Telecaster, slidegitarr, munspel
 Kaj <b>Viking</b> Hammarlund – bas, andrasång
