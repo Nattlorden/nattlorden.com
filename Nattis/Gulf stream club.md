@@ -1,0 +1,2 @@
+
+Var någon form av semesterby, möjligen del av ett större koncept. Kan ha ingått i någon form av fastighetssvindel. Mina föräldrar hade bokat in oss där, men blev missnöjda och hävde beställningen och det var som alternativ på den semesterresan vi hittade [[Isaberg]].
