@@ -6,7 +6,7 @@ Jag köpte i alla fall [[Drakar & Demoner]] i någon leksaksaffär, troligen den
 
 I gymnasiet lyckades jag i alla fall nämna det vid rätt tidpunkt och hittade ett gäng baserade i Löddeköpinge och Billeberga att spela med... Blanda besättning bestående av bl.a. [[Henrik Lennartz (Böijers)|Henrik Lennatz]], [[Tommi Arminen|Tommi]]& Timo Arminen, [[Fredrik Löfqvist]], två Mikael, en Mathias.
 
-[[Henrik]] var den som skaffade [[HarnMaster]]/[[HarnWorld]] först och det är en av hans kampanjer som ligger som fundamentet till den bok jag skriver - baserat på dagboksanteckningar och egen expansion av dem vid tidpunkten.
+[[Henrik Lennartz (Böijers)|Henrik]] var den som skaffade [[HarnMaster]]/[[HarnWorld]] först och det är en av hans kampanjer som ligger som fundamentet till den bok jag skriver - baserat på dagboksanteckningar och egen expansion av dem vid tidpunkten.
 
 
 System jag ägt och/eller spelat i:
@@ -19,5 +19,5 @@ System jag ägt och/eller spelat i:
 [[HarnMaster]] 
 [[Khelataar]]
 [[Mutant]]
-[[Vampire – The Masquerade (rollspelet]]
+[[Vampire – The Masquerade (rollspelet)]]
 [[Western (rollspelet)]]

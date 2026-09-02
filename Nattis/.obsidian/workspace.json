@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ars Magica.md",
+                "file": "Vampire – The Masquerade (rollspelet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ars Magica"
+              "title": "Vampire – The Masquerade (rollspelet)"
             }
           }
         ]
@@ -185,11 +185,14 @@
   },
   "active": "474afef53952d690",
   "lastOpenFiles": [
-    "Spelhålan.md",
     "Rollspel.md",
+    "Vampire – The Masquerade (rollspelet).md",
+    "Henrik Lennartz (Böijers).md",
+    "Henrik.md",
+    "Ars Magica.md",
+    "Spelhålan.md",
     "Glasassietter ost.md",
     "Häljarp.md",
-    "Henrik Lennartz (Böijers).md",
     "Fredrik Löfqvist.md",
     "Tommi Arminen.md",
     "länge glömt.md",
@@ -203,7 +206,6 @@
     "T3a.md",
     "T3A/C.md",
     "T3A",
-    "Ars Magica.md",
     "2026-04-15.md"
   ]
 }

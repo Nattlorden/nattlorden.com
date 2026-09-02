@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Biografi</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      background: #f4f4f4;
+      color: #222;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      min-height: 100vh;
+    }
+
+    .sidebar {
+      padding: 1.5rem;
+      background: #e8e8e8;
+      border-right: 1px solid #ccc;
+      overflow-y: auto;
+    }
+
+    .sidebar h1 {
+      margin-top: 0;
+      font-size: 1.4rem;
+    }
+
+    .note-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .note-list li {
+      margin: 0.25rem 0;
+    }
+
+    .note-list button {
+      width: 100%;
+      padding: 0.4rem 0.5rem;
+      border: 0;
+      background: none;
+      text-align: left;
+      font: inherit;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+
+    .note-list button:hover {
+      background: rgba(0, 0, 0, 0.08);
+    }
+
+    .note-list button.active {
+      background: rgba(0, 0, 0, 0.14);
+      font-weight: 600;
+    }
+
+    .content {
+      max-width: 900px;
+      padding: 2rem 3rem;
+    }
+
+    .content h1 {
+      margin-top: 0;
+    }
+
+    .note-body {
+      line-height: 1.6;
+    }
+
+    .note-body p {
+      margin: 0 0 1rem;
+    }
+
+    .internal-link {
+      color: #375a9e;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 2px;
+      cursor: pointer;
+    }
+
+    .internal-link.unresolved {
+      color: #8a5555;
+      text-decoration-style: dotted;
+    }
+
+    .external-link {
+      color: #375a9e;
+    }
+
+    .properties,
+    .relations {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #ccc;
+      font-size: 0.9rem;
+    }
+
+    .properties h2,
+    .relations h2 {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .properties dl {
+      display: grid;
+      grid-template-columns: max-content 1fr;
+      gap: 0.25rem 1rem;
+    }
+
+    .properties dt {
+      font-weight: 600;
+    }
+
+    .properties dd {
+      margin: 0;
+    }
+
+    .relation-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+
+    .relation-list button {
+      border: 1px solid #bbb;
+      background: #fff;
+      border-radius: 4px;
+      padding: 0.25rem 0.5rem;
+      cursor: pointer;
+    }
+
+    .empty {
+      opacity: 0.6;
+      font-style: italic;
+    }
+
+    @media (max-width: 750px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        border-right: 0;
+        border-bottom: 1px solid #ccc;
+      }
+
+      .content {
+        padding: 1.5rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="layout">
+
+  <aside class="sidebar">
+    <h1>Anteckningar</h1>
+    <ul id="noteList" class="note-list"></ul>
+  </aside>
+
+  <main id="content" class="content">
+    <p class="empty">Välj en anteckning.</p>
+  </main>
+
+</div>
+
+<script>
+let biographyData = null;
+let notesByTitle = new Map();
+
+async function loadBiography() {
+  const response = await fetch("../data/biography.json");
+
+  if (!response.ok) {
+    throw new Error(
+      `Kunde inte läsa biography.json: ${response.status}`
+    );
+  }
+
+  biographyData = await response.json();
+
+  notesByTitle = new Map(
+    biographyData.notes.map(note => [note.title, note])
+  );
+
+  renderNoteList();
+
+  const requestedTitle = decodeURIComponent(
+    location.hash.substring(1)
+  );
+
+  if (requestedTitle && notesByTitle.has(requestedTitle)) {
+    showNote(requestedTitle);
+  }
+}
+
+function renderNoteList() {
+  const list = document.getElementById("noteList");
+
+  list.innerHTML = "";
+
+  for (const note of biographyData.notes) {
+    const li = document.createElement("li");
+    const button = document.createElement("button");
+
+    button.textContent = note.title;
+    button.dataset.title = note.title;
+
+    button.addEventListener("click", () => {
+      showNote(note.title);
+    });
+
+    li.appendChild(button);
+    list.appendChild(li);
+  }
+}
+
+function showNote(title) {
+  const note = notesByTitle.get(title);
+
+  if (!note) {
+    return;
+  }
+
+  location.hash = encodeURIComponent(title);
+
+  document.querySelectorAll(".note-list button").forEach(button => {
+    button.classList.toggle(
+      "active",
+      button.dataset.title === title
+    );
+  });
+
+  const content = document.getElementById("content");
+
+  content.innerHTML = "";
+
+  const heading = document.createElement("h1");
+  heading.textContent = note.title;
+  content.appendChild(heading);
+
+  if (Object.keys(note.properties || {}).length > 0) {
+    content.appendChild(
+      renderProperties(note.properties)
+    );
+  }
+
+  const body = document.createElement("div");
+  body.className = "note-body";
+
+  renderMarkdown(note.markdown, body);
+
+  if (!note.markdown.trim()) {
+    const empty = document.createElement("p");
+    empty.className = "empty";
+    empty.textContent = "Ingen text ännu.";
+    body.appendChild(empty);
+  }
+
+  content.appendChild(body);
+
+  content.appendChild(
+    renderRelations(note)
+  );
+}
+
+function renderProperties(properties) {
+  const section = document.createElement("section");
+  section.className = "properties";
+
+  const heading = document.createElement("h2");
+  heading.textContent = "Egenskaper";
+  section.appendChild(heading);
+
+  const dl = document.createElement("dl");
+
+  for (const [key, value] of Object.entries(properties)) {
+    const dt = document.createElement("dt");
+    dt.textContent = key;
+
+    const dd = document.createElement("dd");
+
+    if (value === null) {
+      dd.textContent = "";
+    }
+    else if (Array.isArray(value)) {
+      dd.textContent = value.join(", ");
+    }
+    else {
+      dd.textContent = value;
+    }
+
+    dl.appendChild(dt);
+    dl.appendChild(dd);
+  }
+
+  section.appendChild(dl);
+
+  return section;
+}
+
+function renderRelations(note) {
+  const section = document.createElement("section");
+  section.className = "relations";
+
+  const heading = document.createElement("h2");
+  heading.textContent = "Refereras från";
+  section.appendChild(heading);
+
+  if (!note.backlinks || note.backlinks.length === 0) {
+    const empty = document.createElement("p");
+    empty.className = "empty";
+    empty.textContent = "Inga backlinks.";
+    section.appendChild(empty);
+
+    return section;
+  }
+
+  const list = document.createElement("div");
+  list.className = "relation-list";
+
+  for (const title of note.backlinks) {
+    const button = document.createElement("button");
+    button.textContent = title;
+
+    button.addEventListener("click", () => {
+      showNote(title);
+    });
+
+    list.appendChild(button);
+  }
+
+  section.appendChild(list);
+
+  return section;
+}
+
+function renderMarkdown(markdown, container) {
+  const paragraphs = markdown
+    .replace(/\r\n/g, "\n")
+    .split(/\n\s*\n/);
+
+  for (const paragraphText of paragraphs) {
+    if (!paragraphText.trim()) {
+      continue;
+    }
+
+    const p = document.createElement("p");
+
+    renderInlineMarkdown(
+      paragraphText.replace(/\n/g, " "),
+      p
+    );
+
+    container.appendChild(p);
+  }
+}
+
+function renderInlineMarkdown(text, container) {
+  const regex =
+    /(\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;
+
+  let lastIndex = 0;
+  let match;
+
+  while ((match = regex.exec(text)) !== null) {
+    appendText(
+      container,
+      text.slice(lastIndex, match.index)
+    );
+
+    const token = match[0];
+
+    if (token.startsWith("[[")) {
+      renderWikiLink(token, container);
+    }
+    else {
+      renderExternalLink(token, container);
+    }
+
+    lastIndex = regex.lastIndex;
+  }
+
+  appendText(
+    container,
+    text.slice(lastIndex)
+  );
+}
+
+function renderWikiLink(token, container) {
+  const inner = token.slice(2, -2);
+
+  const pipeIndex = inner.indexOf("|");
+
+  let target;
+  let label;
+
+  if (pipeIndex >= 0) {
+    target = inner.slice(0, pipeIndex).trim();
+    label = inner.slice(pipeIndex + 1).trim();
+  }
+  else {
+    target = inner.trim();
+    label = target;
+  }
+
+  const hashIndex = target.indexOf("#");
+
+  if (hashIndex >= 0) {
+    target = target.slice(0, hashIndex);
+  }
+
+  const span = document.createElement("span");
+
+  span.textContent = label;
+  span.className = "internal-link";
+
+  if (notesByTitle.has(target)) {
+    span.addEventListener("click", () => {
+      showNote(target);
+    });
+  }
+  else {
+    span.classList.add("unresolved");
+    span.title = `Ingen note finns ännu: ${target}`;
+  }
+
+  container.appendChild(span);
+}
+
+function renderExternalLink(token, container) {
+  const match = token.match(
+    /^\[([^\]]+)\]\(([^)]+)\)$/
+  );
+
+  if (!match) {
+    appendText(container, token);
+    return;
+  }
+
+  const [, label, url] = match;
+
+  if (!url) {
+    appendText(container, label);
+    return;
+  }
+
+  const link = document.createElement("a");
+
+  link.textContent = label;
+  link.href = url;
+  link.className = "external-link";
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+
+  container.appendChild(link);
+}
+
+function appendText(container, text) {
+  container.appendChild(
+    document.createTextNode(text)
+  );
+}
+
+window.addEventListener("hashchange", () => {
+  const title = decodeURIComponent(
+    location.hash.substring(1)
+  );
+
+  if (notesByTitle.has(title)) {
+    showNote(title);
+  }
+});
+
+loadBiography().catch(error => {
+  console.error(error);
+
+  document.getElementById("content").innerHTML =
+    `<p>Kunde inte läsa biografidata.</p>`;
+});
+</script>
+
+</body>
+</html>
