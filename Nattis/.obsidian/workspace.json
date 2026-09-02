@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "02471f2fdaa53d43",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe83cc7be7348c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "474afef53952d690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ars Magica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ars Magica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "060cfa58d56d1bc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bff49e1305a7a55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887fbeca2254c054",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filutforskare"
+            }
+          },
+          {
+            "id": "aa43b2aefa75e823",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Sök"
+            }
+          },
+          {
+            "id": "a2cc39e214a19af3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bokmärken"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eaae9064e77baddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e47cd4cfb0f4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a773a311e7bc73c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-04-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Bakåtlänkar för 2026-04-15"
+            }
+          },
+          {
+            "id": "7b59412920ea4cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-04-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Utgående länkar från 2026-04-15"
+            }
+          },
+          {
+            "id": "2c58daf255399195",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Taggar"
+            }
+          },
+          {
+            "id": "65fac526bafa5834",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alla egenskaper"
+            }
+          },
+          {
+            "id": "5c945c196348f320",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-04-15.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Disposition av 2026-04-15"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Öppna snabbväxlare": false,
+      "graph:Öppna grafvy": false,
+      "canvas:Skapa ny canvas": false,
+      "daily-notes:Öppna dagens anteckning": false,
+      "templates:Infoga mall": false,
+      "command-palette:Öppna kommandopalett": false,
+      "bases:Skapa ny bas": false
+    }
+  },
+  "active": "474afef53952d690",
+  "lastOpenFiles": [
+    "Spelhålan.md",
+    "Rollspel.md",
+    "Glasassietter ost.md",
+    "Häljarp.md",
+    "Henrik Lennartz (Böijers).md",
+    "Fredrik Löfqvist.md",
+    "Tommi Arminen.md",
+    "länge glömt.md",
+    "T3ac.md",
+    "LTH.md",
+    "Jason och stjärnkommandot.md",
+    "Namnlös.canvas",
+    "Advanced Dungeons & Dragons.md",
+    "skapa en länk.md",
+    "Välkommen.md",
+    "T3a.md",
+    "T3A/C.md",
+    "T3A",
+    "Ars Magica.md",
+    "2026-04-15.md"
+  ]
+}

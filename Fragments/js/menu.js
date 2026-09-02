@@ -4,6 +4,7 @@ const sectionLabels = {
     nattlorden: "Nattlorden",
     croonlius: "Croonlius",
     khellendros: "Khellendros",
+    disir: "Dísir",
        /*hifi: "HiFi",*/
     other: "Övrigt"
   },
@@ -11,6 +12,7 @@ const sectionLabels = {
     nattlorden: "Nattlorden",
     croonlius: "Croonlius",
        khellendros: "Khellendros",
+       disir: "Dísir",
        /*hifi: "HiFi",*/
     other: "Other"
   }
@@ -37,6 +39,11 @@ const siteMeta = {
     title: "Khellendros",
     tagline: "Minnet av spelvärldar, syntar och ouppfyllda teman",
     headerClass: "header-khellendros"
+  },
+  disir: {
+    title: "Dísir",
+    tagline: "Kvinnliga gudomliga väsen, sångfåglar av varierat slag",
+    headerClass: "header-hifi"
   },
   /*<hifi: {
     title: "HiFi, hemmabio & billjud",
@@ -73,6 +80,11 @@ const siteMeta = {
         title: "Khellendros",
         tagline: "Memory of game worlds, synths, and unfinished themes",
         headerClass: "header-khellendros"
+      },
+      disir: {
+        title: "Dísir",
+        tagline: "Female divine beings, songbird of varying kinds",
+        headerClass: "header-hifi"
       },
       /*hifi: {
         title: "Hifi, Home Theater & Car audio",

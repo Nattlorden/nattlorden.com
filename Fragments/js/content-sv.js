@@ -7300,6 +7300,19 @@ a name.`
 
 }, /* end Khellendros */
 
+disir: {
+    about: {
+      menuTitle: "Om",
+      title: "Dísir",
+      text: `Dísir är ett samlingsprojekt av kvinnoröster i blandade genrer`,
+      showPlaceholder: false
+    },
+    marieCeleste: {
+      menuTitle: "Marie Celeste",
+      title: "Marie Celeste",
+      text: ``
+    }
+  }, /* end disir */
 
   
   /*hifi: {
@@ -7455,7 +7468,7 @@ Tills jag hittar en bättre plats för det får det ligga kvar här som en varia
     {
       type: "text",
       content: `<iframe src="https://suno.com/embed/06911f21-f152-4caf-afc4-1f896e610059" width="760" height="240" frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"><a href="https://suno.com/song/06911f21-f152-4caf-afc4-1f896e610059">Listen on Suno</a></iframe>`
-    } /*
+    } 
     ,
     {
       type: "divider"
@@ -7536,7 +7549,7 @@ In and out, we rise and fall
 Feel the fire through it all
 In and out, we rise and fall
 Through it all, through it all`
-    } */
+    } 
   ],
   showPlaceholder: false
     },

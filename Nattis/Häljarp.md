@@ -1,0 +1,5 @@
+---
+plats:
+  - Häljarp
+  - Landskrona Kommun
+---
