@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="sv">
 <head>
   <meta charset="utf-8">
@@ -171,7 +170,7 @@
   </aside>
 
   <main id="content" class="content">
-    <p class="empty">V√§lj en anteckning.</p>
+    <p class="empty">V‰lj en anteckning.</p>
   </main>
 
 </div>
@@ -185,7 +184,7 @@ async function loadBiography() {
 
   if (!response.ok) {
     throw new Error(
-      `Kunde inte l√§sa biography.json: ${response.status}`
+      `Kunde inte l‰sa biography.json: ${response.status}`
     );
   }
 
@@ -251,7 +250,12 @@ function showNote(title) {
   heading.textContent = note.title;
   content.appendChild(heading);
 
-  
+  if (Object.keys(note.properties || {}).length > 0) {
+    content.appendChild(
+      renderProperties(note.properties)
+    );
+  }
+
   const body = document.createElement("div");
   body.className = "note-body";
 
@@ -260,18 +264,11 @@ function showNote(title) {
   if (!note.markdown.trim()) {
     const empty = document.createElement("p");
     empty.className = "empty";
-    empty.textContent = "Ingen text √§nnu.";
+    empty.textContent = "Ingen text ‰nnu.";
     body.appendChild(empty);
   }
 
   content.appendChild(body);
-
-  if (Object.keys(note.properties || {}).length > 0) {
-    content.appendChild(
-      renderProperties(note.properties)
-    );
-  }
-
 
   content.appendChild(
     renderRelations(note)
@@ -318,7 +315,7 @@ function renderRelations(note) {
   section.className = "relations";
 
   const heading = document.createElement("h2");
-  heading.textContent = "Refereras fr√•n";
+  heading.textContent = "Refereras frÂn";
   section.appendChild(heading);
 
   if (!note.backlinks || note.backlinks.length === 0) {
@@ -436,7 +433,7 @@ function renderWikiLink(token, container) {
   }
   else {
     span.classList.add("unresolved");
-    span.title = `Ingen note finns √§nnu: ${target}`;
+    span.title = `Ingen note finns ‰nnu: ${target}`;
   }
 
   container.appendChild(span);
@@ -490,7 +487,7 @@ loadBiography().catch(error => {
   console.error(error);
 
   document.getElementById("content").innerHTML =
-    `<p>Kunde inte l√§sa biografidata.</p>`;
+    `<p>Kunde inte l‰sa biografidata.</p>`;
 });
 </script>
 
