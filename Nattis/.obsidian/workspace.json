@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vampire – The Masquerade (rollspelet).md",
+                "file": "LTH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vampire – The Masquerade (rollspelet)"
+              "title": "LTH"
             }
           }
         ]
@@ -183,19 +183,20 @@
       "bases:Skapa ny bas": false
     }
   },
-  "active": "474afef53952d690",
+  "active": "887fbeca2254c054",
   "lastOpenFiles": [
-    "Rollspel.md",
+    "Personer",
+    "Häljarp.md",
+    "länge glömt.md",
     "Vampire – The Masquerade (rollspelet).md",
-    "Henrik Lennartz (Böijers).md",
+    "Rollspel.md",
+    "Personer/Henrik Lennartz (Böijers).md",
     "Henrik.md",
     "Ars Magica.md",
     "Spelhålan.md",
     "Glasassietter ost.md",
-    "Häljarp.md",
-    "Fredrik Löfqvist.md",
-    "Tommi Arminen.md",
-    "länge glömt.md",
+    "Personer/Fredrik Löfqvist.md",
+    "Personer/Tommi Arminen.md",
     "T3ac.md",
     "LTH.md",
     "Jason och stjärnkommandot.md",

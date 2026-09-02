@@ -43,58 +43,17 @@ function splitFrontmatter(text) {
     };
 }
 
-/*const files = fs
+const files = fs
     .readdirSync(SOURCE_DIR)
     .filter(file => file.toLowerCase().endsWith(".md"))
-    .sort((a, b) => a.localeCompare(b, "sv"));*/
-
-function findMarkdownFiles(dir) {
-    const entries = fs.readdirSync(dir, {
-        withFileTypes: true
-    });
-
-    const result = [];
-
-    for (const entry of entries) {
-        const fullPath = path.join(dir, entry.name);
-
-        if (entry.isDirectory()) {
-            result.push(
-                ...findMarkdownFiles(fullPath)
-            );
-        }
-        else if (
-            entry.isFile() &&
-            entry.name.toLowerCase().endsWith(".md")
-        ) {
-            result.push(fullPath);
-        }
-    }
-
-    return result;
-}
-
-const files = findMarkdownFiles(SOURCE_DIR)
     .sort((a, b) => a.localeCompare(b, "sv"));
 
 // Första passet: läs alla notes
 const notes = files.map(file => {
- /*   const fullPath = path.join(SOURCE_DIR, file);
+    const fullPath = path.join(SOURCE_DIR, file);
     const raw = fs.readFileSync(fullPath, "utf8");
 
-    const title = path.basename(file, path.extname(file));*/
-
-    const fullPath = file;
-    const raw = fs.readFileSync(fullPath, "utf8");
-
-    const title = path.basename(
-        fullPath,
-        path.extname(fullPath)
-    );
-
-    const relativeFile = path
-        .relative(SOURCE_DIR, fullPath)
-        .replace(/\\/g, "/");
+    const title = path.basename(file, path.extname(file));
 
     const {
         properties,
@@ -120,17 +79,9 @@ const notes = files.map(file => {
         });
     }
 
-    /*return {
-        title,
-        file,
-        properties,
-        markdown,
-        links,
-        backlinks: []
-    };*/
     return {
         title,
-        file: relativeFile,
+        file,
         properties,
         markdown,
         links,

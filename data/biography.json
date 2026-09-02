@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T19:04:23.280Z",
+  "generated": "2026-09-02T20:04:26.413Z",
   "notes": [
     {
       "title": "Advanced Dungeons & Dragons",
@@ -37,24 +37,6 @@
       ]
     },
     {
-      "title": "Fredrik Löfqvist",
-      "file": "Fredrik Löfqvist.md",
-      "properties": {
-        "person": null
-      },
-      "markdown": "Gymnasieklasskamrat i [[T3ac|T3c]]\n\nRollspelskamrat.",
-      "links": [
-        {
-          "target": "T3ac",
-          "alias": "T3c"
-        }
-      ],
-      "backlinks": [
-        "Rollspel",
-        "Tommi Arminen"
-      ]
-    },
-    {
       "title": "Glasassietter ost",
       "file": "Glasassietter ost.md",
       "properties": {
@@ -72,24 +54,6 @@
         }
       ],
       "backlinks": []
-    },
-    {
-      "title": "Henrik Lennartz (Böijers)",
-      "file": "Henrik Lennartz (Böijers).md",
-      "properties": {
-        "person": null
-      },
-      "markdown": "Rollspelskamrat. Träffad via rollspelkontakt i min gymnasieklass.\n\nGick på Väg och vatten på [[LTH]] parallellt (ett års förskjutning) med mig.",
-      "links": [
-        {
-          "target": "LTH",
-          "alias": null
-        }
-      ],
-      "backlinks": [
-        "Rollspel",
-        "Tommi Arminen"
-      ]
     },
     {
       "title": "Häljarp",
@@ -125,7 +89,9 @@
           "alias": null
         }
       ],
-      "backlinks": []
+      "backlinks": [
+        "länge glömt"
+      ]
     },
     {
       "title": "LTH",
@@ -149,10 +115,81 @@
       "title": "länge glömt",
       "file": "länge glömt.md",
       "properties": {},
-      "markdown": "Jason och Stjärnkommandot\n\n[Space Adventure Cobra](https://en.wikipedia.org/wiki/Space_Adventure_Cobra:_The_Movie)",
-      "links": [],
+      "markdown": "[[Jason och stjärnkommandot]]\n\n[Space Adventure Cobra](https://en.wikipedia.org/wiki/Space_Adventure_Cobra:_The_Movie)",
+      "links": [
+        {
+          "target": "Jason och stjärnkommandot",
+          "alias": null
+        }
+      ],
       "backlinks": [
         "Jason och stjärnkommandot"
+      ]
+    },
+    {
+      "title": "Fredrik Löfqvist",
+      "file": "Personer/Fredrik Löfqvist.md",
+      "properties": {
+        "person": null
+      },
+      "markdown": "Gymnasieklasskamrat i [[T3ac|T3c]]\n\nRollspelskamrat.",
+      "links": [
+        {
+          "target": "T3ac",
+          "alias": "T3c"
+        }
+      ],
+      "backlinks": [
+        "Rollspel",
+        "Tommi Arminen"
+      ]
+    },
+    {
+      "title": "Henrik Lennartz (Böijers)",
+      "file": "Personer/Henrik Lennartz (Böijers).md",
+      "properties": {
+        "person": null
+      },
+      "markdown": "Rollspelskamrat. Träffad via rollspelkontakt i min gymnasieklass.\n\nGick på Väg och vatten på [[LTH]] parallellt (ett års förskjutning) med mig.",
+      "links": [
+        {
+          "target": "LTH",
+          "alias": null
+        }
+      ],
+      "backlinks": [
+        "Rollspel",
+        "Tommi Arminen"
+      ]
+    },
+    {
+      "title": "Tommi Arminen",
+      "file": "Personer/Tommi Arminen.md",
+      "properties": {
+        "person": null
+      },
+      "markdown": "(1971-2005)\nGymnasiekamrat - delade klass, han gick maskin-inriktningen [[T3ac|T3a]] och jag elektro- delen [[T3ac|T3c]]. \n\nRollspelskamrat.\n\nVi förlorade tragiskt nog honom i cancern våren 2025. Begravningen i Limhamns kyrka, sittningen efteråt vid brofästet.\n\nPratade med  [[Henrik Lennartz (Böijers)|Henrik]] och [[Fredrik Löfqvist|Fredrik]] för första gången på många år i sambandmed detta.\n\nDet blev dock väckarklocka för mig att ta upp boken till att skrivas vidare på... och sedermera då in i musikskapande som knock-on-effect.\n\n\n",
+      "links": [
+        {
+          "target": "T3ac",
+          "alias": "T3a"
+        },
+        {
+          "target": "T3ac",
+          "alias": "T3c"
+        },
+        {
+          "target": "Henrik Lennartz (Böijers)",
+          "alias": "Henrik"
+        },
+        {
+          "target": "Fredrik Löfqvist",
+          "alias": "Fredrik"
+        }
+      ],
+      "backlinks": [
+        "Ars Magica",
+        "Rollspel"
       ]
     },
     {
@@ -302,36 +339,6 @@
       "backlinks": [
         "Fredrik Löfqvist",
         "Tommi Arminen"
-      ]
-    },
-    {
-      "title": "Tommi Arminen",
-      "file": "Tommi Arminen.md",
-      "properties": {
-        "person": null
-      },
-      "markdown": "(1971-2005)\nGymnasiekamrat - delade klass, han gick maskin-inriktningen [[T3ac|T3a]] och jag elektro- delen [[T3ac|T3c]]. \n\nRollspelskamrat.\n\nVi förlorade tragiskt nog honom i cancern våren 2025. Begravningen i Limhamns kyrka, sittningen efteråt vid brofästet.\n\nPratade med  [[Henrik Lennartz (Böijers)|Henrik]] och [[Fredrik Löfqvist|Fredrik]] för första gången på många år i sambandmed detta.\n\nDet blev dock väckarklocka för mig att ta upp boken till att skrivas vidare på... och sedermera då in i musikskapande som knock-on-effect.\n\n\n",
-      "links": [
-        {
-          "target": "T3ac",
-          "alias": "T3a"
-        },
-        {
-          "target": "T3ac",
-          "alias": "T3c"
-        },
-        {
-          "target": "Henrik Lennartz (Böijers)",
-          "alias": "Henrik"
-        },
-        {
-          "target": "Fredrik Löfqvist",
-          "alias": "Fredrik"
-        }
-      ],
-      "backlinks": [
-        "Ars Magica",
-        "Rollspel"
       ]
     },
     {
