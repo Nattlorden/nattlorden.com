@@ -1,22 +1,10 @@
 let biographyData = null;
-let allNotesByTitle = new Map();
 let notesByTitle = new Map();
 
 const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
 
 if (hasFriendAccess()) {
   document.documentElement.classList.add("friend-access");
-}
-
-function isPrivateNote(note) {
-  return Object.prototype.hasOwnProperty.call(
-    note.properties || {},
-    "privat"
-  );
-}
-
-function isVisibleNote(note) {
-  return !isPrivateNote(note) || hasFriendAccess();
 }
 
 async function loadBiography() {
@@ -30,17 +18,8 @@ async function loadBiography() {
 
   biographyData = await response.json();
 
-  /*notesByTitle = new Map(
-    biographyData.notes.map(note => [note.title, note])
-  );*/
-  allNotesByTitle = new Map(
-  biographyData.notes.map(note => [note.title, note])
-  );
-
   notesByTitle = new Map(
-   biographyData.notes
-    .filter(isVisibleNote)
-    .map(note => [note.title, note])
+    biographyData.notes.map(note => [note.title, note])
   );
 
   renderNoteList();
@@ -59,8 +38,7 @@ function renderNoteList() {
 
   list.innerHTML = "";
 
-  /*for (const note of biographyData.notes) {*/
-  for (const note of biographyData.notes.filter(isVisibleNote)) {
+  for (const note of biographyData.notes) {
     const li = document.createElement("li");
     const button = document.createElement("button");
 
@@ -170,14 +148,7 @@ function renderRelations(note) {
   heading.textContent = "Refereras från";
   section.appendChild(heading);
 
-  /*if (!note.backlinks || note.backlinks.length === 0) {*/
-  const visibleBacklinks = (note.backlinks || []).filter(title => {
-  const sourceNote = allNotesByTitle.get(title);
-
-  return sourceNote && isVisibleNote(sourceNote);
-});
-
-if (visibleBacklinks.length === 0) {
+  if (!note.backlinks || note.backlinks.length === 0) {
     const empty = document.createElement("p");
     empty.className = "empty";
     empty.textContent = "Inga backlinks.";
@@ -189,8 +160,7 @@ if (visibleBacklinks.length === 0) {
   const list = document.createElement("div");
   list.className = "relation-list";
 
-  /*for (const title of note.backlinks) {*/
-  for (const title of visibleBacklinks) {
+  for (const title of note.backlinks) {
     const button = document.createElement("button");
     button.textContent = title;
 
@@ -279,17 +249,6 @@ function renderWikiLink(token, container) {
 
   if (hashIndex >= 0) {
     target = target.slice(0, hashIndex);
-  }
-
-  const targetNote = allNotesByTitle.get(target);
-
-  if (
-    targetNote &&
-    isPrivateNote(targetNote) &&
-    !hasFriendAccess()
-  ) {
-    appendText(container, label);
-    return;
   }
 
   const span = document.createElement("span");

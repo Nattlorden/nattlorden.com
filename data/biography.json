@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T07:26:43.337Z",
+  "generated": "2026-09-03T08:06:40.035Z",
   "notes": [
     {
       "title": "Advanced Dungeons & Dragons",
@@ -147,6 +147,7 @@
       "backlinks": [
         "Henrik Lennartz (Böijers)",
         "Jason och stjärnkommandot",
+        "Privat test",
         "T3ac"
       ]
     },
@@ -154,7 +155,7 @@
       "title": "länge glömt",
       "file": "länge glömt.md",
       "properties": {},
-      "markdown": "[[Jason och stjärnkommandot]]\n\n[Space Adventure Cobra](https://en.wikipedia.org/wiki/Space_Adventure_Cobra:_The_Movie)\n\n[[Blomstergården i Eringsboda]]\n\n[[Kindred- The Embraced]]\n",
+      "markdown": "[[Jason och stjärnkommandot]]\n\n[Space Adventure Cobra](https://en.wikipedia.org/wiki/Space_Adventure_Cobra:_The_Movie)\n\n[[Blomstergården i Eringsboda]]\n\n[[Kindred- The Embraced]]\n\n\n\nHär finns också [[Privat test|något jag inte tänker berätta om]].\n",
       "links": [
         {
           "target": "Jason och stjärnkommandot",
@@ -167,6 +168,10 @@
         {
           "target": "Kindred- The Embraced",
           "alias": null
+        },
+        {
+          "target": "Privat test",
+          "alias": "något jag inte tänker berätta om"
         }
       ],
       "backlinks": [
@@ -237,6 +242,23 @@
       "backlinks": [
         "Ars Magica",
         "Rollspel"
+      ]
+    },
+    {
+      "title": "Privat test",
+      "file": "Privat test.md",
+      "properties": {
+        "privat": null
+      },
+      "markdown": "Detta är min hemliga testsida. Här finns en länk till [[LTH]].",
+      "links": [
+        {
+          "target": "LTH",
+          "alias": null
+        }
+      ],
+      "backlinks": [
+        "länge glömt"
       ]
     },
     {
