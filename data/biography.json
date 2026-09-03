@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T11:37:36.186Z",
+  "generated": "2026-09-03T11:54:00.381Z",
   "notes": [
     {
       "title": "Advanced Dungeons & Dragons",
@@ -83,7 +83,7 @@
       "title": "Gulf stream club",
       "file": "Gulf stream club.md",
       "properties": {},
-      "markdown": "\r\nVar någon form av semesterby, möjligen del av ett större koncept. Kan ha ingått i någon form av fastighetssvindel. Mina föräldrar hade bokat in oss där, men blev missnöjda och hävde beställningen och det var som alternativ på den semesterresan vi hittade [[Isaberg]].",
+      "markdown": "\nVar någon form av semesterby, möjligen del av ett större koncept. Kan ha ingått i någon form av fastighetssvindel. Mina föräldrar hade bokat in oss där, men blev missnöjda och hävde beställningen och det var som alternativ på den semesterresan vi hittade [[Isaberg]].",
       "links": [
         {
           "target": "Isaberg",
@@ -102,7 +102,7 @@
           "Landskrona Kommun"
         ]
       },
-      "markdown": "Häljarps mölla\n![[(2) IMG_1848.jpg|175]]\nplaceholder\n\n",
+      "markdown": "Häljarps mölla\n\n![[(2) IMG_1848.jpg|175]]\n\nplaceholder\n\n",
       "links": [],
       "backlinks": [
         {
