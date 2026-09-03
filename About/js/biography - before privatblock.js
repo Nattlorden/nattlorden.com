@@ -206,29 +206,11 @@ if (visibleBacklinks.length === 0) {
   return section;
 }
 
-/*function renderMarkdown(markdown, container) {
+function renderMarkdown(markdown, container) {
   const paragraphs = markdown
     .replace(/\r\n/g, "\n")
-    .split(/\n\s*\n/);*/
-function renderMarkdown(markdown, container) {
-  let visibleMarkdown = markdown
-    .replace(/\r\n/g, "\n");
-
-  if (!hasFriendAccess()) {
-    visibleMarkdown = visibleMarkdown.replace(
-      /<!--\s*private\s*-->[\s\S]*?<!--\s*\/private\s*-->/gi,
-      ""
-    );
-  }
-  else {
-    visibleMarkdown = visibleMarkdown
-      .replace(/<!--\s*private\s*-->/gi, "")
-      .replace(/<!--\s*\/private\s*-->/gi, "");
-  }
-
-  const paragraphs = visibleMarkdown
     .split(/\n\s*\n/);
-    
+
   for (const paragraphText of paragraphs) {
     if (!paragraphText.trim()) {
       continue;

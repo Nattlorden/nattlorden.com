@@ -6,5 +6,3 @@ Detta var en [[SciFi-tvserie]] som visades i något av de aftonlånga program so
 Jag kanske inte ens visste vad den hette då ens, men jag glömde det definitivt senare och det störde mig varje gång något påminde mig om den.
 
 Lösningen kom inte förrän jag börjat studera på [[LTH]] när det kom upp och en kursare faktiskt visste.
-
-[[länge glömt]]
