@@ -280,17 +280,15 @@ function renderMarkdown(markdown, container) {
       .replace(/<!--\s*\/private\s*-->/gi, "");
   }
 
-  // Se till att horisontella linjer blir egna block,
-  // även om det inte finns en tom rad efter dem.
-  visibleMarkdown = visibleMarkdown.replace(
-    /^[ \t]*-{3,}[ \t]*$/gm,
-    "\n\n---\n\n"
-  );
-
   const paragraphs = visibleMarkdown
     .split(/\n\s*\n/);
 
-  for (const paragraphText of paragraphs) {
+  /*for (const paragraphText of paragraphs) {
+    if (!paragraphText.trim()) {
+      continue;
+    }*/
+
+     for (const paragraphText of paragraphs) {
     const trimmed = paragraphText.trim();
 
     if (!trimmed) {
@@ -316,10 +314,8 @@ function renderMarkdown(markdown, container) {
 }
 
 function renderInlineMarkdown(text, container) {
-  /*const regex =
-    /(\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;*/
   const regex =
-    /(\*\*[^*]+\*\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;  
+    /(\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;
 
   let lastIndex = 0;
   let match;
