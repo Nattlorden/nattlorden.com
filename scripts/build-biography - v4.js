@@ -77,7 +77,7 @@ function findMarkdownFiles(dir) {
 const files = findMarkdownFiles(SOURCE_DIR)
     .sort((a, b) => a.localeCompare(b, "sv"));
 
-// Fï¿½rsta passet: lï¿½s alla notes
+// Första passet: läs alla notes
 const notes = files.map(file => {
  /*   const fullPath = path.join(SOURCE_DIR, file);
     const raw = fs.readFileSync(fullPath, "utf8");
@@ -101,26 +101,6 @@ const notes = files.map(file => {
         markdown
     } = splitFrontmatter(raw);
 
-        const publicMarkdown = markdown.replace(
-        /<!--\s*private\s*-->[\s\S]*?<!--\s*\/private\s*-->/gi,
-        ""
-    );
-
-    const publicTargets = new Set();
-
-    const publicWikiLinkRegex =
-        /!\[\[[^\]]+\]\]|\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/g;
-
-    let publicMatch;
-
-    while ((publicMatch = publicWikiLinkRegex.exec(publicMarkdown)) !== null) {
-        if (!publicMatch[1]) continue;
-
-        publicTargets.add(
-            publicMatch[1].trim()
-        );
-    }
-
     const links = [];
 
     const wikiLinkRegex =
@@ -134,14 +114,9 @@ const notes = files.map(file => {
         const target = match[1].trim();
         const alias = match[2]?.trim() || null;
 
-        /*links.push({
-            target,
-            alias
-        });*/
         links.push({
             target,
-            alias,
-            private: !publicTargets.has(target)
+            alias
         });
     }
 
@@ -163,12 +138,12 @@ const notes = files.map(file => {
     };
 });
 
-// Index ï¿½ver alla existerande notes
+// Index över alla existerande notes
 const noteByTitle = new Map(
     notes.map(note => [note.title, note])
 );
 
-// Samla olï¿½sta lï¿½nkar
+// Samla olösta länkar
 const unresolvedLinks = [];
 
 // Andra passet: bygg backlinks
@@ -176,27 +151,9 @@ for (const sourceNote of notes) {
     for (const link of sourceNote.links) {
         const targetNote = noteByTitle.get(link.target);
 
-        /*if (targetNote) {
+        if (targetNote) {
             if (!targetNote.backlinks.includes(sourceNote.title)) {
                 targetNote.backlinks.push(sourceNote.title);
-            }
-        }*/
-         if (targetNote) {
-            const existing = targetNote.backlinks.find(
-                backlink =>
-                    backlink.title === sourceNote.title
-            );
-
-            if (!existing) {
-                targetNote.backlinks.push({
-                    title: sourceNote.title,
-                    private: link.private
-                });
-            }
-            else if (!link.private) {
-                // Om samma relation finns offentligt nÃ¥gonstans
-                // Ã¤r backlinken offentlig.
-                existing.private = false;
             }
         }
         else {
@@ -210,16 +167,13 @@ for (const sourceNote of notes) {
 
 // Sortera backlinks
 for (const note of notes) {
-    /*note.backlinks.sort((a, b) =>
-        a.localeCompare(b, "sv")
-    );*/
     note.backlinks.sort((a, b) =>
-    a.title.localeCompare(b.title, "sv")
-);
+        a.localeCompare(b, "sv")
+    );
 }
 
-// Deduplicera olï¿½sta lï¿½nkar.
-// Samma brutna lï¿½nk i samma note behï¿½ver bara rapporteras en gï¿½ng.
+// Deduplicera olösta länkar.
+// Samma brutna länk i samma note behöver bara rapporteras en gång.
 const unresolvedUnique = [];
 
 const unresolvedSeen = new Set();

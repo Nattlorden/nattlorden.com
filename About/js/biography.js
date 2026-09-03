@@ -19,6 +19,13 @@ function isVisibleNote(note) {
   return !isPrivateNote(note) || hasFriendAccess();
 }
 
+function removePrivateBlocks(markdown) {
+    return markdown.replace(
+        /<!--\s*private\s*-->[\s\S]*?<!--\s*\/private\s*-->/gi,
+        ""
+    );
+}
+
 async function loadBiography() {
   const response = await fetch("../data/biography.json");
 
@@ -162,7 +169,7 @@ function renderProperties(properties) {
   return section;
 }
 
-function renderRelations(note) {
+/* function renderRelations(note) {
   const section = document.createElement("section");
   section.className = "relations";
 
@@ -170,7 +177,7 @@ function renderRelations(note) {
   heading.textContent = "Refereras från";
   section.appendChild(heading);
 
-  /*if (!note.backlinks || note.backlinks.length === 0) {*/
+  /*if (!note.backlinks || note.backlinks.length === 0) {*/ /*
   const visibleBacklinks = (note.backlinks || []).filter(title => {
   const sourceNote = allNotesByTitle.get(title);
 
@@ -189,8 +196,55 @@ if (visibleBacklinks.length === 0) {
   const list = document.createElement("div");
   list.className = "relation-list";
 
-  /*for (const title of note.backlinks) {*/
+  /*for (const title of note.backlinks) {*/ /*
   for (const title of visibleBacklinks) {
+    const button = document.createElement("button");
+    button.textContent = title;
+
+    button.addEventListener("click", () => {
+      showNote(title);
+    });
+
+    list.appendChild(button);
+  }
+
+  section.appendChild(list);
+
+  return section;
+} */
+function renderRelations(note) {
+  const section = document.createElement("section");
+  section.className = "relations";
+
+  const heading = document.createElement("h2");
+  heading.textContent = "Refereras från";
+  section.appendChild(heading);
+
+  const visibleBacklinks = (note.backlinks || []).filter(backlink => {
+    if (backlink.private && !hasFriendAccess()) {
+      return false;
+    }
+
+    const sourceNote = allNotesByTitle.get(backlink.title);
+
+    return sourceNote && isVisibleNote(sourceNote);
+  });
+
+  if (visibleBacklinks.length === 0) {
+    const empty = document.createElement("p");
+    empty.className = "empty";
+    empty.textContent = "Inga backlinks.";
+    section.appendChild(empty);
+
+    return section;
+  }
+
+  const list = document.createElement("div");
+  list.className = "relation-list";
+
+  for (const backlink of visibleBacklinks) {
+    const title = backlink.title;
+
     const button = document.createElement("button");
     button.textContent = title;
 
@@ -228,7 +282,7 @@ function renderMarkdown(markdown, container) {
 
   const paragraphs = visibleMarkdown
     .split(/\n\s*\n/);
-    
+
   for (const paragraphText of paragraphs) {
     if (!paragraphText.trim()) {
       continue;

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T09:06:31.736Z",
+  "generated": "2026-09-03T09:49:26.047Z",
   "notes": [
     {
       "title": "Advanced Dungeons & Dragons",
@@ -8,7 +8,10 @@
       "markdown": "",
       "links": [],
       "backlinks": [
-        "Rollspel"
+        {
+          "title": "Rollspel",
+          "private": false
+        }
       ]
     },
     {
@@ -21,19 +24,25 @@
       "links": [
         {
           "target": "Rollspel",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "NPC",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Tommi Arminen",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "Rollspel"
+        {
+          "title": "Rollspel",
+          "private": false
+        }
       ]
     },
     {
@@ -43,7 +52,10 @@
       "markdown": "Ett av resemålen när vi gjorde den enda gemensamma semestern med Familjen Jönsson (möjligen ingen Leif?).   Har mycket starka minnen från denna magiska plats av  bitvis nästan Ralph Lundstensk känsla... Eventuellt har jag varit där en gång till senare i livet också.\n\n---\nBelägen i Göljahult i norra Blekinge\n\nUnder 1960-talet och stora delar av 1970-talet var detta ett av Sveriges absolut största turistmål, med runt **200 000 besökare varje sommar**. Det rankades under sin storhetstid som landets tredje största besöksmål efter Liseberg och Gröna Lund\n\nAnläggningen skapades av Verner Svensson och hans fru Annie i början av 1940-talet. Det som började som en privat passion växte till en sagolik och närmast surrealistisk parkmiljö.\n\n- **Blomsterprakten:** Tusentals färgsprakande, välskötta blommor, perenner och exotiska växtarter i en kuperad skogsmiljö.\n\n- **Sten- och vattenkonst:** Verner handplockade unika stenar från naturen för att bygga magnifika terrasser, grottor, gångstigar och dammar med fontäner.\n\n- **Sagoinslag:** Trädgården kändes magisk för både barn och vuxna, med dolda stigar och fantasifulla arrangemang som gav en känsla av att kliva rakt in i en annan värld.\n  \n Efter 1970-talet dalade besökssiffrorna gradvis. Trädgården stängdes och öppnades igen i olika omgångar, men efter den sista stängningen **år 2014 är anläggningen helt nedlagd**. Idag är platsen övergiven och naturen har tagit tillbaka de gamla odlingarna, men för en hel generation svenskar förblir Blomstergården det ultimata minnet av 70-talets bilsemestrar i \"Sveriges trädgård\".",
       "links": [],
       "backlinks": [
-        "länge glömt"
+        {
+          "title": "länge glömt",
+          "private": false
+        }
       ]
     },
     {
@@ -56,11 +68,13 @@
       "links": [
         {
           "target": "loppis",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Häljarp",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": []
@@ -73,7 +87,8 @@
       "links": [
         {
           "target": "Isaberg",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": []
@@ -90,7 +105,10 @@
       "markdown": "",
       "links": [],
       "backlinks": [
-        "Glasassietter ost"
+        {
+          "title": "Glasassietter ost",
+          "private": false
+        }
       ]
     },
     {
@@ -101,15 +119,20 @@
       "links": [
         {
           "target": "SciFi-tvserie",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "LTH",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "länge glömt"
+        {
+          "title": "länge glömt",
+          "private": false
+        }
       ]
     },
     {
@@ -120,12 +143,19 @@
       "links": [
         {
           "target": "Vampire – The Masquerade (rollspelet)",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "länge glömt",
-        "Vampire – The Masquerade (rollspelet)"
+        {
+          "title": "länge glömt",
+          "private": false
+        },
+        {
+          "title": "Vampire – The Masquerade (rollspelet)",
+          "private": false
+        }
       ]
     },
     {
@@ -141,10 +171,22 @@
       "markdown": "Lunds Tekniska Högskola, numera del av Universitetet",
       "links": [],
       "backlinks": [
-        "Henrik Lennartz (Böijers)",
-        "Jason och stjärnkommandot",
-        "Privat test",
-        "T3ac"
+        {
+          "title": "Henrik Lennartz (Böijers)",
+          "private": false
+        },
+        {
+          "title": "Jason och stjärnkommandot",
+          "private": false
+        },
+        {
+          "title": "Privat test",
+          "private": false
+        },
+        {
+          "title": "T3ac",
+          "private": false
+        }
       ]
     },
     {
@@ -155,23 +197,28 @@
       "links": [
         {
           "target": "Jason och stjärnkommandot",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Blomstergården i Eringsboda",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Kindred- The Embraced",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Privat test",
-          "alias": "något jag inte tänker berätta om"
+          "alias": "något jag inte tänker berätta om",
+          "private": true
         },
         {
           "target": "Fredrik Löfqvist",
-          "alias": null
+          "alias": null,
+          "private": true
         }
       ],
       "backlinks": []
@@ -186,13 +233,23 @@
       "links": [
         {
           "target": "T3ac",
-          "alias": "T3c"
+          "alias": "T3c",
+          "private": false
         }
       ],
       "backlinks": [
-        "länge glömt",
-        "Rollspel",
-        "Tommi Arminen"
+        {
+          "title": "länge glömt",
+          "private": true
+        },
+        {
+          "title": "Rollspel",
+          "private": false
+        },
+        {
+          "title": "Tommi Arminen",
+          "private": false
+        }
       ]
     },
     {
@@ -205,12 +262,19 @@
       "links": [
         {
           "target": "LTH",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "Rollspel",
-        "Tommi Arminen"
+        {
+          "title": "Rollspel",
+          "private": false
+        },
+        {
+          "title": "Tommi Arminen",
+          "private": false
+        }
       ]
     },
     {
@@ -223,24 +287,34 @@
       "links": [
         {
           "target": "T3ac",
-          "alias": "T3a"
+          "alias": "T3a",
+          "private": false
         },
         {
           "target": "T3ac",
-          "alias": "T3c"
+          "alias": "T3c",
+          "private": false
         },
         {
           "target": "Henrik Lennartz (Böijers)",
-          "alias": "Henrik"
+          "alias": "Henrik",
+          "private": false
         },
         {
           "target": "Fredrik Löfqvist",
-          "alias": "Fredrik"
+          "alias": "Fredrik",
+          "private": false
         }
       ],
       "backlinks": [
-        "Ars Magica",
-        "Rollspel"
+        {
+          "title": "Ars Magica",
+          "private": false
+        },
+        {
+          "title": "Rollspel",
+          "private": false
+        }
       ]
     },
     {
@@ -253,11 +327,15 @@
       "links": [
         {
           "target": "LTH",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "länge glömt"
+        {
+          "title": "länge glömt",
+          "private": true
+        }
       ]
     },
     {
@@ -268,111 +346,140 @@
       "links": [
         {
           "target": "Satanism",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "USA",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Drakar & Demoner",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Spelhålan",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Advanced Dungeons & Dragons",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Malmö Museum",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Tekniska museet/Sjöfartsmuseet",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Henrik Lennartz (Böijers)",
-          "alias": "Henrik Lennatz"
+          "alias": "Henrik Lennatz",
+          "private": false
         },
         {
           "target": "Tommi Arminen",
-          "alias": "Tommi"
+          "alias": "Tommi",
+          "private": false
         },
         {
           "target": "Fredrik Löfqvist",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Henrik Lennartz (Böijers)",
-          "alias": "Henrik"
+          "alias": "Henrik",
+          "private": false
         },
         {
           "target": "HarnMaster",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "HarnWorld",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Advanced Dungeons & Dragons",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Ars Magica",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Chock (rollspelet)",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Cyberpunk 2020 (rollspelet)",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Drakar & Demoner",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "GURPS",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "HarnMaster",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Khelataar",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Mutant",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "RuneQuest",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Shadowrun",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Vampire – The Masquerade (rollspelet)",
-          "alias": null
+          "alias": null,
+          "private": false
         },
         {
           "target": "Western (rollspelet)",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "Ars Magica"
+        {
+          "title": "Ars Magica",
+          "private": false
+        }
       ]
     },
     {
@@ -383,11 +490,15 @@
       "links": [
         {
           "target": "Cyberpunk 2020 (rollspelet)",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "Rollspel"
+        {
+          "title": "Rollspel",
+          "private": false
+        }
       ]
     },
     {
@@ -403,11 +514,15 @@
       "links": [
         {
           "target": "Bosses Hobby",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "Rollspel"
+        {
+          "title": "Rollspel",
+          "private": false
+        }
       ]
     },
     {
@@ -424,12 +539,19 @@
       "links": [
         {
           "target": "LTH",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "Fredrik Löfqvist",
-        "Tommi Arminen"
+        {
+          "title": "Fredrik Löfqvist",
+          "private": false
+        },
+        {
+          "title": "Tommi Arminen",
+          "private": false
+        }
       ]
     },
     {
@@ -440,12 +562,19 @@
       "links": [
         {
           "target": "Kindred- The Embraced",
-          "alias": null
+          "alias": null,
+          "private": false
         }
       ],
       "backlinks": [
-        "Kindred- The Embraced",
-        "Rollspel"
+        {
+          "title": "Kindred- The Embraced",
+          "private": false
+        },
+        {
+          "title": "Rollspel",
+          "private": false
+        }
       ]
     }
   ]
