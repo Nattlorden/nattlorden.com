@@ -320,8 +320,10 @@ function renderInlineMarkdown(text, container) {
     /(\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;*/
   /*const regex =
     /(\*\*[^*]+\*\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;  */
+  /*const regex =
+  /(\*\*\*[^*]+\*\*\*|\*\*[^*]+\*\*|\*[^*]+\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;  */
   const regex =
-  /(\*\*\*[^*]+\*\*\*|\*\*[^*]+\*\*|\*[^*]+\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;  
+  /(!\[\[[^\]]+\]\]|\*\*\*[^*]+\*\*\*|\*\*[^*]+\*\*|\*[^*]+\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;
 
   let lastIndex = 0;
   let match;
@@ -334,7 +336,10 @@ function renderInlineMarkdown(text, container) {
 
     const token = match[0];
 
-    if (token.startsWith("***")) {
+    if (token.startsWith("![[")) {
+  renderImageEmbed(token, container);
+}
+else if (token.startsWith("***")) {
   const strong = document.createElement("strong");
   const em = document.createElement("em");
 
@@ -377,6 +382,53 @@ else {
     container,
     text.slice(lastIndex)
   );
+}
+
+function renderImageEmbed(token, container) {
+  const inner = token.slice(3, -2);
+
+  const pipeIndex = inner.lastIndexOf("|");
+
+  let filename;
+  let width = null;
+
+  if (pipeIndex >= 0) {
+    filename = inner.slice(0, pipeIndex).trim();
+
+    const widthText = inner
+      .slice(pipeIndex + 1)
+      .trim();
+
+    if (/^\d+$/.test(widthText)) {
+      width = Number(widthText);
+    }
+  }
+  else {
+    filename = inner.trim();
+  }
+
+  if (!filename) {
+    return;
+  }
+
+  const img = document.createElement("img");
+
+  img.src =
+    "../Nattis/Bilder/" +
+    encodeURIComponent(filename)
+      .replace(/%2F/gi, "/");
+
+  img.alt = "";
+  img.loading = "lazy";
+
+  img.style.maxWidth = "100%";
+  img.style.height = "auto";
+
+  if (width) {
+    img.style.width = `${width}px`;
+  }
+
+  container.appendChild(img);
 }
 
 function renderWikiLink(token, container) {
