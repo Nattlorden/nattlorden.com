@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T08:06:40.035Z",
+  "generated": "2026-09-03T09:06:31.736Z",
   "notes": [
     {
       "title": "Advanced Dungeons & Dragons",
@@ -97,7 +97,7 @@
       "title": "Jason och stjärnkommandot",
       "file": "Jason och stjärnkommandot.md",
       "properties": {},
-      "markdown": "\r\n(Jason of Star Command)\r\n\r\nDetta var en [[SciFi-tvserie]] som visades i något av de aftonlånga program som SVT hade ibland, egentligen mest en mer snacksalig programpresentatör än de vanliga hallåorna och gjorde till ett program istället. Det kanske mest minnesvärda var den lilla robot han hade i bältet som fick bli lösningen i många knipor.\r\n\r\nJag kanske inte ens visste vad den hette då ens, men jag glömde det definitivt senare och det störde mig varje gång något påminde mig om den.\r\n\r\nLösningen kom inte förrän jag börjat studera på [[LTH]] när det kom upp och en kursare faktiskt visste.\r\n\r\n[[länge glömt]]",
+      "markdown": "\n(Jason of Star Command)\n\nDetta var en [[SciFi-tvserie]] som visades i något av de aftonlånga program som SVT hade ibland, egentligen mest en mer snacksalig programpresentatör än de vanliga hallåorna och gjorde till ett program istället. Det kanske mest minnesvärda var den lilla robot han hade i bältet som fick bli lösningen i många knipor.\n\nJag kanske inte ens visste vad den hette då ens, men jag glömde det definitivt senare och det störde mig varje gång något påminde mig om den.\n\nLösningen kom inte förrän jag börjat studera på [[LTH]] när det kom upp och en kursare faktiskt visste.",
       "links": [
         {
           "target": "SciFi-tvserie",
@@ -105,10 +105,6 @@
         },
         {
           "target": "LTH",
-          "alias": null
-        },
-        {
-          "target": "länge glömt",
           "alias": null
         }
       ],
@@ -155,7 +151,7 @@
       "title": "länge glömt",
       "file": "länge glömt.md",
       "properties": {},
-      "markdown": "[[Jason och stjärnkommandot]]\n\n[Space Adventure Cobra](https://en.wikipedia.org/wiki/Space_Adventure_Cobra:_The_Movie)\n\n[[Blomstergården i Eringsboda]]\n\n[[Kindred- The Embraced]]\n\n\n\nHär finns också [[Privat test|något jag inte tänker berätta om]].\n",
+      "markdown": "[[Jason och stjärnkommandot]]\n\n[Space Adventure Cobra](https://en.wikipedia.org/wiki/Space_Adventure_Cobra:_The_Movie)\n\n[[Blomstergården i Eringsboda]]\n\n[[Kindred- The Embraced]]\n\n\nDet här är offentlig text. <!-- private --> Det här visas bara i upplåst läge. Här finns också [[Privat test|något jag inte tänker berätta om]]. Jag träffade [[Fredrik Löfqvist]] där.<!-- /private --> Sådetså!\n\n\n",
       "links": [
         {
           "target": "Jason och stjärnkommandot",
@@ -172,11 +168,13 @@
         {
           "target": "Privat test",
           "alias": "något jag inte tänker berätta om"
+        },
+        {
+          "target": "Fredrik Löfqvist",
+          "alias": null
         }
       ],
-      "backlinks": [
-        "Jason och stjärnkommandot"
-      ]
+      "backlinks": []
     },
     {
       "title": "Fredrik Löfqvist",
@@ -192,6 +190,7 @@
         }
       ],
       "backlinks": [
+        "länge glömt",
         "Rollspel",
         "Tommi Arminen"
       ]
