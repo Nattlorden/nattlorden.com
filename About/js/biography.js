@@ -283,8 +283,22 @@ function renderMarkdown(markdown, container) {
   const paragraphs = visibleMarkdown
     .split(/\n\s*\n/);
 
-  for (const paragraphText of paragraphs) {
+  /*for (const paragraphText of paragraphs) {
     if (!paragraphText.trim()) {
+      continue;
+    }*/
+
+     for (const paragraphText of paragraphs) {
+    const trimmed = paragraphText.trim();
+
+    if (!trimmed) {
+      continue;
+    }
+
+    if (/^-{3,}$/.test(trimmed)) {
+      container.appendChild(
+        document.createElement("hr")
+      );
       continue;
     }
 
