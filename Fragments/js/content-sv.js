@@ -19,7 +19,7 @@ Här får fragment, enstaka idéer och friare uttryck existera utan att först b
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Golf_songcover.png",
+      src: "assets/covers/Golf_songcover.jpg",
       size: "small",
       caption: "Publicerad 1a juni 2007"
     },
@@ -115,7 +115,7 @@ Seven times in the sun with the sons of a gun
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Spiderfell Manor 3k.png",
+      src: "assets/covers/Spiderfell Manor 3k.jpg",
       size: "small",
       caption: "Publicerad på Halloween 2025"
     },
@@ -336,7 +336,7 @@ håller vi kvar det mörker som är bara vårat — här.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Starship Orion 3k.png",
+      src: "assets/covers/Starship Orion 3k.jpg",
       size: "small",
       caption: "Publicerad 10e december 2025"
     },
@@ -416,7 +416,7 @@ and hope no one reviews that chart…”
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Christmas 3k.png",
+      src: "assets/covers/Christmas 3k.jpg",
       size: "small",
       caption: "Publicerad 22e december 2025"
     },
@@ -506,7 +506,7 @@ There’s nowhere else we need the time
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Yule 3k.png",
+      src: "assets/covers/Yule 3k.jpg",
       size: "small",
       caption: "Publicerad sent på Julafton 2025"
     },
@@ -596,7 +596,7 @@ We wait it out with company
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Publicerad 26e december 2025"
     },
@@ -645,7 +645,7 @@ failed to follow`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Publicerad 26e december 2025"
     },
@@ -749,7 +749,7 @@ That’s all
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Publicerad 26e december 2025"
     },
@@ -852,7 +852,7 @@ make it lighter`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Publicerad 26e december 2025"
     },
@@ -915,7 +915,7 @@ kept`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Publicerad 26e december 2025"
     },
@@ -1049,7 +1049,7 @@ I’m one who is more than one`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Karoliner 3k 2.png",
+      src: "assets/covers/Karoliner 3k 2.jpg",
       size: "small",
       caption: "Publicerad 4e januari 2026"
     },
@@ -1135,7 +1135,7 @@ Is owned by bone
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Borrowed Authority 3k 2.png",
+      src: "assets/covers/Borrowed Authority 3k 2.jpg",
       size: "small",
       caption: "Publicerad 9e januari 2026"
     },
@@ -1230,7 +1230,7 @@ We bleed… and compensate`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/LWT 3k.png",
+      src: "assets/covers/LWT 3k.jpg",
       size: "small",
       caption: "Publicerad 19e januari 2026"
     },
@@ -1321,7 +1321,7 @@ You.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/storm 3k.png",
+      src: "assets/covers/storm 3k.jpg",
       size: "small",
       caption: "Publicerad 24e januari 2026"
     },
@@ -1410,7 +1410,7 @@ a line of fire,
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Reckoning 3k 5.png",
+      src: "assets/covers/Reckoning 3k 5.jpg",
       size: "small",
       caption: "Publicerad 25e januari 2026"
     },
@@ -1504,7 +1504,7 @@ The scythe is me.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Tänk om 3k.png",
+      src: "assets/covers/Tänk om 3k.jpg",
       size: "small",
       caption: "Publicerad 6e februari 2026"
     },
@@ -1575,7 +1575,7 @@ Vi kan börja här, med fred
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Dacke 3k.png",
+      src: "assets/covers/Dacke 3k.jpg",
       size: "small",
       caption: "Publicerad 8e februari 2026"
     },
@@ -1740,7 +1740,7 @@ Oh`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Mirrors 3k.png",
+      src: "assets/covers/Mirrors 3k.jpg",
       size: "small",
       caption: "Publicerad 23e februari 2026"
     },
@@ -1829,7 +1829,7 @@ if you’re done with yesterday.”
       blocks: [
      {
       type: "image",
-      src: "assets/covers/När lamporna släcks 3k.png",
+      src: "assets/covers/När lamporna släcks 3k.jpg",
       size: "small",
       caption: "Publicerad 25e februari 2026"
     },
@@ -1926,7 +1926,7 @@ Jag skulle falla om du vill
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Citizens 3k.png",
+      src: "assets/covers/Citizens 3k.jpg",
       size: "small",
       caption: "Publicerad 28e februari 2026"
     },
@@ -2024,7 +2024,7 @@ och en gammal hederstro.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/The End 3k.png",
+      src: "assets/covers/The End 3k.jpg",
       size: "small",
       caption: "Publicerad 5e mars 2026"
     },
@@ -2233,7 +2233,7 @@ Now I rise for you
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2326,7 +2326,7 @@ Och möta mig här`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2413,7 +2413,7 @@ Går du fortfarande bredvid`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2493,7 +2493,7 @@ när världen stod helt still`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2586,7 +2586,7 @@ När natten faller kvar`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2690,7 +2690,7 @@ Jag är här`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2785,7 +2785,7 @@ Tills natten faller än
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2887,7 +2887,7 @@ I min egen sång
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -2987,7 +2987,7 @@ Som vägrar låta bli`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -3081,7 +3081,7 @@ du är den bäste jag har mött`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Publicerad 3e mars 2026"
     },
@@ -3151,7 +3151,7 @@ Vi kan börja här, med fred`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Hill witch woman 3k.png",
+      src: "assets/covers/Hill witch woman 3k.jpg",
       size: "small",
       caption: "Publicerad 20e mars 2026"
     },
@@ -3252,7 +3252,7 @@ Hill witch woman, stir it slow`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Inte mitt öde 3k.png",
+      src: "assets/covers/Inte mitt öde 3k.jpg",
       size: "small",
       caption: "Publicerad 4e april 2026"
     },
@@ -3352,7 +3352,7 @@ i hans ord`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Skåne 3k.png",
+      src: "assets/covers/Skåne 3k.jpg",
       size: "small",
       caption: "Publicerad 19e april 2026"
     },
@@ -3978,7 +3978,7 @@ Inga bromsar nu`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Fågel på skylt 3k.png",
+      src: "assets/covers/Fågel på skylt 3k.jpg",
       size: "small",
       caption: "Publicerad 23e juni 2026"
     },
@@ -4080,7 +4080,7 @@ lämnar aldrig oss`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/i denna ljuva sommartid 3k.png",
+      src: "assets/covers/i denna ljuva sommartid 3k.jpg",
       size: "small",
       caption: "Publicerad 1e juli 2026"
     },
@@ -4177,7 +4177,7 @@ Så vill jag mer ej önska.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Also sprah Zarathustra 3k.png",
+      src: "assets/covers/Also sprah Zarathustra 3k.jpg",
       size: "small",
       caption: "Publicerad 2e juli 2026"
     },
@@ -4281,7 +4281,7 @@ står jag kvar`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Cute side of us 3k.png",
+      src: "assets/covers/Cute side of us 3k.jpg",
       size: "small",
       caption: "Publicerad 6e juli 2026"
     },
@@ -4381,7 +4381,7 @@ You...`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Cute side of us 3k.png",
+      src: "assets/covers/Cute side of us 3k.jpg",
       size: "small",
       caption: "Publicerad 6e juli 2026"
     },
@@ -4451,7 +4451,7 @@ Every Oops! becomes a win.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Lampan i hallen 3k.png",
+      src: "assets/covers/Lampan i hallen 3k.jpg",
       size: "small",
       caption: "Publicerad 10e juli 2026"
     },
@@ -4573,7 +4573,7 @@ Den lyste hela vägen hem.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Angels in the feed 3k.png",
+      src: "assets/covers/Angels in the feed 3k.jpg",
       size: "small",
       caption: "Publicerad 15e juli 2026"
     },
@@ -4631,7 +4631,7 @@ I already did.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Sometimes I Forget - iconic 3k.png",
+      src: "assets/covers/Sometimes I Forget - iconic 3k.jpg",
       size: "small",
       caption: "Publicerad 19e juli 2026"
     },
@@ -4743,7 +4743,7 @@ Maybe part of you is carrying on`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/De Die in Diem.png",
+      src: "assets/covers/De Die in Diem.jpg",
       size: "small",
       caption: "Publicerad 24e juli 2026"
     },
@@ -4841,7 +4841,7 @@ requiescam.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/De Die in Diem.png",
+      src: "assets/covers/De Die in Diem.jpg",
       size: "small",
       caption: "Publicerad 24e juli 2026"
     },
@@ -4934,7 +4934,7 @@ Bär du mig.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Steel beast 3k.png",
+      src: "assets/covers/Steel beast 3k.jpg",
       size: "small",
       caption: "Publicerad 2e augusti 2026"
     },
@@ -5049,7 +5049,7 @@ One kept rolling out of town
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Mamma mia 3k.png",
+      src: "assets/covers/Mamma mia 3k.jpg",
       size: "small",
       caption: "Publicerad 7e augusti 2026"
     },
@@ -5191,7 +5191,7 @@ Snarare nattklubb än ritualkammare.`,
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },
@@ -5257,7 +5257,7 @@ and the glass obeys.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Vanilla on my mind.png",
+      src: "assets/covers/Vanilla on my mind.jpg",
       size: "small",
       caption: "Publicerad 2e februari 2026"
     },
@@ -5321,7 +5321,7 @@ a simple truth wrapped in a summer-night bite.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/The beautiful.png",
+      src: "assets/covers/The beautiful.jpg",
       size: "small",
       caption: "Publicerad 5e februari 2026"
     },
@@ -5392,7 +5392,7 @@ One true name inside my heart
       blocks: [
      {
       type: "image",
-      src: "assets/covers/I don't need the stars 3k.png",
+      src: "assets/covers/I don't need the stars 3k.jpg",
       size: "small",
       caption: "Publicerad 10e februari 2026"
     },
@@ -5464,7 +5464,7 @@ I’ve found my peace, and I always will`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Control.png",
+      src: "assets/covers/Control.jpg",
       size: "small",
       caption: "Publicerad 4e mars 2026"
     },
@@ -5563,7 +5563,7 @@ And maybe that’s the truth`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Charleston.png",
+      src: "assets/covers/Charleston.jpg",
       size: "small",
       caption: "Publicerad 22e juli 2026"
     },
@@ -5635,7 +5635,7 @@ Charleston Queen...`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Here's looking at you 3k.png",
+      src: "assets/covers/Here's looking at you 3k.jpg",
       size: "small",
       caption: "Publicerad 15e augusti 2026"
     },
@@ -5741,7 +5741,7 @@ Det är retrospektivt, men inte musealt.`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Khellendros.png",
+        src: "assets/covers/Khellendros.jpg",
         size: "small",
         caption: "Khellendros med Kitiara, så som jag föreställer mig henne"
       },
@@ -5770,7 +5770,7 @@ Det är retrospektivt, men inte musealt.`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/AR 3k.png",
+        src: "assets/covers/AR 3k.jpg",
         size: "small",
         caption: "Publicerad 3 februari 2026"
       },
@@ -5910,7 +5910,7 @@ Alternate Reality`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Jets 3k.png",
+        src: "assets/covers/Jets 3k.jpg",
         size: "small",
         caption: "Publicerad 2 februari 2026"
       },
@@ -5981,7 +5981,7 @@ Jets jets jets jets jets jets jets jets jets jets jets ...`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Karateka 3k.png",
+        src: "assets/covers/Karateka 3k.jpg",
         size: "small",
         caption: "Publicerad 2 februari 2026"
       },
@@ -6075,7 +6075,7 @@ Arms around her. Dawn comes on.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Airball 3k.png",
+        src: "assets/covers/Airball 3k.jpg",
         size: "small",
         caption: "Publicerad 3 februari 2026"
       },
@@ -6159,7 +6159,7 @@ Castle behind me, airball memory
     blocks: [
       {
         type: "image",
-        src: "assets/covers/buy buy buy.png",
+        src: "assets/covers/buy buy buy.jpg",
         size: "small",
         caption: "Publicerad 4 februari 2026"
       },
@@ -6249,7 +6249,7 @@ Buy it now…`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Don't let go.png",
+        src: "assets/covers/Don't let go.jpg",
         size: "small",
         caption: "Publicerad 14 februari 2026"
       },
@@ -6357,7 +6357,7 @@ Reflex sleeping till the dawn`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Ford and confidence 3k.png",
+        src: "assets/covers/Ford and confidence 3k.jpg",
         size: "small",
         caption: "Publicerad 15 februari 2026"
       },
@@ -6439,7 +6439,7 @@ Oh-oh-oh, no ties
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Sentinel watches 3k.png",
+        src: "assets/covers/Sentinel watches 3k.jpg",
         size: "small",
         caption: "Publicerad 16 februari 2026"
       },
@@ -6540,7 +6540,7 @@ The watching never die.`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Say the name.png",
+        src: "assets/covers/Say the name.jpg",
         size: "small",
         caption: "Publicerad 18 februari 2026"
       },
@@ -6619,7 +6619,7 @@ If this is love, say the name
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Territory 3k.png",
+        src: "assets/covers/Territory 3k.jpg",
         size: "small",
         caption: "Publicerad 22 februari 2026"
       },
@@ -6722,7 +6722,7 @@ Now it doesn’t feel so hard
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Fever's on.png",
+        src: "assets/covers/Fever's on.jpg",
         size: "small",
         caption: "Publicerad 2 mars 2026"
       },
@@ -6816,7 +6816,7 @@ Or you're gonna end up in pieces
     blocks: [
       {
         type: "image",
-        src: "assets/covers/I go digital over you 3k.png",
+        src: "assets/covers/I go digital over you 3k.jpg",
         size: "small",
         caption: "Publicerad 18 mars 2026"
       },
@@ -6907,7 +6907,7 @@ I go digital over you`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Dance like a secret never told 3k.png",
+        src: "assets/covers/Dance like a secret never told 3k.jpg",
         size: "small",
         caption: "Publicerad 19 mars 2026"
       },
@@ -6985,7 +6985,7 @@ Inside the room`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Kender hearts 3k.png",
+        src: "assets/covers/Kender hearts 3k.jpg",
         size: "small",
         caption: "Publicerad 29 mars 2026"
       },
@@ -7093,7 +7093,7 @@ the road itself becomes a home`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/DOTT 3k.png",
+      src: "assets/covers/DOTT 3k.jpg",
       size: "small",
       caption: "Publicerad 2e juli 2026"
     },
@@ -7212,7 +7212,7 @@ Fade to the grin of the Tentacle
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Threads 3k.png",
+      src: "assets/covers/Threads 3k.jpg",
       size: "small",
       caption: "Publicerad 10e juli 2026"
     },

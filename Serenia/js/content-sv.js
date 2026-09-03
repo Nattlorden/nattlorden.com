@@ -483,7 +483,7 @@ Musiken tillhörde inte längre enbart berättelsen — men behövde fortfarande
 <a class="internal-link" data-section="music" data-page="hushNowLittleGirlOfMine">Text</a> <a href="https://open.spotify.com/album/2w0dRmusBFnDTSMA6RtMTC?si=RsTlLmkbQfWjvM9kCM7lkw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/o8zNKDODnuE?list=RDo8zNKDODnuE" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` },
 
-{ type: "image", src: "assets/songs/Vintervav.png", size: "small",  caption: `<b><i>Vintervävens ljus</i></b> <span class="meta-text">Publicerad: 26 november 2025</span>` },
+{ type: "image", src: "assets/songs/Vintervav.jpg", size: "small",  caption: `<b><i>Vintervävens ljus</i></b> <span class="meta-text">Publicerad: 26 november 2025</span>` },
 { type: "text", content: `Det närmade sig jul, men en julsång lät sig inte skrivas — den finns inte i Hârn (med undantag för en enstaka äventyrsmodul). Däremot finns vintersolståndet: tiden då väven är som tunnast och behovet av ljus som störst.
 
 Idéerna tog olika riktningar och resulterade i tre versioner som jag var nöjd med. Detta är den som fick leva kvar i sin svenska originalform.
@@ -491,7 +491,7 @@ Idéerna tog olika riktningar och resulterade i tre versioner som jag var nöjd 
 <a class="internal-link" data-section="music" data-page="vintervaven">Text</a> <a href="https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KZpR6yB77XU?list=OLAK5uy_mZHE5L2d66lkD0u4KzMhE5jni5LzAb0kw" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` },
 
-{ type: "image", src: "assets/songs/kindledsteps.png", size: "small",  caption: `<b><i>Night of Kindled Steps</i></b> <span class="meta-text">Publicerad: 27 november 2025</span>` },
+{ type: "image", src: "assets/songs/kindledsteps.jpg", size: "small",  caption: `<b><i>Night of Kindled Steps</i></b> <span class="meta-text">Publicerad: 27 november 2025</span>` },
 { type: "text", content: `Den andra av de tre versionerna. (Den tredje, som valdes till albumet, är <i>Where the Veil Grows Thin</i>.)
 
 <a class="internal-link" data-section="music" data-page="kindledSteps">Text</a> <a href="https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/b8ICe9RDMNQ?list=OLAK5uy_naLwlRZ941pj0uyzjT5e1iFFmJQC3mx98" target="_blank" rel="noopener noreferrer">YouTube</a>
@@ -507,13 +507,13 @@ Idéerna tog olika riktningar och resulterade i tre versioner som jag var nöjd 
 <a class="internal-link" data-section="music" data-page="theDarkYou">Text</a> <a href="https://open.spotify.com/track/5lDnOaYP7zsYhvIHD9KYo0?si=a6377726e08b455d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/fwEHppbhQeM?si=d_FiEuBXHxl5ZnuT" target="_blank" rel="noopener noreferrer">YouTube</a>  
 ────────────` },
 
-{ type: "image", src: "assets/songs/Ranger.png", size: "small",  caption: `<b><i>The Ranger and the Dozen</i></b> <span class="meta-text">Publicerad: 5 mars 2026</span>` },
+{ type: "image", src: "assets/songs/Ranger.jpg", size: "small",  caption: `<b><i>The Ranger and the Dozen</i></b> <span class="meta-text">Publicerad: 5 mars 2026</span>` },
 { type: "text", content: `Planerad för ett kommande album, men visade sig vara för rolig för att vänta — och fick därför stå på egna ben.
 
 <a class="internal-link" data-section="music" data-page="ranger">Text</a> <a href="https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/fKZXAZapR_4?list=OLAK5uy_lJyue_RGOInI-hjmo6JkTIuV3eJAM7878" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` },
 
-{ type: "image", src: "assets/songs/whoarewe.png", size: "small",  caption: `<b><i>Who Are We?</i></b> <span class="meta-text">Publicerad: 19 mars 2026</span>` },
+{ type: "image", src: "assets/songs/whoarewe.jpg", size: "small",  caption: `<b><i>Who Are We?</i></b> <span class="meta-text">Publicerad: 19 mars 2026</span>` },
 { type: "text", content: `Keri/Raven-temat återkommer — här mer som en dialog, nästan som en scen ur en musikal: två röster, och en spegelram utan glas.
 
 <a class="internal-link" data-section="music" data-page="whoAreWe">Text</a> <a href="https://open.spotify.com/album/1cYPlpK59UZjd2BxslLIFt?si=0ih0hR7CS2a-MCEpuJPBiQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oh_mRwJYcjw?list=OLAK5uy_m0mC6xbgcpegrlELHMZljqeI5c8snyb8c" target="_blank" rel="noopener noreferrer">YouTube</a>
@@ -621,7 +621,7 @@ Koordinera etik, inte estetik.</b>`,
       menuTitle: "- Serenia Symphony No.1",
       title: "Serenia Symphony No.1 (Opus 253)",
       blocks: [
-     { type: "image", src: "assets/songs/Symphony No1 3k.png", size: "small",  caption: `<b><i>Symphony No.1</i></b> <span class="meta-text">Publicerad: 6 maj 2026</span>` },
+     { type: "image", src: "assets/songs/Symphony No1 3k.jpg", size: "small",  caption: `<b><i>Symphony No.1</i></b> <span class="meta-text">Publicerad: 6 maj 2026</span>` },
 { type: "text", content: `
   <a href="https://open.spotify.com/album/5s077kCVBL0AIyARiG1bQl?si=NrFn9dpYSOWZ9D4WFj3ZrA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://www.youtube.com/watch?v=AdJ4n_xAbTo&list=OLAK5uy_n1zhulo_nsOexXuMc9HP-84ZrG6xGx5LM" target="_blank" rel="noopener noreferrer">YouTube</a>
   
@@ -1325,7 +1325,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Hârn Overture<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 1</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1339,7 +1339,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     meta: "",
     tracks: [
       {
-        image: "assets/songs/TheSatinMoon.png",
+        image: "assets/songs/TheSatinMoon.jpg",
         date: "",
         textPage: "theSatinMoon",
         title: "The Satin Moon",
@@ -1350,7 +1350,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Satin After Dark<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 2</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1366,7 +1366,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Nightraven<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 3</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1383,7 +1383,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Three Coppers for a Kiss",
         spotify: "https://open.spotify.com/track/5B26pt1YevWV2fQa61BR2J?si=18429b8b5f0a4640",
         youtube: "https://youtu.be/i5yBg8qniDc?si=L-scB7fYUPGlEGpp",
-        image: "assets/songs/Pubsong.png",
+        image: "assets/songs/Pubsong.jpg",
         date: "",
         textPage: "threeCoppersForAKiss",
         note: ""
@@ -1392,7 +1392,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Galley Lado",
         spotify: "https://open.spotify.com/track/1cOS91msaPjZFcE73W4Rxb?si=fa01299f41ee42ba",
         youtube: "https://youtu.be/5HKlwsLvfns?si=MazrcXwDWSmbhxaN",
-        image: "assets/songs/Galley Lado.png",
+        image: "assets/songs/Galley Lado.jpg",
         date: "",
         textPage: "galleyLado",
         note: "Senare under natten, när tröttheten lagt sig, sjungs en finstämd sång om sjömäns hopp om att bli hämtade till en bättre plats i stället för att bara drunkna till sjöss. Galley Lado är både en stjärnbild och ett stjärntecken och står för avslut, fullbordan och återfödsel."
@@ -1406,7 +1406,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Nemiran Street – Adagio oscuro<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 4</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1422,7 +1422,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Presto furioso<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 5</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1438,7 +1438,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Adagio lamentoso<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 6</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1454,7 +1454,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Training – Andante deciso<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 7</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "",
         textPage: "",
         spotify: "",
@@ -1469,7 +1469,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Three cups, one truth",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "threeCups",
         spotify: "https://open.spotify.com/track/0oGVMWLcPr5tFaefWxuVJe?si=7468c2ab29254529",
@@ -1486,7 +1486,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Cloak and Mirror",
         spotify: "https://open.spotify.com/track/41W4flxEqDm0zTM1g1VLsL?si=10f5cb21500643aa",
         youtube: "https://youtu.be/AwRLaqd4-6I?si=n2Lc6-TDIVCQXD0G",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "cloakAndMirror",
         note: "Möte i spegeln. Ett platsbyte sker, och spegeln täcks med en filt."
@@ -1494,7 +1494,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Mirror – Adagio, con tensione<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 8</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1511,7 +1511,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Herth-Akan",
         spotify: "https://open.spotify.com/track/06Iv40X1Tq3I1lMJ2M7Anw?si=87a222dc65534b5a",
         youtube: "https://youtu.be/myQefNj1Zi8?si=jN1--mGFGkkdyueU",
-        image: "assets/songs/Herth-Akan.png",
+        image: "assets/songs/Herth-Akan.jpg",
         date: "",
         textPage: "herthAkan",
         note: ""
@@ -1519,7 +1519,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Herth-Akan – Grave rituale<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 9</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1536,7 +1536,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Let the Mirror Read",
         spotify: "https://open.spotify.com/track/1GPhOzt4GRuRrPCP4oJJ9k?si=9cba08cb793143d0",
         youtube: "https://youtu.be/tTkuD9H4zhk?si=obom5Gi4ZOslgR2o",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "letTheMirrorRead",
         note: "Det åldriga biblioteket lägger märke till Ravens närvaro och vill lära känna henne närmare genom att ge henne Spegelboken."
@@ -1549,7 +1549,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Liber et Speculum",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "liberEtSpeculum",
         spotify: "https://open.spotify.com/track/5v1npkntIA55ZEux0MtwWi?si=8ca644d302104530",
@@ -1559,7 +1559,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Liber – Lento misterioso<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 10</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1574,7 +1574,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Lighthouse Lament",
-        image: "assets/songs/Lighthouse.png",
+        image: "assets/songs/Lighthouse.jpg",
         date: "",
         textPage: "lighthouseLament",
         spotify: "https://open.spotify.com/track/4sdjLRoKCxRWMWvXZLydHi?si=2b37ca317c3f4d79",
@@ -1584,7 +1584,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Lighthouse Lament<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 11</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1600,7 +1600,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Tracks in Snow – Allegro inquieto<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 12</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1616,7 +1616,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Negotiations – Andante considerato<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 13</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1632,7 +1632,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Ilvir – Grave theurgicum<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 14</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1649,7 +1649,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "The Ballad of Eltherion",
         spotify: "https://open.spotify.com/track/3mrwEL6kKrp5JaCCoqJ7y9?si=0c78bc92a0b84026",
         youtube: "https://youtu.be/hzBN6Vtj_4c?si=fEbSk5SwIoUsEBaL",
-        image: "assets/songs/Eltherion_anisha.png",
+        image: "assets/songs/Eltherion_anisha.jpg",
         date: "",
         textPage: "theBalladOfEltherion",
         note: ""
@@ -1663,7 +1663,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Anisha – Grave, inevitabile<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 15</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1679,7 +1679,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Hru – Processionale immobile<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 16</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1696,7 +1696,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "The Battle of Araka-Kalai",
         spotify: "https://open.spotify.com/track/5Ff7XIZBbLCEDeagetATJr?si=4c2704d2e6b84a0c",
         youtube: "https://youtu.be/YqZr3ICQrbo?si=FcIrhOmo9ZJ7kdIr",
-        image: "assets/songs/Battle wide.png",
+        image: "assets/songs/Battle wide.jpg",
         date: "",
         textPage: "theBattleOfArakaKalai",
         note: "Earthmasters drabbar samman med Ilvirs barn intill Araka-Kalai."
@@ -1704,7 +1704,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Araka-Kalai – Conflagratione biologica<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 17</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1720,7 +1720,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `NightBlade's Death – Adagio funebre<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 18</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1736,7 +1736,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `The Eye – Adagio, restitutio<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 19</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1752,7 +1752,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       {
         title: `Epilogo sospeso (Part I)<br>
         <i>Serenia Symphony No.1 (Opus 253), spår 20</i>`,
-        image: "assets/songs/Symphony No1 3k.png",
+        image: "assets/songs/Symphony No1 3k.jpg",
         date: "6 maj 2026",
         textPage: "",
         spotify: "",
@@ -1769,7 +1769,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Serenima",
         spotify: "https://open.spotify.com/track/0hbYgCgFeuP5qtm4ZtCrbo?si=8d8f5010f25348d5",
         youtube: "https://youtu.be/JQsIQh81yKA?si=lnacejloVL36QfY6",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "serenima",
         note: ""
@@ -1784,7 +1784,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "The Man Who Wore Her Green",
         spotify: "https://open.spotify.com/track/4hoJBuQdiWaIUMdtrXMAwp?si=f7c5a034eb264a0e",
         youtube: "https://youtu.be/Ix0N8XJHBtg?si=zAcBtq2OOLeAwl36",
-        image: "assets/songs/Aleath joust.png",
+        image: "assets/songs/Aleath joust.jpg",
         date: "",
         textPage: "theManWhoWoreHerGreen",
         note: "Joreth anmäls till tornerspel till fots för sin gröna dam — Keri."
@@ -1799,7 +1799,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Halea Canticle",
         spotify: "https://open.spotify.com/track/4NoJHBj3uLg0jHfibe8CkU?si=dff43ca594f14e03",
         youtube: "https://youtu.be/YmabGbWnvbw?si=sls_IxJFOvpCArz6",
-        image: "assets/songs/Raven and Kaerith.png",
+        image: "assets/songs/Raven and Kaerith.jpg",
         date: "",
         textPage: "haleaCanticle",
         note: "Keri och Kaerith utkämpa en maktkamp under besöket i Haleatemplet i Aleath — en maktkamp som blir intim."
@@ -1814,14 +1814,14 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Where the Veil Grows Thin",
         spotify: "https://open.spotify.com/track/7xIkn3VS9qPqJV6X22JDu4?si=e4afdddb2bfb4b42",
         youtube: "https://youtu.be/mtfrIF1jGXg?si=XNhuNJUE5bsKQQ2x",
-        image: "assets/songs/kindledsteps.png",
+        image: "assets/songs/kindledsteps.jpg",
         date: "",
         textPage: "",
         note: "Lärlingarna anländer till Villa Eriel med tända ljus på den dag som behöver dem som mest."
       },
       {
         title: "Vintervävens ljus",
-        image: "assets/songs/Vintervav.png",
+        image: "assets/songs/Vintervav.jpg",
         date: "26 november 2025",
         textPage: "vintervaven",
         spotify: "https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw",
@@ -1830,7 +1830,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       },
       {
         title: "Night of Kindled Steps",
-        image: "assets/songs/kindledsteps.png",
+        image: "assets/songs/kindledsteps.jpg",
         date: "27 november 2025",
         textPage: "kindledSteps",
         spotify: "https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og",
@@ -1847,7 +1847,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Eriel Lament",
         spotify: "https://open.spotify.com/track/4aPtIt65mptA5xzi0Bl8tB?si=b3333c54f2e947b3",
         youtube: "https://youtu.be/SmTu5o6V11c?si=sHTgciywrpCfN5l1",
-        image: "assets/songs/Eriel found.png",
+        image: "assets/songs/Eriel found.jpg",
         date: "",
         textPage: "erielLament",
         note: "En sorgesång över en blivande drottning som berövades sin titel, sin krona och sitt liv — och ersattes."
@@ -1871,7 +1871,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "What the Tide Told Me",
         spotify: "https://open.spotify.com/track/2BnUUKg4b6YjtND3dnv2Ai?si=a67c24e52391488d",
         youtube: "https://youtu.be/CPsi5GKS0pE?si=IaTkT2cdFTkZLFoM",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "whatTheTideToldMe",
         note: "Samma händelse återberättad av en bard vid ett senare tillfälle."
@@ -1899,7 +1899,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Stomp the Year Awake",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "stomp",
         spotify: "https://open.spotify.com/track/4IW1BlQBspHkUaGfTedmyb?si=86eabcaf55a94001",
@@ -1916,7 +1916,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Launching of the Sea-Serpent",
         spotify: "https://open.spotify.com/track/7AmLRrU2NmKqcbKQeVj9eK?si=99db17966bfb43f8",
         youtube: "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
-        image: "assets/songs/Launching.png",
+        image: "assets/songs/Launching.jpg",
         date: "",
         textPage: "launchingOfTheSeaSerpent",
         note: ""
@@ -1929,7 +1929,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "The Wake of Lado",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "wakeOfLado",
         spotify: "https://open.spotify.com/track/7lTKfxYd7BOhkQ7vGwrqqC?si=029cbb828bb343a7",
@@ -1946,7 +1946,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Song of Sweet Golotha",
         spotify: "https://open.spotify.com/track/6ZxRO2v7pX3I3eres0yoiE?si=e92c4a86ae2a4617",
         youtube: "https://youtu.be/2Y8UcoGwoxY?si=Ueb-Mwxgf_TDalhy",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "songOfSweetGolotha",
         note: ""
@@ -1961,7 +1961,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "The Miracle Man's Song",
         spotify: "https://open.spotify.com/track/5mEszsSoMKzNunHtemqjPN?si=f20eecbf30034b56",
         youtube: "https://youtu.be/HubVwd7HoTs?si=5kzoTEWXau68jlsp",
-        image: "assets/songs/Miracle mans wagon.png",
+        image: "assets/songs/Miracle mans wagon.jpg",
         date: "",
         textPage: "theMiracleMansSong",
         note: ""
@@ -1976,7 +1976,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "By the Ancient Stone",
         spotify: "https://open.spotify.com/track/6PA0xy3M5QV8be3WcMKqma?si=460b78dc72b4486c",
         youtube: "https://youtu.be/KtXrEQ2epok?si=uI_HGzgyHtp6YFU_",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "byTheAncientStone",
         note: ""
@@ -1989,7 +1989,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "The Scent of Memory",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "scent",
         spotify: "https://open.spotify.com/track/1qu3ly0OU8iHhddu6pGqzA?si=b0c90c5a00fb45f6",
@@ -2006,7 +2006,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Down by Yael",
         spotify: "https://open.spotify.com/track/2R3YQtO6lB1glIl1CGdkZI?si=572e5acca93a4ab9",
         youtube: "https://youtu.be/E8n1LtUz3dg?si=zf_bMF-xThAFaM4j",
-        image: "assets/songs/Marvae_river_photoQ.png",
+        image: "assets/songs/Marvae_river_photoQ.jpg",
         date: "",
         textPage: "downByYael",
         note: "Trevor tar Marvae på en flodtur för att vinna hennes röst i senaten. Vem för egentligen vem?"
@@ -2021,7 +2021,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Landing at Sirion",
         spotify: "https://open.spotify.com/track/5J7EbfHGj7qdi0HaBmmvyz?si=fb26545691394d99",
         youtube: "https://youtu.be/F7tc3EZt3qU?si=Q7WtcbG5TItygLrV",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "landingAtSirion",
         note: ""
@@ -2036,7 +2036,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         title: "Iracu",
         spotify: "https://open.spotify.com/track/41M2ex92oaD2HkIOUCJalG?si=ef2d3e9bcdf54132",
         youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI",
-        image: "assets/songs/Iracu.png",
+        image: "assets/songs/Iracu.jpg",
         date: "",
         textPage: "iracu",
         note: ""
@@ -2049,7 +2049,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Nature Call",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "natureCall",
         spotify: "https://open.spotify.com/track/008F0AZvOSAebjEUedyMjw?si=55db9c073b954acc",
@@ -2064,7 +2064,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "The Fields of Byria",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "byria",
         spotify: "https://open.spotify.com/track/6sGDIQRDB8zVf0Bi6K6zvm?si=39acbf44408e45e6",
@@ -2079,7 +2079,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Lines That Do Not Show",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "lines",
         spotify: "https://open.spotify.com/track/5WoR3eJ4Ijaqb3xbyPjgdS?si=203fc360ca61427f",
@@ -2094,7 +2094,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Hymn of the Open Hand",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "openHand",
         spotify: "https://open.spotify.com/track/5CV8IHXm243zjS2eVoJHEb?si=8a9ee7dba7114ac3",
@@ -2109,7 +2109,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Balance",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "balance",
         spotify: "https://open.spotify.com/track/6OQslwOJbiXXxkH1vxL3ut?si=622f2f59aa154e1f",
@@ -2124,7 +2124,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "We Took the Offer (Serenia Settlers' Song)",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "offer",
         spotify: "https://open.spotify.com/track/25M0eCS4UAdQBqak0PdadB?si=2e4516de98374bcb",
@@ -2139,7 +2139,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Khaz Khur Razan (The Stone Knows the Way)",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "khazKhur",
         spotify: "https://open.spotify.com/track/0XwB7yM2CGTvKCmmtlVaqn?si=21b1c8b2755643ec",
@@ -2154,7 +2154,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "The Furrow Blessing",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "furrow",
         spotify: "https://open.spotify.com/track/21mILJp5yC5OkgDiq1CwY7?si=0c2c8577b88d416a",
@@ -2169,7 +2169,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "The Ranger and the Dozen",
-        image: "assets/songs/Ranger.png",
+        image: "assets/songs/Ranger.jpg",
         date: "5 mars 2026",
         textPage: "ranger",
         spotify: "https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ",
@@ -2184,7 +2184,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Fallen King",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "fallenKing",
         spotify: "https://open.spotify.com/track/17ue6X0z8JgdBBPPf4LEtB?si=b7682ed540414773",
@@ -2199,7 +2199,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Naveh – Latin",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "<b>inte ännu</b>",
         textPage: "",
         spotify: "",
@@ -2214,7 +2214,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Firestorm",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "<b>inte ännu</b>",
         textPage: "",
         spotify: "",
@@ -2229,7 +2229,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Bridge of Doubt",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "<b>inte ännu</b>",
         textPage: "",
         spotify: "",
@@ -2244,7 +2244,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Light Upon the Water",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "<b>inte ännu</b>",
         textPage: "",
         spotify: "",
@@ -2259,7 +2259,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Coranan Rising",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "<b>inte ännu</b>",
         textPage: "",
         spotify: "",
@@ -2274,7 +2274,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Agrikan Hymn",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "<b>inte ännu</b>",
         textPage: "",
         spotify: "",
@@ -2289,7 +2289,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "",
         spotify: "",
@@ -2304,7 +2304,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
     tracks: [
       {
         title: "Serenia Anthem",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "<b>inte ännu</b>",
         textPage: "",
         spotify: "",
@@ -2323,7 +2323,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Hârn overture<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 1</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2337,7 +2337,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       meta: "",
       tracks: [
         {
-          image: "assets/songs/TheSatinMoon.png",
+          image: "assets/songs/TheSatinMoon.jpg",
           date: "",
           textPage: "theSatinMoon",
           title: "The Satin Moon",
@@ -2348,7 +2348,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Satin after dark<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 2</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2364,7 +2364,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Nightraven<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 3</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2381,7 +2381,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Three coppers for a kiss",
           spotify: "https://open.spotify.com/track/5B26pt1YevWV2fQa61BR2J?si=18429b8b5f0a4640",
           youtube: "https://youtu.be/i5yBg8qniDc?si=L-scB7fYUPGlEGpp",
-          image: "assets/songs/Pubsong.png",
+          image: "assets/songs/Pubsong.jpg",
           date: "",
           textPage: "threeCoppersForAKiss",
           note: ""
@@ -2390,7 +2390,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Galley Lado",
           spotify: "https://open.spotify.com/track/1cOS91msaPjZFcE73W4Rxb?si=fa01299f41ee42ba",
           youtube: "https://youtu.be/5HKlwsLvfns?si=MazrcXwDWSmbhxaN",
-          image: "assets/songs/Galley Lado.png",
+          image: "assets/songs/Galley Lado.jpg",
           date: "",
           textPage: "galleyLado",
           note: "senare på natten när tröttheten lagt sig en finstämd sång om hur sjömännen hoppas hämtas till ett bättre ställe, inte bara drunkna till sjöss. Galley Lado är en stjärnbild och stjärntecken och står för avslut/fullbordan och återfödsel"
@@ -2404,7 +2404,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Neminan Street - Adgio oscuro <br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 4</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2420,7 +2420,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Presto furioso<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 5</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2436,7 +2436,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Adagi lamentoso<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 6</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2452,7 +2452,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Training - Andante deciso<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 7</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2467,7 +2467,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Three Cups, One Truth",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2484,7 +2484,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Cloak and mirror",
           spotify: "https://open.spotify.com/track/41W4flxEqDm0zTM1g1VLsL?si=10f5cb21500643aa",
           youtube: "https://youtu.be/AwRLaqd4-6I?si=n2Lc6-TDIVCQXD0G",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "cloakAndMirror",
           note: "Möte i spegeln - platsbyte - spegeln täcks med en filt."
@@ -2492,7 +2492,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Mirror - Adagio, con tensione<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 8</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2511,7 +2511,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Herth-Akan",
           spotify: "https://open.spotify.com/track/06Iv40X1Tq3I1lMJ2M7Anw?si=87a222dc65534b5a",
           youtube: "https://youtu.be/myQefNj1Zi8?si=jN1--mGFGkkdyueU",
-          image: "assets/songs/Herth-Akan.png",
+          image: "assets/songs/Herth-Akan.jpg",
           date: "",
           textPage: "herthAkan",
           note: ""
@@ -2519,7 +2519,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Herth-Akan - Grave rituale<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 9</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2536,7 +2536,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Let the Mirror read",
           spotify: "https://open.spotify.com/track/1GPhOzt4GRuRrPCP4oJJ9k?si=9cba08cb793143d0",
           youtube: "https://youtu.be/tTkuD9H4zhk?si=obom5Gi4ZOslgR2o",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "letTheMirrorRead",
           note: "Det åldriga biblioteket noterar Ravens närvaro och vill lära känna henne bättre, genom att ge henne Spegelboken"
@@ -2549,7 +2549,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Liber et Speculum",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "liberEtSpeculum:",
           spotify: "https://open.spotify.com/track/5v1npkntIA55ZEux0MtwWi?si=8ca644d302104530",
@@ -2559,7 +2559,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Liber - Lento misterioso<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 10</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2575,7 +2575,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Lighthouse lament",
-          image: "assets/songs/Lighthouse.png",
+          image: "assets/songs/Lighthouse.jpg",
           date: "",
           textPage: "lighthouseLament",
           title: "Lighthouse lament",
@@ -2586,7 +2586,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Lighthouse lament<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 11</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2602,7 +2602,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Tracks in snow - Allegro inquieto<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 12</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2618,7 +2618,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Negotiations - Andante considerato<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 13</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2634,7 +2634,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Ilvir - Grave theurgicum<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 14</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2651,7 +2651,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "The Ballad of Eltherion",
           spotify: "https://open.spotify.com/track/3mrwEL6kKrp5JaCCoqJ7y9?si=0c78bc92a0b84026",
           youtube: "https://youtu.be/hzBN6Vtj_4c?si=fEbSk5SwIoUsEBaL",
-          image: "assets/songs/Eltherion_anisha.png",
+          image: "assets/songs/Eltherion_anisha.jpg",
           date: "",
           textPage: "theBalladOfEltherion",
           note: ""
@@ -2665,7 +2665,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Anisha - Grave, inevitabile<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 15</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2681,7 +2681,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Hru - Processionale immobile<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 16</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2698,7 +2698,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "The Battle of Araka-Kalai",
           spotify: "https://open.spotify.com/track/5Ff7XIZBbLCEDeagetATJr?si=4c2704d2e6b84a0c",
           youtube: "https://youtu.be/YqZr3ICQrbo?si=FcIrhOmo9ZJ7kdIr",
-          image: "assets/songs/Battle wide.png",
+          image: "assets/songs/Battle wide.jpg",
           date: "",
           textPage: "theBattleOfArakaKalai",
           note: "EarthMasters drabbar samman med Ilvirs barn intill Araka-Kalai"
@@ -2706,7 +2706,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Araka-Kalai - Conflagratione biologica<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 17</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2722,7 +2722,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `NightBlade's Death - Adagio funebre<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 18</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2738,7 +2738,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `The Eye - Adagio, restitutio<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 19</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2754,7 +2754,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         {
           title: `Epilogo sospeso (part I)<br>
           <i>Serenia Symphony No.1 (Opus 253)  Spår 20</i>`,
-          image: "assets/songs/Symphony No1 3k.png",
+          image: "assets/songs/Symphony No1 3k.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2771,7 +2771,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Serenima",
           spotify: "https://open.spotify.com/track/0hbYgCgFeuP5qtm4ZtCrbo?si=8d8f5010f25348d5",
           youtube: "https://youtu.be/JQsIQh81yKA?si=lnacejloVL36QfY6",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "serenima",
           note: ""
@@ -2786,7 +2786,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "The man who wore Her green",
           spotify: "https://open.spotify.com/track/4hoJBuQdiWaIUMdtrXMAwp?si=f7c5a034eb264a0e",
           youtube: "https://youtu.be/Ix0N8XJHBtg?si=zAcBtq2OOLeAwl36",
-          image: "assets/songs/Aleath joust.png",
+          image: "assets/songs/Aleath joust.jpg",
           date: "",
           textPage: "theManWhoWoreHerGreen",
           note: "Joreth anmäls till tornerspel till fots för sin gröna Dam - Keri"
@@ -2801,7 +2801,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Halea Canticle",
           spotify: "https://open.spotify.com/track/4NoJHBj3uLg0jHfibe8CkU?si=dff43ca594f14e03",
           youtube: "https://youtu.be/YmabGbWnvbw?si=sls_IxJFOvpCArz6",
-          image: "assets/songs/Raven and Kaerith.png",
+          image: "assets/songs/Raven and Kaerith.jpg",
           date: "",
           textPage: "haleaCanticle",
           note: "Keri och Kaerith har en maktkamp under besöket i Haleatemplet i Aleath... som blir en intim sådan."
@@ -2818,14 +2818,14 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Where the veil grows thin",
           spotify: "https://open.spotify.com/track/7xIkn3VS9qPqJV6X22JDu4?si=e4afdddb2bfb4b42",
           youtube: "https://youtu.be/mtfrIF1jGXg?si=XNhuNJUE5bsKQQ2x",
-          image: "assets/songs/kindledsteps.png",
+          image: "assets/songs/kindledsteps.jpg",
           date: "",
           textPage: "",
           note: "Lärlingarna anländer till Villa Eriel med tända ljus på denna dag som behöver det som mest."
         },
         {
           title: "Vintervävens ljus",
-          image: "assets/songs/Vintervav.png",
+          image: "assets/songs/Vintervav.jpg",
           date: "26 november 2025",
           textPage: "vintervaven",
           spotify: "https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw",
@@ -2834,7 +2834,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
         },
         {
           title: "Night of Kindled Steps",
-          image: "assets/songs/kindledsteps.png",
+          image: "assets/songs/kindledsteps.jpg",
           date: "27 november 2025",
           textPage: "kindledSteps",
           spotify: "https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og",
@@ -2851,7 +2851,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Eriel Lament",
           spotify: "https://open.spotify.com/track/4aPtIt65mptA5xzi0Bl8tB?si=b3333c54f2e947b3",
           youtube: "https://youtu.be/SmTu5o6V11c?si=sHTgciywrpCfN5l1",
-          image: "assets/songs/Eriel found.png",
+          image: "assets/songs/Eriel found.jpg",
           date: "",
           textPage: "erielLament",
           note: "Sorgesång över en blivande drottning som berövades sin titel, sin krona, sitt liv och blev ersatt."
@@ -2875,7 +2875,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "What the tide told me",
           spotify: "https://open.spotify.com/track/2BnUUKg4b6YjtND3dnv2Ai?si=a67c24e52391488d",
           youtube: "https://youtu.be/CPsi5GKS0pE?si=IaTkT2cdFTkZLFoM",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "whatTheTideToldMe",
           note: "Samma historia återberättad av en bard vid ett senare tillfälle."
@@ -2903,7 +2903,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Stomp the Year Awake",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2920,7 +2920,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Launching of the Sea-Serpent",
           spotify: "https://open.spotify.com/track/7AmLRrU2NmKqcbKQeVj9eK?si=99db17966bfb43f8",
           youtube: "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
-          image: "assets/songs/Launching.png",
+          image: "assets/songs/Launching.jpg",
           date: "",
           textPage: "launchingOfTheSeaSerpent",
           note: ""
@@ -2933,7 +2933,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "The Wake of Lado",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -2950,7 +2950,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Song of sweet Golotha",
           spotify: "https://open.spotify.com/track/6ZxRO2v7pX3I3eres0yoiE?si=e92c4a86ae2a4617",
           youtube: "https://youtu.be/2Y8UcoGwoxY?si=Ueb-Mwxgf_TDalhy",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "songOfSweetGolotha",
           note: ""
@@ -2965,7 +2965,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "The Miracle Man's song",
           spotify: "https://open.spotify.com/track/5mEszsSoMKzNunHtemqjPN?si=f20eecbf30034b56",
           youtube: "https://youtu.be/HubVwd7HoTs?si=5kzoTEWXau68jlsp",
-          image: "assets/songs/Miracle mans wagon.png",
+          image: "assets/songs/Miracle mans wagon.jpg",
           date: "",
           textPage: "theMiracleMansSong",
           note: ""
@@ -2980,7 +2980,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "By the ancient stone",
           spotify: "https://open.spotify.com/track/6PA0xy3M5QV8be3WcMKqma?si=460b78dc72b4486c",
           youtube: "https://youtu.be/KtXrEQ2epok?si=uI_HGzgyHtp6YFU_",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "byTheAncientStone",
           note: ""
@@ -2993,7 +2993,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "The Scent of Memory",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3010,7 +3010,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Down by Yael",
           spotify: "https://open.spotify.com/track/2R3YQtO6lB1glIl1CGdkZI?si=572e5acca93a4ab9",
           youtube: "https://youtu.be/E8n1LtUz3dg?si=zf_bMF-xThAFaM4j",
-          image: "assets/songs/Marvae_river_photoQ.png",
+          image: "assets/songs/Marvae_river_photoQ.jpg",
           date: "",
           textPage: "downByYael",
           note: "Trevor tar Marvae på en flodtur för att få hennes röst i Senaten. Vem tar vem?"
@@ -3025,7 +3025,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Landing at Sirion",
           spotify: "https://open.spotify.com/track/5J7EbfHGj7qdi0HaBmmvyz?si=fb26545691394d99",
           youtube: "https://youtu.be/F7tc3EZt3qU?si=Q7WtcbG5TItygLrV",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "landingAtSirion",
           note: ""
@@ -3040,7 +3040,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
           title: "Iracu",
           spotify: "https://open.spotify.com/track/41M2ex92oaD2HkIOUCJalG?si=ef2d3e9bcdf54132",
           youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI",
-          image: "assets/songs/Iracu.png",
+          image: "assets/songs/Iracu.jpg",
           date: "",
           textPage: "iracu",
           note: ""
@@ -3053,7 +3053,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Nature call",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>Nej</i>",
           textPage: "",
           spotify: "",
@@ -3068,7 +3068,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "The Fields of Byria",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3083,7 +3083,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Lines That Do Not Show",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3098,7 +3098,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Hymmn of the Open Hand",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3113,7 +3113,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Balance",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3128,7 +3128,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "We Took the Offer (Serenia settlers' song)",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3143,7 +3143,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Khaz Khur Razan ( The Stone know the Way )",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3158,7 +3158,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "The Furrow Blessing",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3173,7 +3173,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "The Ranger and the Dozen",
-          image: "assets/songs/Ranger.png",
+          image: "assets/songs/Ranger.jpg",
           date: "5 mars 2026",
           textPage: "ranger",
           spotify: "https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ",
@@ -3188,7 +3188,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Fallen King",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3203,7 +3203,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Naveh - lati",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3218,7 +3218,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Firestorm",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3233,7 +3233,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Bridge of doubt",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3248,7 +3248,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Light upon the water",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3263,7 +3263,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Coranan Rising",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3278,7 +3278,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Agrikan hymn",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3295,7 +3295,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "",
           textPage: "",
           spotify: "",
@@ -3310,7 +3310,7 @@ Kommentarerna är dolda, för att inte avslöja mer av handlingen än nödvändi
       tracks: [
         {
           title: "Serenia Anthem",
-          image: "assets/songs/dummy.png",
+          image: "assets/songs/dummy.jpg",
           date: "<b>inte ännu</b>",
           textPage: "",
           spotify: "",
@@ -3382,7 +3382,7 @@ Mer direkt, mer urban, men med samma underliggande tyngd.`,
       title: "The satin moon",
       hidden: true,
       image: {
-        src: "assets/songs/TheSatinMoon.png",
+        src: "assets/songs/TheSatinMoon.jpg",
         size: "small",
         caption: "Dramonds <b>Sjöugglan</b> ombord vilken måltiden sker"
       },
@@ -3430,7 +3430,7 @@ but she walked free beneath the sign.
       title: "Galley Lado",
       hidden: true,
       image: {
-        src: "assets/songs/Galley Lado.png",
+        src: "assets/songs/Galley Lado.jpg",
         size: "small",
         caption: "Stjärnbilden <b>Galären Lado</b> ovan Raven"
       },
@@ -3482,7 +3482,7 @@ calling souls from every shore.
       title: "Three coppers for a kiss",
       hidden: true,
       image: {
-        src: "assets/songs/Pubsong.png",
+        src: "assets/songs/Pubsong.jpg",
         size: "small",
         caption: "Hamnkrogsunderhållning i Golotha"
       },
@@ -3581,7 +3581,7 @@ Keri rests… Raven pass.”
       title: "Herth-Akan",
       hidden: true,
       image: {
-        src: "assets/songs/Herth-Akan.png",
+        src: "assets/songs/Herth-Akan.jpg",
         size: "small",
         caption: "Raven efter avslutad Herth-Akan"
       },
@@ -3630,7 +3630,7 @@ One lives, one dies — the rite lives on.</i>"
       title: "The Ballad of Eltherion",
       hidden: true,
         image: {
-        src: "assets/songs/Eltherion_anisha.png",
+        src: "assets/songs/Eltherion_anisha.jpg",
         size: "small",
         caption: "Eltherion i Anisha"
       },
@@ -3672,7 +3672,7 @@ a broken heart, a broken name.
       title: "The Battle of Araka-Kalai",
       hidden: true,
         image: {
-        src: "assets/songs/Battle wide.png",
+        src: "assets/songs/Battle wide.jpg",
         size: "small",
         caption: "EarthMasters mot Ilvirs barn"
       },
@@ -3747,7 +3747,7 @@ and Raven spread her wings beside.
       title: "Serenima",
       hidden: true,
         image: {
-        src: "assets/songs/Serenima.png",
+        src: "assets/songs/Serenima.jpg",
         size: "small",
         caption: "Lady Serenima Dethale, Thardisk senator, Magistrat av Shiran"
       },
@@ -3800,7 +3800,7 @@ whose heart forgot what oaths conceal.</b>
       title: "Halea Canticle",
       hidden: true,
         image: {
-        src: "assets/songs/Raven and Kaerith.png",
+        src: "assets/songs/Raven and Kaerith.jpg",
         size: "small",
         caption: "Raven och Kaerith (barnvänlig version)"
       },
@@ -3842,7 +3842,7 @@ a ghost my soul will find.
       title: "Eriel Lament",
       hidden: true,
         image: {
-        src: "assets/songs/Eriel found.png",
+        src: "assets/songs/Eriel found.jpg",
         size: "medium",
         caption: "Eriel återfunnen"
       },
@@ -3889,7 +3889,7 @@ the earth shall stir, the stones shall weep.
       title: "Hush now, little girl of mine",
       hidden: true,
         image: {
-        src: "assets/songs/Redira_jester_real.png",
+        src: "assets/songs/Redira_jester_real.jpg",
         size: "small",
         caption: "Redira, gycklaren, med Athina som liten"
       },
@@ -3941,7 +3941,7 @@ when you find your path within.
       title: "Launching of the Sea-Serpent",
       hidden: true,
          image: {
-        src: "assets/songs/Launching.png",
+        src: "assets/songs/Launching.jpg",
         size: "small",
         caption: "<b>Sjöormen</b> inför sjösättning i Aleath"
       },
@@ -3983,7 +3983,7 @@ and let her wander safe and free.”
       title: "Lighthouse lament",
       hidden: true,
       image: {
-        src: "assets/songs/Lighthouse.png",
+        src: "assets/songs/Lighthouse.jpg",
         size: "small",
         caption: "Den gamla fyren"
       },
@@ -4021,7 +4021,7 @@ All that’s left… still breathes.
       title: "Let the Mirror read",
       hidden: true,
       image: {
-        src: "assets/songs/Library_fixed.png",
+        src: "assets/songs/Library_fixed.jpg",
         size: "small",
         caption: "Biblioteket"
       },
@@ -4169,7 +4169,7 @@ legas me cum nemo videt.</i>`,
       title: "Where the veil grows thin",
       hidden: true,
       image: {
-        src: "assets/songs/Night of kindled steps.png",
+        src: "assets/songs/Night of kindled steps.jpg",
         size: "small",
         caption: "Villa Eriel vid vintersolståndet"
       },
@@ -4218,7 +4218,7 @@ And none of us walk alone.
       title: "The man who wore Her green",
       hidden: true,
       image: {
-        src: "assets/songs/Aleath joust.png",
+        src: "assets/songs/Aleath joust.jpg",
         size: "small",
         caption: "Tornerspel i Aleath"
       },
@@ -4419,7 +4419,7 @@ who broke their crimson grip.
       title: "Song of sweet Golotha",
       hidden: true,
       image: {
-        src: "assets/songs/GolothaDark2.png",
+        src: "assets/songs/GolothaDark2.jpg",
         size: "medium",
         caption: "Golotha"
       },
@@ -4522,7 +4522,7 @@ you break every heart you never forgot—
       title: "The Miracle Man's song",
       hidden: true,
       image: {
-        src: "assets/songs/Miracle mans wagon.png",
+        src: "assets/songs/Miracle mans wagon.jpg",
         size: "small",
         caption: "Aylyns vagn"
       },
@@ -4629,7 +4629,7 @@ and let my silence sing again.
       title: "Down by Yeal",
       hidden: true,
       image: {
-        src: "assets/songs/Marvae_river_photoQ.png",
+        src: "assets/songs/Marvae_river_photoQ.jpg",
         size: "small",
         caption: "Marvae på båttur i Yaels sken"
       },
@@ -4751,7 +4751,7 @@ just duty at its best.
       title: "Iracu",
       hidden: true,
       image: {
-        src: "assets/songs/Iracu.png",
+        src: "assets/songs/Iracu.jpg",
         size: "medium",
         caption: "Fenralf guidar Keri genom Iracu"
       },

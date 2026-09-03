@@ -231,7 +231,7 @@ The music no longer belonged solely to the narrative — but it still needed a s
 <a class="internal-link" data-section="music" data-page="hushNowLittleGirlOfMine">Lyrics</a> <a href="https://open.spotify.com/album/2w0dRmusBFnDTSMA6RtMTC?si=RsTlLmkbQfWjvM9kCM7lkw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/o8zNKDODnuE?list=RDo8zNKDODnuE" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` },
 
-{ type: "image", src: "assets/songs/Vintervav.png", size: "small",  caption: `<b><i>The Light of the Winter Weave</i></b> <span class="meta-text">Published: November 26, 2025</span>` },
+{ type: "image", src: "assets/songs/Vintervav.jpg", size: "small",  caption: `<b><i>The Light of the Winter Weave</i></b> <span class="meta-text">Published: November 26, 2025</span>` },
 { type: "text", content: `As winter approached, the idea of a seasonal song emerged — but a Christmas song has no place in Hârn (save for an unusual module). Instead, the winter solstice remains: when the veil is thinnest and the need for light is greatest.
 
 The ideas diverged and resulted in three versions, all of which felt complete. This is the one that remained in its original Swedish form.
@@ -239,7 +239,7 @@ The ideas diverged and resulted in three versions, all of which felt complete. T
 <a class="internal-link" data-section="music" data-page="vintervaven">Lyrics</a> <a href="https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KZpR6yB77XU?list=OLAK5uy_mZHE5L2d66lkD0u4KzMhE5jni5LzAb0kw" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` },
 
-{ type: "image", src: "assets/songs/kindledsteps.png", size: "small",  caption: `<b><i>Night of Kindled Steps</i></b> <span class="meta-text">Published: November 27, 2025</span>` },
+{ type: "image", src: "assets/songs/kindledsteps.jpg", size: "small",  caption: `<b><i>Night of Kindled Steps</i></b> <span class="meta-text">Published: November 27, 2025</span>` },
 { type: "text", content: `The second of the three versions. (The third, chosen for the album, is <i>Where the Veil Grows Thin</i>.)
 
 <a class="internal-link" data-section="music" data-page="kindledSteps">Lyrics</a> <a href="https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/b8ICe9RDMNQ?list=OLAK5uy_naLwlRZ941pj0uyzjT5e1iFFmJQC3mx98" target="_blank" rel="noopener noreferrer">YouTube</a>
@@ -255,13 +255,13 @@ The ideas diverged and resulted in three versions, all of which felt complete. T
 <a class="internal-link" data-section="music" data-page="theDarkYou">Lyrics</a> <a href="https://open.spotify.com/track/5lDnOaYP7zsYhvIHD9KYo0?si=a6377726e08b455d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/fwEHppbhQeM?si=d_FiEuBXHxl5ZnuT" target="_blank" rel="noopener noreferrer">YouTube</a>  
 ────────────` },
 
-{ type: "image", src: "assets/songs/Ranger.png", size: "small",  caption: `<b><i>The Ranger and the Dozen</i></b> <span class="meta-text">Published: March 5, 2026</span>` },
+{ type: "image", src: "assets/songs/Ranger.jpg", size: "small",  caption: `<b><i>The Ranger and the Dozen</i></b> <span class="meta-text">Published: March 5, 2026</span>` },
 { type: "text", content: `Originally intended for a later album, but proved too enjoyable to hold back — and was released on its own.
 
 <a class="internal-link" data-section="music" data-page="ranger">Lyrics</a> <a href="https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/fKZXAZapR_4?list=OLAK5uy_lJyue_RGOInI-hjmo6JkTIuV3eJAM7878" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` },
 
-{ type: "image", src: "assets/songs/whoarewe.png", size: "small",  caption: `<b><i>Who Are We?</i></b> <span class="meta-text">Published: March 19, 2026</span>` },
+{ type: "image", src: "assets/songs/whoarewe.jpg", size: "small",  caption: `<b><i>Who Are We?</i></b> <span class="meta-text">Published: March 19, 2026</span>` },
 { type: "text", content: `The Keri/Raven theme returns — this time as a dialogue, almost like a scene from a musical: two voices, and a mirror frame without glass.
 
 <a class="internal-link" data-section="music" data-page="whoAreWe">Lyrics</a> <a href="https://open.spotify.com/album/1cYPlpK59UZjd2BxslLIFt?si=0ih0hR7CS2a-MCEpuJPBiQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oh_mRwJYcjw?list=OLAK5uy_m0mC6xbgcpegrlELHMZljqeI5c8snyb8c" target="_blank" rel="noopener noreferrer">YouTube</a>
@@ -369,7 +369,7 @@ Coordinate ethics, not aesthetics.</b>`,
       menuTitle: "- Serenia Symphony No.1",
       title: "Serenia Symphony No.1 (Opus 253)",
       blocks: [
-     { type: "image", src: "assets/songs/Symphony No1 3k.png", size: "small",  caption: `<b><i>Symphony No.1</i></b> <span class="meta-text">Published: May 6, 2026</span>` },
+     { type: "image", src: "assets/songs/Symphony No1 3k.jpg", size: "small",  caption: `<b><i>Symphony No.1</i></b> <span class="meta-text">Published: May 6, 2026</span>` },
 { type: "text", content: `
   <a href="https://open.spotify.com/album/5s077kCVBL0AIyARiG1bQl?si=NrFn9dpYSOWZ9D4WFj3ZrA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://www.youtube.com/watch?v=AdJ4n_xAbTo&list=OLAK5uy_n1zhulo_nsOexXuMc9HP-84ZrG6xGx5LM" target="_blank" rel="noopener noreferrer">YouTube</a>
   
@@ -715,7 +715,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Hârn Overture<br>
         <i>Serenia Symphony (Opus X), Track 1</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -730,7 +730,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     meta: "",
     tracks: [
       {
-        image: "assets/songs/TheSatinMoon.png",
+        image: "assets/songs/TheSatinMoon.jpg",
         date: "",
         textPage: "theSatinMoon",
         title: "The Satin Moon",
@@ -741,7 +741,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Satin After Dark<br>
         <i>Serenia Symphony (Opus X), Track 2</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -758,7 +758,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Nightraven<br>
         <i>Serenia Symphony (Opus X), Track 3</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -776,7 +776,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
         title: "Three Coppers for a Kiss",
         spotify: "https://open.spotify.com/track/5B26pt1YevWV2fQa61BR2J?si=18429b8b5f0a4640",
         youtube: "https://youtu.be/i5yBg8qniDc?si=L-scB7fYUPGlEGpp",
-        image: "assets/songs/Pubsong.png",
+        image: "assets/songs/Pubsong.jpg",
         date: "",
         textPage: "threeCoppersForAKiss",
         note: ""
@@ -785,7 +785,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
         title: "Galley Lado",
         spotify: "https://open.spotify.com/track/1cOS91msaPjZFcE73W4Rxb?si=fa01299f41ee42ba",
         youtube: "https://youtu.be/5HKlwsLvfns?si=MazrcXwDWSmbhxaN",
-        image: "assets/songs/Galley Lado.png",
+        image: "assets/songs/Galley Lado.jpg",
         date: "",
         textPage: "galleyLado",
         note: "Later in the night, when fatigue settles in, a quiet song is sung — of sailors hoping to be taken somewhere better, rather than simply drowning at sea. Galley Lado is both a constellation and a zodiac sign, representing completion, ending, and rebirth."
@@ -799,7 +799,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Nemiran Street – Adagio oscuro<br>
         <i>Serenia Symphony (Opus X), Track 4</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -816,7 +816,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Presto furioso<br>
         <i>Serenia Symphony (Opus X), Track 5</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -833,7 +833,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Adagio lamentoso<br>
         <i>Serenia Symphony (Opus X), Track 6</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -850,7 +850,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Training – Andante deciso<br>
         <i>Serenia Symphony (Opus X), Track 7</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -866,7 +866,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     tracks: [
       {
         title: "Three Cups, One Truth",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -884,7 +884,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
         title: "Cloak and Mirror",
         spotify: "https://open.spotify.com/track/41W4flxEqDm0zTM1g1VLsL?si=10f5cb21500643aa",
         youtube: "https://youtu.be/AwRLaqd4-6I?si=n2Lc6-TDIVCQXD0G",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "cloakAndMirror",
         note: "A meeting in the mirror. Roles are exchanged. The mirror is covered."
@@ -892,7 +892,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Mirror – Adagio, con tensione<br>
         <i>Serenia Symphony (Opus X), Track 8</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -910,7 +910,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
         title: "Herth-Akan",
         spotify: "https://open.spotify.com/track/06Iv40X1Tq3I1lMJ2M7Anw?si=87a222dc65534b5a",
         youtube: "https://youtu.be/myQefNj1Zi8?si=jN1--mGFGkkdyueU",
-        image: "assets/songs/Herth-Akan.png",
+        image: "assets/songs/Herth-Akan.jpg",
         date: "",
         textPage: "herthAkan",
         note: ""
@@ -918,7 +918,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       {
         title: `Herth-Akan – Grave rituale<br>
         <i>Serenia Symphony (Opus X), Track 9</i>`,
-        image: "assets/songs/classic.png",
+        image: "assets/songs/classic.jpg",
         date: "",
         status: "Not yet",
         textPage: "",
@@ -936,7 +936,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
         title: "Let the Mirror Read",
         spotify: "https://open.spotify.com/track/1GPhOzt4GRuRrPCP4oJJ9k?si=9cba08cb793143d0",
         youtube: "https://youtu.be/tTkuD9H4zhk?si=obom5Gi4ZOslgR2o",
-        image: "assets/songs/dummy.png",
+        image: "assets/songs/dummy.jpg",
         date: "",
         textPage: "letTheMirrorRead",
         note: "The ancient library notices Raven's presence and seeks to understand her, offering her the Mirror Book."
@@ -949,7 +949,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Liber et Speculum",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       textPage: "liberEtSpeculum",
       spotify: "https://open.spotify.com/track/5v1npkntIA55ZEux0MtwWi?si=8ca644d302104530",
@@ -959,7 +959,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Liber – Lento misterioso<br>
       <i>Serenia Symphony (Opus X), Track 10</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -975,7 +975,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Lighthouse Lament",
-      image: "assets/songs/Lighthouse.png",
+      image: "assets/songs/Lighthouse.jpg",
       date: "",
       textPage: "lighthouseLament",
       spotify: "https://open.spotify.com/track/4sdjLRoKCxRWMWvXZLydHi?si=2b37ca317c3f4d79",
@@ -985,7 +985,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Lighthouse Lament<br>
       <i>Serenia Symphony (Opus X), Track 11</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1002,7 +1002,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Tracks in Snow – Allegro inquieto<br>
       <i>Serenia Symphony (Opus X), Track 12</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1019,7 +1019,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Negotiations – Andante considerato<br>
       <i>Serenia Symphony (Opus X), Track 13</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1036,7 +1036,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Ilvir – Grave theurgicum<br>
       <i>Serenia Symphony (Opus X), Track 14</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1054,7 +1054,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "The Ballad of Eltherion",
       spotify: "https://open.spotify.com/track/3mrwEL6kKrp5JaCCoqJ7y9?si=0c78bc92a0b84026",
       youtube: "https://youtu.be/hzBN6Vtj_4c?si=fEbSk5SwIoUsEBaL",
-      image: "assets/songs/Eltherion_anisha.png",
+      image: "assets/songs/Eltherion_anisha.jpg",
       date: "",
       textPage: "theBalladOfEltherion",
       note: ""
@@ -1068,7 +1068,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Anisha – Grave, inevitabile<br>
       <i>Serenia Symphony (Opus X), Track 15</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1085,7 +1085,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Hru – Processionale immobile<br>
       <i>Serenia Symphony (Opus X), Track 16</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1103,7 +1103,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "The Battle of Araka-Kalai",
       spotify: "https://open.spotify.com/track/5Ff7XIZBbLCEDeagetATJr?si=4c2704d2e6b84a0c",
       youtube: "https://youtu.be/YqZr3ICQrbo?si=FcIrhOmo9ZJ7kdIr",
-      image: "assets/songs/Battle wide.png",
+      image: "assets/songs/Battle wide.jpg",
       date: "",
       textPage: "theBattleOfArakaKalai",
       note: "Earthmasters clash with the children of Ilvir near Araka-Kalai."
@@ -1111,7 +1111,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Araka-Kalai – Conflagratione biologica<br>
       <i>Serenia Symphony (Opus X), Track 17</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1128,7 +1128,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `NightBlade's Death – Adagio funebre<br>
       <i>Serenia Symphony (Opus X), Track 18</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1145,7 +1145,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `The Eye – Adagio, restitutio<br>
       <i>Serenia Symphony (Opus X), Track 19</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1162,7 +1162,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     {
       title: `Epilogo sospeso (Part I)<br>
       <i>Serenia Symphony (Opus X), Track 20</i>`,
-      image: "assets/songs/classic.png",
+      image: "assets/songs/classic.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1180,7 +1180,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Serenima",
       spotify: "https://open.spotify.com/track/0hbYgCgFeuP5qtm4ZtCrbo?si=8d8f5010f25348d5",
       youtube: "https://youtu.be/JQsIQh81yKA?si=lnacejloVL36QfY6",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       textPage: "serenima",
       note: ""
@@ -1195,7 +1195,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "The Man Who Wore Her Green",
       spotify: "https://open.spotify.com/track/4hoJBuQdiWaIUMdtrXMAwp?si=f7c5a034eb264a0e",
       youtube: "https://youtu.be/Ix0N8XJHBtg?si=zAcBtq2OOLeAwl36",
-      image: "assets/songs/Aleath joust.png",
+      image: "assets/songs/Aleath joust.jpg",
       date: "",
       textPage: "theManWhoWoreHerGreen",
       note: "Joreth is entered into the foot tournament for his green lady — Keri."
@@ -1210,7 +1210,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Halea Canticle",
       spotify: "https://open.spotify.com/track/4NoJHBj3uLg0jHfibe8CkU?si=dff43ca594f14e03",
       youtube: "https://youtu.be/YmabGbWnvbw?si=sls_IxJFOvpCArz6",
-      image: "assets/songs/Raven and Kaerith.png",
+      image: "assets/songs/Raven and Kaerith.jpg",
       date: "",
       textPage: "haleaCanticle",
       note: "Keri and Kaerith engage in a contest of power during their visit to Halea's temple in Aleath — one that turns intimate."
@@ -1225,14 +1225,14 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Where the Veil Grows Thin",
       spotify: "https://open.spotify.com/track/7xIkn3VS9qPqJV6X22JDu4?si=e4afdddb2bfb4b42",
       youtube: "https://youtu.be/mtfrIF1jGXg?si=XNhuNJUE5bsKQQ2x",
-      image: "assets/songs/kindledsteps.png",
+      image: "assets/songs/kindledsteps.jpg",
       date: "",
       textPage: "",
       note: "The apprentices arrive at Villa Eriel carrying lit candles on the day that needs them most."
     },
     {
       title: "The Light of the Winter Weave",
-      image: "assets/songs/Vintervav.png",
+      image: "assets/songs/Vintervav.jpg",
       date: "November 26, 2025",
       textPage: "vintervaven",
       spotify: "https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw",
@@ -1241,7 +1241,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     },
     {
       title: "Night of Kindled Steps",
-      image: "assets/songs/kindledsteps.png",
+      image: "assets/songs/kindledsteps.jpg",
       date: "November 27, 2025",
       textPage: "kindledSteps",
       spotify: "https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og",
@@ -1258,7 +1258,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Eriel Lament",
       spotify: "https://open.spotify.com/track/4aPtIt65mptA5xzi0Bl8tB?si=b3333c54f2e947b3",
       youtube: "https://youtu.be/SmTu5o6V11c?si=sHTgciywrpCfN5l1",
-      image: "assets/songs/Eriel found.png",
+      image: "assets/songs/Eriel found.jpg",
       date: "",
       textPage: "erielLament",
       note: "A lament for a future queen stripped of her title, her crown, and her life — and replaced."
@@ -1282,7 +1282,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "What the Tide Told Me",
       spotify: "https://open.spotify.com/track/2BnUUKg4b6YjtND3dnv2Ai?si=a67c24e52391488d",
       youtube: "https://youtu.be/CPsi5GKS0pE?si=IaTkT2cdFTkZLFoM",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       textPage: "whatTheTideToldMe",
       note: "The same event retold later by a bard."
@@ -1310,7 +1310,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Stomp the Year Awake",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1328,7 +1328,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Launching of the Sea-Serpent",
       spotify: "https://open.spotify.com/track/7AmLRrU2NmKqcbKQeVj9eK?si=99db17966bfb43f8",
       youtube: "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
-      image: "assets/songs/Launching.png",
+      image: "assets/songs/Launching.jpg",
       date: "",
       textPage: "launchingOfTheSeaSerpent",
       note: ""
@@ -1341,7 +1341,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "The Wake of Lado",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1359,7 +1359,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Song of Sweet Golotha",
       spotify: "https://open.spotify.com/track/6ZxRO2v7pX3I3eres0yoiE?si=e92c4a86ae2a4617",
       youtube: "https://youtu.be/2Y8UcoGwoxY?si=Ueb-Mwxgf_TDalhy",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       textPage: "songOfSweetGolotha",
       note: ""
@@ -1374,7 +1374,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "The Miracle Man's Song",
       spotify: "https://open.spotify.com/track/5mEszsSoMKzNunHtemqjPN?si=f20eecbf30034b56",
       youtube: "https://youtu.be/HubVwd7HoTs?si=5kzoTEWXau68jlsp",
-      image: "assets/songs/Miracle mans wagon.png",
+      image: "assets/songs/Miracle mans wagon.jpg",
       date: "",
       textPage: "theMiracleMansSong",
       note: ""
@@ -1389,7 +1389,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "By the Ancient Stone",
       spotify: "https://open.spotify.com/track/6PA0xy3M5QV8be3WcMKqma?si=460b78dc72b4486c",
       youtube: "https://youtu.be/KtXrEQ2epok?si=uI_HGzgyHtp6YFU_",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       textPage: "byTheAncientStone",
       note: ""
@@ -1402,7 +1402,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "The Scent of Memory",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1420,7 +1420,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Down by Yael",
       spotify: "https://open.spotify.com/track/2R3YQtO6lB1glIl1CGdkZI?si=572e5acca93a4ab9",
       youtube: "https://youtu.be/E8n1LtUz3dg?si=zf_bMF-xThAFaM4j",
-      image: "assets/songs/Marvae_river_photoQ.png",
+      image: "assets/songs/Marvae_river_photoQ.jpg",
       date: "",
       textPage: "downByYael",
       note: "Trevor takes Marvae on a river outing to win her vote in the Senate. The question is: who is truly leading whom?"
@@ -1435,7 +1435,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Landing at Sirion",
       spotify: "https://open.spotify.com/track/5J7EbfHGj7qdi0HaBmmvyz?si=fb26545691394d99",
       youtube: "https://youtu.be/F7tc3EZt3qU?si=Q7WtcbG5TItygLrV",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       textPage: "landingAtSirion",
       note: ""
@@ -1450,7 +1450,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
       title: "Iracu",
       spotify: "https://open.spotify.com/track/41M2ex92oaD2HkIOUCJalG?si=ef2d3e9bcdf54132",
       youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI",
-      image: "assets/songs/Iracu.png",
+      image: "assets/songs/Iracu.jpg",
       date: "",
       textPage: "iracu",
       note: ""
@@ -1463,7 +1463,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Nature Call",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1479,7 +1479,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "The Fields of Byria",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1495,7 +1495,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Lines That Do Not Show",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1511,7 +1511,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Hymn of the Open Hand",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1527,7 +1527,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Balance",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1543,7 +1543,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "We Took the Offer (Serenia Settlers' Song)",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1559,7 +1559,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Khaz Khur Razan (The Stone Knows the Way)",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1575,7 +1575,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "The Furrow Blessing",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1591,7 +1591,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "The Ranger and the Dozen",
-      image: "assets/songs/Ranger.png",
+      image: "assets/songs/Ranger.jpg",
       date: "March 5, 2026",
       textPage: "ranger",
       spotify: "https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ",
@@ -1606,7 +1606,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Fallen King",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1622,7 +1622,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Naveh – Lati",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1638,7 +1638,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Firestorm",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1654,7 +1654,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Bridge of Doubt",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1670,7 +1670,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Light Upon the Water",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1686,7 +1686,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Coranan Rising",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1702,7 +1702,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Agrikan Hymn",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1718,7 +1718,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       textPage: "",
       spotify: "",
@@ -1733,7 +1733,7 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
   tracks: [
     {
       title: "Serenia Anthem",
-      image: "assets/songs/dummy.png",
+      image: "assets/songs/dummy.jpg",
       date: "",
       status: "Not yet",
       textPage: "",
@@ -1813,7 +1813,7 @@ More direct, more urban, yet carrying the same underlying weight.`,
       title: "The satin moon",
       hidden: true,
       image: {
-        src: "assets/songs/TheSatinMoon.png",
+        src: "assets/songs/TheSatinMoon.jpg",
         size: "small",
         caption: "Dramond's <b>Sea Owl</b> onboard which they dine"
       },
@@ -1861,7 +1861,7 @@ but she walked free beneath the sign.
       title: "Galley Lado",
       hidden: true,
       image: {
-        src: "assets/songs/Galley Lado.png",
+        src: "assets/songs/Galley Lado.jpg",
         size: "small",
         caption: "The constellation <b>Galley Lado</b> above Raven"
       },
@@ -1913,7 +1913,7 @@ calling souls from every shore.
       title: "Three coppers for a kiss",
       hidden: true,
       image: {
-        src: "assets/songs/Pubsong.png",
+        src: "assets/songs/Pubsong.jpg",
         size: "small",
         caption: "Habour pub entertainment in Golotha"
       },
@@ -2012,7 +2012,7 @@ Keri rests… Raven pass.”
       title: "Herth-Akan",
       hidden: true,
       image: {
-        src: "assets/songs/Herth-Akan.png",
+        src: "assets/songs/Herth-Akan.jpg",
         size: "small",
         caption: "Raven after ended Herth-Akan"
       },
@@ -2061,7 +2061,7 @@ One lives, one dies — the rite lives on.</i>"
       title: "The Ballad of Eltherion",
       hidden: true,
         image: {
-        src: "assets/songs/Eltherion_anisha.png",
+        src: "assets/songs/Eltherion_anisha.jpg",
         size: "small",
         caption: "Eltherion at Anisha"
       },
@@ -2103,7 +2103,7 @@ a broken heart, a broken name.
       title: "The Battle of Araka-Kalai",
       hidden: true,
         image: {
-        src: "assets/songs/Battle wide.png",
+        src: "assets/songs/Battle wide.jpg",
         size: "small",
         caption: "EarthMasters against the children of Ilvir"
       },
@@ -2231,7 +2231,7 @@ whose heart forgot what oaths conceal.</b>
       title: "Halea Canticle",
       hidden: true,
         image: {
-        src: "assets/songs/Raven and Kaerith.png",
+        src: "assets/songs/Raven and Kaerith.jpg",
         size: "small",
         caption: "Raven and Kaerith (PG13 version)"
       },
@@ -2273,7 +2273,7 @@ a ghost my soul will find.
       title: "Eriel Lament",
       hidden: true,
         image: {
-        src: "assets/songs/Eriel found.png",
+        src: "assets/songs/Eriel found.jpg",
         size: "medium",
         caption: "Eriel found"
       },
@@ -2320,7 +2320,7 @@ the earth shall stir, the stones shall weep.
       title: "Hush now, little girl of mine",
       hidden: true,
         image: {
-        src: "assets/songs/Redira_jester_real.png",
+        src: "assets/songs/Redira_jester_real.jpg",
         size: "small",
         caption: "Redira the Jester with Athina as a little girl"
       },
@@ -2372,7 +2372,7 @@ when you find your path within.
       title: "Launching of the Sea-Serpent",
       hidden: true,
          image: {
-        src: "assets/songs/Launching.png",
+        src: "assets/songs/Launching.jpg",
         size: "small",
         caption: "Ahead of the lauching of <b>The Sea-Serpent</b> at Aleath"
       },
@@ -2414,7 +2414,7 @@ and let her wander safe and free.”
       title: "Lighthouse lament",
       hidden: true,
       image: {
-        src: "assets/songs/Lighthouse.png",
+        src: "assets/songs/Lighthouse.jpg",
         size: "small",
         caption: "The old lighthouse ruins"
       },
@@ -2452,7 +2452,7 @@ All that’s left… still breathes.
       title: "Let the Mirror read",
       hidden: true,
       image: {
-        src: "assets/songs/Library_fixed.png",
+        src: "assets/songs/Library_fixed.jpg",
         size: "small",
         caption: "The ancient library"
       },
@@ -2600,7 +2600,7 @@ legas me cum nemo videt.</i>`,
       title: "Where the veil grows thin",
       hidden: true,
       image: {
-        src: "assets/songs/Night of kindled steps.png",
+        src: "assets/songs/Night of kindled steps.jpg",
         size: "small",
         caption: "Villa Eriel at winter solstic"
       },
@@ -2649,7 +2649,7 @@ And none of us walk alone.
       title: "The man who wore Her green",
       hidden: true,
       image: {
-        src: "assets/songs/Aleath joust.png",
+        src: "assets/songs/Aleath joust.jpg",
         size: "small",
         caption: "Joust at Aleath"
       },
@@ -2850,7 +2850,7 @@ who broke their crimson grip.
       title: "Song of sweet Golotha",
       hidden: true,
       image: {
-        src: "assets/songs/GolothaDark2.png",
+        src: "assets/songs/GolothaDark2.jpg",
         size: "medium",
         caption: "Golotha"
       },
@@ -2953,7 +2953,7 @@ you break every heart you never forgot—
       title: "The Miracle Man's song",
       hidden: true,
       image: {
-        src: "assets/songs/Miracle mans wagon.png",
+        src: "assets/songs/Miracle mans wagon.jpg",
         size: "small",
         caption: "Aylyn's wagon"
       },
@@ -3060,7 +3060,7 @@ and let my silence sing again.
       title: "Down by Yeal",
       hidden: true,
       image: {
-        src: "assets/songs/Marvae_river_photoQ.png",
+        src: "assets/songs/Marvae_river_photoQ.jpg",
         size: "small",
         caption: "Marvae on a boat in the light of Yael"
       },
@@ -3182,7 +3182,7 @@ just duty at its best.
       title: "Iracu",
       hidden: true,
       image: {
-        src: "assets/songs/Iracu.png",
+        src: "assets/songs/Iracu.jpg",
         size: "medium",
         caption: "Fenralf guiding Keri through Iracu"
       },

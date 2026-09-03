@@ -62,7 +62,7 @@ Often, it is simply recognized.`,
   blocks: [
     {
       type: "image",
-      src: "assets/portraits/mailysa-freyja.png",
+      src: "assets/portraits/mailysa-freyja.jpg",
       size: "medium",
       alt: "Mailýsa Freyja",
       caption: "Woman. Mother. Witch. Image and bearer."
@@ -211,7 +211,7 @@ Only our own landscapes — seen with different eyes.`,
       cards: [
     {
       title: "Run with the river",
-      image: "assets/covers/Run with the river.png",
+      image: "assets/covers/Run with the river.jpg",
       section: "music",
       page: "runWithTheRiver",
       spotify: "https://open.spotify.com/album/1gfdhcayKV8TLgltSH7GnC?si=YIqQ3TsISau1pB_5W5XTLQ",
@@ -219,7 +219,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Fly, gentle dream",
-      image: "assets/covers/Fly, gentle dream 3k.png",
+      image: "assets/covers/Fly, gentle dream 3k.jpg",
       section: "music",
       page: "flyGentleDream",
       spotify: "https://open.spotify.com/album/6mCI3FfWvrq8zqa2XD0Ut0?si=XUxbo8tkTSGdS1p9BsLosQ",
@@ -227,7 +227,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "River run",
-      image: "assets/covers/River run 3k.png",
+      image: "assets/covers/River run 3k.jpg",
       section: "music",
       page: "riverRun",
       spotify: "https://open.spotify.com/album/4ylxsbDBiTPJw1RJJkJ3jc?si=BhCYNm6pR7C6totpZZC89g",
@@ -235,7 +235,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Walking into wonder",
-      image: "assets/covers/Walking into wonder 3k.png",
+      image: "assets/covers/Walking into wonder 3k.jpg",
       section: "music",
       page: "walkingIntoWonder",
       spotify: "https://open.spotify.com/album/0GwMuZGO8V6nM3MCqy8yPI?si=DO-YjYZxQIyTCHoKMgNiKA",
@@ -243,7 +243,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Take me back",
-      image: "assets/covers/Take me back 3k.png",
+      image: "assets/covers/Take me back 3k.jpg",
       section: "music",
       page: "takeMeBack",
       spotify: "https://open.spotify.com/album/6Pg28j2lfJ54gk7HJzruZd?si=VmwQMm3PSMOdrMjujP6Bdg",
@@ -251,14 +251,14 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "The Garden",
-      image: "assets/covers/Garden 3k.png",
+      image: "assets/covers/Garden 3k.jpg",
       section: "music",
       page: "theGarden",
       spotify: "https://open.spotify.com/album/79IaTvBR1CQmV5wsCAqVNb?si=3RvUsIjYSmWaNjYobNRPig"
     },
     {
       title: "Summer Hymn",
-      image: "assets/covers/Summer hymn 3k.png",
+      image: "assets/covers/Summer hymn 3k.jpg",
       section: "music",
       page: "summerHymn",
       spotify: "https://open.spotify.com/album/4gUqrC2pzrNdm0nkGY95BP?si=Qsh49__1QtKh4XOVF8c_iw",
@@ -266,7 +266,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Before we had names",
-      image: "assets/covers/Before we had names 3k cold.png",
+      image: "assets/covers/Before we had names 3k cold.jpg",
       section: "music",
       page: "beforeWeHadNames",
       spotify: "https://open.spotify.com/album/7DQi9bdHVbznCwOC4V3VA6?si=2zekirwhTvaEJXCOD6vDog",
@@ -284,7 +284,7 @@ Only our own landscapes — seen with different eyes.`,
       cards: [
     {
       title: "You must exist",
-      image: "assets/covers/You must exist 3k.png",
+      image: "assets/covers/You must exist 3k.jpg",
       section: "music",
       page: "youMustExist",
       spotify: "https://open.spotify.com/album/2sohteiWhyzrOEZF8GnMYA?si=Qj2Nm3mhSmmvyPWN9-H29Q",
@@ -292,7 +292,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Ég er hér",
-      image: "assets/covers/Eg er hér 3k.png",
+      image: "assets/covers/Eg er hér 3k.jpg",
       section: "music",
       page: "egErHer",
       spotify: "https://open.spotify.com/album/1zRVErdDFjMZZvaVl8aHKM?si=Lj25O0s8RMKTaiOCYkuMXg",
@@ -300,7 +300,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "My Tears",
-      image: "assets/covers/My tears 3k.png",
+      image: "assets/covers/My tears 3k.jpg",
       section: "music",
       page: "myTears",
       spotify: "https://open.spotify.com/album/4CZiPgMJXtR7BvHiIFHrPx?si=wwkxOEXGS2e26ShXVmip6A",
@@ -308,7 +308,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "I will rise, I remain",
-      image: "assets/covers/I will rise, I remain 3k.png",
+      image: "assets/covers/I will rise, I remain 3k.jpg",
       section: "music",
       page: "iWillRise",
       spotify: "https://open.spotify.com/album/2Q6i421JDlhwWwSLpl4nPN?si=GJqXGfN-R0eLufQAzUUX-Q",
@@ -316,7 +316,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Melinoë",
-      image: "assets/covers/Melinoë 3k.png",
+      image: "assets/covers/Melinoë 3k.jpg",
       section: "music",
       page: "melinoe",
       spotify: "https://open.spotify.com/album/5SUZcBHU3FG0alHCnaevDC?si=_DKyLwPmTImbWwrYihiVlw",
@@ -334,7 +334,7 @@ Only our own landscapes — seen with different eyes.`,
       cards: [
     {
       title: "Undertow",
-      image: "assets/covers/Undertow 3k.png",
+      image: "assets/covers/Undertow 3k.jpg",
       section: "music",
       page: "undertow",
       spotify: "https://open.spotify.com/album/42CE2mtJXaW9DhnJBOeIh7?si=wkFuDypQQJWJhMkOSZlWgg",
@@ -342,7 +342,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Cold as truth",
-      image: "assets/covers/Cold as truth 3k.png",
+      image: "assets/covers/Cold as truth 3k.jpg",
       section: "music",
       page: "coldAsTruth",
       spotify: "https://open.spotify.com/album/2HTi3AX4uVmexsiuJ5oBqL?si=cLjGjj5DQcWZjCzfYMG8KA",
@@ -350,7 +350,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Succubus",
-      image: "assets/covers/Succubus 3k.png",
+      image: "assets/covers/Succubus 3k.jpg",
       section: "music",
       page: "succubus",
       spotify: "https://open.spotify.com/album/5oj87B4KFkrcE0tqpWho8H?si=MkqSabVBRi6jw6Ji5GkvPA",
@@ -358,7 +358,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Midsummer Dominion",
-      image: "assets/covers/Midsummer Dominion 2 3k.png",
+      image: "assets/covers/Midsummer Dominion 2 3k.jpg",
       section: "music",
       page: "midsummerDominion",
       spotify: "https://open.spotify.com/album/6yiCRfXIINWqTsCStj9Ufb?si=Fmu0EyRmTHCchyZ5lSK6_A",
@@ -377,7 +377,7 @@ Only our own landscapes — seen with different eyes.`,
       cards: [
         {
       title: "A bird on the sign",
-      image: "assets/covers/A bird on the sign 3k.png",
+      image: "assets/covers/A bird on the sign 3k.jpg",
       section: "music",
       page: "aBirdOnTheSign",
       spotify: "https://open.spotify.com/album/7uEDzplg1p6Xx2FTt4nF0J?si=alO5rOJ0SH-7mrlklpguIA",
@@ -385,7 +385,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Back to the roots",
-      image: "assets/covers/Back to the roots 3k 4.png",
+      image: "assets/covers/Back to the roots 3k 4.jpg",
       section: "music",
       page: "backToTheRoots",
       spotify: "https://open.spotify.com/album/4fBEDSTSDVxWTgp4vebsDz?si=ARANwYOmSFu3Gmh1V3PegA",
@@ -393,7 +393,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Death is nothing at all",
-      image: "assets/covers/Death is nothing at all 3k.png",
+      image: "assets/covers/Death is nothing at all 3k.jpg",
       section: "music",
       page: "deathIsNothingAtAll",
       spotify: "https://open.spotify.com/album/2X2nAGVV7D3MtlVP0BSvWG?si=BhD8NtVgTHWCyDO0Kv_Rbw",
@@ -404,7 +404,7 @@ Only our own landscapes — seen with different eyes.`,
     ,
     {
       title: "Stubbe",
-      image: "assets/covers/todo.png",
+      image: "assets/covers/todo.jpg",
       section: "music",
       page: "stubbe",
       spotify: "",
@@ -426,7 +426,7 @@ Only our own landscapes — seen with different eyes.`,
   cards: [
     {
       title: "Moonlight's fall",
-      image: "assets/covers/Moonlight's fall 3k.png",
+      image: "assets/covers/Moonlight's fall 3k.jpg",
       section: "music",
       page: "moonlightsFall",
       spotify: "https://open.spotify.com/album/3IN9ylzoHClU2WqVVTTtZn?si=38lVW1xaSfKzWyGk_xLSXg",
@@ -434,7 +434,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "The Haunted Palace",
-      image: "assets/covers/Haunted Palace 3k.png",
+      image: "assets/covers/Haunted Palace 3k.jpg",
       section: "music",
       page: "hauntedPlace",
       spotify: "https://open.spotify.com/album/3QnyJ8mDXj6JoIChrQCWvj?si=J2DX_r79RvSyiQW09SOpGQ",
@@ -442,7 +442,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "The White Lady",
-      image: "assets/covers/White Lady 3k.png",
+      image: "assets/covers/White Lady 3k.jpg",
       section: "music",
       page: "whiteLady",
       spotify: "https://open.spotify.com/album/7sNQoXqMEZuXL6nbMGCjsa?si=1-zWZCCrTEGUwWZZgEa6pw",
@@ -450,7 +450,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Come Through the Veil",
-      image: "assets/covers/Veil 3k.png",
+      image: "assets/covers/Veil 3k.jpg",
       section: "music",
       page: "comeThrough",
       spotify: "https://open.spotify.com/album/6HU6GGw7g4GB9yKUvNAvia?si=4G1fXuJmQG-v-FiQadppaA",
@@ -468,7 +468,7 @@ Only our own landscapes — seen with different eyes.`,
   cards: [
     {
       title: "He promised the dawn",
-      image: "assets/covers/He promised the dawn 3k.png",
+      image: "assets/covers/He promised the dawn 3k.jpg",
       section: "music",
       page: "promisedTheDawn",
       spotify: "https://open.spotify.com/album/275Ul1GaOKM9NBUHe4d5Ck?si=URlyY-UzQwmMG8c32PCJEg",
@@ -476,7 +476,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Crown of the Unquiet",
-      image: "assets/covers/Crown 3k.png",
+      image: "assets/covers/Crown 3k.jpg",
       section: "music",
       page: "crown",
       spotify: "https://open.spotify.com/album/6R9fYGelPSToAwmCJhimR1?si=SXmKatvCRz6jDqKvAEXtRA",
@@ -484,7 +484,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Amaranth light",
-      image: "assets/covers/Amaranth 3k.png",
+      image: "assets/covers/Amaranth 3k.jpg",
       section: "music",
       page: "amaranth",
       spotify: "https://open.spotify.com/album/1WaHwhcPQluxSErEMIQZXf?si=fP0QFDejTGyqcwgYl98EsQ",
@@ -492,7 +492,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Transmutation",
-      image: "assets/covers/Transmutation 3k.png",
+      image: "assets/covers/Transmutation 3k.jpg",
       section: "music",
       page: "transmutation",
       spotify: "https://open.spotify.com/album/3aKdfDUkxxbP6oZogqd8NN?si=uY-k_MDnRxG9DvVnSOvRGQ",
@@ -500,7 +500,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "We are Earth",
-      image: "assets/covers/We are Earth 3k.png",
+      image: "assets/covers/We are Earth 3k.jpg",
       section: "music",
       page: "weAreEarth",
       spotify: "https://open.spotify.com/album/2I92lpUhytbfPvrDmH0k5A?si=UHAhEtu8TEuKuCUtw6KkOA",
@@ -508,7 +508,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Honey of Nightshade",
-      image: "assets/covers/Honey of Nightshade 3k.png",
+      image: "assets/covers/Honey of Nightshade 3k.jpg",
       section: "music",
       page: "honey",
       spotify: "https://open.spotify.com/album/7lKQokuHTsr59EyJXFiFOo?si=vdzjaJxYSRy9X_df31o7Lw",
@@ -516,7 +516,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "She Who Turns the Threshold",
-      image: "assets/covers/She who turns 3k.png",
+      image: "assets/covers/She who turns 3k.jpg",
       section: "music",
       page: "sheWhoTurns",
       spotify: "https://open.spotify.com/album/2HWttYODbAIsOQaK0G2UAC?si=6iPADskwRQaBI16w0qb14Q",
@@ -524,7 +524,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Rúnir ♦ Runes",
-      image: "assets/covers/Rúnir Runes 3K.png",
+      image: "assets/covers/Rúnir Runes 3K.jpg",
       section: "music",
       page: "runes",
       spotify: "https://open.spotify.com/album/6xzaXoBBJeGaS70onj1RAa?si=ezq1bUt4RdyrS5CIcxrSig",
@@ -532,7 +532,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "One with Mother Earth",
-      image: "assets/covers/One with Mother Earth 3k.png",
+      image: "assets/covers/One with Mother Earth 3k.jpg",
       section: "music",
       page: "motherEarth",
       spotify: "https://open.spotify.com/album/10ziE18fznizhKQ1F6uMOq?si=3Djk0WE3S86ioGSSx_0EZw",
@@ -540,7 +540,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Red Serpent Rose",
-      image: "assets/covers/Red serpent rose 3k.png",
+      image: "assets/covers/Red serpent rose 3k.jpg",
       section: "music",
       page: "redSerpentRose",
       spotify: "https://open.spotify.com/album/0kHMYgDclD4fEK4FKVeYEY?si=lGQSHeACStaR7OgoHeRakQ",
@@ -559,7 +559,7 @@ Only our own landscapes — seen with different eyes.`,
   cards: [
     {
       title: "A Most Curious Man",
-      image: "assets/covers/Most Curious cameo 3k.png",
+      image: "assets/covers/Most Curious cameo 3k.jpg",
       section: "music",
       page: "mostCurious",
       spotify: "https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=J8Q_x8NqQ4-vMNNOeMtubw",
@@ -575,7 +575,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "I cannot say why",
-      image: "assets/covers/I cannot say why 3k.png",
+      image: "assets/covers/I cannot say why 3k.jpg",
       section: "music",
       page: "cannotSay",
       spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
@@ -583,7 +583,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Scania, Our open land",
-      image: "assets/covers/Scania 3k.png",
+      image: "assets/covers/Scania 3k.jpg",
       section: "music",
       page: "scania",
       spotify: "https://open.spotify.com/album/42AarkdC4En5Gk6hKirgDe?si=XtUovdr_RLK4AagAYWDmIg",
@@ -591,7 +591,7 @@ Only our own landscapes — seen with different eyes.`,
     },
     {
       title: "Stay in the Blue",
-      image: "assets/covers/Stay in the Blue 3k.png",
+      image: "assets/covers/Stay in the Blue 3k.jpg",
       section: "music",
       page: "stayInTheBlue",
       spotify: "https://open.spotify.com/album/2lVyrmldMW172SQL9g3NfP?si=7xdkwEeCThq_IlfiDBDSKw",
@@ -622,7 +622,7 @@ Albums, EP ideas, and broader thematic arcs can be gathered here later.`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Run with the river 3k.png",
+        src: "assets/covers/Run with the river 3k.jpg",
         size: "small"
       },
       {
@@ -680,7 +680,7 @@ Ooooh, I am already there`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Fly, gentle dream 3k.png",
+        src: "assets/covers/Fly, gentle dream 3k.jpg",
         size: "small"
       },
       {
@@ -736,7 +736,7 @@ Ahh, ahh
     blocks: [
       {
         type: "image",
-        src: "assets/covers/River run 3k.png",
+        src: "assets/covers/River run 3k.jpg",
         size: "small"
       },
       {
@@ -827,7 +827,7 @@ walkingIntoWonder: {
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Walking into wonder 3k.png",
+        src: "assets/covers/Walking into wonder 3k.jpg",
         size: "small"
       },
       {
@@ -914,7 +914,7 @@ Every road
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Take me back 3k.png",
+        src: "assets/covers/Take me back 3k.jpg",
         size: "small"
       },
       {
@@ -1004,7 +1004,7 @@ Ooooh...
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Garden 3k.png",
+        src: "assets/covers/Garden 3k.jpg",
         size: "small"
       },
       {
@@ -1095,7 +1095,7 @@ You’re part of what made it bright
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Summer hymn 3k.png",
+        src: "assets/covers/Summer hymn 3k.jpg",
         size: "small"
       },
       {
@@ -1190,7 +1190,7 @@ abide in me
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Before we had names 3k cold.png",
+        src: "assets/covers/Before we had names 3k cold.jpg",
         size: "small"
       },
       {
@@ -1373,7 +1373,7 @@ listen.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/You must exist 3k.png",
+        src: "assets/covers/You must exist 3k.jpg",
         size: "small"
       },
       {
@@ -1457,7 +1457,7 @@ I am home
     blocks: [
       {
         type: "image",
-        src: "assets/covers/My tears 3k.png",
+        src: "assets/covers/My tears 3k.jpg",
         size: "small"
       },
       {
@@ -1518,7 +1518,7 @@ Pays eventually`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/I will rise, I remain 3k.png",
+        src: "assets/covers/I will rise, I remain 3k.jpg",
         size: "small"
       },
       {
@@ -1576,7 +1576,7 @@ Ooh
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Melinoë 3k.png",
+        src: "assets/covers/Melinoë 3k.jpg",
         size: "small"
       },
       {
@@ -1670,7 +1670,7 @@ built by trembling hands
     blocks: [
       {
         type: "image",
-        src: "assets/covers/todo.png",
+        src: "assets/covers/todo.jpg",
         size: "small"
       },
       {
@@ -1688,7 +1688,7 @@ built by trembling hands
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Undertow 3k.png",
+        src: "assets/covers/Undertow 3k.jpg",
         size: "small"
       },
       {
@@ -1783,7 +1783,7 @@ And you within its turning tide  `,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Cold as truth 3k.png",
+        src: "assets/covers/Cold as truth 3k.jpg",
         size: "small"
       },
       {
@@ -1866,7 +1866,7 @@ You are the one who needs me
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Succubus 3k.png",
+        src: "assets/covers/Succubus 3k.jpg",
         size: "small"
       },
       {
@@ -1930,7 +1930,7 @@ Liar…`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Midsummer Dominion 2 3k.png",
+        src: "assets/covers/Midsummer Dominion 2 3k.jpg",
         size: "small"
       },
       {
@@ -1987,7 +1987,7 @@ Midsummer… my dominion… forevermore…
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Moonlight's fall 3k.png",
+        src: "assets/covers/Moonlight's fall 3k.jpg",
         size: "small"
       },
       {
@@ -2044,7 +2044,7 @@ Stay with me till break of day
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Haunted Palace 3k.png",
+        src: "assets/covers/Haunted Palace 3k.jpg",
         size: "small"
       },
       {
@@ -2098,7 +2098,7 @@ before sorrow claimed it all.`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/White Lady 3k.png",
+        src: "assets/covers/White Lady 3k.jpg",
         size: "small"
       },
       {
@@ -2192,7 +2192,7 @@ No longer walking alone`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/He promised the dawn 3k.png",
+        src: "assets/covers/He promised the dawn 3k.jpg",
         size: "small"
       },
       {
@@ -2239,7 +2239,7 @@ I bought his life… not love, not here
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Crown 3k.png",
+        src: "assets/covers/Crown 3k.jpg",
         size: "small"
       },
       {
@@ -2317,7 +2317,7 @@ the world ends softer in your arms.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Amaranth 3k.png",
+        src: "assets/covers/Amaranth 3k.jpg",
         size: "small"
       },
       {
@@ -2390,7 +2390,7 @@ Love is all we ever need
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Transmutation 3k.png",
+        src: "assets/covers/Transmutation 3k.jpg",
         size: "small"
       },
       {
@@ -2449,7 +2449,7 @@ It is done.`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/We are Earth 3k.png",
+        src: "assets/covers/We are Earth 3k.jpg",
         size: "small"
       },
       {
@@ -2547,7 +2547,7 @@ We are sacred ground
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Honey of Nightshade 3k.png",
+        src: "assets/covers/Honey of Nightshade 3k.jpg",
         size: "small"
       },
       {
@@ -2642,7 +2642,7 @@ Stay with me through the night`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/She who turns 3k.png",
+        src: "assets/covers/She who turns 3k.jpg",
         size: "small"
       },
       {
@@ -2706,7 +2706,7 @@ No season mute
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Rúnir Runes 3K.png",
+        src: "assets/covers/Rúnir Runes 3K.jpg",
         size: "small"
       },
       {
@@ -2904,7 +2904,7 @@ and to the runes beneath the trees.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/One with Mother Earth 3k.png",
+        src: "assets/covers/One with Mother Earth 3k.jpg",
         size: "small"
       },
       {
@@ -3000,7 +3000,7 @@ Say with me:
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Red serpent rose 3k.png",
+        src: "assets/covers/Red serpent rose 3k.jpg",
         size: "small"
       },
       {
@@ -3049,7 +3049,7 @@ In the moment of ecstasy, heaven and hell…
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Most Curious cameo 3k.png",
+        src: "assets/covers/Most Curious cameo 3k.jpg",
         size: "small"
       },
       {
@@ -3173,7 +3173,7 @@ To live untouched by what I’m living
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Eg er hér 3k.png",
+        src: "assets/covers/Eg er hér 3k.jpg",
         size: "small"
       },
       {
@@ -3249,7 +3249,7 @@ geng ég við hlið yðar, heil
     blocks: [
       {
         type: "image",
-        src: "assets/covers/I cannot say why 3k.png",
+        src: "assets/covers/I cannot say why 3k.jpg",
         size: "small"
       },
       {
@@ -3301,7 +3301,7 @@ I swear it, I vow it – I cannot say why.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Veil 3k.png",
+        src: "assets/covers/Veil 3k.jpg",
         size: "small"
       },
       {
@@ -3399,7 +3399,7 @@ Come through the veil`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Scania 3k.png",
+        src: "assets/covers/Scania 3k.jpg",
         size: "small"
       },
       {
@@ -3494,7 +3494,7 @@ Scania, our open land`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Stay in the Blue 3k.png",
+        src: "assets/covers/Stay in the Blue 3k.jpg",
         size: "small"
       },
       {
@@ -3588,7 +3588,7 @@ Stay in the blue
     blocks: [
       {
         type: "image",
-        src: "assets/covers/A bird on the sign 3k.png",
+        src: "assets/covers/A bird on the sign 3k.jpg",
         size: "small"
       },
       {
@@ -3680,7 +3680,7 @@ love carries on`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Death is nothing at all 3k.png",
+        src: "assets/covers/Death is nothing at all 3k.jpg",
         size: "small"
       },
       {
@@ -3747,7 +3747,7 @@ when we meet again!
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Back to the roots 3k 4.png",
+        src: "assets/covers/Back to the roots 3k 4.jpg",
         size: "small"
       },
       {
@@ -3886,7 +3886,7 @@ In the deep and patient night.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/todo.png",
+        src: "assets/covers/todo.jpg",
         size: "small"
       },
       {
