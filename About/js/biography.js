@@ -328,7 +328,12 @@ function renderInlineMarkdown(text, container) {
 
     const token = match[0];
 
-    if (token.startsWith("[[")) {
+    if (token.startsWith("**")) {
+      const strong = document.createElement("strong");
+      strong.textContent = token.slice(2, -2);
+      container.appendChild(strong);
+    }
+    else if (token.startsWith("[[")) {
       renderWikiLink(token, container);
     }
     else {
