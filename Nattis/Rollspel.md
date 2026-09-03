@@ -19,5 +19,7 @@ System jag ägt och/eller spelat i:
 [[HarnMaster]] 
 [[Khelataar]]
 [[Mutant]]
+[[RuneQuest]]
+[[Shadowrun]]
 [[Vampire – The Masquerade (rollspelet)]]
 [[Western (rollspelet)]]
