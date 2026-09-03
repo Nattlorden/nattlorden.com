@@ -318,8 +318,10 @@ function renderMarkdown(markdown, container) {
 function renderInlineMarkdown(text, container) {
   /*const regex =
     /(\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;*/
+  /*const regex =
+    /(\*\*[^*]+\*\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;  */
   const regex =
-    /(\*\*[^*]+\*\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;  
+  /(\*\*\*[^*]+\*\*\*|\*\*[^*]+\*\*|\*[^*]+\*|\[\[[^\]]+\]\]|\[[^\]]+\]\([^)]+\))/g;  
 
   let lastIndex = 0;
   let match;
@@ -332,7 +334,31 @@ function renderInlineMarkdown(text, container) {
 
     const token = match[0];
 
-    if (token.startsWith("**")) {
+    if (token.startsWith("***")) {
+  const strong = document.createElement("strong");
+  const em = document.createElement("em");
+
+  em.textContent = token.slice(3, -3);
+  strong.appendChild(em);
+  container.appendChild(strong);
+}
+else if (token.startsWith("**")) {
+  const strong = document.createElement("strong");
+  strong.textContent = token.slice(2, -2);
+  container.appendChild(strong);
+}
+else if (token.startsWith("*")) {
+  const em = document.createElement("em");
+  em.textContent = token.slice(1, -1);
+  container.appendChild(em);
+}
+else if (token.startsWith("[[")) {
+  renderWikiLink(token, container);
+}
+else {
+  renderExternalLink(token, container);
+}
+    /*if (token.startsWith("**")) {
       const strong = document.createElement("strong");
       strong.textContent = token.slice(2, -2);
       container.appendChild(strong);
@@ -342,7 +368,7 @@ function renderInlineMarkdown(text, container) {
     }
     else {
       renderExternalLink(token, container);
-    }
+    }*/
 
     lastIndex = regex.lastIndex;
   }
