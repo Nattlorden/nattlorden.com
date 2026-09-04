@@ -3,6 +3,15 @@ plats:
   - Häljarp
   - Landskrona Kommun
 ---
+Här bor [[jag]] sedan födseln ( iofs Landskrona BB, men utöver det).
+
+
+Sevärdheter
+
+Annemarieholm(s slott)
+
+
+
 Häljarps mölla
 
 ![[(2) IMG_1848.jpg|175]]

@@ -1,0 +1,1 @@
+Den större ö ("storlek som Storbritannien") som är den ursprungliga och mest utvecklade delen i [[HarnWorld]].
