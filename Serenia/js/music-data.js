@@ -2,7 +2,7 @@ const musicData = {
   albums: {
     bothends: {
       title: "Both ends of the needle",
-      image: "assets/songs/Both ends pt 1.png",
+      image: "assets/songs/Both ends pt 1.jpg",
       imageAlt: "Cover art for Both ends of the needle",
       tracks: [
         {
@@ -81,7 +81,7 @@ const musicData = {
     },
     bothendspt2: {
       title: "Both ends of the needle (part two)",
-      image: "assets/songs/Both ends pt 2.png",
+      image: "assets/songs/Both ends pt 2.jpg",
       imageAlt: "Cover art for Both ends of the needle (part two)",
       tracks: [
         {
@@ -166,7 +166,7 @@ const musicData = {
     },
     bothendspt3: {
       title: "Province",
-      image: "assets/songs/Province 3k.png",
+      image: "assets/songs/Province 3k.jpg",
       imageAlt: "Cover art for Province",
       tracks: [
         {
