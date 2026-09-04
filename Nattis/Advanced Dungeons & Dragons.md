@@ -1,0 +1,3 @@
+Utan tvekan det [[Rollspel]] som haft mest inverkan på mig, då det förekommit i så många former. Dels som spelledare själv och dels som spelare under ett antal olika spelledare och i ett antal olika världar. Även i dess datoriserade varianter och världarna här till spillde över i romaner och brädspel därtill.
+
+I romanform är det huvudsakligen [[Dragonlance]] jag tänker på, men jag har läst ett antal romaner placerade i [[Forgotten Realms]] och kanske även [[Ravenloft]]?

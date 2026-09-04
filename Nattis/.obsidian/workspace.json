@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nålens båda ändar.md",
+                "file": "Both ends of the needle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nålens båda ändar"
+              "title": "Both ends of the needle"
             }
           }
         ],
@@ -228,6 +228,8 @@
   },
   "active": "32e468c7322d83e0",
   "lastOpenFiles": [
+    "Advanced Dungeons & Dragons.md",
+    "Nålens båda ändar.md",
     "Skolgång.md",
     "LTH.md",
     "Rollspel.md",
@@ -250,7 +252,6 @@
     "Namnlös 3.canvas",
     "Both ends of the needle.md",
     "SereniaRecords logo.png",
-    "Nålens båda ändar.md",
     "HarnWorld.md",
     "solokampanj.md",
     "Gulf stream club.md",
@@ -262,7 +263,6 @@
     "Jason och stjärnkommandot.md",
     "Privat test.md",
     "Vampire – The Masquerade (rollspelet).md",
-    "Shadowrun.md",
     "Personer",
     "T3A"
   ]
