@@ -215,7 +215,7 @@ Please try again</code>
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/SSI.png",
+      src: "assets/phc/images/SSI.jpg",
       size: "small",
       caption: "Publicerad 18e december 2025"
     },
@@ -315,7 +315,7 @@ And don’t forget to <b>subscribe</b>.</i>
     },
     {
       type: "image",
-      src: "assets/phc/images/SSI_creature.png",
+      src: "assets/phc/images/SSI_creature.jpg",
       size: "small",
       caption: "Sinner saint succubus"
     }
@@ -328,7 +328,7 @@ And don’t forget to <b>subscribe</b>.</i>
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/Empire.png",
+      src: "assets/phc/images/Empire.jpg",
       size: "small",
       caption: "Publicerad 18e december 2025"
     },
@@ -980,7 +980,7 @@ Beyond the edge of your divine
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/Maintenance.png",
+      src: "assets/phc/images/Maintenance.jpg",
       size: "small",
       caption: "Publicerad 26 december 2025"
     },
@@ -1010,7 +1010,7 @@ Det är det som alltid redan pågår.`
       blocks: [
      /*{
       type: "image",
-      src: "assets/phc/images/SSI.png",
+      src: "assets/phc/images/SSI.jpg",
       size: "small",
       caption: "Published the 18th of December 2025"
     },*/
@@ -1314,7 +1314,7 @@ That’s enough.</i>`
      blocks: [
       {
       type: "image",
-      src: "assets/phc/images/Devil.png",
+      src: "assets/phc/images/Devil.jpg",
       size: "small",
       caption: "Omslag gjort när den kontemplerades för en singel"
     },

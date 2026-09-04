@@ -40,7 +40,7 @@ thekey: {
       blocks: [
      {
       type: "image",
-      src: "assets/covers/The key beyond the 7th 3k.png",
+      src: "assets/covers/The key beyond the 7th 3k.jpg",
       size: "medium",
       caption: "Publicerad 6e februari 2026"
     },
@@ -740,7 +740,7 @@ will fail.
       blocks: [
         {
         type: "image",
-        src: "assets/covers/Every end 3k 4.png",
+        src: "assets/covers/Every end 3k 4.jpg",
         size: "small",
         caption: "Publicerad 9 april 2026"
       },
@@ -832,7 +832,7 @@ Here, fragments, standalone ideas, and freer expressions are allowed to exist wi
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Golf_songcover.png",
+      src: "assets/covers/Golf_songcover.jpg",
       size: "small",
       caption: "Released June 1st 2007"
     },

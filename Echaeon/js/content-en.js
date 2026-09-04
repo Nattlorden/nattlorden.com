@@ -17,7 +17,7 @@ Here, fragments, standalone ideas, and freer expressions are allowed to exist wi
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Golf_songcover.png",
+      src: "assets/covers/Golf_songcover.jpg",
       size: "small",
       caption: "Released June 1st 2007"
     },
@@ -113,7 +113,7 @@ Seven times in the sun with the sons of a gun
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Spiderfell Manor 3k.png",
+      src: "assets/covers/Spiderfell Manor 3k.jpg",
       size: "small",
       caption: "Released Halloween 2025"
     },
@@ -334,7 +334,7 @@ håller vi kvar det mörker som är bara vårat — här.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Starship Orion 3k.png",
+      src: "assets/covers/Starship Orion 3k.jpg",
       size: "small",
       caption: "Released December 10th 2025"
     },
@@ -413,7 +413,7 @@ and hope no one reviews that chart…”
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Christmas 3k.png",
+      src: "assets/covers/Christmas 3k.jpg",
       size: "small",
       caption: "Released December 22nd 2025"
     },
@@ -503,7 +503,7 @@ There’s nowhere else we need the time
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Yule 3k.png",
+      src: "assets/covers/Yule 3k.jpg",
       size: "small",
       caption: "Released late Christmas Eve 2025"
     },
@@ -593,7 +593,7 @@ We wait it out with company
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Released December 26th 2025"
     },
@@ -642,7 +642,7 @@ failed to follow`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Released December 26th 2025"
     },
@@ -746,7 +746,7 @@ That’s all
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Released December 26th 2025"
     },
@@ -849,7 +849,7 @@ make it lighter`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Released December 26th 2025"
     },
@@ -912,7 +912,7 @@ kept`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elidor 3k 2.png",
+      src: "assets/covers/Elidor 3k 2.jpg",
       size: "small",
       caption: "Released December 26th 2025"
     },
@@ -1046,7 +1046,7 @@ I’m one who is more than one`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Karoliner 3k 2.png",
+      src: "assets/covers/Karoliner 3k 2.jpg",
       size: "small",
       caption: "Released January 4th 2026"
     },
@@ -1132,7 +1132,7 @@ Is owned by bone
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Borrowed Authority 3k 2.png",
+      src: "assets/covers/Borrowed Authority 3k 2.jpg",
       size: "small",
       caption: "Released January 9th 2026"
     },
@@ -1227,7 +1227,7 @@ We bleed… and compensate`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/LWT 3k.png",
+      src: "assets/covers/LWT 3k.jpg",
       size: "small",
       caption: "Released January 19th 2026"
     },
@@ -1318,7 +1318,7 @@ You.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/storm 3k.png",
+      src: "assets/covers/storm 3k.jpg",
       size: "small",
       caption: "Released January 24th 2026"
     },
@@ -1407,7 +1407,7 @@ a line of fire,
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Reckoning 3k 5.png",
+      src: "assets/covers/Reckoning 3k 5.jpg",
       size: "small",
       caption: "Released January 25th 2026"
     },
@@ -1501,7 +1501,7 @@ The scythe is me.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Tänk om 3k.png",
+      src: "assets/covers/Tänk om 3k.jpg",
       size: "small",
       caption: "Released February 6th 2026"
     },
@@ -1572,7 +1572,7 @@ Vi kan börja här, med fred
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Dacke 3k.png",
+      src: "assets/covers/Dacke 3k.jpg",
       size: "small",
       caption: "Released February 8th 2026"
     },
@@ -1737,7 +1737,7 @@ Oh`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Mirrors 3k.png",
+      src: "assets/covers/Mirrors 3k.jpg",
       size: "small",
       caption: "Released February 23rd 2026"
     },
@@ -1826,7 +1826,7 @@ if you’re done with yesterday.”
       blocks: [
      {
       type: "image",
-      src: "assets/covers/När lamporna släcks 3k.png",
+      src: "assets/covers/När lamporna släcks 3k.jpg",
       size: "small",
       caption: "Released February 25th 2026"
     },
@@ -1923,7 +1923,7 @@ Jag skulle falla om du vill
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Citizens 3k.png",
+      src: "assets/covers/Citizens 3k.jpg",
       size: "small",
       caption: "Released February 28th 2026"
     },
@@ -2021,7 +2021,7 @@ och en gammal hederstro.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/The End 3k.png",
+      src: "assets/covers/The End 3k.jpg",
       size: "small",
       caption: "Released March 5th 2026"
     },
@@ -2230,7 +2230,7 @@ Now I rise for you
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2323,7 +2323,7 @@ Och möta mig här`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2410,7 +2410,7 @@ Går du fortfarande bredvid`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2490,7 +2490,7 @@ när världen stod helt still`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2583,7 +2583,7 @@ När natten faller kvar`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2687,7 +2687,7 @@ Jag är här`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2782,7 +2782,7 @@ Tills natten faller än
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2884,7 +2884,7 @@ I min egen sång
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -2984,7 +2984,7 @@ Som vägrar låta bli`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -3078,7 +3078,7 @@ du är den bäste jag har mött`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Farväl 3k.png",
+      src: "assets/covers/Farväl 3k.jpg",
       size: "small",
       caption: "Released March 3rd 2026"
     },
@@ -3148,7 +3148,7 @@ Vi kan börja här, med fred`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Hill witch woman 3k.png",
+      src: "assets/covers/Hill witch woman 3k.jpg",
       size: "small",
       caption: "Released March 20th 2026"
     },
@@ -3249,7 +3249,7 @@ Hill witch woman, stir it slow`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Inte mitt öde 3k.png",
+      src: "assets/covers/Inte mitt öde 3k.jpg",
       size: "small",
       caption: "Released April 4th 2026"
     },
@@ -3349,7 +3349,7 @@ i hans ord`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Skåne 3k.png",
+      src: "assets/covers/Skåne 3k.jpg",
       size: "small",
       caption: "Released April 19th 2026"
     },
@@ -3907,7 +3907,7 @@ Closer to a nightclub than a ritual chamber.`,
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Released october 26th 2025"
     },
@@ -3973,7 +3973,7 @@ and the glass obeys.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Vanilla on my mind.png",
+      src: "assets/covers/Vanilla on my mind.jpg",
       size: "small",
       caption: "Released february 2nd 2026"
     },
@@ -4037,7 +4037,7 @@ a simple truth wrapped in a summer-night bite.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/The beautiful.png",
+      src: "assets/covers/The beautiful.jpg",
       size: "small",
       caption: "Released february 5th 2026"
     },
@@ -4108,7 +4108,7 @@ One true name inside my heart
       blocks: [
      {
       type: "image",
-      src: "assets/covers/I don't need the stars 3k.png",
+      src: "assets/covers/I don't need the stars 3k.jpg",
       size: "small",
       caption: "Released february 10th 2026"
     },
@@ -4180,7 +4180,7 @@ I’ve found my peace, and I always will`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Control.png",
+      src: "assets/covers/Control.jpg",
       size: "small",
       caption: "Released march 4th 2026"
     },
@@ -4282,7 +4282,7 @@ And maybe that’s the truth`
       blocks: [
       {
         type: "image",
-        src: "assets/covers/ECH LOGO.png",
+        src: "assets/covers/ECH LOGO.jpg",
         size: "small",
         caption: ""
       },
@@ -4311,7 +4311,7 @@ More asphalt than forest. More night than mist.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Take me further 3k.png",
+      src: "assets/covers/Take me further 3k.jpg",
       size: "small",
       caption: "Released February 11th 2026"
     },
@@ -4384,7 +4384,7 @@ I keep driving into you`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Shadow.png",
+      src: "assets/covers/Shadow.jpg",
       size: "small",
       caption: "Released February 13th 2026"
     },
@@ -4474,7 +4474,7 @@ For your footsteps.... ever-more
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Pictures in the dark 3k.png",
+      src: "assets/covers/Pictures in the dark 3k.jpg",
       size: "small",
       caption: "Released February 19th 2026"
     },
@@ -4560,7 +4560,7 @@ Pictures in the dark
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elixir 3k.png",
+      src: "assets/covers/Elixir 3k.jpg",
       size: "small",
       caption: "Released February 20th 2026"
     },
@@ -4655,7 +4655,7 @@ Without making a sound
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Call your name 3k.png",
+      src: "assets/covers/Call your name 3k.jpg",
       size: "small",
       caption: "Released February 22nd 2026"
     },
@@ -4759,7 +4759,7 @@ I am home`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Fade to black(2) 3k.png",
+      src: "assets/covers/Fade to black(2) 3k.jpg",
       size: "small",
       caption: "Released February 22nd 2026"
     },
@@ -4833,7 +4833,7 @@ The light still leads us home
       blocks: [
      {
       type: "image",
-      src: "assets/covers/who do you trust 3k.png",
+      src: "assets/covers/who do you trust 3k.jpg",
       size: "small",
       caption: "Released March 2nd 2026"
     },
@@ -4917,7 +4917,7 @@ with the work
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Inside of me 3k.png",
+      src: "assets/covers/Inside of me 3k.jpg",
       size: "small",
       caption: "Released March 5th 2026"
     },
@@ -4999,7 +4999,7 @@ Inside of me`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Glitter and crowns 3k.png",
+      src: "assets/covers/Glitter and crowns 3k.jpg",
       size: "small",
       caption: "Released March 8th 2026"
     },
@@ -5074,7 +5074,7 @@ It was you
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Falling 3k.png",
+      src: "assets/covers/Falling 3k.jpg",
       size: "small",
       caption: "Released March 8th 2026"
     },
@@ -5165,7 +5165,7 @@ Something endless moving by
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.png",
+      src: "assets/covers/todo.jpg",
       size: "small",
       caption: "Released May 22nd 2026"
     },
@@ -5246,7 +5246,7 @@ Retrospective, but not museum-like.`,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Khellendros.png",
+        src: "assets/covers/Khellendros.jpg",
         size: "small",
         caption: "Khellendros with Kitiara, as I imagine her"
       },
@@ -5275,7 +5275,7 @@ Retrospective, but not museum-like.`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/AR 3k.png",
+        src: "assets/covers/AR 3k.jpg",
         size: "small",
         caption: "Released February 3, 2026"
       },
@@ -5415,7 +5415,7 @@ Alternate Reality`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Jets 3k.png",
+        src: "assets/covers/Jets 3k.jpg",
         size: "small",
         caption: "Released February 2, 2026"
       },
@@ -5486,7 +5486,7 @@ Jets jets jets jets jets jets jets jets jets jets jets ...`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Karateka 3k.png",
+        src: "assets/covers/Karateka 3k.jpg",
         size: "small",
         caption: "Released February 2, 2026"
       },
@@ -5580,7 +5580,7 @@ Arms around her. Dawn comes on.
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Airball 3k.png",
+        src: "assets/covers/Airball 3k.jpg",
         size: "small",
         caption: "Released February 3, 2026"
       },
@@ -5664,7 +5664,7 @@ Castle behind me, airball memory
     blocks: [
       {
         type: "image",
-        src: "assets/covers/buy buy buy.png",
+        src: "assets/covers/buy buy buy.jpg",
         size: "small",
         caption: "Released February 4, 2026"
       },
@@ -5754,7 +5754,7 @@ Buy it now…`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Don't let go.png",
+        src: "assets/covers/Don't let go.jpg",
         size: "small",
         caption: "Released February 14, 2026"
       },
@@ -5862,7 +5862,7 @@ Reflex sleeping till the dawn`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Ford and confidence 3k.png",
+        src: "assets/covers/Ford and confidence 3k.jpg",
         size: "small",
         caption: "Released February 15, 2026"
       },
@@ -5944,7 +5944,7 @@ Oh-oh-oh, no ties
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Sentinel watches 3k.png",
+        src: "assets/covers/Sentinel watches 3k.jpg",
         size: "small",
         caption: "Released February 16, 2026"
       },
@@ -6045,7 +6045,7 @@ The watching never die.`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Say the name.png",
+        src: "assets/covers/Say the name.jpg",
         size: "small",
         caption: "Released February 18, 2026"
       },
@@ -6124,7 +6124,7 @@ If this is love, say the name
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Territory 3k.png",
+        src: "assets/covers/Territory 3k.jpg",
         size: "small",
         caption: "Released February 22, 2026"
       },
@@ -6227,7 +6227,7 @@ Now it doesn’t feel so hard
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Fever's on.png",
+        src: "assets/covers/Fever's on.jpg",
         size: "small",
         caption: "Released March 2, 2026"
       },
@@ -6321,7 +6321,7 @@ Or you're gonna end up in pieces
     blocks: [
       {
         type: "image",
-        src: "assets/covers/I go digital over you 3k.png",
+        src: "assets/covers/I go digital over you 3k.jpg",
         size: "small",
         caption: "Released March 18, 2026"
       },
@@ -6412,7 +6412,7 @@ I go digital over you`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Dance like a secret never told 3k.png",
+        src: "assets/covers/Dance like a secret never told 3k.jpg",
         size: "small",
         caption: "Released March 19, 2026"
       },
@@ -6490,7 +6490,7 @@ Inside the room`
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Kender hearts 3k.png",
+        src: "assets/covers/Kender hearts 3k.jpg",
         size: "small",
         caption: "Released March 29, 2026"
       },
@@ -6602,7 +6602,7 @@ majlisa: {
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Koncertfoto_old.png",
+        src: "assets/covers/Koncertfoto_old.jpg",
         size: "small",
         caption: ""
       },
@@ -6626,7 +6626,7 @@ majlisa: {
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Ner längs vägen 3k.png",
+      src: "assets/covers/Ner längs vägen 3k.jpg",
       size: "medium",
       caption: "Publicerad 25e april 2026"
     },
@@ -7723,7 +7723,7 @@ och Skramlet går tyst
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Oresundsnatt 3k.png",
+      src: "assets/covers/Oresundsnatt 3k.jpg",
       size: "medium",
       caption: `"Åter-"publicerad 13e maj 2026`
     },
@@ -8861,7 +8861,7 @@ och åt runans hemliga rötter
       blocks: [
       {
         type: "image",
-        src: "assets/covers/TC LOGO white.png",
+        src: "assets/covers/TC LOGO white.jpg",
         size: "small",
         caption: ""
       },
@@ -8890,7 +8890,7 @@ Not only aggression, but also monument, fracture, and architecture of doom.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/The key beyond the 7th 3k.png",
+      src: "assets/covers/The key beyond the 7th 3k.jpg",
       size: "medium",
       caption: "Released February 6th 2026"
     },
@@ -9590,7 +9590,7 @@ will fail.
       blocks: [
         {
         type: "image",
-        src: "assets/covers/Every end 3k 4.png",
+        src: "assets/covers/Every end 3k 4.jpg",
         size: "small",
         caption: "Released April 9th 2026"
       },

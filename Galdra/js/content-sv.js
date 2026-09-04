@@ -43,7 +43,7 @@ galdra: {
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Till Fädernas Sal 3k.png",
+      src: "assets/covers/Till Fädernas Sal 3k.jpg",
       size: "small",
       caption: "Publicerad 11e juli 2026"
     },
@@ -128,7 +128,7 @@ Fädernas sal.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/När hornet ljuder 3k.png",
+      src: "assets/covers/När hornet ljuder 3k.jpg",
       size: "small",
       caption: "Publicerad 12e juli 2026"
     },
@@ -265,7 +265,7 @@ får vila.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Yggdrasils andedräkt 3k.png",
+      src: "assets/covers/Yggdrasils andedräkt 3k.jpg",
       size: "small",
       caption: "Publicerad 2e augusti 2026"
     },
@@ -350,7 +350,7 @@ i Ginnungagaps tysta sång.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Ben må brista 3k.png",
+      src: "assets/covers/Ben må brista 3k.jpg",
       size: "small",
       caption: "Publicerad 15e augusti 2026"
     },

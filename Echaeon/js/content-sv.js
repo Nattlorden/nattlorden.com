@@ -6,7 +6,7 @@ echaeon: {
       blocks: [
       {
         type: "image",
-        src: "assets/covers/ECH LOGO.png",
+        src: "assets/covers/ECH LOGO.jpg",
         size: "small",
         caption: ""
       },
@@ -35,7 +35,7 @@ Mer asfalt än skog. Mer natt än dimma.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Take me further 3k.png",
+      src: "assets/covers/Take me further 3k.jpg",
       size: "small",
       caption: "Publicerad 11e februari 2026"
     },
@@ -108,7 +108,7 @@ I keep driving into you`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Shadow.png",
+      src: "assets/covers/Shadow.jpg",
       size: "small",
       caption: "Publicerad 13e februari 2026"
     },
@@ -198,7 +198,7 @@ For your footsteps.... ever-more
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Pictures in the dark 3k.png",
+      src: "assets/covers/Pictures in the dark 3k.jpg",
       size: "small",
       caption: "Publicerad 19e februari 2026"
     },
@@ -284,7 +284,7 @@ Pictures in the dark
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Elixir 3k.png",
+      src: "assets/covers/Elixir 3k.jpg",
       size: "small",
       caption: "Publicerad 20e februari 2026"
     },
@@ -379,7 +379,7 @@ Without making a sound
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Call your name 3k.png",
+      src: "assets/covers/Call your name 3k.jpg",
       size: "small",
       caption: "Publicerad 22e februari 2026"
     },
@@ -483,7 +483,7 @@ I am home`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Fade to black(2) 3k.png",
+      src: "assets/covers/Fade to black(2) 3k.jpg",
       size: "small",
       caption: "Publicerad 22e februari 2026"
     },
@@ -557,7 +557,7 @@ The light still leads us home
       blocks: [
      {
       type: "image",
-      src: "assets/covers/who do you trust 3k.png",
+      src: "assets/covers/who do you trust 3k.jpg",
       size: "small",
       caption: "Publicerad 2e mars 2026"
     },
@@ -641,7 +641,7 @@ with the work
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Inside of me 3k.png",
+      src: "assets/covers/Inside of me 3k.jpg",
       size: "small",
       caption: "Publicerad 5e mars 2026"
     },
@@ -723,7 +723,7 @@ Inside of me`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Glitter and crowns 3k.png",
+      src: "assets/covers/Glitter and crowns 3k.jpg",
       size: "small",
       caption: "Publicerad 8e mars 2026"
     },
@@ -798,7 +798,7 @@ It was you
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Falling 3k.png",
+      src: "assets/covers/Falling 3k.jpg",
       size: "small",
       caption: "Publicerad 8e mars 2026"
     },
@@ -889,7 +889,7 @@ Something endless moving by
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.png",
+      src: "assets/covers/todo.jpg",
       size: "small",
       caption: "Publicerad 22e maj 2026"
     },
@@ -959,7 +959,7 @@ Into you…
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.png",
+      src: "assets/covers/todo.jpg",
       size: "small",
       caption: "Publicerad  2026"
     },
@@ -1041,7 +1041,7 @@ Here with me
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.png",
+      src: "assets/covers/todo.jpg",
       size: "small",
       caption: "Publicerad  2026"
     },
@@ -1136,7 +1136,7 @@ Uncover the art
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.png",
+      src: "assets/covers/todo.jpg",
       size: "small",
       caption: "Publicerad  2026"
     },
@@ -1163,7 +1163,7 @@ Uncover the art
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.png",
+      src: "assets/covers/todo.jpg",
       size: "small",
       caption: "Publicerad  2026"
     },

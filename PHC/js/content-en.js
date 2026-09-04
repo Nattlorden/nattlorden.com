@@ -213,7 +213,7 @@ Please try again</code>
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/SSI.png",
+      src: "assets/phc/images/SSI.jpg",
       size: "small",
       caption: "Published the 18th of December 2025"
     },
@@ -312,7 +312,7 @@ And don’t forget to <b>subscribe</b>.</i>`
     },
     {
       type: "image",
-      src: "assets/phc/images/SSI_creature.png",
+      src: "assets/phc/images/SSI_creature.jpg",
       size: "small",
       caption: "Sinner saint succubus"
     }
@@ -325,7 +325,7 @@ And don’t forget to <b>subscribe</b>.</i>`
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/Empire.png",
+      src: "assets/phc/images/Empire.jpg",
       size: "small",
       caption: "Published the 18th of December 2025"
     },
@@ -763,7 +763,7 @@ and calling it home`
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/Maintenance.png",
+      src: "assets/phc/images/Maintenance.jpg",
       size: "small",
       caption: "Released December 26th 2025"
     },
@@ -793,7 +793,7 @@ It is what is already in motion.`,
       blocks: [
      /*{
       type: "image",
-      src: "assets/phc/images/SSI.png",
+      src: "assets/phc/images/SSI.jpg",
       size: "small",
       caption: "Published the 18th of December 2025"
     },*/
@@ -1097,7 +1097,7 @@ That’s enough.</i>`
      blocks: [
       {
       type: "image",
-      src: "assets/phc/images/Devil.png",
+      src: "assets/phc/images/Devil.jpg",
       size: "small",
       caption: "Artwork done when it was considered for a single release"
     },

@@ -39,7 +39,7 @@ thekey: {
       blocks: [
      {
       type: "image",
-      src: "assets/covers/The key beyond the 7th 3k.png",
+      src: "assets/covers/The key beyond the 7th 3k.jpg",
       size: "medium",
       caption: "Publicerad 6e februari 2026"
     },
@@ -739,7 +739,7 @@ will fail.
       blocks: [
         {
         type: "image",
-        src: "assets/covers/Every end 3k 4.png",
+        src: "assets/covers/Every end 3k 4.jpg",
         size: "small",
         caption: "Publicerad 9 april 2026"
       },
@@ -828,7 +828,7 @@ And in its glow, the cosmos burns
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 25 juni 2026"
     },
@@ -912,7 +912,7 @@ The watcher is walking with me`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 6e juli 2026"
     },
@@ -1002,7 +1002,7 @@ And the echo keeps your name`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 11e juli 2026"
     },
@@ -1114,7 +1114,7 @@ Scorpio`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 28 juli 2026"
     },

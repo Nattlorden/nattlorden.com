@@ -6,7 +6,7 @@ majlisa: {
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Koncertfoto_old.png",
+        src: "assets/covers/Koncertfoto_old.jpg",
         size: "small",
         caption: ""
       },
@@ -57,7 +57,7 @@ nerlangsvagen: {
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Ner längs vägen 3k.png",
+      src: "assets/covers/Ner längs vägen 3k.jpg",
       size: "medium",
       caption: "Publicerad 1a april 1978"
     },
@@ -1160,7 +1160,7 @@ och Skramlet går tyst
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Öresundanatt med bonus 3k.png",
+      src: "assets/covers/Öresundanatt med bonus 3k.jpg",
       size: "medium",
       caption: `Publicerad 13e januari 1980`
     },
@@ -2338,7 +2338,7 @@ och åt runans hemliga rötter
       caption: `Publicerad 28e augusti 1981`
     },  {
       type: "image",
-      src: "assets/covers/Vägskäl baksida.png",
+      src: "assets/covers/Vägskäl baksida.jpg",
       size: "medium",
       caption: `Baksidan`
     },
@@ -2363,7 +2363,7 @@ och åt runans hemliga rötter
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -2465,7 +2465,7 @@ Mellan det som kommer och det man har
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -2569,7 +2569,7 @@ I natt dansade jag i Köpenhamn
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -2641,7 +2641,7 @@ Jag tar det jag vill ha
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -2730,7 +2730,7 @@ så lärde vi oss vilka vi var
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -2833,7 +2833,7 @@ I min egen sång
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -2940,7 +2940,7 @@ Och natten andas långsamt vidare
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3050,7 +3050,7 @@ fast ingen fråga kom idag
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3151,7 +3151,7 @@ Det var ni som stod kvar
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3226,7 +3226,7 @@ Mot himlen inatt...
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3332,7 +3332,7 @@ But not our name
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3405,7 +3405,7 @@ I keep the watch through the longest night
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3519,13 +3519,13 @@ You are the place and the person combined
       },
       {
         type: "image",
-        src: "assets/covers/The sinners' place 3k.png",
+        src: "assets/covers/The sinners' place 3k.jpg",
         size: "small",
         caption: "..."
       },
       {
         type: "image",
-        src: "assets/covers/Sinners baksidan 3k.png",
+        src: "assets/covers/Sinners baksidan 3k.jpg",
         size: "small",
         caption: "Baksidan"
       },
@@ -3550,7 +3550,7 @@ You are the place and the person combined
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3658,7 +3658,7 @@ But the night keeps singing through me
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3751,7 +3751,7 @@ Watching me
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3849,7 +3849,7 @@ And something in me healed.
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -3959,7 +3959,7 @@ River don't speak
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4068,7 +4068,7 @@ let it rain again`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4170,7 +4170,7 @@ And tonight that house still owns my name`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4274,7 +4274,7 @@ And never tell`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4376,7 +4376,7 @@ River runs black through the night
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4483,7 +4483,7 @@ in St. Louis this summer...
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4597,7 +4597,7 @@ And the second self was the one that rose`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4697,7 +4697,7 @@ No, the sun’s coming down
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4758,7 +4758,7 @@ Someday...
       blocks: [
       {
         type: "image",
-        src: "assets/covers/Landskrona.png",
+        src: "assets/covers/Landskrona.jpg",
         size: "small",
         caption: ""
       },
@@ -4783,7 +4783,7 @@ Someday...
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4846,7 +4846,7 @@ och synden följde med hem…`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -4954,7 +4954,7 @@ This life is mine`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5048,7 +5048,7 @@ Det gör mig ingenting.`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5172,7 +5172,7 @@ och kom hem med ett annat liv`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5292,7 +5292,7 @@ Of somebody standing beside you`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5369,7 +5369,7 @@ välja en annan väg.
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5478,7 +5478,7 @@ ska freden åter få ett namn`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5556,7 +5556,7 @@ Still showing us the way.`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5608,7 +5608,7 @@ i silverbäcken.`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5698,7 +5698,7 @@ som ett hjärta som hittat hem`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5771,7 +5771,7 @@ Och friheten tar mig i sin famn`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5862,7 +5862,7 @@ I still go under in Autumn`
       blocks: [
      /*{
       type: "image",
-      src: "assets/covers/Inside the amber smoke.png",
+      src: "assets/covers/Inside the amber smoke.jpg",
       size: "small",
       caption: "Publicerad 26e oktober 2025"
     },*/
@@ -5981,7 +5981,7 @@ men här börjar mitt liv`
       blocks: [
       {
         type: "image",
-        src: "assets/covers/stubbe.png",
+        src: "assets/covers/stubbe.jpg",
         size: "small",
         caption: ""
       },
@@ -6008,7 +6008,7 @@ men här börjar mitt liv`
       blocks: [
       {
         type: "image",
-        src: "assets/covers/Varsamt 3k.png",
+        src: "assets/covers/Varsamt 3k.jpg",
         size: "small",
         caption: ""
       },
@@ -6071,7 +6071,7 @@ men här börjar mitt liv`
       blocks: [
         {
       type: "image",
-      src: "assets/covers/Fri i håret 3k.png",
+      src: "assets/covers/Fri i håret 3k.jpg",
       size: "small",
       caption: "Publicerad 19e november 1979"
     },
@@ -6168,7 +6168,7 @@ fri ändå
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Fri i håret 3k.png",
+      src: "assets/covers/Fri i håret 3k.jpg",
       size: "small",
       caption: "Publicerad 19e november 1979"
     },
@@ -6228,7 +6228,7 @@ See what you have done...      `
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 28e januari 1980"
     },
@@ -6336,7 +6336,7 @@ Tills någon av oss viskar ja`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 28e januari 1980"
     },
@@ -6443,7 +6443,7 @@ var tog valet vägen`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 21e mars 1984"
     },
@@ -6500,7 +6500,7 @@ Tack.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 21e mars 1984"
     },
@@ -6529,7 +6529,7 @@ Tack.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad e  202"
     },
@@ -6572,7 +6572,7 @@ Tack.`
         /*
         {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad e "
     },*/
@@ -6590,7 +6590,7 @@ Tack.`
       blocks: [
         {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad 20e juni 2026"
     },
@@ -6683,7 +6683,7 @@ Uncover the art`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.png",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
       caption: "Publicerad e  202"
     },
