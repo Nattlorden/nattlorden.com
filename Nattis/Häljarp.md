@@ -7,5 +7,5 @@ Häljarps mölla
 
 ![[(2) IMG_1848.jpg|175]]
 
-placeholder
+Denna fina mölla, som tyvärr då och då vandaliseras var vi och såg få segel på vingarna. Just den dagen lyckades de inte få igång den. Något som var trögt i mekaniken kanske?
 
