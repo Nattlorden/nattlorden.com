@@ -1,0 +1,1 @@
+Möjligen ingen officiell benämning, men det vi kallade [[Rollspel|rollspelande]] med bara spelledare och en spelare.

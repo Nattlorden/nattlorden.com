@@ -1,8 +1,8 @@
 const contentSV = {
   about: {
     about: {
-      menuTitle: "Om",
-      title: "Om mig",
+      menuTitle: "Om mig - ytligt",
+      title: "Om mig - ytligt",
       blocks: [
      {
       type: "image",
@@ -37,6 +37,15 @@ Motionera mer borde jag väl också.`
 - Periodvis LCHF/keto - med målsättningen permanent`
     }
   ],
+      showPlaceholder: false
+    },
+
+    deepdive: {
+      menuTitle: "Djupdykning",
+      title: "Djupdykning",
+      text: `Mest för min egen del - <a href="biography.html">en mindmap/wiki med blandade minnesanteckningar</a> efter hand som de gör sig påminda. En del av det finns redan i mer solid form i huvuddelen av hemsidan, en del kompletterar och ger bakgrund och en hel del har ingen plats på hemsidan alls.
+      
+      Det kanske blir sammanfattat i biografisk form någon vacker dag?`,
       showPlaceholder: false
     },
 

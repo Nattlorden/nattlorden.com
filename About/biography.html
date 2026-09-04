@@ -144,6 +144,37 @@
       font-style: italic;
     }
 
+     .sidebar-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.sidebar-header h1 {
+  margin: 0;
+}
+
+.back-home {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.back-home img {
+  display: block;
+  height: 30px;
+  /*width: auto; */
+  filter: saturate(0.7) brightness(0.95);
+  opacity: 0.7;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.back-home img:hover {
+  opacity: 1;
+  transform: translateX(-2px);
+}
+
     @media (max-width: 750px) {
       .layout {
         grid-template-columns: 1fr;
@@ -157,7 +188,9 @@
       .content {
         padding: 1.5rem;
       }
-    }
+
+
+}
   </style>
 </head>
 
@@ -166,9 +199,16 @@
 <div class="layout">
 
   <aside class="sidebar">
-    <h1>Anteckningar</h1>
-    <ul id="noteList" class="note-list"></ul>
-  </aside>
+
+  <div class="sidebar-header">
+  <a href="/" class="back-home" title="Tillbaka till startsidan">
+    <img src="assets/ui/back-arrow.png" alt="Tillbaka">
+  </a>
+
+  <h1>Anteckningar</h1>
+</div>
+  <ul id="noteList" class="note-list"></ul>
+</aside>
 
   <main id="content" class="content">
     <p class="empty">Välj en anteckning.</p>
