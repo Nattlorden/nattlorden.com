@@ -90,6 +90,14 @@ function getPages(sectionKey) {
   return Object.keys(content[sectionKey]);
 }
 
+function getVisiblePages(sectionKey) {
+  const content = getContent();
+
+  return getPages(sectionKey).filter(pageKey => {
+    return content[sectionKey][pageKey].hidden !== true;
+  });
+}
+
 function ensureValidState() {
   const sections = getSections();
 
@@ -168,14 +176,33 @@ function renderTopMenu() {
   /*  item.onclick = function () {
   navigateTo(sectionKey, getPages(sectionKey)[0]);
 };*/
-    item.onclick = function () {
+  /*  item.onclick = function () {
       navigateTo(
         sectionKey,
         getPages(sectionKey)[0],
         true,
         "menu"
       );
-    };
+    };*/
+    item.onclick = function () {
+    const pages = getVisiblePages(sectionKey);
+
+    if (pages.length === 1) {
+      navigateTo(
+       sectionKey,
+       pages[0],
+       true,
+       "content"
+      );
+    } else {
+      navigateTo(
+        sectionKey,
+        pages[0],
+        true,
+        "menu"
+      );
+   }
+  };
 
     topMenu.appendChild(item);
   });
@@ -227,7 +254,7 @@ function renderContent() {
   }
 
   /*let html = `<h2>${page.title}</h2>`;*/
-  const menuLabel = lang === "sv" ? "? Meny" : "? Menu";
+  /*const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
 
   let html = `
     <button
@@ -238,6 +265,21 @@ function renderContent() {
     </button>
 
     <h2>${page.title}</h2>
+  `;*/
+  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
+  const hasSideMenu = getVisiblePages(currentSection).length > 1;
+
+  let html = `
+   ${hasSideMenu ? `
+     <button
+       type="button"
+       class="mobile-menu-button"
+       onclick="showMobileMenu()">
+       ${menuLabel}
+     </button>
+   ` : ""}
+
+   <h2>${page.title}</h2>
   `;
 
 
