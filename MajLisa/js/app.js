@@ -4,10 +4,11 @@ let currentPage = "about";
 
 const mobileMedia = window.matchMedia("(max-width: 768px)");
 
-let mobileView =
+/*let mobileView =
   mobileMedia.matches && window.location.hash
     ? "content"
-    : "menu";
+    : "menu";*/
+let mobileView = "menu";
 
 function updateMobileView() {
   document.body.classList.toggle(
@@ -368,7 +369,22 @@ document.addEventListener("click", function (e) {
   navigateTo(link.dataset.section, link.dataset.page);
 });
 
+/*readRouteFromUrl();
+renderAll();
+updateRouteInUrl();*/
 readRouteFromUrl();
+ensureValidState();
+
+if (mobileMedia.matches) {
+  const pages = getVisiblePages(currentSection);
+
+  if (window.location.hash || pages.length === 1) {
+    mobileView = "content";
+  } else {
+    mobileView = "menu";
+  }
+}
+
 renderAll();
 updateRouteInUrl();
 
