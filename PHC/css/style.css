@@ -569,4 +569,31 @@ code {
     color: var(--accent-hover);
     border-color: var(--accent-hover);
   }
+  
+  /* PHC: kompakt bildmeny på mobil */
+
+.top-menu {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: 4px;
+  padding: 6px;
+}
+
+.top-menu-item {
+  min-height: 0;
+  padding: 3px;
+  gap: 0;
+}
+
+.top-menu-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}
+
+/* Hover-/statusetiketter blir meningslösa i den här storleken */
+.top-menu-item::after,
+.top-menu-item.disabled::after {
+  display: none;
+}
 }
