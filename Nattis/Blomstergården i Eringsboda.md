@@ -1,3 +1,8 @@
+---
+plats:
+  - Göljahult
+  - Blekinge
+---
 Ett av resemålen när vi gjorde den enda gemensamma semestern med Familjen Jönsson (möjligen ingen Leif?).   Har mycket starka minnen från denna magiska plats av  bitvis nästan Ralph Lundstensk känsla... Eventuellt har jag varit där en gång till senare i livet också.
 
 ---

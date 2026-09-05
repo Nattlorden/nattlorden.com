@@ -19,7 +19,7 @@ Per-Anders Zander
 
 Magnus Persson(?) - landskronavägen
 
-Magnus NN - första gatan upp från Sandåker
+Magnus Lindholm - första gatan upp från Sandåker
 
 Christer NN
 

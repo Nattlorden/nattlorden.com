@@ -30,3 +30,26 @@ Så ungefär två månader därefter satte jag tänderna i första kapitlet igen
 
 ---
 
+Originaltexten låg på ungefärligen 50 000 ord, vilket med de standardmässiga 250 ord per sida i ett manus skulle innebära 200 sidor. ( Motsvarande en kort ungdomsroman och en bit under en ungdomsfantasy. )
+
+Det som uppenbart behövde göras var:
+
+- ändring till 3e person
+
+- uppmärksamma brist på beskrivningar
+
+- få till ett slut värdigt en bok
+  
+Det som sedan tillkom under bearbetningen:
+
+- Allt kan inte skrivas ur [[Keri McCree|Keris]] perspektiv - andra personers görande och låtanden måste skrivas till.
+
+- En del saker var väldigt summariskt nedtecknat - behöver expanderas.
+
+- Vissa saker skedde stort och snabbt - kanske delvis beroende på spel-mekaniken, kanske delvis på att vi bara var i 20-årsåldern. Behöver delas upp och spridas ut.
+
+- Vissa "snabbspolningar" är inte rimliga att stå kvar vid, där tiderna och resorna är orimliga att hoppa över behövs mellaninnehåll skrivas.
+
+- Det går att betrakta skeendena som ett flertal historiebågar, en del som avslutas på vägen, någon som sträcker sig över hela, några som tillkommer på vägen. Då jag inte vet hur det såg ut i [[Henrik Lennartz (Böijers)|Henriks]] storyboard ( vad hans kampanjmål var och vad som bara tänktes ut inför varje sittning och vad som bara skedde i respons på mina handlingar ) så får jag rekonstruera dem själv.
+
+- Tillåta mig själv att låta historien föra mig på nya platser inom de yttre ramarna; införa nya personer, egna bågar.
