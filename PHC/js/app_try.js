@@ -1,6 +1,6 @@
 let lang = "sv";
-let currentSection = "hifi";
-let currentPage = "about";
+let currentSection = "singles";
+let currentPage = "overview";
 const mobileMedia = window.matchMedia("(max-width: 768px)");
 
 /*let mobileView =
@@ -102,22 +102,11 @@ function getVisiblePages(sectionKey) {
 function ensureValidState() {
   const sections = getSections();
 
-  if (!sections.length) {
-    currentSection = "";
-    currentPage = "";
-    return;
-  }
-
   if (!sections.includes(currentSection)) {
     currentSection = sections[0];
   }
 
   const pages = getPages(currentSection);
-
-  if (!pages.length) {
-    currentPage = "";
-    return;
-  }
 
   if (!pages.includes(currentPage)) {
     currentPage = pages[0];
@@ -128,65 +117,39 @@ function updateLanguageButtons() {
   const btnSV = document.getElementById("btn-sv");
   const btnEN = document.getElementById("btn-en");
 
-  if (!btnSV || !btnEN) {
-    return;
+  if (btnSV) {
+    btnSV.classList.toggle("active", lang === "sv");
   }
 
-  btnSV.classList.toggle("active", lang === "sv");
-  btnEN.classList.toggle("active", lang === "en");
+  if (btnEN) {
+    btnEN.classList.toggle("active", lang === "en");
+  }
 }
 
 function updateTagline() {
   const tagline = document.getElementById("tagline");
-  const title = document.getElementById("siteTitle");
-  const meta = siteMeta?.[lang]?.sections?.[currentSection];
 
   if (tagline) {
-    tagline.textContent = meta?.tagline || "";
-  }
-
-  if (title) {
-    title.textContent = meta?.title || "";
+    tagline.textContent = siteMeta[lang].tagline;
   }
 
   document.documentElement.lang = lang;
 }
 
-function updateTheme() {
-  if (!currentSection) {
-    document.body.removeAttribute("data-theme");
+function renderTopMenu() {
+  const topMenu = document.getElementById("topMenu");
+
+  if (!topMenu) {
     return;
   }
 
-  document.body.dataset.theme = currentSection;
-}
-
-function updateHeaderStyle() {
-  const header = document.getElementById("siteHeader");
-  if (!header) return;
-
-  header.className = "site-header";
-
-  const meta = siteMeta?.[lang]?.sections?.[currentSection];
-  if (meta?.headerClass) {
-    header.classList.add(meta.headerClass);
-  }
-}
-
-function renderTopMenu() {
-  const topMenu = document.getElementById("topMenu");
-  if (!topMenu) return;
-
   topMenu.innerHTML = "";
 
-  const sections = getSections();
-
-  sections.forEach(sectionKey => {
+  topPanels.forEach(panel => {
     const item = document.createElement("div");
     item.className = "top-menu-item";
-    item.textContent = sectionLabels?.[lang]?.[sectionKey] || sectionKey;
 
-    if (sectionKey === currentSection) {
+    if (panel.key === currentSection) {
       item.classList.add("active");
     }
 
@@ -227,7 +190,10 @@ function renderTopMenu() {
 
 function renderSideMenu() {
   const sideMenu = document.getElementById("sideMenu");
-  if (!sideMenu) return;
+
+  if (!sideMenu) {
+    return;
+  }
 
   sideMenu.innerHTML = "";
 
@@ -235,15 +201,15 @@ function renderSideMenu() {
   const pages = getPages(currentSection);
 
   pages.forEach(pageKey => {
-    const page = content?.[currentSection]?.[pageKey];
+    const page = content[currentSection][pageKey];
 
-    if (!page || page.hidden === true) {
+    if (page.hidden === true) {
       return;
     }
 
     const item = document.createElement("div");
     item.className = "side-menu-item";
-    item.textContent = page.menuTitle || page.title || pageKey;
+    item.textContent = page.menuTitle || pageKey;
 
     if (pageKey === currentPage) {
       item.classList.add("active");
@@ -259,15 +225,20 @@ function renderSideMenu() {
 
 function renderContent() {
   const main = document.getElementById("content");
-  if (!main) return;
-
   const content = getContent();
-  const page = content?.[currentSection]?.[currentPage] || null;
+
+  const page = content[currentSection] && content[currentSection][currentPage]
+    ? content[currentSection][currentPage]
+    : null;
+
+  if (!main) {
+    return;
+  }
 
   if (!page) {
     main.innerHTML = `
-      <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
-      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
+      <h2>${siteMeta[lang].missingTitle}</h2>
+      <p>${siteMeta[lang].missingText}</p>
     `;
     return;
   }
@@ -350,7 +321,7 @@ function renderContent() {
   if (page.showPlaceholder !== false) {
     html += `
       <div class="placeholder-box">
-        ${siteMeta?.[lang]?.placeholder || ""}
+        ${siteMeta[lang].placeholder}
       </div>
     `;
   }
@@ -362,8 +333,6 @@ function renderAll() {
   ensureValidState();
   updateLanguageButtons();
   updateTagline();
-  updateTheme();
-  updateHeaderStyle();
   renderTopMenu();
   renderSideMenu();
   renderContent();
@@ -384,7 +353,9 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  navigateTo(link.dataset.section, link.dataset.page);
+  item.onclick = function () {
+  navigateTo(currentSection, pageKey);
+};
 });
 
 readRouteFromUrl();

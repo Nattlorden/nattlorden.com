@@ -348,3 +348,65 @@ hr {
 .hex-access .hex-only {
   display: inline; /* eller block beroende på layout */
 }
+
+/* =========================
+   Mobil layout
+   ========================= */
+
+.mobile-menu-button {
+  display: none;
+}
+
+@media (max-width: 768px) {
+
+  .layout {
+    display: block;
+  }
+
+  .side-menu {
+    width: auto;
+    min-height: 0;
+    border-right: none;
+  }
+
+  .content-area {
+    width: auto;
+  }
+
+  /* Navigationsläge */
+  body.mobile-menu-view .side-menu {
+    display: block;
+  }
+
+  body.mobile-menu-view .content-area {
+    display: none;
+  }
+
+  /* Innehållsläge */
+  body.mobile-content-view .side-menu {
+    display: none;
+  }
+
+  body.mobile-content-view .content-area {
+    display: block;
+  }
+
+  body.mobile-content-view .mobile-menu-button {
+    display: inline-block;
+    margin: 0 0 18px 0;
+    padding: 7px 12px;
+
+    background: var(--button-bg);
+    color: var(--button-text);
+
+    border: 1px solid var(--border);
+    cursor: pointer;
+
+    font: inherit;
+  }
+
+  body.mobile-content-view .mobile-menu-button:hover {
+    color: var(--accent-hover);
+    border-color: var(--accent-hover);
+  }
+}

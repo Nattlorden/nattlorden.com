@@ -1,0 +1,382 @@
+let lang = "sv";
+let currentSection = "freyja";
+let currentPage = "overview";
+
+const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
+const hasHexAccess = () => localStorage.getItem("hexAccess") === "yes";
+
+const hasKey = (key) => localStorage.getItem(key) === "yes";
+
+const sectionAccess = {
+  freyja: null,
+  ritual: "hexAccess",
+  nature: null,
+  music: null,
+  lore: null,
+  about: null
+};
+
+if (hasFriendAccess()) {
+  document.documentElement.classList.add("friend-access");
+}
+if (hasHexAccess()) {
+  document.documentElement.classList.add("hex-access");
+}
+
+function readRouteFromUrl() {
+  const hash = window.location.hash.slice(1);
+  if (!hash) return;
+
+  const [section, page] = hash.split("/");
+
+  if (section) currentSection = decodeURIComponent(section);
+  if (page) currentPage = decodeURIComponent(page);
+}
+
+function updateRouteInUrl() {
+  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
+
+  if (window.location.hash.slice(1) !== route) {
+    history.pushState(null, "", `#${route}`);
+  }
+}
+
+function getContent() {
+  return lang === "sv" ? contentSV : contentEN;
+}
+
+function getSections() {
+  return Object.keys(getContent());
+}
+
+function getPages(sectionKey) {
+  const content = getContent();
+
+  if (!content[sectionKey]) {
+    return [];
+  }
+
+  return Object.keys(content[sectionKey]);
+}
+
+function canAccessSection(sectionKey) {
+  const requiredKey = sectionAccess[sectionKey];
+
+  return !requiredKey || hasKey(requiredKey);
+}
+
+function canAccessPage(page) {
+  if (!page.hidden) {
+    return true;
+  }
+
+  if (page.hidden === true) {
+    return true; // dold i menyn, men öppningsbar via kort/intern länk
+  }
+
+  return hasKey(page.hidden); // t.ex. "hexAccess"
+}
+
+function ensureValidState() {
+  const content = getContent();
+
+  const sections = getSections()
+    .filter(sectionKey => canAccessSection(sectionKey));
+
+  if (!sections.includes(currentSection)) {
+    currentSection = sections[0];
+  }
+
+  const pages = getPages(currentSection)
+    .filter(pageKey => canAccessPage(content[currentSection][pageKey]));
+
+  if (!pages.includes(currentPage)) {
+    currentPage = pages[0];
+  }
+}
+
+function navigate(section, page) {
+  const content = getContent();
+
+  if (!content[section] || !content[section][page]) {
+    console.warn("Missing page:", section, page);
+    return;
+  }
+
+  currentSection = section;
+  currentPage = page;
+
+  renderAll();
+  updateRouteInUrl();
+
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+}
+
+function updateLanguageButtons() {
+  const btnSV = document.getElementById("btn-sv");
+  const btnEN = document.getElementById("btn-en");
+
+  if (!btnSV || !btnEN) {
+    return;
+  }
+
+  btnSV.classList.toggle("active", lang === "sv");
+  btnEN.classList.toggle("active", lang === "en");
+}
+
+function updateTagline() {
+  const tagline = document.getElementById("tagline");
+
+  if (tagline) {
+    tagline.textContent = siteMeta[lang].tagline;
+  }
+
+  document.documentElement.lang = lang;
+}
+
+function renderTopMenu() {
+  const topMenu = document.getElementById("topMenu");
+  topMenu.innerHTML = "";
+
+  const sections = getSections();
+
+  sections.forEach(sectionKey => {
+    const requiredKey = sectionAccess[sectionKey];
+
+    if (requiredKey && !hasKey(requiredKey)) {
+      return;
+    }
+
+    const item = document.createElement("div");
+    item.className = "top-menu-item";
+    item.textContent = sectionLabels[lang][sectionKey] || sectionKey;
+
+    if (sectionKey === currentSection) {
+      item.classList.add("active");
+    }
+
+  item.onclick = function () {
+  const pages = getPages(sectionKey);
+  navigate(sectionKey, pages[0]);
+};
+
+    topMenu.appendChild(item);
+  });
+}
+
+function renderSideMenu() {
+  const sideMenu = document.getElementById("sideMenu");
+  sideMenu.innerHTML = "";
+
+  const content = getContent();
+  const pages = getPages(currentSection);
+
+  pages.forEach(pageKey => {
+  const page = content[currentSection][pageKey];
+
+  if (page.hidden === true) {
+    return;
+  }
+
+  if (typeof page.hidden === "string" && !hasKey(page.hidden)) {
+    return;
+  }
+
+  const item = document.createElement("div");
+  item.className = "side-menu-item";
+  item.textContent = page.menuTitle || pageKey;
+
+  if (pageKey === currentPage) {
+    item.classList.add("active");
+  }
+
+  item.onclick = function () {
+    navigate(currentSection, pageKey);
+  };
+
+  sideMenu.appendChild(item);
+});
+
+}
+
+function renderCardPage(main, page) {
+  const columnsClass = page.columns === 3 ? "cols-3" : "cols-4";
+
+  let html = `<h2>${page.title}</h2>`;
+
+  if (page.intro) {
+    html += `
+      <div class="text-block">
+        ${page.intro}
+      </div>
+    `;
+  }
+
+  html += `<div class="card-grid ${columnsClass}">`;
+
+  page.cards.forEach(card => {
+    html += `
+      <div class="music-card">
+        <a
+          href="#${card.section}/${card.page}"
+          class="music-card-image"
+          data-section="${card.section}"
+          data-page="${card.page}"
+          aria-label="${card.title}"
+        >
+          <img src="${card.image}" alt="${card.title}">
+        </a>
+
+        <div class="music-card-title">
+          <a
+            href="#${card.section}/${card.page}"
+            data-section="${card.section}"
+            data-page="${card.page}"
+          >
+            ${card.title}
+          </a>
+        </div>
+
+        ${(card.spotify || card.youtube) ? `
+          <div class="music-card-links">
+            ${card.spotify ? `<a href="${card.spotify}" target="_blank" rel="noopener noreferrer">Spotify</a>` : ""}
+            ${card.youtube ? `<a href="${card.youtube}" target="_blank" rel="noopener noreferrer">YouTube</a>` : ""}
+          </div>
+        ` : ""}
+      </div>
+    `;
+  });
+
+  html += `</div>`;
+
+  if (page.showPlaceholder !== false) {
+    html += `
+      <div class="placeholder-box">
+        ${siteMeta[lang].placeholder}
+      </div>
+    `;
+  }
+
+  main.innerHTML = html;
+}
+
+function renderContent() {
+  const main = document.getElementById("content");
+  const content = getContent();
+  const page = content[currentSection] && content[currentSection][currentPage]
+    ? content[currentSection][currentPage]
+    : null;
+
+  if (!page) {
+    main.innerHTML = `
+      <h2>${siteMeta[lang].missingTitle}</h2>
+      <p>${siteMeta[lang].missingText}</p>
+    `;
+    return;
+  }
+
+  if (page.layout === "cards") {
+    renderCardPage(main, page);
+    return;
+  }
+
+  let html = `<h2>${page.title}</h2>`;
+
+  if (page.blocks && page.blocks.length > 0) {
+    page.blocks.forEach(block => {
+      if (block.type === "text") {
+        html += `
+          <div class="text-block">
+            ${block.content}
+          </div>
+        `;
+      }
+
+      if (block.type === "image") {
+        const imageSize = block.size ? `image-${block.size}` : "image-full";
+
+        html += `
+          <figure class="image-block ${imageSize}">
+            <img src="${block.src}" alt="${block.alt || ""}">
+            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
+          </figure>
+        `;
+      }
+
+      if (block.type === "divider") {
+        html += `<hr>`;
+      }
+    });
+  } else {
+    if (page.text) {
+      html += `
+        <div class="text-block">
+          ${page.text}
+        </div>
+      `;
+    }
+
+    if (page.images && page.images.length > 0) {
+      html += `<div class="image-gallery">`;
+
+      page.images.forEach(src => {
+        html += `<img src="${src}" alt="">`;
+      });
+
+      html += `</div>`;
+    }
+  }
+
+  if (page.showPlaceholder !== false) {
+    html += `
+      <div class="placeholder-box">
+        ${siteMeta[lang].placeholder}
+      </div>
+    `;
+  }
+
+  main.innerHTML = html;
+}
+
+function renderAll() {
+  ensureValidState();
+  updateLanguageButtons();
+  updateTagline();
+  renderTopMenu();
+  renderSideMenu();
+  renderContent();
+}
+
+function setLang(newLang) {
+  lang = newLang;
+  renderAll();
+}
+
+document.addEventListener("click", function (e) {
+  const link = e.target.closest("a[data-section][data-page]");
+
+  if (!link) {
+    return;
+  }
+
+  e.preventDefault();
+
+  navigate(link.dataset.section, link.dataset.page);
+});
+
+readRouteFromUrl();
+renderAll();
+updateRouteInUrl();
+
+window.addEventListener("popstate", () => {
+  readRouteFromUrl();
+  renderAll();
+});
+
+window.addEventListener("hashchange", () => {
+  readRouteFromUrl();
+  renderAll();
+});

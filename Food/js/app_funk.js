@@ -1,77 +1,6 @@
 let lang = "sv";
 let currentSection = "food";
 let currentPage = "recipes_home";
-const mobileMedia = window.matchMedia("(max-width: 768px)");
-
-/*let mobileView =
-  mobileMedia.matches && window.location.hash
-    ? "content"
-    : "menu";*/
-let mobileView = "menu";
-
-function updateMobileView() {
-  document.body.classList.toggle(
-    "mobile-menu-view",
-    mobileMedia.matches && mobileView === "menu"
-  );
-
-  document.body.classList.toggle(
-    "mobile-content-view",
-    mobileMedia.matches && mobileView === "content"
-  );
-}
-
-function showMobileMenu() {
-  mobileView = "menu";
-  updateMobileView();
-  window.scrollTo({ top: 0, behavior: "smooth" });
-}
-
-function readRouteFromUrl() {
-  const hash = window.location.hash.slice(1);
-  if (!hash) return;
-
-  const [section, page] = hash.split("/");
-
-  if (section) currentSection = decodeURIComponent(section);
-  if (page) currentPage = decodeURIComponent(page);
-}
-
-function updateRouteInUrl() {
-  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
-
-  if (window.location.hash.slice(1) !== route) {
-    history.pushState(null, "", `#${route}`);
-  }
-}
-
-/* function navigateTo(section, page, scrollToTop = true) {
-  currentSection = section;
-  currentPage = page;
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-} */
-
-  function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
-  currentSection = section;
-  currentPage = page;
-
-  if (mobileMedia.matches) {
-    mobileView = mobileTarget;
-  }
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-}
 
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
@@ -141,13 +70,6 @@ function getPage(sectionKey, pageKey) {
   return null;
 }
 
-function getVisiblePages(sectionKey) {
-  return getPages(sectionKey).filter(pageKey => {
-    const page = getPage(sectionKey, pageKey);
-    return page && page.hidden !== true;
-  });
-}
-
 function ensureValidState() {
   const sections = getSections();
 
@@ -197,24 +119,16 @@ function renderTopMenu() {
     }
 
     item.onclick = function () {
-    const pages = getVisiblePages(sectionKey);
+      currentSection = sectionKey;
+      const pages = getPages(sectionKey);
+      currentPage = pages.length > 0 ? pages[0] : null;
 
-    if (pages.length === 1) {
-      navigateTo(
-       sectionKey,
-       pages[0],
-       true,
-       "content"
-      );
-    } else {
-      navigateTo(
-        sectionKey,
-        pages[0],
-        true,
-        "menu"
-      );
-   }
-  };
+      renderAll();
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    };
 
     topMenu.appendChild(item);
   });
@@ -250,8 +164,14 @@ function renderSideMenu() {
       }
 
       item.onclick = function () {
-  navigateTo(currentSection, pageKey);
-};
+        currentPage = pageKey;
+        renderContent();
+        renderSideMenu();
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+        });
+      };
 
       sideMenu.appendChild(item);
     });
@@ -294,7 +214,13 @@ function renderSideMenu() {
       }
 
       item.onclick = function () {
-        navigateTo(currentSection, pageKey);
+        currentPage = pageKey;
+        renderContent();
+        renderSideMenu();
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+        });
       };
 
       sideMenu.appendChild(item);
@@ -314,35 +240,7 @@ function renderContent() {
     return;
   }
 
-  /*let html = `<h2>${page.title}</h2>`;*/
-  /*const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
-
-  let html = `
-    <button
-      type="button"
-      class="mobile-menu-button"
-      onclick="showMobileMenu()">
-      ${menuLabel}
-    </button>
-
-    <h2>${page.title}</h2>
-  `;*/
-  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
-  const hasSideMenu = getVisiblePages(currentSection).length > 1;
-
-  let html = `
-   ${hasSideMenu ? `
-     <button
-       type="button"
-       class="mobile-menu-button"
-       onclick="showMobileMenu()">
-       ${menuLabel}
-     </button>
-   ` : ""}
-
-   <h2>${page.title}</h2>
-  `;
-
+  let html = `<h2>${page.title}</h2>`;
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
@@ -356,7 +254,7 @@ function renderContent() {
 
       if (block.type === "pre") {
         html += `
-        <pre class="recipe-pre">${block.content}</pre>
+          <pre class="recipe-pre">${block.content}</pre>
         `;
       }
 
@@ -413,7 +311,6 @@ function renderAll() {
   renderTopMenu();
   renderSideMenu();
   renderContent();
-  updateMobileView();
 }
 
 function setLang(newLang) {
@@ -430,33 +327,14 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  navigateTo(link.dataset.section, link.dataset.page);
-});
-
-readRouteFromUrl();
-ensureValidState();
-
-if (mobileMedia.matches) {
-  const pages = getVisiblePages(currentSection);
-
-  if (window.location.hash || pages.length === 1) {
-    mobileView = "content";
-  } else {
-    mobileView = "menu";
-  }
-}
-
-renderAll();
-updateRouteInUrl();
-
-window.addEventListener("popstate", () => {
-  readRouteFromUrl();
-
-  if (mobileMedia.matches) {
-    mobileView = "content";
-  }
+  currentSection = link.dataset.section;
+  currentPage = link.dataset.page;
 
   renderAll();
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
 });
 
-mobileMedia.addEventListener("change", updateMobileView);
+renderAll();
