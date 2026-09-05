@@ -2,6 +2,31 @@ let lang = "sv";
 let currentSection = "majlisa";
 let currentPage = "about";
 
+const mobileMedia = window.matchMedia("(max-width: 768px)");
+
+let mobileView =
+  mobileMedia.matches && window.location.hash
+    ? "content"
+    : "menu";
+
+function updateMobileView() {
+  document.body.classList.toggle(
+    "mobile-menu-view",
+    mobileMedia.matches && mobileView === "menu"
+  );
+
+  document.body.classList.toggle(
+    "mobile-content-view",
+    mobileMedia.matches && mobileView === "content"
+  );
+}
+
+function showMobileMenu() {
+  mobileView = "menu";
+  updateMobileView();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
 function readRouteFromUrl() {
   const hash = window.location.hash.slice(1);
   if (!hash) return;
@@ -20,9 +45,25 @@ function updateRouteInUrl() {
   }
 }
 
-function navigateTo(section, page, scrollToTop = true) {
+/* function navigateTo(section, page, scrollToTop = true) {
   currentSection = section;
   currentPage = page;
+
+  renderAll();
+  updateRouteInUrl();
+
+  if (scrollToTop) {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+} */
+
+  function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
+  currentSection = section;
+  currentPage = page;
+
+  if (mobileMedia.matches) {
+    mobileView = mobileTarget;
+  }
 
   renderAll();
   updateRouteInUrl();
@@ -124,9 +165,17 @@ function renderTopMenu() {
       item.classList.add("active");
     }
 
-    item.onclick = function () {
+  /*  item.onclick = function () {
   navigateTo(sectionKey, getPages(sectionKey)[0]);
-};
+};*/
+    item.onclick = function () {
+      navigateTo(
+        sectionKey,
+        getPages(sectionKey)[0],
+        true,
+        "menu"
+      );
+    };
 
     topMenu.appendChild(item);
   });
@@ -177,7 +226,20 @@ function renderContent() {
     return;
   }
 
-  let html = `<h2>${page.title}</h2>`;
+  /*let html = `<h2>${page.title}</h2>`;*/
+  const menuLabel = lang === "sv" ? "? Meny" : "? Menu";
+
+  let html = `
+    <button
+      type="button"
+      class="mobile-menu-button"
+      onclick="showMobileMenu()">
+      ${menuLabel}
+    </button>
+
+    <h2>${page.title}</h2>
+  `;
+
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
@@ -244,6 +306,7 @@ function renderAll() {
   renderTopMenu();
   renderSideMenu();
   renderContent();
+  updateMobileView();
 }
 
 function setLang(newLang) {
@@ -267,7 +330,18 @@ readRouteFromUrl();
 renderAll();
 updateRouteInUrl();
 
-window.addEventListener("popstate", () => {
+/*window.addEventListener("popstate", () => {
   readRouteFromUrl();
   renderAll();
+});*/
+window.addEventListener("popstate", () => {
+  readRouteFromUrl();
+
+  if (mobileMedia.matches) {
+    mobileView = "content";
+  }
+
+  renderAll();
 });
+
+mobileMedia.addEventListener("change", updateMobileView);
