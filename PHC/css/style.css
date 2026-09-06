@@ -596,4 +596,51 @@ code {
 .top-menu-item.disabled::after {
   display: none;
 }
+
+/* PHC-header på mobil */
+
+.site-header {
+  min-height: 150px;
+  padding: 8px 10px 34px;
+
+  flex-wrap: nowrap;
+
+  background-size: contain;
+  background-position: center;
+}
+
+/* Återställ staplingen från 820px-regeln */
+.header-left,
+.header-right {
+  width: auto;
+}
+
+/* Bakåtpil nere till vänster */
+.header-left {
+  position: absolute;
+  left: 10px;
+  bottom: 8px;
+  z-index: 3;
+}
+
+/* Språkval nere till höger */
+.header-right {
+  position: absolute;
+  right: 10px;
+  bottom: 8px;
+  z-index: 3;
+}
+
+/* Mitten skall inte påverka placeringen av kontrollerna */
+.header-inner {
+  width: auto;
+}
+
+/* Taglinen får egen rad ovanför kontrollerna */
+.tagline {
+  bottom: 38px;
+  width: 80%;
+  text-align: center;
+  line-height: 1.35;
+}
 }
