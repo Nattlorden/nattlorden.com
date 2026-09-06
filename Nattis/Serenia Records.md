@@ -16,3 +16,31 @@ Logo under Maj-Lisa & Skramlet-åren 1978-1986 (minst):
 
 ![[Serenia Records 1978-1985 small.png|240]]
 
+
+Artister/Band som släppts under **Serenia Records**:
+
+- [[Björn Andersson (artist)]]
+
+- [[Croonlius]]
+
+- [[Dísir]]
+
+- [[Echæon]]
+  
+- [[Freyja (artist)]]
+  
+- [[Förlorade visor]]
+
+- [[Galdrakällan]]
+
+- [[Khellendros]]
+
+- [[Mailýsa (artist)]]
+  
+- [[Nattlorden (artist)]]
+
+- [[Posthuman Cabaret]]
+
+- [[Serenia (artist)]]
+  
+- [[Threshold Canticle]]

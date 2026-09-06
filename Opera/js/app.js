@@ -2,6 +2,27 @@ let lang = "sv";
 let currentSection = "general";
 let currentPage = "about";
 
+const mobileMedia = window.matchMedia("(max-width: 768px)");
+let mobileView = "menu";
+
+function updateMobileView() {
+  document.body.classList.toggle(
+    "mobile-menu-view",
+    mobileMedia.matches && mobileView === "menu"
+  );
+
+  document.body.classList.toggle(
+    "mobile-content-view",
+    mobileMedia.matches && mobileView === "content"
+  );
+}
+
+function showMobileMenu() {
+  mobileView = "menu";
+  updateMobileView();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
 function readRouteFromUrl() {
   const hash = window.location.hash.slice(1);
   if (!hash) return;
@@ -20,9 +41,24 @@ function updateRouteInUrl() {
   }
 }
 
-function navigateTo(section, page, scrollToTop = true) {
+/*function navigateTo(section, page, scrollToTop = true) {
   currentSection = section;
   currentPage = page;
+
+  renderAll();
+  updateRouteInUrl();
+
+  if (scrollToTop) {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+}*/
+function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
+  currentSection = section;
+  currentPage = page;
+
+  if (mobileMedia.matches) {
+    mobileView = mobileTarget;
+  }
 
   renderAll();
   updateRouteInUrl();
@@ -48,6 +84,14 @@ function getPages(sectionKey) {
   }
 
   return Object.keys(content[sectionKey]);
+}
+
+function getVisiblePages(sectionKey) {
+  const content = getContent();
+
+  return getPages(sectionKey).filter(pageKey => {
+    return content[sectionKey][pageKey].hidden !== true;
+  });
 }
 
 function ensureValidState() {
@@ -141,10 +185,29 @@ function renderTopMenu() {
       item.classList.add("active");
     }
 
-    item.onclick = function () {
+   /* item.onclick = function () {
   const pages = getPages(sectionKey);
   navigateTo(sectionKey, pages.length ? pages[0] : "");
-};
+};*/
+    item.onclick = function () {
+    const pages = getVisiblePages(sectionKey);
+
+    if (pages.length === 1) {
+     navigateTo(
+       sectionKey,
+       pages[0],
+       true,
+       "content"
+     );
+   } else {
+     navigateTo(
+       sectionKey,
+       pages.length ? pages[0] : "",
+       true,
+       "menu"
+     );
+   }
+  };
 
     topMenu.appendChild(item);
   });
@@ -197,7 +260,22 @@ function renderContent() {
     return;
   }
 
-  let html = `<h2>${page.title || ""}</h2>`;
+  /*let html = `<h2>${page.title || ""}</h2>`;*/
+  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
+const hasSideMenu = getVisiblePages(currentSection).length > 1;
+
+let html = `
+  ${hasSideMenu ? `
+    <button
+      type="button"
+      class="mobile-menu-button"
+      onclick="showMobileMenu()">
+      ${menuLabel}
+    </button>
+  ` : ""}
+
+  <h2>${page.title || ""}</h2>
+`;
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
@@ -385,6 +463,7 @@ function renderAll() {
   renderTopMenu();
   renderSideMenu();
   renderContent();
+  updateMobileView();
 }
 
 function setLang(newLang) {
@@ -395,7 +474,7 @@ function setLang(newLang) {
 document.addEventListener("click", function (e) {
   const pageNav = e.target.closest("[data-page-nav]");
 
-  if (pageNav) {
+  /*if (pageNav) {
     currentPage = pageNav.dataset.pageNav;
 
     renderContent();
@@ -407,6 +486,14 @@ document.addEventListener("click", function (e) {
     });
 
     return;
+  }*/
+  if (pageNav) {
+   navigateTo(
+    currentSection,
+    pageNav.dataset.pageNav
+   );
+
+   return;
   }
 
   const link = e.target.closest("a[data-section][data-page]");
@@ -417,8 +504,10 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  currentSection = link.dataset.section;
-  currentPage = link.dataset.page;
+  navigateTo(
+    link.dataset.section,
+    link.dataset.page
+  );
 
   renderAll();
 
@@ -448,10 +537,29 @@ document.addEventListener("click", function (e) {
 });*/
 
 readRouteFromUrl();
+ensureValidState();
+
+if (mobileMedia.matches) {
+  const pages = getVisiblePages(currentSection);
+
+  if (window.location.hash || pages.length === 1) {
+    mobileView = "content";
+  } else {
+    mobileView = "menu";
+  }
+}
+
 renderAll();
 updateRouteInUrl();
 
 window.addEventListener("popstate", () => {
   readRouteFromUrl();
+
+  if (mobileMedia.matches) {
+    mobileView = "content";
+  }
+
   renderAll();
 });
+
+mobileMedia.addEventListener("change", updateMobileView);

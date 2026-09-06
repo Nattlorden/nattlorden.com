@@ -1,0 +1,3 @@
+I samband med informationsletande gällande Freja (Gudinnan) för sångidéer till [[Freyja (artist)]] så snubblande jag över dikten ["Frejas tårar"]() av [[Wilhelm von Braun]] och föll pladask för hans diktande och vidare efterforskning även hans gripande livsöde. Dessutom förbryllande nog nästa utan att någon tonsatt honom alls, så det fick inte förbli så.
+
+**Förlorade visor** är tänkt att kunna släppa annat material än **WvB** vid behov.

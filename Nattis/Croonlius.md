@@ -1,0 +1,1 @@
+Storbandsjazz och soul och liknande. **Croonlius** är storbandets ledare och sångare, men de tar även in gästvokalister.

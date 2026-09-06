@@ -1,6 +1,31 @@
 let lang = "sv";
 let currentSection = "garden";
 let currentPage = "about";
+const mobileMedia = window.matchMedia("(max-width: 768px)");
+
+/*let mobileView =
+  mobileMedia.matches && window.location.hash
+    ? "content"
+    : "menu";*/
+let mobileView = "menu";
+
+function updateMobileView() {
+  document.body.classList.toggle(
+    "mobile-menu-view",
+    mobileMedia.matches && mobileView === "menu"
+  );
+
+  document.body.classList.toggle(
+    "mobile-content-view",
+    mobileMedia.matches && mobileView === "content"
+  );
+}
+
+function showMobileMenu() {
+  mobileView = "menu";
+  updateMobileView();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
 
 function readRouteFromUrl() {
   const hash = window.location.hash.slice(1);
@@ -20,9 +45,25 @@ function updateRouteInUrl() {
   }
 }
 
-function navigateTo(section, page, scrollToTop = true) {
+/* function navigateTo(section, page, scrollToTop = true) {
   currentSection = section;
   currentPage = page;
+
+  renderAll();
+  updateRouteInUrl();
+
+  if (scrollToTop) {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+} */
+
+  function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
+  currentSection = section;
+  currentPage = page;
+
+  if (mobileMedia.matches) {
+    mobileView = mobileTarget;
+  }
 
   renderAll();
   updateRouteInUrl();
@@ -46,6 +87,14 @@ function getPages(sectionKey) {
     return [];
   }
   return Object.keys(content[sectionKey]);
+}
+
+function getVisiblePages(sectionKey) {
+  const content = getContent();
+
+  return getPages(sectionKey).filter(pageKey => {
+    return content[sectionKey][pageKey].hidden !== true;
+  });
 }
 
 function ensureValidState() {
@@ -115,9 +164,36 @@ function renderTopMenu() {
       item.classList.add("active");
     }
 
-    item.onclick = function () {
+  /*  item.onclick = function () {
   navigateTo(sectionKey, getPages(sectionKey)[0]);
-};
+};*/
+  /*  item.onclick = function () {
+      navigateTo(
+        sectionKey,
+        getPages(sectionKey)[0],
+        true,
+        "menu"
+      );
+    };*/
+    item.onclick = function () {
+    const pages = getVisiblePages(sectionKey);
+
+    if (pages.length === 1) {
+      navigateTo(
+       sectionKey,
+       pages[0],
+       true,
+       "content"
+      );
+    } else {
+      navigateTo(
+        sectionKey,
+        pages[0],
+        true,
+        "menu"
+      );
+   }
+  };
 
     topMenu.appendChild(item);
   });
@@ -270,20 +346,46 @@ function renderContent() {
     return;
   }
 
+  /*let html = `<h2>${page.title}</h2>`;*/
+  /*const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
+
+  let html = `
+    <button
+      type="button"
+      class="mobile-menu-button"
+      onclick="showMobileMenu()">
+      ${menuLabel}
+    </button>
+
+    <h2>${page.title}</h2>
+  `;*/
   try {
-    let html = `<h2>${page.title || ""}</h2>`;
+  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
+  const hasSideMenu = getVisiblePages(currentSection).length > 1;
 
-    if (page.blocks && Array.isArray(page.blocks) && page.blocks.length > 0) {
-      page.blocks.forEach(block => {
-        if (!block || !block.type) return;
+  let html = `
+   ${hasSideMenu ? `
+     <button
+       type="button"
+       class="mobile-menu-button"
+       onclick="showMobileMenu()">
+       ${menuLabel}
+     </button>
+   ` : ""}
 
-        if (block.type === "text") {
-          html += `
-            <div class="text-block">
-              ${block.content || ""}
-            </div>
-          `;
-        }
+   <h2>${page.title}</h2>
+  `;
+
+
+  if (page.blocks && page.blocks.length > 0) {
+    page.blocks.forEach(block => {
+      if (block.type === "text") {
+        html += `
+          <div class="text-block">
+            ${block.content}
+          </div>
+        `;
+      }
 
         if (block.type === "image") {
           const imageSize = block.size ? `image-${block.size}` : "image-full";
@@ -376,6 +478,7 @@ function renderAll() {
   renderTopMenu();
   renderSideMenu();
   renderContent();
+  updateMobileView();
 }
 
 function setLang(newLang) {
@@ -396,10 +499,29 @@ document.addEventListener("click", function (e) {
 });
 
 readRouteFromUrl();
+ensureValidState();
+
+if (mobileMedia.matches) {
+  const pages = getVisiblePages(currentSection);
+
+  if (window.location.hash || pages.length === 1) {
+    mobileView = "content";
+  } else {
+    mobileView = "menu";
+  }
+}
+
 renderAll();
 updateRouteInUrl();
 
 window.addEventListener("popstate", () => {
   readRouteFromUrl();
+
+  if (mobileMedia.matches) {
+    mobileView = "content";
+  }
+
   renderAll();
 });
+
+mobileMedia.addEventListener("change", updateMobileView);
