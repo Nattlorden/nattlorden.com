@@ -2,6 +2,31 @@ let biographyData = null;
 let allNotesByTitle = new Map();
 let notesByTitle = new Map();
 
+const mobileMedia = window.matchMedia("(max-width: 768px)");
+let mobileView = "menu";
+
+function updateMobileView() {
+  document.body.classList.toggle(
+    "mobile-menu-view",
+    mobileMedia.matches && mobileView === "menu"
+  );
+
+  document.body.classList.toggle(
+    "mobile-content-view",
+    mobileMedia.matches && mobileView === "content"
+  );
+}
+
+function showMobileNoteList() {
+  mobileView = "menu";
+  updateMobileView();
+
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+}
+
 const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
 
 if (hasFriendAccess()) {
@@ -52,13 +77,26 @@ async function loadBiography() {
 
   renderNoteList();
 
-  const requestedTitle = decodeURIComponent(
-    location.hash.substring(1)
-  );
+const requestedTitle = decodeURIComponent(
+  location.hash.substring(1)
+);
 
-  if (requestedTitle && notesByTitle.has(requestedTitle)) {
-    showNote(requestedTitle);
-  }
+if (
+  mobileMedia.matches &&
+  requestedTitle &&
+  notesByTitle.has(requestedTitle)
+) {
+  mobileView = "content";
+}
+else if (mobileMedia.matches) {
+  mobileView = "menu";
+}
+
+if (requestedTitle && notesByTitle.has(requestedTitle)) {
+  showNote(requestedTitle);
+}
+
+updateMobileView();
 }
 
 function renderNoteList() {
@@ -90,6 +128,10 @@ function showNote(title) {
     return;
   }
 
+  if (mobileMedia.matches) {
+  mobileView = "content";
+}
+
   location.hash = encodeURIComponent(title);
 
   document.querySelectorAll(".note-list button").forEach(button => {
@@ -102,6 +144,14 @@ function showNote(title) {
   const content = document.getElementById("content");
 
   content.innerHTML = "";
+
+  const menuButton = document.createElement("button");
+  menuButton.type = "button";
+  menuButton.className = "mobile-menu-button";
+  menuButton.innerHTML = "&larr; Anteckningar";
+  menuButton.addEventListener("click", showMobileNoteList);
+
+  content.appendChild(menuButton);
 
   const heading = document.createElement("h1");
   heading.textContent = note.title;
@@ -132,6 +182,8 @@ function showNote(title) {
   content.appendChild(
     renderRelations(note)
   );
+
+  updateMobileView();
 }
 
 function renderProperties(properties) {
@@ -525,6 +577,10 @@ window.addEventListener("hashchange", () => {
   if (notesByTitle.has(title)) {
     showNote(title);
   }
+  else if (mobileMedia.matches && !title) {
+    mobileView = "menu";
+    updateMobileView();
+  }
 });
 
 loadBiography().catch(error => {
@@ -533,3 +589,5 @@ loadBiography().catch(error => {
   document.getElementById("content").innerHTML =
     `<p>Kunde inte läsa biografidata.</p>`;
 });
+
+mobileMedia.addEventListener("change", updateMobileView);
