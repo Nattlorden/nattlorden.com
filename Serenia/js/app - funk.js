@@ -3,27 +3,6 @@ let currentSection = "world";
 let currentPage = "overview";
 let lastAlbumPage = null;
 
-const mobileMedia = window.matchMedia("(max-width: 768px)");
-let mobileView = "menu";
-
-function updateMobileView() {
-  document.body.classList.toggle(
-    "mobile-menu-view",
-    mobileMedia.matches && mobileView === "menu"
-  );
-
-  document.body.classList.toggle(
-    "mobile-content-view",
-    mobileMedia.matches && mobileView === "content"
-  );
-}
-
-function showMobileMenu() {
-  mobileView = "menu";
-  updateMobileView();
-  window.scrollTo({ top: 0, behavior: "smooth" });
-}
-
 const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
 
 if (hasFriendAccess()) {
@@ -48,24 +27,9 @@ function updateRouteInUrl() {
   }
 }
 
-/* function navigateTo(section, page, scrollToTop = true) {
+function navigateTo(section, page, scrollToTop = true) {
   currentSection = section;
   currentPage = page;
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-} */
-function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
-  currentSection = section;
-  currentPage = page;
-
-  if (mobileMedia.matches) {
-    mobileView = mobileTarget;
-  }
 
   renderAll();
   updateRouteInUrl();
@@ -89,15 +53,6 @@ function getPages(sectionKey) {
     return [];
   }
   return Object.keys(content[sectionKey]);
-}
-
-function getVisiblePages(sectionKey) {
-  const content = getContent();
-
-  return getPages(sectionKey).filter(pageKey => {
-    const page = content?.[sectionKey]?.[pageKey];
-    return page && page.hidden !== true;
-  });
 }
 
 function ensureValidState() {
@@ -143,53 +98,15 @@ function renderTopMenu() {
       item.classList.add("active");
     }
 
-  /* item.onclick = function () {
+   item.onclick = function () {
   navigateTo(
     sectionKey,
     getPages(sectionKey)[0]
   );
-};*/
-    item.onclick = function () {
-    const pages = getVisiblePages(sectionKey);
-
-    if (pages.length === 1) {
-      navigateTo(
-       sectionKey,
-       pages[0],
-       true,
-       "content"
-     );
-   } else {
-      navigateTo(
-       sectionKey,
-       pages[0],
-       true,
-       "menu"
-     );
-    }
-    };
+};
 
     topMenu.appendChild(item);
   });
-}
-
-function getMobileMenuButtonHtml() {
-  const hasSideMenu = getVisiblePages(currentSection).length > 1;
-
-  if (!hasSideMenu) {
-    return "";
-  }
-
-  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
-
-  return `
-    <button
-      type="button"
-      class="mobile-menu-button"
-      onclick="showMobileMenu()">
-      ${menuLabel}
-    </button>
-  `;
 }
 
 function renderSideMenu() {
@@ -407,11 +324,7 @@ function renderContent() {
   // 1. Albumsidor
   if (currentSection === "music" && musicData.albums[currentPage]) {
     const album = musicData.albums[currentPage];
-    /*let html = `<h2>${page.title}</h2>`;*/
-    let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title}</h2>
-    `;
+    let html = `<h2>${page.title}</h2>`;
 
     if (page.intro) {
       html += `
@@ -446,11 +359,7 @@ function renderContent() {
 
   // 2. L�tsidor med lyrics
   if (currentSection === "music" && page.lyrics) {
-    /*let html = `<h2>${page.title}</h2>`;*/
-    let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title}</h2>
-    `;
+    let html = `<h2>${page.title}</h2>`;
     let backButton = "";
 
     if (lastAlbumPage) {
@@ -498,11 +407,7 @@ function renderContent() {
 
   // 3. Timelinesidor
   if (page.timeline && page.timeline.length > 0) {
-    /*let html = `<h2>${page.title}</h2>`;*/
-    let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title}</h2>
-    `;
+    let html = `<h2>${page.title}</h2>`;
 
     if (page.text) {
       html += `<div class="text-block">${page.text}</div>`;
@@ -524,11 +429,7 @@ function renderContent() {
 
     // 4. Kapitelsidor
   if (page.pageType === "chapter" && page.chapter) {
-    /* let html = renderChapter(page); */
-      let html = `
-    ${getMobileMenuButtonHtml()}
-    ${renderChapter(page)}
-  `;
+    let html = renderChapter(page);
 
     if (page.showPlaceholder !== false) {
       html += `
@@ -544,11 +445,7 @@ function renderContent() {
 
   // 5. Vanliga sidor
 
-  /*  let html = `<h2>${page.title}</h2>`;*/
-  let html = `
-   ${getMobileMenuButtonHtml()}
-  <h2>${page.title}</h2>
-  `;
+    let html = `<h2>${page.title}</h2>`;
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
@@ -847,7 +744,6 @@ function renderAll() {
   renderTopMenu();
   renderSideMenu();
   renderContent();
-  updateMobileView();
 }
 
 function setLang(newLang) {
@@ -876,29 +772,11 @@ document.addEventListener("click", function (e) {
 });
 
 readRouteFromUrl();
-ensureValidState();
-
-if (mobileMedia.matches) {
-  const pages = getVisiblePages(currentSection);
-
-  if (window.location.hash || pages.length === 1) {
-    mobileView = "content";
-  } else {
-    mobileView = "menu";
-  }
-}
 
 renderAll();
 updateRouteInUrl();
 
 window.addEventListener("popstate", () => {
   readRouteFromUrl();
-
-  if (mobileMedia.matches) {
-    mobileView = "content";
-  }
-
   renderAll();
 });
-
-mobileMedia.addEventListener("change", updateMobileView);
