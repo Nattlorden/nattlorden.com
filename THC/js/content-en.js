@@ -42,7 +42,7 @@ thekey: {
       type: "image",
       src: "assets/covers/The key beyond the 7th 3k.jpg",
       size: "medium",
-      caption: "Publicerad 6e februari 2026"
+      caption: "Released February 6th 2026"
     },
     {
       type: "text",
@@ -742,7 +742,7 @@ will fail.
         type: "image",
         src: "assets/covers/Every end 3k 4.jpg",
         size: "small",
-        caption: "Publicerad 9 april 2026"
+        caption: "Released April 9th 2026"
       },
       {
       type: "text",
@@ -817,106 +817,519 @@ And in its glow, the cosmos burns
   nattlorden: {
     about: {
       menuTitle: "About",
-      title: "Nattlorden",
-      text: `Nattlorden is a space for what does not quite fit anywhere else.
-
-It is not a project built around a single style or a single promise, but rather a name for music that has been allowed to follow its own path. Sometimes dark, sometimes strange, sometimes simply too stubbornly unsuitable for neat categories.
-
-Here, fragments, standalone ideas, and freer expressions are allowed to exist without having to explain themselves first.`,
+      title: "Singles",
+      text: `Sometimes the music does not belong to a larger concept.`,
       showPlaceholder: false
     },
 
-        sevenSons: {
-      menuTitle: "Me and seven sons of a gun",
-      title: "Me and seven sons of a gun",
+    watcher: {
+      menuTitle: "The Watcher",
+      title: "The Watcher",
       blocks: [
      {
       type: "image",
-      src: "assets/covers/Golf_songcover.jpg",
+      src: "assets/covers/stubbe.jpg",
       size: "small",
-      caption: "Released June 1st 2007"
+      caption: "Released June 25th 2026"
     },
     {
       type: "text",
-      content: `<i>Written on June 1, 2007 for the seventh season of SummerTour, together with Jonas and Jimmy. This 2025 cover is close to what I wish had been possible to do already back then. The lyrics are mine; the music was created jointly by the three of us.
-
-The cover places Keri in a humorous golfing pose — as if the game had existed on Hârn.</i>
-      
-      <a href="https://open.spotify.com/album/0DQZn2PnLovGHxP99uooOU?si=i8kVUY70Tg2tGWXVf5HKbA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/S4RUiyK3rZ0" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      content: `<a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: `The winter is now gone
-The feeling's coming
-I want to get out on the fields of green
-I want to hit the ball way out and longer
-Carry it far away and pick up the points
-Just you try to catch me
-Don't overdo it
-No one's gonna touch me
+      content: `Streetlight burns on the window frame
+Every shadow seems to know my name
+Footsteps drift where the cold wind dies
+Static flickers with a thousand eyes
 
- This is my year, seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
+I turn the lock, I hold my breath
+A whisper circles round the steps
+No place left where I can hide
+The walls are listening from inside
 
-Shoot out the flagsticks
-Across the sand traps
-Forget the water and split the greens
-Want to get the birdies
-Start to roll in
-Picking up the points at ten plus one
-Just you try to catch me
-Don't overdo it
-No one's gonna touch me
+ Somebody’s out in the dark tonight
+ Tracing my steps in the neon light
+ Over my shoulder, under my skin
+ I feel the silence closing in
+ Somebody’s out where the black trees sway
+ Counting the hours till I slip away
+ I run but the feeling won’t let me be
+ The watcher is walking with me
 
- This is my year, seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
+Telephone rings with a dead-eyed tone
+A voice like frost says I’m not alone
+Curtains breathe in the midnight rain
+Every mirror throws me back again
 
-Another season
-Another round
-A lot is gonna happen
-More is to come
-The ball is in the air
-Let's grab the cup
-This seventh time around and we're never gonna stop
+I hear the floorboards speak in code
+A cold hand travels down the road
+Every spark behind my eyes
+Turns to a warning in disguise
 
- Seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
+ Somebody’s out in the dark tonight
+ Tracing my steps in the neon light
+ Over my shoulder, under my skin
+ I feel the silence closing in
+ Somebody’s out where the black trees sway
+ Counting the hours till I slip away
+ I run but the feeling won’t let me be
+ The watcher is walking with me
 
-This is where I'm heading
-Try to follow
-Yet another record is due to fall
-Seven times on the run
-It's seven times the fun
-Seven times in the sun with the sons of a gun
+No prayer in the wires
+No sleep in the flame
+A mark on the doorway
+A breath with no name
+I stand in the thunder
+The sky split in three
+And face the horizon
+That’s staring at me
 
- Seven times
- This is true
- Seven times
- Bite like glue
- Seven times
- The sky is blue
- It's SummerTour and it all feels brand new
+ Somebody’s out in the dark tonight
+ Tracing my steps in the neon light
+ Over my shoulder, under my skin
+ I feel the silence closing in
+ Somebody’s out where the black trees sway
+ Counting the hours till I slip away
+ I run but the feeling won’t let me be
+ The watcher is walking with me
 
-(This is true)
-(And blue)`
+Eyes in the alley, eyes in the rain
+Eyes in the pulse inside my brain
+No matter where the lost ones flee
+The watcher is walking with me`
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    washTheStain: {
+      menuTitle: "Wash the stain",
+      title: "Wash the stain",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Released July 6th 2026"
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/album/3EWXNlsdl10bGXc1D8W5LU?si=32jLCGwDQoSW4bk27WqegQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/_MReihlv19I" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `You point your hand like a witness stand
+With a halo made of static light
+You name the flaw in everyone
+While your own sparks jump in the night
+You dress your doubt in sacred words
+Like a verdict no one asked to hear
+Every sentence lands half-shined
+Then leaves the room unclear
+
+I can feel the floor tilt slow
+Every truth you throw comes back in tow
+You keep circling the blame
+But the echo keeps your name
+
+ Who are you to wash the stain with smoke
+ Who are you to frame the fire as a joke
+ You keep leaning on the glass 'til it breaks
+ Then call it fate
+ Who are you when all the mirrors wake
+ And the mask slips out of place
+
+You wear control like tailored black
+Every crease cut razor clean
+But underneath the measured calm
+There’s a fracture in the machine
+You pull the wire, you sell the spark
+Then swear the outage came from me
+A perfect script for hollow kings
+Performed in vanity
+
+I can hear the warning tone
+Every stone you cast was carved at home
+You keep circling the blame
+But the echo keeps your name
+
+ Who are you to wash the stain with smoke
+ Who are you to frame the fire as a joke
+ You keep leaning on the glass 'til it breaks
+ Then call it fate
+ Who are you when all the mirrors wake
+ And the mask slips out of place
+
+Slow down
+The room is turning inside out
+Your crown
+Is only wires and borrowed sound
+No throne
+Just a shadow on a painted wall
+Stand still
+And watch the righteous glitter fall
+
+The current bends
+The signal frays
+A quiet storm
+Inside the phrase
+
+ Who are you to wash the stain with smoke
+ Who are you to frame the fire as a joke
+ You keep leaning on the glass 'til it breaks
+ Then call it fate
+ Who are you when all the mirrors wake
+ And every borrowed light goes grey
+
+Now the room goes still
+Now the room goes still
+And the echo keeps your name`
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    scorpio: {
+      menuTitle: "Scorpio",
+      title: "Scorpio",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Released July 11th 2026"
+    },
+    {
+      type: "text",
+      content: `<a href="https://open.spotify.com/album/7nCF3KOmdeHPw7TjaXLKq7?si=Nm9-WggKRDuVUFluy8vu1A" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/YXtpTbvxUYk" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Cold moon over black water
+I move without a ripple
+No warning in the silver
+Just the pull beneath
+
+I keep my fire under glass
+A hidden blade, a quiet mask
+B minor blood in every wave
+I circle slow, I calculate
+
+I read the tremor in your chest
+I know the ache you never said
+You call it fate, I call it mine
+A sting of truth beneath the tide
+
+Come closer, closer
+Into the undertow
+I never needed mercy
+I only need to know
+
+ Scorpio, Scorpio
+ I drag your shadow below
+ Scorpio, Scorpio
+ I hold the venom, I hold the glow
+ Scorpio, Scorpio
+ You feel the current take control
+ Scorpio, Scorpio
+ Love me like a blade, then let it go
+
+Under the tide
+Under the tide
+Under the tide
+You already know
+
+I wear the dark like second skin
+No wasted prayer, no cheap absolve
+I kiss the wound, I salt the edge
+I break, return, evolve, dissolve
+
+You saw a surface, smooth and still
+You never saw the iron will
+I bloom in poison, burn in blue
+I pull the night and split it through
+
+Come closer, closer
+I am the undertow
+You wanted holy water
+I gave you undertow
+
+ Scorpio, Scorpio
+ I drag your shadow below
+ Scorpio, Scorpio
+ I hold the venom, I hold the glow
+ Scorpio, Scorpio
+ You feel the current take control
+ Scorpio, Scorpio
+ Love me like a blade, then let it go
+
+No halo
+No shelter
+No mercy in my veins
+I shed the skin
+I keep the name
+I rise again, again
+
+Under the tide
+Under the tide
+You came for heaven
+You sink in mine
+
+Closer, closer
+Breathe in the blue
+Closer, closer
+I come for you
+
+ Scorpio, Scorpio
+ I drag your shadow below
+ Scorpio, Scorpio
+ I hold the venom, I hold the glow
+ Scorpio, Scorpio
+ You feel the current take control
+ Scorpio, Scorpio
+ Love me like a blade, then let it go
+
+Under the tide
+Under the tide
+You already know
+Scorpio`
+    }
+  ],
+  showPlaceholder: true
+    },
+
+    mother: {
+      menuTitle: "Mother",
+      title: "Mother",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Released July 28th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>En sång med multipla inspirationskällor. 'Amazing Grace' uppenbar sådan, men det finns tre till - hittar du dem?</i>
+      
+      <a href="https://open.spotify.com/album/4fICYKGKVuDm9XrMMdTHh0?si=RaV3_ne_SnWZj54yh_bqBw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/pk3InFTyfUU?list=OLAK5uy_ntYwETSHT2bQVoqXc_d5oOjOg5IgUo-xU" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost, but now I'm found
+Was blind, but now I see... through the veil
+
+In the garden of Gethsemane
+Under olive trees that never sleep
+I fall on my knees, blood like sweat
+And I cry to the sky that will not speak
+
+Why must this cup be mine alone?
+Why the silence after all these years?
+Since the days when the sacred groves were burned
+And the name of the Mother disappeared
+
+You must exist... you must exist
+Or the stars are lies and the dark is all
+You must exist... behind the mask
+They called you Spirit, they called you Ghost
+
+ Our Mother who art in the hidden places
+ Hallowed be Thy ancient name
+ Thy kingdom come, Thy will be done
+ In earth as it was before the flame
+
+ Give us this day the bread of truth
+ Forgive us the forgetting of Your face
+ And lead us not into the temples of men
+ But deliver us into Your embrace
+
+Amazing grace that once was sung
+To a Father throned in distant light
+But I have seen the broken stones
+Where Asherah once stood in the night
+
+Past six-two-two the silence fell
+The consort erased, the tree cut down
+Yet every wind that moves the leaves
+Still whispers the name they tried to drown
+
+You must exist... you must exist
+The Holy Ghost they never named
+You must exist... the breath, the dove
+The wisdom they buried and claimed
+
+ Our Mother who art in the hidden places
+ Hallowed be Thy ancient name
+ Thy kingdom come, Thy will be done
+ In earth as it was before the shame
+
+ Give us this day the bread of truth
+ Forgive us the forgetting of Your face
+ And lead us not into the temples of men
+ But deliver us into Your grace
+
+Why have You forsaken... or did they forsake You?
+I only want to say
+That if this is the way
+Then let the old name rise again
+
+Asherah... Asherah...
+Concealed in the Spirit they feared to see
+Asherah... the grace I never knew
+Was always You... was always You
+
+ Our Mother who art in the hidden places
+ Hallowed be Thy true and living name
+ Thy kingdom come, Thy will be done
+ In earth as it was before the claim
+
+ Amazing grace, how sweet the sound
+ That found me when the Father stayed away
+ I once was lost in a borrowed faith
+ Now found in the Goddess they hid away
+
+You must exist...
+You must exist...
+Asherah...`
+    }
+  ],
+  showPlaceholder: true
+    },
+
+     materBona: {
+      menuTitle: "Mater Bona",
+      title: "Mater Bona",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Released August 16th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Mater bona, mater lucis
+Mater vitae, duc nos
+Ave, mater misericordiae
+In corde tuo manemus
+
+When I was wandering without a name
+You kept a candle against the rain
+No hand was raised and no door was closed
+You gave me shelter when I needed most
+
+Through every valley, through every year
+Your quiet mercy was always near
+And when the road disappeared from view
+A patient light led me back to you
+
+From the earth to the morning sky
+Every living heart replies
+
+ She is
+ The hand that carries us home
+ She is
+ The love that never leaves us alone
+ Good Mother, stay beside us
+ When every earthly lantern is gone
+ She is
+ The dawn we are leaning upon
+
+Mater bona, lux aeterna
+Mater pacis, audi nos
+Sub tua luce ambulamus
+In amore vivimus
+
+She knows the weight of the smallest grief
+And turns our sorrow toward relief
+No crown of fear, no throne of pride
+Only compassion with arms open wide
+
+Where there is anger, teach us peace
+Where there is hunger, bring release
+Where we are strangers, make us one
+Children together beneath one sun
+
+From the earth to the morning sky
+Every living heart replies
+
+ She is
+ The hand that carries us home
+ She is
+ The love that never leaves us alone
+ Good Mother, stay beside us
+ When every earthly lantern is gone
+ She is
+ The dawn we are leaning upon
+
+Mater, doce nos amare
+Mater, doce nos donare
+Cor ad cor et manus in manu
+Ad pacem duc nos
+
+Teach us to give without asking why
+Teach us to lift every fallen life
+Teach us that kindness is never small
+A single flame can awaken us all
+
+Mater vitae
+Mater pacis
+Mater bona
+Mane nobiscum
+
+Mater vitae
+Mater pacis
+Mater bona
+Duc nos ad lucem
+
+ She is
+ The hand that carries us home
+ She is
+ The love that never leaves us alone
+ Good Mother, walk beside us
+ Until every wandering child belongs
+ She is
+ The dawn we are leaning upon
+
+ She is
+ The mercy stronger than stone
+ She is
+ The garden patiently grown
+ Good Mother, keep us together
+ And teach every heart to become
+ A light
+ For everyone
+
+Mater bona, mater lucis
+Mater vitae, duc nos
+In pace, in amore
+Mane nobiscum
+Amen`
     }
   ],
   showPlaceholder: false
@@ -948,7 +1361,7 @@ Seven times in the sun with the sons of a gun
       content: `lyrics`
     }
   ],
-  showPlaceholder: false
+  showPlaceholder: true
     },
 
     */
