@@ -1,9 +1,15 @@
 const sectionLabels = {
   sv: {
-    about: "Nattlorden"
+    about: "Generellt",
+    deep: "Djupdykning",
+    mindmap: "Mind map",
+    contact: "Kontakt"
   },
   en: {
-    about: "Nattlorden"
+    about: "Generally",
+    deep: "Deep dive",
+    mindmap: "Mind map",
+    contact: "Contact"
   }
 };
 
@@ -15,10 +21,26 @@ const siteMeta = {
 
     sections: {
       about: {
-        title: "Nattlorden",
+        title: "Generellt",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      deep: {
+        title: "Djupdykning",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      mindmap: {
+        title: "Mind map",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      contact: {
+        title: "Kontakt",
         tagline: "Personligt och kontakt",
         headerClass: "header-about"
       }
+
     }
   },
 
@@ -29,10 +51,26 @@ const siteMeta = {
 
     sections: {
       about: {
-        title: "Nattlorden",
-        tagline: "Personal and contact",
-        headerClass: "header-abiout"
+        title: "Generelly",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      deep: {
+        title: "Deep dive",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      mindmap: {
+        title: "Mind map",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      contact: {
+        title: "Contact",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
       }
+
     }
   }
 };

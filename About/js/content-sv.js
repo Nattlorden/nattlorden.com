@@ -38,7 +38,10 @@ Motionera mer borde jag väl också.`
     }
   ],
       showPlaceholder: false
-    },
+    }
+  },
+
+  deep:{
 
     deepdive: {
       menuTitle: "Djupdykning",
@@ -47,9 +50,11 @@ Motionera mer borde jag väl också.`
       
       Det kanske blir sammanfattat i biografisk form någon vacker dag?`,
       showPlaceholder: false
-    },
+    }
+  },
 
-    contact: {
+  contact:{
+    cont: {
       menuTitle: "Kontakt",
       title: "Kontakt",
       text: `Vill du kontakta mig via e-post får du lösa upp nedanstående:

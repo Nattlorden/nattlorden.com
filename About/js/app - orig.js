@@ -2,16 +2,13 @@ let lang = "sv";
 let currentSection = "about";
 let currentPage = "about";
 
-
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
 
-
 function getSections() {
   return Object.keys(getContent());
 }
-
 
 function getPages(sectionKey) {
   const content = getContent();
@@ -22,14 +19,6 @@ function getPages(sectionKey) {
 
   return Object.keys(content[sectionKey]);
 }
-
-
-function getPage(sectionKey, pageKey) {
-  const content = getContent();
-
-  return content?.[sectionKey]?.[pageKey] || null;
-}
-
 
 function ensureValidState() {
   const sections = getSections();
@@ -56,7 +45,6 @@ function ensureValidState() {
   }
 }
 
-
 function updateLanguageButtons() {
   const btnSV = document.getElementById("btn-sv");
   const btnEN = document.getElementById("btn-en");
@@ -68,7 +56,6 @@ function updateLanguageButtons() {
   btnSV.classList.toggle("active", lang === "sv");
   btnEN.classList.toggle("active", lang === "en");
 }
-
 
 function updateTagline() {
   const tagline = document.getElementById("tagline");
@@ -86,7 +73,6 @@ function updateTagline() {
   document.documentElement.lang = lang;
 }
 
-
 function updateTheme() {
   if (!currentSection) {
     document.body.removeAttribute("data-theme");
@@ -96,30 +82,21 @@ function updateTheme() {
   document.body.dataset.theme = currentSection;
 }
 
-
 function updateHeaderStyle() {
   const header = document.getElementById("siteHeader");
-
-  if (!header) {
-    return;
-  }
+  if (!header) return;
 
   header.className = "site-header";
 
   const meta = siteMeta?.[lang]?.sections?.[currentSection];
-
   if (meta?.headerClass) {
     header.classList.add(meta.headerClass);
   }
 }
 
-
 function renderTopMenu() {
   const topMenu = document.getElementById("topMenu");
-
-  if (!topMenu) {
-    return;
-  }
+  if (!topMenu) return;
 
   topMenu.innerHTML = "";
 
@@ -128,91 +105,67 @@ function renderTopMenu() {
   sections.forEach(sectionKey => {
     const item = document.createElement("div");
     item.className = "top-menu-item";
-    item.textContent =
-      sectionLabels?.[lang]?.[sectionKey] || sectionKey;
+    item.textContent = sectionLabels?.[lang]?.[sectionKey] || sectionKey;
 
     if (sectionKey === currentSection) {
       item.classList.add("active");
     }
 
     item.onclick = function () {
-      const pages = getVisiblePages(sectionKey);
+      currentSection = sectionKey;
 
-      if (pages.length === 1) {
-        navigateTo(
-          sectionKey,
-          pages[0],
-          true,
-          "content"
-        );
-      }
-      else {
-        navigateTo(
-          sectionKey,
-          pages.length ? pages[0] : "",
-          true,
-          "menu"
-        );
-      }
+      const pages = getPages(sectionKey);
+      currentPage = pages.length ? pages[0] : "";
+
+      renderAll();
+      window.scrollTo({ top: 0, behavior: "smooth" });
     };
 
     topMenu.appendChild(item);
   });
 }
 
-
 function renderSideMenu() {
   const sideMenu = document.getElementById("sideMenu");
-
-  if (!sideMenu) {
-    return;
-  }
+  if (!sideMenu) return;
 
   sideMenu.innerHTML = "";
 
-  const pages = getVisiblePages(currentSection);
+  const content = getContent();
+  const pages = getPages(currentSection);
 
   pages.forEach(pageKey => {
-    const page = getPage(currentSection, pageKey);
+    const page = content?.[currentSection]?.[pageKey];
 
-    if (!page) {
+    if (!page || page.hidden === true) {
       return;
     }
 
     const item = document.createElement("div");
     item.className = "side-menu-item";
-    item.textContent =
-      page.menuTitle ||
-      page.title ||
-      pageKey;
+    item.textContent = page.menuTitle || page.title || pageKey;
 
     if (pageKey === currentPage) {
       item.classList.add("active");
     }
 
     item.onclick = function () {
-      navigateTo(
-        currentSection,
-        pageKey
-      );
+      currentPage = pageKey;
+      renderContent();
+      renderSideMenu();
+      window.scrollTo({ top: 0, behavior: "smooth" });
     };
 
     sideMenu.appendChild(item);
   });
 }
 
-
 function renderContent() {
   const main = document.getElementById("content");
+  if (!main) return;
 
-  if (!main) {
-    return;
-  }
-
-  const page = getPage(
-    currentSection,
-    currentPage
-  );
+  const content = getContent();
+  const page = content?.[currentSection]?.[currentPage] || null;
 
   if (!page) {
     main.innerHTML = `
@@ -222,14 +175,10 @@ function renderContent() {
     return;
   }
 
-  let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title || ""}</h2>
-  `;
+  let html = `<h2>${page.title || ""}</h2>`;
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
-
       if (block.type === "text") {
         html += `
           <div class="text-block">
@@ -239,22 +188,12 @@ function renderContent() {
       }
 
       if (block.type === "image") {
-        const imageSize =
-          block.size
-            ? `image-${block.size}`
-            : "image-full";
+        const imageSize = block.size ? `image-${block.size}` : "image-full";
 
         html += `
           <figure class="image-block ${imageSize}">
-            <img
-              src="${block.src}"
-              alt="${block.alt || ""}"
-            >
-            ${
-              block.caption
-                ? `<figcaption>${block.caption}</figcaption>`
-                : ""
-            }
+            <img src="${block.src}" alt="${block.alt || ""}">
+            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
           </figure>
         `;
       }
@@ -263,9 +202,7 @@ function renderContent() {
         html += `<hr>`;
       }
     });
-  }
-  else {
-
+  } else {
     if (page.text) {
       html += `
         <div class="text-block">
@@ -278,12 +215,7 @@ function renderContent() {
       html += `<div class="image-gallery">`;
 
       page.images.forEach(src => {
-        html += `
-          <img
-            src="${src}"
-            alt=""
-          >
-        `;
+        html += `<img src="${src}" alt="">`;
       });
 
       html += `</div>`;
@@ -301,7 +233,6 @@ function renderContent() {
   main.innerHTML = html;
 }
 
-
 function renderAll() {
   ensureValidState();
   updateLanguageButtons();
@@ -311,21 +242,15 @@ function renderAll() {
   renderTopMenu();
   renderSideMenu();
   renderContent();
-  updateMobileView();
 }
-
 
 function setLang(newLang) {
   lang = newLang;
-
   renderAll();
 }
 
-
 document.addEventListener("click", function (e) {
-  const link = e.target.closest(
-    "a[data-section][data-page]"
-  );
+  const link = e.target.closest("a[data-section][data-page]");
 
   if (!link) {
     return;
@@ -333,11 +258,14 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  navigateTo(
-    link.dataset.section,
-    link.dataset.page
-  );
+  currentSection = link.dataset.section;
+  currentPage = link.dataset.page;
+
+  renderAll();
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
 });
 
-
-initCommonNavigation();
+renderAll();

@@ -407,8 +407,44 @@ body[data-theme="threshold"] {
   --button-text: #e8e8e8;
 }
 
-/* About – varm editoriell grund */
+/* About/about – varm editoriell grund */
 body[data-theme="about"] {
+  --bg: #f4f1ec;
+  --panel: #ebe5dc;
+  --border: #d2c8bb;
+  --text: #2b2b2b;
+  --text-soft: #3a3835;
+  --text-muted: #746d64;
+  --caption: #666057;
+  --meta: #7a7268;
+  --accent: #8a5a44;
+  --accent-hover: #6f4735;
+  --active: #8a5a44;
+  --side-active-bg: #e2d9cd;
+  --button-bg: #e3dbd0;
+  --button-text: #2b2b2b;
+  --font-main: Georgia, serif;
+}
+/* About/deep – varm editoriell grund */
+body[data-theme="deep"] {
+  --bg: #f4f1ec;
+  --panel: #ebe5dc;
+  --border: #d2c8bb;
+  --text: #2b2b2b;
+  --text-soft: #3a3835;
+  --text-muted: #746d64;
+  --caption: #666057;
+  --meta: #7a7268;
+  --accent: #8a5a44;
+  --accent-hover: #6f4735;
+  --active: #8a5a44;
+  --side-active-bg: #e2d9cd;
+  --button-bg: #e3dbd0;
+  --button-text: #2b2b2b;
+  --font-main: Georgia, serif;
+}
+/* About/contact – varm editoriell grund */
+body[data-theme="contact"] {
   --bg: #f4f1ec;
   --panel: #ebe5dc;
   --border: #d2c8bb;
@@ -585,4 +621,159 @@ body[data-theme="about"] .back-home img {
 
 body:not([data-theme="about"]) .back-home img {
   filter: brightness(0.9);
+}
+
+/* Deep specialjusteringar */
+body[data-theme="deep"] .tagline {
+  color: #6b645b;
+}
+
+body[data-theme="deep"] .lang-switch button {
+  background: #e3dbd0;
+  color: #2b2b2b;
+  border: 1px solid transparent;
+}
+
+body[data-theme="deep"] .lang-switch button:hover {
+  background: #d9d0c4;
+}
+
+body[data-theme="deep"] .lang-switch button.active {
+  border-color: #8a5a44;
+  color: #8a5a44;
+}
+
+body[data-theme="deep"] .top-menu-item:hover,
+body[data-theme="deep"] .side-menu-item:hover {
+  background: #efe8de;
+}
+
+body[data-theme="deep"] .top-menu-item.active {
+  color: #8a5a44;
+}
+
+body[data-theme="deep"] .side-menu-item.active {
+  background: #e2d9cd;
+}
+
+body[data-theme="deep"] a {
+  color: var(--accent);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+body[data-theme="deep"] a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+body[data-theme="deep"] .placeholder-box {
+  background: color-mix(in srgb, var(--panel) 92%, white 8%);
+  color: var(--text-muted);
+}
+
+body[data-theme="deep"] .back-home img {
+  filter: none;
+}
+
+body:not([data-theme="deep"]) .back-home img {
+  filter: brightness(0.9);
+}
+
+/* Contact specialjusteringar */
+body[data-theme="contact"] .tagline {
+  color: #6b645b;
+}
+
+body[data-theme="contact"] .lang-switch button {
+  background: #e3dbd0;
+  color: #2b2b2b;
+  border: 1px solid transparent;
+}
+
+body[data-theme="contact"] .lang-switch button:hover {
+  background: #d9d0c4;
+}
+
+body[data-theme="contact"] .lang-switch button.active {
+  border-color: #8a5a44;
+  color: #8a5a44;
+}
+
+body[data-theme="contact"] .top-menu-item:hover,
+body[data-theme="contact"] .side-menu-item:hover {
+  background: #efe8de;
+}
+
+body[data-theme="contact"] .top-menu-item.active {
+  color: #8a5a44;
+}
+
+body[data-theme="contact"] .side-menu-item.active {
+  background: #e2d9cd;
+}
+
+body[data-theme="contact"] a {
+  color: var(--accent);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+body[data-theme="contact"] a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+body[data-theme="contact"] .placeholder-box {
+  background: color-mix(in srgb, var(--panel) 92%, white 8%);
+  color: var(--text-muted);
+}
+
+body[data-theme="contact"] .back-home img {
+  filter: none;
+}
+
+body:not([data-theme="contact"]) .back-home img {
+  filter: brightness(0.9);
+}
+
+
+.mobile-menu-button {
+  display: none;
+}
+
+  /* Navigationsläge */
+  body.mobile-menu-view .side-menu {
+    display: block;
+  }
+
+  body.mobile-menu-view .content-area {
+    display: none;
+  }
+
+  /* Innehållsläge */
+  body.mobile-content-view .side-menu {
+    display: none;
+  }
+
+  body.mobile-content-view .content-area {
+    display: block;
+  }
+
+  body.mobile-content-view .mobile-menu-button {
+    display: inline-block;
+    margin: 0 0 18px 0;
+    padding: 7px 12px;
+
+    background: var(--button-bg);
+    color: var(--button-text);
+
+    border: 1px solid var(--border);
+    cursor: pointer;
+
+    font: inherit;
+  }
+
+  body.mobile-content-view .mobile-menu-button:hover {
+    color: var(--accent-hover);
+    border-color: var(--accent-hover);
+  }
 }
