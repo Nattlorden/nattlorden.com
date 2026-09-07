@@ -1,3 +1,6 @@
+---
+privat:
+---
 
 
 Vi hade planerat [[Madeleine Liljestam]] som solist, men då hon fick förhinder hittade vi [Linnéa Rigeblad](https://linnearigeblad.com) istället.
