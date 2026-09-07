@@ -21,7 +21,7 @@ Magnus Persson(?) - landskronavägen
 
 Magnus Lindholm - första gatan upp från Sandåker
 
-Christer NN
+Christer Åkesson
 
 Håkan Lindén
 
@@ -31,7 +31,7 @@ Camilla Olsson(?)
 
 Nina Jönsson
 
-( Charlott(e) NN ?? )
+Charlott(e) Siggelkow
 
 Pernilla Grundström
 
