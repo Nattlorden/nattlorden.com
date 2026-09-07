@@ -2,85 +2,16 @@ let lang = "sv";
 let currentSection = "general";
 let currentPage = "about";
 
-const mobileMedia = window.matchMedia("(max-width: 768px)");
-
-/*let mobileView =
-  mobileMedia.matches && window.location.hash
-    ? "content"
-    : "menu";*/
-let mobileView = "menu";
-
-function updateMobileView() {
-  document.body.classList.toggle(
-    "mobile-menu-view",
-    mobileMedia.matches && mobileView === "menu"
-  );
-
-  document.body.classList.toggle(
-    "mobile-content-view",
-    mobileMedia.matches && mobileView === "content"
-  );
-}
-
-function showMobileMenu() {
-  mobileView = "menu";
-  updateMobileView();
-  window.scrollTo({ top: 0, behavior: "smooth" });
-}
-
-function readRouteFromUrl() {
-  const hash = window.location.hash.slice(1);
-  if (!hash) return;
-
-  const [section, page] = hash.split("/");
-
-  if (section) currentSection = decodeURIComponent(section);
-  if (page) currentPage = decodeURIComponent(page);
-}
-
-function updateRouteInUrl() {
-  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
-
-  if (window.location.hash.slice(1) !== route) {
-    history.pushState(null, "", `#${route}`);
-  }
-}
-
-/* function navigateTo(section, page, scrollToTop = true) {
-  currentSection = section;
-  currentPage = page;
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-} */
-
-  function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
-  currentSection = section;
-  currentPage = page;
-
-  if (mobileMedia.matches) {
-    mobileView = mobileTarget;
-  }
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-}
 
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
 
+
 function getSections() {
   return Object.keys(getContent());
 }
+
 
 function getPages(sectionKey) {
   const content = getContent();
@@ -92,13 +23,13 @@ function getPages(sectionKey) {
   return Object.keys(content[sectionKey]);
 }
 
-function getVisiblePages(sectionKey) {
+
+function getPage(sectionKey, pageKey) {
   const content = getContent();
 
-  return getPages(sectionKey).filter(pageKey => {
-    return content[sectionKey][pageKey].hidden !== true;
-  });
+  return content?.[sectionKey]?.[pageKey] || null;
 }
+
 
 function ensureValidState() {
   const sections = getSections();
@@ -125,6 +56,7 @@ function ensureValidState() {
   }
 }
 
+
 function updateLanguageButtons() {
   const btnSV = document.getElementById("btn-sv");
   const btnEN = document.getElementById("btn-en");
@@ -136,6 +68,7 @@ function updateLanguageButtons() {
   btnSV.classList.toggle("active", lang === "sv");
   btnEN.classList.toggle("active", lang === "en");
 }
+
 
 function updateTagline() {
   const tagline = document.getElementById("tagline");
@@ -152,6 +85,7 @@ function updateTagline() {
   document.documentElement.lang = lang;
 }
 
+
 function updateTheme() {
   if (!currentSection) {
     document.body.removeAttribute("data-theme");
@@ -161,21 +95,30 @@ function updateTheme() {
   document.body.dataset.theme = currentSection;
 }
 
+
 function updateHeaderStyle() {
   const header = document.getElementById("siteHeader");
-  if (!header) return;
+
+  if (!header) {
+    return;
+  }
 
   header.className = "site-header";
 
   const meta = siteMeta?.[lang]?.sections?.[currentSection];
+
   if (meta?.headerClass) {
     header.classList.add(meta.headerClass);
   }
 }
 
+
 function renderTopMenu() {
   const topMenu = document.getElementById("topMenu");
-  if (!topMenu) return;
+
+  if (!topMenu) {
+    return;
+  }
 
   topMenu.innerHTML = "";
 
@@ -184,85 +127,90 @@ function renderTopMenu() {
   sections.forEach(sectionKey => {
     const item = document.createElement("div");
     item.className = "top-menu-item";
-    item.textContent = sectionLabels?.[lang]?.[sectionKey] || sectionKey;
+    item.textContent =
+      sectionLabels?.[lang]?.[sectionKey] || sectionKey;
 
     if (sectionKey === currentSection) {
       item.classList.add("active");
     }
 
-  /*  item.onclick = function () {
-  navigateTo(sectionKey, getPages(sectionKey)[0]);
-};*/
-  /*  item.onclick = function () {
-      navigateTo(
-        sectionKey,
-        getPages(sectionKey)[0],
-        true,
-        "menu"
-      );
-    };*/
     item.onclick = function () {
-    const pages = getVisiblePages(sectionKey);
+      const pages = getVisiblePages(sectionKey);
 
-    if (pages.length === 1) {
-      navigateTo(
-       sectionKey,
-       pages[0],
-       true,
-       "content"
-      );
-    } else {
-      navigateTo(
-        sectionKey,
-        pages[0],
-        true,
-        "menu"
-      );
-   }
-  };
+      if (pages.length === 1) {
+        navigateTo(
+          sectionKey,
+          pages[0],
+          true,
+          "content"
+        );
+      } else {
+        navigateTo(
+          sectionKey,
+          pages.length ? pages[0] : "",
+          true,
+          "menu"
+        );
+      }
+    };
 
     topMenu.appendChild(item);
   });
 }
 
+
 function renderSideMenu() {
   const sideMenu = document.getElementById("sideMenu");
-  if (!sideMenu) return;
+
+  if (!sideMenu) {
+    return;
+  }
 
   sideMenu.innerHTML = "";
 
-  const content = getContent();
-  const pages = getPages(currentSection);
+  const pages = getVisiblePages(currentSection);
 
   pages.forEach(pageKey => {
-    const page = content?.[currentSection]?.[pageKey];
+    const page = getPage(currentSection, pageKey);
 
-    if (!page || page.hidden === true) {
+    if (!page) {
       return;
     }
 
     const item = document.createElement("div");
     item.className = "side-menu-item";
-    item.textContent = page.menuTitle || page.title || pageKey;
+    item.textContent =
+      page.menuTitle ||
+      page.title ||
+      pageKey;
 
     if (pageKey === currentPage) {
       item.classList.add("active");
     }
 
     item.onclick = function () {
-  navigateTo(currentSection, pageKey);
-};
+      navigateTo(
+        currentSection,
+        pageKey
+      );
+    };
 
     sideMenu.appendChild(item);
   });
 }
 
+
 function renderContent() {
   const main = document.getElementById("content");
-  if (!main) return;
 
-  const content = getContent();
-  const page = content?.[currentSection]?.[currentPage] || null;
+  if (!main) {
+    return;
+  }
+
+  const page = getPage(
+    currentSection,
+    currentPage
+  );
 
   if (!page) {
     main.innerHTML = `
@@ -272,48 +220,27 @@ function renderContent() {
     return;
   }
 
-  /*let html = `<h2>${page.title}</h2>`;*/
-  /*const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
-
   let html = `
-    <button
-      type="button"
-      class="mobile-menu-button"
-      onclick="showMobileMenu()">
-      ${menuLabel}
-    </button>
-
-    <h2>${page.title}</h2>
-  `;*/
-  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
-  const hasSideMenu = getVisiblePages(currentSection).length > 1;
-
-  let html = `
-   ${hasSideMenu ? `
-     <button
-       type="button"
-       class="mobile-menu-button"
-       onclick="showMobileMenu()">
-       ${menuLabel}
-     </button>
-   ` : ""}
-
-   <h2>${page.title}</h2>
+    ${getMobileMenuButtonHtml()}
+    <h2>${page.title || ""}</h2>
   `;
-
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
+
       if (block.type === "text") {
         html += `
           <div class="text-block">
-            ${block.content}
+            ${block.content || ""}
           </div>
         `;
       }
 
       if (block.type === "image") {
-        const imageSize = block.size ? `image-${block.size}` : "image-full";
+        const imageSize =
+          block.size
+            ? `image-${block.size}`
+            : "image-full";
 
         html += `
           <figure class="image-block ${imageSize}">
@@ -326,43 +253,45 @@ function renderContent() {
       if (block.type === "divider") {
         html += `<hr>`;
       }
+
       if (block.type === "scene") {
-  html += `
-    <section class="libretto-scene">
-      ${block.title ? `<h3>${block.title}</h3>` : ""}
-      ${block.content ? `<div>${block.content}</div>` : ""}
-    </section>
-  `;
-}
+        html += `
+          <section class="libretto-scene">
+            ${block.title ? `<h3>${block.title}</h3>` : ""}
+            ${block.content ? `<div>${block.content}</div>` : ""}
+          </section>
+        `;
+      }
 
-if (block.type === "action") {
-  html += `
-    <div class="libretto-action">
-      ${block.content || ""}
-    </div>
-  `;
-}
+      if (block.type === "action") {
+        html += `
+          <div class="libretto-action">
+            ${block.content || ""}
+          </div>
+        `;
+      }
 
-if (block.type === "line") {
-  html += `
-    <div class="libretto-line">
-      <div class="libretto-voice">
-        ${block.voice || ""}
-        ${block.note ? `<span>${block.note}</span>` : ""}
-      </div>
+      if (block.type === "line") {
+        html += `
+          <div class="libretto-line">
+            <div class="libretto-voice">
+              ${block.voice || ""}
+              ${block.note ? `<span>${block.note}</span>` : ""}
+            </div>
 
-      <div class="libretto-original">
-        ${block.original || ""}
-      </div>
+            <div class="libretto-original">
+              ${block.original || ""}
+            </div>
 
-      <div class="libretto-translation">
-        ${block.translation || ""}
-      </div>
-    </div>
-  `;
-    }
+            <div class="libretto-translation">
+              ${block.translation || ""}
+            </div>
+          </div>
+        `;
+      }
     });
   } else {
+
     if (page.text) {
       html += `
         <div class="text-block">
@@ -393,6 +322,7 @@ if (block.type === "line") {
   main.innerHTML = html;
 }
 
+
 function renderAll() {
   ensureValidState();
   updateLanguageButtons();
@@ -405,13 +335,17 @@ function renderAll() {
   updateMobileView();
 }
 
+
 function setLang(newLang) {
   lang = newLang;
   renderAll();
 }
 
+
 document.addEventListener("click", function (e) {
-  const link = e.target.closest("a[data-section][data-page]");
+  const link = e.target.closest(
+    "a[data-section][data-page]"
+  );
 
   if (!link) {
     return;
@@ -419,40 +353,11 @@ document.addEventListener("click", function (e) {
 
   e.preventDefault();
 
-  currentSection = link.dataset.section;
-  currentPage = link.dataset.page;
-
-  renderAll();
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
+  navigateTo(
+    link.dataset.section,
+    link.dataset.page
+  );
 });
 
-readRouteFromUrl();
-ensureValidState();
 
-if (mobileMedia.matches) {
-  const pages = getVisiblePages(currentSection);
-
-  if (window.location.hash || pages.length === 1) {
-    mobileView = "content";
-  } else {
-    mobileView = "menu";
-  }
-}
-
-renderAll();
-updateRouteInUrl();
-
-window.addEventListener("popstate", () => {
-  readRouteFromUrl();
-
-  if (mobileMedia.matches) {
-    mobileView = "content";
-  }
-
-  renderAll();
-});
-
-mobileMedia.addEventListener("change", updateMobileView);
+initCommonNavigation();

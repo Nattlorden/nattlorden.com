@@ -2,79 +2,16 @@ let lang = "sv";
 let currentSection = "general";
 let currentPage = "about";
 
-const mobileMedia = window.matchMedia("(max-width: 768px)");
-let mobileView = "menu";
-
-function updateMobileView() {
-  document.body.classList.toggle(
-    "mobile-menu-view",
-    mobileMedia.matches && mobileView === "menu"
-  );
-
-  document.body.classList.toggle(
-    "mobile-content-view",
-    mobileMedia.matches && mobileView === "content"
-  );
-}
-
-function showMobileMenu() {
-  mobileView = "menu";
-  updateMobileView();
-  window.scrollTo({ top: 0, behavior: "smooth" });
-}
-
-function readRouteFromUrl() {
-  const hash = window.location.hash.slice(1);
-  if (!hash) return;
-
-  const [section, page] = hash.split("/");
-
-  if (section) currentSection = decodeURIComponent(section);
-  if (page) currentPage = decodeURIComponent(page);
-}
-
-function updateRouteInUrl() {
-  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
-
-  if (window.location.hash.slice(1) !== route) {
-    history.pushState(null, "", `#${route}`);
-  }
-}
-
-/*function navigateTo(section, page, scrollToTop = true) {
-  currentSection = section;
-  currentPage = page;
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-}*/
-function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
-  currentSection = section;
-  currentPage = page;
-
-  if (mobileMedia.matches) {
-    mobileView = mobileTarget;
-  }
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-}
 
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
 }
 
+
 function getSections() {
   return Object.keys(getContent());
 }
+
 
 function getPages(sectionKey) {
   const content = getContent();
@@ -86,13 +23,13 @@ function getPages(sectionKey) {
   return Object.keys(content[sectionKey]);
 }
 
-function getVisiblePages(sectionKey) {
+
+function getPage(sectionKey, pageKey) {
   const content = getContent();
 
-  return getPages(sectionKey).filter(pageKey => {
-    return content[sectionKey][pageKey].hidden !== true;
-  });
+  return content?.[sectionKey]?.[pageKey] || null;
 }
+
 
 function ensureValidState() {
   const sections = getSections();
@@ -119,6 +56,7 @@ function ensureValidState() {
   }
 }
 
+
 function updateLanguageButtons() {
   const btnSV = document.getElementById("btn-sv");
   const btnEN = document.getElementById("btn-en");
@@ -131,21 +69,27 @@ function updateLanguageButtons() {
   btnEN.classList.toggle("active", lang === "en");
 }
 
+
 function updateTagline() {
   const tagline = document.getElementById("tagline");
   const title = document.getElementById("siteTitle");
-  const meta = siteMeta?.[lang]?.sections?.[currentSection];
+
+  const meta =
+    siteMeta?.[lang]?.sections?.[currentSection];
 
   if (tagline) {
-    tagline.textContent = meta?.tagline || "";
+    tagline.textContent =
+      meta?.tagline || "";
   }
 
   if (title) {
-    title.textContent = meta?.title || "";
+    title.textContent =
+      meta?.title || "";
   }
 
   document.documentElement.lang = lang;
 }
+
 
 function updateTheme() {
   if (!currentSection) {
@@ -153,104 +97,149 @@ function updateTheme() {
     return;
   }
 
-  document.body.dataset.theme = currentSection;
+  document.body.dataset.theme =
+    currentSection;
 }
 
+
 function updateHeaderStyle() {
-  const header = document.getElementById("siteHeader");
-  if (!header) return;
+  const header =
+    document.getElementById("siteHeader");
+
+  if (!header) {
+    return;
+  }
 
   header.className = "site-header";
 
-  const meta = siteMeta?.[lang]?.sections?.[currentSection];
+  const meta =
+    siteMeta?.[lang]?.sections?.[currentSection];
+
   if (meta?.headerClass) {
-    header.classList.add(meta.headerClass);
+    header.classList.add(
+      meta.headerClass
+    );
   }
 }
 
+
 function renderTopMenu() {
-  const topMenu = document.getElementById("topMenu");
-  if (!topMenu) return;
+  const topMenu =
+    document.getElementById("topMenu");
+
+  if (!topMenu) {
+    return;
+  }
 
   topMenu.innerHTML = "";
 
   const sections = getSections();
 
   sections.forEach(sectionKey => {
-    const item = document.createElement("div");
-    item.className = "top-menu-item";
-    item.textContent = sectionLabels?.[lang]?.[sectionKey] || sectionKey;
+    const item =
+      document.createElement("div");
+
+    item.className =
+      "top-menu-item";
+
+    item.textContent =
+      sectionLabels?.[lang]?.[sectionKey] ||
+      sectionKey;
 
     if (sectionKey === currentSection) {
       item.classList.add("active");
     }
 
-   /* item.onclick = function () {
-  const pages = getPages(sectionKey);
-  navigateTo(sectionKey, pages.length ? pages[0] : "");
-};*/
     item.onclick = function () {
-    const pages = getVisiblePages(sectionKey);
+      const pages =
+        getVisiblePages(sectionKey);
 
-    if (pages.length === 1) {
-     navigateTo(
-       sectionKey,
-       pages[0],
-       true,
-       "content"
-     );
-   } else {
-     navigateTo(
-       sectionKey,
-       pages.length ? pages[0] : "",
-       true,
-       "menu"
-     );
-   }
-  };
+      if (pages.length === 1) {
+        navigateTo(
+          sectionKey,
+          pages[0],
+          true,
+          "content"
+        );
+      } else {
+        navigateTo(
+          sectionKey,
+          pages.length ? pages[0] : "",
+          true,
+          "menu"
+        );
+      }
+    };
 
     topMenu.appendChild(item);
   });
 }
 
+
 function renderSideMenu() {
-  const sideMenu = document.getElementById("sideMenu");
-  if (!sideMenu) return;
+  const sideMenu =
+    document.getElementById("sideMenu");
+
+  if (!sideMenu) {
+    return;
+  }
 
   sideMenu.innerHTML = "";
 
-  const content = getContent();
-  const pages = getPages(currentSection);
+  const pages =
+    getVisiblePages(currentSection);
 
   pages.forEach(pageKey => {
-    const page = content?.[currentSection]?.[pageKey];
+    const page =
+      getPage(
+        currentSection,
+        pageKey
+      );
 
-    if (!page || page.hidden === true) {
+    if (!page) {
       return;
     }
 
-    const item = document.createElement("div");
-    item.className = "side-menu-item";
-    item.textContent = page.menuTitle || page.title || pageKey;
+    const item =
+      document.createElement("div");
+
+    item.className =
+      "side-menu-item";
+
+    item.textContent =
+      page.menuTitle ||
+      page.title ||
+      pageKey;
 
     if (pageKey === currentPage) {
       item.classList.add("active");
     }
 
     item.onclick = function () {
-  navigateTo(currentSection, pageKey);
-};
+      navigateTo(
+        currentSection,
+        pageKey
+      );
+    };
 
     sideMenu.appendChild(item);
   });
 }
 
-function renderContent() {
-  const main = document.getElementById("content");
-  if (!main) return;
 
-  const content = getContent();
-  const page = content?.[currentSection]?.[currentPage] || null;
+function renderContent() {
+  const main =
+    document.getElementById("content");
+
+  if (!main) {
+    return;
+  }
+
+  const page =
+    getPage(
+      currentSection,
+      currentPage
+    );
 
   if (!page) {
     main.innerHTML = `
@@ -260,25 +249,19 @@ function renderContent() {
     return;
   }
 
-  /*let html = `<h2>${page.title || ""}</h2>`;*/
-  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
-const hasSideMenu = getVisiblePages(currentSection).length > 1;
 
-let html = `
-  ${hasSideMenu ? `
-    <button
-      type="button"
-      class="mobile-menu-button"
-      onclick="showMobileMenu()">
-      ${menuLabel}
-    </button>
-  ` : ""}
+  let html = `
+    ${getMobileMenuButtonHtml()}
+    <h2>${page.title || ""}</h2>
+  `;
 
-  <h2>${page.title || ""}</h2>
-`;
 
-  if (page.blocks && page.blocks.length > 0) {
+  if (
+    page.blocks &&
+    page.blocks.length > 0
+  ) {
     page.blocks.forEach(block => {
+
       if (block.type === "text") {
         html += `
           <div class="text-block">
@@ -287,65 +270,91 @@ let html = `
         `;
       }
 
+
       if (block.type === "note") {
-       html += `
-        <div class="note-block">
+        html += `
+          <div class="note-block">
             ${block.content || ""}
-        </div>
-      `;
+          </div>
+        `;
       }
 
+
       if (block.type === "image") {
-        const imageSize = block.size ? `image-${block.size}` : "image-full";
+        const imageSize =
+          block.size
+            ? `image-${block.size}`
+            : "image-full";
 
         html += `
           <figure class="image-block ${imageSize}">
-            <img src="${block.src}" alt="${block.alt || ""}">
-            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
+            <img
+              src="${block.src || ""}"
+              alt="${block.alt || ""}">
+            ${block.caption
+              ? `<figcaption>${block.caption}</figcaption>`
+              : ""}
           </figure>
         `;
       }
 
+
       if (block.type === "divider") {
         html += `<hr>`;
       }
+
+
       if (block.type === "scene") {
-  html += `
-    <section class="libretto-scene">
-      ${block.title ? `<h3>${block.title}</h3>` : ""}
-      ${block.content ? `<div>${block.content}</div>` : ""}
-    </section>
-  `;
-}
+        html += `
+          <section class="libretto-scene">
+            ${block.title
+              ? `<h3>${block.title}</h3>`
+              : ""}
 
-if (block.type === "action") {
-  html += `
-    <div class="libretto-action">
-      ${block.content || ""}
-    </div>
-  `;
-}
+            ${block.content
+              ? `<div>${block.content}</div>`
+              : ""}
+          </section>
+        `;
+      }
 
-if (block.type === "line") {
-  html += `
-    <div class="libretto-line">
-      <div class="libretto-voice">
-        ${block.voice || ""}
-        ${block.note ? `<span>${block.note}</span>` : ""}
-      </div>
 
-      <div class="libretto-original">
-        ${block.original || ""}
-      </div>
+      if (block.type === "action") {
+        html += `
+          <div class="libretto-action">
+            ${block.content || ""}
+          </div>
+        `;
+      }
 
-      <div class="libretto-translation">
-        ${block.translation || ""}
-      </div>
-    </div>
-  `;
-    }
+
+      if (block.type === "line") {
+        html += `
+          <div class="libretto-line">
+
+            <div class="libretto-voice">
+              ${block.voice || ""}
+
+              ${block.note
+                ? `<span>${block.note}</span>`
+                : ""}
+            </div>
+
+            <div class="libretto-original">
+              ${block.original || ""}
+            </div>
+
+            <div class="libretto-translation">
+              ${block.translation || ""}
+            </div>
+
+          </div>
+        `;
+      }
     });
+
   } else {
+
     if (page.text) {
       html += `
         <div class="text-block">
@@ -354,16 +363,24 @@ if (block.type === "line") {
       `;
     }
 
-    if (page.images && page.images.length > 0) {
-      html += `<div class="image-gallery">`;
+    if (
+      page.images &&
+      page.images.length > 0
+    ) {
+      html += `
+        <div class="image-gallery">
+      `;
 
       page.images.forEach(src => {
-        html += `<img src="${src}" alt="">`;
+        html += `
+          <img src="${src}" alt="">
+        `;
       });
 
       html += `</div>`;
     }
   }
+
 
   if (page.showPlaceholder !== false) {
     html += `
@@ -373,86 +390,122 @@ if (block.type === "line") {
     `;
   }
 
-  const visiblePages = getPages(currentSection).filter(pageKey => {
-  const candidate = content?.[currentSection]?.[pageKey];
-  return candidate && candidate.hidden !== true;
-});
 
-const currentIndex = visiblePages.indexOf(currentPage);
+  const visiblePages =
+    getVisiblePages(currentSection);
 
-const previousKey =
-  currentIndex > 0
-    ? visiblePages[currentIndex - 1]
-    : null;
+  const currentIndex =
+    visiblePages.indexOf(currentPage);
 
-const nextKey =
-  currentIndex >= 0 && currentIndex < visiblePages.length - 1
-    ? visiblePages[currentIndex + 1]
-    : null;
+  const previousKey =
+    currentIndex > 0
+      ? visiblePages[currentIndex - 1]
+      : null;
 
-if (previousKey || nextKey) {
-  const previousPage = previousKey
-    ? content?.[currentSection]?.[previousKey]
-    : null;
+  const nextKey =
+    currentIndex >= 0 &&
+    currentIndex < visiblePages.length - 1
+      ? visiblePages[currentIndex + 1]
+      : null;
 
-  const nextPage = nextKey
-    ? content?.[currentSection]?.[nextKey]
-    : null;
 
-  html += `
-    <nav class="page-navigation"
-         aria-label="${lang === "sv" ? "Sidnavigering" : "Page navigation"}">
+  if (previousKey || nextKey) {
+    const previousPage =
+      previousKey
+        ? getPage(
+            currentSection,
+            previousKey
+          )
+        : null;
 
-      <div class="page-navigation-prev">
-        ${
-          previousPage
-            ? `
-              <button
-                type="button"
-                class="page-nav-link"
-                data-page-nav="${previousKey}"
-              >
-                <span class="page-nav-direction">
-                  ← ${lang === "sv" ? "Föregående" : "Previous"}
-                </span>
+    const nextPage =
+      nextKey
+        ? getPage(
+            currentSection,
+            nextKey
+          )
+        : null;
 
-                <span class="page-nav-title">
-                  ${previousPage.menuTitle || previousPage.title || previousKey}
-                </span>
-              </button>
-            `
-            : ""
-        }
-      </div>
 
-      <div class="page-navigation-next">
-        ${
-          nextPage
-            ? `
-              <button
-                type="button"
-                class="page-nav-link"
-                data-page-nav="${nextKey}"
-              >
-                <span class="page-nav-direction">
-                  ${lang === "sv" ? "Nästa" : "Next"} →
-                </span>
+    html += `
+      <nav
+        class="page-navigation"
+        aria-label="${
+          lang === "sv"
+            ? "Sidnavigering"
+            : "Page navigation"
+        }"
+      >
 
-                <span class="page-nav-title">
-                  ${nextPage.menuTitle || nextPage.title || nextKey}
-                </span>
-              </button>
-            `
-            : ""
-        }
-      </div>
+        <div class="page-navigation-prev">
+          ${
+            previousPage
+              ? `
+                <button
+                  type="button"
+                  class="page-nav-link"
+                  data-page-nav="${previousKey}"
+                >
+                  <span class="page-nav-direction">
+                    ← ${
+                      lang === "sv"
+                        ? "Föregående"
+                        : "Previous"
+                    }
+                  </span>
 
-    </nav>
-  `;
-}
+                  <span class="page-nav-title">
+                    ${
+                      previousPage.menuTitle ||
+                      previousPage.title ||
+                      previousKey
+                    }
+                  </span>
+                </button>
+              `
+              : ""
+          }
+        </div>
+
+
+        <div class="page-navigation-next">
+          ${
+            nextPage
+              ? `
+                <button
+                  type="button"
+                  class="page-nav-link"
+                  data-page-nav="${nextKey}"
+                >
+                  <span class="page-nav-direction">
+                    ${
+                      lang === "sv"
+                        ? "Nästa"
+                        : "Next"
+                    } →
+                  </span>
+
+                  <span class="page-nav-title">
+                    ${
+                      nextPage.menuTitle ||
+                      nextPage.title ||
+                      nextKey
+                    }
+                  </span>
+                </button>
+              `
+              : ""
+          }
+        </div>
+
+      </nav>
+    `;
+  }
+
 
   main.innerHTML = html;
 }
+
 
 function renderAll() {
   ensureValidState();
@@ -466,100 +519,46 @@ function renderAll() {
   updateMobileView();
 }
 
+
 function setLang(newLang) {
   lang = newLang;
   renderAll();
 }
 
-document.addEventListener("click", function (e) {
-  const pageNav = e.target.closest("[data-page-nav]");
 
-  /*if (pageNav) {
-    currentPage = pageNav.dataset.pageNav;
+document.addEventListener(
+  "click",
+  function (e) {
 
-    renderContent();
-    renderSideMenu();
+    const pageNav =
+      e.target.closest("[data-page-nav]");
 
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
+    if (pageNav) {
+      navigateTo(
+        currentSection,
+        pageNav.dataset.pageNav
+      );
 
-    return;
-  }*/
-  if (pageNav) {
-   navigateTo(
-    currentSection,
-    pageNav.dataset.pageNav
-   );
+      return;
+    }
 
-   return;
+
+    const link = e.target.closest(
+      "a[data-section][data-page]"
+    );
+
+    if (!link) {
+      return;
+    }
+
+    e.preventDefault();
+
+    navigateTo(
+      link.dataset.section,
+      link.dataset.page
+    );
   }
+);
 
-  const link = e.target.closest("a[data-section][data-page]");
 
-  if (!link) {
-    return;
-  }
-
-  e.preventDefault();
-
-  navigateTo(
-    link.dataset.section,
-    link.dataset.page
-  );
-
-  renderAll();
-
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
-});
-
-/*document.addEventListener("click", function (e) {
-  const link = e.target.closest("a[data-section][data-page]");
-
-  if (!link) {
-    return;
-  }
-
-  e.preventDefault();
-
-  currentSection = link.dataset.section;
-  currentPage = link.dataset.page;
-
-  renderAll();
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
-});*/
-
-readRouteFromUrl();
-ensureValidState();
-
-if (mobileMedia.matches) {
-  const pages = getVisiblePages(currentSection);
-
-  if (window.location.hash || pages.length === 1) {
-    mobileView = "content";
-  } else {
-    mobileView = "menu";
-  }
-}
-
-renderAll();
-updateRouteInUrl();
-
-window.addEventListener("popstate", () => {
-  readRouteFromUrl();
-
-  if (mobileMedia.matches) {
-    mobileView = "content";
-  }
-
-  renderAll();
-});
-
-mobileMedia.addEventListener("change", updateMobileView);
+initCommonNavigation();

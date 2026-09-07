@@ -1,107 +1,60 @@
 let lang = "sv";
 let currentSection = "world";
 let currentPage = "overview";
+
 let lastAlbumPage = null;
 
-const mobileMedia = window.matchMedia("(max-width: 768px)");
-let mobileView = "menu";
 
-function updateMobileView() {
-  document.body.classList.toggle(
-    "mobile-menu-view",
-    mobileMedia.matches && mobileView === "menu"
-  );
-
-  document.body.classList.toggle(
-    "mobile-content-view",
-    mobileMedia.matches && mobileView === "content"
+if (hasAccess("friendAccess")) {
+  document.documentElement.classList.add(
+    "friend-access"
   );
 }
 
-function showMobileMenu() {
-  mobileView = "menu";
-  updateMobileView();
-  window.scrollTo({ top: 0, behavior: "smooth" });
-}
-
-const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
-
-if (hasFriendAccess()) {
-  document.documentElement.classList.add("friend-access");
-}
-
-function readRouteFromUrl() {
-  const hash = window.location.hash.slice(1);
-  if (!hash) return;
-
-  const [section, page] = hash.split("/");
-
-  if (section) currentSection = decodeURIComponent(section);
-  if (page) currentPage = decodeURIComponent(page);
-}
-
-function updateRouteInUrl() {
-  const route = `${encodeURIComponent(currentSection)}/${encodeURIComponent(currentPage)}`;
-
-  if (window.location.hash.slice(1) !== route) {
-    history.pushState(null, "", `#${route}`);
-  }
-}
-
-/* function navigateTo(section, page, scrollToTop = true) {
-  currentSection = section;
-  currentPage = page;
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-} */
-function navigateTo(section, page, scrollToTop = true, mobileTarget = "content") {
-  currentSection = section;
-  currentPage = page;
-
-  if (mobileMedia.matches) {
-    mobileView = mobileTarget;
-  }
-
-  renderAll();
-  updateRouteInUrl();
-
-  if (scrollToTop) {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-}
 
 function getContent() {
-  return lang === "sv" ? contentSV : contentEN;
+  return lang === "sv"
+    ? contentSV
+    : contentEN;
 }
+
 
 function getSections() {
   return Object.keys(getContent());
 }
 
+
 function getPages(sectionKey) {
   const content = getContent();
+
   if (!content[sectionKey]) {
     return [];
   }
-  return Object.keys(content[sectionKey]);
+
+  return Object.keys(
+    content[sectionKey]
+  );
 }
 
-function getVisiblePages(sectionKey) {
+
+function getPage(sectionKey, pageKey) {
   const content = getContent();
 
-  return getPages(sectionKey).filter(pageKey => {
-    const page = content?.[sectionKey]?.[pageKey];
-    return page && page.hidden !== true;
-  });
+  return (
+    content?.[sectionKey]?.[pageKey] ||
+    null
+  );
 }
+
 
 function ensureValidState() {
   const sections = getSections();
+
+  if (!sections.length) {
+    currentSection = "";
+    currentPage = "";
+    return;
+  }
 
   if (!sections.includes(currentSection)) {
     currentSection = sections[0];
@@ -109,211 +62,315 @@ function ensureValidState() {
 
   const pages = getPages(currentSection);
 
+  if (!pages.length) {
+    currentPage = "";
+    return;
+  }
+
   if (!pages.includes(currentPage)) {
     currentPage = pages[0];
   }
 }
 
-function updateLanguageButtons() {
-  const btnSV = document.getElementById("btn-sv");
-  const btnEN = document.getElementById("btn-en");
 
-  btnSV.classList.toggle("active", lang === "sv");
-  btnEN.classList.toggle("active", lang === "en");
+function updateLanguageButtons() {
+  const btnSV =
+    document.getElementById("btn-sv");
+
+  const btnEN =
+    document.getElementById("btn-en");
+
+  if (!btnSV || !btnEN) {
+    return;
+  }
+
+  btnSV.classList.toggle(
+    "active",
+    lang === "sv"
+  );
+
+  btnEN.classList.toggle(
+    "active",
+    lang === "en"
+  );
 }
 
+
 function updateTagline() {
-  const tagline = document.getElementById("tagline");
-  tagline.textContent = siteMeta[lang].tagline;
+  const tagline =
+    document.getElementById("tagline");
+
+  if (tagline) {
+    tagline.textContent =
+      siteMeta?.[lang]?.tagline || "";
+  }
+
   document.documentElement.lang = lang;
 }
 
+
 function renderTopMenu() {
-  const topMenu = document.getElementById("topMenu");
+  const topMenu =
+    document.getElementById("topMenu");
+
+  if (!topMenu) {
+    return;
+  }
+
   topMenu.innerHTML = "";
 
   const sections = getSections();
 
   sections.forEach(sectionKey => {
-    const item = document.createElement("div");
-    item.className = "top-menu-item";
-    item.textContent = sectionLabels[lang][sectionKey] || sectionKey;
+    const item =
+      document.createElement("div");
+
+    item.className =
+      "top-menu-item";
+
+    item.textContent =
+      sectionLabels?.[lang]?.[sectionKey] ||
+      sectionKey;
 
     if (sectionKey === currentSection) {
       item.classList.add("active");
     }
 
-  /* item.onclick = function () {
-  navigateTo(
-    sectionKey,
-    getPages(sectionKey)[0]
-  );
-};*/
     item.onclick = function () {
-    const pages = getVisiblePages(sectionKey);
+      const pages =
+        getVisiblePages(sectionKey);
 
-    if (pages.length === 1) {
-      navigateTo(
-       sectionKey,
-       pages[0],
-       true,
-       "content"
-     );
-   } else {
-      navigateTo(
-       sectionKey,
-       pages[0],
-       true,
-       "menu"
-     );
-    }
+      if (pages.length === 1) {
+        navigateTo(
+          sectionKey,
+          pages[0],
+          true,
+          "content"
+        );
+      } else {
+        navigateTo(
+          sectionKey,
+          pages.length
+            ? pages[0]
+            : "",
+          true,
+          "menu"
+        );
+      }
     };
 
     topMenu.appendChild(item);
   });
 }
 
-function getMobileMenuButtonHtml() {
-  const hasSideMenu = getVisiblePages(currentSection).length > 1;
-
-  if (!hasSideMenu) {
-    return "";
-  }
-
-  const menuLabel = lang === "sv" ? "&larr; Meny" : "&larr; Menu";
-
-  return `
-    <button
-      type="button"
-      class="mobile-menu-button"
-      onclick="showMobileMenu()">
-      ${menuLabel}
-    </button>
-  `;
-}
 
 function renderSideMenu() {
-  const sideMenu = document.getElementById("sideMenu");
+  const sideMenu =
+    document.getElementById("sideMenu");
+
+  if (!sideMenu) {
+    return;
+  }
+
   sideMenu.innerHTML = "";
 
-  const content = getContent();
-  const pages = getPages(currentSection);
+  const pages =
+    getVisiblePages(currentSection);
 
   pages.forEach(pageKey => {
-    // för att kunna gömma sidor i vänstermenyn
-    const page = content[currentSection][pageKey];
+    const page =
+      getPage(
+        currentSection,
+        pageKey
+      );
 
-    if (page.hidden === true) {
+    if (!page) {
       return;
     }
 
-    const item = document.createElement("div");
-    item.className = "side-menu-item";
-    item.textContent = content[currentSection][pageKey].menuTitle || pageKey;
+    const item =
+      document.createElement("div");
 
-        if (pageKey === currentPage) {
+    item.className =
+      "side-menu-item";
+
+    item.textContent =
+      page.menuTitle ||
+      page.title ||
+      pageKey;
+
+    if (pageKey === currentPage) {
       item.classList.add("active");
     }
 
- item.onclick = function () {
-  navigateTo(currentSection, pageKey);
-};
+    item.onclick = function () {
+      navigateTo(
+        currentSection,
+        pageKey
+      );
+    };
 
     sideMenu.appendChild(item);
   });
 }
 
-function renderTrackList(albumKey) {
-  const album = musicData.albums[albumKey];
-  if (!album || !album.tracks) return "";
 
-  return `
-    <div class="track-list">
-      ${album.tracks.map((track, index) => `
-        <div class="track-row">
-          <span class="track-title">
-            ${String(index + 1).padStart(2, "0")}. ${track.title}
-          </span>
-          <div class="track-actions">
-            <a href="#" onclick="openSongLyrics('${track.key}'); return false;">Text</a>
-            <a href="${track.spotify}" target="_blank" rel="noopener noreferrer">Spotify</a>
-            <a href="${track.youtube}" target="_blank" rel="noopener noreferrer">YouTube</a>
-          </div>
-        </div>
-      `).join("")}
-    </div>
-  `;
-}
+/* =========================================================
+   Music
+   ========================================================= */
 
 function openSongLyrics(songKey) {
   lastAlbumPage = currentPage;
 
-  navigateTo("music", songKey);
+  navigateTo(
+    "music",
+    songKey
+  );
 }
+
 
 function goBackToAlbum() {
   if (!lastAlbumPage) {
     return;
   }
 
-  navigateTo("music", lastAlbumPage);
+  navigateTo(
+    "music",
+    lastAlbumPage
+  );
 }
 
 
-function renderSongPage(songKey) {
-  const song = musicSongs[songKey];
-  if (!song) return "<p>S�ngen kunde inte hittas.</p>";
-
-  return `
-    <section class="song-page">
-      <h2>${song.title}</h2>
-      <div class="lyrics-block">${song.lyrics.trim().replace(/\n/g, "<br>")}</div>
-    </section>
-  `;
-}
+/* =========================================================
+   Timeline
+   ========================================================= */
 
 function renderTimeline(timeline) {
-  let html = `<div class="timeline">`;
+  let html = `
+    <div class="timeline">
+  `;
 
   timeline.forEach(event => {
     html += `
       <section class="timeline-event">
+
         <div class="timeline-event-header">
           <h3>${event.title}</h3>
-          ${event.meta ? `<div class="timeline-event-meta">${event.meta}</div>` : ""}
+
+          ${event.meta
+            ? `
+              <div class="timeline-event-meta">
+                ${event.meta}
+              </div>
+            `
+            : ""}
         </div>
+
         <div class="timeline-tracks">
     `;
+
 
     event.tracks.forEach(track => {
       html += `
         <article class="timeline-track-card">
-          ${track.image ? `<img src="${track.image}" alt="${track.title}">` : ""}
+
+          ${track.image
+            ? `
+              <img
+                src="${track.image}"
+                alt="${track.title}">
+            `
+            : ""}
+
           <h4>${track.title}</h4>
-          
+
           ${
-              track.date
-                ? `<div class="track-date">${lang === "sv" ? "Publicerad" : "Published"}: ${track.date}</div>`
-                : track.status
-                  ? `<div class="track-date">${track.status}</div>`
-                  : ""
+            track.date
+              ? `
+                <div class="track-date">
+                  ${
+                    lang === "sv"
+                      ? "Publicerad"
+                      : "Published"
+                  }:
+                  ${track.date}
+                </div>
+              `
+              : track.status
+                ? `
+                  <div class="track-date">
+                    ${track.status}
+                  </div>
+                `
+                : ""
           }
 
           <div class="track-links">
-            ${track.textPage ? `<a class="internal-link" data-section="music" data-page="${track.textPage}">${lang === "sv" ? "Text" : "Lyrics"}</a>` : ""}
-            ${track.spotify ? `<a href="${track.spotify}" target="_blank" rel="noopener noreferrer">Spotify</a>` : ""}
-            ${track.youtube ? `<a href="${track.youtube}" target="_blank" rel="noopener noreferrer">YouTube</a>` : ""}
+
+            ${track.textPage
+              ? `
+                <a
+                  class="internal-link"
+                  data-section="music"
+                  data-page="${track.textPage}">
+                  ${
+                    lang === "sv"
+                      ? "Text"
+                      : "Lyrics"
+                  }
+                </a>
+              `
+              : ""}
+
+            ${track.spotify
+              ? `
+                <a
+                  href="${track.spotify}"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Spotify
+                </a>
+              `
+              : ""}
+
+            ${track.youtube
+              ? `
+                <a
+                  href="${track.youtube}"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  YouTube
+                </a>
+              `
+              : ""}
+
           </div>
 
-          ${track.note ? `
-            <details class="track-notes">
-              <summary>${lang === "sv" ? "Kommentar" : "Notes"}</summary>
-              <div class="track-note-text">${track.note}</div>
-            </details>
-          ` : ""}
+
+          ${track.note
+            ? `
+              <details class="track-notes">
+
+                <summary>
+                  ${
+                    lang === "sv"
+                      ? "Kommentar"
+                      : "Notes"
+                  }
+                </summary>
+
+                <div class="track-note-text">
+                  ${track.note}
+                </div>
+
+              </details>
+            `
+            : ""}
+
         </article>
       `;
     });
+
 
     html += `
         </div>
@@ -321,35 +378,70 @@ function renderTimeline(timeline) {
     `;
   });
 
+
   html += `</div>`;
+
   return html;
 }
 
+
+/* =========================================================
+   Chapters
+   ========================================================= */
+
 function renderChapter(page) {
   const chapter = page.chapter;
+
   let html = `
     <article class="chapter-page">
-      <h2 class="chapter-title">${page.title}</h2>
+      <h2 class="chapter-title">
+        ${page.title}
+      </h2>
   `;
 
+
   if (chapter.subtitle) {
-    html += `<div class="chapter-subtitle">${chapter.subtitle}</div>`;
+    html += `
+      <div class="chapter-subtitle">
+        ${chapter.subtitle}
+      </div>
+    `;
   }
 
-  if (chapter.dropcap && chapter.opening) {
+
+  if (
+    chapter.dropcap &&
+    chapter.opening
+  ) {
     html += `
       <p class="chapter-opening">
-        <img class="dropcap-image" 
-     src="assets/story/${chapter.dropcap}.png" 
-     alt=""
-     style="${chapter.dropcapAdjust ? `position: relative; top: ${chapter.dropcapAdjust}px;` : ''}">
+
+        <img
+          class="dropcap-image"
+          src="assets/story/${chapter.dropcap}.png"
+          alt=""
+          style="${
+            chapter.dropcapAdjust
+              ? `
+                position: relative;
+                top: ${chapter.dropcapAdjust}px;
+              `
+              : ""
+          }">
+
         ${chapter.opening}
+
       </p>
     `;
   }
 
-  if (chapter.sections && chapter.sections.length > 0) {
+
+  if (
+    chapter.sections &&
+    chapter.sections.length > 0
+  ) {
     chapter.sections.forEach(part => {
+
       if (part.type === "text") {
         html += `
           <div class="chapter-text">
@@ -358,60 +450,122 @@ function renderChapter(page) {
         `;
       }
 
+
       if (part.type === "marker") {
         html += `
-          <div class="chapter-marker marker-${part.style || "default"}"></div>
+          <div
+            class="chapter-marker marker-${part.style || "default"}">
+          </div>
         `;
       }
 
-      if (part.type === "letter") {
-  html += `<div class="letter">${part.content}</div>`;
-}
 
-if (part.type === "song") {
-  html += `<div class="song">${part.content}</div>`;
-}
+      if (part.type === "letter") {
+        html += `
+          <div class="letter">
+            ${part.content}
+          </div>
+        `;
+      }
+
+
+      if (part.type === "song") {
+        html += `
+          <div class="song">
+            ${part.content}
+          </div>
+        `;
+      }
+
 
       if (part.type === "image") {
-        const imageSize = part.size ? `chapter-image-${part.size}` : "chapter-image-medium";
+        const imageSize =
+          part.size
+            ? `chapter-image-${part.size}`
+            : "chapter-image-medium";
 
         html += `
-          <figure class="chapter-illustration ${imageSize}">
-            <img src="${part.src}" alt="${part.alt || ""}">
-            ${part.caption ? `<figcaption>${part.caption}</figcaption>` : ""}
+          <figure
+            class="chapter-illustration ${imageSize}">
+
+            <img
+              src="${part.src}"
+              alt="${part.alt || ""}">
+
+            ${part.caption
+              ? `
+                <figcaption>
+                  ${part.caption}
+                </figcaption>
+              `
+              : ""}
+
           </figure>
         `;
       }
     });
   }
 
+
   html += `</article>`;
+
   return html;
 }
 
-function renderContent() {
-  const main = document.getElementById("content");
-  const content = getContent();
-  const page = content[currentSection] && content[currentSection][currentPage]
-    ? content[currentSection][currentPage]
-    : null;
 
-  if (!page) {
-    main.innerHTML = `
-      <h2>${siteMeta[lang].missingTitle}</h2>
-      <p>${siteMeta[lang].missingText}</p>
-    `;
+/* =========================================================
+   Content
+   ========================================================= */
+
+function renderContent() {
+  const main =
+    document.getElementById("content");
+
+  if (!main) {
     return;
   }
 
-  // 1. Albumsidor
-  if (currentSection === "music" && musicData.albums[currentPage]) {
-    const album = musicData.albums[currentPage];
-    /*let html = `<h2>${page.title}</h2>`;*/
-    let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title}</h2>
+  const page =
+    getPage(
+      currentSection,
+      currentPage
+    );
+
+
+  if (!page) {
+    main.innerHTML = `
+      <h2>
+        ${siteMeta?.[lang]?.missingTitle || "Saknas"}
+      </h2>
+
+      <p>
+        ${
+          siteMeta?.[lang]?.missingText ||
+          "Innehåll kommer senare."
+        }
+      </p>
     `;
+
+    return;
+  }
+
+
+  /*
+    1. Albumsidor
+  */
+
+  if (
+    currentSection === "music" &&
+    musicData?.albums?.[currentPage]
+  ) {
+    const album =
+      musicData.albums[currentPage];
+
+    let html = `
+      ${getMobileMenuButtonHtml()}
+      <h2>${page.title || ""}</h2>
+    `;
+
 
     if (page.intro) {
       html += `
@@ -421,392 +575,162 @@ function renderContent() {
       `;
     }
 
+
     if (album.image) {
       html += `
         <figure class="image-block image-small">
-          <img src="${album.image}" alt="${album.imageAlt || album.title || ""}">
-          ${page.caption ? `<figcaption>${page.caption}</figcaption>` : ""}
+
+          <img
+            src="${album.image}"
+            alt="${
+              album.imageAlt ||
+              album.title ||
+              ""
+            }">
+
+          ${page.caption
+            ? `
+              <figcaption>
+                ${page.caption}
+              </figcaption>
+            `
+            : ""}
+
         </figure>
       `;
     }
 
-    html += renderTrackList(currentPage);
+
+    html += renderAlbumTrackList(
+      album,
+      {
+        lyricsLabel:
+          lang === "sv"
+            ? "Text"
+            : "Lyrics"
+      }
+    );
+
 
     if (page.showPlaceholder !== false) {
       html += `
         <div class="placeholder-box">
-          ${siteMeta[lang].placeholder}
+          ${siteMeta?.[lang]?.placeholder || ""}
         </div>
       `;
     }
+
 
     main.innerHTML = html;
     return;
   }
 
-  // 2. L�tsidor med lyrics
-  if (currentSection === "music" && page.lyrics) {
-    /*let html = `<h2>${page.title}</h2>`;*/
+
+  /*
+    2. Låtsidor
+  */
+
+  if (
+    currentSection === "music" &&
+    page.lyrics
+  ) {
     let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title}</h2>
+      ${getMobileMenuButtonHtml()}
+      <h2>${page.title || ""}</h2>
     `;
+
+
     let backButton = "";
 
     if (lastAlbumPage) {
       backButton = `
         <div class="back-link">
-          <a href="#" onclick="goBackToAlbum(); return false;">
-            &#8592; ${uiText[lang].backToAlbum}
+
+          <a
+            href="#"
+            data-back-to-album>
+
+            &#8592;
+            ${uiText?.[lang]?.backToAlbum || ""}
+
           </a>
+
         </div>
       `;
     }
 
+
     html += backButton;
 
+
     if (page.image) {
-      const imageSize = page.image.size ? `image-${page.image.size}` : "image-small";
+      const imageSize =
+        page.image.size
+          ? `image-${page.image.size}`
+          : "image-small";
 
       html += `
         <figure class="image-block ${imageSize}">
-          <img src="${page.image.src}" alt="${page.image.alt || ""}">
-          ${page.image.caption ? `<figcaption>${page.image.caption}</figcaption>` : ""}
+
+          <img
+            src="${page.image.src}"
+            alt="${page.image.alt || ""}">
+
+          ${page.image.caption
+            ? `
+              <figcaption>
+                ${page.image.caption}
+              </figcaption>
+            `
+            : ""}
+
         </figure>
       `;
     }
+
 
     html += `
       <div class="text-block lyrics-block">
-        ${page.lyrics.trim().replace(/\n/g, "<br>")}
+        ${
+          page.lyrics
+            .trim()
+            .replace(/\n/g, "<br>")
+        }
       </div>
     `;
+
 
     html += backButton;
 
-    if (page.showPlaceholder !== false) {
-      html += `
-        <div class="placeholder-box">
-          ${siteMeta[lang].placeholder}
-        </div>
-      `;
-    }
-
-    main.innerHTML = html;
-    return;
-  }
-
-  // 3. Timelinesidor
-  if (page.timeline && page.timeline.length > 0) {
-    /*let html = `<h2>${page.title}</h2>`;*/
-    let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title}</h2>
-    `;
-
-    if (page.text) {
-      html += `<div class="text-block">${page.text}</div>`;
-    }
-
-    html += renderTimeline(page.timeline);
 
     if (page.showPlaceholder !== false) {
       html += `
         <div class="placeholder-box">
-          ${siteMeta[lang].placeholder}
+          ${siteMeta?.[lang]?.placeholder || ""}
         </div>
       `;
     }
 
-    main.innerHTML = html;
-    return;
-  }
-
-    // 4. Kapitelsidor
-  if (page.pageType === "chapter" && page.chapter) {
-    /* let html = renderChapter(page); */
-      let html = `
-    ${getMobileMenuButtonHtml()}
-    ${renderChapter(page)}
-  `;
-
-    if (page.showPlaceholder !== false) {
-      html += `
-        <div class="placeholder-box">
-          ${siteMeta[lang].placeholder}
-        </div>
-      `;
-    }
 
     main.innerHTML = html;
     return;
   }
 
-  // 5. Vanliga sidor
 
-  /*  let html = `<h2>${page.title}</h2>`;*/
-  let html = `
-   ${getMobileMenuButtonHtml()}
-  <h2>${page.title}</h2>
-  `;
+  /*
+    3. Timeline
+  */
 
-  if (page.blocks && page.blocks.length > 0) {
-    page.blocks.forEach(block => {
-      if (block.type === "text") {
-        html += `
-          <div class="text-block">
-            ${block.content}
-          </div>
-        `;
-      }
-
-      if (block.type === "letter") {
-  html += `<div class="letter">${block.content}</div>`;
-}
-
-if (block.type === "song") {
-  html += `<div class="song">${block.content}</div>`;
-}
-
-      if (block.type === "image") {
-        const imageSize = block.size ? `image-${block.size}` : "image-full";
-
-        html += `
-          <figure class="image-block ${imageSize}">
-            <img src="${block.src}" alt="${block.alt || ""}">
-            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
-          </figure>
-        `;
-      }
-
-      if (block.type === "divider") {
-        html += `<hr>`;
-      }
-    });
-  } else {
-    if (page.text) {
-      html += `<div class="text-block">${page.text}</div>`;
-    }
-
-    if (page.images && page.images.length > 0) {
-      html += `<div class="image-gallery">`;
-
-      page.images.forEach(src => {
-        html += `<img src="${src}" alt="">`;
-      });
-
-      html += `</div>`;
-    }
-  }
-
-  if (page.showPlaceholder !== false) {
-    html += `
-      <div class="placeholder-box">
-        ${siteMeta[lang].placeholder}
-      </div>
-    `;
-  }
-
-  main.innerHTML = html;
-}
-
-function renderContent_old() {
-  const main = document.getElementById("content");
-  const content = getContent();
-  const page = content[currentSection] && content[currentSection][currentPage]
-    ? content[currentSection][currentPage]
-    : null;
-
-  if (!page) {
-    main.innerHTML = `
-      <h2>${siteMeta[lang].missingTitle}</h2>
-      <p>${siteMeta[lang].missingText}</p>
-    `;
-    return;
-  }
-
-  let html = `<h2>${page.title}</h2>`;
-
-  // Timelinesidor
-   if (page.timeline && page.timeline.length > 0) {
-    if (page.text) {
-      html += `<div class="text-block">${page.text}</div>`;
-    }
-
-    html += renderTimeline(page.timeline);
-  } else if (page.blocks && page.blocks.length > 0) {
-    page.blocks.forEach(block => {
-      if (block.type === "text") {
-        html += `
-          <div class="text-block">
-            ${block.content}
-          </div>
-        `;
-      }
-
-      if (block.type === "image") {
-        const imageSize = block.size ? `image-${block.size}` : "image-full";
-
-        html += `
-          <figure class="image-block ${imageSize}">
-            <img src="${block.src}" alt="${block.alt || ""}">
-            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
-          </figure>
-        `;
-      }
-
-      if (block.type === "divider") {
-        html += `<hr>`;
-      }
-    });
-  } else {
-    if (page.text) {
-      html += `<div class="text-block">${page.text}</div>`;
-    }
-
-    if (page.images && page.images.length > 0) {
-      html += `<div class="image-gallery">`;
-
-      page.images.forEach(src => {
-        html += `<img src="${src}" alt="">`;
-      });
-
-      html += `</div>`;
-    }
-
-    
-  }
-
-  if (page.showPlaceholder !== false) {
-    html += `
-      <div class="placeholder-box">
-        ${siteMeta[lang].placeholder}
-      </div>
-    `;
-
-    main.innerHTML = html;
-    return;
-  
-  }
-
-  // Albumsidor: h�mtar bild + tracklist fr�n musicData
   if (
-    currentSection === "music" &&
-    musicData.albums[currentPage]
+    page.timeline &&
+    page.timeline.length > 0
   ) {
-    const album = musicData.albums[currentPage];
-
-    if (page.intro) {
-      html += `
-        <div class="text-block">
-          ${page.intro}
-        </div>
-      `;
-    }
-
-    if (album.image) {
-      html += `
-        <figure class="image-block image-small">
-          <img src="${album.image}" alt="${album.imageAlt || album.title || ""}">
-          ${page.caption ? `<figcaption>${page.caption}</figcaption>` : ""}
-        </figure>
-      `;
-    }
-
-    html += renderTrackList(currentPage);
-
-    if (page.showPlaceholder !== false) {
-      html += `
-        <div class="placeholder-box">
-          ${siteMeta[lang].placeholder}
-        </div>
-      `;
-    }
-
-    main.innerHTML = html;
-    return;
-  }
-
-  // L�tsidor med lyrics
-  if (currentSection === "music" && page.lyrics) {
-
-  let backButton = "";
-
-  if (lastAlbumPage) {
-    backButton = `
-      <div class="back-link">
-        <a href="#" onclick="goBackToAlbum(); return false;">
-          &#8592; ${uiText[lang].backToAlbum}
-        </a>
-      </div>
+    let html = `
+      ${getMobileMenuButtonHtml()}
+      <h2>${page.title || ""}</h2>
     `;
-  }
 
-  html += backButton;
 
-  // ?? NYTT: bild om den finns
-  if (page.image) {
-    const imageSize = page.image.size ? `image-${page.image.size}` : "image-small";
-
-    html += `
-      <figure class="image-block ${imageSize}">
-        <img src="${page.image.src}" alt="${page.image.alt || ""}">
-        ${page.image.caption ? `<figcaption>${page.image.caption}</figcaption>` : ""}
-      </figure>
-    `;
-  }
-
-  html += `
-    <div class="text-block lyrics-block">
-      ${page.lyrics.trim().replace(/\n/g, "<br>")}
-    </div>
-  `;
-
-  html += backButton;
-
-  if (page.showPlaceholder !== false) {
-    html += `
-      <div class="placeholder-box">
-        ${siteMeta[lang].placeholder}
-      </div>
-    `;
-  }
-
-  main.innerHTML = html;
-  return;
-}
-
-//
- 
-
-  // Vanliga blocksidor
-  
-  if (page.blocks && page.blocks.length > 0) {
-    page.blocks.forEach(block => {
-      if (block.type === "text") {
-        html += `
-          <div class="text-block">
-            ${block.content}
-          </div>
-        `;
-      }
-
-      if (block.type === "image") {
-        const imageSize = block.size ? `image-${block.size}` : "image-full";
-
-        html += `
-          <figure class="image-block ${imageSize}">
-            <img src="${block.src}" alt="${block.alt || ""}">
-            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
-          </figure>
-        `;
-      }
-
-      if (block.type === "divider") {
-        html += `<hr>`;
-      }
-    });
-  } else {
     if (page.text) {
       html += `
         <div class="text-block">
@@ -815,30 +739,176 @@ function renderContent_old() {
       `;
     }
 
-    if (page.images && page.images.length > 0) {
-      html += `<div class="image-gallery">`;
+
+    html += renderTimeline(
+      page.timeline
+    );
+
+
+    if (page.showPlaceholder !== false) {
+      html += `
+        <div class="placeholder-box">
+          ${siteMeta?.[lang]?.placeholder || ""}
+        </div>
+      `;
+    }
+
+
+    main.innerHTML = html;
+    return;
+  }
+
+
+  /*
+    4. Kapitelsidor
+  */
+
+  if (
+    page.pageType === "chapter" &&
+    page.chapter
+  ) {
+    let html = `
+      ${getMobileMenuButtonHtml()}
+      ${renderChapter(page)}
+    `;
+
+
+    if (page.showPlaceholder !== false) {
+      html += `
+        <div class="placeholder-box">
+          ${siteMeta?.[lang]?.placeholder || ""}
+        </div>
+      `;
+    }
+
+
+    main.innerHTML = html;
+    return;
+  }
+
+
+  /*
+    5. Vanliga sidor
+  */
+
+  let html = `
+    ${getMobileMenuButtonHtml()}
+    <h2>${page.title || ""}</h2>
+  `;
+
+
+  if (
+    page.blocks &&
+    page.blocks.length > 0
+  ) {
+    page.blocks.forEach(block => {
+
+      if (block.type === "text") {
+        html += `
+          <div class="text-block">
+            ${block.content || ""}
+          </div>
+        `;
+      }
+
+
+      if (block.type === "letter") {
+        html += `
+          <div class="letter">
+            ${block.content || ""}
+          </div>
+        `;
+      }
+
+
+      if (block.type === "song") {
+        html += `
+          <div class="song">
+            ${block.content || ""}
+          </div>
+        `;
+      }
+
+
+      if (block.type === "image") {
+        const imageSize =
+          block.size
+            ? `image-${block.size}`
+            : "image-full";
+
+        html += `
+          <figure class="image-block ${imageSize}">
+
+            <img
+              src="${block.src}"
+              alt="${block.alt || ""}">
+
+            ${block.caption
+              ? `
+                <figcaption>
+                  ${block.caption}
+                </figcaption>
+              `
+              : ""}
+
+          </figure>
+        `;
+      }
+
+
+      if (block.type === "divider") {
+        html += `<hr>`;
+      }
+    });
+
+  } else {
+
+    if (page.text) {
+      html += `
+        <div class="text-block">
+          ${page.text}
+        </div>
+      `;
+    }
+
+
+    if (
+      page.images &&
+      page.images.length > 0
+    ) {
+      html += `
+        <div class="image-gallery">
+      `;
 
       page.images.forEach(src => {
-        html += `<img src="${src}" alt="">`;
+        html += `
+          <img
+            src="${src}"
+            alt="">
+        `;
       });
 
       html += `</div>`;
     }
   }
 
+
   if (page.showPlaceholder !== false) {
     html += `
       <div class="placeholder-box">
-        ${siteMeta[lang].placeholder}
+        ${siteMeta?.[lang]?.placeholder || ""}
       </div>
     `;
   }
+
 
   main.innerHTML = html;
 }
 
 
-
+/* =========================================================
+   Main
+   ========================================================= */
 
 function renderAll() {
   ensureValidState();
@@ -850,55 +920,80 @@ function renderAll() {
   updateMobileView();
 }
 
+
 function setLang(newLang) {
   lang = newLang;
   renderAll();
 }
 
-document.addEventListener("click", function (e) {
-  const link = e.target.closest("a[data-section][data-page]");
 
-  if (!link) {
-    return;
+/* =========================================================
+   Internal links
+   ========================================================= */
+
+document.addEventListener(
+  "click",
+  function (e) {
+
+    /*
+      Låt i albumlistan
+    */
+
+    const albumTrack =
+      e.target.closest(
+        "a[data-album-track]"
+      );
+
+    if (albumTrack) {
+      e.preventDefault();
+
+      openSongLyrics(
+        albumTrack.dataset.albumTrack
+      );
+
+      return;
+    }
+
+
+    /*
+      Tillbaka till album
+    */
+
+    const backToAlbum =
+      e.target.closest(
+        "a[data-back-to-album]"
+      );
+
+    if (backToAlbum) {
+      e.preventDefault();
+
+      goBackToAlbum();
+
+      return;
+    }
+
+
+    /*
+      Vanlig intern sidlänk
+    */
+
+    const link =
+      e.target.closest(
+        "a[data-section][data-page]"
+      );
+
+    if (!link) {
+      return;
+    }
+
+    e.preventDefault();
+
+    navigateTo(
+      link.dataset.section,
+      link.dataset.page
+    );
   }
-
-  e.preventDefault();
-
-  // Spara var vi kom ifr�n innan vi g�r till textsidan
-  if (currentSection === "music") {
-    lastAlbumPage = currentPage;
-  }
-
-  navigateTo(
-  link.dataset.section,
-  link.dataset.page
 );
-});
 
-readRouteFromUrl();
-ensureValidState();
 
-if (mobileMedia.matches) {
-  const pages = getVisiblePages(currentSection);
-
-  if (window.location.hash || pages.length === 1) {
-    mobileView = "content";
-  } else {
-    mobileView = "menu";
-  }
-}
-
-renderAll();
-updateRouteInUrl();
-
-window.addEventListener("popstate", () => {
-  readRouteFromUrl();
-
-  if (mobileMedia.matches) {
-    mobileView = "content";
-  }
-
-  renderAll();
-});
-
-mobileMedia.addEventListener("change", updateMobileView);
+initCommonNavigation();

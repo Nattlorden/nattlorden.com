@@ -20,113 +20,8 @@
               "icon": "lucide-file",
               "title": "T3ac"
             }
-          },
-          {
-            "id": "e613d73a83d74805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mejeriet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mejeriet"
-            }
-          },
-          {
-            "id": "f2406e017b1f532c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nålens båda ändar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nålens båda ändar"
-            }
-          },
-          {
-            "id": "e384d4607e693f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelkonsoler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spelkonsoler"
-            }
-          },
-          {
-            "id": "1062f0bafd0f77cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datorer (mina).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Datorer (mina)"
-            }
-          },
-          {
-            "id": "69eb011de8855bc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grannar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grannar"
-            }
-          },
-          {
-            "id": "6fc25e8a2367a472",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "94bcc02146f37a84",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6974705508a0311d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bröllop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bröllop"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Filutforskare"
             }
           },
           {
@@ -281,43 +176,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Öppna snabbväxlare": false,
+      "graph:Öppna grafvy": false,
+      "canvas:Skapa ny canvas": false,
+      "daily-notes:Öppna dagens anteckning": false,
+      "templates:Infoga mall": false,
+      "command-palette:Öppna kommandopalett": false,
+      "bases:Skapa ny bas": false
     }
   },
-  "active": "6974705508a0311d",
+  "active": "043cba07e3b024e4",
   "lastOpenFiles": [
     "gitarr.md",
-    "Fiol.md",
+    "bröllop.md",
     "SummerTour.md",
-    "Grundskoleklassen.md",
+    "Spelkonsoler.md",
+    "Mejeriet.md",
+    "Malin Lindberg.md",
+    "Madeleine Liljestam.md",
+    "Heartbreak Tattoo.md",
+    "Grannar.md",
+    "Fiol.md",
+    "Eleine.md",
+    "Datorer (mina).md",
     "Datorer (använda).md",
     "Dammhagskolan.md",
-    "Grannar.md",
-    "Datorer (mina).md",
-    "Spelkonsoler.md",
-    "Nålens båda ändar.md",
-    "Malin Lindberg.md",
-    "länge glömt.md",
-    "Privat test.md",
-    "Heartbreak Tattoo.md",
-    "Madeleine Liljestam.md",
-    "Serenia.md",
-    "Eleine.md",
-    "Förlorade visor.md",
     "ABBA.md",
-    "Mejeriet.md",
     "2026.md",
-    "jag.md",
-    "bröllop.md",
-    "linnearigeblad.com.md",
-    "T3ac.md",
+    "Grundskoleklassen.md",
     "Posthuman Cabaret.md",
+    "LTH.md",
+    "Serenia Records.md",
+    "Nattlorden (artist).md",
+    "Dísir.md",
+    "Mailýsa (artist).md",
+    "Freyja (artist).md",
+    "Serenia (artist).md",
+    "Threshold Canticle.md",
     "Bilder/Keri_pouch.jpg",
     "Bilder/SereniaRecords logo small.png",
     "Bilder/Serenia Records 1978-1985 small.png",
