@@ -9,7 +9,7 @@ Först gick [[jag]] ett år i förskola på förskola/dagis som låg i anslutnin
 
 Åk 4-6: [[Sandåkerskolan]] ( Marie Gullberg, vikarie [[Göran Andersson]] )
 
-Åk 7-9: [[Dammhagskrolan]] (kvinnlig klassföreståndare, Folke i Matematik & Teknik)
+Åk 7-9: [[Dammhagskolan]] (kvinnlig klassföreståndare, Folke i Matematik & Teknik)
 
 [[Grundskoleklassen]] - efter hand som jag minns.
 

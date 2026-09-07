@@ -191,7 +191,11 @@ Carmen (elavbrott hemma - åkte hem i pausen)
 Lohengrin
 Chicago
 Askungen
-Come from Away`
+Come from Away
+
+<h4>2026-2027</a>
+The Shining (6:e september)
+`
     },
     {
       type: "image",

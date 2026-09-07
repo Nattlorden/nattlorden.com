@@ -7,7 +7,7 @@ Catrine Martinsson (nu Stark) (högstadiet, kanske från åttan? )
 
 Fredrik Fredriksson "Feke"
 
-Fredrik Olsson "Mage"
+[[Fredrik Olsson]] "Mage"
 
 Fredrik Svensson "Kina"
 
@@ -23,7 +23,7 @@ Magnus Lindholm - första gatan upp från Sandåker
 
 Christer Åkesson
 
-Håkan Lindén
+[[Håkan Lindén]]
 
 Ann-Britt Svensson(?)
 

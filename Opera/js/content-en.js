@@ -190,7 +190,10 @@ Carmen (power outage at home – left during the interval)
 Lohengrin
 Chicago
 Askungen
-Come from Away`
+Come from Away
+
+<h4>2026-2027</a>
+The Shining (September 6th)`
     },
     {
       type: "image",

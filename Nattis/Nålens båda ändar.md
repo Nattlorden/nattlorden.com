@@ -2,6 +2,8 @@ Min bok.
 
 Påbörjades som anteckningar under [[solokampanj]] med [[Henrik Lennartz (Böijers)|Henrik]], vilket inte var första gången - jag har något tidigare liggande någonstans också. Då man sällan hinner med med än stödord så var det renskrivning ifrån minnet så fort som möjligt i efterhand med alla små dekorationer som ens egen upplevelse av situationerna skapat.
 
+Huvuddelen av tillfällena spelade i hans föräldrahems källare, men även i lediga salar på [[LTH]] under håltimmar och möjligen också i mitt föräldrahem. ( Jag körde bil själv emedan han behövde skjuts, därav den skeva fördelningen. )
+
 Till att börja med skrevs det i en ordbehandlare på min Atari ST men flyttades senare över till PC då det gick att special-formatera en floppy så den var läsbar av båda.  Med lite konvertering så hamnade texten således i [AmiPro](https://en.wikipedia.org/wiki/Am%C3%AD) i [OS/2](https://en.wikipedia.org/wiki/OS/2).
 
 Andra gången den behövde överleva var när OS/2 inte längre fick någon fortsättning som PC-operativ och tyvärr hittade jag ingen konverterare av AmiPro-dokument till Word-dokument eller rå text, så jag åkte på att rensa ut all styrinformation i binärformat för att komma åt själva texten. Här kunde berättelsen slutat om detta inte gått.
