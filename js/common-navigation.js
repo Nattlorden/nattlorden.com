@@ -63,6 +63,58 @@ function getVisiblePages(sectionKey) {
   });
 }
 
+/* ---------- Common renderTopMenu --- */
+
+function renderTopMenu() {
+  if (typeof renderLocalTopMenu === "function") {
+    renderLocalTopMenu();  /* If local specialization exists, run that instead */
+    return;
+  }
+  const topMenu = document.getElementById("topMenu");
+
+  if (!topMenu) {
+    return;
+  }
+
+  topMenu.innerHTML = "";
+
+  const sections = getSections()
+    .filter(isSectionVisible);
+
+  sections.forEach(sectionKey => {
+    const item = document.createElement("div");
+    item.className = "top-menu-item";
+    item.textContent =
+      sectionLabels?.[lang]?.[sectionKey] || sectionKey;
+
+    if (sectionKey === currentSection) {
+      item.classList.add("active");
+    }
+
+    item.onclick = function () {
+      const pages = getVisiblePages(sectionKey);
+
+      if (pages.length === 1) {
+        navigateTo(
+          sectionKey,
+          pages[0],
+          true,
+          "content"
+        );
+      }
+      else {
+        navigateTo(
+          sectionKey,
+          pages.length ? pages[0] : "",
+          true,
+          "menu"
+        );
+      }
+    };
+
+    topMenu.appendChild(item);
+  });
+}
 
 /* ---------- URL / history ---------- */
 

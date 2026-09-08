@@ -29,10 +29,11 @@ Bengt Mattsson (A?)
 
 Bo Månsson
 
-Stefan NN
+Stefan NN (Nilsson?)
 
 Dennis(?)
 
+Peter Man(n)folk
 
 T3A
 

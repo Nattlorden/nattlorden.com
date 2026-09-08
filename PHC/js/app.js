@@ -83,7 +83,7 @@ function updateTagline() {
 }
 
 
-function renderTopMenu() {
+function renderLocalTopMenu() {
   const topMenu = document.getElementById("topMenu");
 
   if (!topMenu) {
@@ -207,7 +207,7 @@ function renderContent() {
   if (!page) {
     main.innerHTML = `
       <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
-      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
+      <p>${siteMeta?.[lang]?.missingText || "Innehï¿½ll kommer senare."}</p>
     `;
     return;
   }
