@@ -681,9 +681,29 @@ background-image: url("../assets/ui/writing.png");
   display: inline; /* eller block beroende på layout */
 }
 
+/* =========================
+   Mobil layout
+   ========================= */
+
 .mobile-menu-button {
   display: none;
 }
+
+@media (max-width: 768px) {
+
+  .layout {
+    display: block;
+  }
+
+  .side-menu {
+    width: auto;
+    min-height: 0;
+    border-right: none;
+  }
+
+  .content-area {
+    width: auto;
+  }
 
   /* Navigationsläge */
   body.mobile-menu-view .side-menu {
@@ -720,5 +740,74 @@ background-image: url("../assets/ui/writing.png");
   body.mobile-content-view .mobile-menu-button:hover {
     color: var(--accent-hover);
     border-color: var(--accent-hover);
+  }
+}
+
+/* =========================================================
+   Kapitel - mobil
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .chapter-page {
+    padding: 24px 18px;
+    margin: 0;
+  }
+
+  .chapter-title {
+    font-size: 1.45rem;
+    line-height: 1.2;
+  }
+
+  .chapter-subtitle {
+    font-size: 0.88rem;
+    line-height: 1.4;
+    margin-bottom: 20px;
+  }
+
+  .chapter-opening,
+  .chapter-text {
+    font-size: 0.88rem;
+    line-height: 1.55;
+  }
+
+  .chapter-text p {
+    text-indent: 1.25em;
+    margin-bottom: 0.55em;
+  }
+
+  .chapter-text p.medium-break {
+    margin-top: 1.6em;
+  }
+
+  .dropcap-image {
+    width: 64px;
+    margin-right: 8px;
+    margin-left: -4px;
+  }
+
+  .chapter-marker {
+    width: 90px;
+    margin: 32px auto;
+  }
+
+  .chapter-illustration {
+    margin: 24px auto;
+  }
+
+  .chapter-illustration figcaption {
+    font-size: 0.8rem;
+  }
+
+  .letter {
+    margin: 22px 0;
+    padding: 12px 16px;
+    line-height: 1.5;
+  }
+
+  .song {
+    margin: 22px 0;
+    font-size: 0.88rem;
+    line-height: 1.5;
   }
 }
