@@ -767,7 +767,7 @@ background-image: url("../assets/ui/writing.png");
 
   .chapter-opening,
   .chapter-text {
-    font-size: 0.88rem;
+    font-size: 0.84rem; /* Was 0.88rem */
     line-height: 1.55;
   }
 
