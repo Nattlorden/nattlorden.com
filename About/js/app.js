@@ -123,7 +123,9 @@ function renderTopMenu() {
 
   topMenu.innerHTML = "";
 
-  const sections = getSections();
+  /*const sections = getSections();**/
+  const sections = getSections()
+    .filter(isSectionVisible);
 
   sections.forEach(sectionKey => {
     const item = document.createElement("div");

@@ -1,6 +1,6 @@
 /* =========================================================
    common-navigation.js
-   Gemensam navigation för sidor med section/page-struktur
+   Gemensam navigation fï¿½r sidor med section/page-struktur
    ========================================================= */
 
 const mobileMedia = window.matchMedia("(max-width: 768px)");
@@ -17,6 +17,18 @@ function hasAccess(key) {
   return localStorage.getItem(key) === "yes";
 }
 
+function isSectionVisible(sectionKey) {
+  if (
+    typeof sectionAccess === "undefined" ||
+    !sectionAccess
+  ) {
+    return true;
+  }
+
+  const requiredKey = sectionAccess[sectionKey];
+
+  return !requiredKey || hasAccess(requiredKey);
+}
 
 function isPageVisible(page) {
   if (!page) {
@@ -28,7 +40,7 @@ function isPageVisible(page) {
     return false;
   }
 
-  // Äldre modell:
+  // ï¿½ldre modell:
   // hidden: "hexAccess"
   if (typeof page.hidden === "string") {
     return hasAccess(page.hidden);

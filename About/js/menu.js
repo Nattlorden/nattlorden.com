@@ -13,6 +13,11 @@ const sectionLabels = {
   }
 };
 
+const sectionAccess = {
+  deep: "friendAccess",
+  mindmap: "friendAccess"
+};
+
 const siteMeta = {
   sv: {
     missingTitle: "Saknas",

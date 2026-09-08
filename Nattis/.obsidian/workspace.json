@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Dungeons & Dragons.md",
+                "file": "golfresan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Dungeons & Dragons"
+              "title": "golfresan"
             }
           }
         ],
@@ -203,6 +203,8 @@
   "active": "e40f02d919c227bc",
   "lastOpenFiles": [
     "Skottland.md",
+    "golfresan.md",
+    "Advanced Dungeons & Dragons.md",
     "bröllop.md",
     "Madeleine Liljestam.md",
     "Eleine.md",
@@ -226,8 +228,6 @@
     "Serenia Records.md",
     "Nattlorden (artist).md",
     "Dísir.md",
-    "Mailýsa (artist).md",
-    "Freyja (artist).md",
     "Bilder/Keri_pouch.jpg",
     "Bilder/SereniaRecords logo small.png",
     "Bilder/Serenia Records 1978-1985 small.png",
