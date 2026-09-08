@@ -63,16 +63,16 @@ function canAccessPage(page) {
   }
 
   /*
-    hidden: true betyder här:
-    dölj ur menyn, men sidan får fortfarande öppnas
-    via kort eller intern länk.
+    hidden: true betyder hï¿½r:
+    dï¿½lj ur menyn, men sidan fï¿½r fortfarande ï¿½ppnas
+    via kort eller intern lï¿½nk.
   */
   if (page.hidden === true) {
     return true;
   }
 
   /*
-    Äldre Freyja-modell:
+    ï¿½ldre Freyja-modell:
     hidden: "hexAccess"
   */
   if (typeof page.hidden === "string") {
@@ -143,56 +143,6 @@ function updateTagline() {
   }
 
   document.documentElement.lang = lang;
-}
-
-
-function renderTopMenu() {
-  const topMenu = document.getElementById("topMenu");
-
-  if (!topMenu) {
-    return;
-  }
-
-  topMenu.innerHTML = "";
-
-  const sections = getSections();
-
-  sections.forEach(sectionKey => {
-    if (!canAccessSection(sectionKey)) {
-      return;
-    }
-
-    const item = document.createElement("div");
-    item.className = "top-menu-item";
-    item.textContent =
-      sectionLabels?.[lang]?.[sectionKey] || sectionKey;
-
-    if (sectionKey === currentSection) {
-      item.classList.add("active");
-    }
-
-    item.onclick = function () {
-      const pages = getVisiblePages(sectionKey);
-
-      if (pages.length === 1) {
-        navigateTo(
-          sectionKey,
-          pages[0],
-          true,
-          "content"
-        );
-      } else {
-        navigateTo(
-          sectionKey,
-          pages.length ? pages[0] : "",
-          true,
-          "menu"
-        );
-      }
-    };
-
-    topMenu.appendChild(item);
-  });
 }
 
 
@@ -343,7 +293,7 @@ function renderContent() {
   if (!page) {
     main.innerHTML = `
       <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
-      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
+      <p>${siteMeta?.[lang]?.missingText || "Innehï¿½ll kommer senare."}</p>
     `;
     return;
   }

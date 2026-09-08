@@ -142,58 +142,6 @@ function updateTagline() {
 }
 
 
-function renderTopMenu() {
-  const topMenu =
-    document.getElementById("topMenu");
-
-  if (!topMenu) {
-    return;
-  }
-
-  topMenu.innerHTML = "";
-
-  const sections = getSections();
-
-  sections.forEach(sectionKey => {
-    const item =
-      document.createElement("div");
-
-    item.className = "top-menu-item";
-
-    item.textContent =
-      sectionLabels?.[lang]?.[sectionKey] ||
-      sectionKey;
-
-    if (sectionKey === currentSection) {
-      item.classList.add("active");
-    }
-
-    item.onclick = function () {
-      const pages =
-        getVisiblePages(sectionKey);
-
-      if (pages.length === 1) {
-        navigateTo(
-          sectionKey,
-          pages[0],
-          true,
-          "content"
-        );
-      } else {
-        navigateTo(
-          sectionKey,
-          pages.length ? pages[0] : "",
-          true,
-          "menu"
-        );
-      }
-    };
-
-    topMenu.appendChild(item);
-  });
-}
-
-
 function renderSideMenu() {
   const sideMenu =
     document.getElementById("sideMenu");
@@ -341,7 +289,7 @@ function renderContent() {
   if (!page) {
     main.innerHTML = `
       <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
-      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
+      <p>${siteMeta?.[lang]?.missingText || "Innehï¿½ll kommer senare."}</p>
     `;
     return;
   }

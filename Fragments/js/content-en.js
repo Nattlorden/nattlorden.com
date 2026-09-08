@@ -7297,6 +7297,19 @@ a name.`
 
 }, /* end Khellendros */
 
+disir: {
+    about: {
+      menuTitle: "Om",
+      title: "Dísir",
+      text: `Dísir is a collection project of female voices in mixed genres.`,
+      showPlaceholder: false
+    },
+    marieCeleste: {
+      menuTitle: "Marie Celeste",
+      title: "Marie Celeste",
+      text: ``
+    }
+  }, /* end disir */
 
  /*hifi: {
     about: {
