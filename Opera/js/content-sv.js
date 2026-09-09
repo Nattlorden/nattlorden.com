@@ -599,7 +599,8 @@ tar varje vinter röst.`
 Avalon…`,
       translation: `Avalon…
 
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -710,7 +711,8 @@ Varje låga söker aska.`
       type: "line",
       voice: "Kvinnokör",
       original: `Avalon…`,
-      translation: `Avalon…`
+      translation: `Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -722,7 +724,8 @@ Varje låga söker aska.`
       type: "line",
       voice: "Kvinnokör",
       original: `Avalon…`,
-      translation: `Avalon…`
+      translation: `Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -754,7 +757,8 @@ Om någon minns,`
 Avalon…`,
       translation: `Avalon…
 
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -764,7 +768,8 @@ Avalon…`
       Avalon…`,
       translation: `Avalon…
       
-      Avalon…`
+      Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -774,7 +779,8 @@ Avalon…`
 Avalon…`,
       translation: `Avalon…
 
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     }
   ]
 
@@ -1261,7 +1267,8 @@ döljer bottenlösa djup.`
       original: `Arthur!
 Arthur!`,
       translation: `Arthur!
-Arthur!`
+Arthur!`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -1384,13 +1391,17 @@ En kung för folket.
       type: "line",
       voice: "Kör",
       original: `Arthur…
-Arthur…
-
-Che il cielo protegga il suo cammino.`,
+Arthur…`,
       translation: `Arthur…
-Arthur…
+Arthur…`,
+  hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Che il cielo protegga il suo cammino.`,
+      translation: `Må himlen skydda hans väg.`
 
-Må himlen skydda hans väg.`
     },
     {
       type: "line",
@@ -1882,7 +1893,8 @@ utan att älska kronan.`
       original: `Camelot…
 Camelot…`,
       translation: `Camelot…
-Camelot…`
+Camelot…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -1971,7 +1983,8 @@ för att inte fortfarande tro på morgondagen!`
       original: `Camelot…
 Camelot…`,
       translation: `Camelot…
-Camelot…`
+Camelot…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -2045,7 +2058,8 @@ ser jag inte längre de små ljusen dansa
 Avalon…`,
       translation: `Avalon…
 
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -2195,7 +2209,8 @@ Avalon…
 `,
       translation: `Avalon…
 Avalon…
-`
+`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -2219,7 +2234,8 @@ där världen en gång visste hur man drömmer.`
       type: "line",
       voice: "Kör",
       original: `Avalon…`,
-      translation: `Avalon…`
+      translation: `Avalon…`,
+  hideMobileTranslation: true
     }
   ]
 
@@ -2537,13 +2553,15 @@ Slutligen…`
       type: "line",
       voice: "Lancelot + Kör",
       original: `Camelot.`,
-      translation: `Camelot.`
-    }    ,
+      translation: `Camelot.`,
+  hideMobileTranslation: true
+    },
     {
       type: "line",
       voice: "Lancelot",
       original: `Camelot.`,
-      translation: `Camelot.`
+      translation: `Camelot.`,
+  hideMobileTranslation: true
     }
   ]
 
@@ -3334,14 +3352,7 @@ prima ancora che impari il proprio nome.
 
 Camelot pensa di governare il domani.
 Ma il domani
-appartiene già al sangue.
-
-Avalon… Avalon…
-Avalon… Avalon…
-Avalon…
-Avalon… Avalon…
-Avalon…
-Avalon…`,
+appartiene già al sangue.`,
       translation: `Framtiden uppstår alltid
 ur det som hjärtat försöker dölja.
 
@@ -3351,15 +3362,26 @@ innan det ens lär sig sitt namn.
 
 Camelot tror att det styr morgondagen.
 Men morgondagen
-tillhör redan blodet.
-
-Avalon… Avalon…
+tillhör redan blodet.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon… Avalon…
 Avalon… Avalon…
 Avalon…
 Avalon… Avalon…
 Avalon…
-Avalon…`
-    },{
+Avalon…`,
+      translation: `Avalon… Avalon…
+Avalon… Avalon…
+Avalon…
+Avalon… Avalon…
+Avalon…
+Avalon…`,
+  hideMobileTranslation: true
+    },
+    {
       type: "line",
       voice: "Morgaine",
       original: `Bevi, dolce regina.
@@ -4589,12 +4611,14 @@ drömmer om sig själv.`
       type: "line",
       voice: "Kvinnokör",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
+  hideMobileTranslation: true
     },{
       type: "line",
       voice: "Mordred",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -4808,13 +4832,15 @@ Det är sjön`
       type: "line",
       voice: "Kvinnokör",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -4864,7 +4890,8 @@ vad tiden påstår.`
       voice: "Kör",
       note: `vokalisering över <i>Avalon</i>`,
       original: `<i>Avalon...Avalon...Avalon...Avalon...</i>`,
-      translation: `<i>Avalon...Avalon...Avalon...Avalon</i>`
+      translation: `<i>Avalon...Avalon...Avalon...Avalon</i>`,
+  hideMobileTranslation: true
     },{
       type: "line",
       voice: "Morgaine",
@@ -4896,7 +4923,8 @@ som ingen ville se komma`
       type: "line",
       voice: "Morgaine + kör",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
+  hideMobileTranslation: true
     },{
       type: "line",
       voice: "Morgaine",
@@ -4997,7 +5025,8 @@ Inget spjut.`
       Avalon…
       Avalon…
       Avalon…
-      Avalon…`
+      Avalon…`,
+  hideMobileTranslation: true
     },{
       type: "line",
       voice: "Morgaine",
@@ -5010,7 +5039,8 @@ som världen inte har glömt.`
       type: "line",
       voice: "Kör",
       original: `Excalibur.`,
-      translation: `Excalibur.`
+      translation: `Excalibur.`,
+  hideMobileTranslation: true
     },{
       type: "line",
       voice: "Morgaine",
@@ -5131,7 +5161,8 @@ anche mentre temo ciò che diventerai.`,
       original: `Avalon…
       Avalon…`,
       translation: `Avalon…
-      Avalon…`
+      Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
