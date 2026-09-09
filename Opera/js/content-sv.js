@@ -6385,7 +6385,8 @@ efter att ha bott för långt från stranden.`
       original: `Avalon…
 Avalon…`,
       translation: `Avalon…
-Avalon…`
+Avalon…`,
+hideMobileTranslation: true
     },
     {
       type: "line",
@@ -6501,8 +6502,9 @@ av den antika världen.`
 Avalon…
 `,
       translation: `Avalon…
-Avalon…
-`
+Avalon…      
+`,
+hideMobileTranslation: true
     },
     {
       type: "line",

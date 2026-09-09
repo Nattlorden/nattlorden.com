@@ -603,11 +603,7 @@ body:not([data-theme="hifi"]) .back-home img {
   opacity: 0.82;
 }
 
-.libretto-mobile-pairs {
-  display: none;
-}
-
-/*@media (max-width: 800px) {
+@media (max-width: 800px) {
   .libretto-line {
     grid-template-columns: 1fr;
     gap: 0.35rem;
@@ -618,72 +614,12 @@ body:not([data-theme="hifi"]) .back-home img {
     border-bottom: 1px solid rgba(255,255,255,0.15);
     padding-bottom: 0.25rem;
   }
-}*/
-
-@media (max-width: 768px) {
-
-  .libretto-line {
-    display: block;
-    margin: 2rem 0;
-  }
-
-  /*.libretto-voice {
-    border-bottom: 1px solid rgba(255,255,255,0.15);
-    padding-bottom: 0.3rem;
-    margin-bottom: 1.1rem;
-  }*/
-  .libretto-voice {
-  margin-bottom: 1.1rem;
-}
-
-.libretto-voice:not(.has-content) {
-  display: none;
-}
-
-.libretto-voice.has-content {
-  border-bottom: 1px solid rgba(255,255,255,0.15);
-  padding-bottom: 0.3rem;
-}
-
-  /*
-    Desktopkolumnerna behövs inte
-    i mobilvyn.
-  */
-
-  .libretto-original,
-  .libretto-translation {
-    display: none;
-  }
-
-  .libretto-mobile-pairs {
-    display: block;
-  }
-
-  .libretto-mobile-pair {
-    margin-bottom: 1.8rem;
-  }
-
-  .libretto-mobile-original,
-  .libretto-mobile-translation {
-    white-space: pre-line;
-    line-height: 1.7;
-  }
-
-  .libretto-mobile-original {
-    margin-bottom: 0.8rem;
-  }
-
-  .libretto-mobile-translation {
-    opacity: 0.82;
-  }
 }
 
 .text-block,
 .note-block,
 .libretto-original,
 .libretto-translation,
-.libretto-mobile-original,
-.libretto-mobile-translation,
 .libretto-action,
 .libretto-scene {
   white-space: pre-line;

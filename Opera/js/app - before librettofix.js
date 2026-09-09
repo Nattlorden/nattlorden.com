@@ -174,119 +174,6 @@ function renderSideMenu() {
 }
 
 
-function renderLibrettoLine(block) {
-  const original =
-    block.original || "";
-
-  const translation =
-    block.translation || "";
-
-   const hasVoiceInfo =
-    !!(block.voice || block.note);
-
-  const hideMobileTranslation =
-    block.hideMobileTranslation === true;  
-
-
-  const originalParts =
-    original
-      .trim()
-      .split(/\n\s*\n/);
-
-  const translationParts =
-    translation
-      .trim()
-      .split(/\n\s*\n/);
-
-
-  let mobileHtml = "";
-
-
-  if (
-    originalParts.length ===
-    translationParts.length
-  ) {
-    mobileHtml =
-      originalParts
-        .map((part, index) => `
-          <div class="libretto-mobile-pair">
-
-            <div class="libretto-mobile-original">
-              ${part}
-            </div>
-
-            ${
-            hideMobileTranslation
-              ? ""
-              : `
-                <div class="libretto-mobile-translation">
-                 ${translationParts[index]}
-                </div>
-              `
-            }
-
-          </div>
-        `)
-        .join("");
-  }
-  else {
-    /*
-      Säker fallback om original och
-      översättning inte har samma
-      styckeindelning.
-    */
-
-    mobileHtml = `
-      <div class="libretto-mobile-pair">
-
-        <div class="libretto-mobile-original">
-          ${original}
-        </div>
-
-        ${
-        hideMobileTranslation
-          ? ""
-          : `
-            <div class="libretto-mobile-translation">
-             ${translation}
-            </div>
-          `
-        }
-
-      </div>
-    `;
-  }
-
-
-  return `
-    <div class="libretto-line">
-
-      <div class="libretto-voice ${hasVoiceInfo ? "has-content" : ""}"> 
-        ${block.voice || ""}
-
-        ${block.note
-          ? `<span>${block.note}</span>`
-          : ""}
-      </div>
-
-
-      <div class="libretto-original">
-        ${original}
-      </div>
-
-      <div class="libretto-translation">
-        ${translation}
-      </div>
-
-
-      <div class="libretto-mobile-pairs">
-        ${mobileHtml}
-      </div>
-
-    </div>
-  `;
-}
-
 function renderContent() {
   const main =
     document.getElementById("content");
@@ -388,7 +275,7 @@ function renderContent() {
       }
 
 
-      /*if (block.type === "line") {
+      if (block.type === "line") {
         html += `
           <div class="libretto-line">
 
@@ -410,13 +297,7 @@ function renderContent() {
 
           </div>
         `;
-      }*/
-
-      if (block.type === "line") {
-         html += renderLibrettoLine(block);
       }
-
-
     });
 
   } else {
