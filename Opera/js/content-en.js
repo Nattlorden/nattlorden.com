@@ -598,7 +598,8 @@ every winter takes voice.`
 Avalon…`,
       translation: `Avalon…
 
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -708,7 +709,8 @@ Every flame seeks ash.`
       type: "line",
       voice: "Women's choir",
       original: `Avalon…`,
-      translation: `Avalon…`
+      translation: `Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -720,7 +722,8 @@ Every flame seeks ash.`
       type: "line",
       voice: "Women's choir",
       original: `Avalon…`,
-      translation: `Avalon…`
+      translation: `Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -752,7 +755,8 @@ If anyone remembers,`
 Avalon…`,
       translation: `Avalon…
 
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -762,7 +766,8 @@ Avalon…`
       Avalon…`,
       translation: `Avalon…
       
-      Avalon…`
+      Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -772,7 +777,8 @@ Avalon…`
 Avalon…`,
       translation: `Avalon…
 
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     }
   ]
 
@@ -1259,7 +1265,8 @@ conceals unfathomable depths.`
       original: `Arthur!
 Arthur!`,
       translation: `Arthur!
-Arthur!`
+Arthur!`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -1382,13 +1389,16 @@ A king for the people.
       type: "line",
       voice: "Choir",
       original: `Arthur…
-Arthur…
-
-Che il cielo protegga il suo cammino.`,
+Arthur…`,
       translation: `Arthur…
-Arthur…
-
-May heaven guard his path.`
+Arthur…`,
+  hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Che il cielo protegga il suo cammino.`,
+      translation: `May heaven guard his path.`
     },
     {
       type: "line",
@@ -1876,7 +1886,8 @@ without loving the crown.`
       original: `Camelot…
 Camelot…`,
       translation: `Camelot…
-Camelot…`
+Camelot…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -2037,7 +2048,9 @@ the little lights dancing above the ferns.
       original: `Avalon…
 Avalon…`,
       translation: `Avalon…
-Avalon…`
+
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -2187,7 +2200,8 @@ Avalon…
 `,
       translation: `Avalon…
 Avalon…
-`
+`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -2211,7 +2225,8 @@ where once the world knew how to dream.`
       type: "line",
       voice: "Choir",
       original: `Avalon…`,
-      translation: `Avalon…`
+      translation: `Avalon…`,
+  hideMobileTranslation: true
     }
   ]
 
@@ -3301,14 +3316,7 @@ prima ancora che impari il proprio nome.
 
 Camelot pensa di governare il domani.
 Ma il domani
-appartiene già al sangue.
-
-Avalon… Avalon…
-Avalon… Avalon…
-Avalon…
-Avalon… Avalon…
-Avalon…
-Avalon…`,
+appartiene già al sangue.`,
       translation: `The future is always born
 from what the heart tries to hide.
 
@@ -3318,14 +3326,24 @@ before it has even learned its own name.
 
 Camelot believes it rules tomorrow.
 But tomorrow
-already belongs to the blood.
-
-Avalon… Avalon…
+already belongs to the blood.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon… Avalon…
 Avalon… Avalon…
 Avalon…
 Avalon… Avalon…
 Avalon…
-Avalon…`
+Avalon…`,
+      translation: `Avalon… Avalon…
+Avalon… Avalon…
+Avalon…
+Avalon… Avalon…
+Avalon…
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -3428,12 +3446,25 @@ act2_3: {
       original: `Un figlio è nato a Camelot!
 Le campane chiamano la gioia!
 Nuovo sangue nelle sale del re!
-Nuova speranza sopra la collina!
-
-Mordred…
-Mordred…
-
-Dorme quieto fra le braccia della madre.
+Nuova speranza sopra la collina!`,
+translation: `A son is born in Camelot!
+The bells proclaim rejoicing!
+New blood in the King's halls!
+New hope upon the hill!`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Mordred…
+Mordred…`,
+translation: `Mordred...
+Mordred...`,
+  hideMobileTranslation: true
+      },
+    {
+      type: "line",
+      voice: "barn + kör",
+      original: `Dorme quieto fra le braccia della madre.
 Gli occhi troppo attenti per un neonato.
 
 Ogni bambino guarda il mondo
@@ -3452,27 +3483,8 @@ dove una volta c’erano soltanto foreste.
 E le vecchie querce cadono piano…
 
 Nuove chiese lungo il fiume!
-Nuovi ponti verso le coste!
-
-Sir Lancelot!
-Sir Lancelot!
-
-Avete visto come la regina lo ascolta?
-Come lui abbassa gli occhi davanti a lei?
-
-Sciocchezze.
-Sono giovani ancora nel cuore.
-
-Eppure Camelot parla…`,
-      translation: `A son is born in Camelot!
-The bells proclaim rejoicing!
-New blood in the King's halls!
-New hope upon the hill!
-
-Mordred…
-Mordred…
-
-He sleeps peacefully in his mother's arms.
+Nuovi ponti verso le coste!`,
+translation: `He sleeps peacefully in his mother's arms.
 Eyes too watchful for a newborn child.
 
 Every child looks upon the world
@@ -3491,11 +3503,30 @@ where once there were only forests.
 And the ancient oaks fall quietly…
 
 New churches along the river!
-New bridges to the coast!
+New bridges to the coast!`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Sir Lancelot!
+Sir Lancelot!`,
+translation: `Sir Lancelot!
+Sir Lancelot!`,
+  hideMobileTranslation: true
 
-Sir Lancelot!
-Sir Lancelot!
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avete visto come la regina lo ascolta?
+Come lui abbassa gli occhi davanti a lei?
 
+Sciocchezze.
+Sono giovani ancora nel cuore.
+
+Eppure Camelot parla…
+`,
+      translation: `
 Have you seen how the Queen listens to him?
 How he lowers his eyes before her?
 
@@ -3554,9 +3585,15 @@ no one ever taught him.`
       type: "line",
       voice: "Woman + Children's choir / Choir",
       original: `Camelot…
-Camelot…
-
-Non più sogno,
+Camelot…`,
+translation: `Camelot…
+Camelot…`,
+  hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Non più sogno,
 ma regno.
 Non più fiamma,
 ma pietra.
@@ -3566,13 +3603,38 @@ Nuovi trattati.
 Nuove sale.
 — Nuovi altari.
 Nuovi figli.
-— Vecchie canzoni dimenticate.
+— Vecchie canzoni dimenticate.`,
+translation: `No longer a dream,
+but a kingdom.
+No longer a flame,
+but stone.
 
-Avalon…
+New treaties.
+— New taxes.
+New halls.
+— New altars.
+New children.
+— Old songs forgotten.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon… 
 Avalon…Avalon…
 Avalon…
 Avalon…Avalon…
+Avalon…`,
+translation: `Avalon… 
+Avalon…Avalon…
 Avalon…
+Avalon…Avalon…
+Avalon…`,
+  hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `
 
 Gli anni passano sopra Camelot
 come pioggia lenta sopra le mura.
@@ -3594,42 +3656,8 @@ I bambini diventano uomini.
 
 Ma qualcosa
 si allontana dal mondo
-senza fare rumore.
-
-Camelot…
-Camelot…
-
-Così splendida
-da dimenticare la propria ombra.
-Così viva
-da non sentire ancora l’inverno.
-
-Avalon… Avalon…
-Avalon… Avalon…
-Avalon…
-Avalon…`,
-      translation: `Camelot…
-Camelot…
-
-No longer a dream,
-but a kingdom.
-No longer a flame,
-but stone.
-
-New treaties.
-— New taxes.
-New halls.
-— New altars.
-New children.
-— Old songs forgotten.
-
-Avalon…
-Avalon…Avalon…
-Avalon…
-Avalon…Avalon…
-Avalon…
-
-The years pass over Camelot
+senza fare rumore.`,
+translation: `The years pass over Camelot
 like gentle rain upon the walls.
 
 And what once seemed eternal
@@ -3649,20 +3677,42 @@ The children become men.
 
 But something
 slips away from the world
-without a sound.
-
-Camelot…
-Camelot…
-
-So splendid
+without a sound.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Camelot…
+Camelot…`,
+translation: `Camelot...
+Camelot...`,
+  hideMobileTranslation: true
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Così splendida
+da dimenticare la propria ombra.
+Così viva
+da non sentire ancora l’inverno.`,
+translation: `So splendid
 that it forgets its own shadow.
 So alive
-that it does not yet feel the coming winter.
-
-Avalon… Avalon…
+that it does not yet feel the coming winter.`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon… Avalon…
 Avalon… Avalon…
 Avalon…
-Avalon…`
+Avalon…`,
+      translation: `Avalon… Avalon…
+Avalon… Avalon…
+Avalon…
+
+Avalon…`,
+  hideMobileTranslation: true
     }
   ]
 },
@@ -4505,13 +4555,13 @@ dreams only of itself.`
       type: "line",
       voice: "Women's choir",
       original: `Mordred…`,
-      translation: `Mordred…`
-    },
-    {
+      translation: `Mordred…`,
+  hideMobileTranslation: true
+    },{
       type: "line",
       voice: "Mordred",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
     },
     {
       type: "line",
@@ -4713,13 +4763,15 @@ It is the lake`
       type: "line",
       voice: "Women's choir",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
       voice: "Mordred",
       original: `Mordred…`,
-      translation: `Mordred…`
+      translation: `Mordred…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -4767,9 +4819,9 @@ what time lays claim to.`
       voice: "Choir",
       note: `vocalising over Avalon`,
       original: `Avalon...Avalon...Avalon...Avalon...`,
-      translation: `Avalon...Avalon...Avalon...Avalon...`
-    },
-    {
+      translation: `<i>Avalon...Avalon...Avalon...Avalon</i>`,
+  hideMobileTranslation: true
+    },{
       type: "line",
       voice: "Morgaine",
       original: `Per secoli questa armatura
@@ -4801,9 +4853,9 @@ the one no one wished to see approaching.`
       type: "line",
       voice: "Morgaine + Choir",
       original: `Mordred…`,
-      translation: `Mordred…`
-    },
-    {
+      translation: `Mordred…`,
+  hideMobileTranslation: true
+    },{
       type: "line",
       voice: "Morgaine",
       original: `figlio della nebbia e delle sale,
@@ -4905,13 +4957,13 @@ Avalon…
 Avalon…
 Avalon…`,
       translation: `Avalon…
-Avalon…
-Avalon…
-Avalon…
-Avalon…
-Avalon…`
-    },
-    {
+      Avalon…
+      Avalon…
+      Avalon…
+      Avalon…
+      Avalon…`,
+  hideMobileTranslation: true
+    },{
       type: "line",
       voice: "Morgaine",
       original: `Ma esiste ancora una ferita
@@ -4923,7 +4975,8 @@ the world has never forgotten.`
       type: "line",
       voice: "Choir",
       original: `Excalibur.`,
-      translation: `Excalibur.`
+      translation: `Excalibur.`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -5049,7 +5102,8 @@ even as I fear what you will become.`
       original: `Avalon…
 Avalon…`,
       translation: `Avalon…
-Avalon…`
+Avalon…`,
+  hideMobileTranslation: true
     },
     {
       type: "line",
@@ -5353,13 +5407,49 @@ Dove sono finite le sale illuminate?
 — Dove sono finite le promesse della pace?
 
 Il vento porta soltanto cenere!
-— E nomi gridati nel fango!
+— E nomi gridati nel fango!`,
+translation: `Rain over Camlann.
+Mud over blood.
+Mist over the broken banners.
 
-Avalon…
-Avalon…
-Avalon…
+Britain holds its breath.
 
-I cavalli scivolano nel sangue.
+Brother against brother.
+The same oaths.
+The same prayers.
+The same graves.
+
+For Arthur!
+— For Avalon!
+For Camelot!
+— For Britain!
+
+And heaven chooses no side among men.
+
+I fought beside him for twenty years!
+— And now I raise my blade against his face!
+
+Where have the lighted halls gone?
+— Where have the promises of peace gone?
+
+The wind carries nothing but ashes!
+— And names shouted into the mud!`
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon…
+Avalon…
+Avalon…`,
+translation: `Avalon…
+Avalon…
+Avalon…`,
+  hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `I cavalli scivolano nel sangue.
 Le lance cadono spezzate.
 Gli scudi affondano nella terra bagnata.
 
@@ -5403,56 +5493,8 @@ Più fragile delle mura.
 Più sacro delle spade.
 
 Qui Britannia
-perde il proprio cuore.
-
-Avalon…
-Avalon…
-Avalon…
-Avalon…
-
-Pioggia sopra Camlann.
-Nebbia sopra i morti.
-
-E il mondo antico
-si chiude lentamente
-come una porta nella notte.
-
-Avalon…
-Avalon…
-Avalon…
-Avalon…`,
-      translation: `Rain over Camlann.
-Mud over blood.
-Mist over the broken banners.
-
-Britain holds its breath.
-
-Brother against brother.
-The same oaths.
-The same prayers.
-The same graves.
-
-For Arthur!
-— For Avalon!
-For Camelot!
-— For Britain!
-
-And heaven chooses no side among men.
-
-I fought beside him for twenty years!
-— And now I raise my blade against his face!
-
-Where have the lighted halls gone?
-— Where have the promises of peace gone?
-
-The wind carries nothing but ashes!
-— And names shouted into the mud!
-
-Avalon…
-Avalon…
-Avalon…
-
-Horses slip in blood.
+perde il proprio cuore.`,
+translation: `Horses slip in blood.
 Spears fall broken.
 Shields sink into the sodden earth.
 
@@ -5496,24 +5538,49 @@ More fragile than walls.
 More sacred than swords.
 
 Here Britain
-loses its heart.
+loses its heart.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon…
+Avalon…
+Avalon…
+Avalon…`,
+translation: `Avalon…
+Avalon…
+Avalon…
+Avalon…`,
+  hideMobileTranslation: true
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Pioggia sopra Camlann.
+Nebbia sopra i morti.
 
-Avalon…
-Avalon…
-Avalon…
-Avalon…
-
-Rain over Camlann.
+E il mondo antico
+si chiude lentamente
+come una porta nella notte.`,
+translation: `Rain over Camlann.
 Mist over the dead.
 
 And the ancient world
 slowly closes
-like a door in the night.
-
+like a door in the night.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon…
 Avalon…
 Avalon…
+Avalon…`,
+      translation: `Avalon…
 Avalon…
-Avalon…`
+Avalon…
+Avalon…`,
+  hideMobileTranslation: true
     }
   ]
 
@@ -5562,24 +5629,8 @@ Le lance si spezzavano contro di lui
 come onde contro scogliera.
 Le spade cadevano inutili nel fango.
 
-E allora ho capito.
-
-Avalon.
-
-Nessun cavaliere avrebbe potuto fermarlo.
-Nessuna mano mortale.
-Nessun esercito.
-
-Restava soltanto Excalibur.
-Restava soltanto il re.
-
-E il mio cuore…
-Dio…
-
-non aveva più forza
-per desiderare la vittoria.
-`,
-      translation: `The rain still falls over Camlann.
+E allora ho capito.`,
+translation: `The rain still falls over Camlann.
 
 Too many dead.
 Too many names lost in the mud.
@@ -5608,11 +5659,32 @@ Spears shattered against him
 like waves against a cliff.
 Swords fell useless into the mud.
 
-And then I understood.
+And then I understood.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Avalon.`,
+      translation: `Avalon.`,
+      hideMobileTranslation: true
+  },
+    {
+      type: "line",
+      voice: "",
+      original: `Nessun cavaliere avrebbe potuto fermarlo.
+Nessuna mano mortale.
+Nessun esercito.
 
-Avalon.
+Restava soltanto Excalibur.
+Restava soltanto il re.
 
-No knight could have stopped him.
+E il mio cuore…
+Dio…
+
+non aveva più forza
+per desiderare la vittoria.
+`,
+      translation: `No knight could have stopped him.
 No mortal hand.
 No army.
 
@@ -5801,11 +5873,38 @@ Dio…
 portatelo piano!
 
 Le sue mani…
-sono fredde…
+sono fredde…`,
+translation: `Why do the bells ring so slowly?
+Why does no one speak?
 
-Arthur!
-Arthur, guardami!
+Open the gates…
+Make way…
 
+The King returns…
+
+No…
+No…
+No!!
+
+Carry him gently!
+
+God…
+carry him gently!
+
+His hands…
+are cold…`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Arthur!`,
+      translation: `Arthur!`,
+  hideMobileTranslation: true
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Arthur, guardami!
 Sono qui!
 Sono qui!
 
@@ -5836,28 +5935,7 @@ E adesso tutto ciò che resta
 è questa distanza terribile
 fra il tuo respiro
 e le mie mani.`,
-      translation: `Why do the bells ring so slowly?
-Why does no one speak?
-
-Open the gates…
-Make way…
-
-The King returns…
-
-No…
-No…
-No!!
-
-Carry him gently!
-
-God…
-carry him gently!
-
-His hands…
-are cold…
-
-Arthur!
-Arthur, look at me!
+      translation: `Arthur, look at me!
 
 I'm here!
 I'm here!
@@ -5940,16 +6018,8 @@ diventi soltanto pietra e pioggia.
 
 Non lasciare me
 sola fra queste mura
-piene dei nostri fantasmi.
-
-Arthur…
-se esiste ancora misericordia
-oltre il sangue e le corone…
-
-allora aspettami
-dall’altra parte del silenzio.
-`,
-      translation: `The halls of Camelot echo empty.
+piene dei nostri fantasmi.`,
+translation: `The halls of Camelot echo empty.
 The knights lower their eyes.
 Even the torches seem to tremble
 like frightened creatures.
@@ -5992,10 +6062,25 @@ become nothing but stone and rain.
 
 Do not leave me
 alone within these walls
-filled with our ghosts.
+filled with our ghosts.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Arthur…`,
+      translation: `Arthur…`,
+  hideMobileTranslation: true
+},
+    {
+      type: "line",
+      voice: "",
+      original: `se esiste ancora misericordia
+oltre il sangue e le corone…
 
-Arthur…
-if mercy still exists
+allora aspettami
+dall’altra parte del silenzio.
+`,
+      translation: `if mercy still exists
 beyond blood and crowns…
 
 then wait for me
@@ -6161,31 +6246,8 @@ Soltanto il peso
 di ciò che non tornerà.
 
 
-Eccoti.
-
-Excalibur.
-
-Ancora confitta nel corpo del ragazzo
-come sole imprigionato nella carne.
-
-Mordred…
-
-povero figlio della nebbia.
-
-Tu volevi salvare un sogno
-che gli uomini avevano già consumato.
-
-Una volta questa lama
-attendeva dentro la pietra
-come promessa.
-
-Ora scivola via senza resistenza
-dal corpo di un figlio morto.
-
-Così finiscono le leggende:
-non con il tuono…
-ma con la stanchezza.`,
-      translation: `The rain has almost erased the names.
+Eccoti.`,
+translation: `The rain has almost erased the names.
 
 Camlann sleeps beneath mud and blood,
 as though the earth itself
@@ -6205,16 +6267,49 @@ Only the weight
 of what will never return.
 
 
-There you are.
+There you are.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Excalibur.`,
+      translation: `Excalibur.`,
+      hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Ancora confitta nel corpo del ragazzo
+come sole imprigionato nella carne.`,
+translation: `Still lodged in the boy's body,
+like a sun imprisoned in flesh.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Mordred…`,
+      translation: `Mordred…`,
+      hideMobileTranslation: true
+},
+    {
+      type: "line",
+      voice: "",
+      original: `povero figlio della nebbia.
 
-Excalibur.
+Tu volevi salvare un sogno
+che gli uomini avevano già consumato.
 
-Still lodged in the boy's body,
-like a sun imprisoned in flesh.
+Una volta questa lama
+attendeva dentro la pietra
+come promessa.
 
-Mordred…
+Ora scivola via senza resistenza
+dal corpo di un figlio morto.
 
-poor son of the mist.
+Così finiscono le leggende:
+non con il tuono…
+ma con la stanchezza.`,
+      translation: `poor son of the mist.
 
 You wanted to save a dream
 that men had already consumed.
@@ -6297,7 +6392,8 @@ after living too long far from the shore.`
       original: `Avalon…
 Avalon…`,
       translation: `Avalon…
-Avalon…`
+Avalon…`,
+hideMobileTranslation: true
     },
     {
       type: "line",
@@ -6414,8 +6510,9 @@ of the ancient world`
 Avalon…
 `,
       translation: `Avalon…
-Avalon…
-`
+Avalon…      
+`,
+hideMobileTranslation: true
     },
     {
       type: "line",
@@ -6468,11 +6565,24 @@ act3_7: {
 
 Perfino Camelot
 sembra avere paura del silenzio
-che sta entrando in queste stanze.
+che sta entrando in queste stanze.`,
+translation: `The torches are slowly burning out.
 
-Arthur…
-
-Così finalmente il destino
+Even Camelot
+seems afraid of the silence
+entering these rooms.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Arthur…`,
+      translation: `Arthur…`,
+      hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `Così finalmente il destino
 ci lascia soli.
 
 Niente consiglieri.
@@ -6493,15 +6603,7 @@ Antiche acque.
 Le stesse che un tempo
 guarivano i re
 prima che gli uomini dimenticassero la terra.`,
-      translation: `The torches are slowly burning out.
-
-Even Camelot
-seems afraid of the silence
-entering these rooms.
-
-Arthur…
-
-So at last destiny
+      translation: `So at last destiny
 leaves us alone.
 
 No counsellors.
@@ -6983,13 +7085,8 @@ Camelot vive ormai soltanto
 nei racconti dei bambini,
 nelle canzoni dei vecchi,
 e nelle ferite
-di chi l’ha conosciuta davvero.
-
-Arthur…
-
-se esiste ancora una strada
-oltre nebbia e memoria…`,
-      translation: `Perhaps this is mankind's true punishment:
+di chi l’ha conosciuta davvero.`,
+translation: `Perhaps this is mankind's true punishment:
 
 not to die with what they love…
 
@@ -7000,11 +7097,21 @@ Camelot now lives only
 in children's tales,
 in the songs of the old,
 and in the wounds
-of those who truly knew her.
-
-Arthur…
-
-if there is still a road
+of those who truly knew her.`
+},
+    {
+      type: "line",
+      voice: "",
+      original: `Arthur…`,
+      translation: `Arthur…`,
+      hideMobileTranslation: true
+    },
+    {
+      type: "line",
+      voice: "",
+      original: `se esiste ancora una strada
+oltre nebbia e memoria…`,
+      translation: `if there is still a road
 beyond mist and memory…`
     },
     {
@@ -7017,6 +7124,7 @@ what I could not save.`
     }
   ]
 },
+
 act3_9: {
   menuTitle: " Epilogo",
   title: "Epilogo",
