@@ -3567,8 +3567,7 @@ Sono giovani ancora nel cuore.
 
 Eppure Camelot parla…
 `,
-      translation: `
-Ser du hur drottningen lyssnar på honom?
+      translation: `Ser du hur drottningen lyssnar på honom?
 Hur han sänker blicken inför henne?
 
 Nonsens.
@@ -3677,9 +3676,7 @@ Avalon…`,
     {
       type: "line",
       voice: "",
-      original: `
-
-Gli anni passano sopra Camelot
+      original: `Gli anni passano sopra Camelot
 come pioggia lenta sopra le mura.
 E ciò che un tempo sembrava eterno
 impara piano il peso del tempo.

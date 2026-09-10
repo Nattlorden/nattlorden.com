@@ -3526,8 +3526,7 @@ Sono giovani ancora nel cuore.
 
 Eppure Camelot parla…
 `,
-      translation: `
-Have you seen how the Queen listens to him?
+      translation: `Have you seen how the Queen listens to him?
 How he lowers his eyes before her?
 
 Nonsense.
@@ -3634,9 +3633,7 @@ Avalon…`,
     {
       type: "line",
       voice: "",
-      original: `
-
-Gli anni passano sopra Camelot
+      original: `Gli anni passano sopra Camelot
 come pioggia lenta sopra le mura.
 
 E ciò che un tempo sembrava eterno
@@ -3706,6 +3703,7 @@ that it does not yet feel the coming winter.`
       original: `Avalon… Avalon…
 Avalon… Avalon…
 Avalon…
+
 Avalon…`,
       translation: `Avalon… Avalon…
 Avalon… Avalon…
@@ -4818,7 +4816,7 @@ what time lays claim to.`
       type: "line",
       voice: "Choir",
       note: `vocalising over Avalon`,
-      original: `Avalon...Avalon...Avalon...Avalon...`,
+      original: `<i>Avalon...Avalon...Avalon...Avalon...</i>`,
       translation: `<i>Avalon...Avalon...Avalon...Avalon</i>`,
   hideMobileTranslation: true
     },{
@@ -5936,7 +5934,6 @@ E adesso tutto ciò che resta
 fra il tuo respiro
 e le mie mani.`,
       translation: `Arthur, look at me!
-
 I'm here!
 I'm here!
 
