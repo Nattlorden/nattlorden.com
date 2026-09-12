@@ -1,19 +1,20 @@
 const sectionLabels = {
   sv: {
-    world: "Världen",
+    project: "Projektet",
     story: "Berättelsen",
-    characters: "Karaktärer",
     music: "Musiken",
-    gallery: "Galleri",
-    project: "Projektet"
+    world: "Världen",    
+    /*characters: "Karaktärer",*/
+    gallery: "Galleri"
+    
   },
   en: {
-    world: "World",
+    project: "Project",
     story: "Story",
-    characters: "Characters",
+    /*characters: "Characters",*/
     music: "Music",
-    gallery: "Gallery",
-    project: "Project"
+    world: "World",
+    gallery: "Gallery"
   }
 };
 

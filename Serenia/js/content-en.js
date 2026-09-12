@@ -1,59 +1,103 @@
 const contentEN = {
-  world: {
-    overview: {
-      menuTitle: "Overview",
-      title: "The World",
+  project: {
+    about: {
+      menuTitle: "About Serenia",
+      title: "About Serenia",
       blocks: [
-  { 
-    type: "text", 
-    content: `Serenia is a dark, subdued fantasy world of stone, mist, faith, trade, power, and memories that refuse to stay still.` 
-  },
+      { type: "text",
+        content: `Serenia is a cohesive project in which novel, music and visual expression are developed side by side.
 
-  { 
-    type: "image", 
-    src: "assets/world/Serenias Harn.png", 
-    size: "small",  
-    caption: `Hârn` 
-  },
+The story of Keri and Raven lies at its heart, but Serenia is not a world that was first written and then had music and images added on top. The ambition is to let story, music, visual language and symbolism grow from the same source – with the same weight, the same darkness and the same desire to feel real.
 
-  { 
-    type: "text", 
-    content: `Serenia is fundamentally based on the roleplaying world HârnWorld, created by N. Robin Crosby, Keléstia Productions, and Columbia Games.
+What cannot find its place in words may take form in music, images, symbols or silences. These are not additions to the story, but other ways of approaching and experiencing the same world.
 
-In accordance with their framework, all events take place after the year 720 TR, where the official canon material ends.
+Here you will find the background to the project, its origins, and the ideas that have shaped how Serenia continues to grow.`,
+       },
+      {
+        type: "divider"
+      },
+      {
+        type: "text",
+        content: `<h2>Origins</h2>
+        The world now known as Serenia was born long before it had a name.
 
-I allow certain elements to be more developed — particularly in areas such as fashion and expression. Distances and population sizes may also be somewhat exaggerated compared to the original setting.
+It took shape at a table — in conversation, in a game between two people, in decisions never written down yet preserved in fragments, carried forward through notes and memory.
 
-A small number of canonical characters appear. Their interpretation and portrayal in this version are entirely my responsibility — Columbia Games and other rights holders bear no responsibility in this context.` 
-  },
+Then it fell silent. Not because it was finished, but because life took its place.
 
-  { 
-    type: "image", 
-    src: "assets/world/landscape.jpg", 
-    size: "small",  
-    caption: `Coastline in Serenia` 
-  }
-],      
+What remained were fragments — names, places, relationships that refused to fade. A rudimentary core, carried in the first person, occasionally demanding attention. Sometimes it was given space. More often, it was not.
+
+But some things do not let you go.
+
+Life moves forward, but so do its losses. When someone who should have remained is suddenly no longer there, what matters enough to carry forward begins to change.
+
+What had once been allowed to rest became something that could no longer be left where it lay.
+
+When the work resumed, it was not a continuation, but a return.
+
+And in that return, the form changed.
+
+What was once a game became a story.
+What was never spoken had to be filled in.
+Those who had never existed, yet proved necessary, were allowed to emerge.
+
+What could not be contained in words took form in music.
+What could not be described was given shape in image.
+
+Serenia is not a finished work.
+
+It is what remains — when something refuses to let go.`
+        }
+      ],
       showPlaceholder: false
- 
+    } /*,
+    origins: {
+      menuTitle: "Origins",
+      title: "Origins",
+      text: `The world now known as Serenia was born long before it had a name.
+
+It took shape at a table — in conversation, in a game between two people, in decisions never written down yet preserved in fragments, carried forward through notes and memory.
+
+Then it fell silent. Not because it was finished, but because life took its place.
+
+What remained were fragments — names, places, relationships that refused to fade. A rudimentary core, carried in the first person, occasionally demanding attention. Sometimes it was given space. More often, it was not.
+
+But some things do not let you go.
+
+Life moves forward, but so do its losses. When someone who should have remained is suddenly no longer there, what matters enough to carry forward begins to change.
+
+What had once been allowed to rest became something that could no longer be left where it lay.
+
+When the work resumed, it was not a continuation, but a return.
+
+And in that return, the form changed.
+
+What was once a game became a story.
+What was never spoken had to be filled in.
+Those who had never existed, yet proved necessary, were allowed to emerge.
+
+What could not be contained in words took form in music.
+What could not be described was given shape in image.
+
+Serenia is not a finished work.
+
+It is what remains — when something refuses to let go.`,
+      showPlaceholder: false
     },
-    geography: {
-      menuTitle: "Geography",
-      title: "Geography",
-      text: "Maps, regions, landscapes, routes and important locations will be gathered here."
-    },
-    politics: {
-      menuTitle: "Politics & power",
-      title: "Politics & power",
-      text: "This section will hold material on senators, power blocs, trade interests, loyalties and conflicts."
-    },
-    magic: {
-      menuTitle: "Magic & mysteries",
-      title: "Magic & mysteries",
-      text: "Quiet magic, religious forces, omens, artifacts and the things that never fully submit to explanation will live here."
-    }
+    log: {
+      menuTitle: "Work log",
+      title: "Work log",
+      text: `
+      2026, march 25th - First generation Serenia webpage begun.
+      2026, march 31st - Both ends of the needle with Spotify & Youtube-links, all texts and imagery from the release-part presentation
+      2026, april 1st  - Layout for timeline defined and basic version made
+      
+      
+      Development notes, milestones and changes over time will be added here.`
+    }*/
   },
 
+  
   story: {
     overview: {
       menuTitle: "Overview",
@@ -115,7 +159,7 @@ What is presented here — and what will gradually be added — is the result of
     }  
   },
 
-  characters: {
+  /* characters: {
     keri: {
       menuTitle: "Keri",
       title: "Keri",
@@ -188,7 +232,7 @@ What is presented here — and what will gradually be added — is the result of
     showPlaceholder: false
       
     }
-  },
+  }, */
 
   music: {
     overview: {
@@ -4767,6 +4811,61 @@ Written in the sand
     }
   },
 
+  world: {
+    overview: {
+      menuTitle: "Overview",
+      title: "The World",
+      blocks: [
+  { 
+    type: "text", 
+    content: `Serenia is a dark, subdued fantasy world of stone, mist, faith, trade, power, and memories that refuse to stay still.` 
+  },
+
+  { 
+    type: "image", 
+    src: "assets/world/Serenias Harn.png", 
+    size: "small",  
+    caption: `Hârn` 
+  },
+
+  { 
+    type: "text", 
+    content: `Serenia is fundamentally based on the roleplaying world HârnWorld, created by N. Robin Crosby, Keléstia Productions, and Columbia Games.
+
+In accordance with their framework, all events take place after the year 720 TR, where the official canon material ends.
+
+I allow certain elements to be more developed — particularly in areas such as fashion and expression. Distances and population sizes may also be somewhat exaggerated compared to the original setting.
+
+A small number of canonical characters appear. Their interpretation and portrayal in this version are entirely my responsibility — Columbia Games and other rights holders bear no responsibility in this context.` 
+  },
+
+  { 
+    type: "image", 
+    src: "assets/world/landscape.jpg", 
+    size: "small",  
+    caption: `Coastline in Serenia` 
+  }
+],      
+      showPlaceholder: false
+ 
+    },
+    geography: {
+      menuTitle: "Geography",
+      title: "Geography",
+      text: "Maps, regions, landscapes, routes and important locations will be gathered here."
+    },
+    politics: {
+      menuTitle: "Politics & power",
+      title: "Politics & power",
+      text: "This section will hold material on senators, power blocs, trade interests, loyalties and conflicts."
+    },
+    magic: {
+      menuTitle: "Magic & mysteries",
+      title: "Magic & mysteries",
+      text: "Quiet magic, religious forces, omens, artifacts and the things that never fully submit to explanation will live here."
+    }
+  },
+
   
 
   gallery: {
@@ -4785,74 +4884,7 @@ Written in the sand
       title: "Environments & places",
       text: "Cities, roads, rooms, houses, harbors and landscapes will take visual shape here."
     }
-  },
-
-  project: {
-    overview: {
-      menuTitle: "Overview",
-      title: "Project",
-      text: `Serenia is a cohesive project in which novel, music, and visual form are developed in parallel.
-
-The story of Keri and Raven forms its core, while the music and visual language act as extensions of the same world — not as additions, but as alternative ways of experiencing it.
-
-Here you will find information on the vision, working method, inspiration, and how Serenia continues to take shape.`,
-      showPlaceholder: false
-    },
-    about: {
-      menuTitle: "About Serenia",
-      title: "About Serenia",
-      text: `Serenia was not constructed as a world after the fact.
-
-It is an attempt to let story, music, and aesthetic grow from the same source — where each part carries the same weight, the same darkness, the same insistence on feeling real.
-
-There is no clear boundary here between what is told and what is experienced. What does not fit within words takes form in music, in symbols, in silence.
-
-Serenia is a cohesive project in which narrative, music, visual language, and symbolism are developed side by side.`,
-      showPlaceholder: false
-    },
-    origins: {
-      menuTitle: "Origins",
-      title: "Origins",
-      text: `The world now known as Serenia was born long before it had a name.
-
-It took shape at a table — in conversation, in a game between two people, in decisions never written down yet preserved in fragments, carried forward through notes and memory.
-
-Then it fell silent. Not because it was finished, but because life took its place.
-
-What remained were fragments — names, places, relationships that refused to fade. A rudimentary core, carried in the first person, occasionally demanding attention. Sometimes it was given space. More often, it was not.
-
-But some things do not let you go.
-
-Life moves forward, but so do its losses. When someone who should have remained is suddenly no longer there, what matters enough to carry forward begins to change.
-
-What had once been allowed to rest became something that could no longer be left where it lay.
-
-When the work resumed, it was not a continuation, but a return.
-
-And in that return, the form changed.
-
-What was once a game became a story.
-What was never spoken had to be filled in.
-Those who had never existed, yet proved necessary, were allowed to emerge.
-
-What could not be contained in words took form in music.
-What could not be described was given shape in image.
-
-Serenia is not a finished work.
-
-It is what remains — when something refuses to let go.`,
-      showPlaceholder: false
-    },
-    log: {
-      menuTitle: "Work log",
-      title: "Work log",
-      text: `
-      2026, march 25th - First generation Serenia webpage begun.
-      2026, march 31st - Both ends of the needle with Spotify & Youtube-links, all texts and imagery from the release-part presentation
-      2026, april 1st  - Layout for timeline defined and basic version made
-      
-      
-      Development notes, milestones and changes over time will be added here.`
-    }
   }
+
+  
 };

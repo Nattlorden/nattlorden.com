@@ -1,58 +1,104 @@
 const contentSV = {
-  world: {
-    overview: {
-      menuTitle: "Översikt",
-      title: "Världen",
-      blocks: [
-  { 
-    type: "text", 
-    content: `Serenia är en mörk, lågmäld fantasyvärld av sten, dimma, tro, handel, makt och minnen som vägrar ligga still.` 
-  },
+  project: {
+    about: {
+      menuTitle: "Om Serenia",
+      title: "Om Serenia",
+        blocks: [
+      { 
+        type: "text", 
+        content: `Serenia är ett sammanhållet projekt där roman, musik och visuell form växer fram sida vid sida.
 
-  { 
-    type: "image", 
-    src: "assets/world/Serenias Harn.png", 
-    size: "small",  
-    caption: `Hârn` 
-  },
+Berättelsen om Keri och Raven utgör kärnan, men Serenia är inte en värld som först skrivits och därefter fått musik och bilder lagda ovanpå sig. Ambitionen är att låta berättelse, musik, bildspråk och symbolik växa ur samma källa – med samma tyngd, samma mörker och samma vilja att kännas verkliga.
 
-  { 
-    type: "text", 
-    content: `Serenia vilar i grunden på rollspelsvärlden HârnWorld, skapad av N. Robin Crosby, Keléstia Productions och Columbia Games.
+Det som inte får plats i orden kan ta form i musik, bilder, symboler eller tystnader. De fungerar inte som tillägg till berättelsen, utan som andra sätt att närma sig och uppleva samma värld.
 
-I enlighet med deras koncept utspelar sig allt efter år 720 TR, där det officiella källmaterialet upphör.
+Här samlas bakgrunden till projektet, dess ursprung och de idéer som format hur Serenia växer fram.`
+      },
+      {
+        type: "divider"
+      },
+      {
+        type: "text",
+        content: `<h2>Ursprung</h2>
+        Världen som idag kallas Serenia föddes långt innan den fick sitt namn.
 
-Jag tillåter mig att låta vissa aspekter vara mer utvecklade — exempelvis mode och uttryck. Distanser och folkmängder kan också vara något överdrivna jämfört med originalet.
+Den tog form vid ett bord – i samtal, i ett spel mellan två personer, i beslut som aldrig skrevs ned men som ändå blev kvar, fragmentariskt bevarade i anteckningar och minnen.
 
-Ett fåtal karaktärer från kanon förekommer. Deras tolkning och framställning i denna version är helt och hållet mitt ansvar — Columbia Games och övriga rättighetsinnehavare bär inget ansvar i detta sammanhang.` 
-  },
+Sedan föll den i tystnad. Inte för att den var färdig, utan för att livet tog plats.
 
-  { 
-    type: "image", 
-    src: "assets/world/landscape.jpg", 
-    size: "small",  
-    caption: `Kuststräcka i Serenia` 
-  }
-],      
+Det som återstod var fragment – namn, platser, relationer som vägrade försvinna. En rudimentär kärna, buren i första person, som vid enstaka tillfällen pockade på uppmärksamhet. Ibland fick den utrymme, oftast inte.
+
+Men vissa saker lämnar en inte ifred.
+
+Livet rör sig vidare, men det gör också förlusterna. När någon som borde ha varit kvar plötsligt inte längre är det, förändras vad som känns viktigt att bära vidare.
+
+Det som tidigare kunnat vila blev något som inte längre kunde lämnas där det låg.
+
+När arbetet togs upp igen var det inte som en fortsättning, utan som en återkomst.
+
+Och i den återkomsten förändrades formen.
+
+Det som en gång var spel blev berättelse.
+Det som aldrig sades fick fyllas i.
+De personer som aldrig funnits men som visade sig nödvändiga fick träda fram.
+
+Det som inte fick plats i orden tog form i musik.
+Det som inte gick att beskriva fick gestaltas i bild.
+
+Serenia är inte ett avslutat verk.
+
+Det är det som blir kvar – när något vägrar släppa taget.
+        `
+      }
+    ],
       showPlaceholder: false
-    },
-    geography: {
-      menuTitle: "Geografi",
-      title: "Geografi",
-      text: "Här kommer kartor, regioner, landskap, färdvägar och viktiga platser att samlas."
-    },
-    politics: {
-      menuTitle: "Politik & makt",
-      title: "Politik & makt",
-      text: "Här kommer material om senatorer, maktblock, handelsintressen, lojaliteter och konflikter."
-    },
-    magic: {
-      menuTitle: "Magi & mysterier",
-      title: "Magi & mysterier",
-      text: "Här samlas lågmäld magi, religiösa krafter, omen, artefakter och det som aldrig riktigt låter sig förklaras."
-    }
-  },
+    } /*,
+    origins: {
+      menuTitle: "Ursprung",
+      title: "Ursprung",
+      text: `Världen som idag kallas Serenia föddes långt innan den fick sitt namn.
 
+Den tog form vid ett bord – i samtal, i ett spel mellan två personer, i beslut som aldrig skrevs ned men som ändå blev kvar, fragmentariskt bevarade i anteckningar och minnen.
+
+Sedan föll den i tystnad. Inte för att den var färdig, utan för att livet tog plats.
+
+Det som återstod var fragment – namn, platser, relationer som vägrade försvinna. En rudimentär kärna, buren i första person, som vid enstaka tillfällen pockade på uppmärksamhet. Ibland fick den utrymme, oftast inte.
+
+Men vissa saker lämnar en inte ifred.
+
+Livet rör sig vidare, men det gör också förlusterna. När någon som borde ha varit kvar plötsligt inte längre är det, förändras vad som känns viktigt att bära vidare.
+
+Det som tidigare kunnat vila blev något som inte längre kunde lämnas där det låg.
+
+När arbetet togs upp igen var det inte som en fortsättning, utan som en återkomst.
+
+Och i den återkomsten förändrades formen.
+
+Det som en gång var spel blev berättelse.
+Det som aldrig sades fick fyllas i.
+De personer som aldrig funnits men som visade sig nödvändiga fick träda fram.
+
+Det som inte fick plats i orden tog form i musik.
+Det som inte gick att beskriva fick gestaltas i bild.
+
+Serenia är inte ett avslutat verk.
+
+Det är det som blir kvar – när något vägrar släppa taget.`,
+      showPlaceholder: false
+    }*/
+    /*,
+    log: {
+      menuTitle: "Arbetslogg",
+      title: "Arbetslogg",
+      text: `
+      2026-03-25 - Första generationen websida för Serenia påbörjad.
+      2026-03-31 - Both ends of the needle har fått Spotify & Youtube-länkar, alla texterna samt bilder från skivsläppets presentation
+      2026-04-01 - Layout för tidslinjen definierad och grundläggande version av den
+      
+      Här kommer utvecklingsnoteringar, milstolpar och förändringar över tid att läggas in.`
+    }*/
+  },
+  
   story: {
     overview: {
       menuTitle: "Översikt",
@@ -119,6 +165,7 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
     }
   },
 
+  /*
   characters: {
     keri: {
       menuTitle: "Keri",
@@ -439,7 +486,7 @@ Det som finns — och det som gradvis kommer att tillkomma — är resultatet av
     ],  
     showPlaceholder: false
     }
-  },
+  },*/
 
   music: {
     overview: {
@@ -6336,6 +6383,61 @@ Written in the sand
     }
   },
 
+  world: {
+    overview: {
+      menuTitle: "Översikt",
+      title: "Världen",
+      blocks: [
+  { 
+    type: "text", 
+    content: `Serenia är en mörk, lågmäld fantasyvärld av sten, dimma, tro, handel, makt och minnen som vägrar ligga still.` 
+  },
+
+  { 
+    type: "image", 
+    src: "assets/world/Serenias Harn.png", 
+    size: "small",  
+    caption: `Hârn` 
+  },
+
+  { 
+    type: "text", 
+    content: `Serenia vilar i grunden på rollspelsvärlden HârnWorld, skapad av N. Robin Crosby, Keléstia Productions och Columbia Games.
+
+I enlighet med deras koncept utspelar sig allt efter år 720 TR, där det officiella källmaterialet upphör.
+
+Jag tillåter mig att låta vissa aspekter vara mer utvecklade — exempelvis mode och uttryck. Distanser och folkmängder kan också vara något överdrivna jämfört med originalet.
+
+Ett fåtal karaktärer från kanon förekommer. Deras tolkning och framställning i denna version är helt och hållet mitt ansvar — Columbia Games och övriga rättighetsinnehavare bär inget ansvar i detta sammanhang.` 
+  },
+
+  { 
+    type: "image", 
+    src: "assets/world/landscape.jpg", 
+    size: "small",  
+    caption: `Kuststräcka i Serenia` 
+  }
+],      
+      showPlaceholder: false
+    },
+    geography: {
+      menuTitle: "Geografi",
+      title: "Geografi",
+      text: "Här kommer kartor, regioner, landskap, färdvägar och viktiga platser att samlas."
+    },
+    politics: {
+      menuTitle: "Politik & makt",
+      title: "Politik & makt",
+      text: "Här kommer material om senatorer, maktblock, handelsintressen, lojaliteter och konflikter."
+    },
+    magic: {
+      menuTitle: "Magi & mysterier",
+      title: "Magi & mysterier",
+      text: "Här samlas lågmäld magi, religiösa krafter, omen, artefakter och det som aldrig riktigt låter sig förklaras."
+    }
+  },
+
+
   gallery: {
     overview: {
       menuTitle: "Översikt",
@@ -6352,73 +6454,7 @@ Written in the sand
       title: "Miljöer & platser",
       text: "Här kommer städer, vägar, rum, hus, hamnar och landskap att få visuell form."
     }
-  },
-
-  project: {
-    overview: {
-      menuTitle: "Översikt",
-      title: "Projektet",
-      text: `Serenia är ett sammanhållet projekt där roman, musik och visuell form utvecklas parallellt.
-      
-      Berättelsen om Keri och Raven utgör kärnan, medan musiken och bildspråket fungerar som förlängningar av samma värld – inte som tillägg, utan som andra sätt att uppleva den. 
-      
-      Här samlas information om vision, arbetsmetod, inspiration och hur Serenia växer fram.`,
-      showPlaceholder: false
-    },
-    about: {
-      menuTitle: "Om Serenia",
-      title: "Om Serenia",
-      text: `Serenia är inte byggt som en värld i efterhand.
-
-Det är ett försök att låta berättelse, musik och estetik växa ur samma källa – där varje del bär samma tyngd, samma mörker, samma vilja att kännas verklig.
-
-Här finns ingen tydlig gräns mellan det som sägs och det som upplevs. Det som inte får plats i orden tar form i musik, i symboler, i tystnader.
-
-Serenia är ett samlat projekt där romanvärld, musik, bildspråk och symbolik byggs sida vid sida.`,
-      showPlaceholder: false
-    },
-    origins: {
-      menuTitle: "Ursprung",
-      title: "Ursprung",
-      text: `Världen som idag kallas Serenia föddes långt innan den fick sitt namn.
-
-Den tog form vid ett bord – i samtal, i ett spel mellan två personer, i beslut som aldrig skrevs ned men som ändå blev kvar, fragmentariskt bevarade i anteckningar och minnen.
-
-Sedan föll den i tystnad. Inte för att den var färdig, utan för att livet tog plats.
-
-Det som återstod var fragment – namn, platser, relationer som vägrade försvinna. En rudimentär kärna, buren i första person, som vid enstaka tillfällen pockade på uppmärksamhet. Ibland fick den utrymme, oftast inte.
-
-Men vissa saker lämnar en inte ifred.
-
-Livet rör sig vidare, men det gör också förlusterna. När någon som borde ha varit kvar plötsligt inte längre är det, förändras vad som känns viktigt att bära vidare.
-
-Det som tidigare kunnat vila blev något som inte längre kunde lämnas där det låg.
-
-När arbetet togs upp igen var det inte som en fortsättning, utan som en återkomst.
-
-Och i den återkomsten förändrades formen.
-
-Det som en gång var spel blev berättelse.
-Det som aldrig sades fick fyllas i.
-De personer som aldrig funnits men som visade sig nödvändiga fick träda fram.
-
-Det som inte fick plats i orden tog form i musik.
-Det som inte gick att beskriva fick gestaltas i bild.
-
-Serenia är inte ett avslutat verk.
-
-Det är det som blir kvar – när något vägrar släppa taget.`,
-      showPlaceholder: false
-    },
-    log: {
-      menuTitle: "Arbetslogg",
-      title: "Arbetslogg",
-      text: `
-      2026-03-25 - Första generationen websida för Serenia påbörjad.
-      2026-03-31 - Both ends of the needle har fått Spotify & Youtube-länkar, alla texterna samt bilder från skivsläppets presentation
-      2026-04-01 - Layout för tidslinjen definierad och grundläggande version av den
-      
-      Här kommer utvecklingsnoteringar, milstolpar och förändringar över tid att läggas in.`
-    }
   }
+
+  
 };

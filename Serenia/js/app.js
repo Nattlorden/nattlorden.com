@@ -1,6 +1,6 @@
 let lang = "sv";
-let currentSection = "world";
-let currentPage = "overview";
+let currentSection = "project";
+let currentPage = "about";
 
 let lastAlbumPage = null;
 
