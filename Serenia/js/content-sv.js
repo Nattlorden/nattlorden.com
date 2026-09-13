@@ -6447,7 +6447,88 @@ Ett fåtal karaktärer från kanon förekommer. Deras tolkning och framställnin
     portraits: {
       menuTitle: "Karaktärsporträtt",
       title: "Karaktärsporträtt",
-      text: "Här kommer bilder av Keri, Raven och andra centrala gestalter att samlas."
+      layout: "cards",
+      columns: 4,
+
+  cards: [
+    {
+      image: "assets/chars/Keri_pouch.png",
+      title: "Keri",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Raven.png",
+      title: "Raven"
+    },
+    {
+      image: "assets/chars/Kelly.png",
+      title: "Kelly"
+    },
+    {
+      image: "assets/chars/Athina_fixhand.jpg",
+      title: "Athina"
+    },
+    {
+      image: "assets/chars/Fabien.png",
+      title: "Fabien Trulor",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Serenima.png",
+      title: "Lady Serenima Dethale"
+    },
+    {
+      image: "assets/chars/Jeredosta.png",
+      title: "Querlid Jeredosta"
+    },
+    {
+      image: "assets/chars/Joreth_stripped.png",
+      title: "Joreth"
+    },
+    {
+      image: "assets/chars/Hund.png",
+      title: "Hund",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Kaerith.png",
+      title: "Kaerith"
+    },
+    {
+      image: "assets/chars/Cyzo.png",
+      title: "Cyzo"
+    },
+    {
+      image: "assets/chars/Lothan_shield.png",
+      title: "Lothan"
+    },
+    {
+      image: "assets/chars/Marvae_river_photoQ.png",
+      title: "Marvae",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Fenralf.png",
+      title: "Fenralf"
+    },
+    {
+      image: "assets/chars/Redira_jester.png",
+      title: "Redira"
+    },
+    {
+      image: "assets/chars/kelen.png",
+      title: "Kelen Valenthes"
+    }
+  ],
+
+  showPlaceholder: false
+
+
+
     },
     places: {
       menuTitle: "Miljöer & platser",

@@ -187,7 +187,7 @@ function renderSideMenu() {
 }
 
 
-/*function renderCardPage(main, page) {
+function renderCardPage(main, page) {
   const columnsClass =
     page.columns === 3
       ? "cols-3"
@@ -275,36 +275,8 @@ function renderSideMenu() {
   }
 
   main.innerHTML = html;
-} */
-function renderCardPage(main, page) {
-  let html = `
-    ${getMobileMenuButtonHtml()}
-    <h2>${page.title || ""}</h2>
-  `;
-
-  if (page.intro) {
-    html += `
-      <div class="text-block">
-        ${page.intro}
-      </div>
-    `;
-  }
-
-  html += renderCardGrid(
-    page.cards,
-    page.columns || 4
-  );
-
-  if (page.showPlaceholder !== false) {
-    html += `
-      <div class="placeholder-box">
-        ${siteMeta?.[lang]?.placeholder || ""}
-      </div>
-    `;
-  }
-
-  main.innerHTML = html;
 }
+
 
 function renderContent() {
   const main = document.getElementById("content");

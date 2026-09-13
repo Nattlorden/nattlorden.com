@@ -457,6 +457,41 @@ function renderChapter(page) {
 }
 
 
+
+/* =========================================================
+   Cards
+   ========================================================= */
+
+function renderCardPage(main, page) {
+  let html = `
+    ${getMobileMenuButtonHtml()}
+    <h2>${page.title || ""}</h2>
+  `;
+
+  if (page.intro) {
+    html += `
+      <div class="text-block">
+        ${page.intro}
+      </div>
+    `;
+  }
+
+  html += renderCardGrid(
+    page.cards,
+    page.columns || 4
+  );
+
+  if (page.showPlaceholder !== false) {
+    html += `
+      <div class="placeholder-box">
+        ${siteMeta?.[lang]?.placeholder || ""}
+      </div>
+    `;
+  }
+
+  main.innerHTML = html;
+}
+
 /* =========================================================
    Content
    ========================================================= */
@@ -730,9 +765,25 @@ function renderContent() {
     return;
   }
 
+    /*
+    5. Cards
+  */
+
+  if (
+    page.layout === "cards" &&
+    page.cards
+  ) {
+    renderCardPage(
+      main,
+      page
+    );
+
+    return;
+  }
+
 
   /*
-    5. Vanliga sidor
+    6. Vanliga sidor
   */
 
   let html = `
