@@ -224,11 +224,27 @@ The Shining (6:e september)
 
       ...
 
+      Visor & Rosor - Sofiero Helsingborg 1993   (Wiehe, Afzelius, Monica Z, Tekla)
+
+      ...
+
+      Visor & Rosor - Citatellet Landkskrona 1994 (Wiehe, Afzelius, Lisa Ekdahl, ?)
+
       Loreena McKennitt - Mejeriet Lund 1994-04-20
 
       ...
 
       Alphaville - Mejeriet Lund 1996-05-11 (troligen)
+
+      Hoola Bandoola Band - Citadellet Landskrona 1996-sommar
+
+      ...
+
+      "En sång till Björn Afzelius" minneskonsert, Malmö Musikteater 1999-05-??
+
+      ...
+
+      Wilmer X - Citadellet Landskrona 2003-06-20?
 
       ...
 
