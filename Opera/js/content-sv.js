@@ -228,7 +228,7 @@ The Shining (6:e september)
 
       ...
 
-      Visor & Rosor - Citatellet Landkskrona 1994 (Wiehe, Afzelius, Lisa Ekdahl, ?)
+      Visor & Rosor - Citatellet Landskrona 1994 (Wiehe, Afzelius, Lisa Ekdahl, ?)
 
       Loreena McKennitt - Mejeriet Lund 1994-04-20
 
@@ -248,6 +248,16 @@ The Shining (6:e september)
 
       ...
 
+      Timbuktu & Damn! (support till) samt Sahara Hotnights 
+      The Ark - Sofiero Slott Helsingborg 2007-06-28
+
+      ...
+
+      (Hoffmaeatro &)
+      Timbuktu & Damn! - Rådhustorget Landskrona 2009-07-08?
+
+      ...
+
       Jakob Hellman & MSO - Malmö Live 2017-03-04
       
       Patricia Barber - Pildammsteatern, Malmö Sommarscen 2017-06-20
@@ -256,6 +266,9 @@ The Shining (6:e september)
 
       Rammstein - Telia Parken Köpenhamn 2019-06-19
 
+      Chris Kläfford (support till)
+      Gyllene Tider - Mölleplatsen Malmö 2019-07-061
+
       ...
 
       Arch Enemy - Deceivers Tour - Slagthuset Malmö 2023-08-16
@@ -263,6 +276,8 @@ The Shining (6:e september)
       ...
 
       Alphaville Forever! Live - Best of 40 Years - Folkets Park, Malmö 2025-07-25
+
+      Dollystyle - Stortorget Malmöfestivalen 2025-08-15
 
       ...
 
