@@ -1,0 +1,1 @@
+Besökte museet på [[221B Baker Street]] med Per på jobb i samband med en [[kurs i London]].

@@ -212,11 +212,53 @@ The Shining (6:e september)
     konserter: {
       menuTitle: "Andra konserter",
       title: "Andra konserter",
-      text: `ABBA - Scandinavium Göteborg 79 eller 80
+      text: `ABBA - Scandinavium Göteborg 1979-10-19
+
+      ...
+
+      Herreys - Sundspärlan Helsingborg 1984-06-28
       
       ...
 
+      Roxette - Join the Joyride! Tour - Olympen Lund 1991-09-18
+
+      ...
+
+      Loreena McKennitt - Mejeriet Lund 1994-04-20
+
+      ...
+
+      Alphaville - Mejeriet Lund 1996-05-11 (troligen)
+
+      ...
+
+      Jakob Hellman & MSO - Malmö Live 2017-03-04
+      
+      Patricia Barber - Pildammsteatern, Malmö Sommarscen 2017-06-20
+
+      ...
+
+      Rammstein - Telia Parken Köpenhamn 2019-06-19
+
+      ...
+
+      Arch Enemy - Deceivers Tour - Slagthuset Malmö 2023-08-16
+
+      ...
+
+      Alphaville Forever! Live - Best of 40 Years - Folkets Park, Malmö 2025-07-25
+
+      ...
+
       Amanda Jenssen - Mejeriet, Lund 2026-05-16
+
+      ...
+
+      The Mind Palace - Rockstage Malmöfestivalen 2026-08-11
+
+      Jonathan Johansson & MSO - Stortorget Malmöfestivalen 2026-08-12
+
+      Another nameless Ghost - Rockstage Malmöfestivalen 2026-08-14
       `,
       showPlaceholder: true
     },

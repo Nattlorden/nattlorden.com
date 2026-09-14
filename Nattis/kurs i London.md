@@ -1,0 +1,1 @@
+Var på en kurslokal vid St. Catherine's Docks.  Bodde på samma hotell som min fru gjorde senare.

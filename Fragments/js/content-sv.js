@@ -5137,8 +5137,725 @@ Arrivederci...`
     }
   ],
   showPlaceholder: false
-    }
+    },
 
+    waxAndFeather: {
+      menuTitle: "Wax and feather",
+      title: "Wax and feather",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 21e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i>På vår 16e bröllopsdag. Fjäderbröllop. Vax i England.</i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Sixteen candles, sixteen lights…
+Wax and feather, bind us bright…
+
+Four times four, the sacred square,
+Geometry of heaven laid bare.
+Sixteen petals of the lunar rose,
+Completeness where the spirit grows.
+From Indian rites of passage old,
+Sixteen samskaras, life unfolds.
+The Tower falls so we may rise,
+Sixteen opens the cosmic eyes.
+
+In English lore the wax is warm,
+Sealing hearts against the storm.
+In Swedish tongue the feather flies,
+Light as soul beneath the skies.
+
+ Sixteen! Sixteen! Our binding rite!
+ Wax that holds and feather light!
+ We seal our love in golden flame,
+ Sixteen years and still the same!
+ Four by four the circle turns,
+ Eternal fire forever burns!
+ Joyful anniversary song we raise—
+ Sixteen blessings, endless days!
+
+Magic of the mind that shapes the real,
+Four-dimensional cube we feel.
+Sixteen vertices of higher space,
+Where thought and love find perfect place.
+Rites of moon in sixteen phases,
+Kalas shining through the ages.
+Centered hexagon of seven’s grace,
+Perfection smiling on our face.
+
+Wax of English binding true,
+Feather Swedish soft and new.
+Continued ritual, hand in hand,
+Across the years, across the land.
+
+ Sixteen! Sixteen! Our binding rite!
+ Wax that holds and feather light!
+ We seal our love in golden flame,
+ Sixteen years and still the same!
+ Four by four the circle turns,
+ Eternal fire forever burns!
+ Joyful anniversary song we raise—
+ Sixteen blessings, endless days!
+
+Wax to hold what must remain,
+Feather lifts us free of chain.
+Geometry of sacred sixteen,
+Myths and magic, pure and clean.
+Rites of joy, no shadow near—
+We bind again this precious year.
+
+ Sixteen! Sixteen! Our binding rite!
+ Wax that holds and feather light!
+ We seal our love in golden flame,
+ Sixteen years and still the same!
+ Four by four the circle turns,
+ Eternal fire forever burns!
+ Joyful anniversary song we raise—
+ Sixteen blessings… endless days!
+
+Wax and feather… sixteen true…
+Bound in joy… forever you…`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    skanetrafiken: {
+      menuTitle: "Rappa på, Skånetrafiken!",
+      title: "Rappa på, Skånetrafiken!",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 25e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Skånetrafiken, igen…
+Lokfel, spårfel, vilt på spåret –
+vi är fast, men flowet går.
+
+Lokfel i loken, spårfel i spåren,
+vilt på spåret, rådjur i farozonen.
+Folk på spåret, “annat” på spåret –
+vad fan är det nu? En cykel? En ko?
+Är vi på spåret? Nä, vi står still,
+inställt, uppskjutet, spårbyte till.
+Tillbaka igen, sen fram och tillbaka,
+ersättningsbuss – var? När? Om? Huruvida?
+Kan vi dela taxi? Eller stå här och grina,
+klockan tickar, plånboken svina.
+Alla klagomål i kö, from Malmö till Ystad,
+förseningar i blodet, stå här och frysa.
+
+Skånetrafiken, ta det lugnt!
+Lokfel, spårfel, vilt på spåret –
+inställt, uppskjutet, spårbyte runt.
+Ersättningsbuss, var är den?
+Dela taxi, eller springa?
+Vi klagar högt, vi lär inte hinna–
+Skånetrafiken, du är vår kaos-show!
+
+Spårbyte tillbaka, sen byte igen,
+signaler som blinkar, “vänta, vännen”.
+Folk på spåret springer som i film,
+annat på spåret – en soffa? En grill?
+Vilt på spåret, rådjur med attityd,
+lokfel som skriker “inte idag, min vän”.
+Uppskjutet till i morgon, inställt till nästa år,
+ersättningsbuss som aldrig dyker upp där.
+När? Om? Huruvida? Vi googlar i panik,
+kan vi dela taxi? Absolut, det är logik.
+Alla klagomål samlas i en stor kör –
+“Skånetrafiken, varför gör ni så här?”
+
+Lok-fel-spårfel-viltpåspåret-folkpåspåret-annatpåspåret-ärvi-påspåret-nej-
+inställt-uppskjutet-spårbyte-tillbaka-ersättningsbuss-var-när-om-huruvida-
+kan-vi-dela-taxi-alla-klagomål-i-ett-enda-flöde-Skånetrafiken-du-är-vår-kaos-kod!
+
+Skånetrafiken, ta det lugnt!
+Lokfel, spårfel, vilt på spåret –
+inställt, uppskjutet, spårbyte runt.
+Ersättningsbuss, var är den?
+Dela taxi, eller springa?
+Vi klagar högt, vi lär inte hinna –
+Skånetrafiken, du är vår kaos-show!
+
+Nästa gång… kanske i tid.
+Eller inte.
+Skånetrafiken… forever delayed.
+Men rimmen? Dom går alltid i tid.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    paAllvar: {
+      menuTitle: "Rappa på, på allvar",
+      title: "Rappa på, på allvar",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 26e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Yo, tjugotju'sex, samma gamla film
+Löften som snurrar, som en trasig skivspelare
+“Ta det på allvar” – okej, vi lyssnar
+Men vad gjorde ni sist, när ni hade makten?
+
+(s) säger “Dags att ta Sverige på allvar”
+Som om det var nytt, som om vi glömt hur det var
+Välfärd, trygghet, plånboken ska växa
+Men kön till vården, bostadsbrist – samma gamla spexa
+(sd): “Gör Sverige till Sverige igen”
+Nostalgi-humla, retro-färger, men historien den
+Har vi sett stoppet, har vi sett resultaten?
+Eller bara mer snack medan gängen fortsätter dansen
+
+(m) säger “Ansträngning ska löna sig, brott ska straffa sig”
+5 000 mer i plånboken – låter ju snällt
+Men räcker det när hyran äter upp resten?
+Och vårdgarantin – 30 dagar, vi håller andan tills den testen
+
+Ta det på allvar! (Ta det på allvar!)
+Men vad har ni gjort tidigare år?
+Löften som flyger, som ballonger i vår
+Ta det på allvar – eller bara mer PR?
+Hey! – vad levererade ni sist?
+Hey! – historien den viskar högt
+
+Alla lovar mer jobb, lägre skatt, kortare kö
+Klimatet, migration, skola – samma meny
+Tidigare år: “Nu vänder vi skutan”
+Sedan kom nästa val och båten låg stilla
+Från folkhem till plånbokshem – allt ska mätas i kronor
+Men tryggheten? Den känns fortfarande belånad
+Ni tar det på allvar när filmen rullar
+Men mellan valen? Då är det “vi gör vårt bästa, folk”
+
+70–75 procent av löftena… sägs det
+Men vilka procent räknas när vardagen känns trång?
+Vi minns affischerna, vi minns talen
+Nu vill vi se handling – inte bara nästa slogankarusell
+
+Ta det på allvar! (Vad har ni gjort tidigare år?)
+Ta det på allvar! (Vi har hört det förut)
+
+…och så rullar nästa valaffisch ut igen.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    playbook: {
+      menuTitle: "The Playbook",
+      title: "The Playbook",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 8e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/7nLFd0EMrEHht84LQy8RCy?si=jvOu4-cgSbCL7vaTgmUjDQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/EL4xJC_BBI0?list=OLAK5uy_mrLb6aExVUbzlaLmAzmBsivBYQ0ppEqJk" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `We do not raise the flag, we do not fire the gun
+We find the ones who already burn
+Give them money, give them maps, give them righteous fire
+Let them tear the grid while calling it desire
+They think they save the earth, they think they free the poor
+We only open doors and watch the flood pour
+Smugglers paid in silence, advocates paid in gold
+Every pure intention is a weapon we can hold
+
+ Distract, annoy, hurt — never show the hand
+ Let them fight each other on the ground we planned
+ Point the finger nowhere, let the chaos grow
+ The enemy remains the one they never know
+
+Fake the loudest voices, poison every cause
+Turn the crowd against the ones who still have claws
+Minor damage daily, never open war
+Just enough to break the will and open every door
+They will never see us in the smoke or in the cry
+We are only funding what they already believe
+While the lights go out and borders start to bleed
+We sit quiet counting every useful deed
+
+ Distract, annoy, hurt — never show the hand
+ Let them fight each other on the ground we planned
+ Point the finger nowhere, let the chaos grow
+ The enemy remains the one they never know
+
+No need for armies when the willing do the work
+No need for banners when the righteous do the dirt
+We write the script, they speak the lines with pride
+And never once ask who is standing off to the side
+
+ Distract, annoy, hurt — the hand stays out of sight
+ Let them burn their own house thinking they bring light
+ When the dust has settled and the trust is gone
+ We were never there… we only helped…`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    steelBeneathTheNorthernSky: {
+      menuTitle: "Steel beneath the Northern sky",
+      title: "Steel beneath the Northern sky",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 12e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/16naogOJMyzGqBOb1Ym1Fk?si=4cffdc070f2d40e4" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/D0ayO41UPAc" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `From stone and flame,
+From winter iron,
+A shape has waited
+Above the tide.
+Cold morning gathers
+Along the water.
+The ropes lie ready.
+The sea stands wide.
+
+Hands drew the measure,
+Hands formed the ribs,
+Hammer and furnace,
+Bolt into skin.
+Under the banners
+No voice is careless.
+Every name spoken
+Carries within.
+Beyond the harbour,
+Beyond the beacon,
+Weather is turning
+Out on the grey.
+Still on the cradle,
+Still held by timber,
+She faces seaward,
+Waiting her day.
+
+Let every chain be counted.
+Let every line be clear.
+Let those who built her witness
+The water drawing near.
+
+ Go now into the water,
+ Steel beneath the northern sky.
+ Take the weight the land has carried,
+ Let the rising sea reply.
+ Not for glory, not for thunder,
+ But the watch that must be kept.
+ From the yard into the current,
+ From the cradle to the depth.
+
+Flags move above us.
+Breath turns to vapour.
+Faces are silent
+Along the quay.
+Welders and sailors,
+Mothers and fathers,
+Watch as the vessel
+Turns toward the sea.
+Names of the coastline,
+Islands and channels,
+Live in the charts
+And live in the bone.
+Soundings and headlands,
+Storm marks and lighthouses,
+All of the waters
+She soon will know.
+
+The blocks are standing ready.
+The final signal falls.
+The harbour holds one heartbeat.
+Then iron answers all.
+
+ Go now into the water,
+ Steel beneath the northern sky.
+ Take the weight the land has carried,
+ Let the rising sea reply.
+ Not for glory, not for thunder,
+ But the watch that must be kept.
+ From the yard into the current,
+ From the cradle to the depth.
+
+There is no promise in the ocean.
+There is no mercy in the gale.
+Only knowledge, nerve and patience,
+Only hands that must not fail.
+May the hull endure the pressure.
+May the engines answer true.
+May the ones who cross the darkness
+See the morning breaking through.
+
+Release the timber.
+Release the line.
+Open the water.
+Mark the time.
+Bow to the channel.
+Stern to the shore.
+One measured movement—
+Held no more.
+
+Now!
+Into the sea,
+Into the cold,
+Carry the living,
+Carry the bold.
+Under the flag,
+Under the rain,
+Leave what was stillness,
+Enter your name.
+
+ Go now into the water,
+ Steel beneath the northern sky.
+ Take the weight the land has carried,
+ Let the rising sea reply.
+ Guard the passage, hold the distance,
+ Through the darkness, through the foam.
+ From the hands that shaped your body
+ To the waters you will roam.
+
+The ropes fall quiet.
+The cradle stands bare.
+A wake moves outward
+Through the northern air.
+And where the steel
+First touched the sea,
+The widening water
+Keeps the memory.
+`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    saknadA: {
+      menuTitle: "Saknad-1: Hon som var så levande nyss",
+      title: "Hon som var så levande nyss",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 13e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/25DkkPnVwJeJtCj0qsHsaB?si=b2d254d302194735" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/Tr5P-ctA6Jg" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Hur skulle du beskriva henne?
+Hon som var så levande nyss.
+
+Nattens irrande efter henne.
+Hennes doft, hennes skratt.
+Hennes lust till livet.
+
+Alltid så glad, där inget var omöjligt.
+För det var sån hon var.
+
+Hur skulle du beskriva henne?
+Hon som var så levande nyss.
+
+En vän så god.
+En maka, ens tvillingsjäl.
+En mor så älskad.
+
+Hur skulle du beskriva henne?
+Hon som var så levande nyss.
+
+En sol på himlen som skiner så klart.
+En vindpust i luften som viskar våra namn.
+Tårar när regnet faller.
+Efter de hon lämnat kvar
+och älskar så högt.
+
+Det är så jag skulle beskriva henne.
+Hon som var så levande nyss.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    saknadB: {
+      menuTitle: "Saknad-2: När livets låga släcks",
+      title: "När livets låga släcks",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 13e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/0mvvhyD8m8uTHkte6LdBli?si=8c9f48f86ab64317" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/bfTYxlJ5D_s" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Hur kan det vara så 
+att du inte finns - mer?
+Hur kan en människa så god
+bara försvinna så fort?
+
+För jag undrar.
+Vem bestämde 
+att ditt liv skulle släckas?
+
+ När livets låga släcks 
+ för en människa så god.
+ Som försvann från denna jord
+ med sitt vackra leende.
+
+ För när livets låga släcks
+ blir livet plötsligt tomt.
+ För du lämnade denna jord
+ ...med ditt leende....
+
+Vi lever med minnet av dig kvar.
+En människa så snäll.
+När vi går på denna jord.
+Ditt leende finns kvar.
+Bland oss 
+som ensamma kvar.
+
+ När livets låga släcks
+ för en människa så god.
+ Som försvann från denna jord
+ med sitt vackra leende.
+
+ För när livets låga släcks
+ blir livet plötsligt tomt.
+ För du lämnade denna jord
+ ...med ditt leende....
+
+Jag vet att du är med .
+Att du följer oss på vår stig.
+Att du inte lämnar oss
+i denna ofantliga sorg.
+När livets låga släcks
+för en människa så god.
+
+Som försvann från denna jord,
+med sitt vackra leende.
+För när livets låga släcks
+blir livet plötsligt tomt.
+För du lämnade denna jord
+..med ditt leende...
+Jag vet att du är där
+och leder Ante sakta framåt.
+
+Att du viskar i hans öra.
+Du vet att han klarar det.
+Du sitter där på barnens sängkant.
+Torkar deras tårar.
+
+ Stryker de ömt över håret.
+ När livets låga släcks 
+ för en människa så god.
+ Som försvann från denna jord
+ med sitt vackra leende.
+ För när livets låga släcks
+ blir livet plötsligt tomt.
+ För du lämnade denna jord
+ ...med ditt leende...`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+    sherAdler: {
+      menuTitle: "You can solve every riddle but me",
+      title: "You can solve every riddle but me",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 13e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/5EhYz3r9bJbPquQ2uuvAZd?si=-Ror9QMAQ7Od-u2U0LgPqg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/d1GbZT4N368" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+[IRENE]You hear footsteps through the silence
+[SHERLOCK]I hear motive in the air
+[IRENE]You can measure every movement
+[SHERLOCK]Still miss the danger standing there
+
+[SHERLOCK]
+I can read the ash on gloves
+trace a secret from a stain
+turn a whisper into evidence
+make a science out of pain
+I have built my mind on order
+on the logic no one breaks
+then you walk in like a question
+and the whole equation shakes
+
+[IRENE]
+You can map the room in seconds
+name the lie beneath the lace
+but the one thing you can't calculate
+is the smile behind my face
+
+[BOTH]
+You can solve every riddle but me
+[SHERLOCK]see through the world, but not through me
+I have answers, I have proof
+[BOTH]I'm the doubt you can't remove
+You can solve every riddle but me
+I'm the flaw in your logic, the crack in your theory
+
+[BOTH]Not me
+[IRENE]Not you
+[SHERLOCK]Not you
+[IRENE]Not you
+[BOTH]
+Heart against logic
+Heart against logic
+
+[IRENE]
+You wear reason like a weapon
+like a coat against the cold
+but I saw your pulse betray you
+when your careful hand found hold
+I've performed for kings and liars
+worn a dozen borrowed names
+but you look at me and somehow
+set the darkest part to flame
+
+[SHERLOCK]You are chaos dressed in silk
+[IRENE]You are ice that learned to speak
+[SHERLOCK]You undo my best defenses
+[IRENE]You are stronger than you seem
+
+[BOTH]
+You can solve every riddle but me
+hear every hidden lie, but not what I mean
+[SHERLOCK]I have answers, I have proof
+[BOTH]I'm the doubt you can't remove
+You can solve every riddle but me
+I'm the flaw in your logic, the crack in your theory
+
+[SHERLOCK]If I loosen my grip, who am I then
+[IRENE]If I stay in your orbit, where does this end
+[SHERLOCK]You are risk with a heartbeat
+[IRENE]You are restraint with a scar
+[SHERLOCK]I should leave you behind
+[IRENE]Yet you follow this far
+[BOTH]
+We are truth dressed up as a fight
+we are alibis burning tonight
+
+[SHERLOCK]
+When London holds its breathing
+when the shadows start to sing
+[BOTH]
+you are the answer I deny
+I am the case you cannot win
+
+[BOTH]
+You can solve every riddle but me
+[SHERLOCK]break every code in the dark, but not what you see in me
+[IRENE]I have answers, I have proof
+[Both]I'm the doubt you can't remove
+You can solve every riddle but me
+I'm the flaw in your logic, the crack in your theory
+[SHERLOCK]Not me
+[IRENE]Not you
+[SHERLOCK]Not you
+[BOTH]
+Heart against logic
+You can solve every riddle but me
+
+[SHERLOCK]The case I never closed
+[IRENE]The man I never fooled
+[BOTH]
+Somewhere between proof and desire
+we remain unsolved`
+    }
+  ],
+  showPlaceholder: false
+    },
 
 /*
     stubbe: {
