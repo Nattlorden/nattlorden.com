@@ -251,6 +251,8 @@ The Shining (6:e september)
       Timbuktu & Damn! (support till) samt Sahara Hotnights 
       The Ark - Sofiero Slott Helsingborg 2007-06-28
 
+      Mustasch - Mölleplatsen 2007-08-21  (troligen detta året. Med kollegor; Pete & Steve(?))
+
       ...
 
       (Hoffmaeatro &)

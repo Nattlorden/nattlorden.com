@@ -209,14 +209,89 @@ The Shining (September 6th)`
     konserter: {
   menuTitle: "Other Concerts",
   title: "Other Concerts",
-  text: `ABBA – Scandinavium, Gothenburg, 1979 or 1980
+      text: `ABBA - Scandinavium Göteborg 1979-10-19
 
-...
+      ...
+
+      Herreys - Sundspärlan Helsingborg 1984-06-28
+      
+      ...
+
+      Roxette - Join the Joyride! Tour - Olympen Lund 1991-09-18
+
+      ...
+
+      Visor & Rosor - Sofiero Helsingborg 1993   (Wiehe, Afzelius, Monica Z, Tekla)
+
+      ...
+
+      Visor & Rosor - Citatellet Landskrona 1994 (Wiehe, Afzelius, Lisa Ekdahl, ?)
+
+      Loreena McKennitt - Mejeriet Lund 1994-04-20
+
+      ...
+
+      Alphaville - Mejeriet Lund 1996-05-11 (troligen)
+
+      Hoola Bandoola Band - Citadellet Landskrona 1996-sommar
+
+      ...
+
+      "En sång till Björn Afzelius" minneskonsert, Malmö Musikteater 1999-05-??
+
+      ...
+
+      Wilmer X - Citadellet Landskrona 2003-06-20?
+
+      ...
+
+      Timbuktu & Damn! (support till) samt Sahara Hotnights 
+      The Ark - Sofiero Slott Helsingborg 2007-06-28
+
+      Mustasch - Mölleplatsen 2007-08-21  (troligen detta året. Med kollegor; Pete & Steve(?))
+
+      ...
+
+      (Hoffmaeatro &)
+      Timbuktu & Damn! - Rådhustorget Landskrona 2009-07-08?
+
+      ...
+
+      Jakob Hellman & MSO - Malmö Live 2017-03-04
+      
+      Patricia Barber - Pildammsteatern, Malmö Sommarscen 2017-06-20
+
+      ...
+
+      Rammstein - Telia Parken Köpenhamn 2019-06-19
+
+      Chris Kläfford (support till)
+      Gyllene Tider - Mölleplatsen Malmö 2019-07-061
+
+      ...
+
+      Arch Enemy - Deceivers Tour - Slagthuset Malmö 2023-08-16
+
+      ...
+
+      Alphaville Forever! Live - Best of 40 Years - Folkets Park, Malmö 2025-07-25
+
+      Dollystyle - Stortorget Malmöfestivalen 2025-08-15
+
+      ...
 
 Amanda Jenssen – Mejeriet, Lund, 2026-05-16
-`,
-  showPlaceholder: true
-},
+
+      ...
+
+      The Mind Palace - Rockstage Malmöfestivalen 2026-08-11
+
+      Jonathan Johansson & MSO - Stortorget Malmöfestivalen 2026-08-12
+
+      Another nameless Ghost - Rockstage Malmöfestivalen 2026-08-14
+      `,
+      showPlaceholder: true
+    },
 /*
     software: {
       menuTitle: "Mjukvara",
