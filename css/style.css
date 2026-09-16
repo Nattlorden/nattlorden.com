@@ -445,7 +445,7 @@ main {
 
 
 .tile.ornament:hover .ornament-mask {
-  opacity: 0.55;  // was 0.35
+  opacity: 0.55;  /* was 0.35 */
   transform: scale(1);
 }
 
@@ -484,6 +484,30 @@ main {
 .about-inner a:hover {
   color: #e0c878;
   border-bottom-color: #e0c878;
+}
+
+.family-only {
+  display: none;
+}
+
+.family-access .family-only {
+  display: inline; /* eller block beroende på layout */
+}
+
+.private-only {
+  display: none;
+}
+
+.private-access .private-only {
+  display: block;
+}
+
+.couple-only {
+  display: none;
+}
+
+.couple-access .couple-only {
+  display: block;
 }
 
 .friend-only {

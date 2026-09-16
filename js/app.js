@@ -1,6 +1,31 @@
-const hasFriendAccess = () => localStorage.getItem("friendAccess") === "yes";
-const hasHexAccess = () => localStorage.getItem("hexAccess") === "yes";
+const hasFamilyAccess = () =>
+  localStorage.getItem("familyAccess") === "yes";
 
+const hasCoupleAccess = () =>
+  localStorage.getItem("coupleAccess") === "yes";
+
+const hasPrivateAccess = () =>   
+  localStorage.getItem("privateAccess") === "yes";
+
+const hasFriendAccess = () => 
+  localStorage.getItem("friendAccess") === "yes";
+
+const hasHexAccess = () => 
+  localStorage.getItem("hexAccess") === "yes";
+
+
+if (hasFamilyAccess()) {
+  document.documentElement.classList.add("family-access");
+}
+if (hasCoupleAccess()) {
+  document.documentElement.classList.add("couple-access");
+  document.documentElement.classList.add("family-access");
+}
+if (hasPrivateAccess()) {
+  document.documentElement.classList.add("private-access");
+  document.documentElement.classList.add("couple-access");
+  document.documentElement.classList.add("family-access");
+}
 if (hasFriendAccess()) {
   document.documentElement.classList.add("friend-access");
 }

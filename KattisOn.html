@@ -2,7 +2,7 @@
 <html lang="sv">
 <head>
   <meta charset="utf-8">
-  <title>Lock</title>
+  <title>Unlock</title>
   <style>
     body {
       margin: 0;
@@ -25,17 +25,16 @@
   </style>
 </head>
 <body>
-  <img src="assets/locked.png" alt="Locked">
-  <h1>Private and friend modes cancelled</h1>
-  <p>…the door shuts behind you.</p>
+  <img src="assets/unlocked.png" alt="Unlocked">
+  <h1>Kattis mode unlocked</h1>
+  <p>…welcome my Dear!</p>
 
   <script>
-    localStorage.removeItem("friendAccess");
-    localStorage.removeItem("privateAccess");
+    localStorage.setItem("coupleAccess", "yes");
 
     setTimeout(() => {
       window.location.href = "/";
-    }, 3000);
+    }, 2000);
   </script>
 </body>
 </html>

@@ -262,6 +262,14 @@ hr {
   margin: 28px 0;
 }
 
+.family-only {
+  display: none;
+}
+
+.family-access .family-only {
+  display: inline; /* eller block beroende på layout */
+}
+
 .friend-only {
   display: none;
 }

@@ -26,12 +26,11 @@
 </head>
 <body>
   <img src="assets/locked.png" alt="Locked">
-  <h1>Private and friend modes cancelled</h1>
-  <p>…the door shuts behind you.</p>
+  <h1>Kattis mode cancelled</h1>
+  <p>…welcome back soon!</p>
 
   <script>
-    localStorage.removeItem("friendAccess");
-    localStorage.removeItem("privateAccess");
+    localStorage.removeItem("coupleAccess");
 
     setTimeout(() => {
       window.location.href = "/";

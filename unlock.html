@@ -26,11 +26,12 @@
 </head>
 <body>
   <img src="assets/unlocked.png" alt="Unlocked">
-  <h1>Friend mode unlocked</h1>
+  <h1>Private and friend modes unlocked</h1>
   <p>…you are allowed in behind the set.</p>
 
   <script>
     localStorage.setItem("friendAccess", "yes");
+    localStorage.setItem("privateAccess", "yes");
 
     setTimeout(() => {
       window.location.href = "/";
