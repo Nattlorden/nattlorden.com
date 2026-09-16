@@ -485,3 +485,11 @@ main {
   color: #e0c878;
   border-bottom-color: #e0c878;
 }
+
+.friend-only {
+  display: none;
+}
+
+.friend-access .friend-only {
+  display: block;
+}

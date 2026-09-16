@@ -2351,7 +2351,7 @@ och åt runans hemliga rötter
     },
     {
       type: "text",
-      content: `<i>Andra fullängdssläppet från Maj-Lisa & Skramlet. Omslagsbild på M/S Ørnen i Malmö skeppbron. Gick i trafik till Havnegade fram till 1980.</i>
+      content: `<i></i>
       `
     }
   ],
@@ -4202,7 +4202,6 @@ A kiss like a funeral hymn
 One taste and the whole room sways
 One touch and the candle goes dim
 
- Back to the rising sun
  Come on in, baby, the river don't tell
  Come on in, baby, I know you too well
  I bite like love and I burn like sin
@@ -4309,7 +4308,7 @@ Sometimes it’s what we don’t come through
  When the river runs black
 
 Old trumpeter stepped off the stage
-Smoked his phag
+Smoked his fag
 Coughed blood in a rag
 Took another drag
 
@@ -4426,7 +4425,7 @@ beneath a burning sky
  yeah, the sinners' place
 
 Saw a waitress from Missouri
-raise her glass along the r/au/wt
+raise her glass along the route
 saw a biker kill his engine
 just to hear the trumpets shout
 
