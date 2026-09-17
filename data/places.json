@@ -1,0 +1,283 @@
+{
+  "projectId": "6CrgFGXGvrjmrGgC",
+  "regions": [
+    {
+      "name": "Sk�ne",
+      "places": [
+        {
+          "name": "Ales Stenar",
+          "items": [
+            {
+              "id": "63qjHWfJm6WjHwmC",
+              "name": "Ales Stenar",
+              "order": -1,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Bokskogen",
+          "items": [
+            {
+              "id": "63qhrq2xCXfPpwCj",
+              "name": "Bokskogen",
+              "order": 1,
+              "visited": false,
+              "notes": "",
+              "links": []
+            },
+            {
+              "id": "63qjJgRPXr389gHC",
+              "name": "Torups Slott",
+              "order": 2,
+              "visited": false,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Djurholmen",
+          "items": [
+            {
+              "id": "63qj7pFfXXp6Mh7C",
+              "name": "Djurholmen",
+              "order": -1,
+              "visited": false,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Forsakar ( ej Kattis )",
+          "items": [
+            {
+              "id": "63qjJqWhJcM6q5mj",
+              "name": "Forsakar ( ej Kattis )",
+              "order": 0,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Glimmingehus",
+          "items": [
+            {
+              "id": "63qh8qCx663MPWPj",
+              "name": "Glimmingehus",
+              "order": 1,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Kivik",
+          "items": [
+            {
+              "id": "65vrg663vGxGgp3C",
+              "name": "Ulriksdal",
+              "order": 1,
+              "visited": false,
+              "notes": "",
+              "links": [
+                {
+                  "title": "Om Ulriksdal",
+                  "url": "https://ulriksdals.se/om-ulriksdal/"
+                }
+              ]
+            },
+            {
+              "id": "63qjHXGFC7QHCgHj",
+              "name": "Kivik Art Center",
+              "order": 1,
+              "visited": true,
+              "notes": "",
+              "links": []
+            },
+            {
+              "id": "63qj8CQH8C87ccmC",
+              "name": "Kivik - Kungagraven",
+              "order": 2,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Kullen",
+          "items": [
+            {
+              "id": "63qj642X5MCX2V9j",
+              "name": "Nimis ( bara Simon? )",
+              "order": 2,
+              "visited": false,
+              "notes": "",
+              "links": []
+            },
+            {
+              "id": "64379MM8hW3PgJVC",
+              "name": "Kullens Fyr",
+              "order": 1,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Körsbärsdalen",
+          "items": [
+            {
+              "id": "684XPX6WWP7Mrhgj",
+              "name": "Körsbärsdalen",
+              "order": 7,
+              "visited": false,
+              "notes": "",
+              "links": [
+                {
+                  "title": "Körsbärsdalen | Naturskyddsföreningen i Skåne",
+                  "url": "https://skane.naturskyddsforeningen.se/hittaut/sydvastra-skane/korsbarsdalen/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Norrvikens trädgårdar",
+          "items": [
+            {
+              "id": "63qjJXcgC2r6vJcC",
+              "name": "Norrvikens trädgårdar",
+              "order": 6,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Rövarekulan",
+          "items": [
+            {
+              "id": "67P3x346pRJp3frj",
+              "name": "Rövarekulan",
+              "order": 6,
+              "visited": false,
+              "notes": "",
+              "links": [
+                {
+                  "title": "Rövarekulan",
+                  "url": "https://www.lansstyrelsen.se/skane/besoksmal/naturreservat/hoor/rovarekulan.html?sv.target=12.382c024b1800285d5863a89a&sv.12.382c024b1800285d5863a89a.route=/&searchString=&counties=&municipalities=&reserveTypes=&natureTypes=&facilities=&sort=none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skåneleden etapp ( lokaltrafik tillbaka till bil/ dit-hem )",
+          "items": [
+            {
+              "id": "63qj9ccH3fRPPjGC",
+              "name": "Skåneleden etapp ( lokaltrafik tillbaka till bil/ dit-hem )",
+              "order": 2,
+              "visited": false,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Sofiero",
+          "items": [
+            {
+              "id": "63qjCmXg389mWJcj",
+              "name": "Sofiero",
+              "order": 7,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Stenshuvud",
+          "items": [
+            {
+              "id": "63qj9wGH7R5gxj2C",
+              "name": "Kaffestugan Annorlunda",
+              "order": 1,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Söderåsen",
+          "items": [
+            {
+              "id": "63qhFR65RVpjPFMj",
+              "name": "Söderåsen",
+              "order": 3,
+              "visited": false,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Ånglok St.Olof",
+          "items": [
+            {
+              "id": "63qhwc3hF2W6jm4j",
+              "name": "Ånglok St.Olof",
+              "order": 9,
+              "visited": true,
+              "notes": "",
+              "links": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Danmark",
+      "places": [
+        {
+          "name": "Den Blå Planet",
+          "items": [
+            {
+              "id": "63qhGPqwF587638C",
+              "name": "Den Blå Planet",
+              "order": 1,
+              "visited": false,
+              "notes": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "Kronborg Slott",
+          "items": [
+            {
+              "id": "63qh88XM92xPXh4j",
+              "name": "Kronborg Slott",
+              "order": 2,
+              "visited": false,
+              "notes": "",
+              "links": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
