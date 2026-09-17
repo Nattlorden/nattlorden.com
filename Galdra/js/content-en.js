@@ -423,6 +423,167 @@ vinner evigt
     }
   ],
   showPlaceholder: false
+    },
+    aChantar: {
+      menuTitle: "A chantar - Jag måste sjunga",
+      title: "A chantar - Jag måste sjunga",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/A chantar 1200.jpg",
+      size: "small",
+      caption: "Released August 20th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Translation of "A chantar m'er de so qu'eu no volria" Occitan song from the 12th century 1100-talet by Comtessa (Beatriz?) de Dia</i>
+      
+      <a href="https://open.spotify.com/album/6zsSPWoxVXXUMEZjKl9gDZ?si=H9t_8BU9Rk65AZVMSHBeTw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/RaP0MFjDs2I" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Jag måste sjunga det jag helst ej ville,
+så djupt jag klagar på den som jag älskar,
+ty honom älskar jag mer än allt som finnes.
+Hos honom gagnar varken nåd eller höviskhet,
+ej min skönhet, mitt värde eller vett.
+Så har jag blivit bedragen och förrådd,
+som vore rätt, om jag var utan behag.
+
+Dock tröstar jag mig: aldrig svek jag dig,
+min vän, i ord, i handling eller tro.
+Jag älskar dig mer än Seguin älskade Valensa,
+och gläds att jag i kärlek övervinner dig.
+Min käre vän, ty du är ädlast av män,
+men stolt är du mot mig i ord och åtbörd,
+fast fri och mild mot alla andra är du.
+
+Jag häpnar över högmodet i ditt hjärta,
+min vän, mot mig, och därför måste jag sörja.
+Det är ej rätt att annan kärlek tar dig
+för något ord jag sagt eller hur jag mött dig.
+Minns hur vår kärlek en gång tog sin början.
+Gud give aldrig att vårt band skall brytas
+och att det sker genom någon skuld hos mig.
+
+Den stora dygd som bor uti ditt hjärta
+och all din ära håller mig i oro.
+Jag känner ingen, fjärran eller nära,
+som önskar älska och ej böjer sig mot dig.
+Men du, min vän, har nog med urskillning
+att känna henne vars kärlek är den sannaste.
+Så minns igen de löften vi har givit.
+
+Min rang bör tala, liksom min förtjänst,
+min skönhet, och än mer mitt trogna hjärta.
+Därför jag sänder dit där du nu vistas
+denna sång, att gå som budbärare till dig.
+Jag vill få veta, sköne ädle vän,
+varför mot mig du blivit hård och främmande:
+om det är högmod eller blott ovilja.
+
+Och säg dessutom, budbärare, till honom:
+för stort ett högmod har skadat mången människa.`
+    }
+  ],
+  showPlaceholder: true
+    },
+    hellreKärlekÄnÄra: {
+      menuTitle: "Hellre kärlek än Ära",
+      title: "Hellre kärlek än Ära",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Hellre kärlek än ära 1200.jpg",
+      size: "small",
+      caption: "Publicerad 28e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text: Wilhelm von Braun</i>
+      
+      <a href="https://open.spotify.com/album/0wWQ7daQenJSOT1jCnrf3T?si=Ayb3nLiDQgeyKLS3P4C3dQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/h14Gnxut8iU?list=OLAK5uy_mSs5UJXN_w0YrMq457n7fIvM7gz1KuFtQ" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Här på gården trygg jag vilar,
+medan han mot fjärran ilar,
+faror och sin bane mot.
+Ack, men jag har också strider,
+också såras jag och lider,
+utan läkedom och bot.
+
+Han är djärv och övermodig;
+ständigt ser jag honom blodig,
+och mig griper dödens köld.
+Fick jag blott vid sidan vara,
+skulle jag mot järnet svara
+med min egen barm som sköld.
+
+Allt omkring mig står så stilla,
+ingen önskar någon illa,
+mark och vatten andas frid.
+Sakta sorlar bäck ur lunden,
+västan stryker över grunden –
+männen endast söker strid.
+
+Grymme! För ett namn att vinna
+flyr du gård och älskarinna,
+far mot hav och främmande strand.
+Vilken dröm har så bedragit?
+Är det ryktet som har tagit
+dig ur min fina öppna hand?
+
+Vi till offer blivit dömda,
+våra tecken snart förglömda,
+när som äran kallar dem.
+Men vad är väl denna ära?
+Kan ett hjärta mer begära
+än sin maka och sitt hem?
+
+Glömmer jag då ätt och fränder?
+Nej – jag älskar våra stränder,
+gårdens jord och hemmets härd.
+Men ett band blev starkt mig givet,
+starkare än själva livet,
+sedan du blev hjärtat värd.
+
+Ack, jag kände ej min styrka,
+då jag själv ännu kunde yrka
+på din färd mot fjärran land.
+Jag dig ville se med ära.
+Stolta hjärta, lär dig bära
+elden från vår avskedshand.
+
+Krigare på fjärran vatten!
+Genom dagen, genom natten
+väntar här din trogna mö.
+Över havet går mitt öga,
+hoppets låga brinner föga –
+men den lågan skall ej dö.
+
+Kan väl nornors trådar vilja
+tvänne bundna hjärtan skilja,
+sedan samma knut dem band?
+Mörka syner, krigarskriken!
+Jag skall vaka här vid viken
+tills hans skepp når hemmets strand.
+
+Krigarn, segerrik ur slagen,
+skall till sist bli tillfångatagen
+av en fredlig makt – av mig.
+Bojor bliva mina armar;
+hur än sköld och stridsrop larmar,
+släpper jag ej åter dig!`
+    }
+  ],
+  showPlaceholder: true
     }
 
 
