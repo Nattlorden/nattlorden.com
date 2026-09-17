@@ -3451,7 +3451,7 @@ Skåne, vårt och öppet land`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/cry a river 1200.jpg",
       size: "small",
       caption: "Released May 10th 2026"
     },
@@ -3540,7 +3540,7 @@ Not one more future bought and sold
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Moonlight moves 1200.jpg",
       size: "small",
       caption: "Release May 18th 2026"
     },
@@ -3646,7 +3646,7 @@ Only you
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Mitt eget land 1200.jpg",
       size: "small",
       caption: "Released May 23rd 2026"
     },
@@ -3750,7 +3750,7 @@ i mitt eget land
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Juni, juni 1200.jpg",
       size: "small",
       caption: "Released May 31st 2026"
     },
@@ -5142,7 +5142,7 @@ Arrivederci...`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Wax and feather 1200.jpg",
       size: "small",
       caption: "Publicerad August 21st 2026"
     },
@@ -5150,7 +5150,7 @@ Arrivederci...`
       type: "text",
       content: `<i>On our 16 wedding anniversary. Wax wedding gift in England, feather in Sweden.</i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/01Eryt36mDiIbGNfxtkYya?si=cT5inQ4GRNyKY7uOExXnuw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/K36_qx1m8Uo" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -5235,7 +5235,7 @@ Bound in joy… forever you…`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Rappa på Skånetrafiken 1200.jpg",
       size: "small",
       caption: "Released August 25th 2026"
     },
@@ -5243,7 +5243,7 @@ Bound in joy… forever you…`
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/7rwUWHCKb4S1PxTOlpAxeG?si=D3EuZH5ZQlyIykgRWDtPCg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/B9mzbJKrHMQ" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -5315,15 +5315,15 @@ Men rimmen? Dom går alltid i tid.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/på allvar 1200.jpg",
       size: "small",
       caption: "Released August 26th 2026"
     },
     {
       type: "text",
-      content: `<i></i>
+      content: `<i>Poorly written election posters in combination with the idea that "Rappa på" could be more than just a title.</i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/7DK37GxuSrIjgkNI8Pl1uY?si=OefvjuuSRgai_oUPRz9WuQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/gmCa839OZM8?list=OLAK5uy_nVRGKz5a_GAB-r_wuI4HbMDZk42-yKDr4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -5385,13 +5385,13 @@ Ta det på allvar! (Vi har hört det förut)
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Playbook 1200.jpg",
       size: "small",
       caption: "Released September 8th 2026"
     },
     {
       type: "text",
-      content: `<i></i>
+      content: `<i>World political commentary.</i>
       
       <a href="https://open.spotify.com/album/7nLFd0EMrEHht84LQy8RCy?si=jvOu4-cgSbCL7vaTgmUjDQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/EL4xJC_BBI0?list=OLAK5uy_mrLb6aExVUbzlaLmAzmBsivBYQ0ppEqJk" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
@@ -5448,7 +5448,7 @@ And never once ask who is standing off to the side
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Steel beneath the northern sky 1200.jpg",
       size: "small",
       caption: "Released September 12th 2026"
     },
@@ -5591,7 +5591,7 @@ Keeps the memory.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Saknad 1200.jpg",
       size: "small",
       caption: "Released September 13th 2026"
     },
@@ -5645,7 +5645,7 @@ Hon som var så levande nyss.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Saknad 1200.jpg",
       size: "small",
       caption: "Released September 13th 2026"
     },
@@ -5737,7 +5737,7 @@ Torkar deras tårar.
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/You can solve any riddle 1200.jpg",
       size: "small",
       caption: "Released September 13th 2026"
     },
@@ -5849,6 +5849,152 @@ You can solve every riddle but me
 [BOTH]
 Somewhere between proof and desire
 we remain unsolved`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    myCatherine: {
+      menuTitle: "My Catherine",
+      title: "My Catherine",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/My-Catherine 1200.jpg",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i>To my wife on vacation trip to Athens.</i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `My Catherine
+My Catherine
+
+Marble steps and broken columns rise
+Underneath the Athenian sky
+You walk where ancient shadows lie
+Where time and stone stand still
+
+Aphrodite calls your name
+Athena holds her wisdom flame
+But neither love nor glory
+Could ever pull my heart away
+
+Let them shine
+Let them call
+Let their kingdoms rise and fall
+Every temple fades away
+When I think of you
+
+ My Catherine
+ My Catherine
+ Walking with the gods of Greece
+
+ They can offer endless heaven
+ They can lay crowns at your feet
+ But my heart has made its choice
+ Agápi mou, come home to me
+
+ My Catherine
+ Only you
+ Only you
+
+Only you
+Only you
+My Catherine
+Only you
+
+Zeus can thunder from the mountain
+Poseidon shake the restless sea
+Hera watch you like a rival
+Dionysus raise his glass to thee
+
+But when the celebrations fade
+And every golden torch burns low
+Remember what you promised me
+Remember where your heart calls home
+
+Let them shine
+Let them call
+Let their kingdoms rise and fall
+Every temple fades away
+When I think of you
+
+ My Catherine
+ My Catherine
+ Walking with the gods of Greece
+
+ They can offer endless heaven
+ They can lay crowns at your feet
+ But my heart has made its choice
+ Agápi mou, come home to me
+
+ My Catherine
+ Only you
+ Only you
+
+Only you
+Only you
+My Catherine
+Only you
+
+Óchi theá
+Óchi theós
+
+No Goddess
+No God
+Could ever take your place
+
+Tha periméno
+I will wait
+Beneath these stars
+And say your name
+
+Catherine
+
+Let Olympus call you
+Let Athens know your name
+Let every god surround you
+
+My heart remains the same
+
+ My Catherine
+ My Catherine
+ Walking with the gods of Greece
+
+ They can offer endless heaven
+ They can lay crowns at your feet
+ But my heart has made its choice
+ Agápi mou, come home to me
+
+ My Catherine
+ My Catherine
+ Across the mountains, across the sea
+
+ Let the whole world call your name
+ You are everything to me
+
+ My Catherine
+ Only you
+ Only you
+
+Only you
+Only you
+My Catherine
+Only you
+
+My Catherine
+
+Only you
+`
     }
   ],
   showPlaceholder: false
@@ -8010,8 +8156,377 @@ a name.`
     }
   ],
   showPlaceholder: false
-    }
+    },
+    mysticAge: {
+      menuTitle: "Mystic Age",
+      title: "Mystic Age",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Mystic Age 1200.jpg",
+      size: "small",
+      caption: "Released September 4th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Projektnamn "where the worlds grow thin".</i>
+      
+      <a href="https://open.spotify.com/album/4xgNERGjh1F4w8zah2ZhS2?si=DJTnHRz6SFWHK6qx17tdNw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/FZWXcc37EQk" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I found your name where the ink had faded
+Under a sky I had never known
+A hand in the margin, a door left waiting
+A world made quiet, but not alone
 
+I learned the weight of an empty page
+How a single word can become a shore
+How distance can live inside a room
+And still leave light beneath the door
+
+Somewhere beyond what the eye remembers
+You kept a fire I could not see
+I followed no map, I carried no answer
+Only the thought you remembered me
+
+If every world has another horizon
+If every silence is hiding a name
+Then leave me one line in the dark between us
+And I will know you remain
+
+ Write me where the worlds grow thin
+ Where one ends and one begins
+ Leave your hand upon the page
+ I will find you through the Age
+
+ Write me where the worlds grow thin
+ Even if I cannot enter in
+ If the sky forgets our names
+ I will know you all the same
+
+Where the worlds grow thin
+Where the worlds grow thin
+
+You were the voice beyond the distance
+Or was it mine returning home?
+I kept your words beside the silence
+Until the silence learned their tone
+
+There are places held by memory
+There are names the years can't close
+And somewhere underneath the surface
+A different kind of garden grows
+
+If every world has another horizon
+If every ending can open again
+Leave me one line in the dark between us
+I will remember it then
+
+ Write me where the worlds grow thin
+ Where one ends and one begins
+ Leave your hand upon the page
+ I will find you through the Age
+
+ Write me where the worlds grow thin
+ Even if I cannot enter in
+ If the sky forgets our names
+ I will know you all the same
+
+Perhaps I wrote to reach you
+Perhaps you wrote me here
+Perhaps the worlds between us
+Were never what we feared
+
+No answer in the margins
+No promise carved in stone
+Only a hand across the distance
+Saying you are not alone
+
+ Write me where the worlds grow thin
+ Where one ends and one begins
+ Leave your hand upon the page
+ I will find you through the Age
+
+ Write me where the worlds grow thin
+ Though the years erase the way
+ If one word survives between us
+ I will know what it meant to say
+
+Where the worlds grow thin
+Leave one line
+
+I'll know you were there`
+    }
+  ],
+  showPlaceholder: false
+    },
+    intoTheStormWeGo: {
+      menuTitle: "Into the storm we go",
+      title: "Into the storm we go",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Into the storm we go 1200.jpg",
+      size: "small",
+      caption: "Released September 9th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/1MmXQuldhdqgg6vqGlNy3x?si=RNIvtJMXRuKZ_Z1Brv2Yiw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/j7nGF1ReaLQ?list=OLAK5uy_lKcdBPyYOSS-WegWO75SNm5TIsR-HVmRU" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Above the blackened ridge
+Something wakes beneath the cloud
+A pulse of wings, a burning breath
+And every stone remembers now
+
+I climbed where the old roads ended
+Past the pines bent into prayer
+There she waited, scarred and ancient
+Smoke unfolding through the air
+
+No chain upon her iron shoulders
+No command inside her eyes
+Only one unspoken question
+Will you fall, or will you rise?
+
+I laid my hand against the thunder
+Felt her heartbeat answer mine
+Then the mountain dropped beneath us
+And the earth became a line
+
+ Carry me over the fire
+ Over the kingdoms below
+ Where dragonriders are calling
+ Into the storm we go
+
+ Higher than towers and banners
+ Far from the wars of the ground
+ We are the flame and the shadow
+ We are the sky without bound
+
+We flew above the frozen valleys
+Where the ruined watchfires burned
+Saw the armies move like insects
+Saw the rivers twist and turn
+
+Every rider bears a promise
+Every dragon bears a name
+Not as master, not as servant
+Two wild hearts inside one flame
+
+When the arrows split the weather
+When the towers start to shine
+She will turn into the lightning
+And her fury will be mine
+
+ Carry me over the fire
+ Over the kingdoms below
+ Where dragonriders are calling
+ Into the storm we go
+
+ Higher than towers and banners
+ Far from the wars of the ground
+ We are the flame and the shadow
+ We are the sky without bound
+
+If I die, let it be falling
+Through the clouds beside her wing
+If I live, let every mountain
+Hear the ancient creatures sing
+
+No throne could ever hold us
+No border knows our name
+We were born beneath the tempest
+We were written into flame
+
+ Carry me over the fire
+ Over the kingdoms below
+ All of the dragonriders
+ Rise where the wild winds blow
+
+ Higher than towers and banners
+ Past every crown we have found
+ We are the flame and the shadow
+ We are the sky without bound
+
+ Carry me into the thunder
+ Carry me into the sun
+ Dragon and rider together
+ Two hearts becoming one
+
+Over the ridge
+Over the stone
+Into the weather
+
+Never alone
+Never alone
+Never alone`
+    }
+  ],
+  showPlaceholder: false
+    },
+    stayWithMeTonight: {
+      menuTitle: "Stay with me tonight",
+      title: "Stay with me tonight",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stay with me 1200.jpg",
+      size: "small",
+      caption: "Released September e  2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Oh-oh, tonight
+You know the feeling
+Oh-oh, tonight
+My heart is calling
+
+I saw you standing underneath the lights
+Looking like trouble on a Saturday night
+You turned around and caught me watching you
+Now every little dream is coming true
+
+I try to hide it, but you read my eyes
+One little smile and there goes my disguise
+I know tomorrow may be far away
+So come a little closer, let me say
+
+ Don't make me wonder
+ Don't make me wait
+ Love has a moment
+ And this could be fate
+ Come on and tell me
+ What you're dreaming of
+ I wanna know if you're ready for love
+
+ Stay, stay with me tonight
+ Hold me like the stars are burning bright
+ Say, say you feel it too
+ Every beat is pulling me to you
+
+ Stay, stay, don't let it end
+  We could be lovers, we could be friends
+ Hey, hey, what can I do?
+ Every road keeps leading back to you
+
+You make me nervous when you say my name
+I tell myself that it's only a game
+But when you're dancing right beside my side
+There's nowhere left for these feelings to hide
+
+You say forever is a dangerous word
+But it's the sweetest one I've ever heard
+No need to promise me a perfect life
+Just give me everything you feel tonight
+
+Don't make me wonder
+Don't make me wait
+Love has a moment
+And this could be fate
+Come on and tell me
+What you're dreaming of
+I wanna know if you're ready for love
+
+ Stay, stay with me tonight
+ Hold me like the stars are burning bright
+ Say, say you feel it too
+ Every beat is pulling me to you
+
+ Stay, stay, don't let it end
+ We could be lovers, we could be friends
+ Hey, hey, what can I do?
+ Every road keeps leading back to you
+
+Stay with me
+Stay with me
+Oh-oh
+Stay with me
+
+Maybe we're reckless
+Maybe we're young
+Maybe the story has only begun
+Give me one heartbeat
+Give me one sign
+Tell me your lonely heart is beating with mine
+
+ Stay, stay with me tonight
+ Hold me like the stars are burning bright
+ Say, say you feel it too
+ Every beat is pulling me to you
+
+ Stay, stay, don't let it end
+ We could be lovers, we could be friends
+ Hey, hey, what can I do?
+ Every road keeps leading back to you
+
+ Stay, stay with me tonight
+ Hold me like the stars are burning bright
+ Say, say you feel it too
+ Every beat is pulling me to you
+
+ Stay, stay, don't let it end
+ We could be lovers, we could be friends
+ Hey, hey, what can I do?
+ Every road keeps leading back to you
+
+Stay with me
+Stay with me tonight
+Oh-oh
+Every road leads back to you`
+    }
+  ],
+  showPlaceholder: false
+    }
+    /*
+    ,
+    dummy: {
+      menuTitle: "titel",
+      title: "titel",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.jpg",
+      size: "small",
+      caption: "Publicerad e  202x"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    }
+  */
 }, /* end Khellendros */
 
 disir: {
