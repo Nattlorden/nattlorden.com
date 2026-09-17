@@ -563,6 +563,22 @@ body[data-theme="threshold"] .top-menu-item.active {
     linear-gradient(90deg, rgba(200,167,90,0.04), transparent 30%, transparent 70%, rgba(200,167,90,0.04));
 }
 
+
+.place-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45em;
+}
+
+.place-status {
+  flex: 0 0 auto;
+}
+
+.place-item-content {
+  min-width: 0;
+}
+
+
 /* =========================
    Tema-specifika finjusteringar
    ========================= */
@@ -777,3 +793,4 @@ body:not([data-theme="contact"]) .back-home img {
     border-color: var(--accent-hover);
   }
 }
+
