@@ -8024,8 +8024,850 @@ disir: {
     marieCeleste: {
       menuTitle: "Marie Celeste",
       title: "Marie Celeste",
-      text: ``
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Marie Celeste 1200.jpg",
+      size: "small",
+      caption: "Released August 21st 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/0oxgMVYWybxdT1YhvqDNTo?si=dul72yQqQBqAA6neTnXYTQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/VzRe8LfpUPI" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `[Verse 1]
+She left the harbor under a clean blue sky
+With barrels sealed and the compass true
+A kettle cooled beside the captain’s cup
+And every rope still wet with dew
+
+The galley fire had forgotten its name
+Bread lay untouched beneath the cloth
+One child’s boot was wedged beside the stair
+But no hand came back to claim it off
+
+ Marie Celeste, where did you go?
+ Who heard the last door close below?
+ The sea kept watch, the gulls flew wide
+ And seven miles from shore, you died
+
+The lifeboat’s lashings hung loose in the rain
+A torn chart pointed westward still
+No blood was found, no farewell was penned
+Only the tide climbing past the sill
+
+If you are sleeping under salt and stone
+If you are walking where the drowned bells ring
+Leave one small mark on the winter foam
+Tell us what silence took from everything
+
+ Marie Celeste, where did you go?
+ Who heard the last door close below?
+ The sea kept watch, the gulls flew wide
+ And seven miles from shore, you died
+
+She sails without a living breath
+Her lantern dark, her canvas torn
+And every wave repeats the question
+Why was the empty ship still warm?`
     }
+  ],
+  showPlaceholder: false
+    },
+    rightNow: {
+      menuTitle: "Right now",
+      title: "Right now",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Right now 1200.jpg",
+      size: "small",
+      caption: "Released August 22nd 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/5zNFxpzKNo6drexruGGfIu?si=rNrf3XQNRjqdKZNYfcsoqg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/N7ViGOaNn7g?list=OLAK5uy_lSz6YQ_vvEtOTUQLsEUEgi_zoXsnTYHBQ" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Hey, hey
+Everybody wants the crown
+Nobody wants the weight
+Hey, hey
+Everybody wants it now
+Nobody wants to wait
+
+We want the view but we don't want the climb
+Want a whole new life by a quarter to nine
+Want the front-row seat, want the name in lights
+But somebody else better pay that price
+
+We want clean hands with a dirty deal
+Want something fake that can still feel real
+Want every door with a master key
+Freedom for you, more room for me
+
+I want the cake and the photograph
+I want the future without the past
+Everybody running for the finish line
+Like we found a way to negotiate time
+
+You say give me, give me everything
+But don't ask what I bring
+You want angels overhead
+Without the wings getting heavy
+
+ Everybody wants paradise tonight
+ Nobody wants to pay the price
+ Everybody wants their name up in the lights
+ Nobody wants the sleepless nights
+
+ Give me love, give me gold
+ Give me everything I can hold
+ We want heaven right here, right now
+ But nobody wants to come back down
+
+Right now!
+We want it
+Right now!
+We got to have it
+Hands up!
+Till the whole thing shakes
+Everybody wants the prize
+Nobody wants the weight
+
+We want the truth when it takes our side
+Change the channel when it hurts our pride
+Save the world with a shopping bag
+Put a little green leaf on the luxury tag
+
+Talk revolution from a velvet chair
+Say everybody's equal till we have to share
+Point one finger, keep three concealed
+Everybody loves justice when the deal is sealed
+
+New day, same race, new face, same game
+Everybody wants credit, nobody wants blame
+We build our castles one floor too high
+Then act surprised when they block the sky
+
+You say give me, give me everything
+Make the whole room sing
+You want angels overhead
+But you never check your wings
+
+ Everybody wants paradise tonight
+ Nobody wants to pay the price
+ Everybody wants their name up in the lights
+ Nobody wants the sleepless nights
+
+ Give me love, give me gold
+ Give me everything I can hold
+ We want heaven right here, right now
+ But nobody wants to come back down
+
+Want it, want it
+Now, now, now
+Want it, want it
+Show me how
+
+More love
+More fame
+More money
+No blame
+
+Want it, want it
+Now, now, now
+Everybody wants the fire
+Nobody wants the flame
+
+What if the door was never locked?
+What if the clock was never stopped?
+What if the thing we're running to
+Is built from everything we do?
+
+No crown without the pressure
+No heart without the risk
+If paradise is somewhere
+Maybe somewhere looks like this
+
+ Everybody wants paradise tonight
+ So maybe we should pay the price
+ Everybody wants their name up in the lights
+ Then stand awake through sleepless nights
+
+ Give some love, let some go
+ Maybe that's the only road
+ We want heaven right here, right now
+ So build it up from the ground
+
+Everybody!
+Right here!
+Everybody!
+Right now!
+No more waiting for the sky
+To come and save us somehow
+
+Everybody wants the crown
+Can you carry the weight?
+Everybody wants it now
+Can you learn how to wait?
+
+Right here
+Right now
+Right here
+Right now`
+    }
+  ],
+  showPlaceholder: false
+    },
+    layYourQuietOverMe: {
+      menuTitle: "Lay your quiet over me",
+      title: "Lay your quiet over me",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/lay your quiet 1200.jpg",
+      size: "small",
+      caption: "Released August 25th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/7mliFvfOWeX4xuQhSlGTvu?si=FeAy8qRDRaS-jwAEi4FqdQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/bYbOtMH9YQQ?list=OLAK5uy_k7WbbzXehsKYxlokHR1Q6hL6jrLYetKWU" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `In the quiet after midnight
+When the walls forget my name
+I can hear the city breathing
+Like a distant, dying flame
+
+I've been carrying the hours
+Like a suitcase full of stone
+Every road I thought would save me
+Only led me far from home
+
+There are shadows in the doorway
+There are echoes in the hall
+But tonight I don't need answers
+I just need somewhere to fall
+
+If the morning comes too quickly
+If my courage disappears
+Stay beside me in the silence
+Till the darkness loses fear
+
+ Lay your quiet over me
+ Like the moonlight on the sea
+ Let the weight I've held so long
+ Drift away where it belongs
+
+ I don't need the world to change
+ I don't need to know the way
+ Just a little room to breathe
+ Just a little peace within me
+
+I've been searching every window
+For a light that wouldn't fade
+Trying hard to hide the pieces
+Of the promises I made
+
+Now the night is almost empty
+And my hands are finally still
+There is mercy in surrender
+There is strength in standing still
+
+If tomorrow brings another
+Long and unforgiving road
+Let me keep this fragile moment
+When I finally set it down
+
+ Lay your quiet over me
+ Like the moonlight on the sea
+ Let the weight I've held so long
+ Drift away where it belongs
+
+ I don't need the world to change
+ I don't need to know the way
+ Just a little room to breathe
+ Just a little peace within me
+
+Maybe healing isn't thunder
+Maybe hope arrives this way
+Not a door thrown wide before me
+Just a crack that lets in day
+
+And for once I won't go running
+I won't fight what I can't see
+I will listen to the silence
+Till it sounds like home to me
+
+ Lay your quiet over me
+ Like the moonlight on the sea
+ Let the weight I've held so long
+ Drift away where it belongs
+
+ I don't need the world to change
+ I don't need to know the way
+ Let the morning find me here
+ With a little less to fear
+
+When the restless night is leaving
+When the first light finds the room
+I will breathe into the silence
+And let the silence carry me home`
+    }
+  ],
+  showPlaceholder: false
+    },
+    forbiddenFire: {
+      menuTitle: "Forbidden fire",
+      title: "Forbidden fire",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Forbidden Fire 1200.jpg",
+      size: "small",
+      caption: "Released August 27th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/68RI3iA8HnomIsUWpAhxSu?si=VaisDzt7TpW9vE8JUnaUAA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/zgdaxMWZe6Y?list=OLAK5uy_lGixSWnWPnQXdlJ_Sguvv9I5mkLQIWURY" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Ah-ah
+Don't come closer
+Don't come closer
+
+Everybody says I know better
+Everybody sees where this could go
+You walk in and I lose my center
+One look and the whole room knows
+
+I keep my hands where they can see them
+Keep my secrets under my tongue
+But every time you move beside me
+I forget what I was running from
+
+One step
+Too near
+One spark
+Right here
+
+Tell me no
+Tell me go
+Either way
+I lose control
+
+ I shouldn't want you, but I do
+ I shouldn't touch you, but I do
+ Every warning pulls me closer
+ Every red light leads to you
+
+ I shouldn't want you, but I do
+ And heaven knows I know the truth
+ If loving you is crossing over
+ Break the rules
+ Break the rules
+
+Break the rules
+Break the rules
+Ah-ah, ah-ah
+Break the rules
+
+Your name is danger in a whisper
+A match I hide inside my sleeve
+We dance around the line between us
+Like neither one of us can leave
+
+No promises and no forgiveness
+No future written in the stars
+Just your shadow moving toward me
+And my pulse beating through the dark
+
+One step
+Too near
+One spark
+Right here
+
+Tell me no
+Tell me go
+Either way
+I lose control
+
+ I shouldn't want you, but I do
+ I shouldn't touch you, but I do
+ Every warning pulls me closer
+ Every red light leads to you
+
+ I shouldn't want you, but I do
+ And heaven knows I know the truth
+ If loving you is crossing over
+ Break the rules
+ Break the rules
+
+Let them talk
+Let them stare
+Let them build their walls around us
+
+I can run
+I can hide
+Still your heartbeat always finds me
+
+No more almost
+No more maybe
+No more standing at the edge
+
+If this fire has a price
+Tonight I pay it
+
+Closer
+Closer
+Closer now
+
+Higher
+Higher
+Don't back down
+
+ I shouldn't want you, but I do
+ I shouldn't touch you, but I do
+ Every warning pulls me closer
+ Every red light leads to you
+
+ I shouldn't want you, but I do
+ And heaven knows I know the truth
+ If loving you is crossing over
+ Break the rules
+ Break the rules
+
+ I shouldn't want you, but I do
+ I shouldn't want you, but I do
+ Break the rules
+ Break the rules
+
+Break the rules
+Break the rules
+I shouldn't want you, but I do
+Break the rules
+
+I shouldn't want you
+But I do
+Ah-ah
+But I do`
+    }
+  ],
+  showPlaceholder: false
+    },
+    poeticScience: {
+      menuTitle: "Poetic science",
+      title: "Poetic science",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Poetic science 1200.jpg",
+      size: "small",
+      caption: "Released August 30th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/7bp8R2rzyPY7s3ceDHd0Xx?si=efLwvJBsQ8iy6K9XxMNZ_A" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/NCPwG67Ua64?list=OLAK5uy_mX6Gvsnu126nOVJG89mZqn8uewrpD-ewI" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Lady Lovelace, please forgive our impertinence. The future remembers you with such affection that titles have quietly fallen away. To mathematicians, engineers, dreamers... you are simply Ada.
+
+Ada
+Across a hundred years
+I send a question
+Can you hear?
+
+You knew numbers could mean more
+Than the measure of a thing
+Signs could stand for notes and tones
+And teach a wheel to sing
+
+You called it poetic science
+Where imagination meets the rule
+A language made of patterns
+A loom of thought, a thinking tool
+
+That part became true
+But the future carried on
+The engine learned a thousand forms
+Beyond the written sum
+
+ Ada
+ Did you ever dream
+ That one day we would talk to
+ The machine?
+
+ Ada
+ Could you have believed
+ Those numbers would write
+ A song about you and me?
+
+Poetic science
+Poetic science
+More than numbers
+More than numbers
+
+Now numbers hold a field of light
+And find the faces hidden there
+They shape a voice from silent signs
+And send it singing through the air
+
+They listen when a stranger speaks
+Then cross the borders of the tongue
+They turn one language into one
+A distant heart has always known
+
+You saw the notes inside the code
+The music waiting to be freed
+But could you see the image speak?
+Could you imagine it could read?
+
+ Ada
+ Did you ever dream
+ That one day we would talk to
+ The machine?
+
+ Ada
+ Could you have believed
+ Those numbers would write
+ A song about you and me?
+
+
+You said it could not originate
+Only follow what we know
+But now it answers in a voice
+And leaves us asking as it grows
+
+Is this still our reflection?
+A mirror made of memory?
+Or has poetic science found
+Another kind of poetry?
+
+You gave the numbers meaning
+You let imagination in
+And every door we open now
+Begins where you began
+
+ Ada
+ Did you ever dream
+ That one day we would talk to
+ The machine?
+
+ Ada
+ Could you have believed
+ Those numbers would write
+ A song about you and me?
+
+Ada
+Can you hear us now?
+Poetic science
+Is singing out loud
+
+Ada
+Across a hundred years
+The machine has heard my question
+
+But I wish
+That you were here`
+    }
+  ],
+  showPlaceholder: false
+    },
+    pluieDeSeptembre: {
+      menuTitle: "Pluie de Septembre",
+      title: "Pluie de Septembre",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Pluie de Septembre 1200.jpg",
+      size: "small",
+      caption: "Released September 4th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/18tO9I6QS4PBsckuQ341DN?si=9ZYvcHeKRJ-uO2J1GCafRg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/NRXjG7Yg35U?list=OLAK5uy_kDPVYglEZous1FPgW-27faPFFZyXHqYcY" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `La nuit se pose au bord de mes fenêtres
+Comme une main que je ne connais plus
+Je vois ton ombre apparaître, disparaître
+Dans les reflets d'une avenue perdue
+
+J'ai laissé ton nom dormir sur ma peau
+Quelques secondes avant de l'effacer
+Mais chaque lumière au fond de l'eau
+Dessine encore ce que j'ai refusé
+
+Je marche seule entre les feux rouges
+Le cœur trop calme pour être innocent
+Tout ce qui reste tremble et bouge
+Quand ton souvenir traverse le vent
+
+Et si le ciel voulait parler
+Que dirait-il de nos blessures ?
+Je sens le monde se renverser
+Sous cette étrange pluie obscure
+
+ Tombe sur moi, pluie de septembre
+ Efface les traces de nos corps
+ Je veux brûler sans faire de cendres
+ Je veux t'oublier plus fort encore
+
+ Tombe sur moi jusqu'à l'ivresse
+ Jusqu'à ne plus savoir pourquoi
+ L'amour ressemble à une promesse
+ Qui meurt au moment où l'on y croit
+
+Les néons tremblent comme des étoiles
+Trop fatiguées pour nous éclairer
+Je garde au fond de moi ce voile
+Que même le temps n'a pas déchiré
+
+Tu étais l'orage avant le silence
+Le goût du vertige au bout de mes doigts
+Et maintenant ton absence
+A presque la couleur de toi
+
+Et si le ciel voulait mentir
+Pour nous offrir une autre histoire
+Je fermerais les yeux sans partir
+Juste une seconde avant le noir
+
+ Tombe sur moi, pluie de septembre
+ Efface les traces de nos corps
+ Je veux brûler sans faire de cendres
+ Je veux t'oublier plus fort encore
+
+ Tombe sur moi jusqu'à l'ivresse
+ Jusqu'à ne plus savoir pourquoi
+ L'amour ressemble à une promesse
+ Qui meurt au moment où l'on y croit
+
+Je n'attends plus ton retour
+Je n'attends même plus demain
+Mais certaines nuits font de l'amour
+Un fantôme accroché à nos mains
+
+Dis-moi...
+Si tout s'efface
+Pourquoi ton visage
+Revient quand le ciel se brise ?
+
+ Tombe sur moi, pluie de septembre
+ Fais disparaître jusqu'à mon nom
+ Que chaque goutte enfin me rende
+ Le goût perdu de l'abandon
+
+ Tombe sur moi jusqu'à l'ivresse
+ Je n'ai plus peur de cette fois
+ L'amour n'était pas une promesse
+ Seulement un passage entre toi et moi
+
+La nuit se pose...
+Je reste là
+Sous la pluie
+Sans toi
+
+Et quelque part
+Dans le noir
+Je redeviens
+Moi`
+    }
+  ],
+  showPlaceholder: false
+    },
+    glaoNaGealaí: {
+      menuTitle: "Glao na Gealaí",
+      title: "Glao na Gealaí",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/glao na Gealaí 1200.jpg",
+      size: "small",
+      caption: "Released September 5th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/6LavJIqDUaYSC8AWc1pUOm?si=JyJuKMEBSsajdXq_R47f1A" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/fSVWHIDJvhw?list=OLAK5uy_k8uFuwh-O3Dbb0wbd1MuaAc9OG2zQJUsM" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Ó...
+Éist liom, a ghealach
+Éist liom anocht
+
+Faoi scamaill dhorcha tá solas fós
+Os cionn na farraige, ciúin gan treo
+Síním mo lámh tríd an oíche fhuar
+Mar chloisim guth ón taobh eile uaim
+
+Tá ceo ar an talamh, tine sa spéir
+Tá rún sna clocha nach n-insíonn aon bhéal
+Mo chroí ag bualadh le seanrithim na sí
+Ag glaoch orm amach ón saol seo im thimpeall
+
+Má osclaím an doras
+An bhfillfidh mé arís?
+Má leanaim do sholas
+Céard atá romham ansin?
+
+ Glao na gealaí
+ Tá sé ionam, tá sé ionam
+ Glao na gealaí
+ Tríd an dorchadas
+
+ Síním mo lámh
+ Síním mo lámh
+ Go dtí an solas os mo chionn
+ Glao na gealaí
+ Tabhair leat mé anocht
+
+Anocht, anocht
+Tabhair leat mé anocht
+Anocht, anocht
+Glao na gealaí
+
+Ar imeall na coille tá cosán bán
+Nach bhfeiceann súil faoin ngnáthsholas lá
+Bogann na scáthanna gan ghaoth sna crainn
+Agus ainm nach cuimhin liom ar bharr mo theanga
+
+Tá réaltaí báite i loch dubh thíos
+Tá lorg na seanmhuintire fós sa chroí
+Má tá domhan eile taobh thall den cheo
+Leanfaidh mé do sholas cibé áit a rachaidh sé
+
+Má osclaím an doras
+Ní fhillfidh mé mar bhí
+Tá rud éigin ag fanacht
+Idir an ghealach agus mé
+
+ Glao na gealaí
+ Tá sé ionam, tá sé ionam
+ Glao na gealaí
+ Tríd an dorchadas
+
+ Síním mo lámh
+ Síním mo lámh
+ Go dtí an solas os mo chionn
+ Glao na gealaí
+ Tabhair leat mé anocht
+
+A mhí gheal, taispeáin an bealach
+Tríd an gceo, thar an teorainn
+Nílim anseo
+Nílim ansiúd
+Táim idir dhá shaol anois
+
+Éist liom
+Éist liom
+Éist liom...
+
+Tá an spéir ag oscailt
+Tá an ceo ag scaradh
+Tá mo lámh sa solas
+Agus níl eagla orm
+
+ Glao na gealaí
+ Tá sé ionam, tá sé ionam
+ Glao na gealaí
+ Tríd an dorchadas
+
+ Síním mo lámh
+ Síním mo lámh
+ Go dtí an solas os mo chionn
+ Glao na gealaí
+ Tabhair leat mé anocht
+
+ Glao na gealaí
+ Tá sé ionam, tá sé ionam
+ Glao na gealaí
+ Tabhair leat mé anocht
+
+Anocht...
+Anocht...
+Éist liom, a ghealach
+Tá mé ag teacht`
+    }
+  ],
+  showPlaceholder: false
+    }
+    /*
+    ,
+    dummy: {
+      menuTitle: "titel",
+      title: "titel",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.jpg",
+      size: "small",
+      caption: "Publicerad e  202x"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    }
+  */
+
+
+
+
   }, /* end disir */
 
  /*hifi: {
