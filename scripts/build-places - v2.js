@@ -9,14 +9,14 @@ const path = require("path");
 
 const PROJECT_ID = "6CrgFGXGvrjmrGgC";
 
-/* const SECTION_MAP = {
+const SECTION_MAP = {
   "63g94hgrJXMRFM3C": {
-    region: "Skåne",
+    region: "Sk�ne",
     visited: false
   },
 
   "63g9cg6MrVgQV8GC": {
-    region: "Skåne",
+    region: "Sk�ne",
     visited: true
   },
 
@@ -24,7 +24,7 @@ const PROJECT_ID = "6CrgFGXGvrjmrGgC";
     region: "Danmark",
     visited: false
   }
-};*/
+};
 
 
 // ============================================================
@@ -147,39 +147,6 @@ function parseDescription(description) {
   };
 }
 
-//  Fuction parseSection
-
-function parseSection(section) {
-  const name = section.name.trim();
-
-  const newMatch = name.match(/^(.+?)\s*-\s*nya$/i);
-
-  if (newMatch) {
-    return {
-      region: newMatch[1].trim(),
-      visited: false,
-      order: section.sectionOrder
-    };
-  }
-
-  const visitedMatch = name.match(
-    /^(.+?)\s*-\s*redan besökta$/i
-  );
-
-  if (visitedMatch) {
-    return {
-      region: visitedMatch[1].trim(),
-      visited: true,
-      order: section.sectionOrder
-    };
-  }
-
-  console.warn(
-    `Ignoring unknown section format: "${section.name}"`
-  );
-
-  return null;
-}
 
 // ============================================================
 // Main build
@@ -225,16 +192,21 @@ function buildPlaces() {
   const sectionInfo = new Map();
 
   for (const section of sections) {
-     const parsed = parseSection(section);
+    const mapping = SECTION_MAP[section.id];
 
-  if (!parsed) {
-    return;
-  }
+    if (!mapping) {
+      console.warn(
+        `Warning: unmapped Todoist section "${section.name}" (${section.id})`
+      );
 
-  sectionInfo.set(section.id, parsed);
-    
+      continue;
+    }
 
-    
+    sectionInfo.set(section.id, {
+      region: mapping.region,
+      visited: mapping.visited,
+      order: section.sectionOrder
+    });
   }
 
 
