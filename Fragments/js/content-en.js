@@ -8384,13 +8384,13 @@ Never alone`
       type: "image",
       src: "assets/covers/stay with me 1200.jpg",
       size: "small",
-      caption: "Released September e  2026"
+      caption: "Released September 15th 2026"
     },
     {
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/6YAGySB9l2z2HitjhGZuR6?si=PtFJK1r1QEqg0fNanSNU-w" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/zslOm_J1ALs?list=OLAK5uy_mo1yMA-g9YB89CBY1_pXm8TTD1qgXRJeg" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
