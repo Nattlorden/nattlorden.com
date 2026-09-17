@@ -190,10 +190,32 @@ timeline: {
     <li><a class="internal-link" data-section="songs" data-page="askan">Åskan <a href="https://open.spotify.com/track/4VdBdBcu5FWTtx2ckcNQat?si=2c8d70309397460f" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/2pEaZtNFiM4?si=1oASgtudlp6Xgyy-" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li><a class="internal-link" data-section="songs" data-page="arkadien">Äfven jag var i Arkadien! <a href="https://open.spotify.com/track/3Wvk9WSwJ89dtU1sVOVqdY?si=68bd49298e89449e" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/pnq2FUc_k9E?si=J4_33l2f_4CzkaHd" target="_blank" rel="noopener noreferrer">YouTube</a></li>
 </ol>
-        <h4>Freyja - translated and possibly adapted</h4>        <ul class="track-list">
+
+<h4>Förlorade visor – Del 2 &nbsp; &nbsp; &nbsp;  <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></h4><ol class="track-list">
+    <li><a class="internal-link" data-section="songs" data-page="del2_1">Du är mig kär </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_2">Locken </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_3">Ny kärlek </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_4">De förlofvade </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_5">Frejas tårar </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_6">Mötet </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_7">Krigarens fästmö </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_8">Sorglig tröst </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_9">Då Hilma dog </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_10">Hälsan </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_11">Tiden </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_12">Mina suckar </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_13">Återseendet </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="del2_14">Rösten från ruinen </a> <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+</ol>
+
+        <h4>Freyja - Översatt och ev. anpassat</h4>        <ul class="track-list">
     <li><a class="internal-link" data-section="songs" data-page="curious">A Most Curious Man <a href="https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=swlHKs6vQb-E_fCqCllSXQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li><a class="internal-link" data-section="songs" data-page="laughingface">Laughing Face / Broken core <a href="https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=DX-sNYG6SumsJMrEshb-0A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li>I cannot say why <a href="https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=6kuTWKDxQn-lu4p-2_l7DQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_Jatog3dewk?list=OLAK5uy_mp1WIUONL9xzsoe65LpIZS0WGYmN6zWEE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    </ul>
+
+    <h4>Galdrakällan</h4>        <ul class="track-list">
+    <li><a class="internal-link" data-section="songs" data-page="galdra1">Hellre kärlek än Ära <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     </ul>
 `
     }
@@ -305,7 +327,7 @@ log: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">Aldrig min lyra till klagan jag stämt;
 Hvarför mitt hjärta betunga?
@@ -341,7 +363,7 @@ Snart står jag bortom den stygiska älf,
 Hvad som där väntar, vet ingen.
 Detta blott vet jag, och tacksam jag är:
 Sången och Kärleken vänta mig <i>här</i>.</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -353,7 +375,7 @@ markvardig: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">Jag känner en märkvärdig man,
 Som världen sin dyrkan bör unna.
@@ -389,7 +411,7 @@ En visare likväl han känner.
 Men han och hans <i>Jag</i> äro vänner.
 En märkvärdig man – det är sant
 Men bara en smula – pedant.</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -401,7 +423,7 @@ kyssen: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">  Långt man går hos vackra könet
 Genom stöld och tjufven.
@@ -452,7 +474,7 @@ Stod hon ganska gärna still.
 Ärligheten var förbi.
 Alltid gick det så behändigt,
 Som hon <i>velat</i> röfvad bli.</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -464,7 +486,7 @@ spinnrock: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">   Surr, surr!
 Trögt går rocken,
@@ -598,7 +620,7 @@ Magert bröd.
    Fnurr, fnurr!
 Denna tjänsten
 Blir min död.</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -610,7 +632,7 @@ allatider: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">   Älskande i alla tider
 Litet smågnabb haft till sed,
@@ -666,7 +688,7 @@ Som en underpant därtill,
 Och jag freden underskrifver
 Med en kyss – så lång jag vill.
 </p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -678,7 +700,7 @@ allablirlika: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">   En kung med sin dotter sig en gång begaf
 På resor till främmande länder,
@@ -740,7 +762,7 @@ Som frälst från kölden och döden;
 Och obebodd ö blef befolkad allt mer;
 Ty alla bli lika – i nöden.
 </p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -752,7 +774,7 @@ rofvar: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">  En riddare drog
 Igenom en skog
@@ -796,7 +818,7 @@ Men riddaren log:
 »Gack aldrig i skog!
 Du funnit, hur lätt man blir röfvad.»
 </p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -808,7 +830,7 @@ trost: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">  Broder! nyss fördärfvet nära,
 Står du räddad med din – korg.
@@ -846,7 +868,7 @@ Ned en själ, som handlar så.
 Han är värd sin stora lycka,
 Han är värd att – korgen få.
 </p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -858,7 +880,7 @@ fullmanen: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">  Trefliga prostfar! jag griper i lyran,
 Eldad af drufvornas jäst,
@@ -941,7 +963,7 @@ Glöm ej din jordiska vän!
 Dock, har ej fara! om trettio dagar
 Råk's vi väl – fulla igen.
 </p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -953,7 +975,7 @@ askan: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">   Må solsken, doft och västanväder
 Fritt vara älskares begär!
@@ -1009,7 +1031,7 @@ Och hur en man är kvinnans – stöd.
 Blir Frejas dyrkan blyg också;
 Om åskan räckte hela tiden,
 Det kunde mycket hända då!</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -1021,7 +1043,7 @@ arkadien: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics">   Till Fannys rum jag smög så sakta,
 Som endast älskaren förmår.
@@ -1067,11 +1089,1009 @@ Jag böjde mig – och offret brann.
 Men den, som vaknade, var – jag.
 Det var – en dröm, som mer jag saknat,
 Än verklighetens små behag.</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
 },
+
+del2_1: {
+  menuTitle: "Du är mig kär",
+  title: "Du är mig kär",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Du är mig kär! Från ungdomsdagar
+Du varit solen i mitt liv,
+Och hän till dig min tanke jagar,
+Att finna frid från världens kiv.
+Du är mig kär. Må mina öden
+Bli ljusa eller mörka här!
+Jag dock vill viska in i döden:
+
+Du är mig kär
+
+Du är mig kär. Om vägen villas;
+Du endast för mig rätt igen;
+Ty ej det högsta får förspillas,
+Och högst av allt är kärleken.
+Jag denna skatt vill troget vakta,
+Min fröjd, mitt liv, mitt allt den är.
+Fast vill jag stå och viska sakta:
+
+Du är mig kär.
+
+Du är mig kär, du är mig kärast
+Av allt vad livet äger kärt.
+Vad renast givs, vad högst, vad skärast,
+Jag i din själ mig finna lärt.
+Du är mig kär i fröjd och smärta;
+Och skiljer ödet grymt oss här,
+Jag viskar än med krossatt hjärta:
+
+Du är mig kär!</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_2: {
+  menuTitle: "Locken",
+  title: "Locken",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Åh, vore jag locken, som skuggar din kind!
+
+Som fritt får sig kröka
+Och länder besöka,
+
+Som endast besöktes av himmelens vind!
+
+Åh, vore jag locken, som kysser din hals!
+
+Som agatsvart natten,
+Där ruvar på skatten
+
+Av glänsande liljor, och hindras ej alls.
+
+Åh, vore jag locken, som sänks mot din barm!
+
+I rosende-gårdar,
+Dem blygsamhet vårdar,
+
+Den ormen sig vaggar så lycklig och varm.
+
+Åh, vore jag locken, du smeker allt jämt!
+
+Hur mjuk den sig slingrar
+Kring snövita fingrar
+
+Och tager den form, som din vilja bestämt.
+
+Åh, vore jag locken, du löser var kväll
+
+Från bojan och kammen! -
+
+Nu säger jag: Amen! -
+
+Men ack! vad den locken, den locken är säll!</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_3: {
+  menuTitle: "",
+  title: "",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">   Vad människan är svag, min vän!
+O, ve! nu är jag kär igen,
+Och alla mina föresatser
+Ha ramlat ned som kortpalatser.
+
+   Men Fannys löje är så täckt,
+Och hennes blick med solen släkt,
+Och formerna så klassiskt runda. –
+Hur kan jag vara annorlunda?
+
+   En tid af kval mig förestår.
+Det blir väl som i forna år,
+Då jag, bekajad af elände,
+I månen såg min bästa frände.
+
+   Nu skall på nytt jag suckar dra,
+Samt gråta, knäppa händerna,
+Och njuta dålig sömn om natten,
+Och släcka törsten blott med vatten.
+
+   På nytt jag blifver nu ett barn;
+Får hjälpa henne nysta garn,
+Samt sitta där och rita mönster
+Med blyertspenna mot ett fönster.
+
+   Ack! jag är slagen till en slant,
+Får följa stjärnan som drabant,
+Får foga mig i hennes nycker,
+Och göra endast hvad hon tycker.
+
+   Ej längre vin jag dricka får,
+Ej smyga dit där nöjet rår,
+Ty eljest tanter, det berätta,
+Och korgen får jag då med rätta.
+
+   Den stygga kärleken! ack, nej!
+Han är ej stygg, han är det ej.
+Men skall jag vara riktigt ärlig,
+Nog förefaller han besvärlig.
+
+   O, vore endast mindre röd
+Huldinnans kind, då fanns ej nöd,
+Och vore mindre ljuvt dess öga,
+Då brydde kärleken mig föga.
+
+   Men bäst likväl, som nu det är.
+Ty kärlek är ett ljuvt besvär,
+Och om, som ogift, jag är slaven,
+Jag herre blir, som gift, till graven.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_4: {
+  menuTitle: "De förlofvade",
+  title: "De förlofvade",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">   Gud nåde mig för de förälskade tvenne,
+Som plaska där borta i kärlekens haf!
+Nu kysser hon honom, nu kysser han henne.
+Och ro eller rast de ej veta utaf.
+
+   Hur sprakande hjärtömt hvar ann’ de bekika,
+Fast icke det finnes det minsta att se.
+Nu drabba de samman, – ack! bärsärkar lika! –
+Och himmelskt med tandlösa munnar de le.
+
+   Se så! i hans knä skall hon sitta, den sköna,
+Och bena hans tunnsådda, spräckliga hår.
+Hvad tryckningar, starka, frisörskan belöna!
+Då suckar hon svåra och fäller en tår.
+
+   Ty gråta hör också till kärlekens lycka,
+En rättskaffens kärlek är våt som april.
+Hvad tjusningens pärlor ett öga dock smycka!
+De säga så mycket, ja, mer än man vill.
+
+   Den fästade ungmön sig ändtligen sliter
+Från »suckarnes bro», från den tillbeddes knä.
+Med flätade fingrar hvar andras meriter
+De börja nu blindvis att hugga i – trä.
+
+   Jag kärlekens rosende språk nu vill lära,
+Två hjärtans harmoniska klangpoesi.
+»Min ängel! min himmel! min sol! jag vill svära!» –
+»Jag tror dig, min älskling! min afgud! låt bli!»
+
+   »Hvad dagar af helig, olympisk förtjusning
+Vi skola framlefva, min dyrkade Du!»
+»Ack ja! ifrån morgonens glindrande ljusning
+Vi allt intill kväll’n skola sitta som nu!»
+
+   »En guldlockig ängel, som ömt oss hugsvalar,
+Din tjusande afbild, vi hoppas att få.»
+»Du lilla raljör, du! Å, kors hvad du talar!
+Men ack du! En kyss! – hvad jag älskar de små!»
+
+   Ur kärlekens ordbok, den grufligen platta,
+Jag hämtat tillräckligt och slutar min sång,
+Samt låter nu paret åt sällheten skatta ...
+Är lyckan för häftig, så blir den ej lång. </p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_5: {
+  menuTitle: "Frejas tårar",
+  title: "Frejas tårar",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">   Länge i Freja herr Öder gick kär,
+Tärdes af sorgen,
+Fruktande korgen,
+Hvar gång gudinnan sig visade tvär.
+Ack, dessa kvinnor!
+Fröknar, gudinnor, –
+Aldrig rätt säker på någon man är.
+
+   Öder led svåra af kärlekens kval.
+Mager och krokig,
+Tankspridd och tokig,
+Larvade han kring den älskades sal.
+Böttiger-lyran
+Tog han i yran,
+Sjöng så gudsnådligt, fast rösten var skral.
+
+   Freja blef rörd af hans kvidan och pust,
+Gossar, som gråta,
+Äro för såta,
+Präktiga snurror för tofflorna just!
+Lågande blickar,
+Vänliga nickar
+Gaf hon åt stackarn med stigande lust.
+
+   Denne helt hastigt blef djärvare nu,
+Kysste dess händer,
+Och såsom fränder
+Under en aftonstund blefvo de du.
+Efter den första
+Gunst kom den största,
+Ty den gudomliga snart blef hans fru.
+
+   Hela smekmånaden Öder var slaf.
+Ständigt där smektes,
+Trycktes och lektes,
+Ack! men därefter han kallnade af.
+Gäspande sakta
+Utan att akta
+Ens på de brinnande kyssar hon gaf.
+
+   Freja af bävande oro blef full,
+Började gråta,
+Ack! men ej våta
+Tårarna voro, de voro af gull.
+Hej! – tänkte Öder –
+Tvedräkten föder
+Bättre än sämjan. En indräktig tull!
+
+   Och från den stunden – av ekonomi –
+Lät han den såta
+Pusta och gråta,
+Aldrig en dag blef från snubbor hon fri.
+Kråset han smorde,
+Påsar han gjorde,
+Gömde den lättfångna skatten däri.
+
+   När en miljon blifvit ihopskrapad så,
+Skälmen i natten
+Rymde med skatten,
+Res-te utrikes att rumla därpå.
+Kunde man, bröder,
+Likasom Öder,
+Blott en guldgråtande hustru sig få!</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_6: {
+  menuTitle: "Mötet",
+  title: "Mötet",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Har han väl förgätit timman?
+Länge har jag väntat ren.
+Tidig är den kalla dimman,
+Varme älskaren är sen.
+Månen lyser
+Sval, jag fryser
+På den känslolösa sten,
+
+Här är grottan, här är lunden,
+Här hans brud! Varför dröjer han?
+Förr han alltid kom på stunden,
+Före mig jag honom fann.
+Sen jag givit
+Allt, han blivit
+Kanske kall, som mången ann’!
+
+Nej, han kan ej trolös vara!
+Mycket har jag än att ge.
+Kärleksgudars blida skara,
+Fören hit min älskare!
+Ljuva möte,
+I mitt sköte
+Skall han än om tillgift be.
+
+O, vad minnen dessa ställen
+Kalla för mitt öga upp!
+Här i första månskenskvällen
+Kyssens eld mig genomlopp.
+Andra gången,
+Halvt förgången,
+Krönte jag hans djärva hopp.
+
+Mäktigt sluten i hans armar,
+Fåfängt jag mot honom stred.
+Aldrig älskarn sig förbarmar,
+Fordra offer är hans sed.
+Jag må gråta,
+Men förlåta;
+Ty jag, svaga, bröt ju med.
+
+Bleka Luna! nattens öga!
+Är väl kärleken ett brott?
+Steg du själv ej från det höga,
+Hänförd av din herde blott?
+Alla tider
+Skänktes strider,
+Däri älskarn segra fått.
+
+Tyst! det höres steg i skogen.
+Jag vill glömma sorg och harm.
+Ack, min älskling är mig trogen,
+Och hans brud är lika varm!
+Stjärnan blinkar,
+Aamor vinkar
+Dröjarn till sin flickas barm.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_7: {
+  menuTitle: "Krigarens fästmö",
+  title: "Krigarens fästmö",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">
+Här bland rosor trygg jag vilar,
+Då min egen älskling ilar
+Farorna och döden mot.
+Ack! men jag har också strider,
+Och jag såras och jag lider
+Utan tröst och utan bot.
+
+Han är djärv och övermodig;
+Evigt ser jag honom blodig
+Och mig griper dödens köld.
+Fick jag vid hans sida vara,
+Hindra skulle jag hans fara
+Med min egen barm som sköld!
+
+Allt omkring mig är så stilla,
+Jag vill intet väsen illa.
+Ty naturen viskar: frid!
+Fredligt sorlar silverbäcken,
+Fredligt västan far i häcken,
+Männen, blott de älska strid.
+
+Grymme! att en lager vinna
+Fly ni från den älskarinna,
+Som med myrtenkrona stod.
+Vilken dröm, som er bedrager
+Är ej myrten mer än lager?
+Är ej kärlek mer än blod?
+
+Vi till offer blivit dömda!
+Våra vinkar blir bortglömda,
+När som äran vinkar dem.
+Men vad är väl denna ära?
+Kan väl hjärtat mer begära,
+Än en maka och ett hem?
+
+Jag förgäter fosterlandet?
+Nej! men starkare är bandet,
+Som min kärlek kring mig snäärt.
+Kvinnans kärlek kan ej delas,
+Och mig andra känslor felas,
+Sedan jag att älska lärt.
+
+Ack, jag kände ej min styrka,
+Då jag även kunde yrka
+På ditt tåg i fjärran land!
+Jag dig ville se som hjälte.
+Stolta hjärta! snart du smälte
+Uti avskeds-kyssens brand.
+
+Krigare i fjärran landen!
+Uti tårar dränkt, vid stranden
+Sitter här din trogna mö,
+Endast levande av hoppets gnista;
+Milda hopp! du är det sista,
+Som i mänskligt bröst kan dö.
+
+Kan det vara ödets vilja
+Tvänne ömma bröst att skilja!
+Nej! ty Gud är kärleken.
+Ängslans bilder, ack försvinnen!
+Jag vill leva utav minnen,
+Tills han vänder hit igen.
+
+Hjälten, segrande i slagen,
+Då skall bli tillfångatagen
+Av en fredlig makt, – av mig.
+Bojor bliva mina armar,
+Och hur häftigt striden larmar,
+Får han aldrig gå i krig!</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_8: {
+  menuTitle: "Sorglig tröst",
+  title: "Sorglig tröst",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Hur tyst är kvällen! Sorjen viker,
+Du älskade! Kom, låt oss se
+Mot himmelns höga stjärnerike,
+Där tusen ögon mot oss le!
+Vi vill glömma denna jorden,
+Där ej vi äga få varann
+Men läsa här de gyllne orden,
+Som trösta den som hoppas kan.
+
+Du suckar, – men jag vill ej gråta,
+Nej, jag vill le som stjärnan där.
+Mitt ödes brott vill jag förlåta,
+Om också hjärtat krossat är;
+Ty ack! den fröjd, vår kärlek givit,
+Dess bittra smärta övergår,
+Och om det även höst har blivit,
+Så har vi dock en gång haft vår.
+
+»Tillhöra vi ej redan varandra?»
+Din för evigt jag är likväl.
+Om hand i hand vi ej får vandra,
+Så får vi vandra själ med själ,
+»Har vi ej njutit?» – vilken lycka
+Har varit renare än vår?
+Och oss ur minnets himmel rycka
+Ej någon mänsklig makt förmår.
+
+Så lev då igen av våra minnen!
+De sorgliga behåller – jag,
+Men du, o glada! brinner, brinner
+Och lyser upp min älsklingsdag,
+Snart är livets gåtor lööstaå vigas vi av dödens röst! –
+
+Men ack! jag arma dig vill trösta,
+Till dess jag själv – blir utan tröst.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_9: {
+  menuTitle: "Då Hilma dog",
+  title: "Då Hilma dog",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Det fattades blott ett! Mitt hjärta, brist!
+Förlusterna ha vuxit alltför stora.
+Det käraste på jorden har jag mist,
+Och jag har intet mera att förlora.
+Hon, som jag älskat från min ungdoms dar,
+Hon, som min enda fröjd i livet var,
+Hon ligger bäddad i den kalla graven!
+O, öde! grymt du över mig bröt staven.
+
+För hårt var detta slag. Att dö är lätt,
+Men leva utan kärlek är förskräckligt.
+Att längta hädan äger jag väl rätt, –
+Jag tycker, att jag lidit har tillräckligt.
+Jag har ju intet, intet mer igen,
+Fröjd; hälsa, ungdomskärlek, ungdomsvän,
+Allt, allt är gravlagt nu, och själva tåren
+I ögat torkat. Aldrig läkas såren.
+
+Ack! stundom tror jag, att det är en dröm,
+En ryslig dröm, som gäckar mina sinnen,
+Och kvalfullt ropar jag: i glömskans ström,
+I fasans svarta bilder, strax försvinnen!
+O, ja! det är en dröm. Jag nog det vet,
+Men ack! den drömmen heter verklighet.
+Den plågar länge, under sorgsna skiften,
+Och först man vaknar upp ur den i griften.
+
+O, himmel! om den drömmen vore slut
+Och under torvans tak jag vore vaknad!
+Mitt skönsta hopp är nu min dödsminut,
+Ty vad har livet annat väl än saknad?
+Ack, troget här på jorden, vart hon gick,
+Hon följdes av min tanke, av min blick, –
+Ej under, att jag även nu vill följa
+Den väg, hon tagit över tidens bölja!
+
+Jag sade, att jag intet ägde kvar;
+Jo, Gud ske pris! Jag äger dock mina minnen,
+Och Hilmas bild, liksom i forna dar,
+Ler än mot mig och höjer mina sinnen
+Emot den saliga och helga ort;
+Från himmeln hon en liten utflykt gjort,
+Att gläda oss, att trösta och försona,
+Samt sedan återtaga livets krona.
+
+Än ser jag hennes blick, så ren och klar,
+Med outsäglig ömhet på mig fästad.
+En ängel log ur detta ögonpar,
+En fridens ängel i två solar gästad.
+O, vad den blicken sade mer än ord!
+Där fanns så litet utav denna jord,
+En himmelsk eld lät sig beständigt röja,
+Och klarast brann den under tårens slöja.
+
+Lys därför, enda stjärna i min natt!
+Du bild, så kär ifrån min ungdoms dagar
+Väl kan mitt sinne aldrig mer bli glatt.
+Och ej min bittra saknad sig försvagar.
+Men ack! jag har en ädel tröst likväl:
+Jag varit älskad av en ädel själ,
+Och snart, jag hoppas, skall väl bojan brista; –
+
+Farväl, min första kärlek och min sista</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_10: {
+  menuTitle: "Hälsan",
+  title: "Hälsan",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Förr önskade jag mig ära och pengar,
+såsom den högsta och sällaste lott.
+Kände ej då Eskulapius drängar,
+eller mixturer som smakade gott.
+Stormade glatt på min hälsa och tänkte
+att det kapitalet ej kunde ta slut.
+Alla små sorger i vinet jag dränkte,
+om jag ej glömt dem hos flickan förut.
+
+Vad jag var yr i det stormande laget!
+Glada kamrater, de gjorde min fröjd.
+Då kom en feber av argaste slaget,
+och som en päls föll jag ned från min höjd.
+Snöpligt nog sjönk det ungdomliga modet,
+vämjelse fick jag för flickor och vin.
+Torr var min hals och det brann uti blodet,
+där låg jag slagen, en sorglig ruin.
+
+Högre än hälsa finns ej att begära,
+dyrt utav nöden man köper sig vett.
+Högre än hälsa finns ej att begära,
+först när hon sviktar förstår man det rätt.
+
+Kinderna föll och blev insjunkna samman,
+döden skrev runor så små i mitt drag.
+Vips, för att gjuta mer olja på flamman,
+klev där en doktor helt värdigt en dag.
+Kände på pulsen och började skaka
+höglärda huvudet, utan behag.
+Tog sig om näsan och blanka sin haka,
+skrev mig en matsedel rik som ett lag.
+
+Flaskor där kom och där kom buteljer,
+burkar med piller och doftande mos.
+Hur jag än kämpar och grimaserar och sväljer,
+rymmer den dyrköpta födan sin kos.
+Doktorn har läst mina öden i boken
+och mycket visligen säger han sist:
+utan förskoning är domen besluten,
+magen är upprorisk, envis och trist.
+
+Högre än hälsa finns ej att begära,
+dyrt utav nöden man köper sig vett.
+Högre än hälsa finns ej att begära,
+först när hon sviktar förstår man det rätt.
+
+Trots både doktorn och kosten jag repa'
+mig, fastän det först gick förtvivlat smått.
+Hastigt på filosofi började jag ge mig,
+ty under sjukdomen syner jag fått.
+Hälsan, den himmelska, lärde jag skatta,
+bland allt det goda fick hon nummer ett.
+Ju mer hon sviktade, högre jag satte
+värdet på henne — man köper dyrt vett.
+
+Hu, när man ligger där bleknad och mager,
+vad är då ära och vällust och guld?
+När man i matskedar döden intager,
+ramlar vart luftslott förgängligt omkull.
+Ack, för en vila på några sekunder
+gåve man gärna det dyraste man har.
+Hela min lycka må gärna gå under:
+rik är jag ändå, om hälsan är kvar.
+
+Frisk uti livet och frisk uti sången,
+himmelske Fader, o låt mig få bli.
+Äre- och penningbegäret är gånget,
+hälsan är höjden av all poesi.
+Djupt i mitt hjärta vill jag henne ära,
+resa ett altare, offra en bön.
+Högre än hälsa finns ej att begära,
+hon är den skönaste himmelens lön.
+
+Högre än hälsa finns ej att begära,
+dyrt utav nöden man köper sig vett.
+Högre än hälsa finns ej att begära,
+hon är den skönaste himmelens lön.
+
+Högre än hälsa finns ej att begära,
+hon är den skönaste himmelens lön.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_11: {
+  menuTitle: "Tiden",
+  title: "Tiden",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Det är en konstig tid vi leva i,
+Det hoppas jag, att jag har rätt uti!
+Det är en konstig tid! varåt den lutar.
+Den vise utav många tecken slutar,
+Men som jag just ej råkat att bli vis,
+Så kan jag icke säga det precis.
+
+Dock vill jag tro, att folken börja vakna
+Och inse, hur totalt de frihet sakna.
+De stackars folkens sömn var lång och svår:
+De hava sovit i fem tusen år. –
+Nu är det tid, att sömnen bort de gnugga
+Och krypa fram i ljuset ur sin skugga.
+Att yrka på den frihet Gud dem gav,
+Men som de ej förstått dra nytta av.
+
+Fast frihet låter konstigt för vårt öra,
+Är det dock en bekantskap till att göra.
+Så mycken väl-lust giver ingen mö,
+För vilken dock man leva, svära och dö;
+Så ljuvligt smakar icke gudars nektar
+Som frihet, när av frihetstörst man smäktar.
+Den törsten just begynna folken få,
+Och utav den skall ingen illa må.
+
+Så drick, du goda folk! så drick av ljuset!
+Och vältra se’n det ruttna ned i gruset!
+
+Det stått för länge redan, tycker jag,
+Och tarvar vila intill domens dag.
+Den gamla, hedervärda slentrianen
+Nu på sin dödssång tänka bör som svanen.
+
+Men som vår tid är gynnsam för de »små»,
+Kan den de »stores» bifall aldrig få.
+Ty tiden vill det sanna och det rätta,
+Men, ack! de vilja icke alltid detta.
+
+»Vad tyckes väl om tiden, herr despot?«
+»C’est une horreur!« du svarar under gråt.
+
+Ja, utsikten beständigt sig förvärrar!
+Det är en elak tid för jordens herrar!
+En Gud den endast hava vill, – vad brott! –
+De andra ger den sin förtjänta lott.
+Det är en elak tid, med pretentioner
+Och föga hälsosam för vissa troner. –
+
+Ej mer som fordom under vantrons dag,
+Kan kungen säga: »Staten, det är – jag!«
+Ej mer han huvuden kapa kan som säd,
+Ty folket har ett ord i laget med.
+Vad det gick präktigt dock med svärd och bila
+Att fordom bringa sinnena till vila!
+
+Ej mer kan han, för att fördriva tiden,
+Befalla sina offerdjur i striden;
+Ty om än folket älskar manligt mod,
+Endast för sin frihet vill gjuta blod.
+
+En kung sig fredligt roa får som andra,
+Det skall, om han, dock ingen annan klandra;
+Och riket föga sämre därför mår,
+Om lagern just ej grönskar i hans hår,
+De där slags bladen uti allsköns ära!
+Men det med eklöv tör väl ock sig bära.
+
+Det är en vansklig tid för de magnater,
+De ädla högdjur och aristokrater;
+Ty deras blod i värde fallit har,
+Och lika gammalt har nu en och var.
+Man börjar tänka: »Adams son jag bleve,
+Om också lyckan gjorde mig till – greve!«
+
+Det åter är den satans tiden, som
+Förskingrar fördomar, så småningom,
+Men tidens farkost icke segel revar:
+Trots en million av högvälborna grevar,
+Framåt den går. Åt sidan vackert vik!
+Den eljest seglar över edra lik.
+
+Det vore skada på det gamla blodet,
+Om så det plikta fick för övermodet,
+Men plikten, enligt lag, skall följa brott,
+Och bondens svett har fyllt sitt dryga mått.
+
+För den skull låten en gång nöja eder
+Att kallas människor, det är ock en heder!
+
+Och för de »höge förmän», allra sist,
+Är tiden brydsam; det är sant och visst!
+mer än män, man trodde förmän vara,
+Men denna villa börjar även fara.
+Ej kraftord gälla mer som giltigt mynt,
+Att något sänka tonen de begynt.
+
+Men om de stundom leka kurragömma,
+Så tar man dem i stället på det ömma;
+Då skrika de av smärta allihop,
+Men tiden hör ej dessa nöderop;
+Ty om än lydnaden är ordningskällan,
+Bör någon likhet råda dem emellan. –
+
+Man alltid deras värde skatta bör,
+När blott de hava något innanför,
+Men om det bara sitter uppå fracken,
+Varför skulle då man ödmjukt böja nacken?
+
+Ty icke är man just en slav för det
+Att man får tjäna Kunglig Majestät. –
+
+Och härmed slutar jag min sång om tiden,
+
+I hopp att långa natten är förliden.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_12: {
+  menuTitle: "Mina suckar",
+  title: "Mina suckar",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Re’n solen sjunkit ner,
+Det mörknar mer och mer,
+Allt dagens buller dör,
+Och blott min suck jag hör.
+
+Se, månen träder fram;
+Så hög och allvarsam,
+Och bleka stjärnor gå;
+O, jag väl sucka må!
+
+Jag minnes väl en tid,
+Då allt var lust och frid,
+Men för den fröjd, som var,
+Jag blott en suck har kvar.
+
+Jag närde ungdomshopp;
+I rök de gingo opp.
+Nu hoppas jag ej mer,
+En suck jag endast ger.
+
+Jag älskat dikt och sång
+Och prövat harpans gång,
+Men sångens tröst mig flytt
+Och i en suck sig bytt.
+
+Jag fann en blåögd mö,
+Hon svor för mig att dö;
+Dock svek hon mig en dag;
+Jag må väl sucka, jag!
+
+En vän utav min själ
+Jag hade ävenväl;
+Men döden tog min vän,
+Och djupt jag suckar än.
+
+En suck är allt mitt liv,
+O, Gud, mig styrka giv!
+Men, - blir än vägen lång,
+Höjs dödens suck en gång.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_13: {
+  menuTitle: "Återseendet",
+  title: "Återseendet",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">I den glada sommarkvällen
+Ser jag då de kära ställen,
+Där som barn jag fordom lopp.
+Solen är i nedergången,
+Men hur mången sol, hur mången
+Går ej i mitt minne opp!
+
+Mer och mer jag känner trakten,
+Mer och mer mig griper makten
+Av ett saligt glädjerus.
+Jag vill hasta – jag vill dröja –
+Skall mitt öga snart ej röja
+Röken från min moders hus?
+
+Liksom förr hörs lunden susa,
+Liksom förr hörs bäcken brusa,
+Men mitt hjärta högre slår.
+Sig naturen lik förbliver,
+Människan blott, vart ögonblick, giver
+Nya fröjder, nya sår.
+
+Under denna gamla eken
+Satt jag ofta, trött av leken,
+Med Maria, barnsligt öm.
+Många år jag borta varit,
+Många har jag sedan farit,
+Men hon var min skönsta dröm.
+
+Ej kan hon densamma vara;
+Men jag skådar henne bara
+Som en liten ängel än;
+Sådan som med purpurfriska
+Läppar hon mig hördes viska:
+”Du är dock min bästa vän.”
+
+Ej vårt avsked kan jag glömma,
+Ser ännu dess tårar strömma
+På den späda barmen ner.
+”Gråten ej!” min moder sade,
+Och på oss hon handen lade:
+”Gud skall väl förena er.”
+
+Denna spådom, detta hoppet
+Var min himmel under loppet
+Av den långa vandringen.
+Månne än för mig du ömmar?
+Lever jag i dina drömmar?
+Är jag än din bästa vän?
+
+Är jag än din bästa vän?
+
+Jag är hunnen uppför höjden,
+Breder armarna i fröjden
+Hemmets lugna dal emot.
+Under berget står vår boning,
+Lugn och ljuv som en försoning,
+Knäböjd invid korsets fot.
+
+Obemärkt vill fram jag smyga
+Och mitt hjärta övertyga
+Att det har ett dubbelt hem.
+En sylfid på ängen svävar –
+Liksom häckens löv jag bävar –
+Vem är det? O vem, o vem?
+
+Hög och ädel, blek om kinden,
+Gången lätt som aftonvinden,
+Vilken leker i dess hår!
+Barmen höjs av suckar sakta,
+Och dess ögon milt betrakta
+Västerns purpur med en tår.
+
+”Än en sol vår dal förlåter –
+O, men vänd med honom åter!”
+Och, o Gud! jag hör mitt namn
+Som en harpoton förklinga.
+”O, min hälsning honom bringa!”
+Och hon breder ut sin famn.
+
+Det är hon, som viskar namnet!
+Det är hon, som breder famnen!
+Det är jag, som flyger dit.
+Det är här min vandring slutar,
+Och det är min brud, som lutar
+Ned sin kind – ej längre vit.
+
+Är jag än din bästa vän?
+Är jag än din bästa vän?</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+del2_14: {
+  menuTitle: "Rösten från ruinen",
+  title: "Rösten från ruinen",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">
+Lugn är natten. Månans strålar skina
+Med en magisk glans på Sankt Katrina
+Skönt förgyllande dess pelarskog.
+Genom brustna valv och bräckta bågar
+Tusen stjärnor blicka. Hur det lågar!
+Aldrig mera fridfullt himmeln log.
+
+Aldrig, gråa helgedom! du varit
+Skönare än nu i praktens dar.
+Aldrig känslan varmare har farit
+Upp från detta rum till ljusets far.
+
+Men vad hör jag från ruinen klinga?
+Vilka änglatoner, som sig svinga,
+Silvervingade, mot etern opp!
+Ömsom jubla de om ömsom klaga,
+Och de i hjärtat i en virvel draga
+Utav ljuva minnen, svikna hopp.
+
+Strömmen, toner! Ljuvt sig sammanblande
+Jordisk sorg och överjordisk frid!
+Säkert är det templets goda ande,
+Som nu sjunger här i midnattstid.
+
+Nu det tystnar! Vadan kom den sången?
+Hå! vem svävar där i pelargången,
+Som en vårvind lätt bland gravars grus?
+Ser jag rätt? Jag känner anletsdragen,
+Detta leende, så skönt som dagen,
+Detta öga, milt som stjärnans ljus.
+
+Andetonerna jag glömmer gärna
+För den sång, som kom ur människobröst!
+Men fast Lina är en jordisk tärna,
+Äger hon likväl en himmelsk röst.</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+
 curious: {
   menuTitle: "A Most Curious Man",
   title: "A Most Curious Man",
@@ -1079,7 +2099,7 @@ curious: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics"><i>Min översättning av <b>Den märkvärdiga mannen</b></i><br>
 I know a most curious man,
@@ -1116,7 +2136,7 @@ Whom exactly he never supplies —
 But he and his “Self” are quite close.
  A curious man — that is clear!
  Yet just a small pedant, I fear.</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
@@ -1128,7 +2148,7 @@ laughingface: {
   blocks: [
     {
       type: "text",
-      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
 
 <p class="lyrics"><i>Baserad på <b>Mitt konterfej</b></i><br>
 Oh what a spectacle—look at me now
@@ -1185,11 +2205,96 @@ If they could read the ink I write—
 A thorn for pen, and tears for light
 They’d thank the silence they were given
 To live untouched by what I’m living</p>
-<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+
+galdra1: {
+  menuTitle: "Hellre kärlek än Ära",
+  title: "Hellre kärlek än Ära",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Back</a>
+
+<p class="lyrics">Här på gården trygg jag vilar,
+medan han mot fjärran ilar,
+faror och sin bane mot.
+Ack, men jag har också strider,
+också såras jag och lider,
+utan läkedom och bot.
+
+Han är djärv och övermodig;
+ständigt ser jag honom blodig,
+och mig griper dödens köld.
+Fick jag blott vid sidan vara,
+skulle jag mot järnet svara
+med min egen barm som sköld.
+
+Allt omkring mig står så stilla,
+ingen önskar någon illa,
+mark och vatten andas frid.
+Sakta sorlar bäck ur lunden,
+västan stryker över grunden –
+männen endast söker strid.
+
+Grymme! För ett namn att vinna
+flyr du gård och älskarinna,
+far mot hav och främmande strand.
+Vilken dröm har så bedragit?
+Är det ryktet som har tagit
+dig ur min fina öppna hand?
+
+Vi till offer blivit dömda,
+våra tecken snart förglömda,
+när som äran kallar dem.
+Men vad är väl denna ära?
+Kan ett hjärta mer begära
+än sin maka och sitt hem?
+
+Glömmer jag då ätt och fränder?
+Nej – jag älskar våra stränder,
+gårdens jord och hemmets härd.
+Men ett band blev starkt mig givet,
+starkare än själva livet,
+sedan du blev hjärtat värd.
+
+Ack, jag kände ej min styrka,
+då jag själv ännu kunde yrka
+på din färd mot fjärran land.
+Jag dig ville se med ära.
+Stolta hjärta, lär dig bära
+elden från vår avskedshand.
+
+Krigare på fjärran vatten!
+Genom dagen, genom natten
+väntar här din trogna mö.
+Över havet går mitt öga,
+hoppets låga brinner föga –
+men den lågan skall ej dö.
+
+Kan väl nornors trådar vilja
+tvänne bundna hjärtan skilja,
+sedan samma knut dem band?
+Mörka syner, krigarskriken!
+Jag skall vaka här vid viken
+tills hans skepp når hemmets strand.
+
+Krigarn, segerrik ur slagen,
+skall till sist bli tillfångatagen
+av en fredlig makt – av mig.
+Bojor bliva mina armar;
+hur än sköld och stridsrop larmar,
+släpper jag ej åter dig!</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Back</a>`
     }
   ],
       showPlaceholder: false
 }
+
 
   }
 };
