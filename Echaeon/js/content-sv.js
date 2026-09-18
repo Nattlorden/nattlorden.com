@@ -889,7 +889,7 @@ Something endless moving by
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.jpg",
+      src: "assets/covers/Fallen angel 1200.jpg",
       size: "small",
       caption: "Publicerad 22e maj 2026"
     },
@@ -959,9 +959,9 @@ Into you…
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.jpg",
+      src: "assets/covers/Stay as you are 1200.jpg",
       size: "small",
-      caption: "Publicerad  2026"
+      caption: "Publicerad 16e juni 2026"
     },
     {
       type: "text",
@@ -1041,9 +1041,9 @@ Here with me
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.jpg",
+      src: "assets/covers/Uncover the art 1200.jpg",
       size: "small",
-      caption: "Publicerad  2026"
+      caption: "Publicerad 20e juni 2026"
     },
     {
       type: "text",
@@ -1136,9 +1136,9 @@ Uncover the art
       blocks: [
      {
       type: "image",
-      src: "assets/covers/todo.jpg",
+      src: "assets/covers/Wheel within the light 1200.jpg",
       size: "small",
-      caption: "Publicerad  2026"
+      caption: "Publicerad 11e juli 2026"
     },
     {
       type: "text",
