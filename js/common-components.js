@@ -281,3 +281,49 @@ function renderCardGrid(cards, columns = 4) {
 
   return html;
 }
+
+/* ---------- Date helpers ---------- */
+
+const monthNames = {
+  sv: [
+    "januari", "februari", "mars", "april",
+    "maj", "juni", "juli", "augusti",
+    "september", "oktober", "november", "december"
+  ],
+
+  en: [
+    "January", "February", "March", "April",
+    "May", "June", "July", "August",
+    "September", "October", "November", "December"
+  ]
+};
+
+
+function parseDateTime(value) {
+  if (!value) {
+    return null;
+  }
+
+  const [datePart, timePart = ""] = value.split("T");
+  const [year, month, day] = datePart
+    .split("-")
+    .map(Number);
+
+  return {
+    year,
+    month,
+    day,
+    time: timePart
+      ? timePart.slice(0, 5)
+      : ""
+  };
+}
+
+
+function getMonthName(month, lang = "sv") {
+  const names =
+    monthNames[lang] ||
+    monthNames.sv;
+
+  return names[month - 1] || "";
+}

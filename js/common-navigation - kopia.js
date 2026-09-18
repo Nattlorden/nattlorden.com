@@ -40,7 +40,7 @@ function isPageVisible(page) {
     return false;
   }
 
-  // Äldre modell:
+  // �ldre modell:
   // hidden: "hexAccess"
   if (typeof page.hidden === "string") {
     return hasAccess(page.hidden);
@@ -81,15 +81,6 @@ function renderTopMenu() {
   const sections = getSections()
     .filter(isSectionVisible);
 
-  /*  This part to hide top menu if that option is taken */  
-   if (window.pageNavigation?.topMenu === false) {
-    topMenu.hidden = true;
-    return;
-   }
-   /* end here... possibly line below too */
-    topMenu.hidden = false;
-
-
   sections.forEach(sectionKey => {
     const item = document.createElement("div");
     item.className = "top-menu-item";
@@ -100,7 +91,7 @@ function renderTopMenu() {
       item.classList.add("active");
     }
 
-       item.onclick = function () {
+    item.onclick = function () {
       const pages = getVisiblePages(sectionKey);
 
       if (pages.length === 1) {

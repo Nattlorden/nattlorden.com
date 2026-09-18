@@ -1,7 +1,174 @@
 let lang = "sv";
-let currentSection = "places";
-let currentPage = "all";
+let currentSection = "events";
+let currentPage = "events";
 
+window.pageNavigation = {
+  topMenu: false,
+  sideMenu: false
+};
+
+let eventsData = null;
+
+async function loadEventsData() {
+  try {
+    const response = await fetch("data/events.json");
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    eventsData = await response.json();
+  }
+  catch (error) {
+    console.error("Kunde inte läsa events.json:", error);
+    eventsData = null;
+  }
+}
+
+function renderEventsBlock() {
+  if (!eventsData?.events) {
+    return `
+      <div class="events-error">
+        Kunde inte läsa event-data.
+      </div>
+    `;
+  }
+
+  const visibleEvents = eventsData.events.filter(event =>
+    !event.private || hasAccess("privateAccess")
+  );
+
+  if (!visibleEvents.length) {
+    return `
+      <div class="events-empty">
+        ${lang === "sv"
+          ? "Inga kommande händelser."
+          : "No upcoming events."}
+      </div>
+    `;
+  }
+
+  // Säkerhets skull sorterar även renderaren.
+  const events = [...visibleEvents].sort((a, b) =>
+    a.date.localeCompare(b.date)
+  );
+
+  let html = `<div class="events-list">`;
+
+  let currentMonthKey = null;
+let monthOpen = false;
+
+for (const event of events) {
+  const date = parseDateTime(event.date);
+
+  if (!date) {
+    continue;
+  }
+
+  const monthKey = `${date.year}-${date.month}`;
+
+  if (monthKey !== currentMonthKey) {
+    if (monthOpen) {
+      html += `</section>`;
+    }
+
+    currentMonthKey = monthKey;
+    monthOpen = true;
+
+    html += `
+      <section class="events-month">
+        <h3 class="events-month-title">
+          ${getMonthName(date.month, lang)} ${date.year}
+        </h3>
+    `;
+  }
+
+ 
+if (monthOpen) {
+  html += `</section>`;
+}
+
+    const recurringTitle =
+      lang === "sv"
+        ? "Återkommande"
+        : "Recurring";
+
+    const ticketText =
+      lang === "sv"
+        ? "Biljetter ej köpta"
+        : "Tickets not purchased";
+
+    const recurringHtml = event.recurring
+      ? `
+        <span
+          class="event-recurring"
+          title="${recurringTitle}"
+        >↻</span>
+      `
+      : "";
+
+    const notesHtml = event.notes
+      ? `
+        <div class="event-notes">
+          ${event.notes}
+        </div>
+      `
+      : "";
+
+    const ticketsHtml = event.needsTickets
+      ? `
+        <div class="event-tickets">
+          ${ticketText}
+        </div>
+      `
+      : "";
+
+    html += `
+      <div class="event-item">
+        <div class="event-date">
+          ${date.day}
+        </div>
+
+        <div class="event-time">
+          ${date.time || ""}
+        </div>
+
+        <div class="event-content">
+          <div class="event-name">
+            ${event.name}
+            ${recurringHtml}
+          </div>
+
+          ${notesHtml}
+          ${ticketsHtml}
+        </div>
+      </div>
+    `;
+
+    const nextEvent = events[
+      events.indexOf(event) + 1
+    ];
+
+    if (
+      !nextEvent ||
+      (() => {
+        const nextDate = parseDateTime(nextEvent.date);
+
+        return (
+          !nextDate ||
+          nextDate.year !== date.year ||
+          nextDate.month !== date.month
+        );
+      })()
+    ) {
+      html += `</section>`;
+    }
+  }
+
+  html += `</div>`;
+
+  return html;
+}
 
 function getContent() {
   return lang === "sv" ? contentSV : contentEN;
@@ -120,6 +287,12 @@ function renderSideMenu() {
     return;
   }
 
+  if (window.pageNavigation?.sideMenu === false) {
+    sideMenu.hidden = true;
+    return;
+  }
+
+  sideMenu.hidden = false;
   sideMenu.innerHTML = "";
 
   const pages = getVisiblePages(currentSection);
@@ -211,6 +384,10 @@ function renderContent() {
         `;
       }
 
+      if (block.type === "events") {
+        html += renderEventsBlock();
+      }
+
       if (block.type === "divider") {
         html += `<hr>`;
       }
@@ -292,4 +469,9 @@ document.addEventListener("click", function (e) {
 });
 
 
-initCommonNavigation();
+async function init() {
+  await loadEventsData();
+  initCommonNavigation();
+}
+
+init();

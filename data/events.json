@@ -1,0 +1,68 @@
+{
+  "projectId": "6CrgFGXGm2QmxpVM",
+  "events": [
+    {
+      "id": "65vv7f5fCcH3G4MM",
+      "name": "Gratulera Pappa",
+      "date": "2026-09-23",
+      "recurring": true,
+      "private": true,
+      "needsTickets": false,
+      "notes": ""
+    },
+    {
+      "id": "6hX5JXcVhF85MphM",
+      "name": "Gratulera Mamma",
+      "date": "2026-10-07",
+      "recurring": true,
+      "private": true,
+      "needsTickets": false,
+      "notes": ""
+    },
+    {
+      "id": "6hX5Jrx2rp3Pw8Vv",
+      "name": "Amaranthe",
+      "date": "2026-10-16T19:00:00",
+      "recurring": false,
+      "private": false,
+      "needsTickets": false,
+      "notes": "Mejeriet"
+    },
+    {
+      "id": "6hX5P4wrcCP8r6Fv",
+      "name": "Halloween",
+      "date": "2026-10-31",
+      "recurring": true,
+      "private": false,
+      "needsTickets": false,
+      "notes": ""
+    },
+    {
+      "id": "6hX5MR3FXg24qV3v",
+      "name": "Haunted Market",
+      "date": "2026-11-26",
+      "recurring": false,
+      "private": false,
+      "needsTickets": true,
+      "notes": "Citadellet"
+    },
+    {
+      "id": "6hX5M466g5qvXRfM",
+      "name": "Eleine",
+      "date": "2026-12-05T19:00:00",
+      "recurring": false,
+      "private": false,
+      "needsTickets": false,
+      "notes": "Mejeriet"
+    },
+    {
+      "id": "6hX5M7jXVxV8QF5M",
+      "name": "Bröllopsdag Mamma & Pappa",
+      "date": "2026-12-10",
+      "recurring": true,
+      "private": true,
+      "needsTickets": false,
+      "notes": ""
+    }
+  ]
+}
