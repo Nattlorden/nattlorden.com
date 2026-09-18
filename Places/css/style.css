@@ -578,6 +578,30 @@ body[data-theme="threshold"] .top-menu-item.active {
   min-width: 0;
 }
 
+.place-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45em;
+  margin-left: 1em;
+}
+
+.places-region {
+  margin-top: 2.5rem;
+}
+
+.places-region:first-child {
+  margin-top: 0;
+}
+
+.places-region + .places-region {
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.places-region > h3 {
+  margin: 0 0 1.5rem;
+  font-size: 1.35rem;
+}
 
 /* =========================
    Tema-specifika finjusteringar

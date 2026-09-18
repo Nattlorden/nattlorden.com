@@ -2,7 +2,7 @@ const contentSV = {
   all: {
     places: {
       menuTitle: "Platser",
-      title: "Platser",
+      title: "",
       blocks: [
         {
           type: "places"
