@@ -11,7 +11,7 @@ let eventsData = null;
 
 async function loadEventsData() {
   try {
-    const response = await fetch("data/events.json");
+    const response = await fetch("../data/events.json");
 
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
