@@ -6506,7 +6506,7 @@ Charleston Queen...`
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/2gvkasrHRsNmQ9cYfZ4Fca?si=RPI7457TQG6r1AomhrXd0g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/3FNGt5YIdUI" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -6583,6 +6583,120 @@ I'll spend my evenings looking at you
 
 Yes, the room runs out of words
 Whenever it sees you`
+    }
+  ],
+  showPlaceholder: false
+    },
+    takeTheMidnightTrain: {
+      menuTitle: "Take the midnight train",
+      title: "Take the midnight train",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Take the midnight train 1200.jpg",
+      size: "small",
+      caption: "Publicerad e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `The room still wears the shape of us
+Two glasses waiting by the wall
+A clock keeps making promises
+That neither one of us can call
+
+You fold your coat across your arm
+I trace a circle on the table
+We used to make the future sound
+Like something certain, something stable
+
+Now every little word arrives
+Already knowing where it's going
+No slammed door, no grand goodbye
+Just two old hearts that stopped pretending
+
+Maybe love can lose its way
+Without a villain, without blame
+Maybe leaving is the kindest thing
+When staying only keeps the name
+
+ So take the midnight train
+ I'll watch the windows disappear
+ We don't have to make it cruel
+ Just because the end is here
+
+ Keep the photographs you like
+ I'll keep the lessons that came true
+ Some goodbyes don't need a fight
+ They only need two people through
+
+The neighbors never heard a thing
+No broken plates, no accusations
+Just quiet footsteps down the stairs
+And carefully packed explanations
+
+I thought forever made us brave
+But time can change the finest weather
+And sometimes knowing when to leave
+Is how you honor what was better
+
+Maybe love can lose its way
+Without a villain, without blame
+Maybe leaving is the kindest thing
+When staying only keeps the name
+
+ So take the midnight train
+ I'll watch the windows disappear
+ We don't have to make it cruel
+ Just because the end is here
+
+ Keep the photographs you like
+ I'll keep the lessons that came true
+ Some goodbyes don't need a fight
+ They only need two people through
+
+There was a time I knew your steps
+Before your key turned in the door
+There was a time your hand in mine
+Could make me ask for nothing more
+
+But love is more than memory
+And memory can't make us stay
+So here's to every beautiful thing
+That brought us to this final day
+
+ Take the midnight train
+ I'll watch the windows disappear
+ We don't have to make it cruel
+ Just because the end is here
+
+ Keep the photographs you like
+ I'll keep the lessons that came true
+ Some goodbyes don't need a fight
+ They only need two people through
+
+ Take the midnight train
+ And don't look back because of me
+ What we were was real enough
+ To let each other leave it free
+
+ Keep the laughter, keep the nights
+ Keep every promise we once knew
+ Some goodbyes can still be kind
+ When both hearts know that they are through
+
+The room still wears the shape of us
+But morning changes every view
+One chair empty, one door closed
+And one last song for me and you`
     }
   ],
   showPlaceholder: false
