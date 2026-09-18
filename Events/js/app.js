@@ -48,7 +48,6 @@ function renderEventsBlock() {
     `;
   }
 
-  // Säkerhets skull sorterar även renderaren.
   const events = [...visibleEvents].sort((a, b) =>
     a.date.localeCompare(b.date)
   );
@@ -56,113 +55,101 @@ function renderEventsBlock() {
   let html = `<div class="events-list">`;
 
   let currentMonthKey = null;
-let monthOpen = false;
+  let monthOpen = false;
 
-for (const event of events) {
-  const date = parseDateTime(event.date);
+  for (const event of events) {
+    const date = parseDateTime(event.date);
 
-  if (!date) {
-    continue;
-  }
-
-  const monthKey = `${date.year}-${date.month}`;
-
-  if (monthKey !== currentMonthKey) {
-    if (monthOpen) {
-      html += `</section>`;
+    if (!date) {
+      continue;
     }
 
-    currentMonthKey = monthKey;
-    monthOpen = true;
+    const monthKey = `${date.year}-${date.month}`;
 
-    html += `
-      <section class="events-month">
-        <h3 class="events-month-title">
-          ${getMonthName(date.month, lang)} ${date.year}
-        </h3>
-    `;
-  }
+    // Ny månad
+    if (monthKey !== currentMonthKey) {
+      if (monthOpen) {
+        html += `</section>`;
+      }
 
- 
-if (monthOpen) {
-  html += `</section>`;
-}
+      currentMonthKey = monthKey;
+      monthOpen = true;
 
-    const recurringTitle =
-      lang === "sv"
-        ? "Återkommande"
-        : "Recurring";
+      html += `
+        <section class="events-month">
+          <h3 class="events-month-title">
+            ${getMonthName(date.month, lang)} ${date.year}
+          </h3>
+      `;
+    }
 
-    const ticketText =
-      lang === "sv"
-        ? "Biljetter ej köpta"
-        : "Tickets not purchased";
+    // Plats/anteckning + klockslag på samma detaljrad
+    const details = [];
+
+    if (event.notes) {
+      details.push(event.notes);
+    }
+
+    if (date.time) {
+      details.push(date.time);
+    }
+
+    const detailsHtml = details.length
+      ? `
+        <div class="event-details">
+          ${details.join(
+            '<span class="event-detail-separator">·</span>'
+          )}
+        </div>
+      `
+      : "";
 
     const recurringHtml = event.recurring
       ? `
         <span
           class="event-recurring"
-          title="${recurringTitle}"
+          title="${lang === "sv"
+            ? "Återkommande"
+            : "Recurring"}"
         >↻</span>
-      `
-      : "";
-
-    const notesHtml = event.notes
-      ? `
-        <div class="event-notes">
-          ${event.notes}
-        </div>
       `
       : "";
 
     const ticketsHtml = event.needsTickets
       ? `
         <div class="event-tickets">
-          ${ticketText}
+          ${lang === "sv"
+            ? "Biljetter ej köpta"
+            : "Tickets not purchased"}
         </div>
       `
       : "";
 
     html += `
-      <div class="event-item">
+      <article class="event-item">
+
         <div class="event-date">
           ${date.day}
         </div>
 
-        <div class="event-time">
-          ${date.time || ""}
-        </div>
-
         <div class="event-content">
+
           <div class="event-name">
             ${event.name}
             ${recurringHtml}
           </div>
 
-          ${notesHtml}
+          ${detailsHtml}
           ${ticketsHtml}
+
         </div>
-      </div>
+
+      </article>
     `;
+  }
 
-    const nextEvent = events[
-      events.indexOf(event) + 1
-    ];
-
-    if (
-      !nextEvent ||
-      (() => {
-        const nextDate = parseDateTime(nextEvent.date);
-
-        return (
-          !nextDate ||
-          nextDate.year !== date.year ||
-          nextDate.month !== date.month
-        );
-      })()
-    ) {
-      html += `</section>`;
-    }
+  if (monthOpen) {
+    html += `</section>`;
   }
 
   html += `</div>`;

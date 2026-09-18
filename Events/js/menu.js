@@ -1,7 +1,9 @@
 const sectionLabels = {
   sv: {
+    events: ""
   },
   en: {
+    events: ""
   }
 };
 
@@ -19,6 +21,11 @@ const siteMeta = {
     placeholder: "Stubbinnehåll. Här kan det senare läggas in fler textblock, bilder, ljudspelare, citat eller länkar.",
 
     sections: {
+      events: {
+        title: "Händelser",
+        tagline: "",
+        headerClass: "header-about"
+      }
     }
   },
 
@@ -28,6 +35,11 @@ const siteMeta = {
     placeholder: "Placeholder content. Here there can later be added more text blocks, images, audio players, quotes or links.",
 
     sections: {
+      events: {
+        title: "Events",
+        tagline: "",
+        headerClass: "header-about"
+      }
     }
   }
 };
