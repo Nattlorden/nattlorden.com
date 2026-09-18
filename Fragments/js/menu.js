@@ -18,6 +18,14 @@ const sectionLabels = {
   }
 };
 
+const backArrows = {
+  nattlorden: "assets/ui/back-arrow.png",
+  croonlius: "assets/ui/Not_pil.png",
+  khellendros: "assets/ui/Khellendrospil.png",
+  disir: "assets/ui/Neonpil.png",
+  other: "assets/ui/normalpil.png"
+};
+
 const siteMeta = {
   sv: {
     missingTitle: "Saknas",

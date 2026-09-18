@@ -1,6 +1,6 @@
 let lang = "sv";
-let currentSection = "echaeon";
-let currentPage = "about";
+let currentSection = "places";
+let currentPage = "all";
 
 
 function getContent() {
@@ -80,7 +80,7 @@ function updateTagline() {
   }
 
   if (title) {
-    title.textContent = meta?.title || "Side Projects";
+    title.textContent = meta?.title || "";
   }
 
   document.documentElement.lang = lang;
@@ -112,7 +112,6 @@ function updateHeaderStyle() {
     header.classList.add(meta.headerClass);
   }
 }
-
 
 function renderSideMenu() {
   const sideMenu = document.getElementById("sideMenu");
@@ -170,7 +169,7 @@ function renderContent() {
   if (!page) {
     main.innerHTML = `
       <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
-      <p>${siteMeta?.[lang]?.missingText || "Inneh�ll kommer senare."}</p>
+      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
     `;
     return;
   }
@@ -182,6 +181,7 @@ function renderContent() {
 
   if (page.blocks && page.blocks.length > 0) {
     page.blocks.forEach(block => {
+
       if (block.type === "text") {
         html += `
           <div class="text-block">
@@ -198,8 +198,15 @@ function renderContent() {
 
         html += `
           <figure class="image-block ${imageSize}">
-            <img src="${block.src}" alt="${block.alt || ""}">
-            ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ""}
+            <img
+              src="${block.src}"
+              alt="${block.alt || ""}"
+            >
+            ${
+              block.caption
+                ? `<figcaption>${block.caption}</figcaption>`
+                : ""
+            }
           </figure>
         `;
       }
@@ -208,7 +215,9 @@ function renderContent() {
         html += `<hr>`;
       }
     });
-  } else {
+  }
+  else {
+
     if (page.text) {
       html += `
         <div class="text-block">
@@ -221,7 +230,12 @@ function renderContent() {
       html += `<div class="image-gallery">`;
 
       page.images.forEach(src => {
-        html += `<img src="${src}" alt="">`;
+        html += `
+          <img
+            src="${src}"
+            alt=""
+          >
+        `;
       });
 
       html += `</div>`;
@@ -255,6 +269,7 @@ function renderAll() {
 
 function setLang(newLang) {
   lang = newLang;
+
   renderAll();
 }
 

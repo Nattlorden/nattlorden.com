@@ -82,7 +82,7 @@ body {
 
 .back-home img {
   display: block;
-  height: 30px;
+  height: 60px;
   width: auto;
   opacity: 0.85;
   text-decoration: none;
@@ -317,7 +317,7 @@ body[data-theme="croonlius"] {
 }
 
 /* Echæon – svart med neon blå/rosa */
-body[data-theme="echaon"] {
+body[data-theme="echaon_old"] {
   --bg: #0a0a0f;
   --panel: #14141c;
   --border: #25253a;
@@ -332,6 +332,27 @@ body[data-theme="echaon"] {
   --side-active-bg: #1d1d29;
   --button-bg: #202031;
   --button-text: #ece9ff;
+  --font-main: "Orbitron", sans-serif;
+}
+body[data-theme="echaeon"] {
+  --bg: #0a0a0d;
+  --panel: #15161a;
+  --border: #30283a;
+
+  --text: #e6e1e8;
+  --text-soft: #d4ced8;
+  --text-muted: #8f8795;
+  --caption: #aaa0b0;
+  --meta: #93879a;
+
+  --accent: #b23aa8;
+  --accent-hover: #e05bd5;
+  --active: #c94bc0;
+
+  --side-active-bg: #29252d;
+  --button-bg: #242027;
+  --button-text: #eee8ef;
+
   --font-main: "Orbitron", sans-serif;
 }
 
@@ -399,9 +420,12 @@ body[data-theme="other"] {
   --text-muted: #8d877c;
   --caption: #a9a295;
   --meta: #878174;
-  --accent: #c8a75a;
+  /*--accent: #c8a75a;
   --accent-hover: #e0c878;
-  --active: #a88b52;
+  --active: #a88b52;*/
+  --accent: #b83bb4;
+  --accent-hover: #e060d8;
+  --active: #c64bc1;
   --side-active-bg: #262a30;
   --button-bg: #2a2f33;
   --button-text: #e6e0d4;
@@ -445,6 +469,22 @@ body[data-theme="other"] {
   background-position: center;
 	
   opacity: 0.22;
+}
+
+.site-header.header-echaon::after {
+  background:
+    linear-gradient(
+      90deg,
+      rgba(178, 58, 168, 0.06),
+      transparent 30%,
+      transparent 70%,
+      rgba(178, 58, 168, 0.04)
+    ),
+    linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.025),
+      rgba(0,0,0,0.12)
+    );
 }
 
 body[data-theme="echaon"] .top-menu-item.active {

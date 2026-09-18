@@ -82,10 +82,21 @@ body {
 
 .back-home img {
   display: block;
-  height: 30px;
+  height: 40px;
   width: auto;
   opacity: 0.85;
   text-decoration: none;
+}
+body[data-theme="croonlius"] .back-home img {
+  height: 50px;
+}
+
+body[data-theme="disir"] .back-home img {
+  height: 50px;
+}
+
+body[data-theme="khellendros"] .back-home img {
+  height: 75px;
 }
 
 .back-home img:hover {

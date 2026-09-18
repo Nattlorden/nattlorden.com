@@ -113,6 +113,14 @@ function updateHeaderStyle() {
   }
 }
 
+function setBackArrow(section) {
+  const arrow = document.getElementById("backArrow");
+
+  arrow.src =
+    backArrows[section] ??
+    "assets/ui/back-arrow.png";
+}
+
 
 function renderSideMenu() {
   const sideMenu = document.getElementById("sideMenu");
@@ -170,7 +178,7 @@ function renderContent() {
   if (!page) {
     main.innerHTML = `
       <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
-      <p>${siteMeta?.[lang]?.missingText || "Inneh�ll kommer senare."}</p>
+      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
     `;
     return;
   }
@@ -248,6 +256,7 @@ function renderAll() {
   updateTagline();
   updateTheme();
   updateHeaderStyle();
+  setBackArrow(currentSection);
   renderTopMenu();
   renderSideMenu();
   renderContent();

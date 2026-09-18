@@ -13,14 +13,16 @@
   --side-active-bg: #2a2f33;
   --button-bg: #2a2f33;
   --button-text: #e6e0d4;
+  --font-main: Georgia, serif;
 }
 
 body {
   margin: 0;
-  font-family: Georgia, serif;
+  font-family: var(--font-main);
   background: var(--bg);
   color: var(--text);
 }
+
 
 .site-header {
   display: flex;
@@ -75,36 +77,23 @@ body {
 
 .header-inner {
   flex: 1;
-  text-align: center;
+/*  text-align: center;*/
   position: relative;
   z-index: 1;
+
+  text-align: left;
+  padding-left: 20px;
 }
 
-.back-home img {
-  display: block;
-  height: 60px;
-  width: auto;
-  opacity: 0.85;
-  text-decoration: none;
+.branding h1 {
+  margin: 0;
 }
 
-.back-home img:hover {
-  opacity: 1;
-  transform: translateX(-2px);
-  text-decoration: none;
+.branding .tagline {
+  margin: 0;
 }
 
 .back-home {
-  display: inline-flex;
-  align-items: center;
-  text-decoration: none;
-}
-
-.back-home,
-.back-home:hover,
-.back-home:focus,
-.back-home:active,
-.back-home:visited {
   display: inline-flex;
   align-items: center;
   text-decoration: none;
@@ -115,12 +104,45 @@ body {
   background: transparent;
 }
 
+
+.back-home:hover,
+.back-home:focus,
+.back-home:active,
+.back-home:visited {
+  text-decoration: none;
+  border: none;
+  border-bottom: none;
+  box-shadow: none;
+  outline: none;
+  background: transparent;
+}
+
+.back-home img {
+  display: block;
+  height: 30px;
+  width: auto;
+/*  opacity: 0.85;*/
+  transition: opacity 0.2s ease, transform 0.2s ease;
+
+  filter: saturate(0.7) brightness(0.95);
+  opacity: 0.7;
+}
+
+.back-home img:hover {
+  opacity: 1;
+  transform: translateX(-2px);
+}
+
 h1 {
   margin: 0;
+
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 h2 {
   margin-top: 0;
+  margin-bottom: 16px;
 }
 
 a {
@@ -135,7 +157,6 @@ a:hover {
 }
 
 .tagline {
-  margin: 0;
   font-size: 0.9em;
   color: var(--text-muted);
 }
@@ -144,13 +165,15 @@ a:hover {
   margin-left: 5px;
   background: var(--button-bg);
   color: var(--button-text);
-  border: none;
+  border: 1px solid transparent;
   padding: 5px 10px;
   cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
 }
 
 .lang-switch button.active {
-  outline: 1px solid var(--accent);
+  outline: none;
+  border-color: var(--accent);
   color: var(--accent);
 }
 
@@ -161,17 +184,73 @@ a:hover {
   border-bottom: 1px solid var(--border);
 }
 
-.top-menu div {
+.top-menu-item {
   padding: 10px 15px;
   cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
 }
 
-.top-menu div.active {
+.top-menu-item:hover {
+  background: color-mix(in srgb, var(--panel) 88%, var(--accent) 12%);
+}
+
+.top-menu-item.active {
   color: var(--active);
 }
 
 .layout {
   display: flex;
+}
+
+aside {
+  width: 220px;
+  background: var(--panel);
+  min-height: 100vh;
+  border-right: 1px solid var(--border);
+}
+
+.side-menu-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.side-menu-item:hover {
+  background: color-mix(in srgb, var(--panel) 85%, var(--accent) 15%);
+}
+
+.side-menu-item.active {
+  background: var(--side-active-bg);
+}
+
+main {
+  flex: 1;
+/*  padding: 20px;*/
+  padding: 40px 40px 60px;
+  max-width: 1000px;
+}
+
+.content-area p {
+  margin-top: 0;
+  max-width: 900px;
+  color: var(--text-soft);
+  white-space: pre-line;
+  line-height: 1.65;
+}
+
+.text-block {
+  max-width: 900px;
+  margin-bottom: 24px;
+  color: var(--text-soft);
+  line-height: 1.65;
+  white-space: pre-line;
+}
+
+.meta-text {
+  display: block;
+  color: var(--meta);
+  font-size: 0.8rem;
+  margin-top: 4px;
 }
 
 .image-gallery {
@@ -222,49 +301,6 @@ a:hover {
   font-style: italic;
 }
 
-.content-area p {
-  margin-top: 0;
-  max-width: 900px;
-  color: var(--text-soft);
-  white-space: pre-line;
-}
-
-.text-block {
-  max-width: 900px;
-  margin-bottom: 24px;
-  color: var(--text-soft);
-  line-height: 1.6;
-  white-space: pre-line;
-}
-
-.meta-text {
-  display: block;
-  color: var(--meta);
-  font-size: 0.8rem;
-  margin-top: 4px;
-}
-
-aside {
-  width: 250px;
-  background: var(--panel);
-  min-height: 100vh;
-  border-right: 1px solid var(--border);
-}
-
-aside div {
-  padding: 10px;
-  cursor: pointer;
-}
-
-aside div.active {
-  background: var(--side-active-bg);
-}
-
-main {
-  flex: 1;
-  padding: 20px;
-}
-
 .placeholder-box {
   max-width: 900px;
   padding: 14px 16px;
@@ -279,7 +315,7 @@ main {
    Projekt-teman
    ========================= */
 
-/* Nattlorden – neutral */
+/* Nattlorden – neutral mörk */
 body[data-theme="nattlorden"] {
   --bg: #0f1113;
   --panel: #171a1d;
@@ -316,7 +352,7 @@ body[data-theme="croonlius"] {
   --font-main: "Playfair Display", serif;
 }
 
-/* Echæon – svart med neon blå/rosa */
+/* Echæon – svart med neon */
 body[data-theme="echaon"] {
   --bg: #0a0a0f;
   --panel: #14141c;
@@ -371,22 +407,59 @@ body[data-theme="threshold"] {
   --button-text: #e8e8e8;
 }
 
-/* HiFi – ljus, teknisk */
-body[data-theme="hifi"] {
-  --bg: #ffffff;
-  --panel: #f2f4f7;
-  --border: #cfd7e3;
-  --text: #101418;
-  --text-soft: #27313b;
-  --text-muted: #5f6b78;
-  --caption: #4c5966;
-  --meta: #66717d;
-  --accent: #2a6cff;
-  --accent-hover: #1149c9;
-  --active: #000000;
-  --side-active-bg: #e2e8f0;
-  --button-bg: #dfe6ee;
-  --button-text: #101418;
+/* About/about – varm editoriell grund */
+body[data-theme="about"] {
+  --bg: #f4f1ec;
+  --panel: #ebe5dc;
+  --border: #d2c8bb;
+  --text: #2b2b2b;
+  --text-soft: #3a3835;
+  --text-muted: #746d64;
+  --caption: #666057;
+  --meta: #7a7268;
+  --accent: #8a5a44;
+  --accent-hover: #6f4735;
+  --active: #8a5a44;
+  --side-active-bg: #e2d9cd;
+  --button-bg: #e3dbd0;
+  --button-text: #2b2b2b;
+  --font-main: Georgia, serif;
+}
+/* About/deep – varm editoriell grund */
+body[data-theme="deep"] {
+  --bg: #f4f1ec;
+  --panel: #ebe5dc;
+  --border: #d2c8bb;
+  --text: #2b2b2b;
+  --text-soft: #3a3835;
+  --text-muted: #746d64;
+  --caption: #666057;
+  --meta: #7a7268;
+  --accent: #8a5a44;
+  --accent-hover: #6f4735;
+  --active: #8a5a44;
+  --side-active-bg: #e2d9cd;
+  --button-bg: #e3dbd0;
+  --button-text: #2b2b2b;
+  --font-main: Georgia, serif;
+}
+/* About/contact – varm editoriell grund */
+body[data-theme="contact"] {
+  --bg: #f4f1ec;
+  --panel: #ebe5dc;
+  --border: #d2c8bb;
+  --text: #2b2b2b;
+  --text-soft: #3a3835;
+  --text-muted: #746d64;
+  --caption: #666057;
+  --meta: #7a7268;
+  --accent: #8a5a44;
+  --accent-hover: #6f4735;
+  --active: #8a5a44;
+  --side-active-bg: #e2d9cd;
+  --button-bg: #e3dbd0;
+  --button-text: #2b2b2b;
+  --font-main: Georgia, serif;
 }
 
 /* Övrigt – neutral */
@@ -436,14 +509,9 @@ body[data-theme="other"] {
 
 /* Echæon */
 .site-header.header-echaon::before {
-/*  background-image:
-    linear-gradient(90deg, rgba(58,160,255,0.12), transparent 30%, transparent 70%, rgba(255,77,166,0.12)),
-    linear-gradient(180deg, transparent, rgba(255,255,255,0.02), transparent);
-	*/
   background-image: url("../assets/headers/echaon-header.png");
   background-size: cover;
   background-position: center;
-	
   opacity: 0.22;
 }
 
@@ -453,43 +521,17 @@ body[data-theme="echaon"] .top-menu-item.active {
 
 /* Khellendros */
 .site-header.header-khellendros::before {
-  /* background-image:
-    linear-gradient(
-      90deg,
-      rgba(64,232,90,0.10) 0%,
-      rgba(64,232,90,0.10) 12%,
-      transparent 12%,
-      transparent 28%,
-      rgba(77,141,255,0.10) 28%,
-      rgba(77,141,255,0.10) 42%,
-      transparent 42%,
-      transparent 58%,
-      rgba(255,90,90,0.10) 58%,
-      rgba(255,90,90,0.10) 72%,
-      transparent 72%
-    );
-	*/
   background-image: url("../assets/headers/khellendros-header.png");
   background-size: cover;
-  background-position: center;	
-	
+  background-position: center;
   opacity: 0.50;
 }
 
 /* Threshold Canticle */
 .site-header.header-threshold::before {
-  /*background-image:
-    linear-gradient(90deg, rgba(255,255,255,0.06), transparent 20%, transparent 80%, rgba(255,255,255,0.06)),
-    repeating-linear-gradient(
-      135deg,
-      rgba(255,255,255,0.015) 0 8px,
-      transparent 8px 16px
-    );
-	*/
-	background-image: url("../assets/headers/tc-header.png");
+  background-image: url("../assets/headers/tc-header.png");
   background-size: cover;
-  background-position: center;	
-	
+  background-position: center;
   opacity: 0.26;
 }
 
@@ -497,16 +539,22 @@ body[data-theme="threshold"] .top-menu-item.active {
   color: #c0c0c0;
 }
 
-/* HiFi */
-.site-header.header-hifi::before {
+/* About */
+.site-header.header-about::before {
   background-image:
-    linear-gradient(90deg, rgba(42,108,255,0.10), transparent 18%, transparent 82%, rgba(42,108,255,0.10)),
+    linear-gradient(
+      90deg,
+      rgba(138, 90, 68, 0.08),
+      transparent 16%,
+      transparent 84%,
+      rgba(138, 90, 68, 0.08)
+    ),
     repeating-linear-gradient(
       90deg,
-      rgba(0,0,0,0.03) 0 1px,
-      transparent 1px 20px
+      rgba(70, 56, 44, 0.025) 0 1px,
+      transparent 1px 32px
     );
-  opacity: 0.16;
+  opacity: 0.22;
 }
 
 /* Övrigt */
@@ -515,88 +563,182 @@ body[data-theme="threshold"] .top-menu-item.active {
     linear-gradient(90deg, rgba(200,167,90,0.04), transparent 30%, transparent 70%, rgba(200,167,90,0.04));
 }
 
-/* HiFi specialjusteringar */
-body[data-theme="hifi"] .tagline {
-  color: #4b5563;
+/* =========================
+   Tema-specifika finjusteringar
+   ========================= */
+
+/* About specialjusteringar */
+body[data-theme="about"] .tagline {
+  color: #6b645b;
 }
 
-body[data-theme="hifi"] .lang-switch button {
-  background: #dfe6ee;
-  color: #111;
+body[data-theme="about"] .lang-switch button {
+  background: #e3dbd0;
+  color: #2b2b2b;
+  border: 1px solid transparent;
 }
 
-body[data-theme="hifi"] .back-home img {
+body[data-theme="about"] .lang-switch button:hover {
+  background: #d9d0c4;
+}
+
+body[data-theme="about"] .lang-switch button.active {
+  border-color: #8a5a44;
+  color: #8a5a44;
+}
+
+body[data-theme="about"] .top-menu-item:hover,
+body[data-theme="about"] .side-menu-item:hover {
+  background: #efe8de;
+}
+
+body[data-theme="about"] .top-menu-item.active {
+  color: #8a5a44;
+}
+
+body[data-theme="about"] .side-menu-item.active {
+  background: #e2d9cd;
+}
+
+body[data-theme="about"] a {
+  color: var(--accent);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+body[data-theme="about"] a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+body[data-theme="about"] .placeholder-box {
+  background: color-mix(in srgb, var(--panel) 92%, white 8%);
+  color: var(--text-muted);
+}
+
+body[data-theme="about"] .back-home img {
   filter: none;
 }
 
-body:not([data-theme="hifi"]) .back-home img {
+body:not([data-theme="about"]) .back-home img {
   filter: brightness(0.9);
 }
 
-/* Maj-Lisa & Skramlet – svensk blues/rootsrock, 70/80-tal, grynigt svartvitt */
-body[data-theme="majlisa"] {
-  --bg: #151412;
-  --panel: #211f1b;
-  --border: #3b352d;
-  --text: #eee6d8;
-  --text-soft: #d9cfc0;
-  --text-muted: #9a9185;
-  --caption: #b9ad9e;
-  --meta: #8f8578;
-
-  --accent: #c7773d;        /* rostig scenlampa / gammal tweed */
-  --accent-hover: #e29a5b;
-  --active: #f0c087;
-
-  --side-active-bg: #2d2923;
-  --button-bg: #332d26;
-  --button-text: #eee6d8;
+/* Deep specialjusteringar */
+body[data-theme="deep"] .tagline {
+  color: #6b645b;
 }
 
-.site-header.header-majlisa::before {
-  background-image:
-    radial-gradient(circle at 30% 50%, rgba(255,255,255,0.07), transparent 35%),
-    linear-gradient(90deg, rgba(199,119,61,0.10), transparent 30%, transparent 70%, rgba(255,255,255,0.04)),
-    repeating-linear-gradient(
-      0deg,
-      rgba(255,255,255,0.018) 0 1px,
-      transparent 1px 4px
-    );
-  opacity: 0.22;
+body[data-theme="deep"] .lang-switch button {
+  background: #e3dbd0;
+  color: #2b2b2b;
+  border: 1px solid transparent;
 }
 
-body[data-theme="majlisa"] h1,
-body[data-theme="majlisa"] h2 {
-  letter-spacing: 0.025em;
+body[data-theme="deep"] .lang-switch button:hover {
+  background: #d9d0c4;
 }
 
-body[data-theme="majlisa"] .image-block img {
-  filter: grayscale(1) contrast(1.08) brightness(0.92);
+body[data-theme="deep"] .lang-switch button.active {
+  border-color: #8a5a44;
+  color: #8a5a44;
 }
 
-/* =========================
-   Mobil layout
-   ========================= */
+body[data-theme="deep"] .top-menu-item:hover,
+body[data-theme="deep"] .side-menu-item:hover {
+  background: #efe8de;
+}
+
+body[data-theme="deep"] .top-menu-item.active {
+  color: #8a5a44;
+}
+
+body[data-theme="deep"] .side-menu-item.active {
+  background: #e2d9cd;
+}
+
+body[data-theme="deep"] a {
+  color: var(--accent);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+body[data-theme="deep"] a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+body[data-theme="deep"] .placeholder-box {
+  background: color-mix(in srgb, var(--panel) 92%, white 8%);
+  color: var(--text-muted);
+}
+
+body[data-theme="deep"] .back-home img {
+  filter: none;
+}
+
+body:not([data-theme="deep"]) .back-home img {
+  filter: brightness(0.9);
+}
+
+/* Contact specialjusteringar */
+body[data-theme="contact"] .tagline {
+  color: #6b645b;
+}
+
+body[data-theme="contact"] .lang-switch button {
+  background: #e3dbd0;
+  color: #2b2b2b;
+  border: 1px solid transparent;
+}
+
+body[data-theme="contact"] .lang-switch button:hover {
+  background: #d9d0c4;
+}
+
+body[data-theme="contact"] .lang-switch button.active {
+  border-color: #8a5a44;
+  color: #8a5a44;
+}
+
+body[data-theme="contact"] .top-menu-item:hover,
+body[data-theme="contact"] .side-menu-item:hover {
+  background: #efe8de;
+}
+
+body[data-theme="contact"] .top-menu-item.active {
+  color: #8a5a44;
+}
+
+body[data-theme="contact"] .side-menu-item.active {
+  background: #e2d9cd;
+}
+
+body[data-theme="contact"] a {
+  color: var(--accent);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+body[data-theme="contact"] a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+body[data-theme="contact"] .placeholder-box {
+  background: color-mix(in srgb, var(--panel) 92%, white 8%);
+  color: var(--text-muted);
+}
+
+body[data-theme="contact"] .back-home img {
+  filter: none;
+}
+
+body:not([data-theme="contact"]) .back-home img {
+  filter: brightness(0.9);
+}
+
 
 .mobile-menu-button {
   display: none;
 }
-
-@media (max-width: 768px) {
-
-  .layout {
-    display: block;
-  }
-
-  .side-menu {
-    width: auto;
-    min-height: 0;
-    border-right: none;
-  }
-
-  .content-area {
-    width: auto;
-  }
 
   /* Navigationsläge */
   body.mobile-menu-view .side-menu {
