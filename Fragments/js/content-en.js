@@ -5862,13 +5862,13 @@ we remain unsolved`
       type: "image",
       src: "assets/covers/My-Catherine 1200.jpg",
       size: "small",
-      caption: "Publicerad e  202"
+      caption: "Released September 17th 2026"
     },
     {
       type: "text",
       content: `<i>To my wife on vacation trip to Athens.</i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/6rmVULNgmUdszmGFULgTQ5?si=sxMWk0zxS6KNOPNRCz-96w" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/n13FR_bVLks" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"

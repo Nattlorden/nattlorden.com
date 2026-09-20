@@ -559,6 +559,22 @@ Bara våra egna landskap — sedda med andra ögon.`,
       columns: 4,
   cards: [
     {
+      title: "I cannot say why",
+      image: "assets/covers/I cannot say why 3k.jpg",
+      section: "music",
+      page: "cannotSay",
+      spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
+      youtube: "https://youtu.be/_Jatog3dewk"
+    },
+    {
+      title: "The Other Door",
+      image: "assets/covers/The Other Door B-side 1200.jpg",
+      section: "music",
+      page: "theOtherDoor",
+      spotify: "",
+      youtube: ""
+    },
+    {
       title: "A Most Curious Man",
       image: "assets/covers/Most Curious cameo 3k.jpg",
       section: "music",
@@ -573,14 +589,6 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "laughingFace",
       spotify: "https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=rRcwWcahRp-ISp5Ngk3vrw",
       youtube: "https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw"
-    },
-    {
-      title: "I cannot say why",
-      image: "assets/covers/I cannot say why 3k.jpg",
-      section: "music",
-      page: "cannotSay",
-      spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
-      youtube: "https://youtu.be/_Jatog3dewk"
     },
     {
       title: "Scania, Our open land",
@@ -611,10 +619,22 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
     },
     albums: {
       menuTitle: "Album",
-      title: "Album",
-      text: `När flera stycken börjar tala med varandra uppstår en större form.
+      title: "Album & singlar",
+      text: `När flera stycken börjar tala med varandra uppstår en större form. Det var inte tänkt mer än en eller ett par - om rösten skulle fungera i sin omtränade form.
 
-Här samlas senare album, EP-idéer och större tematiska bågar.`
+19 oktober 1990 — I Cannot Say Why / The garden breathing
+Försöket.
+
+15 februari 1991 — Moonlight's Fall / The Other Door
+Genombrottet för själva idén. Det här är ett projekt.
+
+14 juni 1991 — Walking into wonder / Run with the River
+Riktningen börjar framträda.
+
+25 oktober 1991 — You Must Exist / I will rise, I remain
+
+22 maj 1992 - Summer Hymn / The Garden
+`
     },
 
     runWithTheRiver: {
@@ -3872,14 +3892,189 @@ In the deep and patient night.
     ],
     showPlaceholder: false
    },
+   theOtherDoor: {
+    title: "The Other Door",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/The Other Door B-side 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `<i>B-sida på "The Moonlight's Fall"</i>
+        
+One door said,
+“Come inside.”
 
-   
+The other said,
+“Don’t believe her.”
 
+I found them waiting in the hall
+beneath a painted moon,
+two wooden doors, two quiet mouths,
+each humming the same tune.
 
+One wore a ribbon, one a key,
+both smiled as if they knew.
+One said, “She has lied to you.”
+The other whispered too.
 
+If one speaks true
+and one deceives,
+why do they sound
+the same to me?
 
+ There is another door,
+ I know there must be.
 
+ Behind the one that tells the truth,
+ behind the one that lies to me.
 
+ There is another door,
+ I almost hear it call.
+
+ But every time I turn around
+ there are masks upon the wall.
+
+A woman came in silver lace
+and offered me her hand.
+I asked her which way led me home.
+She said, “You understand.”
+
+Behind her came a laughing crowd
+with feathers, bells and gold.
+They changed their faces as they passed,
+but every face looked old.
+
+Stay where you are.
+You must go through.
+How can I know
+which one is you?
+
+ There is another door,
+ I know there must be.
+
+ Behind the one that tells the truth,
+ behind the one that lies to me.
+
+ There is another door,
+ somewhere beyond the hall.
+
+ And every mask is watching me
+ as shadows climb the wall.
+
+So I asked the first,
+“Who am I?”
+
+She smiled
+and turned away.
+
+I asked the second,
+“Who am I?”
+
+She wore
+my face.
+
+Neither one
+would say.
+
+ There is another door.
+ I do not need the key.
+
+ Perhaps the one who tells the truth
+ has always lied to me.
+
+ There is another door,
+ but now I understand:
+
+ I do not have to choose the way
+ they place into my hands.
+
+One says stay...
+
+One says go...
+
+One says yes...
+
+One says no...
+
+I opened neither door.`
+      }
+    ],
+    showPlaceholder: true
+   },
+
+   theGardenBreathing: {
+    title: "The Garden Breathing",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/garden breathing b-side 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `<i>B-sida på "I cannot say why"</i>
+        
+The rain has left the garden breathing
+Soft as a held note by the door
+I walk the path I used to hurry
+I don't need to hurry anymore
+
+Your coat is gone from by the window
+Your coffee cup is put away
+I thought the rooms would feel much colder
+I thought I'd mind more than I do today
+
+ The rain has left the garden breathing
+ Water shining underneath the trees
+ Nothing asks me for an answer
+ Nothing wants a thing from me
+
+ I leave the kitchen window open
+ Let the evening wander in
+ The rain has left the garden breathing
+ And I can almost breathe again
+
+I used to fill the quiet quickly
+A record playing, radio
+Tonight I hear the water falling
+From every leaf along the road
+
+Somewhere beyond the garden wall
+A blackbird tries another song
+It stops, and then the silence settles
+I hadn't known it was this long
+
+ The rain has left the garden breathing
+ Water shining underneath the trees
+ Nothing asks me for an answer
+ Nothing wants a thing from me
+
+ I leave the kitchen window open
+ Let the evening wander in
+ The rain has left the garden breathing
+ And I can almost breathe again
+
+Maybe tomorrow I'll close the window
+Maybe tomorrow I'll miss the noise
+Tonight the house can keep its silence
+Tonight I don't need to raise my voice
+
+The rain has left the garden breathing
+Soft as a held note by the door
+
+I leave the window open
+
+Just a little more
+`
+      }
+    ],
+    showPlaceholder: true
+   },
 
    stubbe: {
     title: "titel",

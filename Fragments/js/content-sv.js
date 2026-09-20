@@ -5865,13 +5865,13 @@ we remain unsolved`
       type: "image",
       src: "assets/covers/My-Catherine 1200.jpg",
       size: "small",
-      caption: "Publicerad e  202"
+      caption: "Publicerad 17e september 2026"
     },
     {
       type: "text",
       content: `<i>Till min fru under semesterresa till Aten.</i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/6rmVULNgmUdszmGFULgTQ5?si=sxMWk0zxS6KNOPNRCz-96w" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/n13FR_bVLks" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -6601,7 +6601,7 @@ Whenever it sees you`
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/2eym1d8UrAafPvMGk1p76P?si=GJP_bEOzTdSko2-VwqWAQQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/nCtbNsAyJW4" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
