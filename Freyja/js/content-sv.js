@@ -181,6 +181,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/CnCbXPD-s9g?list=OLAK5uy_kA8bJunvUw1V1Zdkh7ApQli24qYWMPFZk"
     },
     {
+      title: "Aelathir",
+      image: "assets/covers/Aelathir 1200.jpg",
+      section: "music",
+      page: "aelathir",
+      spotify: "",
+      youtube: ""
+    },
+    {
       title: "Take me back",
       image: "assets/covers/Take me back 3k.jpg",
       section: "music",
@@ -561,6 +569,14 @@ Riktningen börjar framträda.
 25 september 1992 — <b>Freyja</b> (SR-CD012)
 
 6 november 1992 - Rúnir ♦ Runes
+
+19 mars 1993 - Fly, Gentle Dream / Aelathir
+
+17 september 1993 - Take Me Back / (odefinierad)
+
+18 februari 1994 - Amaranth Light / (odefinierad)
+
+25 mars 1994 - "Album 2"
 `
     },
 
@@ -671,6 +687,126 @@ All that we are is the will to believe</i>
 
 Sing… …free
 Ahh, ahh
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   aelathir: {
+    title: "Aelathir",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Aelathir 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Aelun na vael
+Síratha elen
+Lóra, lóra
+Thael ir en
+
+Elar en silva, morin vae
+Nóren altha, sáren nae
+Ithra velin, aelun thir
+Saela nor, saela lir
+
+Before the leaf, before the rain
+Before the root had learned its name
+The silent earth beneath the stars
+Lay dark and deep with dreaming hearts
+
+Aelun, aelun
+Hear the hollow earth
+Aelun, aelun
+Waiting for its birth
+
+ Lethar, lethar, aelathir
+ Rise from dark and enter here
+ Vaela sír, vaela nor
+ Root below and crown the shore
+
+ Lethar, lethar, aelathir
+ Where no living leaf was near
+ From the deep the branches climb
+ First-born children out of time
+
+Aa-eh
+Aelun
+Oo-ah
+Lethar
+
+Then through the stone a whisper stirred
+Not yet a song, not yet a word
+The sleeping waters turned below
+And where they passed, the roots would grow
+
+Sela ithren, váren thae
+Lúma elin, sora vae
+Aera thir na moru len
+Lethar rose and breathed again
+
+Aelun, aelun
+Under moonless skies
+Aelun, aelun
+Something green would rise
+
+ Lethar, lethar, aelathir
+ Rise from dark and enter here
+ Vaela sír, vaela nor
+ Root below and crown the shore
+
+ Lethar, lethar, aelathir
+ Where no living leaf was near
+ From the deep the branches climb
+ First-born children out of time
+
+And the eldest stood alone
+Neither beast nor bird had known
+Wind came first to speak its name
+Rain came second, soft as flame
+
+Then the stars looked down and saw
+Branches answering ancient law
+Earth below and heaven above
+Bound by root and leaf in love
+
+Síratha
+Síratha
+Aelun vae
+
+Lethar
+Lethar
+Aelathir
+
+Vaela nor
+Vaela sír
+Thael en mor
+Aelathir
+
+ Lethar, lethar, aelathir
+ Rise from dark and enter here
+ Vaela sír, vaela nor
+ Root below and crown the shore
+
+ Lethar, lethar, aelathir
+ Older than the waking year
+ May your leaves remember still
+ Earth beneath and starlight's will
+
+Lethar, lethar, aelathir
+Lethar, lethar, aelathir
+
+Aelun na vael
+Síratha elen
+Lóra, lóra
+Thael ir en
+
+Aelathir
 `,
   showPlaceholder: false
       }
