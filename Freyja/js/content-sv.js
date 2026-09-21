@@ -104,91 +104,6 @@ I häxkonst som inte leker symbol, utan söker närvaro, handling och relation.`
 }
   },
 
-  ritual: {
-    invocation: {
-      menuTitle: "Åkallan",
-      title: "Åkallan",
-      text: `Allt svarar inte.
-
-Och allt skall inte heller svara.
-
-Åkallan handlar inte om kontroll, utan om riktning — att tala tydligt nog för att något skall kunna höra vem det är som talar, och varför.`
-    },
-    cycles: {
-      menuTitle: "Cykler",
-      title: "Cykler",
-      text: `Här hör årshjulet hemma, månens återkomster, mörkrets och gryningens skiften, sådant som aldrig står still men ändå alltid återvänder.
-
-Ritual utan cykel blir lätt bara estetik.
-
-Detta hör ihop med jord, väder, trädgård, sömn, kropp och tid.`
-    },
-    offerings: {
-      menuTitle: "Gåvor",
-      title: "Gåvor",
-      text: `En gåva är inte rekvisita.
-
-Den är ett erkännande:
-att relationen inte är ensidig,
-att plats, gudom, ande eller förfader inte bara är en idé man använder.
-
-Bröd, honung, mjöd, vatten, äpplen, blommor, rökelse, arbete, sång, tystnad — allt beror på sammanhanget.`
-    },
-    practice: {
-      menuTitle: "Praktik",
-      title: "Praktik",
-      text: `Det levande sitter oftast i praktiken, inte i orden om den.
-
-Vad som faktiskt görs.
-Vad som upprepas.
-Vad som fungerar.
-Vad som kräver disciplin snarare än pose.
-
-Här kan senare ritualfragment, enkla arbetssätt och återkommande handlingar samlas.`
-    }
-  },
-
-  nature: {
-    forest: {
-      menuTitle: "Skogen",
-      title: "Skogen",
-      text: `Skogen är inte kuliss.
-
-Den är kropp, skydd, hot, väder, minne och riktning.
-Den dämpar vissa saker och förstärker andra.
-
-Det finns skäl till att så mycket äldre kunskap söker sig dit.`
-    },
-    stone: {
-      menuTitle: "Sten",
-      title: "Sten",
-      text: `Sten håller kvar.
-
-Värme.
-Kyla.
-Spår.
-Tyngd.
-
-Där trä växer och förmultnar, ligger stenen kvar och ser på medan namn, språk och generationer byts ut.`
-    },
-    water: {
-      menuTitle: "Vatten",
-      title: "Vatten",
-      text: `Vatten renar, bär, döljer, löser upp och minns sin väg bättre än människor gör.
-
-Källor, regn, dimma, hav, bäckar och skålar med stilla vatten hör hemma här.`
-    },
-    night: {
-      menuTitle: "Natten",
-      title: "Natten",
-      text: `Natten tar bort överflöd.
-
-Kvar blir konturer, ljud, andhämtning, lukt av jord och det som känns närmare när annat dragits undan.
-
-Många saker blir inte större i nattens mörker.
-De blir bara svårare att ignorera.`
-    }
-  },
 
   music: {
     overview: {
@@ -211,6 +126,22 @@ Bara våra egna landskap — sedda med andra ögon.`,
       columns: 4,
       cards: [
     {
+      title: "The Garden Breathing",
+      image: "assets/covers/garden breathing b-side 1200.jpg",
+      section: "music",
+      page: "theGardenBreathing",
+      spotify: "https://open.spotify.com/album/1e8nCJruSemtH4qEWgTPpf?si=T91rVJzjRlKvHjHIZtAk_A",
+      youtube: "https://youtu.be/3t9BrQB1tkQ"
+    },
+    {
+      title: "Walking into wonder",
+      image: "assets/covers/Walking into wonder 3k.jpg",
+      section: "music",
+      page: "walkingIntoWonder",
+      spotify: "https://open.spotify.com/album/0GwMuZGO8V6nM3MCqy8yPI?si=DO-YjYZxQIyTCHoKMgNiKA",
+      youtube: "https://youtu.be/3sc2Ko3vs0k"
+    },    
+    {
       title: "Run with the river",
       image: "assets/covers/Run with the river.jpg",
       section: "music",
@@ -219,12 +150,19 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/2rL8IEUMhNs?list=OLAK5uy_lKWCiMTtnuQKpwOvyLPDHjlvk0mdfgz2o"
     },
     {
-      title: "Fly, gentle dream",
-      image: "assets/covers/Fly, gentle dream 3k.jpg",
+      title: "Summer Hymn",
+      image: "assets/covers/Summer hymn 3k.jpg",
       section: "music",
-      page: "flyGentleDream",
-      spotify: "https://open.spotify.com/album/6mCI3FfWvrq8zqa2XD0Ut0?si=XUxbo8tkTSGdS1p9BsLosQ",
-      youtube: "https://youtu.be/CnCbXPD-s9g?list=OLAK5uy_kA8bJunvUw1V1Zdkh7ApQli24qYWMPFZk"
+      page: "summerHymn",
+      spotify: "https://open.spotify.com/album/4gUqrC2pzrNdm0nkGY95BP?si=Qsh49__1QtKh4XOVF8c_iw",
+      youtube: "https://youtu.be/q_P2nU-yCvw?list=OLAK5uy_mz46SWRHL6RdS-8EF53TQdKUBOI-KvLP4"
+    },
+    {
+      title: "The Garden",
+      image: "assets/covers/Garden 3k.jpg",
+      section: "music",
+      page: "theGarden",
+      spotify: "https://open.spotify.com/album/79IaTvBR1CQmV5wsCAqVNb?si=3RvUsIjYSmWaNjYobNRPig"
     },
     {
       title: "River run",
@@ -235,12 +173,12 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/dKqv_bH8IWk?list=OLAK5uy_nw6HnDvictATsKaMGG5mH1rUFJYWMxCcs"
     },
     {
-      title: "Walking into wonder",
-      image: "assets/covers/Walking into wonder 3k.jpg",
+      title: "Fly, gentle dream",
+      image: "assets/covers/Fly, gentle dream 3k.jpg",
       section: "music",
-      page: "walkingIntoWonder",
-      spotify: "https://open.spotify.com/album/0GwMuZGO8V6nM3MCqy8yPI?si=DO-YjYZxQIyTCHoKMgNiKA",
-      youtube: "https://youtu.be/3sc2Ko3vs0k"
+      page: "flyGentleDream",
+      spotify: "https://open.spotify.com/album/6mCI3FfWvrq8zqa2XD0Ut0?si=XUxbo8tkTSGdS1p9BsLosQ",
+      youtube: "https://youtu.be/CnCbXPD-s9g?list=OLAK5uy_kA8bJunvUw1V1Zdkh7ApQli24qYWMPFZk"
     },
     {
       title: "Take me back",
@@ -249,22 +187,7 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "takeMeBack",
       spotify: "https://open.spotify.com/album/6Pg28j2lfJ54gk7HJzruZd?si=VmwQMm3PSMOdrMjujP6Bdg",
       youtube: "https://youtu.be/p5AKW9SS_VA?list=OLAK5uy_l7YzYjQtCHuLoRaI6FwoFzgF4LSOtaBpM"
-    },
-    {
-      title: "The Garden",
-      image: "assets/covers/Garden 3k.jpg",
-      section: "music",
-      page: "theGarden",
-      spotify: "https://open.spotify.com/album/79IaTvBR1CQmV5wsCAqVNb?si=3RvUsIjYSmWaNjYobNRPig"
-    },
-    {
-      title: "Summer Hymn",
-      image: "assets/covers/Summer hymn 3k.jpg",
-      section: "music",
-      page: "summerHymn",
-      spotify: "https://open.spotify.com/album/4gUqrC2pzrNdm0nkGY95BP?si=Qsh49__1QtKh4XOVF8c_iw",
-      youtube: "https://youtu.be/q_P2nU-yCvw?list=OLAK5uy_mz46SWRHL6RdS-8EF53TQdKUBOI-KvLP4"
-    },
+    },   
     {
       title: "Before we had names",
       image: "assets/covers/Before we had names 3k cold.jpg",
@@ -292,6 +215,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/Q4N1CnUNh8M?list=RDQ4N1CnUNh8M"
     },
     {
+      title: "I will rise, I remain",
+      image: "assets/covers/I will rise, I remain 3k.jpg",
+      section: "music",
+      page: "iWillRise",
+      spotify: "https://open.spotify.com/album/2Q6i421JDlhwWwSLpl4nPN?si=GJqXGfN-R0eLufQAzUUX-Q",
+      youtube: "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M"
+    },
+    {
       title: "Ég er hér",
       image: "assets/covers/Eg er hér 3k.jpg",
       section: "music",
@@ -306,14 +237,6 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "myTears",
       spotify: "https://open.spotify.com/album/4CZiPgMJXtR7BvHiIFHrPx?si=wwkxOEXGS2e26ShXVmip6A",
       youtube: "https://youtu.be/xkdwR-mv0kk?list=OLAK5uy_nPoX792r-xwK6pl7z0d_XJA_R9FU-d5sE"
-    },
-    {
-      title: "I will rise, I remain",
-      image: "assets/covers/I will rise, I remain 3k.jpg",
-      section: "music",
-      page: "iWillRise",
-      spotify: "https://open.spotify.com/album/2Q6i421JDlhwWwSLpl4nPN?si=GJqXGfN-R0eLufQAzUUX-Q",
-      youtube: "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M"
     },
     {
       title: "Melinoë",
@@ -571,8 +494,8 @@ Bara våra egna landskap — sedda med andra ögon.`,
       image: "assets/covers/The Other Door B-side 1200.jpg",
       section: "music",
       page: "theOtherDoor",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/3ozgYFZUgl1xQZ3W7onZpZ?si=-uoeEobhSWKGRCwFaGtCaQ",
+      youtube: "https://youtu.be/zKbzHj_xYwQ?list=OLAK5uy_nmoRhFJ_L52E5_kCib1ATyiOkoqfFguJA"
     },
     {
       title: "A Most Curious Man",
@@ -634,6 +557,10 @@ Riktningen börjar framträda.
 25 oktober 1991 — You Must Exist / I will rise, I remain
 
 22 maj 1992 - Summer Hymn / The Garden
+
+25 september 1992 — <b>Freyja</b> (SR-CD012)
+
+6 november 1992 - Rúnir ♦ Runes
 `
     },
 
@@ -4093,6 +4020,91 @@ Just a little more
     showPlaceholder: true
    }
 
+  },
+  ritual: {
+    invocation: {
+      menuTitle: "Åkallan",
+      title: "Åkallan",
+      text: `Allt svarar inte.
+
+Och allt skall inte heller svara.
+
+Åkallan handlar inte om kontroll, utan om riktning — att tala tydligt nog för att något skall kunna höra vem det är som talar, och varför.`
+    },
+    cycles: {
+      menuTitle: "Cykler",
+      title: "Cykler",
+      text: `Här hör årshjulet hemma, månens återkomster, mörkrets och gryningens skiften, sådant som aldrig står still men ändå alltid återvänder.
+
+Ritual utan cykel blir lätt bara estetik.
+
+Detta hör ihop med jord, väder, trädgård, sömn, kropp och tid.`
+    },
+    offerings: {
+      menuTitle: "Gåvor",
+      title: "Gåvor",
+      text: `En gåva är inte rekvisita.
+
+Den är ett erkännande:
+att relationen inte är ensidig,
+att plats, gudom, ande eller förfader inte bara är en idé man använder.
+
+Bröd, honung, mjöd, vatten, äpplen, blommor, rökelse, arbete, sång, tystnad — allt beror på sammanhanget.`
+    },
+    practice: {
+      menuTitle: "Praktik",
+      title: "Praktik",
+      text: `Det levande sitter oftast i praktiken, inte i orden om den.
+
+Vad som faktiskt görs.
+Vad som upprepas.
+Vad som fungerar.
+Vad som kräver disciplin snarare än pose.
+
+Här kan senare ritualfragment, enkla arbetssätt och återkommande handlingar samlas.`
+    }
+  },
+
+  nature: {
+    forest: {
+      menuTitle: "Skogen",
+      title: "Skogen",
+      text: `Skogen är inte kuliss.
+
+Den är kropp, skydd, hot, väder, minne och riktning.
+Den dämpar vissa saker och förstärker andra.
+
+Det finns skäl till att så mycket äldre kunskap söker sig dit.`
+    },
+    stone: {
+      menuTitle: "Sten",
+      title: "Sten",
+      text: `Sten håller kvar.
+
+Värme.
+Kyla.
+Spår.
+Tyngd.
+
+Där trä växer och förmultnar, ligger stenen kvar och ser på medan namn, språk och generationer byts ut.`
+    },
+    water: {
+      menuTitle: "Vatten",
+      title: "Vatten",
+      text: `Vatten renar, bär, döljer, löser upp och minns sin väg bättre än människor gör.
+
+Källor, regn, dimma, hav, bäckar och skålar med stilla vatten hör hemma här.`
+    },
+    night: {
+      menuTitle: "Natten",
+      title: "Natten",
+      text: `Natten tar bort överflöd.
+
+Kvar blir konturer, ljud, andhämtning, lukt av jord och det som känns närmare när annat dragits undan.
+
+Många saker blir inte större i nattens mörker.
+De blir bara svårare att ignorera.`
+    }
   },
 
   lore: {

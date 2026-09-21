@@ -12,11 +12,12 @@ Logo från start till in på (minst) 60-talet:
 
 ![[SereniaRecords logo small.png|240]]
 
-Logo under Maj-Lisa & Skramlet-åren 1978-1986 (minst):
+Logo under Maj-Lisa & Skramlet-åren 1978-1992:
 
 ![[Serenia Records 1978-1985 small.png|240]]
 
-
+Logo introducerad på Freyjas debutalbum hösten 1992:
+![[Serenia Records logo 1992-.png|320]]
 Artister/Band som släppts under **Serenia Records**:
 
 - [[Björn Andersson (artist)]]

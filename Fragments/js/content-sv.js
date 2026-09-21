@@ -9466,7 +9466,78 @@ Tá mé ag teacht`
     }
   ],
   showPlaceholder: false
+    },
+    imOut: {
+      menuTitle: "I'm out...",
+      title: "I'm out...",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/I'm out 1200.jpg",
+      size: "small",
+      caption: "Publicerad 21e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/2TBqt5BN9gaeWExrr1W9cp?si=fNtw1EeVTfWJTVvXPfN06Q" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/q-1tkMvO6N0" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Oh I’m stepping out the doorway, humming my own tune  
+Got a little bit of mischief rising with the moon  
+
+He’s busy in his world, and I’m free in mine  
+I slip into the evening like a borrowed shine  
+No secrets in my pocket, just a carefree stride  
+Following the rhythm where the wild things hide  
+
+If the neon’s calling  
+I won’t keep stalling  
+Got a heartbeat rushing  
+For a night worth crushing  
+
+ I’m out when my lover’s back at home  
+ Dancing like the city’s mine alone  
+ No trouble, just a taste of the skyline glow  
+ Letting my own little freedom show  
+
+I laugh with strangers, toast to nothing at all  
+Let the chatter spin around me like a glittering ball  
+No guilt in my glitter, no weight on my feet  
+Just a sweet little moment where the world feels sweet  
+
+If the night keeps ringing  
+I’ll keep on swinging  
+Every step is lighter  
+And the sky feels brighter  
+
+ I’m out when my lover’s back at home  
+ Dancing like the city’s mine alone  
+ No trouble, just a taste of the skyline glow  
+ Letting my own little freedom show  
+
+I’m not running, I’m not hiding  
+Just living in the spaces between timing  
+And when I walk back through that door  
+I’ll love him even more  
+
+ I’m out when my lover’s back at home  
+ Dancing like the city’s mine alone  
+ No trouble, just a taste of the skyline glow  
+ Letting my own little freedom show  
+
+Oh I’m stepping out smiling, just to let it go  
+And bring the sunrise home in my shadow’s glow  `
     }
+  ],
+  showPlaceholder: false
+    }
+
     /*
     ,
     dummy: {
