@@ -1,0 +1,2 @@
+
+"**Kanske är det största tomrummet i vår bild av förhistorien inte allt vi ännu inte har grävt fram, utan allt som aldrig kunde lämna några spår.**" // min CG summerande min tanke om historia ( bredarör )

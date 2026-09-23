@@ -195,6 +195,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "takeMeBack",
       spotify: "https://open.spotify.com/album/6Pg28j2lfJ54gk7HJzruZd?si=VmwQMm3PSMOdrMjujP6Bdg",
       youtube: "https://youtu.be/p5AKW9SS_VA?list=OLAK5uy_l7YzYjQtCHuLoRaI6FwoFzgF4LSOtaBpM"
+    },
+    {
+      title: "Come back to me",
+      image: "assets/covers/Come back to me 1200.jpg",
+      section: "music",
+      page: "comeBackToMe",
+      spotify: "",
+      youtube: ""
     },   
     {
       title: "Before we had names",
@@ -307,6 +315,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       layout: "cards",
       columns: 4,
       cards: [
+        {
+      title: "Still I sing",
+      image: "assets/covers/Still I sing 1200.jpg",
+      section: "music",
+      page: "stillISing",
+      spotify: "",
+      youtube: ""
+        },
         {
       title: "A bird on the sign",
       image: "assets/covers/A bird on the sign 3k.jpg",
@@ -572,9 +588,9 @@ Riktningen börjar framträda.
 
 19 mars 1993 - Fly, Gentle Dream / Aelathir
 
-17 september 1993 - Take Me Back / (odefinierad)
+17 september 1993 - Take Me Back / Come back to me
 
-18 februari 1994 - Amaranth Light / (odefinierad)
+18 februari 1994 - Amaranth Light / Still I sing
 
 25 mars 1994 - "Album 2"
 `
@@ -1075,6 +1091,25 @@ Like the tide that comes and goes
 Ooooh...
 In the rhythm of the old ways
 Ooooh...
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   comeBackToMe: {
+    title: "Come back to me",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Come back to me 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `
 `,
   showPlaceholder: false
       }
@@ -3661,6 +3696,23 @@ Strange angel
 Stay in the blue
 Stay in the blue
 `,
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   stillISing: {
+    title: "Still I sing",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Still I sing 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: ``
       }
     ],
     showPlaceholder: false
