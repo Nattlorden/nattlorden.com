@@ -173,6 +173,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/dKqv_bH8IWk?list=OLAK5uy_nw6HnDvictATsKaMGG5mH1rUFJYWMxCcs"
     },
     {
+      title: "The Clearing",
+      image: "assets/covers/todo.jpg",
+      section: "music",
+      page: "theClearing",
+      spotify: "https://open.spotify.com/track/7LC4UBNo5GNviSbQBXM01m?si=7f0e919075934c2e",
+      youtube: "https://youtu.be/27AE8CSvoUw"
+    },
+    {
       title: "Fly, gentle dream",
       image: "assets/covers/Fly, gentle dream 3k.jpg",
       section: "music",
@@ -185,8 +193,8 @@ Bara våra egna landskap — sedda med andra ögon.`,
       image: "assets/covers/Aelathir 1200.jpg",
       section: "music",
       page: "aelathir",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/album/6DjZnXoOLdNQSQykEIZPxT?si=3_hdxC_0RgWHaV-_ozSV6Q",
+      youtube: "https://youtu.be/1IDHmR9-MBE?list=OLAK5uy_mSsRXXgcdJPVV7UrAbhUfYhkLx6DxJ8P0"
     },
     {
       title: "Take me back",
@@ -201,8 +209,8 @@ Bara våra egna landskap — sedda med andra ögon.`,
       image: "assets/covers/Come back to me 1200.jpg",
       section: "music",
       page: "comeBackToMe",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/track/5mQMub0Z3XROCVnu5ux0ez?si=181128fb07c04b07",
+      youtube: "https://youtu.be/DqIGZoVjXXE?list=OLAK5uy_lrH8m1K-3LDNBQNm48GPEb62I9ZzuLLaE"
     },   
     {
       title: "Before we had names",
@@ -320,8 +328,8 @@ Bara våra egna landskap — sedda med andra ögon.`,
       image: "assets/covers/Still I sing 1200.jpg",
       section: "music",
       page: "stillISing",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/track/535xiFY1S0L9Q6lTDRjMl8?si=104e4f2e14bc4194",
+      youtube: "https://youtu.be/TFK0me6BX1w?list=OLAK5uy_msL1NkoNjDOnIuqfOWrWaQkBhW5VAyWJA"
         },
         {
       title: "A bird on the sign",
@@ -564,7 +572,687 @@ Bara våra egna landskap — sedda med andra ögon.`,
 
 Här kan kortare textstycken, ofullständiga refränger, rituella rader och musikaliska frön ligga kvar i sin råare form.`
     },
-    albums: {
+
+     albums: {
+      menuTitle: "Album",
+      title: "Album & singlar",
+      text: `När flera stycken börjar tala med varandra uppstår en större form. Det var inte tänkt mer än en eller ett par - om rösten skulle fungera i sin omtränade form.`,
+      blocks: [
+  {
+    type: "text",
+    content: "De första utgåvorna..."
+  },
+  {
+    type: "recordGrid",
+    columns: 2,
+    records: [
+      {
+          format: "single",
+          title: "I cannot say why",
+          artist: "Freyja",
+          year: "19 oktober 1990",
+          label: "Serenia Records",
+
+          front: "assets/covers/I cannot say why 3k.jpg",
+          back: "assets/covers/garden breathing b-side 1200.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "I cannot say why",
+                  duration: "4:31",
+                  page: "cannotSay",
+                  spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
+                  youtube: "https://youtu.be/_Jatog3dewk"                  
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "The Garden Breathing",
+                  duration: "4:30",
+                  page: "theGardenBreathing",
+                  spotify: "https://open.spotify.com/album/1e8nCJruSemtH4qEWgTPpf?si=T91rVJzjRlKvHjHIZtAk_A",
+                  youtube: "https://youtu.be/3t9BrQB1tkQ"                  
+                }
+              ]
+            }
+          ]
+        },
+      {
+          format: "single",
+          title: "Moonlight's Fall",
+          artist: "Freyja",
+          year: "15 februari 1991",
+          label: "Serenia Records",
+
+          front: "assets/covers/Moonlight's fall 3k.jpg",
+          back: "assets/covers/The Other Door B-side 1200.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Moonlight's Fall",
+                  duration: "5:09",
+                  page: "moonlightsFall",
+                  spotify: "https://open.spotify.com/album/3IN9ylzoHClU2WqVVTTtZn?si=38lVW1xaSfKzWyGk_xLSXg",
+                  youtube: "https://youtu.be/wKpxmb6z-M8?list=OLAK5uy_kWhV3KyDLkkQzWyd4-sLmOxwr36GVBUjc"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "The Other Door",
+                  duration: "4:53",
+                  page: "theOtherDoor",
+                  spotify: "https://open.spotify.com/album/3ozgYFZUgl1xQZ3W7onZpZ?si=-uoeEobhSWKGRCwFaGtCaQ",
+                  youtube: "https://youtu.be/zKbzHj_xYwQ?list=OLAK5uy_nmoRhFJ_L52E5_kCib1ATyiOkoqfFguJA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          format: "single",
+          title: "Walking into wonder",
+          artist: "Freyja",
+          year: "14 juni 1991",
+          label: "Serenia Records",
+
+          front: "assets/covers/Walking into wonder 3k.jpg",
+          back: "assets/covers/Run with the river.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Walking into wonder",
+                  duration: "4:49",
+                  page: "walkingIntoWonder",
+                  spotify: "https://open.spotify.com/album/0GwMuZGO8V6nM3MCqy8yPI?si=DO-YjYZxQIyTCHoKMgNiKA",
+                  youtube: "https://youtu.be/3sc2Ko3vs0k"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "Run with the river",
+                  duration: "4:22",
+                  page: "runWithTheRiver",
+                  spotify: "https://open.spotify.com/album/1gfdhcayKV8TLgltSH7GnC?si=YIqQ3TsISau1pB_5W5XTLQ",
+                  youtube: "https://youtu.be/2rL8IEUMhNs?list=OLAK5uy_lKWCiMTtnuQKpwOvyLPDHjlvk0mdfgz2o"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          format: "single",
+          title: "You must exist",
+          artist: "Freyja",
+          year: "25 oktober 1991",
+          label: "Serenia Records",
+
+          front: "assets/covers/You must exist 3k.jpg",
+          back: "assets/covers/I will rise, I remain 3k.jpg",
+     
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "You must exist",
+                  duration: "4:15",
+                  page: "youMustExist",
+                  spotify: "https://open.spotify.com/album/2sohteiWhyzrOEZF8GnMYA?si=Qj2Nm3mhSmmvyPWN9-H29Q",
+                  youtube: "https://youtu.be/Q4N1CnUNh8M?list=RDQ4N1CnUNh8M"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "I will rise, I remain",
+                  duration: "5:04",
+                  page: "iWillRise",
+                  spotify: "https://open.spotify.com/album/2Q6i421JDlhwWwSLpl4nPN?si=GJqXGfN-R0eLufQAzUUX-Q",
+      youtube: "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M"
+                }
+              ]
+            }
+          ]
+        }
+
+        /*
+
+        singelstubbe
+
+        {
+          format: "single",
+          title: "singeltitel",
+          artist: "Freyja",
+          year: "",
+          label: "Serenia Records",
+
+          front: "assets/covers/todo.jpg",
+          back: "assets/covers/todo.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            }
+          ]
+        }
+        */
+     ]
+  },
+  {
+    type: "divider"
+  },
+  {
+    type: "text",
+    content: "Första albumet"
+  },
+  
+{
+  type: "recordGrid",
+  columns: 1,
+
+  records: [
+    {
+      format: "album",
+      title: "Freyja",
+      artist: "",
+      year: "25 september 1992",
+      label: "Serenia Records",
+      catalogue: "SR-CD012",
+
+      // Albumets fram- och baksida
+      front: "assets/covers/Cover album 1 1200.jpg",
+      back: "assets/covers/Cover back album 1 1200.jpg",
+
+      // Länkar till hela albumet
+      spotify: "https://open.spotify.com/album/7nY9nGZhXe84DBwL54ggUS?si=YNaYdFgvQWKaVAwjRKeugw",
+      youtube: "https://youtube.com/playlist?list=OLAK5uy_n_lFMzWmPE-CbHPcd3yIuoM8LrIODbuG8&si=0SCzWcAoHm6KCglu",
+
+      sides: [
+        {
+          label: "A",
+
+          tracks: [
+            {
+              title: "Walking into wonder",
+              duration: "4:49",
+              page: "walkingIntoWonder",
+              spotify: "https://open.spotify.com/album/0GwMuZGO8V6nM3MCqy8yPI?si=DO-YjYZxQIyTCHoKMgNiKA",
+              youtube: "https://youtu.be/3sc2Ko3vs0k"
+            },
+            {
+              title: "Moonlight's Fall",
+              duration: "5:09",
+              page: "moonlightsFall",
+              spotify: "https://open.spotify.com/album/3IN9ylzoHClU2WqVVTTtZn?si=38lVW1xaSfKzWyGk_xLSXg",
+              youtube: "https://youtu.be/wKpxmb6z-M8?list=OLAK5uy_kWhV3KyDLkkQzWyd4-sLmOxwr36GVBUjc"
+            },
+            {
+              title: "I cannot say why",
+              duration: "4:31",
+              page: "cannotSay",
+              spotify: "https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=JBOvP_V1Ry-c3qBn6xO0Hw",
+              youtube: "https://youtu.be/_Jatog3dewk"                  
+            },
+            {
+                  title: "Run with the river",
+                  duration: "4:22",
+                  page: "runWithTheRiver",
+                  spotify: "https://open.spotify.com/album/1gfdhcayKV8TLgltSH7GnC?si=YIqQ3TsISau1pB_5W5XTLQ",
+                  youtube: "https://youtu.be/2rL8IEUMhNs?list=OLAK5uy_lKWCiMTtnuQKpwOvyLPDHjlvk0mdfgz2o"
+            },
+            {
+                  title: "You must exist",
+                  duration: "4:15",
+                  page: "youMustExist",
+                  spotify: "https://open.spotify.com/album/2sohteiWhyzrOEZF8GnMYA?si=Qj2Nm3mhSmmvyPWN9-H29Q",
+                  youtube: "https://youtu.be/Q4N1CnUNh8M?list=RDQ4N1CnUNh8M"
+            },
+            {
+                  title: "I will rise, I remain",
+                  duration: "5:04",
+                  page: "iWillRise",
+                  spotify: "https://open.spotify.com/album/2Q6i421JDlhwWwSLpl4nPN?si=GJqXGfN-R0eLufQAzUUX-Q",
+                  youtube: "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M"
+                }
+          ]
+        },
+
+        {
+          label: "B",
+
+          tracks: [
+            {
+              title: "The Returning Path - instrumental",
+              duration: "4:41",
+              page: "",
+              spotify: "https://open.spotify.com/track/7KcX63AnwnGUvi39waz95I?si=034fd4152c61425d",
+              youtube: "https://youtu.be/edY3JeMw49E"
+            },
+            {
+              title: "The Clearing",
+              duration: "5:24",
+              page: "theClearing",
+              spotify: "https://open.spotify.com/track/7LC4UBNo5GNviSbQBXM01m?si=7f0e919075934c2e",
+              youtube: "https://youtu.be/27AE8CSvoUw"
+            },
+            {
+              title: "The Garden",
+              duration: "4:16",
+              page: "theGarden",
+              spotify: "https://open.spotify.com/album/79IaTvBR1CQmV5wsCAqVNb?si=3RvUsIjYSmWaNjYobNRPig"
+            },
+            {
+              title: "River run",
+              duration: "5:03",
+              page: "riverRun",
+              spotify: "https://open.spotify.com/album/4ylxsbDBiTPJw1RJJkJ3jc?si=BhCYNm6pR7C6totpZZC89g",
+              youtube: "https://youtu.be/dKqv_bH8IWk?list=OLAK5uy_nw6HnDvictATsKaMGG5mH1rUFJYWMxCcs"
+            },
+            {
+              title: "A Most Curious Man",
+              duration: "2:44",
+              page: "mostCurious",
+              spotify: "https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=J8Q_x8NqQ4-vMNNOeMtubw",
+              youtube: "https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ"
+            },
+            {
+              title: "Runes",
+              duration: "4:44",
+              page: "runes",
+              spotify: "https://open.spotify.com/track/1BKDCaPdZHxYwjylrYpMnz?si=84e4b8253cfc41de",
+              youtube: "https://youtu.be/rir3bmqXcXQ"
+            },
+            {
+              title: "Summer Hymn",
+              duration: "5:19",
+              page: "summerHymn",
+              spotify: "https://open.spotify.com/album/4gUqrC2pzrNdm0nkGY95BP?si=Qsh49__1QtKh4XOVF8c_iw",
+              youtube: "https://youtu.be/q_P2nU-yCvw?list=OLAK5uy_mz46SWRHL6RdS-8EF53TQdKUBOI-KvLP4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+    type: "divider"
+  },
+  {
+    type: "recordGrid",
+    columns: 2,
+    records: [
+      {
+          format: "single",
+          title: "Rúnir ♦ Runes",
+          artist: "Freyja",
+          year: "6 november 1992",
+          label: "Serenia Records",
+
+          front: "assets/covers/Rúnir Runes 3K.jpg",
+          back: "assets/covers/todo.jpg",
+
+
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                    title: "Rúnir",
+                    duration: "5:12",
+                    page: "runes",
+      spotify: "https://open.spotify.com/track/1I2f9MjA4ryOLiZfdsMuhj?si=da47b76da7e8491d",
+      youtube: "https://youtu.be/lYXz8UpExRw?list=OLAK5uy_kOYlaRxd_QVEUuijkbmpotV70wcybH4oA"
+                },
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "Runes",
+                  duration: "4:",
+                  page: "runes",
+                  spotify: "https://open.spotify.com/track/7D7uKKOnvh0h2x0fs7JhnK?si=477c10723caa4c32",
+                  youtube: "https://youtu.be/vAiLb-n_T2s?list=OLAK5uy_kOYlaRxd_QVEUuijkbmpotV70wcybH4oA"
+                }
+              ]
+            }
+          ]
+        },
+      {
+          format: "single",
+          title: "Fly, gentle dream",
+          artist: "Freyja",
+          year: "19 mars 1993",
+          label: "Serenia Records",
+
+          front: "assets/covers/Fly, gentle dream 3k.jpg",
+          back: "assets/covers/Aelathir 1200.jpg",
+
+          
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Fly, gentle dream",
+                  duration: "4:00",
+                  page: "flyGentleDream",
+                  spotify: "https://open.spotify.com/album/6mCI3FfWvrq8zqa2XD0Ut0?si=XUxbo8tkTSGdS1p9BsLosQ",
+                  youtube: "https://youtu.be/CnCbXPD-s9g?list=OLAK5uy_kA8bJunvUw1V1Zdkh7ApQli24qYWMPFZk"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "Aelathir",
+                  duration: "5:32",
+                  page: "aelathir",
+                  spotify: "https://open.spotify.com/album/6DjZnXoOLdNQSQykEIZPxT?si=3_hdxC_0RgWHaV-_ozSV6Q",
+                  youtube: "https://youtu.be/1IDHmR9-MBE?list=OLAK5uy_mSsRXXgcdJPVV7UrAbhUfYhkLx6DxJ8P0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          format: "single",
+          title: "Take me back",
+          artist: "Freyja",
+          year: "17 september 1993",
+          label: "Serenia Records",
+
+          front: "assets/covers/Take me back 3k.jpg",
+          back: "assets/covers/Come back to me b-side 1200.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Take me back",
+                  duration: "5:01",
+                  page: "takeMeBack",
+                  spotify: "https://open.spotify.com/album/6Pg28j2lfJ54gk7HJzruZd?si=VmwQMm3PSMOdrMjujP6Bdg",
+                  youtube: "https://youtu.be/p5AKW9SS_VA?list=OLAK5uy_l7YzYjQtCHuLoRaI6FwoFzgF4LSOtaBpM"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "Come back to me",
+                  duration: "5:59",
+                  page: "comeBackToMe",
+                  spotify: "https://open.spotify.com/track/5mQMub0Z3XROCVnu5ux0ez?si=181128fb07c04b07",
+                  youtube: "https://youtu.be/DqIGZoVjXXE?list=OLAK5uy_lrH8m1K-3LDNBQNm48GPEb62I9ZzuLLaE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          format: "single",
+          title: "Amaranth light",
+          artist: "Freyja",
+          year: "18 februari 1994",
+          label: "Serenia Records",
+
+          front: "assets/covers/Amaranth 3k.jpg",
+          back: "assets/covers/Still I sing 1200.jpg",
+     
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Amaranth light",
+                  duration: "4:59",
+                  page: "amaranth",
+                  spotify: "https://open.spotify.com/album/1WaHwhcPQluxSErEMIQZXf?si=fP0QFDejTGyqcwgYl98EsQ",
+                  youtube: "https://youtu.be/oZauxce2TvE?list=OLAK5uy_m-syGx-3Y1nk9X-3s9Ly3506rbrRpozAM"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "Still I sing",
+                  duration: "5:18",
+                  page: "stillISing",
+                  spotify: "https://open.spotify.com/track/535xiFY1S0L9Q6lTDRjMl8?si=104e4f2e14bc4194",
+                  youtube: "https://youtu.be/TFK0me6BX1w?list=OLAK5uy_msL1NkoNjDOnIuqfOWrWaQkBhW5VAyWJA"
+                }
+              ]
+            }
+          ]
+        }
+
+        /*
+
+        singelstubbe
+
+        {
+          format: "single",
+          title: "singeltitel",
+          artist: "Freyja",
+          year: "",
+          label: "Serenia Records",
+
+          front: "assets/covers/todo.jpg",
+          back: "assets/covers/todo.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            }
+          ]
+        }
+        */
+     ]
+  },
+  {
+    type: "divider"
+  },
+  {
+  type: "recordGrid",
+  columns: 1,
+
+  records: [
+    {
+      format: "album",
+      title: "Paths less travelled",
+      artist: "Freyja",
+      year: "25 mars 1994",
+      label: "Serenia Records",
+      catalogue: "SR-CD0xx",
+
+      // Albumets fram- och baksida
+      front: "assets/covers/Paths less travelled 1200.jpg",
+      back: "assets/covers/Paths less travelled back side 1200.jpg",
+
+      // Länkar till hela albumet
+      spotify: "",
+      youtube: "",
+
+      sides: [
+        {
+          label: "A",
+
+          tracks: [
+            {
+                  title: "Fly, gentle dream",
+                  duration: "4:00",
+                  page: "flyGentleDream",
+                  spotify: "https://open.spotify.com/album/6mCI3FfWvrq8zqa2XD0Ut0?si=XUxbo8tkTSGdS1p9BsLosQ",
+                  youtube: "https://youtu.be/CnCbXPD-s9g?list=OLAK5uy_kA8bJunvUw1V1Zdkh7ApQli24qYWMPFZk"
+            },
+            {
+                  title: "Take me back",
+                  duration: "5:01",
+                  page: "takeMeBack",
+                  spotify: "https://open.spotify.com/album/6Pg28j2lfJ54gk7HJzruZd?si=VmwQMm3PSMOdrMjujP6Bdg",
+                  youtube: "https://youtu.be/p5AKW9SS_VA?list=OLAK5uy_l7YzYjQtCHuLoRaI6FwoFzgF4LSOtaBpM"
+            },
+            {
+              title: "Golden Leaves on Hither Shore",
+              duration: "6:39",
+              page: "goldenLeaves",
+              spotify: "",
+              youtube: ""
+            },
+            {
+                  title: "Stories in the Stone",
+                  duration: "6:25",
+                  page: "storiesInTheStone",
+                  spotify: "",
+                  youtube: ""
+            },
+            {
+                  title: "Morning / A Vision",
+                  duration: "5:34",
+                  page: "morningAVision",
+                  spotify: "",
+                  youtube: ""
+            }
+          ]
+        },
+
+        {
+          label: "B",
+
+          tracks: [
+            {
+              title: "The Returning Path (Revisited)",
+              duration: "5:35",
+              page: "returningPathRevisited",
+              spotify: "",
+              youtube: ""
+            },
+            {
+              title: "On the Edge of Time",
+              duration: "5:27",
+              page: "onTheEdgeOfTime",
+              spotify: "",
+              youtube: ""
+            },
+             {
+              title: "After the Rain",
+              duration: "5:44",
+              page: "afterTheRain",
+              spotify: "",
+              youtube: ""
+            },
+            {
+                  title: "Amaranth light",
+                  duration: "4:59",
+                  page: "amaranth",
+                  spotify: "https://open.spotify.com/album/1WaHwhcPQluxSErEMIQZXf?si=fP0QFDejTGyqcwgYl98EsQ",
+                  youtube: "https://youtu.be/oZauxce2TvE?list=OLAK5uy_m-syGx-3Y1nk9X-3s9Ly3506rbrRpozAM"
+            },
+           
+            {
+              title: "Lantern Man",
+              duration: "4:49",
+              page: "lanternMan",
+              spotify: "",
+              youtube: ""
+            },
+            {
+              title: "Wyrd Is Worthy",
+              duration: "5:33",
+              page: "wyrdIsWorthy",
+              spotify: "",
+              youtube: ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+    type: "divider"
+  },
+],
+  showPlaceholder: false
+  
+
+    },
+    
+/*
+
+    
+    albums_old: {
       menuTitle: "Album",
       title: "Album & singlar",
       text: `När flera stycken börjar tala med varandra uppstår en större form. Det var inte tänkt mer än en eller ett par - om rösten skulle fungera i sin omtränade form.
@@ -594,7 +1282,7 @@ Riktningen börjar framträda.
 
 25 mars 1994 - "Album 2"
 `
-    },
+    },*/
 
     runWithTheRiver: {
     title: "Run with the river",
@@ -1348,6 +2036,108 @@ wind on the lea
 summer within me
 abide in me
 
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   theClearing: {
+    title: "The Clearing",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Cover album 1 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I found a shelter in the trees
+three walls of timber, roofed with pine
+Perhaps some scouts had built it here
+and left it to the rain and time
+
+There was an old black ring of stones
+and ash from someone else's fire
+I gathered branches from the ground
+and stayed until the flame caught higher
+
+I ate my supper by the light
+and watched the little fire burn
+The forest stood so close around
+there seemed nowhere for night to turn
+
+A cup, a coat, my sleeping bag
+my boots left drying by the wall
+The kind of things that ask for nothing
+the kind of night that needs no more
+
+ And beyond the trees
+ the clearing waited
+ a little piece of open ground
+
+ Beyond the trees
+ the clearing waited
+ without a light
+ without a sound
+
+The fire settled into red
+I fed it once and let it be
+Then walked beyond the shelter's edge
+where frost was forming on the green
+
+I only meant to stretch my legs
+to feel how cold the night had grown
+
+Then I looked up
+
+and stood there
+
+alone
+
+I had forgotten there were stars
+so many stars could still be seen
+Above that small and ragged field
+between the shoulders of the trees
+
+No town, no window, passing car
+no other fire along the way
+Just all that distance overhead
+and nothing I was meant to say
+
+ And there I stood
+ inside the clearing
+ the dark trees gathered all around
+
+ And there I stood
+ inside the clearing
+ beneath a sky
+ without a sound
+
+I don't remember what I thought
+or if I thought of anything
+
+The fire behind me
+the stars above me
+
+and somewhere in the dark
+a bird moved in its sleep
+
+I stayed until my hands were cold
+then went back underneath the roof
+and watched the last flame fold itself
+into the stones and disappear
+
+I pulled the sleeping bag around me
+with the forest at my back
+
+and through the doorway
+past the clearing
+
+one star remained
+between the black
 `,
   showPlaceholder: false
       }

@@ -72,7 +72,7 @@ function canAccessPage(page) {
   }
 
   /*
-    Äldre Freyja-modell:
+    �ldre Freyja-modell:
     hidden: "hexAccess"
   */
   if (typeof page.hidden === "string") {
@@ -306,166 +306,6 @@ function renderCardPage(main, page) {
   main.innerHTML = html;
 }
 
-
-function renderCardGridBlock(block) {
-  const columnsClass = block.columns === 3
-    ? "cols-3"
-    : "cols-4";
-
-  let html = `<div class="card-grid ${columnsClass}">`;
-
-  (block.cards || []).forEach(card => {
-    const section = card.section || "music";
-    const href = `#${encodeURIComponent(section)}/${encodeURIComponent(card.page)}`;
-
-    html += `
-      <div class="music-card">
-        <a href="${href}"
-           class="music-card-image"
-           data-section="${section}"
-           data-page="${card.page}">
-          <img src="${card.image}" alt="${card.title}">
-        </a>
-
-        <div class="music-card-title">
-          <a href="${href}"
-             data-section="${section}"
-             data-page="${card.page}">
-            ${card.title}
-          </a>
-        </div>
-
-        <div class="music-card-links">
-          ${renderMusicLinks(card)}
-        </div>
-      </div>
-    `;
-  });
-
-  return html + `</div>`;
-}
-
-
-function renderMusicLinks(item) {
-  const links = [];
-
-  if (item.spotify) {
-    links.push(
-      `<a href="${item.spotify}"
-          target="_blank"
-          rel="noopener noreferrer">Spotify</a>`
-    );
-  }
-
-  if (item.youtube) {
-    links.push(
-      `<a href="${item.youtube}"
-          target="_blank"
-          rel="noopener noreferrer">YouTube</a>`
-    );
-  }
-
-  return links.join("");
-}
-
-
-function renderRecordGrid(block) {
-  const columnsClass = block.columns === 1
-    ? "record-cols-1"
-    : "record-cols-2";
-
-  let html = `<div class="record-grid ${columnsClass}">`;
-
-  (block.records || []).forEach(record => {
-    html += `
-      <article class="record-card">
-
-        <div class="record-images">
-          <img src="${record.front}"
-               alt="${record.title} - front">
-
-          <img src="${record.back}"
-               alt="${record.title} - back">
-        </div>
-
-        <div class="record-heading">
-          <h3>${record.title}</h3>
-
-          <div class="record-meta">
-            ${[
-              record.artist,
-              record.year,
-              record.label,
-              record.catalogue
-            ].filter(Boolean).join(" · ")}
-          </div>
-
-          <div class="record-links">
-            ${renderMusicLinks(record)}
-          </div>
-        </div>
-
-        <div class="record-sides">
-    `;
-
-    (record.sides || []).forEach(side => {
-      html += `
-        <div class="record-side">
-          <h4>Side ${side.label}</h4>
-      `;
-
-      (side.tracks || []).forEach((track, index) => {
-        const number = `${side.label}${index + 1}`;
-        const section = track.section || "music";
-
-        const title = track.page
-  ? `<a class="record-track-title-link"
-        href="#${encodeURIComponent(section)}/${encodeURIComponent(track.page)}"
-        data-section="${section}"
-        data-page="${track.page}">
-       ${track.title}
-     </a>`
-  : `<span class="record-track-title-plain">
-       ${track.title}
-     </span>`;
-        /*const title = track.page
-          ? `<a href="#${encodeURIComponent(section)}/${encodeURIComponent(track.page)}"
-                data-section="${section}"
-                data-page="${track.page}">
-               ${track.title}
-             </a>`
-          : track.title;*/
-
-
-        html += `
-          <div class="record-track">
-            <div class="record-track-heading">
-              <span class="track-number">${number}</span>
-              <span class="track-title">${title}</span>
-              ${track.duration
-                ? `<span class="track-duration">${track.duration}</span>`
-                : ""}
-            </div>
-
-            <div class="record-track-links">
-              ${renderMusicLinks(track)}
-            </div>
-          </div>
-        `;
-      });
-
-      html += `</div>`;
-    });
-
-    html += `
-        </div>
-      </article>
-    `;
-  });
-
-  return html + `</div>`;
-}
-
 function renderContent() {
   const main = document.getElementById("content");
 
@@ -524,14 +364,6 @@ function renderContent() {
               : ""}
           </figure>
         `;
-      }
-
-      if (block.type === "cardGrid") {
-        html += renderCardGridBlock(block);
-      }
-
-      if (block.type === "recordGrid") {
-        html += renderRecordGrid(block);
       }
 
       if (block.type === "divider") {
