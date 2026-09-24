@@ -1109,8 +1109,60 @@ Ooooh...
       },
       {
         type: "text",
-        content: `
-`,
+        content: `I stand before the quiet night
+With trembling breath and open sky
+A single prayer upon my lips
+That love will hear me cry
+
+Every step I take alone
+Echoes through an empty space
+I trace the memory of your touch
+Across my heart’s embrace
+Time has carved its shadow deep
+Yet hope refuses to release
+
+If you are the wind that moves the sea
+Then carry my voice where you may be
+
+ Come back to me, through the dark and the distance
+ Over the mountains and wide restless seas
+ I will be here with a flame that is fearless
+ Calling your name on the wings of belief
+ Come back to me
+
+In every star that pierces night
+I search for signs of you
+In every dawn’s awakening light
+My faith is born anew
+Though silence stretches far and wide
+Your melody lives on inside
+
+If you can hear this fragile plea
+Let it be a path that leads you to me
+
+ Come back to me, through the dark and the distance
+ Over the valleys where lonely winds cry
+ I will be here with a heart that is constant
+ Lifting its song to the edge of the sky
+ Come back to me
+
+Across the water, across the years
+Beyond the sorrow, beyond the tears
+No chain of time can bind what’s true
+My soul still reaches out for you
+
+ Come back to me, let the heavens awaken
+ Open the gates that keep us apart
+ I will be here, every promise unbroken
+ Carving your name into my heart
+ Come back to me, through the dark and the distance
+ Over the mountains and wide restless seas
+ I will be here with a flame that is fearless
+ Calling your name
+ Come back to me
+
+I stand before the quiet night
+Still holding on to light`,
   showPlaceholder: false
       }
     ],
@@ -3712,7 +3764,94 @@ Stay in the blue
       },
       {
         type: "text",
-        content: ``
+        content: `The dawn breaks cold on Stikkel-sta fields
+I raise my voice where the battle still yields
+
+I sang the old Bjarkamál at first light
+Roused the hird while the dawn burned white
+Gold from my king still warm on my hand
+I swore with the others to fall where we stand
+Then an arrow found me as the banner sank low
+Iron deep by my heart — yet I would not go
+
+Pale as the moon, but the old song remains
+Blood on my hands, fire in my veins
+
+ The King has fed us well
+ Fat at the roots of my heart
+ I pull the barbed iron free
+ Red and white - I'm torn apart
+
+ Still I sing
+ Still I sing
+ Though the wall of fate has come
+ My final verse will outlive the sun
+
+Still I sing
+Still I sing
+My final verse will outlive the sun
+
+She brings me broth; I turn it away
+No healer will bargain me one more day
+Her trembling tongs cannot loosen the steel
+So give them to me — let my own hand reveal
+I wrench out the iron and hold it to light
+Red blood, white flesh in the cold morning bright
+
+No one need grieve for these wounds of mine
+While breath remains, I will answer in rhyme
+
+ The King has fed us well
+ Fat at the roots of my heart
+ I pull the barbed iron free
+ Red and white - I'm torn apart
+
+ Still I sing
+ Still I sing
+ Though the wall of fate has come
+ My final verse will outlive the sun
+
+Still I sing
+Still I sing
+My final verse will outlive the sun
+
+The woman asks why my face has gone pale
+What color should bloom where the arrows prevail?
+Ice-cold iron flew into my side
+Hard by the heart does the dark weapon hide
+But death must wait while a word remains
+One final measure
+One final name
+
+Let the field remember
+Let the fallen hear
+Let the king who fed us
+Know I kept him near
+
+Still I sing
+Still I sing
+
+ The King has fed us well
+ Fat at the roots of my heart
+ I pull the barbed iron free
+ Red and white - I'm torn apart
+
+ Still I sing
+ Still I sing
+ Though the wall of fate has come
+ My final verse will outlive the sun
+
+Still I sing
+Still I sing
+My final verse will outlive the sun
+
+The song is done
+
+Still I sing
+
+The skald is gone
+
+The song lives on`
       }
     ],
     showPlaceholder: false

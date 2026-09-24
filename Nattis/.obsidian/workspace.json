@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Citat.md",
+                "file": "länge glömt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Citat"
+              "title": "länge glömt"
             }
           }
         ],
@@ -145,7 +145,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Filutforskare"
             }
           },
           {
@@ -275,19 +275,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Öppna snabbväxlare": false,
+      "graph:Öppna grafvy": false,
+      "canvas:Skapa ny canvas": false,
+      "daily-notes:Öppna dagens anteckning": false,
+      "templates:Infoga mall": false,
+      "command-palette:Öppna kommandopalett": false,
+      "bases:Skapa ny bas": false
     }
   },
   "active": "3e370359e51f025d",
   "lastOpenFiles": [
-    "Freyja (artist).md",
     "Citat.md",
+    "Freyja (artist).md",
     "Still I sing.md",
     "Stories in the stone.md",
     "Mailýsa 'Maj-Lisa' Freyja.md",
