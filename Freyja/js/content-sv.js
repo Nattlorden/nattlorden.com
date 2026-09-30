@@ -174,7 +174,7 @@ Bara våra egna landskap — sedda med andra ögon.`,
     },
     {
       title: "The Clearing",
-      image: "assets/covers/todo.jpg",
+      image: "assets/covers/Cover album 1 1200.jpg",
       section: "music",
       page: "theClearing",
       spotify: "https://open.spotify.com/track/7LC4UBNo5GNviSbQBXM01m?si=7f0e919075934c2e",
@@ -206,12 +206,28 @@ Bara våra egna landskap — sedda med andra ögon.`,
     },
     {
       title: "Come back to me",
-      image: "assets/covers/Come back to me 1200.jpg",
+      image: "assets/covers/Come back to me alt front 1200.jpg",
       section: "music",
       page: "comeBackToMe",
       spotify: "https://open.spotify.com/track/5mQMub0Z3XROCVnu5ux0ez?si=181128fb07c04b07",
       youtube: "https://youtu.be/DqIGZoVjXXE?list=OLAK5uy_lrH8m1K-3LDNBQNm48GPEb62I9ZzuLLaE"
-    },   
+    },
+    {
+      title: "Golden Leaves on Hither Shore",
+      image: "assets/covers/Cover album 1 1200.jpg",
+      section: "music",
+      page: "goldenLeaves",
+      spotify: "https://open.spotify.com/track/76fmbuxedpZOZzie8d2jAy?si=5d0614e3cedd4379",
+      youtube: "https://youtu.be/5FIYA241YO0"
+    },
+    {
+      title: "The Returning Path (Revisited)",
+      image: "assets/covers/Cover album 1 1200.jpg",
+      section: "music",
+      page: "theReturningPath",
+      spotify: "https://open.spotify.com/track/78aKxmcjFerMP5RYatetw5?si=2c9cb68d1798464b",
+      youtube: "https://youtu.be/avFjuD-xwYQ"
+    },
     {
       title: "Before we had names",
       image: "assets/covers/Before we had names 3k cold.jpg",
@@ -324,30 +340,38 @@ Bara våra egna landskap — sedda med andra ögon.`,
       columns: 4,
       cards: [
         {
-      title: "Still I sing",
-      image: "assets/covers/Still I sing 1200.jpg",
-      section: "music",
-      page: "stillISing",
-      spotify: "https://open.spotify.com/track/535xiFY1S0L9Q6lTDRjMl8?si=104e4f2e14bc4194",
-      youtube: "https://youtu.be/TFK0me6BX1w?list=OLAK5uy_msL1NkoNjDOnIuqfOWrWaQkBhW5VAyWJA"
+          title: "Still I sing",
+          image: "assets/covers/Still I sing 1200.jpg",
+          section: "music",
+          page: "stillISing",
+          spotify: "https://open.spotify.com/track/535xiFY1S0L9Q6lTDRjMl8?si=104e4f2e14bc4194",
+          youtube: "https://youtu.be/TFK0me6BX1w?list=OLAK5uy_msL1NkoNjDOnIuqfOWrWaQkBhW5VAyWJA"
         },
         {
-      title: "A bird on the sign",
-      image: "assets/covers/A bird on the sign 3k.jpg",
-      section: "music",
-      page: "aBirdOnTheSign",
-      spotify: "https://open.spotify.com/album/7uEDzplg1p6Xx2FTt4nF0J?si=alO5rOJ0SH-7mrlklpguIA",
-      youtube: "https://youtu.be/mRSBCqWoVig?list=OLAK5uy_kgR62Lmk164DjjbqYOdbA13lW4fyVAxfA"
-    },
-    {
-      title: "Back to the roots",
-      image: "assets/covers/Back to the roots 3k 4.jpg",
-      section: "music",
-      page: "backToTheRoots",
-      spotify: "https://open.spotify.com/album/4fBEDSTSDVxWTgp4vebsDz?si=ARANwYOmSFu3Gmh1V3PegA",
-      youtube: "https://youtu.be/_YmzSx_RAdA?list=OLAK5uy_mDild3CtL_g2k5ravs3BgAmnKk1TzvSZQ"
-    },
-    {
+          title: "Stories in the Stone",
+          image: "assets/covers/Stories of the stone 1200.jpg",
+          section: "music",
+          page: "storiesInTheStone",
+          spotify: "https://open.spotify.com/track/0R1FsbtplJW23meahf1Gif?si=b3cda5e7c79c4a5a",
+          youtube: "https://youtu.be/8qs3hQks-aI"
+        },
+        {
+          title: "A bird on the sign",
+          image: "assets/covers/A bird on the sign 3k.jpg",
+          section: "music",
+          page: "aBirdOnTheSign",
+          spotify: "https://open.spotify.com/album/7uEDzplg1p6Xx2FTt4nF0J?si=alO5rOJ0SH-7mrlklpguIA",
+          youtube: "https://youtu.be/mRSBCqWoVig?list=OLAK5uy_kgR62Lmk164DjjbqYOdbA13lW4fyVAxfA"
+        },
+        {
+          title: "Back to the roots",
+          image: "assets/covers/Back to the roots 3k 4.jpg",
+          section: "music",
+          page: "backToTheRoots",
+          spotify: "https://open.spotify.com/album/4fBEDSTSDVxWTgp4vebsDz?si=ARANwYOmSFu3Gmh1V3PegA",
+          youtube: "https://youtu.be/_YmzSx_RAdA?list=OLAK5uy_mDild3CtL_g2k5ravs3BgAmnKk1TzvSZQ"
+        },
+        {
       title: "Death is nothing at all",
       image: "assets/covers/Death is nothing at all 3k.jpg",
       section: "music",
@@ -536,6 +560,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "mostCurious",
       spotify: "https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=J8Q_x8NqQ4-vMNNOeMtubw",
       youtube: "https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ"
+    },
+    {
+      title: "Morning / A Vision",
+      image: "assets/covers/todo.jpg",
+      section: "music",
+      page: "morningAVision",
+      spotify: "https://open.spotify.com/track/0J9eH5VbUW9KHEMp8PAhUb?si=b573ca2483864a80",
+      youtube: "https://youtu.be/yFJGVZeX05Y"
     },
     {
       title: "Laughing Face / Broken Core",
@@ -1134,7 +1166,7 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
       artist: "Freyja",
       year: "25 mars 1994",
       label: "Serenia Records",
-      catalogue: "SR-CD0xx",
+      catalogue: "SR-CD037",
 
       // Albumets fram- och baksida
       front: "assets/covers/Paths less travelled 1200.jpg",
@@ -1167,22 +1199,22 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
               title: "Golden Leaves on Hither Shore",
               duration: "6:39",
               page: "goldenLeaves",
-              spotify: "",
-              youtube: ""
+              spotify: "https://open.spotify.com/track/76fmbuxedpZOZzie8d2jAy?si=5d0614e3cedd4379",
+              youtube: "https://youtu.be/5FIYA241YO0"
             },
             {
                   title: "Stories in the Stone",
                   duration: "6:25",
                   page: "storiesInTheStone",
-                  spotify: "",
-                  youtube: ""
+                  spotify: "https://open.spotify.com/track/0R1FsbtplJW23meahf1Gif?si=b3cda5e7c79c4a5a",
+                  youtube: "https://youtu.be/8qs3hQks-aI"
             },
             {
                   title: "Morning / A Vision",
                   duration: "5:34",
                   page: "morningAVision",
-                  spotify: "",
-                  youtube: ""
+                  spotify: "https://open.spotify.com/track/0J9eH5VbUW9KHEMp8PAhUb?si=b573ca2483864a80",
+                  youtube: "https://youtu.be/yFJGVZeX05Y"
             }
           ]
         },
@@ -1194,9 +1226,9 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
               title: "The Returning Path (Revisited)",
               duration: "5:35",
-              page: "returningPathRevisited",
-              spotify: "",
-              youtube: ""
+              page: "theReturningPath",
+              spotify: "https://open.spotify.com/track/78aKxmcjFerMP5RYatetw5?si=2c9cb68d1798464b",
+              youtube: "https://youtu.be/avFjuD-xwYQ"
             },
             {
               title: "On the Edge of Time",
@@ -1233,6 +1265,283 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
               page: "wyrdIsWorthy",
               spotify: "",
               youtube: ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+    type: "divider"
+  },
+  {
+    type: "recordGrid",
+    columns: 2,
+    records: [
+      {
+          format: "single",
+          title: "Cold as Truth",
+          artist: "Freyja",
+          year: "16 september 1994",
+          label: "Serenia Records",
+
+          front: "assets/covers/Cold as truth 3k.jpg",
+          back: "assets/covers/She who turns 3k.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Cold as truth",
+                  duration: "4:36",
+                  page: "coldAsTruth",
+                  spotify: "https://open.spotify.com/album/2HTi3AX4uVmexsiuJ5oBqL?si=cLjGjj5DQcWZjCzfYMG8KA",
+                  youtube: "https://youtu.be/s4s4gtnGilE?list=OLAK5uy_m5TOlz8MFhQLm8HAxqQanx2I5EC-mckUw"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "She Who Turns the Threshold",
+                  duration: "4:21",
+                  page: "sheWhoTurns",
+                  spotify: "https://open.spotify.com/album/2HWttYODbAIsOQaK0G2UAC?si=6iPADskwRQaBI16w0qb14Q",
+                  youtube: "https://youtu.be/j1XmYdNKDmw"
+                }
+              ]
+            }
+          ]
+        },
+      {
+          format: "single",
+          title: "Undertow",
+          artist: "Freyja",
+          year: "17 februari 1995",
+          label: "Serenia Records",
+
+          front: "assets/covers/Undertow 3k.jpg",
+          back: "assets/covers/One with Mother Earth 3k.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Undertow",
+                  duration: "4:59",
+                  page: "undertow",
+                  spotify: "https://open.spotify.com/album/42CE2mtJXaW9DhnJBOeIh7?si=wkFuDypQQJWJhMkOSZlWgg",
+                  youtube: "https://youtu.be/zxWwhV_mSE0?list=OLAK5uy_k7oBo15yEM_q7joDCEipMB1yWAuJnltv4"
+                 }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "One with Mother Earth",
+                  duration: "5:43",
+                  page: "motherEarth",
+                  spotify: "https://open.spotify.com/album/10ziE18fznizhKQ1F6uMOq?si=3Djk0WE3S86ioGSSx_0EZw",
+                  youtube: "https://youtu.be/ABZEO2O8Gyc?list=OLAK5uy_mQnPxUwgspgcjp7UTL4qMFyCsnrlpkVu4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          format: "single",
+          title: "Half-Hangit Maggie",
+          artist: "Freyja",
+          year: "31 mars 1995",
+          label: "Serenia Records",
+
+          front: "assets/covers/Half-hangit Maggie 1200.jpg",
+          back: "assets/covers/The colours I would wear b-side 1200.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Half-Hangit Maggie",
+                  duration: "3:45",
+                  page: "halfHangitMaggie",
+                  spotify: "https://open.spotify.com/track/3oZPSMHseG7pOjCjPB1EsG?si=7b146994898f4a16",
+                  youtube: "https://youtu.be/FCn2MFM-zmI?list=OLAK5uy_nAedIVUD2rRY3yrf7Fz7nu36-CqJxcw3I"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "The colours I would wear",
+                  duration: "5:24",
+                  page: "theColoursIWouldWear",
+                  spotify: "https://open.spotify.com/track/4WrmUyGHHF1dsKSH3fv0V7?si=b3ca5f69d26e417f",
+                  youtube: "https://youtu.be/ncv3RvaT85Q?list=OLAK5uy_lzWH7mEcHbn6Flnmdmgpa8pPk8E7LSsaU"
+                }
+              ]
+            }
+          ]
+        },
+        
+
+        /*
+
+        singelstubbe
+
+        {
+          format: "single",
+          title: "singeltitel",
+          artist: "Freyja",
+          year: "",
+          label: "Serenia Records",
+
+          front: "assets/covers/todo.jpg",
+          back: "assets/covers/todo.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            }
+          ]
+        }
+        */
+     ]
+  },
+  {
+    type: "divider"
+  },
+  {
+  type: "recordGrid",
+  columns: 1,
+
+  records: [
+    {
+      format: "album",
+      title: "The Knight and the Forest Maid",
+      artist: "Freyja",
+      year: "19 maj 1995",
+      label: "Serenia Records",
+      catalogue: "SR-CD050",
+
+      // Albumets fram- och baksida
+      front: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+      back: "assets/covers/The Knight and the Forest Maid back side 1200.jpg",
+
+      // Länkar till hela albumet
+      spotify: "",
+      youtube: "",
+
+      sides: [
+        {
+          label: "A",
+
+          tracks: [
+            {
+                  title: "One with Mother Earth",
+                  duration: "5:43",
+                  page: "motherEarth",
+                  spotify: "https://open.spotify.com/album/10ziE18fznizhKQ1F6uMOq?si=3Djk0WE3S86ioGSSx_0EZw",
+                  youtube: "https://youtu.be/ABZEO2O8Gyc?list=OLAK5uy_mQnPxUwgspgcjp7UTL4qMFyCsnrlpkVu4"
+            },
+            {
+                  title: "Cold as truth",
+                  duration: "4:36",
+                  page: "coldAsTruth",
+                  spotify: "https://open.spotify.com/album/2HTi3AX4uVmexsiuJ5oBqL?si=cLjGjj5DQcWZjCzfYMG8KA",
+                  youtube: "https://youtu.be/s4s4gtnGilE?list=OLAK5uy_m5TOlz8MFhQLm8HAxqQanx2I5EC-mckUw"
+            },
+            {
+              title: "The Knight and the Forest Maid",
+              duration: "4:18",
+              page: "page",
+              spotify: "",
+              youtube: ""
+            },
+            {
+                  title: "Half-Hangit Maggie",
+                  duration: "3:45",
+                  page: "halfHangitMaggie",
+                  spotify: "https://open.spotify.com/track/3oZPSMHseG7pOjCjPB1EsG?si=7b146994898f4a16",
+                  youtube: "https://youtu.be/FCn2MFM-zmI?list=OLAK5uy_nAedIVUD2rRY3yrf7Fz7nu36-CqJxcw3I"
+            },
+            {
+                  title: "Beneath the Rowan",
+                  duration: "6:32",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+            }
+          ]
+        },
+
+        {
+          label: "B",
+
+          tracks: [
+            {
+              title: "Follow the Hidden Fire",
+              duration: "4:49",
+              page: "page",
+              spotify: "",
+              youtube: ""
+            },
+            {
+              title: "My love will not die",
+              duration: "5:28",
+              page: "page",
+              spotify: "",
+              youtube: ""
+            },
+             {
+                  title: "Undertow",
+                  duration: "4:59",
+                  page: "undertow",
+                  spotify: "https://open.spotify.com/album/42CE2mtJXaW9DhnJBOeIh7?si=wkFuDypQQJWJhMkOSZlWgg",
+                  youtube: "https://youtu.be/zxWwhV_mSE0?list=OLAK5uy_k7oBo15yEM_q7joDCEipMB1yWAuJnltv4"
+            },
+            {
+                  title: "Half divine and half declined",
+                  duration: "4:17",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+            },
+           
+            {
+                  title: "She Who Turns the Threshold",
+                  duration: "4:21",
+                  page: "sheWhoTurns",
+                  spotify: "https://open.spotify.com/album/2HWttYODbAIsOQaK0G2UAC?si=6iPADskwRQaBI16w0qb14Q",
+                  youtube: "https://youtu.be/j1XmYdNKDmw"
             }
           ]
         }
@@ -1280,7 +1589,37 @@ Riktningen börjar framträda.
 
 18 februari 1994 - Amaranth Light / Still I sing
 
-25 mars 1994 - "Album 2"
+25 mars 1994 - Paths less travelled
+
+16 september 1994 Cold as Truth / She Who Turns the Threshold
+
+17 februari 1995 Undertow / One with Mother Earth
+
+31 mars 1995 Half-Hangit Maggie / The colour I would wear
+
+
+19 maj 1993 "Album 3"
+
+01 One with Mother Earth
+02 Cold as Truth
+03 The Knight and the Forest Maid
+04 Half-Hangit Maggie
+05 Beneath the Rowan
+06 Follow the Hidden Fire
+07 My Love Will Not Die
+08 Undertow
+09 Half Divine and Half Declined
+10 She Who Turns the Threshold
+
+
+
+
+15 mars 1996	Melinoë / He Promised the Dawn
+14 februari 1997	Crown of the Unquiet / Transmutation
+16 maj 1997	Come Through the Veil / The Haunted Palace
+20 juni 1997	Voices from Beyond
+
+
 `
     },*/
 
@@ -1336,6 +1675,101 @@ I am carried on the tide
 
 Ooooh, into the open air  
 Ooooh, I am already there`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   summerHymn: {
+    title: "Summer Hymn",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Summer hymn 3k.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `At break of day the wild earth sighs
+and silver light on meadow lies
+A tender wind through ash and pine
+unseals the summer, fair and fine
+
+Across the field the gold doth stream
+the lake lies still in grace
+By birch and fir and flowering green
+my heart hath found its place
+Here the lark lifts up her simple prayer
+here peace is moving in the air
+And every path that leads me home
+grows bright when summer waketh
+
+All I cherish lingers here
+in wind and leaf and sky
+The kindly earth beneath my feet
+bears me as days go by
+
+ O gentle summer, bright and fair
+ thou livest in my blood
+ In whispering leaf and shining mere
+ in forest, field, and flood
+ O gentle summer, near and free
+ thou singest where I stand
+ As in my own dear dwelling place
+ this green and kindly land
+
+Sun upon water
+wind on the lea
+summer within me
+wild and free
+
+Through heath and hollow, ridge and glen
+the long day wanders slow
+The clover keeps the wandering bee
+where mildest breezes blow
+No throne, no creed, no proud command
+but soil and light on open land
+And in the simple, steadfast hour
+the world grows wide and holy
+
+All I dreamed is drawn so near
+in evening’s cooling breath
+When the long blue shadows gather
+the summer lingereth
+
+ O gentle summer, bright and fair
+ thou livest in my blood
+ In whispering leaf and shining mere
+ in forest, field, and flood
+ O gentle summer, near and free
+ thou singest where I stand
+ As in my own dear dwelling place
+ this green and kindly land
+
+When dusk lays down her blue upon the water
+and heaven drinks the ember of the sun
+I know the plain and humble thing is richest
+where leaf and wind and living heart are one
+
+ O gentle summer, bright and fair
+ thou livest in my blood
+ In whispering leaf and shining mere
+ in forest, field, and flood
+ O gentle summer, near and free
+ thou singest where I stand
+ As in my own dear dwelling place
+ this green and kindly land
+ O gentle summer, tarry still
+ in all that grows anew
+
+Sun upon water
+wind on the lea
+summer within me
+abide in me
+
+`,
   showPlaceholder: false
       }
     ],
@@ -1792,7 +2226,7 @@ Ooooh...
     blocks: [
       {
         type: "image",
-        src: "assets/covers/Come back to me 1200.jpg",
+        src: "assets/covers/Come back to me alt front 1200.jpg",
         size: "small"
       },
       {
@@ -1851,6 +2285,192 @@ My soul still reaches out for you
 
 I stand before the quiet night
 Still holding on to light`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   goldenLeaves: {
+    title: "Golden Leaves on Hither Shore",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Cover album 1 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I sang of leaves, of leaves of gold,
+and gold the forest gave,
+October burned in copper light
+on beech and ancient stave.
+I sang of wind across the fields,
+a wind from western sea,
+it moved the crowns of quiet oaks
+and bent the grass round me.
+
+Beyond the towns, beyond the roads,
+where tractors hum at dawn,
+a silver mist on furrowed earth
+lies trembling on the lawn.
+No marble walls, no shining towers,
+just stone and moss and rain,
+a fallen gate, a rusted hinge,
+a memory in the grain.
+
+Here under pale Scanian skies
+the daylight thins and sighs—
+and every year the colours flare
+before the dark replies.
+
+ O greenwood near, O northern light,
+ the winter’s drawing near.
+ The leaves fall gold into the stream,
+ the river runs unclear.
+ Too long I’ve walked this hither shore,
+ too long I’ve lingered here—
+ braiding crowns of autumn fire
+ while seasons disappear.
+
+I sang of ships, of ferries white
+that cross the strait at night,
+their lanterns trembling on the waves
+like thoughts that flee from sight.
+No silver swan from ancient song,
+no sail from hidden lands—
+just steel and salt and diesel smoke
+and rope in weathered hands.
+
+The golden leaves still grow each year
+on branches bent but strong,
+yet something thins within the air
+that once outlived the song.
+The forest keeps its patient watch,
+its roots in darker loam,
+while I, who thought I only passed,
+have made this place my home.
+
+And when the frost begins to bite
+and daylight turns to glass,
+I feel the quiet closing in
+like footsteps in the grass.
+
+ O greenwood near, O fading crown,
+ the winter’s at the door.
+ The leaves fall gold into the stream
+ as countless times before.
+ Too long I’ve stood on borrowed ground
+ with autumn in my hand—
+ what ship will bear me when I call
+ from this low-lying land?
+
+If I should sing of younger days
+when every path was wide,
+would any road return me then
+to who I was inside?
+No shining shore beyond the sun,
+no hidden western flame—
+only fields of sleeping grain
+that never stay the same.
+
+ O greenwood near, O northern sky,
+ though winter strips you bare,
+ the roots hold fast beneath the frost,
+ there’s still a pulse down there.
+ And though no ship may come for me
+ across a mythic sea,
+ the spring will raise the golden leaves
+ again—
+ for you,
+ and not for me.`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   theReturningPath: {
+    title: "The Returning Path (Revisited)",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Cover album 1 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Ah—ah, ah—ah Ooh—ooh, ah—ah
+
+Where the heather bends beneath the silver rain
+Where the sleeping hills remember every name
+I followed dawn through a field of amber light
+With a heart gone wandering, I crossed into the night
+
+Still the river called me softly
+Still the old stars held their flame
+Through the mist and through the silence
+Something whispered me back again
+
+ I am walking the returning path
+ Homeward through the wind and rain
+ Every stone beneath my feet
+ Knows the rhythm of my name 
+
+ I have crossed the lonely water
+ I have dreamed beyond the dark
+ Now the road is turning homeward
+ By the fire within my heart
+
+Over ruined walls where the wild roses climb
+Through the ancient wood that keeps the threads of time
+A pale moon rose above the valley floor 
+And the voice I thought was lost was waiting at the door
+
+Hear the branches lean together
+Hear the distant mountains call
+What is broken can remember
+What has wandered may return
+
+ I am walking the returning path
+ Homeward through the wind and rain
+ Every stone beneath my feet
+ Knows the rhythm of my name 
+
+ I have crossed the lonely water 
+ I have dreamed beyond the dark
+ Now the road is turning homeward
+ By the fire within my heart
+
+Ah—ah, ah—ah Eira, eira, na—na—na Ooh—ooh, ah—ah Eira, eira, come me home
+
+If the night should close around me
+If the hills should hide the way
+I will carry one small ember
+For the promise of the day
+And the sea will part before me
+And the sky will clear above
+Every road I took in sorrow
+Leads me to the house of love
+
+ I am walking the returning path
+ Homeward through the wind and rain
+ Every stone beneath my feet
+ Knows the rhythm of my name 
+
+ I have crossed the lonely water
+ I have dreamed beyond the dark
+ Now the road is turning homeward
+ By the fire within my heart
+
+Homeward, homeward, through the green
+Where the oldest songs have been
+Homeward, homeward, soft and bright
+From the wandering into light
+
+Ah—ah, ah—ah The returning path Ooh—ooh, ah—ah The returning path`,
   showPlaceholder: false
       }
     ],
@@ -1948,100 +2568,7 @@ You’re part of what made it bright
     showPlaceholder: false
    },
 
-   summerHymn: {
-    title: "Summer Hymn",
-    hidden: true,
-    blocks: [
-      {
-        type: "image",
-        src: "assets/covers/Summer hymn 3k.jpg",
-        size: "small"
-      },
-      {
-        type: "text",
-        content: `At break of day the wild earth sighs
-and silver light on meadow lies
-A tender wind through ash and pine
-unseals the summer, fair and fine
-
-Across the field the gold doth stream
-the lake lies still in grace
-By birch and fir and flowering green
-my heart hath found its place
-Here the lark lifts up her simple prayer
-here peace is moving in the air
-And every path that leads me home
-grows bright when summer waketh
-
-All I cherish lingers here
-in wind and leaf and sky
-The kindly earth beneath my feet
-bears me as days go by
-
- O gentle summer, bright and fair
- thou livest in my blood
- In whispering leaf and shining mere
- in forest, field, and flood
- O gentle summer, near and free
- thou singest where I stand
- As in my own dear dwelling place
- this green and kindly land
-
-Sun upon water
-wind on the lea
-summer within me
-wild and free
-
-Through heath and hollow, ridge and glen
-the long day wanders slow
-The clover keeps the wandering bee
-where mildest breezes blow
-No throne, no creed, no proud command
-but soil and light on open land
-And in the simple, steadfast hour
-the world grows wide and holy
-
-All I dreamed is drawn so near
-in evening’s cooling breath
-When the long blue shadows gather
-the summer lingereth
-
- O gentle summer, bright and fair
- thou livest in my blood
- In whispering leaf and shining mere
- in forest, field, and flood
- O gentle summer, near and free
- thou singest where I stand
- As in my own dear dwelling place
- this green and kindly land
-
-When dusk lays down her blue upon the water
-and heaven drinks the ember of the sun
-I know the plain and humble thing is richest
-where leaf and wind and living heart are one
-
- O gentle summer, bright and fair
- thou livest in my blood
- In whispering leaf and shining mere
- in forest, field, and flood
- O gentle summer, near and free
- thou singest where I stand
- As in my own dear dwelling place
- this green and kindly land
- O gentle summer, tarry still
- in all that grows anew
-
-Sun upon water
-wind on the lea
-summer within me
-abide in me
-
-`,
-  showPlaceholder: false
-      }
-    ],
-    showPlaceholder: false
-   },
+   
 
    theClearing: {
     title: "The Clearing",
@@ -4056,6 +4583,215 @@ But he and his “Self” are quite close.
     showPlaceholder: false
    },
 
+      morningAVision: {
+    title: "Morning / A Vision",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/todo.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I come quietly to the mirror,
+night still tangled in my hair,
+and for a moment meet a woman
+I almost do not know is there.
+
+The glass repeats what I have heard,
+the careful praise, the hungry eyes.
+I almost smile at what it shows,
+then turn away and let it lie.
+
+I draw the fabric to my skin
+and fasten it with steady hands.
+What others thought was theirs to name
+is mine again, where I now stand.
+
+Then morning finds me.
+
+A small bird sings beside the window
+as if the world has just begun,
+calling me out of myself
+and toward the early sun.
+
+I bend my face toward its song
+and smile against the narrow space.
+For one small breath the singing stops
+and silence takes its place.
+
+I open the window.
+
+Cool air moves across my arms.
+The wandering wind enters the room
+with leaves and earth
+and something newly come to bloom.
+
+I lift my eyes into the light
+and let the morning enter me.
+I spread my arms into the air
+as branches open to the sea.
+
+And then I pray.
+
+Not only for myself.
+
+For those who wake to empty rooms.
+For those who watched the darkness through.
+For every hand I once have held.
+For those I loved and never knew.
+
+For distant lives beyond my sight,
+for grief that never speaks its name,
+for every heart beneath this sky
+warmed by the same returning flame.
+
+And then I know
+I am not alone.
+
+Someone stands beyond the doorway.
+
+He came believing he could look
+and leave with something he had seen.
+I know that gaze.
+I know its weight.
+
+But something changes in between.
+
+His eyes fall first.
+
+No word is spoken.
+
+Whatever brought him to this place
+has lost its claim upon him now.
+
+And strangely,
+I am not afraid.
+
+I turn again toward the morning
+and leave him there
+with whatever he has found.
+
+I do not pray that he will change.
+
+I do not need to.
+
+I simply add him
+to the others.
+
+And pray
+for him too.`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+
+   theColoursIWouldWear: {
+    title: "The colours I would wear",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/The colours I would wear 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `In a little shop in Edinburgh
+I found a thousand shades of home,
+Rows of wool in reds and greens,
+And blues like seas I’d never known.
+
+The woman asked me what I’d like,
+I laughed and said I couldn’t say.
+I only knew I’d come to find
+Some colours I could take away.
+
+I held a thread against the light,
+A green like fields in early spring,
+A blue as deep as evening skies,
+A red to make the whole cloth sing.
+
+I thought of how you’d shake your head
+And tell me what would never do.
+Then choose the one I’d passed aside
+And make me see it differently too.
+
+And I could almost hear you say,
+“That blue needs something bright beside.”
+I turned to ask you what you thought
+And found the silence at my side.
+
+ These are the colours I would wear,
+ The colours I would bring to you.
+ A little green, a little gold,
+ A thread of red, a shade of blue.
+
+ And if your hands could hold them now,
+ I know just what you’d say to me:
+ “There’s something lovely hiding there,
+ Just wait and see what it could be.”
+
+You always loved a piece of cloth
+Before you knew what it might be.
+You’d spread it out across the floor
+And show a hundred things to me.
+
+A dress to wear, a coat to keep,
+A little something for the cold.
+You saw the shape of things to come
+In every length of cloth you sold.
+
+And standing there among the wool,
+I knew what I had come to find.
+A gift for someone far away,
+Who’d left her loving hands behind.
+
+ These are the colours I would wear,
+ The colours I would bring to you.
+ A little green, a little gold,
+ A thread of red, a shade of blue.
+
+ And if your hands could hold them now,
+ I know just what you’d say to me:
+ “There’s something lovely hiding there,
+ Just wait and see what it could be.”
+
+So I chose the threads and placed the order,
+Watched them write my name.
+A pattern no one else had worn,
+Yet somehow much the same
+
+As all the things you made for us,
+The things you left behind.
+I wished that I could send you
+Just one piece of what I’d found.
+
+ These are the colours I will wear,
+ The colours I would bring to you.
+ A little green, a little gold,
+ A thread of red, a shade of blue.
+
+ And though your hands can’t hold them now,
+ I hear what you would say to me:
+ “There’s something lovely hiding there,
+ Just wait and see what it could be.”
+
+
+Now there’s a length of woven wool
+Laid gently on an empty chair.
+I haven’t chosen what to make.
+
+I think you’d like it
+lying there.`
+      }
+    ],
+    showPlaceholder: false
+   },
+
    laughingFace: {
     title: "Laughing Face / Broken Core",
     hidden: true,
@@ -4642,6 +5378,284 @@ Still I sing
 The skald is gone
 
 The song lives on`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   storiesInTheStone: {
+    title: "Stories in the Stone",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Stories of the stone 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `A world of stone
+to lay my bones,
+a deadly still,
+hand-built hill
+where sun no longer shone.
+
+My days were brief,
+my mother's grief
+was more than words could bear.
+She touched the stone
+and left me alone
+with stories waiting there.
+
+They carved me the world
+I never did see,
+only in stories
+once whispered to me:
+the horses, the sunlight,
+the road to the sea—
+all that I never knew
+now buried here with me.
+
+So tell it once more
+before you depart.
+Give me the road
+I was promised at heart.
+
+ Let the sun wheel over me,
+ let the horses run.
+ Let the long procession pass
+ when my days are done.
+
+ Let the horns call through the dark,
+ let them call me home.
+ Carve a ship upon the stone—
+
+ for the child
+ who never roamed.
+
+I knew the sea
+from tales at night,
+but never felt its spray.
+I knew the ships
+from sailors' lips
+and dreamed I'd leave one day.
+
+I knew that somewhere
+beyond our shore
+were cities bright with gold.
+I thought I'd see them
+when I grew—
+
+I never did grow old.
+
+So carve me a horse
+that never will tire,
+carve me the wheel
+and the travelling fire.
+
+ Let the sun wheel over me,
+ let the horses run.
+ Let the long procession pass
+ when my days are done.
+
+ Let the horns call through the dark,
+ let them call me home.
+ Carve a ship upon the stone—
+
+ for the child
+ who never roamed.
+
+Then seasons crossed
+the world above
+and names were washed away.
+No voice remained
+that knew my face,
+no tongue knew what to say.
+
+But someone came
+into my dark,
+as young as I had been.
+I told them of the horses
+and the places I had seen.
+
+Another came.
+And then another.
+The stones remembered all.
+
+I taught them where
+the sun would rise,
+which road lay past the wall.
+
+We learned the sea
+without the sea,
+the sky without the blue.
+
+And every ship
+they carved for me
+became a ship for you.
+
+They called this place
+a king's great grave.
+
+But no king sleeps
+beside me.
+
+Only names
+the living lost,
+
+and all the years
+denied me.
+
+Was there a throne
+when I was gone?
+
+Did the ship
+leave without me?
+
+Or had they carved
+the journey here
+
+so one day
+I could see?
+
+ Let the sun wheel over us,
+ let the horses run.
+ Let the long procession pass
+ for every vanished one.
+
+ Let the horns call through the dark
+ where no dawn has shone.
+ There is still a ship for us—
+
+ waiting
+ in the stone.
+
+The sun still turns.
+(The sun still turns.)
+
+The horses run.
+(The horses run.)
+
+The horns still call.
+(The horns still call.)
+
+The ship will come.
+
+They carved me the world
+I never did see.
+
+And after all these years...
+
+it's still here
+with me.`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   halfHangitMaggie: {
+    title: "Half-Hangit Maggie",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Half-hangit Maggie 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Oh, gather round and hear the tale
+Of solemn men whose plans would fail.
+They hanged a woman for all to see,
+But Maggie had somewhere to be!
+
+Down in the Grassmarket one fine day,
+The judge had had his solemn say.
+The priest looked grim, the hangman proud,
+And Maggie stood before the crowd.
+They called her wicked, called her wild,
+They judged the mother and her child.
+But none could hear beneath their law
+The grief behind the face they saw.
+
+Oh, ring the bells and read the prayer,
+There's holy judgment in the air!
+The judge has spoken, case is closed—
+But heaven knows what heaven knows!
+
+ Hey! Half-Hangit Maggie!
+ They hanged you once, but you wouldn't stay!
+ Hey! Half-Hangit Maggie!
+ You cheated the gallows and walked away!
+ Oh, the judge went pale,
+ And the priest cried, "No!"
+ But Half-Hangit Maggie
+ Had somewhere to go!
+
+They cut her down, they laid her low,
+And off the mourners had to go.
+A wooden box, a rattling cart,
+A woman with a stubborn heart.
+The road was long, the horses slow,
+The wind across the fields did blow.
+And somewhere underneath the lid,
+A little something Maggie did...
+
+Knock ... knock ... KNOCK!
+
+"What on earth was that?"
+
+"Would somebody open this bloody box?"
+
+The driver jumped, the horses reared,
+The bravest man just disappeared!
+They raised the lid and there she sat,
+And Maggie said, "Well, fancy that!"
+The hangman's knot had lost its bite,
+The law had lost its appetite.
+And every soul from far and wide
+Would tell how Maggie would not die!
+
+ Hey! Half-Hangit Maggie!
+ They hanged you once, but you wouldn't stay!
+ Hey! Half-Hangit Maggie!
+ You cheated the gallows and walked away!
+ Oh, the judge went pale,
+ And the priest cried, "No!"
+ But Half-Hangit Maggie
+ Had somewhere to go!
+
+They never asked her what she'd lost,
+Nor cared to count a mother's cost.
+They wrote their judgment, signed her name,
+And sent her to the rope in shame.
+
+But shame belongs to those who bind,
+Who hang the living, deaf and blind.
+And if they call her witch or worse,
+Let Maggie have the final verse!
+
+ Hey! Half-Hangit Maggie!
+ They hanged you once, but you wouldn't stay!
+ Hey! Half-Hangit Maggie!
+ You cheated the gallows and walked away!
+ Oh, the judge went pale,
+ And the priest cried, "No!"
+ But Half-Hangit Maggie
+ Had somewhere to go!
+ Hey! Half-Hangit Maggie!
+ Raise your glass and shout her name!
+ Hey! Half-Hangit Maggie!
+ The gallows lost and Maggie came!
+
+They hanged her high,
+They laid her low,
+But Maggie had
+Somewhere to go!
+
+"And don't you dare try that again."
+
+HALF-HANGIT MAGGIE!`
       }
     ],
     showPlaceholder: false
