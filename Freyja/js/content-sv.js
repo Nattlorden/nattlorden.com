@@ -1173,8 +1173,8 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
       back: "assets/covers/Paths less travelled back side 1200.jpg",
 
       // Länkar till hela albumet
-      spotify: "",
-      youtube: "",
+      spotify: "https://open.spotify.com/album/4nVdMvjWAJXZ9vAS0Tt4NU?si=5pafcGNsSR28sBPDR-7xoQ",
+      youtube: "https://youtube.com/playlist?list=OLAK5uy_n5gm_Bsh8b8rr_Xv7KvC0xiUxVzm7PW3g&si=TSgVwPoE3V5Kgk7V",
 
       sides: [
         {
@@ -1552,6 +1552,304 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
 {
     type: "divider"
   },
+  {
+    type: "recordGrid",
+    columns: 2,
+    records: [
+      {
+          format: "single",
+          title: "Melinoë",
+          artist: "Freyja",
+          year: "15 mars 1996",
+          label: "Serenia Records",
+
+          front: "assets/covers/Melinoë 3k.jpg",
+          back: "assets/covers/He promised the dawn 3k.jpg",
+          
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Melinoë",
+                  duration: "4:52",
+                  page: "melinoe",
+                  spotify: "https://open.spotify.com/album/5SUZcBHU3FG0alHCnaevDC?si=_DKyLwPmTImbWwrYihiVlw",
+                  youtube: "https://youtu.be/Gki-hIDWqpE?list=OLAK5uy_m59Ivhstzg2fdPbEioZfp87pY97oTh_CI"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "He promised the dawn",
+                  duration: "4:02",
+                  page: "promisedTheDawn",
+                  spotify: "https://open.spotify.com/album/275Ul1GaOKM9NBUHe4d5Ck?si=URlyY-UzQwmMG8c32PCJEg",
+                  youtube: "https://youtu.be/zUFW_Z4SsPI?list=OLAK5uy_kwNhpMGie44uPD3uu0cubvcurRlYvazYE"
+                }
+              ]
+            }
+          ]
+        },
+      {
+          format: "single",
+          title: "Crown of the Unquiet",
+          artist: "Freyja",
+          year: "14 februari 1997",
+          label: "Serenia Records",
+
+          front: "assets/covers/Crown 3k.jpg",
+          back: "assets/covers/Transmutation 3k.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Crown of the Unquiet",
+                  duration: "5:05",
+                  page: "crown",
+                  spotify: "https://open.spotify.com/album/6R9fYGelPSToAwmCJhimR1?si=SXmKatvCRz6jDqKvAEXtRA",
+                  youtube: "https://youtu.be/hJ3UJqD19xI?list=RDhJ3UJqD19xI"
+                 }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "Transmutation",
+                  duration: "3:43",
+                  page: "transmutation",
+                  spotify: "https://open.spotify.com/album/3aKdfDUkxxbP6oZogqd8NN?si=uY-k_MDnRxG9DvVnSOvRGQ",
+                  youtube: "https://youtu.be/hEA4e-diyPM?list=OLAK5uy_njUhR3rjcer8sN8soiSuET_IM6o74qLkI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          format: "single",
+          title: "Come Through the Veil",
+          artist: "Freyja",
+          year: "16 maj 1997",
+          label: "Serenia Records",
+
+          front: "assets/covers/Veil 3k.jpg",
+          back: "assets/covers/Haunted Palace 3k.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "Come Through the Veil",
+                  duration: "4:41",
+                  page: "comeThrough",
+                  spotify: "https://open.spotify.com/album/6HU6GGw7g4GB9yKUvNAvia?si=4G1fXuJmQG-v-FiQadppaA",
+                  youtube: "https://youtu.be/gw2mxzuMgyM?list=RDgw2mxzuMgyM"
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "The Haunted Palace",
+                  duration: "4:28",
+                  page: "hauntedPlace",
+                  spotify: "https://open.spotify.com/album/3QnyJ8mDXj6JoIChrQCWvj?si=J2DX_r79RvSyiQW09SOpGQ",
+                  youtube: "https://youtu.be/LekWXOQLK_4"
+                }
+              ]
+            }
+          ]
+        },
+        
+
+        /*
+
+        singelstubbe
+
+        {
+          format: "single",
+          title: "singeltitel",
+          artist: "Freyja",
+          year: "",
+          label: "Serenia Records",
+
+          front: "assets/covers/todo.jpg",
+          back: "assets/covers/todo.jpg",
+
+          sides: [
+            {
+              label: "A",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            },
+            {
+              label: "B",
+              tracks: [
+                {
+                  title: "title",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+                }
+              ]
+            }
+          ]
+        }
+        */
+     ]
+  },
+  {
+    type: "divider"
+  },
+  {
+  type: "recordGrid",
+  columns: 1,
+
+  records: [
+    {
+      format: "album",
+      title: "Voices from Beyond",
+      artist: "Freyja",
+      year: "20 juni 1997",
+      label: "Serenia Records",
+      catalogue: "SR-CD0xx",
+
+      // Albumets fram- och baksida
+      front: "assets/covers/Voices from Beyond 1200.jpg",
+      back: "assets/covers/todo.jpg",
+
+      // Länkar till hela albumet
+      spotify: "",
+      youtube: "",
+
+      /* 20 juni 1997	Voices from Beyond
+
+01	The Bride Who Would Not Eat Katarina I
+02	Wingthwaite White
+03	The White Lady
+04	Melinoë
+05	He Promised the Dawn
+06	They Carried Me Home Katarina II
+07	The Market Opens When the Stars Are Right
+( struken 08	Crown of the Unquiet )
+09	The Haunted Palace
+10	Laughing Face / Broken Core
+11	Come Through the Veil
+12	What Remains of Me Katarina III*/
+      sides: [
+        {
+          label: "A",
+
+          tracks: [
+            {
+                  title: "The Bride Who Would Not Eat (Caterina da Siena I)",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+            },
+            {
+                  title: "Wingthwaite White",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+            },
+            {
+              title: "The White Lady",
+              duration: "5:33",
+              page: "whiteLady",
+              spotify: "https://open.spotify.com/album/7sNQoXqMEZuXL6nbMGCjsa?si=1-zWZCCrTEGUwWZZgEa6pw",
+              youtube: "https://youtu.be/fNw9NhsgxNs?list=RDfNw9NhsgxNs"
+            },
+            {
+                  title: "Melinoë",
+                  duration: "4:52",
+                  page: "melinoe",
+                  spotify: "https://open.spotify.com/album/5SUZcBHU3FG0alHCnaevDC?si=_DKyLwPmTImbWwrYihiVlw",
+                  youtube: "https://youtu.be/Gki-hIDWqpE?list=OLAK5uy_m59Ivhstzg2fdPbEioZfp87pY97oTh_CI"
+            },
+            {
+                  title: "He promised the dawn",
+                  duration: "4:02",
+                  page: "promisedTheDawn",
+                  spotify: "https://open.spotify.com/album/275Ul1GaOKM9NBUHe4d5Ck?si=URlyY-UzQwmMG8c32PCJEg",
+                  youtube: "https://youtu.be/zUFW_Z4SsPI?list=OLAK5uy_kwNhpMGie44uPD3uu0cubvcurRlYvazYE"
+            },
+            {
+                  title: "They Carried Me Home (Caterina da Siena II)",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+            }
+          ]
+        },
+
+        {
+          label: "B",
+
+          tracks: [
+            {
+              title: "The Market Opens When the Stars Are Right",
+              duration: ":",
+              page: "page",
+              spotify: "",
+              youtube: ""
+            },
+            {
+                  title: "The Haunted Palace",
+                  duration: "4:28",
+                  page: "hauntedPlace",
+                  spotify: "https://open.spotify.com/album/3QnyJ8mDXj6JoIChrQCWvj?si=J2DX_r79RvSyiQW09SOpGQ",
+                  youtube: "https://youtu.be/LekWXOQLK_4"
+            },
+            {
+              title: "Laughing Face / Broken Core",
+              duration: "4:13",
+              page: "laughingFace",
+              spotify: "https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=rRcwWcahRp-ISp5Ngk3vrw",
+              youtube: "https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw"
+            },
+            {
+                  title: "Come Through the Veil",
+                  duration: "4:41",
+                  page: "comeThrough",
+                  spotify: "https://open.spotify.com/album/6HU6GGw7g4GB9yKUvNAvia?si=4G1fXuJmQG-v-FiQadppaA",
+                  youtube: "https://youtu.be/gw2mxzuMgyM?list=RDgw2mxzuMgyM"
+            },
+           
+            {
+                  title: "What Remains of Me (Caterina da Siena III)",
+                  duration: ":",
+                  page: "page",
+                  spotify: "",
+                  youtube: ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+    type: "divider"
+  },
 ],
   showPlaceholder: false
   
@@ -1591,6 +1889,9 @@ Riktningen börjar framträda.
 
 25 mars 1994 - Paths less travelled
 
+
+
+
 16 september 1994 Cold as Truth / She Who Turns the Threshold
 
 17 februari 1995 Undertow / One with Mother Earth
@@ -1617,8 +1918,21 @@ Riktningen börjar framträda.
 15 mars 1996	Melinoë / He Promised the Dawn
 14 februari 1997	Crown of the Unquiet / Transmutation
 16 maj 1997	Come Through the Veil / The Haunted Palace
+
 20 juni 1997	Voices from Beyond
 
+01	The Bride Who Would Not Eat Katarina I
+02	Wingthwaite White
+03	The White Lady
+04	Melinoë
+05	He Promised the Dawn
+06	They Carried Me Home Katarina II
+07	The Market Opens When the Stars Are Right
+( struken 08	Crown of the Unquiet )
+09	The Haunted Palace
+10	Laughing Face / Broken Core
+11	Come Through the Veil
+12	What Remains of Me Katarina III
 
 `
     },*/
