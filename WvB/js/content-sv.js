@@ -126,7 +126,7 @@ timeline: {
 <font color=green><b>1841 - Dikter IV</b></font>
 <font color=green><b>1843 - Calle. Också en poetisk kalender</b></font>
 <font color=green><b>1844 - Carolina. Poetisk kalender</b></font>
-1846 - Bror. Poetisk kalender
+<font color=yellow><b>1846 - Bror. Poetisk kalender</b> (beställd)</font>
 1847 - Berättelser och utkast
 <font color=green><b>1847 - Knut. Poetisk kalender</b></font>
 1849 - Den namnlöse. Poetisk kalender
@@ -147,7 +147,7 @@ timeline: {
 1888 - Konstapeln
 1889 - Reskamraten
 1889 - Svinaherden och grefvedottern eller Guldgräfvarens skatt
-1890 - En Löjtnants Händelser
+1890 - <font color=yellow><b>En Löjtnants Händelser</b> (Bonnier 1912)</font>
 1892 - Resignation
 1897 - En berättelse om en utmärkt militär
 <h3>Samlingar</h3>           
@@ -210,7 +210,7 @@ timeline: {
         <h4>Freyja - Översatt och ev. anpassat</h4>        <ul class="track-list">
     <li><a class="internal-link" data-section="songs" data-page="curious">A Most Curious Man <a href="https://open.spotify.com/album/3s1Uo7e2hBPePTMFnVBD87?si=swlHKs6vQb-E_fCqCllSXQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/e0oPOQgJJnE?list=OLAK5uy_m1yq9HFySzDga8FUCW3LBqLguBNaYbWJQ" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     <li><a class="internal-link" data-section="songs" data-page="laughingface">Laughing Face / Broken core <a href="https://open.spotify.com/album/2qWDrq6tfxgdj4mXOv8D6O?si=DX-sNYG6SumsJMrEshb-0A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/hdPF5gH-FCg?list=OLAK5uy_moGryysVfMh6r_p5h3E7ojyhPdkvBa7Sw" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-    <li>I cannot say why <a href="https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=6kuTWKDxQn-lu4p-2_l7DQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_Jatog3dewk?list=OLAK5uy_mp1WIUONL9xzsoe65LpIZS0WGYmN6zWEE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+    <li><a class="internal-link" data-section="songs" data-page="cannotsaywhy">I cannot say why <a href="https://open.spotify.com/album/7FOdLpD2MHeE4aNcUz94nz?si=6kuTWKDxQn-lu4p-2_l7DQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/_Jatog3dewk?list=OLAK5uy_mp1WIUONL9xzsoe65LpIZS0WGYmN6zWEE" target="_blank" rel="noopener noreferrer">YouTube</a></li>
     </ul>
 
     <h4>Galdrakällan</h4>        <ul class="track-list">
@@ -228,7 +228,13 @@ timeline: {
   blocks: [
     {
       type: "text",
-      content: `Original + översättningar...`
+      content: `Original + översättningar...
+      <ul class="track-list">
+      <li><a class="internal-link" data-section="texts" data-page="eftergif">Den eftergifvande</a></li>
+      <li><a class="internal-link" data-section="texts" data-page="krigarensfastmo">Krigarens fästmö</a></li>
+      <li><a class="internal-link" data-section="texts" data-page="mittkonterfej">Mitt konterfej</a></li>
+      </ul>
+      `
     }
     ]
 },
@@ -1462,7 +1468,8 @@ del2_7: {
       type: "text",
       content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
 
-<p class="lyrics">
+<p class="lyrics">( Här: <b><a class="internal-link" data-section="texts" data-page="krigarensfastmo">Krigarens fästmö</a></b> - i sin originalform. )<br>
+
 Här bland rosor trygg jag vilar,
 Då min egen älskling ilar
 Farorna och döden mot.
@@ -1500,7 +1507,7 @@ Kan väl hjärtat mer begära,
 
 Jag förgäter fosterlandet?
 Nej! men starkare är bandet,
-Som min kärlek kring mig snäärt.
+Som min kärlek kring mig snärt.
 Kvinnans kärlek kan ej delas,
 Och mig andra känslor felas,
 Sedan jag att älska lärt.
@@ -1510,7 +1517,7 @@ Då jag även kunde yrka
 På ditt tåg i fjärran land!
 Jag dig ville se som hjälte.
 Stolta hjärta! snart du smälte
-Uti avskeds-kyssens brand.
+Uti avskedskyssens brand.
 
 Krigare i fjärran landen!
 Uti tårar dränkt, vid stranden
@@ -2100,7 +2107,7 @@ curious: {
       type: "text",
       content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
 
-<p class="lyrics"><i>Min översättning av <b>Den märkvärdiga mannen</b></i><br>
+<p class="lyrics"><i>Baserad på <b><a class="internal-link" data-section="texts" data-page="markvardig">Den märkvärdiga mannen</a></b>. Översättning/bearbetning av Mailýsa Freyja.</i><br>
 I know a most curious man,
 Whom surely the world should admire.
 Whatever a mortal one can,
@@ -2149,7 +2156,7 @@ laughingface: {
       type: "text",
       content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
 
-<p class="lyrics"><i>Baserad på <b>Mitt konterfej</b></i><br>
+<p class="lyrics"><i>Baserad på <b><a class="internal-link" data-section="texts" data-page="mittkonterfej">Mitt konterfej</a></b>. Översättning/bearbetning av Mailýsa Freyja.</i><br>
 Oh what a spectacle—look at me now
 A painted smile, take a bow
 A charming face, a clever line
@@ -2210,6 +2217,60 @@ To live untouched by what I’m living</p>
       showPlaceholder: false
 },
 
+cannotsaywhy: {
+  menuTitle: "I cannot say why",
+  title: "I cannot say why",
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
+
+<p class="lyrics"><i>Baserat på <b><a class="internal-link" data-section="texts" data-page="eftergif">Den eftergifvande</a></b> i översättning/bearbetning av Mailýsa Freyja.</i><br>
+
+You say you love her, your dearest one,
+I know you do – yes, I know you do,
+But you shall not come where I am alone,
+I swear it, I vow it – I cannot say why.
+
+And if you come where I am alone,
+I know you will – yes, I know you will,
+You shall not take this hand in your own,
+I swear it, I vow it – I cannot say why.
+
+And if you take this hand in your own,
+I know you will – yes, I know you will,
+You shall not draw me close to your arms,
+I swear it, I vow it – I cannot say why.
+
+And if you draw me close in your arms,
+I know you will – yes, I know you will,
+You shall not rest by this trembling heart,
+I swear it, I vow it – I cannot say why.
+
+And if you rest by this trembling heart,
+I know you will – yes, I know you will,
+You shall not steal me a burning kiss,
+I swear it, I vow it – I cannot say why.
+
+And if you steal me a kiss or two,
+I know you will – yes, I know you will,
+You shall not linger, not even a breath,
+I swear it, I vow it – I cannot say why.
+
+And if you linger, a moment still,
+I know you will – yes, I know you will,
+Then stay… if you must… till morning is light,
+I swear it, I vow it – I cannot say why.
+</p>
+<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+
+// Från Galdrakällan
+
 galdra1: {
   menuTitle: "Hellre kärlek än Ära",
   title: "Hellre kärlek än Ära",
@@ -2219,7 +2280,10 @@ galdra1: {
       type: "text",
       content: `<a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>
 
-<p class="lyrics">Här på gården trygg jag vilar,
+<p class="lyrics"><i>Baserat på <b><a class="internal-link" data-section="texts" data-page="krigarensfastmo">Krigarens fästmö</a></b> i bearbetning av Karna Jönsdotter.</i><br>
+
+
+Här på gården trygg jag vilar,
 medan han mot fjärran ilar,
 faror och sin bane mot.
 Ack, men jag har också strider,
@@ -2289,6 +2353,304 @@ Bojor bliva mina armar;
 hur än sköld och stridsrop larmar,
 släpper jag ej åter dig!</p>
 <a class="internal-link" data-section="songs" data-page="songs">← Tillbaka</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+
+// Texter
+
+eftergif: {
+  menuTitle: "Den eftergifvande",
+  title: `Den eftergifvande<i><h4>(Reminiscenser af en Vestgöta visa)</h4></i><h5>Dikter, Första bandet, 1837 &nbsp; <i>(att verifieras)</i></h5>`,
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="texts" data-page="texts">← Tillbaka</a>
+
+<p class="lyrics">
+Du säger, att du älskar allra kärestan din,
+Som jag ock visserligen tror att du gör,
+Men kommer därför icke uti kammaren min,
+Det lofvar jag, det svär jag – och rår ej därför.
+
+Och om du skulle komma uti kammaren min,
+Som jag ock visserligen tror att du gör,
+Så skall du ej få trycka varma handen i din,
+Det lofvar jag, det svär jag – men rår ej därför.
+
+Men om du skulle trycka mjuka handen, så varm,
+Som jag ock visserligen tror att du gör,
+Så skall du ej få slå kring veka lifvet din arm,
+Det lofvar jag, det svär jag – och rår ej därför.
+
+Men om du skulle slå kring veka lifvet din arm,
+Som jag ock visserligen tror att du gör,
+Så skall du ej få skjunka till min svällande barm,
+Det lofvar jag, det svär jag – men rår ej därför.
+
+Och om du skulle skjunka till min svällande barm,
+Som jag ock visserligen tror att du gör,
+Så skall du ej få taga kyssen, glödande varm,
+Det lofvar jag, det svär jag – och rår ej därför.
+
+Men om du skulle taga varma kyssar ett par,
+Som jag ock visserligen tror att du gör,
+Så skall du ej få stanna där ett ögonblick kvar,
+Det lofvar jag, det svär jag – men rår ej därför.
+
+Men om du skulle stanna där ett ögonblick kvar,
+Som jag ock visserligen tror att du gör,
+Så må du då få dröja – – ack! till morgonen klar,
+Det lofvar jag, det svär jag – men rår ej därför.
+
+
+</p>
+<a class="internal-link" data-section="texts" data-page="texts">← Tillbaka</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+
+krigarensfastmo: {
+  menuTitle: "Krigarens fästmö",
+  title: `Krigarens fästmö<h5>Dikter II, 1838</h5>`,
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<a class="internal-link" data-section="texts" data-page="texts">← Tillbaka</a>
+
+<p class="lyrics">
+Här bland rosor trygg jag hvilar,
+Då min egen älskling ilar
+Farorna och döden mot.
+Ack! men jag har också strider,
+Och jag såras och jag lider
+Utan tröst och utan bot.
+
+Han är djärf och öfvermodig;
+Evigt ser jag honom blodig
+Och mig griper dödens köld.
+Fick jag vid hans sida vara,
+Hindra skulle jag hans fara
+Med min egen barm som sköld!
+
+Allt omkring mig är så stilla,
+Jag vill intet väsen illa.
+Ty naturen hviskar: frid!
+Fredligt sorlar silfverbäcken,
+Fredligt västan far i häcken,
+Männer, blott de älska strid.
+
+Grymme! att en lager vinna
+Flyn I från den älskarinna,
+Som med myrtenkrona stod.
+Hvilken dröm, som er bedrager
+Är ej myrten mer än lager?
+Ar ej kärlek mer än blod?
+
+Vi till offer äro dömda!
+Våra vinkar bli förglömda,
+När som äran vinkar dem.
+Men hvad är väl denna ära?
+Kan väl hjärtat mer begära,
+Än en maka och ett hem?
+
+Jag förgäter fosterlandet?
+Nej! men starkare är bandet,
+Som min kärlek kring mig snärt.
+Kvinnans kärlek kan ej delas,
+Och mig andra känslor felas,
+Sedan jag att älska lärt.
+
+Ack, jag kände ej min styrka,
+Då jag äfven kunde yrka
+På ditt tåg i fjärran land!
+Jag dig ville se som hjälte.
+Stolta hjärta! snart du smälte
+Uti afskedskyssens brand.
+
+Krigare i fjärran landen!
+Uti tårar dränkt, vid stranden
+Sitter här din trogna mo,
+Lif vas blott af hoppets gnista;
+Milda hopp! du är det sista,
+Som i mänskligt bröst kan dö.
+
+Kan det vara ödets vilja
+Tvänne ömma bröst att skilja!
+Nej! ty Gud är kärleken.
+Ängslans bilder, ack försvinnen!
+Jag vill lefva utaf minnen,
+Tills han vänder hit igen.
+
+Hjälten, segrande i slagen,
+Då skall bli tillfångatagen
+Af en fredlig makt, – af mig.
+Bojor blifva mina armar,
+Och hur häftigt striden larmar,
+Får han aldrig gå i krig!
+</p>
+<a class="internal-link" data-section="texts" data-page="texts">← Tillbaka</a>`
+    }
+  ],
+      showPlaceholder: false
+},
+
+mittkonterfej: {
+  menuTitle: "Mitt konterfej",
+  title: `Mitt konterfej</i><h5>Carolina, 1844 &nbsp; <i>(att verifieras)</i></h5>`,
+  hidden: true,
+  blocks: [
+    {
+      type: "text",
+      content: `<quote="TEGNÉR"> "Se ej på de ögons himmel, se ej på
+                                de lockars gull!"
+                                //TEGNÉR</quote>
+                                        
+      <a class="internal-link" data-section="texts" data-page="texts">← Tillbaka</a>
+
+<p class="lyrics">
+Det var för rasande lustigt! Nej!
+Skall detta vara mitt konterfej?
+Är denne »gubbe», så tjock i synen
+Och med de rynkade ögonbrynen,
+Min egen, älskade, sate vän,
+Den sig så kallande Brn?
+Den där poeten, som jämt vill bråka
+Att komma fram med det »equivoqva»?
+Den där, som damerna aldrig läst,
+Och som af dem blir tillbörligt snäst?
+Ja, det är verkligen just den samme,
+Som nu på linan är åter framme,
+Att visa sig för det täcka kön,
+Oemotståndlig och »manligt skön».
+
+Jag länge tvekade, huruvida
+Jag borde släppa mig lös – och sprida
+Min fagra bild öfver Sverges land
+Och sätta tusende bröst i brand;
+Ty, ack! en aning mig redan säger,
+Att det blir gråt i de skönas läger.
+Det är naturligt; det kostar på,
+Att se mig ständigt – och ej mig få.
+Det är naturligt; jag är så vacker ...
+Här blir vapörer, här blir attacker,
+Och mitt porträtt bäddar mången graf,
+När det till slutet blir lungsot af.
+Jag kan ej hjälpa det, flickor täcka!
+Jag, på sin höjd, blott för en kan räcka;
+Men det var verkligen icke rätt
+Att så er fresta med mitt porträtt,
+Jag bort haft medömkan för de svaga,
+Som aldrig kunnat min bild förjaga;
+Den framstår ständigt, vid tårars ström,
+I dagens tanke och nattens dröm.
+
+I, arma, som jag har gifvit soten!
+O, kunde också jag ge er boten!
+Jag vill försöka. Djärft på mig sen!
+Det är en tröst, om den ock är klen,
+Ty man står lättare mot en fara,
+Om vid dess åsyn man vänjes bara ...
+Här sitter jag då på understol,
+Ett mål för kärliga blickars sol.
+Här sitter jag. Mig i handen tagen
+Och mig bekiken Guds långa dagen! –
+Nå väl! hvad sägen I om min bild?
+Är ej min blick obeskrifligt mild?
+Är pannans hvalf ej ett fridens tempel,
+Där själfva skönheten tryckt sin stämpel?
+Och munnen sedan med sina fjun? ...
+Om konstnärn gifvit mig en basun
+Och satt i handen en liljestängel,
+I säkert tagit mig för en ängel.
+Hvad är all honung, som jorden har,
+Mot mina leende läppars par?
+Det vore något att mig få klappa
+Och kalla mig för: »Du lilla pappa!»
+
+Men hvad är detta? I skriken »fy!»
+Och synens färdiga till att fly.
+Jag hör er ropa, förskrämda, skygga:
+»Hvad dessa ögonbryn äro stygga!
+De kunna anstå en leopard,
+Men ej en lekande, munter bard.
+Se, hur han blänger, den ättikssure!
+Vi föreställt oss en lustig ture,
+En hygglig, sjelfsvåldig, glad garçon,
+Med magra kinder och näsa lång
+Och vackert hår och mustascher nätta;
+Men intet funno vi af allt detta.
+När glada rimmare grina så,
+O, gudbevars för de sorgsna då!
+Det var ett ansikte, just, att ritas!
+Det ser ju ut, som det ville bitas.»
+
+Hör du, mitt käraste konterfej!
+Det där var säkert en pik åt dej.
+Håll du till godo, min vän! Förlåt mig!
+Jag tar den aldrig i tiden åt mig.
+Du är väl jag, men jag är ej du,
+Där ligger skillnadan, ser du ju.
+Och än hvar flicka i döden ginge,
+Om blott mig själf hon att skåda finge.
+Men om du skulle mig vara lik,
+Jag ändå äger en tröst, så rik,
+Ty hvar jag friar, jag undfår korgen,
+Och med det samma jag undgår sorgen.
+
+Men, allvarsamt, du min stackars bild,
+Så långt från mig och – det sköna skild!
+Jag minns en tid, då jag var den glade,
+Ty jag förskönande speglar hade;
+Det var ett strålande ögonpar,
+Och, däri sedd, du så grym ej var,
+Ty kärlek lifvade sträfva dragen,
+Som öknen lifvas af solskensdagen.
+När mig den älskade gaf en blick,
+Ett annat uttryck mitt öga fick.
+Och drog till löjen hon rosenmunnen,
+Från mig all dysterhet var försvunnen;
+Och med dess vänsälla hand i min,
+I mina speglar jag djupt såg in.
+Och jag var lycklig och glad till sinnet,
+Var nöjd med världen, var nöjd med – skinnet.
+Med döden speglarna sönderslog,
+Och med det samma min glädje dog;
+Och mörka sorgmoln mitt anlet höljde,
+Ty hjärtat henne i grafven följde ...
+
+Men jag skall skämta, är det ej så?
+Det vill förläggarn. Nå hopp! låt gå!
+Det är bra roligt att vara rolig,
+När man med saknaden är förtrolig!
+Men, lika godt! Man har blifvit van
+Att tro mig vara en lustig fan.
+Hopp! därför, Pajas! Det går väl öfver;
+I grafven gyckla du ej behöfver.
+Hur lycklig den, som är lyckligt död!
+Jag måste skratta, för att få bröd ...
+Om folk blott visste, hur glädjen brister
+För de så kallade humorister,
+De skulle tacka sin Gud för det
+Han utan humor dem födas lät.
+Som benen ligga i helgonskrinet,
+Det ligger sorg i det ystra grinet;
+Dock hvad bryr världen sig om det där,
+Om humoristen blott »rolig» är!
+Men ha’n I skådat hans skrif don, dårar?
+En törntagg pennan, och bläcket – tårar.
+
+Och nu, min gunstiga allmänhet,
+Du bilden sett af en glad poet,
+Som sig numera åt litet gläder,
+Af mycket litet, – blott fyra bräder.
+
+</p>
+<a class="internal-link" data-section="texts" data-page="texts">← Tillbaka</a>`
     }
   ],
       showPlaceholder: false
