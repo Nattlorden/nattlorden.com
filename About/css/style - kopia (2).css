@@ -777,26 +777,3 @@ body:not([data-theme="contact"]) .back-home img {
     border-color: var(--accent-hover);
   }
 }
-
-.markdown-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 0 0 1.5rem;
-}
-
-.markdown-table th,
-.markdown-table td {
-  padding: 0.45rem 0.7rem;
-  border: 1px solid #ccc;
-  text-align: left;
-  vertical-align: top;
-}
-
-.markdown-table th {
-  font-weight: 600;
-  background: rgba(0, 0, 0, 0.05);
-}
-
-.markdown-table tbody tr:nth-child(even) {
-  background: rgba(0, 0, 0, 0.025);
-}

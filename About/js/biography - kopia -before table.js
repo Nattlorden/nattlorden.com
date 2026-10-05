@@ -499,72 +499,37 @@ function renderMarkdown(
 
 
   /*
-    Radbaserad blockrendering.
+    Horisontella linjer skall bli
+    separata block.
   */
 
-  const lines =
-    visibleMarkdown.split("\n");
-
-  let paragraphLines = [];
-
-
-  function flushParagraph() {
-    if (!paragraphLines.length) {
-      return;
-    }
-
-    const text =
-      paragraphLines
-        .join(" ")
-        .trim();
-
-    paragraphLines = [];
-
-    if (!text) {
-      return;
-    }
-
-    const p =
-      document.createElement("p");
-
-    renderInlineMarkdown(
-      text,
-      p
+  visibleMarkdown =
+    visibleMarkdown.replace(
+      /^[ \t]*-{3,}[ \t]*$/gm,
+      "\n\n---\n\n"
     );
 
-    container.appendChild(p);
-  }
+
+  const paragraphs =
+    visibleMarkdown.split(
+      /\n\s*\n/
+    );
 
 
   for (
-    let i = 0;
-    i < lines.length;
-    i++
+    const paragraphText
+    of paragraphs
   ) {
-    const line =
-      lines[i];
-
     const trimmed =
-      line.trim();
+      paragraphText.trim();
 
-
-    /*
-      Tom rad avslutar stycke.
-    */
 
     if (!trimmed) {
-      flushParagraph();
       continue;
     }
 
 
-    /*
-      Horisontell linje.
-    */
-
     if (/^-{3,}$/.test(trimmed)) {
-      flushParagraph();
-
       container.appendChild(
         document.createElement("hr")
       );
@@ -573,203 +538,23 @@ function renderMarkdown(
     }
 
 
-    /*
-      Markdown-tabell.
+    const p =
+      document.createElement("p");
 
-      Första raden måste följas av en
-      giltig separatorrad.
-    */
-
-    if (
-      isMarkdownTableRow(trimmed) &&
-      i + 1 < lines.length &&
-      isMarkdownTableSeparator(
-        lines[i + 1]
-      )
-    ) {
-      flushParagraph();
-
-      const tableLines = [
-        line,
-        lines[i + 1]
-      ];
-
-      i += 2;
-
-      while (
-        i < lines.length &&
-        isMarkdownTableRow(
-          lines[i].trim()
-        )
-      ) {
-        tableLines.push(
-          lines[i]
-        );
-
-        i++;
-      }
-
-      renderMarkdownTable(
-        tableLines,
-        container
-      );
-
-      /*
-        for-loopen ökar i en gång till.
-      */
-
-      i--;
-
-      continue;
-    }
-
-
-    /*
-      Vanlig textrad.
-    */
-
-    paragraphLines.push(line);
-  }
-
-
-  flushParagraph();
-}
-
-function isMarkdownTableRow(line) {
-  const trimmed =
-    line.trim();
-
-  return (
-    trimmed.includes("|") &&
-    trimmed !== "|"
-  );
-}
-
-
-function isMarkdownTableSeparator(line) {
-  const cells =
-    splitMarkdownTableRow(line);
-
-  return (
-    cells.length > 0 &&
-    cells.every(cell =>
-      /^:?-{3,}:?$/.test(
-        cell.trim()
-      )
-    )
-  );
-}
-
-
-function splitMarkdownTableRow(line) {
-  let trimmed =
-    line.trim();
-
-  if (trimmed.startsWith("|")) {
-    trimmed =
-      trimmed.slice(1);
-  }
-
-  if (trimmed.endsWith("|")) {
-    trimmed =
-      trimmed.slice(0, -1);
-  }
-
-  return trimmed
-    .split("|")
-    .map(cell => cell.trim());
-}
-
-
-function renderMarkdownTable(
-  lines,
-  container
-) {
-  const headerCells =
-    splitMarkdownTableRow(
-      lines[0]
-    );
-
-  const table =
-    document.createElement("table");
-
-  table.className =
-    "markdown-table";
-
-
-  const thead =
-    document.createElement("thead");
-
-  const headerRow =
-    document.createElement("tr");
-
-
-  for (
-    const cellText
-    of headerCells
-  ) {
-    const th =
-      document.createElement("th");
 
     renderInlineMarkdown(
-      cellText,
-      th
+      paragraphText.replace(
+        /\n/g,
+        " "
+      ),
+      p
     );
 
-    headerRow.appendChild(th);
+
+    container.appendChild(p);
   }
-
-
-  thead.appendChild(headerRow);
-  table.appendChild(thead);
-
-
-  const tbody =
-    document.createElement("tbody");
-
-
-  /*
-    lines[1] är separatorraden.
-  */
-
-  for (
-    let i = 2;
-    i < lines.length;
-    i++
-  ) {
-    const cells =
-      splitMarkdownTableRow(
-        lines[i]
-      );
-
-    const tr =
-      document.createElement("tr");
-
-
-    for (
-      let column = 0;
-      column < headerCells.length;
-      column++
-    ) {
-      const td =
-        document.createElement("td");
-
-      renderInlineMarkdown(
-        cells[column] || "",
-        td
-      );
-
-      tr.appendChild(td);
-    }
-
-
-    tbody.appendChild(tr);
-  }
-
-
-  table.appendChild(tbody);
-  container.appendChild(table);
 }
+
 
 /* =========================================================
    Inline markdown
