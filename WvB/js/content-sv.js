@@ -147,7 +147,7 @@ timeline: {
 1888 - Konstapeln
 1889 - Reskamraten
 1889 - Svinaherden och grefvedottern eller Guldgräfvarens skatt
-1890 - <font color=yellow><b>En Löjtnants Händelser</b> (Bonnier 1912)</font>
+<font color=green><b>1890 - En Löjtnants Händelser</b>)</font>
 1892 - Resignation
 1897 - En berättelse om en utmärkt militär
 <h3>Samlingar</h3>           
