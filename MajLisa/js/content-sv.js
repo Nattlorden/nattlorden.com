@@ -6583,7 +6583,109 @@ Tack.`
   showPlaceholder: true
   },
 
-    mailysa_1: {
+kickTheDoor: {
+      menuTitle: "Kick the door wideopen",
+      title: "Kick the door wideopen",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad 14e oktober 1996"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `You came dressed like Sunday morning
+With a pocket full of rules
+Counting every crooked picture
+Like the room belonged to you
+
+You straighten every table
+You measure every grin
+You tell me where the line is
+Then complain when I step in
+You keep your little ledger
+Of the proper and refined
+But I never signed the contract
+And I never changed my mind
+
+So ring your bell
+Call the crowd
+Say my name a little loud
+
+ I’m gonna kick the door wide open
+ Let the good bad manners in
+ Wear my heart above the neckline
+ Wear my trouble like a grin
+ You can keep your perfect posture
+ You can keep your careful view
+ I was never made for standing
+ Where you told me people do
+
+You speak in little circles
+Like a judge behind a fan
+Everybody gets a number
+Everybody gets a plan
+But the minute music catches
+And the floor begins to shake
+All your precious regulations
+Start to bend and start to break
+
+So raise your brow
+Cross your arms
+I’ve survived much worse alarms
+
+ I’m gonna kick the door wide open
+ Let the good bad manners in
+ Wear my heart above the neckline
+ Wear my trouble like a grin
+ You can keep your perfect posture
+ You can keep your careful view
+ I was never made for standing
+ Where you told me people do
+
+Maybe I’m improper
+Maybe that’s the charm
+Maybe all your warnings
+Never meant me any harm
+But every room gets smaller
+When everybody plays it safe
+So I’ll be in the doorway
+Making faces at the saints
+
+No invitation
+No apology
+No reservation
+Come and dance with me
+
+ I’m gonna kick the door wide open
+ Let the whole wild evening in
+ Wear my heart above the neckline
+ Wear my trouble like a grin
+ You can keep your perfect posture
+ You can keep your careful view
+ I was never made for standing
+ Where you told me people do
+
+Turn the chairs around
+Drag the curtains down
+If they ask who started it
+Tell them I’m still in town`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    uncoverTheArt: {
       menuTitle: " Uncover the art",
       title: "Uncover the art",
       blocks: [
@@ -6672,7 +6774,113 @@ Uncover the art`
     }
   ],
   showPlaceholder: false
-  }
+  },
+
+  fyrtioSedan: {
+      menuTitle: "40 år sedan",
+      title: "40 år sedan",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e  2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Det knackar stilla på min dörr
+Från en värld jag lämnat kvar
+
+Jag ställde gitarren mot en vägg
+Och lät åren gå i fred
+Scener blev till minnen bara
+Och applåder blev till ved
+Maj-Lis tog farväl en höst
+Ingen bad mig stanna kvar
+Jag trodde sånger hade bäst före
+Som tidningar från gamla dar
+
+Men någon fann ett dammigt band
+Och skickade det vidare
+Plötsligt sjöng mitt yngre jag
+För människor jag aldrig sett
+
+ 40 år...
+ 40 år sen Maj-Lis lade av
+ Ändå lyssnar någon nu
+ Ändå bär min röst ett svar
+ Hur kan man fortfarande
+ Betyda nånting alls?
+ Hur kan en gammal blues
+ Hitta hem igen?
+
+Jag pluggar in min Les Paul igen
+I den förstärkare jag har
+Den brusar lite, precis som jag
+Men tonen finns ändå kvar
+Ett enkelt komp får bära allt
+Jag behöver inget mer
+Kanske räcker några sanna ord
+När någon verkligen hör och ser
+
+Jag jagade aldrig evigheten
+Den sprang ifatt mig ändå
+Genom händer jag aldrig skakat
+Och ögon jag aldrig får se
+
+ 40 år...
+ 40 år sen Maj-Lis lade av
+ Ändå lyssnar någon nu
+ Ändå bär min röst ett svar
+ Om jag fortfarande
+ Betyder nånting alls
+ Då får den här gamla bluesen
+ Leva ett varv till
+
+Tack...
+Jag trodde faktiskt ni hade glömt mig.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    
+
+    existens: {
+      menuTitle: "Existens",
+      title: "Existens",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e  202"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `lyrics`
+    }
+  ],
+  showPlaceholder: false
+    }
 
     /*
 
