@@ -7292,7 +7292,8 @@ act3_9: {
   ]
 
 
-}
+},
+
 
 /*
 
@@ -7304,5 +7305,15 @@ act3_9: {
       showPlaceholder: true
     }, 
 */
-  }
+  },
+  cabaret: {
+    about: {
+      menuTitle: "Om",
+      title: `"Cabaret"`,
+      text: `Pågående projekt. Om det blir en musikal av det eller om det stannar vid ett konceptalbum återstår att se.`,
+      showPlaceholder: true
+    }
+  }  
+
+
 };

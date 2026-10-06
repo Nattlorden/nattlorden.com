@@ -1,11 +1,13 @@
 const sectionLabels = {
   sv: {
     general: "Allmänt",
-    avalon: "Camelot e Avalon"
+    avalon: "Camelot e Avalon",
+    cabaret: `"Cabaret"`
   },
   en: {
     general: "General",
-    avalon: "Camelot e Avalon"
+    avalon: "Camelot e Avalon",
+    cabaret: `"Cabaret"`
   }
 };
 
@@ -23,7 +25,12 @@ const siteMeta = {
       },
       avalon: {
         title: "Camelot e Avalon",
-        tagline: "Min första egna",
+        tagline: "Min första egna opera",
+        headerClass: "header-hifi"
+      },
+      cabaret: {
+        title: `"Cabaret"`,
+        tagline: "Musikal eller konceptalbum",
         headerClass: "header-hifi"
       }
     }
@@ -42,7 +49,12 @@ const siteMeta = {
       },
       avalon: {
         title: "Camelot e Avalon",
-        tagline: "The first of mine",
+        tagline: "The first opera of mine",
+        headerClass: "header-hifi"
+      },
+      cabaret: {
+        title: `"Cabaret"`,
+        tagline: "Musical or concept album",
         headerClass: "header-hifi"
       }
     }

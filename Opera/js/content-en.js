@@ -7241,5 +7241,14 @@ act3_9: {
       showPlaceholder: true
     }, 
 */
-  }
+  },
+  cabaret: {
+    about: {
+      menuTitle: "About",
+      title: `"Cabaret"`,
+      text: `Ongoing project. Whether it will become a musical or remain a concept album is yet to be seen.`,
+      showPlaceholder: true
+    }
+  }  
+
 };

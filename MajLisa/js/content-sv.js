@@ -6566,7 +6566,7 @@ Tack.`
 
     mailysa: {
       menuTitle: "--- MailýsA ---",
-      title: "...",
+      title: "Mailýsa - soloprojekt",
       blocks: [
         /*
         {
@@ -6577,15 +6577,17 @@ Tack.`
     },*/
     {
       type: "text",
-      content: `...`
+      content: `Första singeln från Mailýsa tillkom under en konflikt med Serenia Records över publicering av material för <i>Freyja</i>. 
+      Mailýsa spelade in och publicerade materialet själv i samma stuk som med Skramlet, trots att hon annars jobbat bort det gamla slitsamma sångsättet.
+      Släpptes en måndag och ett exemplar låt redo på direktörens skrivbord när han kom in på morgonen.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
   },
 
 kickTheDoor: {
-      menuTitle: "Kick the door wideopen",
-      title: "Kick the door wideopen",
+      menuTitle: " Kick the Door Wide Open",
+      title: "Kick the Door Wide Open",
       blocks: [
      {
       type: "image",
@@ -6595,7 +6597,7 @@ kickTheDoor: {
     },
     {
       type: "text",
-      content: `<i></i>
+      content: `<i>Egenpublicerad under en pågående konflikt med Serenia Records.</i>
       
       <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
@@ -6777,7 +6779,7 @@ Uncover the art`
   },
 
   fyrtioSedan: {
-      menuTitle: "40 år sedan",
+      menuTitle: " 40 år sedan",
       title: "40 år sedan",
       blocks: [
      {
@@ -6856,7 +6858,7 @@ Jag trodde faktiskt ni hade glömt mig.`
     
 
     existens: {
-      menuTitle: "Existens",
+      menuTitle: " Existens",
       title: "Existens",
       blocks: [
      {
@@ -6867,7 +6869,7 @@ Jag trodde faktiskt ni hade glömt mig.`
     },
     {
       type: "text",
-      content: `<i></i>
+      content: `<i>Baserad på orden i det offentliga konstverket "Existens" i Malmö.</i>
       
       <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
@@ -6876,11 +6878,103 @@ Jag trodde faktiskt ni hade glömt mig.`
     },
     {
       type: "text",
-      content: `lyrics`
+      content: `Jag <b>går</b> <b>genom</b> tunneln <b>vid</b> Latin
+och <b>hör</b> ett <b>mummel</b> ovanför
+där trafiken rullar <b>över</b> oss
+som den alltid gjort förut.
+Vid väggen <b>ser</b> jag <b>skuggan</b>
+av en flicka som var jag.
+Hon hade <b>vargen</b> <b>under</b> huden
+och för bråttom varje dag.
+
+Hon visste vad <b>det rätta</b> var
+och valde som hon ville.
+En <b>tår</b> fick torka utan hjälp,
+<b>begär</b> fick heta <b>liv</b>.
+Jag har lärt mig <b>tvivla</b> sedan dess,
+fått backa mer än en gång.
+Men <b>ingenting</b> var helt <b>förgäves</b>,
+fast vägen blev så lång.
+
+ Hon går i mina steg,
+ vi är <b>två</b> i samma <b>kropp</b>.
+ <b>Mellan</b> den jag var och den jag är
+ har åren byggt en bro.
+ Hon vill springa <b>mot</b> all världens <b>ljus</b>,
+ jag vill <b>andas</b> här en stund.
+
+De här orden kom till efter mig,
+jag stannar till och läser.
+Ett <b>minne</b> är en oskarp <b>bild</b>
+som kroppen ändå känner.
+Det blåser kallt från andra sidan,
+<b>snart</b> ska jag gå <b>åter</b>.
+Hon skulle undra varför jag
+står kvar och låter tiden gå.
+
+ Hon går i mina steg,
+ vi är två i samma kropp.
+ Mellan den jag var och den jag är
+ har åren byggt en bro.
+ Hon vill springa mot all världens ljus,
+ jag vill andas här en stund.
+
+Samma <b>person</b>, en annan hållning,
+en <b>berättelse</b> som pågår än.
+Jag tänker <b>inte</b> be om lov
+<b>för</b> det jag vill ha kvar.
+
+ Hon går i mina steg,
+ vi är två i samma kropp.
+ Mellan den jag var och den jag är
+ har åren byggt en bro.
+ Hon vill springa mot all världens ljus,
+ jag vill andas här en stund.
+
+<b>Under</b> gatan står jag still.
+Vargen väntar tills jag vill.`
     }
   ],
   showPlaceholder: false
+    },
+
+    karna: {
+      menuTitle: "--- Karna ---",
+      title: "Karna Jönsdotter - soloprojekt",
+      blocks: [
+        /*
+        {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e "
+    },*/
+    {
+      type: "text",
+      content: `Se även <a href="../Galdra/index.html" >Galdrakällan</a>.`
     }
+  ],
+  showPlaceholder: false
+  },
+
+  bp: {
+      menuTitle: "--- BP ---",
+      title: "BP - soloprojekt",
+      blocks: [
+        /*
+        {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e "
+    },*/
+    {
+      type: "text",
+      content: `Se även <a href="../Galdra/index.html" >Galdrakällan</a>.`
+    }
+  ],
+  showPlaceholder: false
+  },
 
     /*
 
