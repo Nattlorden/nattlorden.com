@@ -130,7 +130,7 @@ window.setLang =function setLang(lang) {
             </div>
           </article>`;
         }).join("")
-      : '<div class="empty">>${t.noMatches}</div>';
+      : `<div class="empty">${t.noMatches}</div>`;
   }
 
 
