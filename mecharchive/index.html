@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A searchable catalog of artists and songs found across nattlorden.com.">
+  <title>Nattlorden Music Catalog</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header>
+
+  <div class="header-left">
+    <a href="../" class="back-home" aria-label="Back to home">
+      <img id="backArrow" src="assets/ui/back-arrow.png" alt="Tillbaka">
+    </a>
+
+    <div class="heading">
+      <div>
+        <div class="eyebrow">The mechanical archive</div>
+        <h1>Nattlorden Music</h1>
+        <div class="subtle" id="subtitle">Artists and songs found across nattlorden.com</div>
+      </div>
+    </div>
+
+    <div class="toolbar">
+      <input id="search"
+             type="search"
+             placeholder="Search songs, artists, albums…"
+             autocomplete="off">
+
+      <select id="artist" aria-label="Filter by artist">
+        <option value="">All artists</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="header-right">
+    <div class="lang-switch">
+      <button type="button" id="btn-sv" onclick="setLang('sv')">SV</button>
+      <button type="button" id="btn-en" onclick="setLang('en')">EN</button>
+    </div>
+  </div>
+
+</header>
+  <main>
+    <div id="stats" class="stats">Loading catalog…</div>
+    <div id="grid" class="grid"></div>
+    <noscript><div class="error">JavaScript is required to browse this catalog.</div></noscript>
+  </main>
+  <script src="../js/common-navigation.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/catalog.js"></script>
+</body>
+</html>
