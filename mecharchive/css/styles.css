@@ -367,4 +367,26 @@ header {
     width: 100%;
     max-width: none;
   }
+
+    #grid article {
+    display: grid;
+    grid-template-columns: 90px minmax(0, 1fr);
+    gap: 0.8rem;
+    align-items: start;
+  }
+
+  #grid article .cover {
+    width: 90px;
+    height: 90px;
+    max-width: 90px;
+    object-fit: cover;
+  }
+
+  #grid article > div:last-child {
+    min-width: 0;
+  }
+
+  #grid article h2 {
+    margin-top: 0;
+  }
 }
