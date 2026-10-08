@@ -8,8 +8,7 @@
   <meta property="og:description" content="Home of Nattlorden's Universe.">
   <meta property="og:url" content="https://nattlorden.com/">
   <meta property="og:image" content="https://nattlorden.com/assets/social/landing-preview.jpg">
-  <!-- Facebook App ID - dummy to silence scrape-->
-  <meta property="fb:app_id" content="123456789012345" />
+
   
   <title>Serenia</title>
   <link rel="stylesheet" href="css/style.css">
@@ -27,7 +26,7 @@
 
   <main>
   
-  <div class="tile-grid">
+  <div class="tile-grid" style="--tile-columns: 3;">
 
       <div class="tile hero">
             <a href="Serenia/index.html">
@@ -63,6 +62,18 @@
         </a>
       </div>
 
+      <div class="tile phc">
+        <a href="PHC/index.html">
+          <div class="tile-bg" style="background-image: url('assets/Devil.png');"></div>
+          <div class="tile-overlay"></div>
+          <div class="tile-content">
+            <h2>POSTHUMAN CABARET</h2>
+            <p>Synthetic glamour. Human, deprecated.</p>
+          </div>
+        </a>
+      </div>
+  </div><div class="tile-grid" style="--tile-columns: 4;">
+
       <div class="tile freyja">
         <a href="Galdra/index.html">
           <div class="tile-bg" style="background-image: url('assets/galdralogo.png');"></div>
@@ -74,27 +85,9 @@
         </a>
       </div>
 
-      <div class="tile wilhelm">
-            <a href="/WvB/index.html">
-              <div class="tile-bg" style="background-image: url('assets/portrait.png');"></div>
-              <div class="tile-overlay"></div>
-              <div class="tile-content">
-                <h2>Wilhelm von Braun</h2>
-                <p>Precision. Structure. Obsession made form.</p>
-              </div>
-            </a>
-      </div>
+      
 
-      <div class="tile phc">
-        <a href="PHC/index.html">
-          <div class="tile-bg" style="background-image: url('assets/Devil.png');"></div>
-          <div class="tile-overlay"></div>
-          <div class="tile-content">
-            <h2>POSTHUMAN CABARET</h2>
-            <p>Synthetic glamour. Human, deprecated.</p>
-          </div>
-        </a>
-      </div>
+      
 
       <div class="tile phc">
         <a href="Echaeon/index.html">
@@ -129,8 +122,50 @@
             </a>
       </div>
 
-      
+   </div> <!-- end tile-grid -->   
     
+      
+
+   <div class="tile-grid" style="--tile-columns: 3;">    
+
+      <div class="tile wilhelm">
+            <a href="/WvB/index.html">
+              <div class="tile-bg" style="background-image: url('assets/portrait.png');"></div>
+              <div class="tile-overlay"></div>
+              <div class="tile-content">
+                <h2>Wilhelm von Braun</h2>
+                <p>Precision. Structure. Obsession made form.</p>
+              </div>
+            </a>
+      </div>
+
+      <div class="tile phc">
+        <a href="mecharchive/index.html">
+          <div class="tile-bg" style="background-image: url('assets/mecharchive.png');"></div>
+          <div class="tile-overlay"></div>
+          <div class="tile-content">
+            <h2>THE MECHANICAL ARCHIVE</h2>
+            <p>Recorded. Indexed. Remembered.</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="tile ornament">
+            <a id="operaLink" href="Opera/index.html">
+              <div class="tile-bg" style="background-image: url('assets/ornament2.png');"></div>
+              <div id="operaMask" class="ornament-mask"></div>
+              <div class="tile-overlay"></div>
+              <div class="tile-content">
+                    <h2>OPERA</h2>
+                <p>Seen. Heard. Created.</p>
+              </div>
+            </a>
+      </div>
+
+      
+   </div>
+    <div class="tile-grid" style="--tile-columns: 4;">      
+
       <div class="tile food">
             <a href="Food/index.html">
               <div class="tile-bg" style="background-image: url('assets/elda2.jpg');"></div>
@@ -164,28 +199,19 @@
             </a>
       </div>
 
-      <div class="tile ornament">
-            <a id="operaLink" href="Opera/index.html">
-              <div class="tile-bg" style="background-image: url('assets/ornament2.png');"></div>
-              <div id="operaMask" class="ornament-mask"></div>
+      <div class="tile tphc">
+            <a href="Apo/index.html">
+              <div class="tile-bg" style="background-image: url('assets/apophthegmata.png');"></div>
               <div class="tile-overlay"></div>
               <div class="tile-content">
-                    <h2>OPERA</h2>
-                <p>Seen. Heard. Created.</p>
+                <h2>APOPHTHEGMATA</h2>
+                <p>Wisdom, Wit & Wonder</p>
               </div>
             </a>
       </div>
-
-      <div class="tile phc">
-        <a href="mecharchive/index.html">
-          <div class="tile-bg" style="background-image: url('assets/mecharchive.png');"></div>
-          <div class="tile-overlay"></div>
-          <div class="tile-content">
-            <h2>THE MECHANICAL ARCHIVE</h2>
-            <p>Recorded. Indexed. Remembered.</p>
-          </div>
-        </a>
-      </div>
+    </div>
+    <div class="tile-grid" style="--tile-columns: 5;">     
+  
 
       <div class="tile private-only">
             <a href="Tasks/index.html">
@@ -207,16 +233,17 @@
               </div>
             </a>
       </div>
-      <div class="tile family-only">
-            <a href="Places/index.html">
-              <div class="tile-bg" style="background-image: url('assets/travel.png');"></div>
+      <div class="tile friend-only">
+            <a href="Bucket/index.html">
+              <div class="tile-bg" style="background-image: url('assets/bucketlist.png');"></div>
               <div class="tile-overlay"></div>
               <div class="tile-content">
-                <h2>PLACES</h2>
-                <p>...to visit ...to see</p>
+                <h2>BUCKET LIST</h2>
+                <p>Private?</p>
               </div>
             </a>
       </div>
+      
       <div class="tile family-only">
             <a href="Events/index.html">
               <div class="tile-bg" style="background-image: url('assets/events.png');"></div>
@@ -227,13 +254,13 @@
               </div>
             </a>
       </div>
-      <div class="tile friend-only">
-            <a href="Bucket/index.html">
-              <div class="tile-bg" style="background-image: url('assets/bucketlist.png');"></div>
+      <div class="tile family-only">
+            <a href="Places/index.html">
+              <div class="tile-bg" style="background-image: url('assets/travel.png');"></div>
               <div class="tile-overlay"></div>
               <div class="tile-content">
-                <h2>BUCKET LIST</h2>
-                <p>Private?</p>
+                <h2>PLACES</h2>
+                <p>...to visit ...to see</p>
               </div>
             </a>
       </div>

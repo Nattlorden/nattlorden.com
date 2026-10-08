@@ -1,0 +1,630 @@
+let lang = "sv";
+let currentSection = "sententiae";
+let currentPage = "about";
+
+
+function getContent() {
+  return lang === "sv" ? contentSV : contentEN;
+}
+
+
+function getSections() {
+  return Object.keys(getContent());
+}
+
+
+function getPages(sectionKey) {
+  const content = getContent();
+
+  if (!content[sectionKey]) {
+    return [];
+  }
+
+  return Object.keys(content[sectionKey]);
+}
+
+
+function getPage(sectionKey, pageKey) {
+  const content = getContent();
+
+  return content?.[sectionKey]?.[pageKey] || null;
+}
+
+
+function ensureValidState() {
+  const sections = getSections();
+
+  if (!sections.length) {
+    currentSection = "";
+    currentPage = "";
+    return;
+  }
+
+  if (!sections.includes(currentSection)) {
+    currentSection = sections[0];
+  }
+
+  const pages = getPages(currentSection);
+
+  if (!pages.length) {
+    currentPage = "";
+    return;
+  }
+
+  if (!pages.includes(currentPage)) {
+    currentPage = pages[0];
+  }
+}
+
+
+function updateLanguageButtons() {
+  const btnSV = document.getElementById("btn-sv");
+  const btnEN = document.getElementById("btn-en");
+
+  if (!btnSV || !btnEN) {
+    return;
+  }
+
+  btnSV.classList.toggle("active", lang === "sv");
+  btnEN.classList.toggle("active", lang === "en");
+}
+
+
+function updateTagline() {
+  const tagline = document.getElementById("tagline");
+  const title = document.getElementById("siteTitle");
+
+  const meta =
+    siteMeta?.[lang]?.sections?.[currentSection];
+
+  if (tagline) {
+    tagline.textContent =
+      meta?.tagline || "";
+  }
+
+  if (title) {
+    title.textContent =
+      meta?.title || "";
+  }
+
+  document.documentElement.lang = lang;
+}
+
+
+function updateTheme() {
+  if (!currentSection) {
+    document.body.removeAttribute("data-theme");
+    return;
+  }
+
+  document.body.dataset.theme =
+    currentSection;
+}
+
+
+function updateHeaderStyle() {
+  const header =
+    document.getElementById("siteHeader");
+
+  if (!header) {
+    return;
+  }
+
+  header.className = "site-header";
+
+  const meta =
+    siteMeta?.[lang]?.sections?.[currentSection];
+
+  if (meta?.headerClass) {
+    header.classList.add(
+      meta.headerClass
+    );
+  }
+}
+
+
+function renderSideMenu() {
+  const sideMenu =
+    document.getElementById("sideMenu");
+
+  if (!sideMenu) {
+    return;
+  }
+
+  sideMenu.innerHTML = "";
+
+  const pages =
+    getVisiblePages(currentSection);
+
+  pages.forEach(pageKey => {
+    const page =
+      getPage(
+        currentSection,
+        pageKey
+      );
+
+    if (!page) {
+      return;
+    }
+
+    const item =
+      document.createElement("div");
+
+    item.className =
+      "side-menu-item";
+
+    item.textContent =
+      page.menuTitle ||
+      page.title ||
+      pageKey;
+
+    if (pageKey === currentPage) {
+      item.classList.add("active");
+    }
+
+    item.onclick = function () {
+      navigateTo(
+        currentSection,
+        pageKey
+      );
+    };
+
+    sideMenu.appendChild(item);
+  });
+}
+
+
+function renderLibrettoLine(block) {
+  const original =
+    block.original || "";
+
+  const translation =
+    block.translation || "";
+
+   const hasVoiceInfo =
+    !!(block.voice || block.note);
+
+  const hideMobileTranslation =
+    block.hideMobileTranslation === true;  
+
+
+  const originalParts =
+    original
+      .trim()
+      .split(/\n\s*\n/);
+
+  const translationParts =
+    translation
+      .trim()
+      .split(/\n\s*\n/);
+
+
+  let mobileHtml = "";
+
+
+  if (
+    originalParts.length ===
+    translationParts.length
+  ) {
+    mobileHtml =
+      originalParts
+        .map((part, index) => `
+          <div class="libretto-mobile-pair">
+
+            <div class="libretto-mobile-original">
+              ${part}
+            </div>
+
+            ${
+            hideMobileTranslation
+              ? ""
+              : `
+                <div class="libretto-mobile-translation">
+                 ${translationParts[index]}
+                </div>
+              `
+            }
+
+          </div>
+        `)
+        .join("");
+  }
+  else {
+    /*
+      Säker fallback om original och
+      översättning inte har samma
+      styckeindelning.
+    */
+
+    mobileHtml = `
+      <div class="libretto-mobile-pair">
+
+        <div class="libretto-mobile-original">
+          ${original}
+        </div>
+
+        ${
+        hideMobileTranslation
+          ? ""
+          : `
+            <div class="libretto-mobile-translation">
+             ${translation}
+            </div>
+          `
+        }
+
+      </div>
+    `;
+  }
+
+
+  return `
+    <div class="libretto-line">
+
+      <div class="libretto-voice ${hasVoiceInfo ? "has-content" : ""}"> 
+        ${block.voice || ""}
+
+        ${block.note
+          ? `<span>${block.note}</span>`
+          : ""}
+      </div>
+
+
+      <div class="libretto-original">
+        ${original}
+      </div>
+
+      <div class="libretto-translation">
+        ${translation}
+      </div>
+
+
+      <div class="libretto-mobile-pairs">
+        ${mobileHtml}
+      </div>
+
+    </div>
+  `;
+}
+
+function renderContent() {
+  const main =
+    document.getElementById("content");
+
+  if (!main) {
+    return;
+  }
+
+  const page =
+    getPage(
+      currentSection,
+      currentPage
+    );
+
+  if (!page) {
+    main.innerHTML = `
+      <h2>${siteMeta?.[lang]?.missingTitle || "Saknas"}</h2>
+      <p>${siteMeta?.[lang]?.missingText || "Innehåll kommer senare."}</p>
+    `;
+    return;
+  }
+
+
+  let html = `
+    ${getMobileMenuButtonHtml()}
+    <h2>${page.title || ""}</h2>
+  `;
+
+
+  if (
+    page.blocks &&
+    page.blocks.length > 0
+  ) {
+    page.blocks.forEach(block => {
+
+      if (block.type === "text") {
+        html += `
+          <div class="text-block">
+            ${block.content || ""}
+          </div>
+        `;
+      }
+
+
+      if (block.type === "note") {
+        html += `
+          <div class="note-block">
+            ${block.content || ""}
+          </div>
+        `;
+      }
+
+
+      if (block.type === "image") {
+        const imageSize =
+          block.size
+            ? `image-${block.size}`
+            : "image-full";
+
+        html += `
+          <figure class="image-block ${imageSize}">
+            <img
+              src="${block.src || ""}"
+              alt="${block.alt || ""}">
+            ${block.caption
+              ? `<figcaption>${block.caption}</figcaption>`
+              : ""}
+          </figure>
+        `;
+      }
+
+
+      if (block.type === "divider") {
+        html += `<hr>`;
+      }
+
+
+      if (block.type === "scene") {
+        html += `
+          <section class="libretto-scene">
+            ${block.title
+              ? `<h3>${block.title}</h3>`
+              : ""}
+
+            ${block.content
+              ? `<div>${block.content}</div>`
+              : ""}
+          </section>
+        `;
+      }
+
+
+      if (block.type === "action") {
+        html += `
+          <div class="libretto-action">
+            ${block.content || ""}
+          </div>
+        `;
+      }
+
+
+      /*if (block.type === "line") {
+        html += `
+          <div class="libretto-line">
+
+            <div class="libretto-voice">
+              ${block.voice || ""}
+
+              ${block.note
+                ? `<span>${block.note}</span>`
+                : ""}
+            </div>
+
+            <div class="libretto-original">
+              ${block.original || ""}
+            </div>
+
+            <div class="libretto-translation">
+              ${block.translation || ""}
+            </div>
+
+          </div>
+        `;
+      }*/
+
+      if (block.type === "line") {
+         html += renderLibrettoLine(block);
+      }
+
+
+    });
+
+  } else {
+
+    if (page.text) {
+      html += `
+        <div class="text-block">
+          ${page.text}
+        </div>
+      `;
+    }
+
+    if (
+      page.images &&
+      page.images.length > 0
+    ) {
+      html += `
+        <div class="image-gallery">
+      `;
+
+      page.images.forEach(src => {
+        html += `
+          <img src="${src}" alt="">
+        `;
+      });
+
+      html += `</div>`;
+    }
+  }
+
+
+  if (page.showPlaceholder !== false) {
+    html += `
+      <div class="placeholder-box">
+        ${siteMeta?.[lang]?.placeholder || ""}
+      </div>
+    `;
+  }
+
+
+  const visiblePages =
+    getVisiblePages(currentSection);
+
+  const currentIndex =
+    visiblePages.indexOf(currentPage);
+
+  const previousKey =
+    currentIndex > 0
+      ? visiblePages[currentIndex - 1]
+      : null;
+
+  const nextKey =
+    currentIndex >= 0 &&
+    currentIndex < visiblePages.length - 1
+      ? visiblePages[currentIndex + 1]
+      : null;
+
+
+  if (previousKey || nextKey) {
+    const previousPage =
+      previousKey
+        ? getPage(
+            currentSection,
+            previousKey
+          )
+        : null;
+
+    const nextPage =
+      nextKey
+        ? getPage(
+            currentSection,
+            nextKey
+          )
+        : null;
+
+
+    html += `
+      <nav
+        class="page-navigation"
+        aria-label="${
+          lang === "sv"
+            ? "Sidnavigering"
+            : "Page navigation"
+        }"
+      >
+
+        <div class="page-navigation-prev">
+          ${
+            previousPage
+              ? `
+                <button
+                  type="button"
+                  class="page-nav-link"
+                  data-page-nav="${previousKey}"
+                >
+                  <span class="page-nav-direction">
+                    ← ${
+                      lang === "sv"
+                        ? "Föregående"
+                        : "Previous"
+                    }
+                  </span>
+
+                  <span class="page-nav-title">
+                    ${
+                      previousPage.menuTitle ||
+                      previousPage.title ||
+                      previousKey
+                    }
+                  </span>
+                </button>
+              `
+              : ""
+          }
+        </div>
+
+
+        <div class="page-navigation-next">
+          ${
+            nextPage
+              ? `
+                <button
+                  type="button"
+                  class="page-nav-link"
+                  data-page-nav="${nextKey}"
+                >
+                  <span class="page-nav-direction">
+                    ${
+                      lang === "sv"
+                        ? "Nästa"
+                        : "Next"
+                    } →
+                  </span>
+
+                  <span class="page-nav-title">
+                    ${
+                      nextPage.menuTitle ||
+                      nextPage.title ||
+                      nextKey
+                    }
+                  </span>
+                </button>
+              `
+              : ""
+          }
+        </div>
+
+      </nav>
+    `;
+  }
+
+
+  main.innerHTML = html;
+}
+
+
+function renderAll() {
+  ensureValidState();
+  updateLanguageButtons();
+  updateTagline();
+  updateTheme();
+  updateHeaderStyle();
+  renderTopMenu();
+  renderSideMenu();
+  renderContent();
+  updateMobileView();
+}
+
+
+function setLang(newLang) {
+  lang = newLang;
+  renderAll();
+}
+
+
+document.addEventListener(
+  "click",
+  function (e) {
+
+    const pageNav =
+      e.target.closest("[data-page-nav]");
+
+    if (pageNav) {
+      navigateTo(
+        currentSection,
+        pageNav.dataset.pageNav
+      );
+
+      return;
+    }
+
+
+    const link = e.target.closest(
+      "a[data-section][data-page]"
+    );
+
+    if (!link) {
+      return;
+    }
+
+    e.preventDefault();
+
+    navigateTo(
+      link.dataset.section,
+      link.dataset.page
+    );
+  }
+);
+
+
+initCommonNavigation();

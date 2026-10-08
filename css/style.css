@@ -42,13 +42,14 @@ main {
   gap: 24px;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 24px;
+  padding: 12px 24px;
   box-sizing: border-box;
 }
 
 @media (min-width: 768px) {
   .tile-grid {
-    grid-template-columns: repeat(4, 1fr);
+    --tile-columns: 4;
+    grid-template-columns: repeat(var(--tile-columns), 1fr); /* was (4,1fr) */
   }
 }
 

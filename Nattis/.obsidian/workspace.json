@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Existens (konstverk).md",
+                "file": "MediaPC ( 'BlackOne' ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Existens (konstverk)"
+              "title": "MediaPC ( 'BlackOne' )"
             }
           }
         ],
@@ -182,9 +182,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Filutforskare"
@@ -328,9 +326,9 @@
   },
   "active": "2e94df7698b51798",
   "lastOpenFiles": [
+    "Existens (konstverk).md",
     "Faktiskt.md",
     "Existens (sång).md",
-    "Existens (konstverk).md",
     "länge glömt.md",
     "MediaPC ( 'BlackOne' ).md",
     "Namnlös",

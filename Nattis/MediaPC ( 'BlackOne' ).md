@@ -54,7 +54,7 @@ Koppla till microsoft-konto via min hotmail
 
 KeePass  (från NAS)
 
-Photoscape X  (från Store)
+Photoscape X  (från Store - dubbelkolla inloggad där)
 
 Movemouse (från Store)
 
@@ -73,3 +73,7 @@ winget install --id Microsoft.VisualStudioCode -e
 npm install -g @doist/todoist-cli
 
 td auth login
+
+
+Obsidian.   Mappa till "Nattis" i hemsidesrepot
+
