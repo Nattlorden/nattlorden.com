@@ -3,12 +3,14 @@ const sectionLabels = {
     about: "Generellt",
     deep: "Djupdykning",
     mindmap: "Mind map",
+    restaurant: "Restauranger",
     contact: "Kontakt"
   },
   en: {
     about: "Generally",
     deep: "Deep dive",
     mindmap: "Mind map",
+    restaurant: "Restaurants",
     contact: "Contact"
   }
 };
@@ -40,6 +42,11 @@ const siteMeta = {
         tagline: "Personligt och kontakt",
         headerClass: "header-about"
       },
+      restaurant: {
+        title: "Nattlorden",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
       contact: {
         title: "Nattlorden",
         tagline: "Personligt och kontakt",
@@ -66,6 +73,11 @@ const siteMeta = {
         headerClass: "header-about"
       },
       mindmap: {
+        title: "Nattlorden",
+        tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+       restaurant: {
         title: "Nattlorden",
         tagline: "Personligt och kontakt",
         headerClass: "header-about"
