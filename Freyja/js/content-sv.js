@@ -271,6 +271,22 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M"
     },
     {
+      title: "Follow the Hidden Fire",
+      image: "assets/covers/Follow the Hidden fire 1200.jpg",
+      section: "music",
+      page: "followTheHiddenFire",
+      spotify: "",
+      youtube: ""
+    },
+    {
+      title: "Melinoë",
+      image: "assets/covers/Melinoë 3k.jpg",
+      section: "music",
+      page: "melinoe",
+      spotify: "https://open.spotify.com/album/5SUZcBHU3FG0alHCnaevDC?si=_DKyLwPmTImbWwrYihiVlw",
+      youtube: "https://youtu.be/Gki-hIDWqpE?list=OLAK5uy_m59Ivhstzg2fdPbEioZfp87pY97oTh_CI"
+    },
+    {
       title: "Ég er hér",
       image: "assets/covers/Eg er hér 3k.jpg",
       section: "music",
@@ -285,15 +301,8 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "myTears",
       spotify: "https://open.spotify.com/album/4CZiPgMJXtR7BvHiIFHrPx?si=wwkxOEXGS2e26ShXVmip6A",
       youtube: "https://youtu.be/xkdwR-mv0kk?list=OLAK5uy_nPoX792r-xwK6pl7z0d_XJA_R9FU-d5sE"
-    },
-    {
-      title: "Melinoë",
-      image: "assets/covers/Melinoë 3k.jpg",
-      section: "music",
-      page: "melinoe",
-      spotify: "https://open.spotify.com/album/5SUZcBHU3FG0alHCnaevDC?si=_DKyLwPmTImbWwrYihiVlw",
-      youtube: "https://youtu.be/Gki-hIDWqpE?list=OLAK5uy_m59Ivhstzg2fdPbEioZfp87pY97oTh_CI"
     }
+    
   ],
   showPlaceholder: false
     },
@@ -364,12 +373,44 @@ Bara våra egna landskap — sedda med andra ögon.`,
           youtube: "https://youtu.be/8qs3hQks-aI"
         },
         {
+          title: "Beneath the Rowan",
+          image: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+          section: "music",
+          page: "beneathTheRowan",
+          spotify: "",
+          youtube: ""
+        },
+        {
           title: "On the Edge of Time",
           image: "assets/covers/Paths less travelled 1200.jpg",
           section: "music",
           page: "storiesInTheStone",
           spotify: "https://open.spotify.com/track/0zf43QFq20oCq0drbZddvt?si=b3f734a6f5bd471e",
           youtube: "https://youtu.be/MdtveFNPMw0"
+        },
+        {
+          title: "The Bride Who Would Not Eat (Caterina da Siena I) ",
+          image: "assets/covers/Voices from Beyond 1200.jpg",
+          section: "music",
+          page: "theBrideWhoWouldNotEat",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          title: "They Carried Me Home (Caterina da Siena II) ",
+          image: "assets/covers/Voices from Beyond 1200.jpg",
+          section: "music",
+          page: "theyCarriedMeHome",
+          spotify: "",
+          youtube: ""
+        },
+        {
+          title: "What Remains of Me (Caterina da Siena III) ",
+          image: "assets/covers/Voices from Beyond 1200.jpg",
+          section: "music",
+          page: "whatRemainsOfMe",
+          spotify: "",
+          youtube: ""
         },
         {
           title: "A bird on the sign",
@@ -429,6 +470,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/wKpxmb6z-M8?list=OLAK5uy_kWhV3KyDLkkQzWyd4-sLmOxwr36GVBUjc"
     },
     {
+      title: "Lantern Man",
+      image: "assets/covers/Lantern Man 1200.jpg",
+      section: "music",
+      page: "lanternMan",
+      spotify: "https://open.spotify.com/track/2WyMO2yY2tT0JYazlsPAoK?si=f99704341027488b",
+      youtube: "https://youtu.be/zUDd_OqR35c?si=fS-C11JIjXwHCgQ1"
+    },
+    {
       title: "The Haunted Palace",
       image: "assets/covers/Haunted Palace 3k.jpg",
       section: "music",
@@ -451,6 +500,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "comeThrough",
       spotify: "https://open.spotify.com/album/6HU6GGw7g4GB9yKUvNAvia?si=4G1fXuJmQG-v-FiQadppaA",
       youtube: "https://youtu.be/gw2mxzuMgyM?list=RDgw2mxzuMgyM"
+    },
+    {
+      title: "Wingthwaite White",
+      image: "assets/covers/Voices from Beyond 1200.jpg",
+      section: "music",
+      page: "wingthwaiteWhite",
+      spotify: "",
+      youtube: ""
     },
     {
       title: "The Market Opens When the Stars Are Right",
@@ -493,6 +550,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "amaranth",
       spotify: "https://open.spotify.com/album/1WaHwhcPQluxSErEMIQZXf?si=fP0QFDejTGyqcwgYl98EsQ",
       youtube: "https://youtu.be/oZauxce2TvE?list=OLAK5uy_m-syGx-3Y1nk9X-3s9Ly3506rbrRpozAM"
+    },
+    {
+      title: "Wyrd is Worthy",
+      image: "assets/covers/Paths less travelled 1200.jpg",
+      section: "music",
+      page: "wyrdIsWorthy",
+      spotify: "https://open.spotify.com/track/2H8uJVhccv9kOQcdRQGgK1?si=a555c5a04773471f",
+      youtube: "https://youtu.be/RO_UY_G3vrw"
     },
     {
       title: "Transmutation",
@@ -587,11 +652,35 @@ Bara våra egna landskap — sedda med andra ögon.`,
     },
     {
       title: "Morning / A Vision",
-      image: "assets/covers/todo.jpg",
+      image: "assets/covers/Paths less travelled 1200.jpg",
       section: "music",
       page: "morningAVision",
       spotify: "https://open.spotify.com/track/0J9eH5VbUW9KHEMp8PAhUb?si=b573ca2483864a80",
       youtube: "https://youtu.be/yFJGVZeX05Y"
+    },
+    {
+      title: "The Knight and the Forest Maid",
+      image: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+      section: "music",
+      page: "knightAndForestMaid",
+      spotify: "",
+      youtube: ""
+    },
+    {
+      title: "My love will not die",
+      image: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+      section: "music",
+      page: "myLoveWillNotDie",
+      spotify: "",
+      youtube: ""
+    },
+    {
+      title: "Half divine and half declined",
+      image: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+      section: "music",
+      page: "halfDivineAndHalfDeclined",
+      spotify: "",
+      youtube: ""
     },
     {
       title: "Laughing Face / Broken Core",
@@ -1279,16 +1368,17 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
               title: "Lantern Man",
               duration: "4:49",
+              title: "Lantern Man",
               page: "lanternMan",
-              spotify: "",
-              youtube: ""
+              spotify: "https://open.spotify.com/track/2WyMO2yY2tT0JYazlsPAoK?si=f99704341027488b",
+              youtube: "https://youtu.be/zUDd_OqR35c?si=fS-C11JIjXwHCgQ1"
             },
             {
               title: "Wyrd Is Worthy",
               duration: "5:33",
               page: "wyrdIsWorthy",
-              spotify: "",
-              youtube: ""
+              spotify: "https://open.spotify.com/track/2H8uJVhccv9kOQcdRQGgK1?si=a555c5a04773471f",
+              youtube: "https://youtu.be/RO_UY_G3vrw"
             }
           ]
         }
@@ -1506,7 +1596,7 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
               title: "The Knight and the Forest Maid",
               duration: "4:18",
-              page: "page",
+              page: "knightAndForestMaid",
               spotify: "",
               youtube: ""
             },
@@ -1520,7 +1610,7 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
                   title: "Beneath the Rowan",
                   duration: "6:32",
-                  page: "page",
+                  page: "beneathTheRowan",
                   spotify: "",
                   youtube: ""
             }
@@ -1534,14 +1624,14 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
               title: "Follow the Hidden Fire",
               duration: "4:49",
-              page: "page",
+              page: "followTheHiddenFire",
               spotify: "",
               youtube: ""
             },
             {
               title: "My love will not die",
               duration: "5:28",
-              page: "page",
+              page: "myLoveWillNotDie",
               spotify: "",
               youtube: ""
             },
@@ -1555,7 +1645,7 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
                   title: "Half divine and half declined",
                   duration: "4:17",
-                  page: "page",
+                  page: "halfDivineAndHalfDeclined",
                   spotify: "",
                   youtube: ""
             },
@@ -1783,14 +1873,14 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
                   title: "The Bride Who Would Not Eat (Caterina da Siena I)",
                   duration: ":",
-                  page: "page",
+                  page: "theBrideWhoWouldNotEat",
                   spotify: "",
                   youtube: ""
             },
             {
                   title: "Wingthwaite White",
                   duration: ":",
-                  page: "page",
+                  page: "wingthwaiteWhite",
                   spotify: "",
                   youtube: ""
             },
@@ -1818,7 +1908,7 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
                   title: "They Carried Me Home (Caterina da Siena II)",
                   duration: ":",
-                  page: "page",
+                  page: "theyCarriedMeHome",
                   spotify: "",
                   youtube: ""
             }
@@ -1862,7 +1952,7 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
                   title: "What Remains of Me (Caterina da Siena III)",
                   duration: ":",
-                  page: "page",
+                  page: "whatRemainsOfMe",
                   spotify: "",
                   youtube: ""
             }
@@ -3488,6 +3578,103 @@ Ooh
     showPlaceholder: false
    },
 
+   followTheHiddenFire: {
+    title: "Follow the Hidden Fire",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Follow the Hidden Fire 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Ah-ah, ah-ah
+Ah-ah, ah-ah
+
+I left the fire where the village sleeps
+Walked past the pine where the moon runs deep
+Snow on my shoulders, smoke in my hair
+Night held its breath when it found me there
+
+No road behind me, no name to defend
+Only the hush where the old roots bend
+Under the star-ice, under the boughs
+Something more ancient was waking now
+
+Not to be lost
+Not to disappear
+I came to the silence
+To learn how to hear
+
+ Follow the hidden fire
+ Deep in the firwood night
+ Older than blood and bone
+ Older than wrong and right
+ Follow the hidden fire
+ Cold hands, a steady light
+ Out where the dark is kind
+ I hear the elder sky
+
+Follow, follow the hidden fire
+Follow, follow the hidden fire
+
+The moss knew secrets it would not tell
+Till I lay down where the frost roots dwell
+Then through the stillness the silence turned
+Into a tongue that my body learned
+
+It said be patient with what is veiled
+Truth is a path where the proud have failed
+Drink from the dark where the clear springs start
+Carry the winter and guard the spark
+
+Not to be saved
+Not to be seen
+I came for the wisdom
+That grows in between
+
+ Follow the hidden fire
+ Deep in the firwood night
+ Older than blood and bone
+ Older than wrong and right
+ Follow the hidden fire
+ Cold hands, a steady light
+ Out where the dark is kind
+ I hear the elder sky
+
+No crown, no temple stone
+No hand to lead me home
+Only the winter breath
+Only the patient snow
+And in the oldest dark
+Freya remembers me
+
+Step by step, through the silver pines
+Breath by breath, where the starfire shines
+Step by step, let the small self tire
+Till the soul stands up in the hidden fire
+
+ Follow the hidden fire
+ Deep in the firwood night
+ Older than blood and bone
+ Older than wrong and right
+ Follow the hidden fire
+ Cold hands, a steady light
+ Out where the dark is kind
+ I hear the elder sky
+ Follow the hidden fire
+ Follow the hidden fire
+
+Ah-ah, follow the hidden fire
+Ah-ah, into the elder sky
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
    melinoe: {
     title: "Melinoë",
     hidden: true,
@@ -3962,12 +4149,66 @@ Stay with me till break of day
     blocks: [
       {
         type: "image",
-        src: "assets/covers/",
+        src: "assets/covers/Lantern Man 1200.jpg",
         size: "small"
       },
       {
         type: "text",
-        content: ``,
+        content: `Go not toward the light that strays…
+it calls you soft… then leads away…
+
+We walked where forest closes tight
+where paths are swallowed out of sight
+Where earth breathes cold beneath the moss
+and silence gathers, thick as loss
+
+A flicker moved beyond the mire
+a gentle, drifting, faithless fire
+We knew the words the old ones said:
+“Trust not the lights that wander ahead”
+
+For will-o’-wisps with borrowed flame
+will speak you fair, then take your name
+They guide no road that leads you home
+but drown you where the marshes roam
+
+ Turn not, step not, hold your ground
+ Hope itself can lead you under
+ Forest sees, and forest keeps
+ those who chase the lying wonder
+
+Then road replaced the roots and stone
+a barren track, the world unknown
+And there he stood in lantern glow
+as if he watched for those who go
+
+He spoke no word, yet marked us plain
+as though he weighed our loss and gain
+Then slow he raised a withered hand
+and pointed toward our purse… then turned
+
+One word—and all of this would end
+a miser earns no kindly end
+So silent bound, we took his trail
+by lantern light both thin and pale
+
+ Follow close—but never speak
+ Hold your breath and keep your measure
+ Lantern light is neither guide
+ nor a thing to trust as treasure
+
+Twelve silver coins in frozen hand
+enough to sting… but not to damn
+We laid them where the roadway dies
+and dared not watch him claim his due
+
+ He did not turn—the light withdrew
+ and morning broke where darkness grew
+ We found our door by ashen dawn
+ and speak not of what led us home
+
+Go not toward the light that flees…
+but turn not from what waits in stillness…`,
   showPlaceholder: false
       }
     ],
@@ -4315,6 +4556,128 @@ Nothing given sinks too deep
 When the stars return to seed
 Love is all we ever need
 `,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   wyrdIsWorthy: {
+    title: "Wyrd is Worthy",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Paths less travelled 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Ah—
+Wyrd...
+Wyrd...
+
+Before the name was made a wound,
+Before the strange was driven out,
+Wyrd was the turning of the world,
+The hidden road beneath the ground.
+
+Not something broken, not unclean,
+Not something cast beyond the fire,
+But every thread that brought us here,
+And every shape we shall acquire.
+
+What has been
+Is in the bone.
+What becomes
+Is not alone.
+
+ Revere the wyrd,
+ Cherish the turning.
+ All that you are
+ Is still becoming.
+
+ Revere the wyrd,
+ The old returning.
+ Do not cast out
+ What you were born in.
+
+Wyrd is worthy.
+Wyrd is worthy.
+Hold it near.
+Wyrd is worthy.
+
+They taught us mystery should mean
+A mark to hide, a face to shun,
+As though the path that bends away
+Could never lead us toward the sun.
+
+But roots grow deep in crooked earth,
+And rivers turn to find the sea.
+The soul was never made to march
+In rows of cold conformity.
+
+What has passed
+Still shapes the stone.
+What shall come
+Is being sown.
+
+ Revere the wyrd,
+ Cherish the turning.
+ All that you are
+ Is still becoming.
+
+ Revere the wyrd,
+ The old returning.
+ Do not cast out
+ What you were born in.
+
+Wyrd is worthy.
+Wyrd is worthy.
+Hold it near.
+Wyrd is worthy.
+
+I am the road my mothers walked.
+I am the choice they could not make.
+I am the thread within the cloth.
+I am the pattern as it wakes.
+
+No soul arrives without a past.
+No flame is severed from the spark.
+The form that others fear in us
+May be the lantern in the dark.
+
+What has been—
+What is becoming—
+What shall rise—
+The wheel is turning.
+
+ Revere the wyrd,
+ Cherish the turning.
+ All that you are
+ Is still becoming.
+
+ Revere the wyrd,
+ The old returning.
+ Do not cast out
+ What you were born in.
+
+ Revere the wyrd,
+ Neither curse nor burden.
+ Call yourself home.
+ Leave the old door open.
+
+Wyrd is worthy.
+Worthy.
+Wyrd is worthy.
+Hold it near.
+Wyrd is worthy.
+We are still becoming.
+
+Cherish the turning...
+Call yourself home...
+
+Wyrd.`,
   showPlaceholder: false
       }
     ],
@@ -5032,13 +5395,250 @@ But he and his “Self” are quite close.
     showPlaceholder: false
    },
 
+   knightAndForestMaid: {
+    title: "The Knight and the Forest Maid",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `A knight once rode
+Through woodland road
+Where ancient trunks were standing;
+And there he saw
+A maiden fair—
+His ardent heart demanding.
+
+Like turtle-dove
+He sang of love,
+And knelt with pleading tender:
+“My heart is gone,
+And thou hast won
+The prize thou wouldst surrender.
+I lost it whole—
+Thou hast my soul;
+Ah cruelly thou dost move it,
+For thou didst take
+My heart to break,
+And play with it to prove it.”
+
+The woodland maid
+Only laughed and said:
+“Ride never through the forest—
+There thou shalt see
+How easily
+A traveller may be poorest.”
+With laughing breath
+She fled with theft,
+Her prize in triumph bearing;
+The knight rode home
+In gloom and foam,
+His wounded spirit wearing.
+
+Yet soon once more
+He rides the shore
+Of that green woodland hollow;
+His blood runs fire,
+His heart climbs higher
+When once again he sees her.
+
+“But now,” said he,
+“More bold I’ll be—
+No coward as before-day!
+An assault I’ll try,
+And venture nigh—
+Let love decide the war-way.”
+He did as sworn.
+O love’s strange power!
+His courage waned and faltered;
+Yet still he pressed
+The daring quest
+Till fate at last was altered.
+
+At length he won—
+The maiden then
+In tears burst forth repenting;
+But laughing light
+The knight replied,
+His merry voice relenting:
+“Ride never through
+woodland true—
+There thou shalt learn, once proven,
+How easily
+A heart may be
+By forest maids be stolen.”
+`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   myLoveWillNotDie: {
+    title: "My love will not die",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Oh, Seguin...
+The night still knows our secret
+And the moon still guards the walls
+
+Beneath the moon above the keep
+I wait to hear you on the road
+The wind returns your name to me
+Like one last prayer I cannot hold
+
+You wore the sword, you bore the vow
+I wore the silence of the court
+But when your eyes met mine somehow
+The whole world vanished into thought
+
+No wall, no crown, no sacred vow
+Could break the bond that held us there
+And if the war should take you now
+My heart would follow anywhere
+
+ Seguin, my heart still follows you
+ Through endless night, through skies of blue
+ Seguin, my heart still follows you
+ Beyond the blade, beyond what fate may do
+
+ And if tomorrow tears us apart
+ Your name will live inside my heart
+ Seguin, my heart still follows you
+ My love will not die
+
+My love will not die
+My love will not die
+Seguin...
+My heart follows you
+
+At break of dawn you rode alone
+No crown of gold, no victor's flame
+One final kiss beneath the stone
+And all my tears became your name
+
+The distant riders called you on
+The iron gates were closed behind
+But every day, from dusk till dawn
+I speak to heaven of what was mine
+
+No time, no blood, no sacred vow
+Can make what once was true depart
+And if your road should end somehow
+Eternity will know my heart
+
+If death should reach for you before
+The moon has led you safely home
+May every star above the moor
+Speak out my name when you're alone
+
+And if God grants one day once more
+I'll come without a name or crown
+No lady bound behind these doors
+Just yours, when all the walls fall down
+
+I'm waiting still
+I'm waiting here
+Beyond the years
+Beyond the dark
+
+ Seguin, my heart still follows you
+ Through endless night, through skies of blue
+ Seguin, my heart still follows you
+ Beyond the blade, beyond what fate may do
+
+ Let every castle turn to dust
+ Let every king surrender power
+ Seguin, my heart still follows you
+ Beyond the final hour
+
+Seguin, my heart still follows you
+Seguin, my heart still follows you
+My love will not die
+My love will not die
+
+Oh, Seguin...
+If the moon still guards the walls
+It knows I love you
+It knows I wait`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   halfDivineAndHalfDeclined: {
+    title: "Half divine and half declined ",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I seek to summon silent tones
+From silver strings of lucid gold;
+And when the song ascending drones
+To realms no mortal hand can hold,
+The world is robed in tender light,
+My trembling heart in radiance burns,
+And heaven’s blue, through fractured sight,
+In tears of broken prism turns.
+
+What sweetly aching grace in tears
+That cool yet kindle on my skin!
+My thought like falling stars appears,
+My feeling like a fragrant wind.
+Let shallow joys of life depart,
+I reach toward something undefined -
+An ideal, trembling, torn apart,
+Half divine and half declined.
+
+There stands my ideal—pale yet bright!
+It breathes in sighs, it aches, it calls;
+For pain alone ascends to height,
+While jest and laughter mark our falls.
+All mirth is low, a wandering mask,
+A painted bloom on hollow art;
+The learned minds, in solemn task,
+Hear only spheres that drift apart.
+
+O scholars crowned in Oxford’s name!
+And Cambridge halls of measured grace!
+Now I can speak your guarded flame -
+Receive me in your sacred place!
+No more shall I be light or free,
+If truth demands this solemn role -
+
+No - let me weep, let me just be
+A voice no academics stole.`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+
       morningAVision: {
     title: "Morning / A Vision",
     hidden: true,
     blocks: [
       {
         type: "image",
-        src: "assets/covers/todo.jpg",
+        src: "assets/covers/Paths less travelled 1200.jpg",
         size: "small"
       },
       {
@@ -5533,6 +6133,107 @@ If you are ash, become a kiss
 If you are mist, become a chest
 If you are dream, become my sin
 Come through the veil`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   wingthwaiteWhite: {
+    title: "Wingthwaite White",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Voices from Beyond 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Morning lies pale over stone
+Mist moves through the gate alone
+No flag, no hall, no guard
+Only hoofbeats through the yard
+
+He rode like a lord through rain and smoke
+On a white stallion bright as the moon
+Across foreign fields where the cannons spoke
+They carried each other through fire and ruin
+
+His hand in the mane, his name in the wind
+His coat turned dark with night and flame
+But the horse bore him home over sea and storm
+When no other road remained
+
+No great hall stands now
+No bloodline keeps his name
+But the fields still remember
+When the half-light comes again
+
+ Wingthwaite White
+ Ride through the morning
+ Wingthwaite White
+ Over the low-tide sand
+
+ When the whole world fell
+ You held him in your stride
+ Wingthwaite White
+ Wingthwaite White
+
+Oh, across the fields
+Oh, across the strand
+Wingthwaite White
+Wingthwaite White
+
+The manor turned to ash, and the names became dust
+Ivy swallowed the arch and wall
+The family faded like fire in the distance
+But hoofprints shine when the tides withdraw
+
+At evening’s edge you can see the saddle
+A rider straight on the silver line
+The white stallion walks light over the mudflats
+As if death never crossed that tide
+
+No one calls him home now
+No one waits inside
+But the wind knows his signal
+And the horse knows his ride
+
+ Wingthwaite White
+ Ride through the morning
+ Wingthwaite White
+ Over the low-tide sand
+
+ When the whole world fell
+ You held him in your stride
+ Wingthwaite White
+ Wingthwaite White
+
+In half-light, a bridle
+At dusk, a hand
+A lord without a manor
+A horse of salt and flame
+
+And morning opens
+And evening stands still
+They ride there forever
+When the sea draws back its will
+
+ Wingthwaite White
+ Ride through the morning
+ Wingthwaite White
+ Over the low-tide sand
+
+ When the whole world fell
+ You held him in your stride
+ Wingthwaite White
+ Wingthwaite White
+
+Between field and water
+Between time and name
+Wingthwaite White
+Ride him home again`,
   showPlaceholder: false
       }
     ],
@@ -6119,6 +6820,117 @@ with me.`
     showPlaceholder: false
    },
 
+   beneathTheRowan: {
+    title: "Beneath the Rowan",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/The Knight and the Forest Maid 3k.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `There was a road that led nowhere,
+A wall of stone, a hill laid bare,
+And in the ground,
+Without a sound,
+She planted something living there.
+
+She planted it one autumn day,
+When all the birds had flown away.
+Beneath the rain,
+She spoke a name,
+And watched the wind take it away.
+She brought it water from the well,
+And stories only she could tell.
+Of summer skies,
+Of someone's eyes,
+And things she never said farewell.
+
+And every spring the branches grew,
+And every autumn berries fell.
+The years took everything she knew,
+But what she planted, none could tell.
+
+ Beneath the rowan, red and gold,
+ The earth remembers what we hold.
+ The names we lose, the words we keep,
+ The promises we bury deep.
+ Beneath the rowan, let me stay,
+ Where all the years have blown away.
+ And if you ask what happened here,
+ The leaves will whisper, year by year.
+
+She came when winter laid its snow,
+When summer set the fields aglow.
+Through wind and rain,
+She came again,
+To see how tall her tree would grow.
+And then one spring she came no more,
+No footsteps crossed the path before.
+The branches spread,
+Above her head—
+Or where she'd stood in years before.
+
+A hundred winters came and went,
+The wall grew old, the branches bent.
+And lovers came,
+Who knew no name,
+Nor why the tree was planted then.
+Some said she waited for a man,
+Some said she fled a distant land.
+A child once cried,
+A mother died—
+Each told the tale as best they can.
+
+And no one knew which tale was true,
+Or whose the hands that placed it there.
+But every spring the branches grew,
+And scattered blossoms through the air.
+
+ Beneath the rowan, red and gold,
+ The earth remembers what we hold.
+ The names we lose, the words we keep,
+ The promises we bury deep.
+ Beneath the rowan, let me stay,
+ Where all the years have blown away.
+ And if you ask what happened here,
+ The leaves will whisper, year by year.
+
+Perhaps she never waited there.
+Perhaps there was no love to mourn.
+Perhaps she simply loved the earth,
+And wished to leave a living thing
+For those who had not yet been born.
+
+But someone dug into the ground.
+And someone placed the roots below.
+And someone cared enough to stay
+And give the little tree a chance
+To grow.
+
+ Beneath the rowan, red and gold,
+ The earth remembers what we hold.
+ The names we lose, the words we keep,
+ The promises we bury deep.
+ Beneath the rowan, let me stay,
+ Where all the years have blown away.
+ And if you ask what happened here,
+ The leaves will whisper, year by year.
+
+There was a road that led nowhere,
+A wall of stone, a hill laid bare.
+And still it grows,
+And no one knows
+Who planted something living there.
+`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+
    edgeOfTime: {
     title: "On the Edge of Time",
     hidden: true,
@@ -6212,6 +7024,312 @@ Ooh, ooh
 Carry on
 Ooh, ooh
 Carry on`
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   theBrideWhoWouldNotEat: {
+    title: "The Bride Who Would Not Eat (Caterina da Siena I)",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Voices from Beyond 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I was a daughter of the earth
+A child of bread and rain
+But somewhere in the silence
+I heard you call my name
+
+My mother laid the table
+My sisters broke the bread
+They spoke of love and marriage
+And the life that lay ahead
+
+But I had seen another light
+Beyond the chapel door
+And heard a voice within the dark
+That left me wanting more
+
+They offered me a golden ring
+A house, a name, a bed
+But I had given you my heart
+Before a word was said
+
+ Oh, my love, I hunger for you
+ More than flesh and blood can bear
+ If I leave this world behind me
+ Will I find you waiting there?
+
+ Take the bread and take the wine
+ Take the days that should be mine
+ But leave a little light for me
+ When I can no longer see
+
+They say that I am fading
+That my hands are growing cold
+That love should give me something
+I can touch and I can hold
+
+But I have walked beside you
+Through gardens made of flame
+And every time I close my eyes
+I hear you speak my name
+
+My mother weeps beside the door
+And begs me to return
+How can I tell her what I see
+When all she sees is how I burn?
+
+ Oh, my love, I hunger for you
+ More than flesh and blood can bear
+ If I leave this world behind me
+ Will I find you waiting there?
+
+ Take the bread and take the wine
+ Take the days that should be mine
+ But leave a little light for me
+ When I can no longer see
+
+Was it your voice
+Or was it mine
+That called me from the world?
+
+Was it your hand
+Or only light
+That touched me as I knelt?
+
+And if the heavens should be silent
+If no angels come for me
+Will you remember how I loved you
+When there is nothing left of me?
+
+ Oh, my love, I hunger for you
+ But my hands can hold no more
+ And the light that once surrounded me
+ Is fading at the door
+
+ Take the bread and take the wine
+ Take the days that should be mine
+ But leave a little light for me
+ When I can no longer see
+
+My mother laid the table
+The bread was warm and sweet
+
+And somewhere in the silence
+There was a place for me`
+      }
+    ],
+    showPlaceholder: false
+   },
+  theyCarriedMeHome: {
+    title: "They Carried Me Home (Caterina da Siena II)",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Voices from Beyond 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I thought the earth would hold me.
+I thought the dark was kind.
+I gave my soul to heaven
+And left my flesh behind.
+
+They laid me down in Roman earth
+And spoke the holy words.
+The candles died, the mourners left,
+The silence went unheard.
+
+I thought my journey ended there,
+Beyond the reach of pain.
+But love has hands, and hands can take
+What death should have reclaimed.
+
+They came with prayers upon their lips,
+With trembling hands and tears.
+They called it love, they called it grace,
+And carried me through years.
+
+ They carried me home
+ But left me behind.
+ They gave me a thousand candles
+ And took what once was mine.
+
+ Oh, let me sleep,
+ Let the earth be kind.
+ They carried me home
+ But left me behind.
+
+They wrapped my head in silken cloth
+And bore me through the night.
+Across the hills to Siena,
+Beneath the morning light.
+
+My mother’s streets, my father’s house,
+The stones that knew my name.
+They welcomed me with ringing bells,
+But nothing was the same.
+
+They raised me high above the crowd,
+They wept to see me there.
+A thousand voices called my name,
+A thousand whispered prayers.
+
+ They carried me home
+ But left me behind.
+ They gave me a thousand candles
+ And took what once was mine.
+
+ Oh, let me sleep,
+ Let the earth be kind.
+ They carried me home
+ But left me behind.
+
+My hands have touched no living face
+For six hundred years.
+And still they come to ask of me
+For miracles and tears.
+
+They kiss the glass,
+They bow their heads,
+They beg me to remain.
+
+But no one asks
+If I am tired.
+No one speaks my pain.
+
+ They carried me home
+ But left me behind.
+ They gave me a thousand candles
+ And took what once was mine.
+
+ Oh, let me sleep,
+ Let the earth be kind.
+ They carried me home
+ But left me behind.
+
+I gave my soul to heaven.
+I left my flesh to men.
+
+And if they call it holy love,
+Will they let me rest again?
+
+I only wanted
+To go home.`
+      }
+    ],
+    showPlaceholder: false
+   },
+    whatRemainsOfMe: {
+    title: "What Remains of Me (Caterina da Siena III)",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Voices from Beyond 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `I came to see a piece of history.
+I did not come to pray.
+The afternoon was warm outside,
+The church was cold and grey.
+
+Behind the glass, beneath the gold,
+A face I almost know.
+Six hundred years of candlelight,
+And nowhere left to go.
+They tell me how you lived and died,
+The visions that you saw.
+The kings you challenged with your words,
+The men who wrote your law.
+But all I see are human bones,
+A woman once like me.
+And all the things that must have been
+That history cannot see.
+
+Did you ever miss the sunlight?
+Did you ever wish to run?
+Did you dream of growing older,
+Of the things you left undone?
+
+ What remains of me
+ When all my days are gone?
+ A name upon a weathered stone,
+ A voice that carries on?
+ Will someone stand where I once stood
+ And wonder who I used to be?
+ When all the world remembers me,
+ What remains of me?
+
+I knew the streets beyond these walls,
+The market and the rain.
+The warmth of bread, my mother's hands,
+The ordinary pain.
+I walked beneath the Tuscan sun,
+I heard the swallows cry.
+I thought that love could conquer death.
+I never questioned why.
+And now you stand before my face,
+Your breath upon the glass.
+You look at me as though you know
+How quickly lifetimes pass.
+
+Did you ever fear the silence?
+Did you ever doubt the light?
+Did you ever hold a secret
+That you carried through the night?
+
+ What remains of me
+ When all my days are gone?
+ A name upon a weathered stone,
+ A voice that carries on?
+ Will someone stand where I once stood
+ And wonder who I used to be?
+ When all the world remembers me,
+ What remains of me?
+
+I do not know the God you knew.
+I cannot see your light.
+
+I do not know the world you see,
+Or what became of mine.
+
+But once you felt the morning air.
+
+And once you called it home.
+
+And somewhere in the space between
+We stand here all alone.
+
+ What remains of me
+ When all my days are gone?
+ The hands that held another's hand,
+ The love that carried on?
+ Will someone stand where I once stood
+ And wonder who I used to be?
+ When all the world remembers me,
+ What remains of me?
+
+The afternoon is fading now.
+The church is growing cold.
+I leave you with your candlelight,
+Your silence and your gold.
+
+And I will never know your heart,
+Or where your footsteps lead.
+
+But for a moment, through the glass,
+You looked at me.`
       }
     ],
     showPlaceholder: false
