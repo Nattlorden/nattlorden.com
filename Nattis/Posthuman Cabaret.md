@@ -2,7 +2,8 @@ Jag har några få musikaliska husgudar/-gudinnor och ett par av dem kan kanske 
 
 En sådan är Alexander Bard, som jag saknar att han för närvarande - för min kännedom i alla fall - inte producerar någon ny musik. Så min tanke här är - om jag inte får mer i denna stilen, så får jag göra det själv.
 
-Här behövde jag hjälp att hålla mig inom ramarna, så utifrån de olika konstellationer som han skrivit olika sorts musik för definierade vi upp ett par nya musikstilar att agera som tältpinnar och vakthundar. 
+Här behövde jag hjälp att hålla mig inom ramarna, så utifrån de olika konstellationer som han skrivit olika sorts musik för definierade vi upp ett par nya musikstilar att agera som [[The Five Pillars|tältpinnar och vakthundar]]
+. 
 
 
 

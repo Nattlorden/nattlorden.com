@@ -435,6 +435,62 @@ body[data-theme="hifi"] {
   --font-main: Georgia, serif;
 }
 
+/* Apophthegmata – gemensamt boktema */
+
+body[data-theme="sententiae"],
+body[data-theme="cogitationes"],
+body[data-theme="curiosa"],
+body[data-theme="paradoxa"],
+body[data-theme="praefatio"] {
+  --bg: #e8d9b7;
+  --panel: #261815;
+  --border: #765a3d;
+
+  --text: #35261f;
+  --text-soft: #453329;
+  --text-muted: #79664e;
+
+  --caption: #786448;
+  --meta: #79664e;
+
+  --accent: #b59655;
+  --accent-hover: #e0c078;
+  --active: #e0c078;
+
+  --side-active-bg: #51272b;
+  --button-bg: #51272b;
+  --button-text: #e8d9b7;
+
+  --font-main: Georgia, serif;
+}
+
+.site-header,
+.top-menu,
+.side-menu {
+  color: #e8d9b7;
+}
+
+.site-header .tagline {
+  color: #c3a978;
+}
+
+.top-menu-item.active {
+  color: #e0c078;
+}
+
+.site-header,
+.top-menu {
+  background-image: url("../assets/textures/aged-leather-oxblood.png");
+  background-repeat: repeat;
+  background-size: 512px 512px;
+}
+
+.side-menu {
+  background-image: url("../assets/textures/aged-leather-dark.png");
+  background-repeat: repeat;
+  background-size: 512px 512px;
+}
+
 /* Övrigt – neutral */
 body[data-theme="other"] {
   --bg: #121315;
