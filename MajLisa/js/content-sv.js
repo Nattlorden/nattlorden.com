@@ -6786,7 +6786,7 @@ Uncover the art`
       type: "image",
       src: "assets/covers/stubbe.jpg",
       size: "small",
-      caption: "Publicerad e  2026"
+      caption: "Publicerad 10e juli 2026"
     },
     {
       type: "text",
