@@ -202,6 +202,13 @@ a:hover {
   color: var(--active);
 }
 
+.top-menu-item {
+  font-family: "Apophthegmata Fraktur", Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: normal;
+  letter-spacing: 0.025em;
+}
+
 .layout {
   display: flex;
 }

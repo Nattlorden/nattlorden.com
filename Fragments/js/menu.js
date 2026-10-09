@@ -5,7 +5,7 @@ const sectionLabels = {
     croonlius: "Croonlius",
     khellendros: "Khellendros",
     disir: "Dísir",
-       /*hifi: "HiFi",*/
+    rappa: "Rappa på,",
     other: "Övrigt"
   },
   en: {
@@ -13,7 +13,7 @@ const sectionLabels = {
     croonlius: "Croonlius",
        khellendros: "Khellendros",
        disir: "Dísir",
-       /*hifi: "HiFi",*/
+       rappa: "Rappa på,",
     other: "Other"
   }
 };
@@ -23,6 +23,7 @@ const backArrows = {
   croonlius: "assets/ui/Not_pil.png",
   khellendros: "assets/ui/Khellendrospil.png",
   disir: "assets/ui/Neonpil.png",
+  rappa: "assets/ui/normalpil.png",
   other: "assets/ui/normalpil.png"
 };
 
@@ -53,11 +54,11 @@ const siteMeta = {
     tagline: "Kvinnliga gudomliga väsen, sångfåglar av varierat slag",
     headerClass: "header-hifi"
   },
-  /*<hifi: {
-    title: "HiFi, hemmabio & billjud",
-    tagline: "Signal, precision och systemtänkande",
-    headerClass: "header-hifi"
-  },*/
+  rappa: {
+    title: "Rappa på,",
+    tagline: "En samling upprördheter",
+    headerClass: "header-rappa"
+  },
   other: {
     title: "*",
     tagline: "Det övriga. Det envisa. Det användbara.",
@@ -94,11 +95,11 @@ const siteMeta = {
         tagline: "Female divine beings, songbird of varying kinds",
         headerClass: "header-hifi"
       },
-      /*hifi: {
-        title: "Hifi, Home Theater & Car audio",
-        tagline: "Signal, precision, and engineering logic",
-        headerClass: "header-hifi"
-      },*/
+      rappa: {
+        title: "Rappa på,",
+        tagline: "Collection of annoyances",
+        headerClass: "header-rappa"
+      },
       other: {
         title: `*`,
         tagline: "The miscellaneous. The stubborn. The useful.",

@@ -213,6 +213,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       youtube: "https://youtu.be/DqIGZoVjXXE?list=OLAK5uy_lrH8m1K-3LDNBQNm48GPEb62I9ZzuLLaE"
     },
     {
+      title: "After the Rain",
+      image: "assets/covers/Paths less travelled 1200.jpg",
+      section: "music",
+      page: "afterTheRain",
+      spotify: "https://open.spotify.com/track/7F41GfwY7jzjaMYRquWgBp?si=796fb9f89040438b",
+      youtube: "https://youtu.be/WB_Vcnutcoc"
+    },
+    {
       title: "Golden Leaves on Hither Shore",
       image: "assets/covers/Cover album 1 1200.jpg",
       section: "music",
@@ -356,6 +364,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
           youtube: "https://youtu.be/8qs3hQks-aI"
         },
         {
+          title: "On the Edge of Time",
+          image: "assets/covers/Paths less travelled 1200.jpg",
+          section: "music",
+          page: "storiesInTheStone",
+          spotify: "https://open.spotify.com/track/0zf43QFq20oCq0drbZddvt?si=b3f734a6f5bd471e",
+          youtube: "https://youtu.be/MdtveFNPMw0"
+        },
+        {
           title: "A bird on the sign",
           image: "assets/covers/A bird on the sign 3k.jpg",
           section: "music",
@@ -435,6 +451,14 @@ Bara våra egna landskap — sedda med andra ögon.`,
       page: "comeThrough",
       spotify: "https://open.spotify.com/album/6HU6GGw7g4GB9yKUvNAvia?si=4G1fXuJmQG-v-FiQadppaA",
       youtube: "https://youtu.be/gw2mxzuMgyM?list=RDgw2mxzuMgyM"
+    },
+    {
+      title: "The Market Opens When the Stars Are Right",
+      image: "assets/covers/The market opens (cafeteria) 1200.jpg",
+      section: "music",
+      page: "marketOpens",
+      spotify: "https://open.spotify.com/album/15T5cWgRwmKRRC03z4jS31?si=DCS8XAd4TtKAI_TX4IMBjw",
+      youtube: "https://youtu.be/eZ18NpyOrLk"
     }
   ],
   showPlaceholder: false
@@ -1233,16 +1257,16 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
             {
               title: "On the Edge of Time",
               duration: "5:27",
-              page: "onTheEdgeOfTime",
-              spotify: "",
-              youtube: ""
-            },
+              page: "edgeOfTime",
+              spotify: "https://open.spotify.com/track/0zf43QFq20oCq0drbZddvt?si=b3f734a6f5bd471e",
+              youtube: "https://youtu.be/MdtveFNPMw0"
+             },
              {
               title: "After the Rain",
               duration: "5:44",
               page: "afterTheRain",
-              spotify: "",
-              youtube: ""
+              spotify: "https://open.spotify.com/track/7F41GfwY7jzjaMYRquWgBp?si=796fb9f89040438b",
+              youtube: "https://youtu.be/WB_Vcnutcoc"
             },
             {
                   title: "Amaranth light",
@@ -1805,12 +1829,13 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
           label: "B",
 
           tracks: [
+    
             {
-              title: "The Market Opens When the Stars Are Right",
-              duration: ":",
-              page: "page",
-              spotify: "",
-              youtube: ""
+                title: "The Market Opens When the Stars Are Right",
+                duration: "6:13",
+                page: "marketOpens",
+                spotify: "https://open.spotify.com/album/15T5cWgRwmKRRC03z4jS31?si=DCS8XAd4TtKAI_TX4IMBjw",
+                youtube: "https://youtu.be/eZ18NpyOrLk"
             },
             {
                   title: "The Haunted Palace",
@@ -2599,6 +2624,97 @@ My soul still reaches out for you
 
 I stand before the quiet night
 Still holding on to light`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
+   afterTheRain: {
+    title: "After the Rain",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Paths less travelled 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `The rain has passed between the pines
+but every branch is dripping still
+Sunlight wanders through the trunks
+and settles warm upon the hill
+The moss is dark beneath my feet
+the bark is black, the air is clear
+I stop and breathe the forest in
+There is no sweeter scent than here
+
+Wet earth and needles, leaf and stone
+the rain has woken every one
+
+ After the rain, after the rain
+ the whole green forest breathes again
+ I breathe it in, I wander on
+ with drops still falling though the rain is gone
+ No road to follow, nowhere to be
+ only the wet earth under me
+ After the rain, after the rain
+ I breathe it in and walk again
+
+I leave the path where blueberries hide
+a few still waiting beneath the leaves
+Someone has gathered most before me
+I take what little the forest leaves
+I follow ridges, soft and small
+where moss grows high and hollows shine
+My feet know where the ground is firm
+I let my nose decide the line
+
+Past fern and root, through dripping green
+I search for something yet unseen
+
+ After the rain, after the rain
+ the whole green forest breathes again
+ I breathe it in, I wander on
+ with drops still falling though the rain is gone
+ No road to follow, nowhere to be
+ only the wet earth under me
+ After the rain, after the rain
+ I breathe it in and walk again
+
+And then between the moss and brown
+a little flash beneath my eyes
+Gold among the fallen needles—
+one, then two, then more arise
+Trumpets hiding in the moss
+small crooked treasures, damp and cold
+I kneel and laugh and fill my hands
+with all that sudden forest gold
+
+Back at the cottage, evening comes
+wet shoes are drying by the door
+I clean the mushrooms one by one
+and hear the pan begin to warm
+Butter, rye bread, forest air
+the porch still shining from the rain
+I sit and eat while somewhere there
+the branches slowly drip again
+
+ After the rain, after the rain
+ I almost smell the woods again
+ Warm bread in hand, the daylight low
+ my feet already want to go
+ No road to follow, nowhere to be
+ the dripping forest waits for me
+ After the rain, after the rain
+ today I need no more than this
+
+Today...
+no more than this
+
+[harp continues alone, with faint flute and the suggestion of falling drops]
+`,
   showPlaceholder: false
       }
     ],
@@ -3839,6 +3955,25 @@ Stay with me till break of day
     ],
     showPlaceholder: false
    },
+
+   lanternMan: {
+    title: "Lantern Man",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: ``,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
 
    hauntedPlace: {
     title: "The Haunted Palace",
@@ -5404,6 +5539,123 @@ Come through the veil`,
     showPlaceholder: false
    },
 
+   marketOpens: {
+    title: "The Market Opens when the stars are right",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/The market opens (cafeteria) 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `At the citadel gate
+Where the old stones breathe
+Moon on the iron
+Stars in the teeth
+
+The courtyard wakes when the hour is wrong
+No hoof, no bell, no living song
+Black tents bloom where the rain has dried
+And velvet hands pull the night aside
+
+A silver comb with a widow's shine
+A saint's cracked mask with a mouth like mine
+They call me dear, they call me bride
+They know my name though I kept it inside
+
+Every stall is breathing
+Every price is sweet
+Every mirror wants me
+Barefoot in the street
+
+The market opens when the stars are right
+The market opens when the stars are right
+Do not pay in breath
+Do not pay in breath
+
+They sell me roses cut from bone-white light
+The market opens when the stars are right
+Do not pay in breath
+Do not pay in breath
+
+Pretty little blade
+Pretty little veil
+Pretty little key
+To a door with no farewell
+
+A woman with pearls in her eyeless face
+Shows me a gown made of mourning lace
+She says it will fit when my pulse runs thin
+She says all brides are welcomed in
+
+A boy with a smile made of candle wax
+Offers me maps that remember tracks
+One leads down to the fortune tent
+Where every road says never went
+
+[Pre-Chorus - female lead, intimate, fearful lift, 4 bars]
+There is honey in the warning
+There is perfume in the chain
+There is music in the coffin
+Calling softly by my name
+
+ The market opens when the stars are right
+ The market opens when the stars are right
+ Do not pay in breath
+ Do not pay in breath
+
+ They sell me roses cut from bone-white light
+ The market opens when the stars are right
+ Do not pay in breath
+ Do not pay in breath
+
+In the red tent they will read my palm
+Then stitch my shadow to their psalm
+In the blue tent they will crown my hair
+Then leave my body breathing air
+
+In the white tent I may kiss the dead
+In the black tent I may share their bed
+Every curtain says come inside
+Every bargain says stay, stay, stay
+
+I hold my tongue
+I hide my hands
+The moon bends low
+The market stands
+
+ The market opens when the stars are right
+ The market opens when the stars are right
+ Do not pay in breath
+ Do not pay in breath
+
+ They sell me roses cut from bone-white light
+ The market opens when the stars are right
+ Do not pay in breath
+ Do not pay in breath
+
+ The market opens when the stars are right
+ The market opens when the stars are right
+ Do not pay in breath
+ Do not pay in breath
+
+At the citadel gate
+Where the old stones breathe
+I leave with nothing
+But something leaves with me
+
+The market opens when the stars are right
+Do not pay in breath
+The market opens when the stars are right
+Do not pay in breath`,
+  showPlaceholder: false
+      }
+    ],
+    showPlaceholder: false
+   },
+
    scania: {
     title: "Scania, Our open land",
     hidden: true,
@@ -5866,6 +6118,105 @@ with me.`
     ],
     showPlaceholder: false
    },
+
+   edgeOfTime: {
+    title: "On the Edge of Time",
+    hidden: true,
+    blocks: [
+      {
+        type: "image",
+        src: "assets/covers/Paths less travelled 1200.jpg",
+        size: "small"
+      },
+      {
+        type: "text",
+        content: `Ooh, ooh
+Ooh, ooh
+
+There is a road beneath the river
+There is a door behind the rain
+I watch the branches lean together
+As though they knew my hidden name
+
+Somewhere a bell is turning slowly
+Somewhere the waking daylight bends
+I leave a question by the window
+And wonder where the answer ends
+
+Every star moves out of sight
+Every shadow learns the light
+What arrives and what departs
+Leaves a map across our hearts
+
+ Who can tell where the turning goes
+ Where the restless water flows
+ Who can name what tomorrow brings
+ When the dark unfolds its wings
+
+ I will follow, I will stay
+ I will lose and find my way
+ Every moment leaves a sign
+ Written on the edge of time
+
+I heard the trees repeat a story
+Older than the roads we know
+Of every hand that tried to hold on
+And every hand that let it go
+
+The moon was caught between the rooftops
+A pale and patient wandering flame
+I thought of all the lives before me
+Calling through me just the same
+
+Every tide returns somehow
+Never where we left it now
+Every promise, every scar
+Carries us from where we are
+
+ Who can tell where the turning goes
+ Where the restless water flows
+ Who can name what tomorrow brings
+ When the dark unfolds its wings
+
+ I will follow, I will stay
+ I will lose and find my way
+ Every moment leaves a sign
+ Written on the edge of time
+
+Maybe the answer never speaks
+Maybe it moves beneath our feet
+Maybe the road becomes the door
+Only when we ask no more
+
+Ah-ah, carry me
+Ah-ah, quietly
+Past the names I used to know
+Past the places I can’t hold
+
+ Who can tell where the turning goes
+ Where the restless water flows
+ Who can name what tomorrow brings
+ When the dark unfolds its wings
+
+ I will follow, I will stay
+ I will lose and find my way
+ Every moment leaves a sign
+ Written on the edge of time
+
+ Who can tell, who can know
+ Why we come and why we go
+ Still the morning finds the line
+ Written on the edge of time
+
+Ooh, ooh
+Carry on
+Ooh, ooh
+Carry on`
+      }
+    ],
+    showPlaceholder: false
+   },
+
 
    halfHangitMaggie: {
     title: "Half-Hangit Maggie",

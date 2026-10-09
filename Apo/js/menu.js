@@ -28,13 +28,13 @@ const siteMeta = {
         headerClass: "header-sententiae"
       },
       cogitationes: {
-        title: "Apophthegmata Domini Noctisn",
-        tagline: "Tankar och skrifter",
+        title: "Apophthegmata Domini Noctis",
+        tagline: "Reflektioner",
         headerClass: "header-cogitationes"
       },
       curiosa: {
         title: "Apophthegmata Domini Noctis",
-        tagline: "Curiosa",
+        tagline: "Kuriositeter",
         headerClass: "header-curiosa"
       },
       paradoxa: {
@@ -44,7 +44,7 @@ const siteMeta = {
       },
       praefatio: {
         title: "Apophthegmata Domini Noctis",
-        tagline: "Praefatio",
+        tagline: "Förord",
         headerClass: "header-praefatio"
       }
     }
@@ -58,27 +58,27 @@ const siteMeta = {
     sections: {
       sententiae: {
         title: 'Apophthegmata Domini Noctis',
-        tagline: 'Tänkvärdheter',
+        tagline: 'Words of Wisdom',
         headerClass: "header-sententiae"
       },
       cogitationes: {
-        title: "Apophthegmata Domini Noctisn",
-        tagline: "Tankar och skrifter",
+        title: "Apophthegmata Domini Noctis",
+        tagline: "Reflections",
         headerClass: "header-cogitationes"
       },
       curiosa: {
         title: "Apophthegmata Domini Noctis",
-        tagline: "Curiosa",
+        tagline: "Curiosities",
         headerClass: "header-curiosa"
       },
       paradoxa: {
         title: "Apophthegmata Domini Noctis",
-        tagline: "Paradoxer",
+        tagline: "Paradoxes",
         headerClass: "header-paradoxa"
       },
       praefatio: {
         title: "Apophthegmata Domini Noctis",
-        tagline: "Praefatio",
+        tagline: "Preface",
         headerClass: "header-praefatio"
       }
     }

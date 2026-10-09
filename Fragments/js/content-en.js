@@ -5229,155 +5229,7 @@ Bound in joy… forever you…`
   showPlaceholder: false
     },
 
-    skanetrafiken: {
-      menuTitle: "Rappa på, Skånetrafiken!",
-      title: "Rappa på, Skånetrafiken!",
-      blocks: [
-     {
-      type: "image",
-      src: "assets/covers/Rappa på Skånetrafiken 1200.jpg",
-      size: "small",
-      caption: "Released August 25th 2026"
-    },
-    {
-      type: "text",
-      content: `<i></i>
-      
-      <a href="https://open.spotify.com/album/7rwUWHCKb4S1PxTOlpAxeG?si=D3EuZH5ZQlyIykgRWDtPCg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/B9mzbJKrHMQ" target="_blank" rel="noopener noreferrer">YouTube</a>`
-    },
-    {
-      type: "divider"
-    },
-    {
-      type: "text",
-      content: `Skånetrafiken, igen…
-Lokfel, spårfel, vilt på spåret –
-vi är fast, men flowet går.
-
-Lokfel i loken, spårfel i spåren,
-vilt på spåret, rådjur i farozonen.
-Folk på spåret, “annat” på spåret –
-vad fan är det nu? En cykel? En ko?
-Är vi på spåret? Nä, vi står still,
-inställt, uppskjutet, spårbyte till.
-Tillbaka igen, sen fram och tillbaka,
-ersättningsbuss – var? När? Om? Huruvida?
-Kan vi dela taxi? Eller stå här och grina,
-klockan tickar, plånboken svina.
-Alla klagomål i kö, from Malmö till Ystad,
-förseningar i blodet, stå här och frysa.
-
-Skånetrafiken, ta det lugnt!
-Lokfel, spårfel, vilt på spåret –
-inställt, uppskjutet, spårbyte runt.
-Ersättningsbuss, var är den?
-Dela taxi, eller springa?
-Vi klagar högt, vi lär inte hinna–
-Skånetrafiken, du är vår kaos-show!
-
-Spårbyte tillbaka, sen byte igen,
-signaler som blinkar, “vänta, vännen”.
-Folk på spåret springer som i film,
-annat på spåret – en soffa? En grill?
-Vilt på spåret, rådjur med attityd,
-lokfel som skriker “inte idag, min vän”.
-Uppskjutet till i morgon, inställt till nästa år,
-ersättningsbuss som aldrig dyker upp där.
-När? Om? Huruvida? Vi googlar i panik,
-kan vi dela taxi? Absolut, det är logik.
-Alla klagomål samlas i en stor kör –
-“Skånetrafiken, varför gör ni så här?”
-
-Lok-fel-spårfel-viltpåspåret-folkpåspåret-annatpåspåret-ärvi-påspåret-nej-
-inställt-uppskjutet-spårbyte-tillbaka-ersättningsbuss-var-när-om-huruvida-
-kan-vi-dela-taxi-alla-klagomål-i-ett-enda-flöde-Skånetrafiken-du-är-vår-kaos-kod!
-
-Skånetrafiken, ta det lugnt!
-Lokfel, spårfel, vilt på spåret –
-inställt, uppskjutet, spårbyte runt.
-Ersättningsbuss, var är den?
-Dela taxi, eller springa?
-Vi klagar högt, vi lär inte hinna –
-Skånetrafiken, du är vår kaos-show!
-
-Nästa gång… kanske i tid.
-Eller inte.
-Skånetrafiken… forever delayed.
-Men rimmen? Dom går alltid i tid.`
-    }
-  ],
-  showPlaceholder: false
-    },
-
-    paAllvar: {
-      menuTitle: "Rappa på, på allvar",
-      title: "Rappa på, på allvar",
-      blocks: [
-     {
-      type: "image",
-      src: "assets/covers/på allvar 1200.jpg",
-      size: "small",
-      caption: "Released August 26th 2026"
-    },
-    {
-      type: "text",
-      content: `<i>Poorly written election posters in combination with the idea that "Rappa på" could be more than just a title.</i>
-      
-      <a href="https://open.spotify.com/album/7DK37GxuSrIjgkNI8Pl1uY?si=OefvjuuSRgai_oUPRz9WuQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/gmCa839OZM8?list=OLAK5uy_nVRGKz5a_GAB-r_wuI4HbMDZk42-yKDr4" target="_blank" rel="noopener noreferrer">YouTube</a>`
-    },
-    {
-      type: "divider"
-    },
-    {
-      type: "text",
-      content: `Yo, tjugotju'sex, samma gamla film
-Löften som snurrar, som en trasig skivspelare
-“Ta det på allvar” – okej, vi lyssnar
-Men vad gjorde ni sist, när ni hade makten?
-
-(s) säger “Dags att ta Sverige på allvar”
-Som om det var nytt, som om vi glömt hur det var
-Välfärd, trygghet, plånboken ska växa
-Men kön till vården, bostadsbrist – samma gamla spexa
-(sd): “Gör Sverige till Sverige igen”
-Nostalgi-humla, retro-färger, men historien den
-Har vi sett stoppet, har vi sett resultaten?
-Eller bara mer snack medan gängen fortsätter dansen
-
-(m) säger “Ansträngning ska löna sig, brott ska straffa sig”
-5 000 mer i plånboken – låter ju snällt
-Men räcker det när hyran äter upp resten?
-Och vårdgarantin – 30 dagar, vi håller andan tills den testen
-
-Ta det på allvar! (Ta det på allvar!)
-Men vad har ni gjort tidigare år?
-Löften som flyger, som ballonger i vår
-Ta det på allvar – eller bara mer PR?
-Hey! – vad levererade ni sist?
-Hey! – historien den viskar högt
-
-Alla lovar mer jobb, lägre skatt, kortare kö
-Klimatet, migration, skola – samma meny
-Tidigare år: “Nu vänder vi skutan”
-Sedan kom nästa val och båten låg stilla
-Från folkhem till plånbokshem – allt ska mätas i kronor
-Men tryggheten? Den känns fortfarande belånad
-Ni tar det på allvar när filmen rullar
-Men mellan valen? Då är det “vi gör vårt bästa, folk”
-
-70–75 procent av löftena… sägs det
-Men vilka procent räknas när vardagen känns trång?
-Vi minns affischerna, vi minns talen
-Nu vill vi se handling – inte bara nästa slogankarusell
-
-Ta det på allvar! (Vad har ni gjort tidigare år?)
-Ta det på allvar! (Vi har hört det förut)
-
-…och så rullar nästa valaffisch ut igen.`
-    }
-  ],
-  showPlaceholder: false
-    },
+    
 
     playbook: {
       menuTitle: "The Playbook",
@@ -6032,7 +5884,7 @@ Only you
 
 
   
-  },
+  },  /* end Nattlorden */
 
   croonlius: {
     about: {
@@ -9463,7 +9315,78 @@ Tá mé ag teacht`
     }
   ],
   showPlaceholder: false
+    },
+    imOut: {
+      menuTitle: "I'm out...",
+      title: "I'm out...",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/I'm out 1200.jpg",
+      size: "small",
+      caption: "Released September 21st 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/2TBqt5BN9gaeWExrr1W9cp?si=fNtw1EeVTfWJTVvXPfN06Q" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/q-1tkMvO6N0" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Oh I’m stepping out the doorway, humming my own tune  
+Got a little bit of mischief rising with the moon  
+
+He’s busy in his world, and I’m free in mine  
+I slip into the evening like a borrowed shine  
+No secrets in my pocket, just a carefree stride  
+Following the rhythm where the wild things hide  
+
+If the neon’s calling  
+I won’t keep stalling  
+Got a heartbeat rushing  
+For a night worth crushing  
+
+ I’m out when my lover’s back at home  
+ Dancing like the city’s mine alone  
+ No trouble, just a taste of the skyline glow  
+ Letting my own little freedom show  
+
+I laugh with strangers, toast to nothing at all  
+Let the chatter spin around me like a glittering ball  
+No guilt in my glitter, no weight on my feet  
+Just a sweet little moment where the world feels sweet  
+
+If the night keeps ringing  
+I’ll keep on swinging  
+Every step is lighter  
+And the sky feels brighter  
+
+ I’m out when my lover’s back at home  
+ Dancing like the city’s mine alone  
+ No trouble, just a taste of the skyline glow  
+ Letting my own little freedom show  
+
+I’m not running, I’m not hiding  
+Just living in the spaces between timing  
+And when I walk back through that door  
+I’ll love him even more  
+
+ I’m out when my lover’s back at home  
+ Dancing like the city’s mine alone  
+ No trouble, just a taste of the skyline glow  
+ Letting my own little freedom show  
+
+Oh I’m stepping out smiling, just to let it go  
+And bring the sunrise home in my shadow’s glow  `
     }
+  ],
+  showPlaceholder: false
+    }
+
     /*
     ,
     dummy: {
@@ -9499,23 +9422,437 @@ Tá mé ag teacht`
 
   }, /* end disir */
 
- /*hifi: {
+  
+  rappa: {
     about: {
-      menuTitle: "About",
-      title: "HiFi",
-      text: `HiFi is the more technical and systematic branch.
-
-This is where matters of sound, reproduction, equipment, testing, and more engineering-minded reflections on how things actually work belong. Less myth, more signal chain. Less ornament, more construction.
-
-Still concerned with experience — just without pretending that cables are magic.`,
+      menuTitle: "Om",
+      title: "Rappa på,",
+      text: `Originally just a title to the Skånetrafiken-heckle, but it dawned on me that it could work as an artist name for other rap too.`,
       showPlaceholder: false
     },
-    track: {
-      menuTitle: "Track",
-      title: "Track",
-      text: `Tests, references, comparisons, and practical notes will be gathered here.`
+    skanetrafiken: {
+      menuTitle: "Rappa på, Skånetrafiken!",
+      title: "Rappa på, Skånetrafiken!",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Rappa på Skånetrafiken 1200.jpg",
+      size: "small",
+      caption: "Publicerad 25e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Got annoyed about yet another delay for my wife's evening return train...</i>
+      
+      <a href="https://open.spotify.com/album/7rwUWHCKb4S1PxTOlpAxeG?si=D3EuZH5ZQlyIykgRWDtPCg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/B9mzbJKrHMQ" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Skånetrafiken, igen…
+Lokfel, spårfel, vilt på spåret –
+vi är fast, men flowet går.
+
+Lokfel i loken, spårfel i spåren,
+vilt på spåret, rådjur i farozonen.
+Folk på spåret, “annat” på spåret –
+vad fan är det nu? En cykel? En ko?
+Är vi på spåret? Nä, vi står still,
+inställt, uppskjutet, spårbyte till.
+Tillbaka igen, sen fram och tillbaka,
+ersättningsbuss – var? När? Om? Huruvida?
+Kan vi dela taxi? Eller stå här och grina,
+klockan tickar, plånboken svina.
+Alla klagomål i kö, from Malmö till Ystad,
+förseningar i blodet, stå här och frysa.
+
+Skånetrafiken, ta det lugnt!
+Lokfel, spårfel, vilt på spåret –
+inställt, uppskjutet, spårbyte runt.
+Ersättningsbuss, var är den?
+Dela taxi, eller springa?
+Vi klagar högt, vi lär inte hinna–
+Skånetrafiken, du är vår kaos-show!
+
+Spårbyte tillbaka, sen byte igen,
+signaler som blinkar, “vänta, vännen”.
+Folk på spåret springer som i film,
+annat på spåret – en soffa? En grill?
+Vilt på spåret, rådjur med attityd,
+lokfel som skriker “inte idag, min vän”.
+Uppskjutet till i morgon, inställt till nästa år,
+ersättningsbuss som aldrig dyker upp där.
+När? Om? Huruvida? Vi googlar i panik,
+kan vi dela taxi? Absolut, det är logik.
+Alla klagomål samlas i en stor kör –
+“Skånetrafiken, varför gör ni så här?”
+
+Lok-fel-spårfel-viltpåspåret-folkpåspåret-annatpåspåret-ärvi-påspåret-nej-
+inställt-uppskjutet-spårbyte-tillbaka-ersättningsbuss-var-när-om-huruvida-
+kan-vi-dela-taxi-alla-klagomål-i-ett-enda-flöde-Skånetrafiken-du-är-vår-kaos-kod!
+
+Skånetrafiken, ta det lugnt!
+Lokfel, spårfel, vilt på spåret –
+inställt, uppskjutet, spårbyte runt.
+Ersättningsbuss, var är den?
+Dela taxi, eller springa?
+Vi klagar högt, vi lär inte hinna –
+Skånetrafiken, du är vår kaos-show!
+
+Nästa gång… kanske i tid.
+Eller inte.
+Skånetrafiken… forever delayed.
+Men rimmen? Dom går alltid i tid.`
     }
-  },*/
+  ],
+  showPlaceholder: false
+    },
+
+    paAllvar: {
+      menuTitle: "Rappa på, på allvar",
+      title: "Rappa på, på allvar",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/på allvar 1200.jpg",
+      size: "small",
+      caption: "Publicerad 26e augusti 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Dåliga valaffischer i kombination med att funderat på om "Rappa på" kunde vara lite mer än bara en titel.</i>
+      
+      <a href="https://open.spotify.com/album/7DK37GxuSrIjgkNI8Pl1uY?si=OefvjuuSRgai_oUPRz9WuQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/gmCa839OZM8?list=OLAK5uy_nVRGKz5a_GAB-r_wuI4HbMDZk42-yKDr4" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Yo, tjugotju'sex, samma gamla film
+Löften som snurrar, som en trasig skivspelare
+“Ta det på allvar” – okej, vi lyssnar
+Men vad gjorde ni sist, när ni hade makten?
+
+(s) säger “Dags att ta Sverige på allvar”
+Som om det var nytt, som om vi glömt hur det var
+Välfärd, trygghet, plånboken ska växa
+Men kön till vården, bostadsbrist – samma gamla spexa
+(sd): “Gör Sverige till Sverige igen”
+Nostalgi-humla, retro-färger, men historien den
+Har vi sett stoppet, har vi sett resultaten?
+Eller bara mer snack medan gängen fortsätter dansen
+
+(m) säger “Ansträngning ska löna sig, brott ska straffa sig”
+5 000 mer i plånboken – låter ju snällt
+Men räcker det när hyran äter upp resten?
+Och vårdgarantin – 30 dagar, vi håller andan tills den testen
+
+Ta det på allvar! (Ta det på allvar!)
+Men vad har ni gjort tidigare år?
+Löften som flyger, som ballonger i vår
+Ta det på allvar – eller bara mer PR?
+Hey! – vad levererade ni sist?
+Hey! – historien den viskar högt
+
+Alla lovar mer jobb, lägre skatt, kortare kö
+Klimatet, migration, skola – samma meny
+Tidigare år: “Nu vänder vi skutan”
+Sedan kom nästa val och båten låg stilla
+Från folkhem till plånbokshem – allt ska mätas i kronor
+Men tryggheten? Den känns fortfarande belånad
+Ni tar det på allvar när filmen rullar
+Men mellan valen? Då är det “vi gör vårt bästa, folk”
+
+70–75 procent av löftena… sägs det
+Men vilka procent räknas när vardagen känns trång?
+Vi minns affischerna, vi minns talen
+Nu vill vi se handling – inte bara nästa slogankarusell
+
+Ta det på allvar! (Vad har ni gjort tidigare år?)
+Ta det på allvar! (Vi har hört det förut)
+
+…och så rullar nästa valaffisch ut igen.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    lappaPa: {
+      menuTitle: "Rappa på, lappa på E-on!",
+      title: "Rappa på, lappa på E-on!",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Rappa på, lappa på E-on 1200.jpg",
+      size: "small",
+      caption: "Publicerad 20e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Trippla strömavbrott på kort tid fick mig irriterad. En hårddisk och gatulyktornas timer ström med. Minst.</i>
+      
+      <a href="https://open.spotify.com/album/03nczn9mj7d2ycuNxsmCqU?si=lVEACTppQQ24gR0KDekFZg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/yyebt5eXBUw" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Jaha.
+Tyst i huset.
+Tyst i routern.
+Tyst i kaffebryggarn.
+
+Men på fakturan?
+Där är det full kontakt.
+
+Vaknar, trycker lampan — klick.
+Trycker en gång till — fortfarande klick.
+Köket svart, men jag tänker "okej",
+kaffe löser det här — nej.
+
+Ingen bryggare, inget te,
+ingen varm macka bre've.
+Kylen står och håller andan,
+frysen ber en stilla bön i verandan.
+
+Jag tar mobilen, ska kolla vad som hänt,
+sex procent kvar — det känns välkänt.
+"WIFI saknas." Ja tack, jag ser.
+Mobildata då?
+Nä.
+Inte det heller.
+
+Jag behöver ladda!
+Jag behöver veta!
+Jag behöver koffein
+för att kunna leta!
+
+Det står E-on,
+men nånting känns fel.
+Det står E-on,
+men huset är helt stel.
+
+Jag läser namnet en gång till
+i mörkret från min skärm...
+
+Det står E-on —
+men strömmen den e OFF!
+E-on!
+Men strömmen den e OFF!
+
+Rappa på!
+Lappa på!
+E-on, kom igen!
+
+Rappa på!
+Lappa på!
+Få igång den igen!
+
+Det står E-on —
+men strömmen den e OFF!
+OFF!
+OFF!
+OFF!
+
+Ingen ström!
+Ingen surf!
+Inget kaffe!
+Vilken kurv!
+
+Ladda på!
+Koppla på!
+Rappa på, lappa på E-on!
+
+Okej, inget nät — jag kör på fem G.
+Nä just det, masten tycks ha tagit ledigt bredvid.
+Fyra G?
+Tre G?
+Nån G alls?
+Telefonen tittar på mig:
+"Du kan ringa, ifall..."
+
+SMS fungerar.
+Samtal går fram.
+Plötsligt är tvåtusensex
+framtidens program.
+
+Ingen Spotify — musiken bor i moln.
+Molnet finns kvar,
+men jag når inte himmelen.
+
+Ingen podd.
+Ingen stream.
+Ingen smart-TV.
+Hela mitt smarta hem
+är väldigt dumt bredvid mig.
+
+Jag ville läsa nyheterna,
+bara kolla läget lite.
+Är det kabeln?
+Är det stationen?
+Är det halva distriktet?
+
+Men när både nät och el
+har dragit ner sin gardin,
+står man där och tänker:
+"Har kriget kommit hit?"
+
+Det står E-on,
+men världen känns offline.
+Det står E-on,
+jag har nå'n procent kvar — fine.
+
+Jag håller skärmen som ett ljus
+på väg mot toaletten...
+
+Det står E-on —
+men strömmen den e OFF!
+E-on!
+Men strömmen den e OFF!
+
+Rappa på!
+Lappa på!
+E-on, kom igen!
+
+Rappa på!
+Lappa på!
+Få igång den igen!
+
+Det står E-on —
+men strömmen den e OFF!
+OFF!
+OFF!
+OFF!
+
+Toaletten.
+Mörk.
+Jaha.
+
+Mobilens ficklampa —
+två procent kvar.
+
+Ska jag lysa?
+Ska jag spara?
+Det här är beslut
+jag inte trodde en vuxen
+behövde försvara.
+
+Induktionshällen?
+Dekoration.
+Mikron?
+Installation.
+Airfryern har uppnått
+total meditation.
+
+Datorn svart.
+Routern död.
+Laddaren är mest en sladd
+med existentiell nöd.
+
+Och bilen?
+Den vill också ha el.
+Fantastiskt.
+Vi har byggt ett samhälle
+med samma batterifel.
+
+Allting smart.
+Allting länkat.
+Allting synkat, molnförankrat.
+Sen försvinner sexton ampere
+och civilisationen blir nedrankad.
+
+Man saknar inte elektricitet
+förrän man står i ett mörkt kök
+med snabbkaffe,
+kranvatten
+och en procent batteri...
+
+...och inser
+att snabbkaffet också kräver kokat vatten.
+
+Ja.
+Det där var dåligt planerat.
+
+Ge mig lampan!
+På!
+
+Ge mig routern!
+ På!
+
+Ge mig kaffet!
+På!
+
+Ge mig masten!
+På!
+
+Jag vill ladda!
+På!
+
+Jag vill surfa!
+På!
+
+Det heter E-ON!
+
+Så varför är allt—
+
+OFF!
+
+Det står E-on —
+men strömmen den e OFF!
+E-on!
+Men strömmen den e OFF!
+
+Rappa på!
+Lappa på!
+E-on, kom igen!
+
+Rappa på!
+Lappa på!
+Få igång den igen!
+
+Inget ljus!
+Ingen låt!
+Inget nät att klaga på!
+
+Inget kaffe!
+Inget te!
+Ingen varm macka bre've!
+
+Rappa på!
+Lappa på!
+Vi vill ha vår vardag på!
+
+Det står E-on —
+men strömmen den e OFF!
+
+E-on!
+OFF!
+
+E-on!
+OFF!
+
+Rappa på!
+Lappa på!
+
+Rappa på!
+Lappa på!
+
+E-ON!
+
+Ah.
+
+Där kom strömmen.
+
+… Vad är wifi-lösen?`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
+  },
 
   other: {
     about: {
