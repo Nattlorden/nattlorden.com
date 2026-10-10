@@ -6591,7 +6591,7 @@ kickTheDoor: {
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/kick the door 1200.jpg",
       size: "small",
       caption: "Publicerad 14e oktober 1996"
     },
@@ -6693,7 +6693,7 @@ Tell them I’m still in town`
       blocks: [
         {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/Uncover the art 1200.jpg",
       size: "small",
       caption: "Publicerad 20e juni 2026"
     },
@@ -6784,7 +6784,7 @@ Uncover the art`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/40 år sedan 1200.jpg",
       size: "small",
       caption: "Publicerad 10e juli 2026"
     },
@@ -6863,7 +6863,7 @@ Jag trodde faktiskt ni hade glömt mig.`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/Existens 1200.jpg",
       size: "small",
       caption: "Publicerad e  202"
     },

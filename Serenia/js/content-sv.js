@@ -564,6 +564,12 @@ Idéerna tog olika riktningar och resulterade i tre versioner som jag var nöjd 
 { type: "text", content: `Keri/Raven-temat återkommer — här mer som en dialog, nästan som en scen ur en musikal: två röster, och en spegelram utan glas.
 
 <a class="internal-link" data-section="music" data-page="whoAreWe">Text</a> <a href="https://open.spotify.com/album/1cYPlpK59UZjd2BxslLIFt?si=0ih0hR7CS2a-MCEpuJPBiQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oh_mRwJYcjw?list=OLAK5uy_m0mC6xbgcpegrlELHMZljqeI5c8snyb8c" target="_blank" rel="noopener noreferrer">YouTube</a>
+────────────` },
+
+{ type: "image", src: "assets/songs/Let it Brun a Little Longer 1200.jpg", size: "small",  caption: `<b><i>Let it Burn a Little Longer</i></b> <span class="meta-text">Publicerad: 10 oktober 2026</span>` },
+{ type: "text", content: `Hârn-placerad sång, troligen orelaterad till berättelsen. Inspiration från Hans Christian Andersen, med en liten twist. Släppt några veckor innan Halloween.
+
+<a class="internal-link" data-section="music" data-page="letItBurn">Text</a> <a href="https://open.spotify.com/album/3a7HmdgQxXVbKi58fBMHqj?si=DdX9wZpTSWmZbZmrTui9xg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/2rLLgNECTG0?list=OLAK5uy_lvN6P0vzYH2A5pViK9tV6QeaQnDSybUQ0" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` }
         ],
         showPlaceholder: false
@@ -5339,6 +5345,82 @@ Who am I…
 Who are you…
 Who are we…
   `,
+  showPlaceholder: false
+    },
+
+    letItBurn: {
+      title: "Let it Burn a Little Longer",
+      hidden: true,
+      lyrics: `She stood by the steps with her candles for sale
+As the snow settled over the Gwear.
+She watched every face disappearing indoors;
+No one asked why she was there.
+A loaf had been lifted behind window glass.
+Her eyes followed where it was laid.
+She crouched where a brazier still sheltered a coal,
+Her knees tucked beneath her thin skirt.
+
+One candle, she thought, could hardly be missed,
+Just one from the bundle she bore.
+She lowered its wick to the last living coal,
+And a table stood where none stood before.
+A bowl had been set in her usual place,
+And somebody pulled out her chair.
+A hand brushed the snow from the side of her face.
+There was sunlight asleep in her hair.
+
+ Let it burn a little longer.
+ I can sit so very still.
+ Let me hear you say you saved
+ A little bread for me.
+ I will only take a little.
+ I can share it all with you.
+ Let it burn a little longer.
+ Let me stay a while with you.
+
+The wick folded over; the table was gone.
+Her bowl was two hands full of air.
+She lit the next candle before the coal did die,
+And her mother was sitting right there.
+She sat with a tair in a shirt on her knee,
+Drawing thread through the cloth as before.
+Then she lifted her eyes with the start of a smile,
+And the earth lay between them no more.
+
+ Let it burn a little longer.
+ I can sit so very still.
+ Let me hear you say you saved
+ A little bread for me.
+ I will only take a little.
+ I can share it all with you.
+ Let it burn a little longer.
+ Let me stay a while with you.
+
+There was so much she wanted her mother to know:
+How her shoe had been lost by the quay,
+How she now counted twenty without getting lost,
+Where she slept when they shut up the hall.
+But all she could say was, “I’m tired, Mama.”
+Then she lit every wick she had left.
+And her mother reached out with her arms open wide.
+She forgot to keep watch on her hem.
+
+ Let it burn a little longer.
+ I can sit so very still.
+ Let me hear you say you saved
+ A little bread for me.
+ I will only take a little.
+ I can share it all with you.
+ Let it burn a little longer.
+ Let it burn a little longer.
+ Let me stay a while with you.
+
+At dawn someone opened the gate at her side.
+A cart left its tracks in the snow.
+They found her small basket, the blackened remains.
+A woman knel, praying, "Peoni, be near:"
+In the house just across from the steps, someone woke
+And cut a fresh loaf into slices.`,
   showPlaceholder: false
     },
 

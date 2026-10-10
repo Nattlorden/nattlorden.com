@@ -828,7 +828,7 @@ And in its glow, the cosmos burns
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/The watcher 1200.jpg",
       size: "small",
       caption: "Publicerad 25 juni 2026"
     },
@@ -912,7 +912,7 @@ The watcher is walking with me`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/Wash the stain 1200.jpg",
       size: "small",
       caption: "Publicerad 6e juli 2026"
     },
@@ -1002,7 +1002,7 @@ And the echo keeps your name`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/Scorpio 1200.jpg",
       size: "small",
       caption: "Publicerad 11e juli 2026"
     },
@@ -1114,7 +1114,7 @@ Scorpio`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/Mother 1200.jpg",
       size: "small",
       caption: "Publicerad 28 juli 2026"
     },
@@ -1218,7 +1218,7 @@ Asherah...`
       blocks: [
      {
       type: "image",
-      src: "assets/covers/",
+      src: "assets/covers/Mater Bona 1200.jpg",
       size: "small",
       caption: "Publicerad 16e augusti 2026"
     },
@@ -1226,7 +1226,7 @@ Asherah...`
       type: "text",
       content: `<i></i>
       
-      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/album/7lIiCugHYwlyiz6tlJlTjJ?si=ESnGqykmQZKg4C-_nFcRuw" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/RGBXwnX1UPQ" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -1330,6 +1330,142 @@ Mater vitae, duc nos
 In pace, in amore
 Mane nobiscum
 Amen`
+    }
+  ],
+  showPlaceholder: true
+    },
+    haunted: {
+      menuTitle: "Haunted",
+      title: "Haunted",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Haunted 1200.jpg",
+      size: "small",
+      caption: "Publicerad 10e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/7yl0vOTmbc5JXhSliuifyW?si=0j_81cfoSW6on8zFncYGow" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/y3kKpFn4Tqg" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `There's someone breathing in the walls
+Someone wearing my face
+I hear her moving when I sleep
+And waking in my place
+
+Don't turn around...
+Don't turn around...
+
+I built a kingdom out of glass
+And watched the strangers wander past
+A thousand faces, none of mine
+All moving to a grand design
+
+I learned to smile, I learned to kneel
+To counterfeit the things I feel
+And every night beneath my skin
+A different life comes crawling in
+
+Am I the dreamer or the dream?
+The hand that holds, the mouth that screams?
+Somewhere beneath this borrowed name
+A dying spark remembers flame
+
+ I am the ghost inside the machine
+ The missing piece of everything
+ A heart that beats beneath the stone
+ A thousand voices, all alone
+
+ And if the heavens fall tonight
+ I'll tear the darkness from the light
+ You cannot bury what remains
+ I am the fire beneath the chains!
+
+Under my skin
+Under my skin
+The other world is breaking in
+
+I kissed the mirror, tasted dust
+Confused obedience with trust
+The little gods of flesh and gold
+Sold me the future, bought my soul
+
+I wore their promises like scars
+And counted wounds instead of stars
+But something beautiful and cruel
+Was growing where the shadows ruled
+
+Who gave the darkness such a name?
+
+Who taught the innocent to shame?
+
+And if I break the world in two...
+
+Which half of me belongs to you?
+
+ I am the ghost inside the machine
+ The missing piece of everything
+ A heart that beats beneath the stone
+ A thousand voices, all alone
+
+ And if the heavens fall tonight
+ I'll tear the darkness from the light
+ You cannot bury what remains
+ I am the fire beneath the chains!
+
+There was a girl
+Who knew the way
+Before they taught her
+What to say
+
+She had no kingdom
+Had no crown
+No sacred reason
+To bow down
+
+I know her name...
+
+Then say it.
+
+I know her name!
+
+THEN SAY IT!
+
+Break the mirror!
+Break the throne!
+Every empire
+Ends alone!
+
+No more masters!
+No disguise!
+Watch the buried
+Thing arise!
+
+ We are the ghosts inside the machine
+ The living heart of everything
+ No longer buried under stone
+ A thousand voices, not alone!
+
+ And if the heavens fall tonight
+ We'll build a kingdom from the light
+ No one can silence what remains
+ We are the fire beyond the chains!
+
+There's someone breathing in the walls
+But now I know her face
+
+She isn't here to take my life...
+
+She came to take my place.
+
+And I let her.`
     }
   ],
   showPlaceholder: true
