@@ -13,7 +13,28 @@ majlisa: {
       },
       {
         type: "text",
-        content: `Swedish blues rock and roots rock, with one foot in the rehearsal room and the other on a small stage somewhere after the last bus has already left.`
+        content: `Swedish blues rock and roots rock, with one foot in the rehearsal room and the other on a small stage somewhere after the last bus has already left.
+
+<b>Maj-Lisa & Skramlet</b> bildades 1977 i kvarteren kring Föreningsgatan och Amiralsgatan i Malmö.
+
+Debutalbumet <b>Ner längs vägen</b> gavs ut i april 1978.
+
+<b>Ursprunglig sättning</b>
+
+<a href="../Twiki/index.html#majlisa/about"  style="color: inherit;"><b>Maj-Lisa</b> Freyja</a> – sång, akustisk gitarr, Les Paul, munspel
+Björn Peter <b>"BP"</b> Andersson – Hammondorgel, piano, keyboard
+Pehr <b>"Eddie"</b> Sundberg – Telecaster, slidegitarr, munspel
+Kaj <b>Viking</b> Hammarlund – bas, andrasång
+<b>Mikael</b> Assarson – trummor
+
+Från och med bandets tredje album medverkade även:
+
+<b>Karna</b> Jönsdotter – keyboard, piano, stråkinstrument, percussion, bleckblås och kör
+
+Bandets tidiga arrangemang och produktion leddes huvudsakligen av Björn Peter "BP" Andersson. Under de senare utgivningarna kom det kreativa ansvaret gradvis att förskjutas mot Maj-Lisa, som efter hand övertog merparten av produktionen.
+
+        
+        `
       }/*,
       {
         type: "divider"
@@ -6546,7 +6567,7 @@ Tack.`
 
     mailysa: {
       menuTitle: "--- MailýsA ---",
-      title: "...",
+      title: "Mailýsa - soloprojekt",
       blocks: [
         /*
         {
@@ -6557,25 +6578,129 @@ Tack.`
     },*/
     {
       type: "text",
-      content: `...`
+      content: `Första singeln från Mailýsa tillkom under en konflikt med Serenia Records över publicering av material för <i>Freyja</i>. 
+      Mailýsa spelade in och publicerade materialet själv i samma stuk som med Skramlet, trots att hon annars jobbat bort det gamla slitsamma sångsättet.
+      Släpptes en måndag och ett exemplar låt redo på direktörens skrivbord när han kom in på morgonen.`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
   },
 
-    mailysa_1: {
+kickTheDoor: {
+      menuTitle: " Kick the Door Wide Open",
+      title: "Kick the Door Wide Open",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/kick the door 1200.jpg",
+      size: "small",
+      caption: "Released october 14th 1996"
+    },
+    {
+      type: "text",
+      content: `<i>Published on her own during conflict with Serenia Records.</i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `You came dressed like Sunday morning
+With a pocket full of rules
+Counting every crooked picture
+Like the room belonged to you
+
+You straighten every table
+You measure every grin
+You tell me where the line is
+Then complain when I step in
+You keep your little ledger
+Of the proper and refined
+But I never signed the contract
+And I never changed my mind
+
+So ring your bell
+Call the crowd
+Say my name a little loud
+
+ I’m gonna kick the door wide open
+ Let the good bad manners in
+ Wear my heart above the neckline
+ Wear my trouble like a grin
+ You can keep your perfect posture
+ You can keep your careful view
+ I was never made for standing
+ Where you told me people do
+
+You speak in little circles
+Like a judge behind a fan
+Everybody gets a number
+Everybody gets a plan
+But the minute music catches
+And the floor begins to shake
+All your precious regulations
+Start to bend and start to break
+
+So raise your brow
+Cross your arms
+I’ve survived much worse alarms
+
+ I’m gonna kick the door wide open
+ Let the good bad manners in
+ Wear my heart above the neckline
+ Wear my trouble like a grin
+ You can keep your perfect posture
+ You can keep your careful view
+ I was never made for standing
+ Where you told me people do
+
+Maybe I’m improper
+Maybe that’s the charm
+Maybe all your warnings
+Never meant me any harm
+But every room gets smaller
+When everybody plays it safe
+So I’ll be in the doorway
+Making faces at the saints
+
+No invitation
+No apology
+No reservation
+Come and dance with me
+
+ I’m gonna kick the door wide open
+ Let the whole wild evening in
+ Wear my heart above the neckline
+ Wear my trouble like a grin
+ You can keep your perfect posture
+ You can keep your careful view
+ I was never made for standing
+ Where you told me people do
+
+Turn the chairs around
+Drag the curtains down
+If they ask who started it
+Tell them I’m still in town`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    uncoverTheArt: {
       menuTitle: " Uncover the art",
       title: "Uncover the art",
       blocks: [
         {
       type: "image",
-      src: "assets/covers/stubbe.jpg",
+      src: "assets/covers/Uncover the art 1200.jpg",
       size: "small",
-      caption: "Publicerad 20e juni 2026"
+      caption: "Released june 20th 2026"
     },
     {
       type: "text",
-      content: `<i>Skriven för egen del, men kom med i material som presenterades för Echæon som ville spela in den också.</i>
+      content: `<i>Written for herself, but got in amongst material presented to Echæon who also wanted to record it.</i>
       
       <a href="https://open.spotify.com/album/2qybJwLMrkQ2xx7l7qns84?si=aL-giGzOQp6x0fQzAkDiGg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
 
@@ -6652,7 +6777,205 @@ Uncover the art`
     }
   ],
   showPlaceholder: false
-  }
+  },
+
+  fyrtioSedan: {
+      menuTitle: " 40 år sedan",
+      title: "40 år sedan",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/40 år sedan 1200.jpg",
+      size: "small",
+      caption: "Released july 10th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Det knackar stilla på min dörr
+Från en värld jag lämnat kvar
+
+Jag ställde gitarren mot en vägg
+Och lät åren gå i fred
+Scener blev till minnen bara
+Och applåder blev till ved
+Maj-Lis tog farväl en höst
+Ingen bad mig stanna kvar
+Jag trodde sånger hade bäst före
+Som tidningar från gamla dar
+
+Men någon fann ett dammigt band
+Och skickade det vidare
+Plötsligt sjöng mitt yngre jag
+För människor jag aldrig sett
+
+ 40 år...
+ 40 år sen Maj-Lis lade av
+ Ändå lyssnar någon nu
+ Ändå bär min röst ett svar
+ Hur kan man fortfarande
+ Betyda nånting alls?
+ Hur kan en gammal blues
+ Hitta hem igen?
+
+Jag pluggar in min Les Paul igen
+I den förstärkare jag har
+Den brusar lite, precis som jag
+Men tonen finns ändå kvar
+Ett enkelt komp får bära allt
+Jag behöver inget mer
+Kanske räcker några sanna ord
+När någon verkligen hör och ser
+
+Jag jagade aldrig evigheten
+Den sprang ifatt mig ändå
+Genom händer jag aldrig skakat
+Och ögon jag aldrig får se
+
+ 40 år...
+ 40 år sen Maj-Lis lade av
+ Ändå lyssnar någon nu
+ Ändå bär min röst ett svar
+ Om jag fortfarande
+ Betyder nånting alls
+ Då får den här gamla bluesen
+ Leva ett varv till
+
+Tack...
+Jag trodde faktiskt ni hade glömt mig.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    
+
+    existens: {
+      menuTitle: " Existens",
+      title: "Existens",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Existens 1200.jpg",
+      size: "small",
+      caption: "Released e  202"
+    },
+    {
+      type: "text",
+      content: `<i>Based on the word in the public artwork "Existens" in Malmö.</i>
+      
+      <a href="spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="youtube" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Jag <b>går</b> <b>genom</b> tunneln <b>vid</b> Latin
+och <b>hör</b> ett <b>mummel</b> ovanför
+där trafiken rullar <b>över</b> oss
+som den alltid gjort förut.
+Vid väggen <b>ser</b> jag <b>skuggan</b>
+av en flicka som var jag.
+Hon hade <b>vargen</b> <b>under</b> huden
+och för bråttom varje dag.
+
+Hon visste vad <b>det rätta</b> var
+och valde som hon ville.
+En <b>tår</b> fick torka utan hjälp,
+<b>begär</b> fick heta <b>liv</b>.
+Jag har lärt mig <b>tvivla</b> sedan dess,
+fått backa mer än en gång.
+Men <b>ingenting</b> var helt <b>förgäves</b>,
+fast vägen blev så lång.
+
+ Hon går i mina steg,
+ vi är <b>två</b> i samma <b>kropp</b>.
+ <b>Mellan</b> den jag var och den jag är
+ har åren byggt en bro.
+ Hon vill springa <b>mot</b> all världens <b>ljus</b>,
+ jag vill <b>andas</b> här en stund.
+
+De här orden kom till efter mig,
+jag stannar till och läser.
+Ett <b>minne</b> är en oskarp <b>bild</b>
+som kroppen ändå känner.
+Det blåser kallt från andra sidan,
+<b>snart</b> ska jag gå <b>åter</b>.
+Hon skulle undra varför jag
+står kvar och låter tiden gå.
+
+ Hon går i mina steg,
+ vi är två i samma kropp.
+ Mellan den jag var och den jag är
+ har åren byggt en bro.
+ Hon vill springa mot all världens ljus,
+ jag vill andas här en stund.
+
+Samma <b>person</b>, en annan hållning,
+en <b>berättelse</b> som pågår än.
+Jag tänker <b>inte</b> be om lov
+<b>för</b> det jag vill ha kvar.
+
+ Hon går i mina steg,
+ vi är två i samma kropp.
+ Mellan den jag var och den jag är
+ har åren byggt en bro.
+ Hon vill springa mot all världens ljus,
+ jag vill andas här en stund.
+
+<b>Under</b> gatan står jag still.
+Vargen väntar tills jag vill.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    karna: {
+      menuTitle: "--- Karna ---",
+      title: "Karna Jönsdotter - soloprojekt",
+      blocks: [
+        /*
+        {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e "
+    },*/
+    {
+      type: "text",
+      content: `Also see <a href="../Galdra/index.html" >Galdrakällan</a>.`
+    }
+  ],
+  showPlaceholder: false
+  },
+
+  bp: {
+      menuTitle: "--- BP ---",
+      title: "BP - soloprojekt",
+      blocks: [
+        /*
+        {
+      type: "image",
+      src: "assets/covers/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e "
+    },*/
+    {
+      type: "text",
+      content: `Also see <a href="../Galdra/index.html" >Galdrakällan</a>.`
+    }
+  ],
+  showPlaceholder: false
+  },
 
     /*
 

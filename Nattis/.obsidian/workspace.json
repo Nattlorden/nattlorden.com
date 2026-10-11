@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "Existens (konstverk)"
             }
+          },
+          {
+            "id": "198b8a37b89001d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Return to Earth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All Return to Earth"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -317,21 +331,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Skapa ny base": false,
       "switcher:Öppna snabbväxlare": false,
       "graph:Öppna grafvy": false,
       "canvas:Skapa ny canvas": false,
       "daily-notes:Öppna dagens anteckning": false,
       "templates:Infoga mall": false,
-      "command-palette:Öppna kommandopalett": false,
-      "bases:Skapa ny bas": false
+      "command-palette:Öppna kommandopalett": false
     }
   },
-  "active": "2e94df7698b51798",
+  "active": "198b8a37b89001d8",
   "lastOpenFiles": [
+    "Existens (konstverk).md",
+    "All Return to Earth.md",
     "The Five Pillars.md",
     "Faktiskt.md",
     "Existens (sång).md",
-    "Existens (konstverk).md",
     "länge glömt.md",
     "MediaPC ( 'BlackOne' ).md",
     "Namnlös",
@@ -355,7 +370,6 @@
     "Serenia (artist).md",
     "Datorprogram.md",
     "bröllop.md",
-    "golfresan.md",
     "Bilder/Keri_pouch.jpg",
     "Bilder/SereniaRecords logo small.png",
     "Bilder/Serenia Records 1978-1985 small.png",

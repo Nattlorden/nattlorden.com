@@ -1,0 +1,1 @@
+Sång baserad på **Dödens Engel** av **Johan Olof Wallin** (1779-1839), men omarbetad till vikingatida budskap likt en Heilung-sång.

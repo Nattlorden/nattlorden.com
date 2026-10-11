@@ -162,7 +162,7 @@ What is presented here — and what will gradually be added — is the result of
   /* characters: {
     keri: {
       menuTitle: "Keri",
-      title: "Keri",
+      title: "Keri McCree",
       blocks: [
       { 
         type: "text", 
@@ -171,14 +171,14 @@ What is presented here — and what will gradually be added — is the result of
 
       { 
         type: "image", 
-        src: "assets/chars/", 
+        src: "assets/chars/Keri_pouch.png", 
         size: "small",  
-        caption: `caption` 
+        caption: `Keri` 
       },
 
       { 
         type: "text", 
-        content: `maintext` 
+        content: `Skräddare, överlevare och maktspelare mot sin egen vilja — eller kanske inte helt.` 
       }
     ],  
     showPlaceholder: false
@@ -186,11 +186,80 @@ What is presented here — and what will gradually be added — is the result of
     },
     raven: {
       menuTitle: "Raven",
-      title: "Raven",
+      title: "Raven Blackburn",
       blocks: [
       { 
         type: "text", 
-        content: `pretext` 
+        content: `Alter ego till Keri` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Raven.png", 
+        size: "small",  
+        caption: `Raven` 
+      },
+
+      { 
+        type: "text", 
+        content: `Raven är inte ett enkelt alias utan en annan skärpa i samma människa: kallare, farligare, mer beslutsam.` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    kelly: {
+      menuTitle: "Kelly",
+      title: "Kelly McCree",
+      blocks: [
+      { 
+        type: "text", 
+        content: `Mellansyster McCree` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Kelly.jpg", 
+        size: "small",  
+        caption: `Kelly` 
+      },
+
+      { 
+        type: "text", 
+        content: `` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    athina: {
+      menuTitle: "Athina",
+      title: "Athina McCree",
+      blocks: [
+      { 
+        type: "text", 
+        content: `Yngsta syster McCree` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Athina_fixhand.jpg", 
+        size: "small",  
+        caption: `Athina` 
+      },
+
+      { 
+        type: "text", 
+        content: `` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    dramond: {
+      menuTitle: "Dramond",
+      title: "Dramond Hezhen",
+      blocks: [
+      { 
+        type: "text", 
+        content: `Köpman` 
       },
 
       { 
@@ -210,11 +279,57 @@ What is presented here — and what will gradually be added — is the result of
     },
     fabien: {
       menuTitle: "Fabien",
-      title: "Fabien",
+      title: "Fabien Trulor",
       blocks: [
       { 
         type: "text", 
-        content: `pretext` 
+        content: `Bibliotekarie för Rethems Heraldiska Bibliotek` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Fabien.png", 
+        size: "small",  
+        caption: `Fabien` 
+      },
+
+      { 
+        type: "text", 
+        content: `Lärd, sökare och stundtals opraktisk nog att följa en tanke rakt in i fara.` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    hund: {
+      menuTitle: "Hund",
+      title: "Hund",
+      blocks: [
+      { 
+        type: "text", 
+        content: `från templet` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Hund.png", 
+        size: "small",  
+        caption: `Fabien` 
+      },
+
+      { 
+        type: "text", 
+        content: `Lärd, sökare och stundtals opraktisk nog att följa en tanke rakt in i fara.` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    deren: {
+      menuTitle: "Deren",
+      title: "Deren (av Golothe)",
+      blocks: [
+      { 
+        type: "text", 
+        content: `från templet` 
       },
 
       { 
@@ -230,9 +345,143 @@ What is presented here — and what will gradually be added — is the result of
       }
     ],  
     showPlaceholder: false
-      
+    },
+    kaelis: {
+      menuTitle: "Kaelis",
+      title: "Kaelis (av Golotha)",
+      blocks: [
+      { 
+        type: "text", 
+        content: `från templet` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/", 
+        size: "small",  
+        caption: `` 
+      },
+
+      { 
+        type: "text", 
+        content: `Lärd, sökare och stundtals opraktisk nog att följa en tanke rakt in i fara.` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    joreth: {
+      menuTitle: "Joreth",
+      title: "Joreth från Akidale",
+      blocks: [
+      { 
+        type: "text", 
+        content: `Legionär` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Joreth_stripped.png", 
+        size: "small",  
+        caption: `Joreth` 
+      },
+
+      { 
+        type: "text", 
+        content: `Lärd, sökare och stundtals opraktisk nog att följa en tanke rakt in i fara.` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    serenima: {
+      menuTitle: "Serenima",
+      title: "Serenima Dethale",
+      blocks: [
+      { 
+        type: "text", 
+        content: `Thardisk senator, Magistrat av Shiran
+        <b> [HârnWorld kanonisk karaktär]</b>` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Serenima.png", 
+        size: "small",  
+        caption: `Serenima` 
+      },
+
+      { 
+        type: "text", 
+        content: `NOT: Divergens mot kanon. Har ökat på hennes skönhet och sensualism baserat på hennes relation med Jeredosta, då jag inte vill ha honom lika lättmanipulerad så får Serenima vara desto bättre på just det.` 
+      },
+      { 
+        type: "image", 
+        src: "assets/chars/Serenima_canon.jpg", 
+        size: "small",  
+        caption: `Serenima enl. HârnWorld. Copyright Columbia Games et.al, använd enbart för referens/korrektion` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    jeredosta: {
+      menuTitle: "Quarlid",
+      title: "Quarlid Jeredosta",
+      blocks: [
+      { 
+        type: "text", 
+        content: `Thardisk Senator för Hediro. Legatus över Shiranlegionen.
+        <b> [HârnWorld kanonisk karaktär]</b>` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Jeredosta.png", 
+        size: "small",  
+        caption: `Serenima` 
+      },
+
+      { 
+        type: "text", 
+        content: `NOT: Divergens mot kanon. Beskrivs som lättlurad, hade svårt att se honom som det på den positionen, så strök den biten. Det är bara Serenima som kan linda honom.` 
+      },
+      { 
+        type: "image", 
+        src: "assets/chars/", 
+        size: "small",  
+        caption: `` 
+      }
+    ],  
+    showPlaceholder: false
+    },
+    kaerith: {
+      menuTitle: "Kaerith",
+      title: "Kaerith Melise",
+      blocks: [
+      { 
+        type: "text", 
+        content: `Kvinna av börd, Aleath` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Kaerith.png", 
+        size: "small",  
+        caption: `Kaerith` 
+      },
+
+      { 
+        type: "text", 
+        content: `` 
+      },
+      { 
+        type: "image", 
+        src: "assets/chars/", 
+        size: "small",  
+        caption: `` 
+      }
+    ],  
+    showPlaceholder: false
     }
-  }, */
+  },*/
 
   music: {
     overview: {
@@ -988,819 +1237,1788 @@ The notes remain hidden, so as not to reveal too much of the plot to those who s
     ]
   },
   {
-  title: "Raven Reads",
-  meta: "",
-  tracks: [
+    title: "Raven läser",
+    meta: "",
+    tracks: [
+      {
+        title: "Liber et Speculum",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "liberEtSpeculum",
+        spotify: "https://open.spotify.com/track/5v1npkntIA55ZEux0MtwWi?si=8ca644d302104530",
+        youtube: "https://youtu.be/4gY20cxcppI?si=C5iv9b67nqULEcgp",
+        note: ""
+      },
+      {
+        title: `Liber – Lento misterioso<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 10</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Möte vid fyrtornet",
+    meta: "",
+    tracks: [
+      {
+        title: "Lighthouse Lament",
+        image: "assets/songs/Lighthouse.jpg",
+        date: "",
+        textPage: "lighthouseLament",
+        spotify: "https://open.spotify.com/track/4sdjLRoKCxRWMWvXZLydHi?si=2b37ca317c3f4d79",
+        youtube: "https://youtu.be/8fIesSa8OpQ?si=UJsBNm49HK-60DHl",
+        note: ""
+      },
+      {
+        title: `Lighthouse Lament<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 11</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Jakt i snö",
+    meta: "",
+    tracks: [
+      {
+        title: `Tracks in Snow – Allegro inquieto<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 12</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Keri och Raven blir förföljda efter ett snöfall och lämnar spår efter sig."
+      }
+    ]
+  },
+  {
+    title: "Förhandlingar",
+    meta: "",
+    tracks: [
+      {
+        title: `Negotiations – Andante considerato<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 13</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Keri och Fabien anhåller hos Serenima om att få låna Shiran-legionärer."
+      }
+    ]
+  },
+  {
+    title: "Att besöka en gud",
+    meta: "",
+    tracks: [
+      {
+        title: `Ilvir – Grave theurgicum<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 14</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Ett möte med Ilvir och det som följer på det."
+      }
+    ]
+  },
+  {
+    title: "Plötslig sång",
+    meta: "Fabien stämmer upp i en välkänd sång vid ankomsten till Anisha",
+    tracks: [
+      {
+        title: "The Ballad of Eltherion",
+        spotify: "https://open.spotify.com/track/3mrwEL6kKrp5JaCCoqJ7y9?si=0c78bc92a0b84026",
+        youtube: "https://youtu.be/hzBN6Vtj_4c?si=fEbSk5SwIoUsEBaL",
+        image: "assets/songs/Eltherion_anisha.jpg",
+        date: "",
+        textPage: "theBalladOfEltherion",
+        note: ""
+      }
+    ]
+  },
     {
-      title: "Liber et Speculum",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      textPage: "liberEtSpeculum",
-      spotify: "https://open.spotify.com/track/5v1npkntIA55ZEux0MtwWi?si=8ca644d302104530",
-      youtube: "https://youtu.be/4gY20cxcppI?si=C5iv9b67nqULEcgp",
-      note: ""
+    title: "Anisha",
+    meta: "",
+    tracks: [
+      {
+        title: `Anisha – Grave, inevitabile<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 15</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Uppdraget går fel, och ett större problem ansluter sig till deras följe."
+      }
+    ]
+  },
+  {
+    title: "Oväntad transporthjälp",
+    meta: "",
+    tracks: [
+      {
+        title: `Hru – Processionale immobile<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 16</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "De får hjälp med transporten av två Hru — Ilvirs stenjättar."
+      }
+    ]
+  },
+  {
+    title: "Sammandrabbning",
+    meta: "",
+    tracks: [
+      {
+        title: "The Battle of Araka-Kalai",
+        spotify: "https://open.spotify.com/track/5Ff7XIZBbLCEDeagetATJr?si=4c2704d2e6b84a0c",
+        youtube: "https://youtu.be/YqZr3ICQrbo?si=FcIrhOmo9ZJ7kdIr",
+        image: "assets/songs/Battle wide.jpg",
+        date: "",
+        textPage: "theBattleOfArakaKalai",
+        note: "Earthmasters drabbar samman med Ilvirs barn intill Araka-Kalai."
+      },
+      {
+        title: `Araka-Kalai – Conflagratione biologica<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 17</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Motståndaren faller",
+    meta: "",
+    tracks: [
+      {
+        title: `NightBlade's Death – Adagio funebre<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 18</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Raven tvingas fullfölja det som återstår efter att NightBlade lämnat Ilvir svårt skadad."
+      }
+    ]
+  },
+  {
+    title: "Ögat",
+    meta: "",
+    tracks: [
+      {
+        title: `The Eye – Adagio, restitutio<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 19</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Keri får ett öga av Ilvirs ormavatar som avskedsgåva."
+      }
+    ]
+  },
+  {
+    title: "Paus för tankar",
+    meta: "",
+    tracks: [
+      {
+        title: `Epilogo sospeso (Part I)<br>
+        <i>Serenia Symphony No.1 (Opus 253), spår 20</i>`,
+        image: "assets/songs/Symphony No1 3k.jpg",
+        date: "6 maj 2026",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Keris eftertankar. Om boken vore en trilogi, skulle detta motsvara slutet på första delen."
+      }
+    ]
+  },
+  {
+    title: "Serenima och Joreth",
+    meta: "Ansökan om avsked från legionen",
+    tracks: [
+      {
+        title: "Serenima",
+        spotify: "https://open.spotify.com/track/0hbYgCgFeuP5qtm4ZtCrbo?si=8d8f5010f25348d5",
+        youtube: "https://youtu.be/JQsIQh81yKA?si=lnacejloVL36QfY6",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "serenima",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Tornerspel",
+    meta: "",
+    tracks: [
+      {
+        title: "The Man Who Wore Her Green",
+        spotify: "https://open.spotify.com/track/4hoJBuQdiWaIUMdtrXMAwp?si=f7c5a034eb264a0e",
+        youtube: "https://youtu.be/Ix0N8XJHBtg?si=zAcBtq2OOLeAwl36",
+        image: "assets/songs/Aleath joust.jpg",
+        date: "",
+        textPage: "theManWhoWoreHerGreen",
+        note: "Joreth anmäls till tornerspel till fots för sin gröna dam — Keri."
+      }
+    ]
+  },
+  {
+    title: "Närgånget",
+    meta: "",
+    tracks: [
+      {
+        title: "Halea Canticle",
+        spotify: "https://open.spotify.com/track/4NoJHBj3uLg0jHfibe8CkU?si=dff43ca594f14e03",
+        youtube: "https://youtu.be/YmabGbWnvbw?si=sls_IxJFOvpCArz6",
+        image: "assets/songs/Raven and Kaerith.jpg",
+        date: "",
+        textPage: "haleaCanticle",
+        note: "Keri och Kaerith utkämpa en maktkamp under besöket i Haleatemplet i Aleath — en maktkamp som blir intim."
+      }
+    ]
+  },
+  {
+    title: "Vintersolståndet",
+    meta: "Tre versioner, två språk, en händelse.",
+    tracks: [
+      {
+        title: "Where the Veil Grows Thin",
+        spotify: "https://open.spotify.com/track/7xIkn3VS9qPqJV6X22JDu4?si=e4afdddb2bfb4b42",
+        youtube: "https://youtu.be/mtfrIF1jGXg?si=XNhuNJUE5bsKQQ2x",
+        image: "assets/songs/kindledsteps.jpg",
+        date: "",
+        textPage: "",
+        note: "Lärlingarna anländer till Villa Eriel med tända ljus på den dag som behöver dem som mest."
+      },
+      {
+        title: "Vintervävens ljus",
+        image: "assets/songs/Vintervav.jpg",
+        date: "26 november 2025",
+        textPage: "vintervaven",
+        spotify: "https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw",
+        youtube: "https://youtu.be/KZpR6yB77XU?list=OLAK5uy_mZHE5L2d66lkD0u4KzMhE5jni5LzAb0kw",
+        note: "Det närmade sig jul, men en julsång lät sig inte skrivas ..."
+      },
+      {
+        title: "Night of Kindled Steps",
+        image: "assets/songs/kindledsteps.jpg",
+        date: "27 november 2025",
+        textPage: "kindledSteps",
+        spotify: "https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og",
+        youtube: "https://youtu.be/b8ICe9RDMNQ?list=OLAK5uy_naLwlRZ941pj0uyzjT5e1iFFmJQC3mx98",
+        note: "Den andra av de tre versionerna."
+      }
+    ]
+  },
+  {
+    title: "Sorgesång",
+    meta: "Hon som ingen visste var försvunnen — återfunnen.",
+    tracks: [
+      {
+        title: "Eriel Lament",
+        spotify: "https://open.spotify.com/track/4aPtIt65mptA5xzi0Bl8tB?si=b3333c54f2e947b3",
+        youtube: "https://youtu.be/SmTu5o6V11c?si=sHTgciywrpCfN5l1",
+        image: "assets/songs/Eriel found.jpg",
+        date: "",
+        textPage: "erielLament",
+        note: "En sorgesång över en blivande drottning som berövades sin titel, sin krona och sitt liv — och ersattes."
+      }
+    ]
+  },
+  {
+    title: "Konfrontation på en kaj",
+    meta: "",
+    tracks: [
+      {
+        title: "Satarielle and the Table of Fate",
+        spotify: "https://open.spotify.com/track/2gMiiob295SxabzxhLv7ZP?si=c34ff1b3450f43d8",
+        youtube: "https://youtu.be/WI7VQYruQBQ?si=1vvzFQyf--KEPkkd",
+        image: "assets/songs/Satarielle.jpg",
+        date: "",
+        textPage: "satarielleAndTheTableOfFate",
+        note: "Ett magiskt bord på andra sidan Hârn ger utslag när Keris sällskap angrips av ett antal Karmosin-dansöser."
+      },
+      {
+        title: "What the Tide Told Me",
+        spotify: "https://open.spotify.com/track/2BnUUKg4b6YjtND3dnv2Ai?si=a67c24e52391488d",
+        youtube: "https://youtu.be/CPsi5GKS0pE?si=IaTkT2cdFTkZLFoM",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "whatTheTideToldMe",
+        note: "Samma händelse återberättad av en bard vid ett senare tillfälle."
+      }
+    ]
+  },
+  {
+    title: "Barndomens ekon",
+    meta: "Tidiga lager av minne och skydd",
+    tracks: [
+      {
+        title: "Hush Now, Little Girl of Mine",
+        image: "assets/songs/Athina_for_Spotify.jpg",
+        date: "18 oktober 2025",
+        textPage: "hushNowLittleGirlOfMine",
+        spotify: "https://open.spotify.com/album/2w0dRmusBFnDTSMA6RtMTC?si=RsTlLmkbQfWjvM9kCM7lkw",
+        youtube: "https://youtu.be/o8zNKDODnuE?list=RDo8zNKDODnuE",
+        note: "Den första sången skapad i modern tid — och den första för Serenia."
+      }
+    ]
+  },
+  {
+    title: "Vinskörd",
+    meta: "",
+    tracks: [
+      {
+        title: "Stomp the Year Awake",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "stomp",
+        spotify: "https://open.spotify.com/track/4IW1BlQBspHkUaGfTedmyb?si=86eabcaf55a94001",
+        youtube: "https://youtu.be/eQGQUSS6aYo?list=OLAK5uy_kV6TgLsNwt_YoC3AUicH0KoD6JrNjnIZQ",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Sjösättning",
+    meta: "Sjöormen går av stabelbädden",
+    tracks: [
+      {
+        title: "Launching of the Sea-Serpent",
+        spotify: "https://open.spotify.com/track/7AmLRrU2NmKqcbKQeVj9eK?si=99db17966bfb43f8",
+        youtube: "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
+        image: "assets/songs/Launching.jpg",
+        date: "",
+        textPage: "launchingOfTheSeaSerpent",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Magi till sjöss",
+    meta: "",
+    tracks: [
+      {
+        title: "The Wake of Lado",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "wakeOfLado",
+        spotify: "https://open.spotify.com/track/7lTKfxYd7BOhkQ7vGwrqqC?si=029cbb828bb343a7",
+        youtube: "https://youtu.be/pU5N4uOTag0?si=PjK5YNvDvLB2ua35",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Återkomst",
+    meta: "Tillbaka hem till Golotha",
+    tracks: [
+      {
+        title: "Song of Sweet Golotha",
+        spotify: "https://open.spotify.com/track/6ZxRO2v7pX3I3eres0yoiE?si=e92c4a86ae2a4617",
+        youtube: "https://youtu.be/2Y8UcoGwoxY?si=Ueb-Mwxgf_TDalhy",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "songOfSweetGolotha",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Ingen bryr sig om en tok",
+    meta: "Spioneri i öppen dager",
+    tracks: [
+      {
+        title: "The Miracle Man's Song",
+        spotify: "https://open.spotify.com/track/5mEszsSoMKzNunHtemqjPN?si=f20eecbf30034b56",
+        youtube: "https://youtu.be/HubVwd7HoTs?si=5kzoTEWXau68jlsp",
+        image: "assets/songs/Miracle mans wagon.jpg",
+        date: "",
+        textPage: "theMiracleMansSong",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Stilla stund vid lägereld",
+    meta: "En sång som vågar sjungas även när skogen lyssnar.",
+    tracks: [
+      {
+        title: "By the Ancient Stone",
+        spotify: "https://open.spotify.com/track/6PA0xy3M5QV8be3WcMKqma?si=460b78dc72b4486c",
+        youtube: "https://youtu.be/KtXrEQ2epok?si=uI_HGzgyHtp6YFU_",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "byTheAncientStone",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Parfymincidenten",
+    meta: "Joreth provar Aylyns hopkok",
+    tracks: [
+      {
+        title: "The Scent of Memory",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "scent",
+        spotify: "https://open.spotify.com/track/1qu3ly0OU8iHhddu6pGqzA?si=b0c90c5a00fb45f6",
+        youtube: "https://youtu.be/kqC-JQuGhtY?si=tqCYGsTuoW4IBSZP",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Flodtur",
+    meta: "Ett avtal beseglas",
+    tracks: [
+      {
+        title: "Down by Yael",
+        spotify: "https://open.spotify.com/track/2R3YQtO6lB1glIl1CGdkZI?si=572e5acca93a4ab9",
+        youtube: "https://youtu.be/E8n1LtUz3dg?si=zf_bMF-xThAFaM4j",
+        image: "assets/songs/Marvae_river_photoQ.jpg",
+        date: "",
+        textPage: "downByYael",
+        note: "Trevor tar Marvae på en flodtur för att vinna hennes röst i senaten. Vem för egentligen vem?"
+      }
+    ]
+  },
+  {
+    title: "Strandhugg",
+    meta: "",
+    tracks: [
+      {
+        title: "Landing at Sirion",
+        spotify: "https://open.spotify.com/track/5J7EbfHGj7qdi0HaBmmvyz?si=fb26545691394d99",
+        youtube: "https://youtu.be/F7tc3EZt3qU?si=Q7WtcbG5TItygLrV",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "landingAtSirion",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Iracu",
+    meta: "Keri får en rundvandring i gruvan",
+    tracks: [
+      {
+        title: "Iracu",
+        spotify: "https://open.spotify.com/track/41M2ex92oaD2HkIOUCJalG?si=ef2d3e9bcdf54132",
+        youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI",
+        image: "assets/songs/Iracu.jpg",
+        date: "",
+        textPage: "iracu",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Anknytning",
+    meta: "Keri tar in naturens skönhet",
+    tracks: [
+      {
+        title: "Nature Call",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "natureCall",
+        spotify: "https://open.spotify.com/track/008F0AZvOSAebjEUedyMjw?si=55db9c073b954acc",
+        youtube: "https://youtu.be/DhTrd-ZeLgY?si=UakYU75ieJNsz5yk",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Sång för en roddtur",
+    meta: "Sjungen för att hålla gemensam rytm i roddbåt",
+    tracks: [
+      {
+        title: "The Fields of Byria",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "byria",
+        spotify: "https://open.spotify.com/track/6sGDIQRDB8zVf0Bi6K6zvm?si=39acbf44408e45e6",
+        youtube: "https://youtu.be/lMR23rhxKzA?si=exq89rPMNxy1EtDH",
+        note: "Roddturen på väg mot dvärgarna kräver en arbetssång. Den visar sig ha sitt ursprung på det stora fastlandet, i Byria — där kvinnorna styr och männen till stor del reducerats till arbetskraft."
+      }
+    ]
+  },
+  {
+    title: "Utbildning och frustration",
+    meta: "Athina finner taket för lågt",
+    tracks: [
+      {
+        title: "Lines That Do Not Show",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "lines",
+        spotify: "https://open.spotify.com/track/5WoR3eJ4Ijaqb3xbyPjgdS?si=203fc360ca61427f",
+        youtube: "https://youtu.be/3_cg0OcbFZk?si=jsAoJ8gsGMLczyvV",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Tempelpaus",
+    meta: "Hos Halea",
+    tracks: [
+      {
+        title: "Hymn of the Open Hand",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "openHand",
+        spotify: "https://open.spotify.com/track/5CV8IHXm243zjS2eVoJHEb?si=8a9ee7dba7114ac3",
+        youtube: "https://youtu.be/H_nf1QUIPSY?si=9JTWN_fnd6uokdaW",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Tvivel",
+    meta: "Tankfull Keri i trädgården i Figgel",
+    tracks: [
+      {
+        title: "Balance",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "balance",
+        spotify: "https://open.spotify.com/track/6OQslwOJbiXXxkH1vxL3ut?si=622f2f59aa154e1f",
+        youtube: "https://youtu.be/EhlbzwFbppw?si=e9-wMMR6nn2L6HnN",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Immigration",
+    meta: "Erbjudande om inflyttning till Serenien",
+    tracks: [
+      {
+        title: "We Took the Offer (Serenia Settlers' Song)",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "offer",
+        spotify: "https://open.spotify.com/track/25M0eCS4UAdQBqak0PdadB?si=2e4516de98374bcb",
+        youtube: "https://youtu.be/EFCunS83ovI?si=8qoFE6Hng4Y0NAr0",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Gruvdrift",
+    meta: "En dvärgisk gruvmästare har anlänt och satt folk i arbete",
+    tracks: [
+      {
+        title: "Khaz Khur Razan (The Stone Knows the Way)",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "khazKhur",
+        spotify: "https://open.spotify.com/track/0XwB7yM2CGTvKCmmtlVaqn?si=21b1c8b2755643ec",
+        youtube: "https://youtu.be/h6CXlEvt3vs?si=HxtwyewD0ONt8LyI",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Sådd",
+    meta: "Peoni-hymn / arbetssång vid sådd",
+    tracks: [
+      {
+        title: "The Furrow Blessing",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "furrow",
+        spotify: "https://open.spotify.com/track/21mILJp5yC5OkgDiq1CwY7?si=0c2c8577b88d416a",
+        youtube: "https://youtu.be/mU0mhHaT4_U?si=KTH0eYhlXbb8nyot",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Mytbildning",
+    meta: "Nytt land, nya sånger",
+    tracks: [
+      {
+        title: "The Ranger and the Dozen",
+        image: "assets/songs/Ranger.jpg",
+        date: "5 mars 2026",
+        textPage: "ranger",
+        spotify: "https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ",
+        youtube: "https://youtu.be/fKZXAZapR_4?list=OLAK5uy_lJyue_RGOInI-hjmo6JkTIuV3eJAM7878",
+        note: "Behovet av att minska mängden Gargun i skogarna är uppenbart om människor ska känna sig trygga. En jägare som ensam tar hand om ett dussin — det är sådant myter byggs av. Eller görs narr av, om det bara är skrävlande."
+      }
+    ]
+  },
+  {
+    title: "Krigslycka?",
+    meta: "",
+    tracks: [
+      {
+        title: "Fallen King",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "fallenKing",
+        spotify: "https://open.spotify.com/track/17ue6X0z8JgdBBPPf4LEtB?si=b7682ed540414773",
+        youtube: "https://youtu.be/vrNqVUijuTE?si=e3yVnhM9mlvYvH6N",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Mörkrets förberedelse",
+    meta: "Naveh-hymn",
+    tracks: [
+      {
+        title: "Naveh – Latin",
+        image: "assets/songs/dummy.jpg",
+        date: "<b>inte ännu</b>",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Upplyst natt",
+    meta: "Avbruten sömn i Golotha",
+    tracks: [
+      {
+        title: "Firestorm",
+        image: "assets/songs/dummy.jpg",
+        date: "<b>inte ännu</b>",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Ensam",
+    meta: "Raven är frånvarande",
+    tracks: [
+      {
+        title: "Bridge of Doubt",
+        image: "assets/songs/dummy.jpg",
+        date: "<b>inte ännu</b>",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: "Keri får ett uppdrag som skulle kunna lägga allt bakom dem. Det är egentligen ett arbete för Raven, men hon tar inte över."
+      }
+    ]
+  },
+  {
+    title: "Det oväntade",
+    meta: "",
+    tracks: [
+      {
+        title: "Light Upon the Water",
+        image: "assets/songs/dummy.jpg",
+        date: "<b>inte ännu</b>",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Uppviglande",
+    meta: "Inbördeskrig hetsas fram i Coranan",
+    tracks: [
+      {
+        title: "Coranan Rising",
+        image: "assets/songs/dummy.jpg",
+        date: "<b>inte ännu</b>",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Krigsglädje",
+    meta: "Agrik-hymn",
+    tracks: [
+      {
+        title: "Agrikan Hymn",
+        image: "assets/songs/dummy.jpg",
+        date: "<b>inte ännu</b>",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "<<< Mer att komma >>>",
+    meta: "Stubbe",
+    tracks: [
+      {
+        title: "",
+        image: "assets/songs/dummy.jpg",
+        date: "",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  },
+  {
+    title: "Nationalsång",
+    meta: "Traditionell irländsk melodi: <i>Buachaill o'n Éirne Mé</i>.<br>Texten inspirerad av W. Gordon Smiths <i>Come By The Hills</i> till samma melodi (1967 eller tidigare).",
+    tracks: [
+      {
+        title: "Serenia Anthem",
+        image: "assets/songs/dummy.jpg",
+        date: "<b>inte ännu</b>",
+        textPage: "",
+        spotify: "",
+        youtube: "",
+        note: ""
+      }
+    ]
+  }
+]
+  /*
+  timeline: [
+    {
+      title: "Introduktion",
+      meta: "",
+      tracks: [
+        {
+          title: `Hârn overture<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 1</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
     },
     {
-      title: `Liber – Lento misterioso<br>
-      <i>Serenia Symphony (Opus X), Track 10</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Meeting at the Lighthouse",
-  meta: "",
-  tracks: [
-    {
-      title: "Lighthouse Lament",
-      image: "assets/songs/Lighthouse.jpg",
-      date: "",
-      textPage: "lighthouseLament",
-      spotify: "https://open.spotify.com/track/4sdjLRoKCxRWMWvXZLydHi?si=2b37ca317c3f4d79",
-      youtube: "https://youtu.be/8fIesSa8OpQ?si=UJsBNm49HK-60DHl",
-      note: ""
+      title: "Tyginköp och middagsbjudning",
+      meta: "",
+      tracks: [
+        {
+          image: "assets/songs/TheSatinMoon.jpg",
+          date: "",
+          textPage: "theSatinMoon",
+          title: "The Satin Moon",
+          spotify: "https://open.spotify.com/track/18M0tbxW3a8g1IfINgscBG?si=10fad8ce32694405",
+          youtube: "https://youtu.be/p56nSPa_E_c?si=77Yhx_CcMZ89AJ0F",
+          note: "Boken börjar med vår huvudperson Keri beundrande en bal vitt satängtyg och kommer i kontakt med köpmannen som säljer det hos Gillet och blir bjuden till hans fartyg på middag.... för att kanske diskutera handel utanför Gillets ramar ( svart )."
+        },
+        {
+          title: `Satin after dark<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 2</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
     },
     {
-      title: `Lighthouse Lament<br>
-      <i>Serenia Symphony (Opus X), Track 11</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Tracks in Snow",
-  meta: "",
-  tracks: [
-    {
-      title: `Tracks in Snow – Allegro inquieto<br>
-      <i>Serenia Symphony (Opus X), Track 12</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "Keri and Raven are pursued after snowfall, leaving tracks behind them."
-    }
-  ]
-},
-{
-  title: "Negotiations",
-  meta: "",
-  tracks: [
-    {
-      title: `Negotiations – Andante considerato<br>
-      <i>Serenia Symphony (Opus X), Track 13</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "Keri and Fabien petition Serenima for the use of Shiran legionnaires."
-    }
-  ]
-},
-{
-  title: "To Visit a God",
-  meta: "",
-  tracks: [
-    {
-      title: `Ilvir – Grave theurgicum<br>
-      <i>Serenia Symphony (Opus X), Track 14</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "An encounter with Ilvir, and what follows from it."
-    }
-  ]
-},
-{
-  title: "A Sudden Song",
-  meta: "Fabien breaks into a familiar song upon arriving in Anisha",
-  tracks: [
-    {
-      title: "The Ballad of Eltherion",
-      spotify: "https://open.spotify.com/track/3mrwEL6kKrp5JaCCoqJ7y9?si=0c78bc92a0b84026",
-      youtube: "https://youtu.be/hzBN6Vtj_4c?si=fEbSk5SwIoUsEBaL",
-      image: "assets/songs/Eltherion_anisha.jpg",
-      date: "",
-      textPage: "theBalladOfEltherion",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Anisha",
-  meta: "",
-  tracks: [
-    {
-      title: `Anisha – Grave, inevitabile<br>
-      <i>Serenia Symphony (Opus X), Track 15</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "The mission fails, and something far more serious joins them."
-    }
-  ]
-},
-{
-  title: "Unexpected Passage",
-  meta: "",
-  tracks: [
-    {
-      title: `Hru – Processionale immobile<br>
-      <i>Serenia Symphony (Opus X), Track 16</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "They are granted passage by two Hru — Ilvir's stone giants."
-    }
-  ]
-},
-{
-  title: "Clash",
-  meta: "",
-  tracks: [
-    {
-      title: "The Battle of Araka-Kalai",
-      spotify: "https://open.spotify.com/track/5Ff7XIZBbLCEDeagetATJr?si=4c2704d2e6b84a0c",
-      youtube: "https://youtu.be/YqZr3ICQrbo?si=FcIrhOmo9ZJ7kdIr",
-      image: "assets/songs/Battle wide.jpg",
-      date: "",
-      textPage: "theBattleOfArakaKalai",
-      note: "Earthmasters clash with the children of Ilvir near Araka-Kalai."
+      title: "Raven",
+      meta: "Natt i Golotha",
+      tracks: [
+        {
+          title: `Nightraven<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 3</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
     },
     {
-      title: `Araka-Kalai – Conflagratione biologica<br>
-      <i>Serenia Symphony (Opus X), Track 17</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "The Opponent Falls",
-  meta: "",
-  tracks: [
-    {
-      title: `NightBlade's Death – Adagio funebre<br>
-      <i>Serenia Symphony (Opus X), Track 18</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "Raven is forced to finish what remains after NightBlade leaves Ilvir gravely wounded."
-    }
-  ]
-},
-{
-  title: "The Eye",
-  meta: "",
-  tracks: [
-    {
-      title: `The Eye – Adagio, restitutio<br>
-      <i>Serenia Symphony (Opus X), Track 19</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "Keri receives an eye from Ilvir's serpent avatar as a parting gift."
-    }
-  ]
-},
-{
-  title: "A Pause for Thought",
-  meta: "",
-  tracks: [
-    {
-      title: `Epilogo sospeso (Part I)<br>
-      <i>Serenia Symphony (Opus X), Track 20</i>`,
-      image: "assets/songs/classic.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "Keri reflects. If this were a trilogy, this would mark the end of part one."
-    }
-  ]
-},
-{
-  title: "Serenima and Joreth",
-  meta: "Application for discharge from the legion",
-  tracks: [
-    {
-      title: "Serenima",
-      spotify: "https://open.spotify.com/track/0hbYgCgFeuP5qtm4ZtCrbo?si=8d8f5010f25348d5",
-      youtube: "https://youtu.be/JQsIQh81yKA?si=lnacejloVL36QfY6",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      textPage: "serenima",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Tournament",
-  meta: "",
-  tracks: [
-    {
-      title: "The Man Who Wore Her Green",
-      spotify: "https://open.spotify.com/track/4hoJBuQdiWaIUMdtrXMAwp?si=f7c5a034eb264a0e",
-      youtube: "https://youtu.be/Ix0N8XJHBtg?si=zAcBtq2OOLeAwl36",
-      image: "assets/songs/Aleath joust.jpg",
-      date: "",
-      textPage: "theManWhoWoreHerGreen",
-      note: "Joreth is entered into the foot tournament for his green lady — Keri."
-    }
-  ]
-},
-{
-  title: "Close Quarters",
-  meta: "",
-  tracks: [
-    {
-      title: "Halea Canticle",
-      spotify: "https://open.spotify.com/track/4NoJHBj3uLg0jHfibe8CkU?si=dff43ca594f14e03",
-      youtube: "https://youtu.be/YmabGbWnvbw?si=sls_IxJFOvpCArz6",
-      image: "assets/songs/Raven and Kaerith.jpg",
-      date: "",
-      textPage: "haleaCanticle",
-      note: "Keri and Kaerith engage in a contest of power during their visit to Halea's temple in Aleath — one that turns intimate."
-    }
-  ]
-},
-{
-  title: "The Winter Solstice",
-  meta: "Three versions, two languages, one event.",
-  tracks: [
-    {
-      title: "Where the Veil Grows Thin",
-      spotify: "https://open.spotify.com/track/7xIkn3VS9qPqJV6X22JDu4?si=e4afdddb2bfb4b42",
-      youtube: "https://youtu.be/mtfrIF1jGXg?si=XNhuNJUE5bsKQQ2x",
-      image: "assets/songs/kindledsteps.jpg",
-      date: "",
-      textPage: "",
-      note: "The apprentices arrive at Villa Eriel carrying lit candles on the day that needs them most."
+      title: "Hamnkrog",
+      meta: "",
+      tracks: [
+        {  
+          title: "Three coppers for a kiss",
+          spotify: "https://open.spotify.com/track/5B26pt1YevWV2fQa61BR2J?si=18429b8b5f0a4640",
+          youtube: "https://youtu.be/i5yBg8qniDc?si=L-scB7fYUPGlEGpp",
+          image: "assets/songs/Pubsong.jpg",
+          date: "",
+          textPage: "threeCoppersForAKiss",
+          note: ""
+        },
+        {
+          title: "Galley Lado",
+          spotify: "https://open.spotify.com/track/1cOS91msaPjZFcE73W4Rxb?si=fa01299f41ee42ba",
+          youtube: "https://youtu.be/5HKlwsLvfns?si=MazrcXwDWSmbhxaN",
+          image: "assets/songs/Galley Lado.jpg",
+          date: "",
+          textPage: "galleyLado",
+          note: "senare på natten när tröttheten lagt sig en finstämd sång om hur sjömännen hoppas hämtas till ett bättre ställe, inte bara drunkna till sjöss. Galley Lado är en stjärnbild och stjärntecken och står för avslut/fullbordan och återfödsel"
+        }
+      ]
     },
     {
-      title: "The Light of the Winter Weave",
-      image: "assets/songs/Vintervav.jpg",
-      date: "November 26, 2025",
-      textPage: "vintervaven",
-      spotify: "https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw",
-      youtube: "https://youtu.be/KZpR6yB77XU?list=OLAK5uy_mZHE5L2d66lkD0u4KzMhE5jni5LzAb0kw",
-      note: "Winter was closing in, but a Christmas song had no place here ..."
+      title: "Uppdrag i natten",
+      meta: "",
+      tracks: [
+        {
+          title: `Neminan Street - Adgio oscuro <br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 4</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Raven besöker en adress - Nemiran Street 1 - för ett uppdrag"
+        }
+      ]
     },
     {
-      title: "Night of Kindled Steps",
-      image: "assets/songs/kindledsteps.jpg",
-      date: "November 27, 2025",
-      textPage: "kindledSteps",
-      spotify: "https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og",
-      youtube: "https://youtu.be/b8ICe9RDMNQ?list=OLAK5uy_naLwlRZ941pj0uyzjT5e1iFFmJQC3mx98",
-      note: "The second of the three versions."
-    }
-  ]
-},
-{
-  title: "Lament",
-  meta: "She whom no one knew was missing — found again.",
-  tracks: [
-    {
-      title: "Eriel Lament",
-      spotify: "https://open.spotify.com/track/4aPtIt65mptA5xzi0Bl8tB?si=b3333c54f2e947b3",
-      youtube: "https://youtu.be/SmTu5o6V11c?si=sHTgciywrpCfN5l1",
-      image: "assets/songs/Eriel found.jpg",
-      date: "",
-      textPage: "erielLament",
-      note: "A lament for a future queen stripped of her title, her crown, and her life — and replaced."
-    }
-  ]
-},
-{
-  title: "Confrontation on a Quay",
-  meta: "",
-  tracks: [
-    {
-      title: "Satarielle and the Table of Fate",
-      spotify: "https://open.spotify.com/track/2gMiiob295SxabzxhLv7ZP?si=c34ff1b3450f43d8",
-      youtube: "https://youtu.be/WI7VQYruQBQ?si=1vvzFQyf--KEPkkd",
-      image: "assets/songs/Satarielle.jpg",
-      date: "",
-      textPage: "satarielleAndTheTableOfFate",
-      note: "A magical table on the far side of Hârn reacts when Keri's company is attacked by a group of Karmosin dancers."
+      title: "Dåliga nyheter",
+      meta: "",
+      tracks: [
+        {
+          title: `Presto furioso<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 5</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Raven tar sig hem i språngmarsch efter dåliga nyheter"
+        }
+      ]
     },
     {
-      title: "What the Tide Told Me",
-      spotify: "https://open.spotify.com/track/2BnUUKg4b6YjtND3dnv2Ai?si=a67c24e52391488d",
-      youtube: "https://youtu.be/CPsi5GKS0pE?si=IaTkT2cdFTkZLFoM",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      textPage: "whatTheTideToldMe",
-      note: "The same event retold later by a bard."
-    }
-  ]
-},
-{
-  title: "Echoes of Childhood",
-  meta: "Early layers of memory and protection",
-  tracks: [
+      title: "Sorg",
+      meta: "",
+      tracks: [
+        {
+          title: `Adagi lamentoso<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 6</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Biträdena i butiken har skadats,skändats, mördats eller lämnats att dö. Det hade varit systrarna vid ett vanligt tillfälle."
+        }
+      ]
+    },
     {
-      title: "Hush Now, Little Girl of Mine",
-      image: "assets/songs/Athina_for_Spotify.jpg",
-      date: "October 18, 2025",
-      textPage: "hushNowLittleGirlOfMine",
-      spotify: "https://open.spotify.com/album/2w0dRmusBFnDTSMA6RtMTC?si=RsTlLmkbQfWjvM9kCM7lkw",
-      youtube: "https://youtu.be/o8zNKDODnuE?list=RDo8zNKDODnuE",
-      note: "The first song created in modern times — and the first for Serenia."
-    }
-  ]
-},
-{
-  title: "Harvest",
-  meta: "",
-  tracks: [
+      title: "Konditionsträning",
+      meta: "",
+      tracks: [
+        {
+          title: `Training - Andante deciso<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 7</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Raven tar sig hem i språngmarsch efter dåliga nyheter"
+        }
+      ]
+    },
+        {
+      title: "Möte på marknadsplats",
+      meta: "Systrarna möter Aylyn för första gången (i Coranan)",
+      tracks: [
+        {
+          title: "Three Cups, One Truth",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+        {
+      title: "Platsbyte",
+      meta: "Keri har sytt klart kappan, Raven gör anspråk",
+      tracks: [
+        {
+          title: "Cloak and mirror",
+          spotify: "https://open.spotify.com/track/41W4flxEqDm0zTM1g1VLsL?si=10f5cb21500643aa",
+          youtube: "https://youtu.be/AwRLaqd4-6I?si=n2Lc6-TDIVCQXD0G",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "cloakAndMirror",
+          note: "Möte i spegeln - platsbyte - spegeln täcks med en filt."
+        },
+        {
+          title: `Mirror - Adagio, con tensione<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 8</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+        
+      ]
+    },
+    
     {
-      title: "Stomp the Year Awake",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Launching",
-  meta: "The Sea Serpent leaves the stocks",
-  tracks: [
+      title: "Mörkrets tempel",
+      meta: "",
+      tracks: [
+        {
+          title: "Herth-Akan",
+          spotify: "https://open.spotify.com/track/06Iv40X1Tq3I1lMJ2M7Anw?si=87a222dc65534b5a",
+          youtube: "https://youtu.be/myQefNj1Zi8?si=jN1--mGFGkkdyueU",
+          image: "assets/songs/Herth-Akan.jpg",
+          date: "",
+          textPage: "herthAkan",
+          note: ""
+        },
+        {
+          title: `Herth-Akan - Grave rituale<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 9</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
     {
-      title: "Launching of the Sea-Serpent",
-      spotify: "https://open.spotify.com/track/7AmLRrU2NmKqcbKQeVj9eK?si=99db17966bfb43f8",
-      youtube: "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
-      image: "assets/songs/Launching.jpg",
-      date: "",
-      textPage: "launchingOfTheSeaSerpent",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Magic at Sea",
-  meta: "",
-  tracks: [
+      title: "Biblioteket",
+      meta: "",
+      tracks: [
+        {
+          title: "Let the Mirror read",
+          spotify: "https://open.spotify.com/track/1GPhOzt4GRuRrPCP4oJJ9k?si=9cba08cb793143d0",
+          youtube: "https://youtu.be/tTkuD9H4zhk?si=obom5Gi4ZOslgR2o",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "letTheMirrorRead",
+          note: "Det åldriga biblioteket noterar Ravens närvaro och vill lära känna henne bättre, genom att ge henne Spegelboken"
+        }
+      ]
+    },
     {
-      title: "The Wake of Lado",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Return",
-  meta: "Back home to Golotha",
-  tracks: [
+      title: "Raven läser",
+      meta: "",
+      tracks: [
+        {
+          title: "Liber et Speculum",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "liberEtSpeculum:",
+          spotify: "https://open.spotify.com/track/5v1npkntIA55ZEux0MtwWi?si=8ca644d302104530",
+          youtube: "https://youtu.be/4gY20cxcppI?si=C5iv9b67nqULEcgp",
+          note: ""
+        },
+        {
+          title: `Liber - Lento misterioso<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 10</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    
     {
-      title: "Song of Sweet Golotha",
-      spotify: "https://open.spotify.com/track/6ZxRO2v7pX3I3eres0yoiE?si=e92c4a86ae2a4617",
-      youtube: "https://youtu.be/2Y8UcoGwoxY?si=Ueb-Mwxgf_TDalhy",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      textPage: "songOfSweetGolotha",
-      note: ""
-    }
-  ]
-},
-{
-  title: "No One Minds a Madman",
-  meta: "Espionage in plain sight",
-  tracks: [
+      title: "Möte vid fyrtornet",
+      meta: "",
+      tracks: [
+        {
+          title: "Lighthouse lament",
+          image: "assets/songs/Lighthouse.jpg",
+          date: "",
+          textPage: "lighthouseLament",
+          title: "Lighthouse lament",
+          spotify: "https://open.spotify.com/track/4sdjLRoKCxRWMWvXZLydHi?si=2b37ca317c3f4d79",
+          youtube: "https://youtu.be/8fIesSa8OpQ?si=UJsBNm49HK-60DHl",
+          note: ""
+        },
+        {
+          title: `Lighthouse lament<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 11</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
     {
-      title: "The Miracle Man's Song",
-      spotify: "https://open.spotify.com/track/5mEszsSoMKzNunHtemqjPN?si=f20eecbf30034b56",
-      youtube: "https://youtu.be/HubVwd7HoTs?si=5kzoTEWXau68jlsp",
-      image: "assets/songs/Miracle mans wagon.jpg",
-      date: "",
-      textPage: "theMiracleMansSong",
-      note: ""
-    }
-  ]
-},
-{
-  title: "A Quiet Moment by the Fire",
-  meta: "A song still safe to sing when the forest is listening.",
-  tracks: [
+      title: "Jakt i snö",
+      meta: "",
+      tracks: [
+        {
+          title: `Tracks in snow - Allegro inquieto<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 12</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Keri/Raven blir förföljda då det snöat och de lämnar fotspår efter sig."
+        }
+      ]
+    },
     {
-      title: "By the Ancient Stone",
-      spotify: "https://open.spotify.com/track/6PA0xy3M5QV8be3WcMKqma?si=460b78dc72b4486c",
-      youtube: "https://youtu.be/KtXrEQ2epok?si=uI_HGzgyHtp6YFU_",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      textPage: "byTheAncientStone",
-      note: ""
-    }
-  ]
-},
-{
-  title: "The Perfume Incident",
-  meta: "Joreth tries Aylyn's concoction",
-  tracks: [
+      title: "Förhandlingar",
+      meta: "",
+      tracks: [
+        {
+          title: `Negotiations - Andante considerato<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 13</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Keri och Fabien anhåller om att få låna Shiran-legionärer av Serenima"
+        }
+      ]
+    },
     {
-      title: "The Scent of Memory",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "River Journey",
-  meta: "An agreement is sealed",
-  tracks: [
+      title: "Att besöka en Gud",
+      meta: "",
+      tracks: [
+        {
+          title: `Ilvir - Grave theurgicum<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 14</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Raven tar sig hem i språngmarsch efter dåliga nyheter"
+        }
+      ]
+    },
     {
-      title: "Down by Yael",
-      spotify: "https://open.spotify.com/track/2R3YQtO6lB1glIl1CGdkZI?si=572e5acca93a4ab9",
-      youtube: "https://youtu.be/E8n1LtUz3dg?si=zf_bMF-xThAFaM4j",
-      image: "assets/songs/Marvae_river_photoQ.jpg",
-      date: "",
-      textPage: "downByYael",
-      note: "Trevor takes Marvae on a river outing to win her vote in the Senate. The question is: who is truly leading whom?"
-    }
-  ]
-},
-{
-  title: "Landing",
-  meta: "",
-  tracks: [
+      title: "Plötslig sång",
+      meta: "Fabien stämmer upp i en känd sång vid ankomst Anisha",
+      tracks: [
+        {
+          title: "The Ballad of Eltherion",
+          spotify: "https://open.spotify.com/track/3mrwEL6kKrp5JaCCoqJ7y9?si=0c78bc92a0b84026",
+          youtube: "https://youtu.be/hzBN6Vtj_4c?si=fEbSk5SwIoUsEBaL",
+          image: "assets/songs/Eltherion_anisha.jpg",
+          date: "",
+          textPage: "theBalladOfEltherion",
+          note: ""
+        }
+      ]
+    },
     {
-      title: "Landing at Sirion",
-      spotify: "https://open.spotify.com/track/5J7EbfHGj7qdi0HaBmmvyz?si=fb26545691394d99",
-      youtube: "https://youtu.be/F7tc3EZt3qU?si=Q7WtcbG5TItygLrV",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      textPage: "landingAtSirion",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Iracu",
-  meta: "Keri is shown through the mine",
-  tracks: [
+      title: "Anisha",
+      meta: "",
+      tracks: [
+        {
+          title: `Anisha - Grave, inevitabile<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 15</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Deras uppdrag går fel och ett stort problem ansluter"
+        }
+      ]
+    },
+    {
+      title: "Oväntad transporthjälp",
+      meta: "",
+      tracks: [
+        {
+          title: `Hru - Processionale immobile<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 16</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "De får transporthjälp av två Hur - Ilvirs stenjättar"
+        }
+      ]
+    },
+    {
+      title: "Sammandrabbning",
+      meta: "",
+      tracks: [
+        {
+          title: "The Battle of Araka-Kalai",
+          spotify: "https://open.spotify.com/track/5Ff7XIZBbLCEDeagetATJr?si=4c2704d2e6b84a0c",
+          youtube: "https://youtu.be/YqZr3ICQrbo?si=FcIrhOmo9ZJ7kdIr",
+          image: "assets/songs/Battle wide.jpg",
+          date: "",
+          textPage: "theBattleOfArakaKalai",
+          note: "EarthMasters drabbar samman med Ilvirs barn intill Araka-Kalai"
+        },
+        {
+          title: `Araka-Kalai - Conflagratione biologica<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 17</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Motståndaren faller",
+      meta: "",
+      tracks: [
+        {
+          title: `NightBlade's Death - Adagio funebre<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 18</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Raven blir tvungen att avsluta processen efter NightBlade lämnar Ilvir illa skadad."
+        }
+      ]
+    },
+    {
+      title: "Ögat",
+      meta: "",
+      tracks: [
+        {
+          title: `The Eye - Adagio, restitutio<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 19</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Keri får ena ögat av Ilvirs ormavatar som avskedsgåva."
+        }
+      ]
+    },
+    {
+      title: "Paus för tankar",
+      meta: "",
+      tracks: [
+        {
+          title: `Epilogo sospeso (part I)<br>
+          <i>Serenia Symphony No.1 (Opus 253)  Spår 20</i>`,
+          image: "assets/songs/Symphony No1 3k.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Keris eftertankar - om boken vore en trilogi så är detta slutet av del 1."
+        }
+      ]
+    },
+    {
+      title: "Serenima och Joreth",
+      meta: "ansökan om avsked från legionen",
+      tracks: [
+        {
+          title: "Serenima",
+          spotify: "https://open.spotify.com/track/0hbYgCgFeuP5qtm4ZtCrbo?si=8d8f5010f25348d5",
+          youtube: "https://youtu.be/JQsIQh81yKA?si=lnacejloVL36QfY6",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "serenima",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Tornerspel",
+      meta: "",
+      tracks: [
+        {
+          title: "The man who wore Her green",
+          spotify: "https://open.spotify.com/track/4hoJBuQdiWaIUMdtrXMAwp?si=f7c5a034eb264a0e",
+          youtube: "https://youtu.be/Ix0N8XJHBtg?si=zAcBtq2OOLeAwl36",
+          image: "assets/songs/Aleath joust.jpg",
+          date: "",
+          textPage: "theManWhoWoreHerGreen",
+          note: "Joreth anmäls till tornerspel till fots för sin gröna Dam - Keri"
+        }
+      ]
+    },
+    {
+      title: "Närgånget",
+      meta: "",
+      tracks: [
+        {
+          title: "Halea Canticle",
+          spotify: "https://open.spotify.com/track/4NoJHBj3uLg0jHfibe8CkU?si=dff43ca594f14e03",
+          youtube: "https://youtu.be/YmabGbWnvbw?si=sls_IxJFOvpCArz6",
+          image: "assets/songs/Raven and Kaerith.jpg",
+          date: "",
+          textPage: "haleaCanticle",
+          note: "Keri och Kaerith har en maktkamp under besöket i Haleatemplet i Aleath... som blir en intim sådan."
+        }
+      ]
+    },
+
+    
+    {
+      title: "Vintersolståndet",
+      meta: "Tre versioner, två språk, 1 händelse.",
+      tracks: [
+        {
+          title: "Where the veil grows thin",
+          spotify: "https://open.spotify.com/track/7xIkn3VS9qPqJV6X22JDu4?si=e4afdddb2bfb4b42",
+          youtube: "https://youtu.be/mtfrIF1jGXg?si=XNhuNJUE5bsKQQ2x",
+          image: "assets/songs/kindledsteps.jpg",
+          date: "",
+          textPage: "",
+          note: "Lärlingarna anländer till Villa Eriel med tända ljus på denna dag som behöver det som mest."
+        },
+        {
+          title: "Vintervävens ljus",
+          image: "assets/songs/Vintervav.jpg",
+          date: "26 november 2025",
+          textPage: "vintervaven",
+          spotify: "https://open.spotify.com/album/27dUFTvBVRn317aEqBts6Z?si=9u71Ta8hQj66wk4UstTSWw",
+          youtube: "https://youtu.be/KZpR6yB77XU?list=OLAK5uy_mZHE5L2d66lkD0u4KzMhE5jni5LzAb0kw",
+          note: "Det närmade sig jul, men en julsång lät sig inte skrivas ..."
+        },
+        {
+          title: "Night of Kindled Steps",
+          image: "assets/songs/kindledsteps.jpg",
+          date: "27 november 2025",
+          textPage: "kindledSteps",
+          spotify: "https://open.spotify.com/album/7Lum3kMA3vIM8g1mawTlPo?si=zwnS3aQKRRyuKmOTaHc3og",
+          youtube: "https://youtu.be/b8ICe9RDMNQ?list=OLAK5uy_naLwlRZ941pj0uyzjT5e1iFFmJQC3mx98",
+          note: "Den andra av de tre versionerna."
+        }
+      ]
+    },
+    {
+      title: "Sorgesång",
+      meta: "Hon som ingen visste var försvunnen - återfunnen.",
+      tracks: [
+        {
+          title: "Eriel Lament",
+          spotify: "https://open.spotify.com/track/4aPtIt65mptA5xzi0Bl8tB?si=b3333c54f2e947b3",
+          youtube: "https://youtu.be/SmTu5o6V11c?si=sHTgciywrpCfN5l1",
+          image: "assets/songs/Eriel found.jpg",
+          date: "",
+          textPage: "erielLament",
+          note: "Sorgesång över en blivande drottning som berövades sin titel, sin krona, sitt liv och blev ersatt."
+        }
+      ]
+    },
+    {
+      title: "Konfrontation på en kaj",
+      meta: "",
+      tracks: [
+        {
+          title: "Satarielle and the Table of Fate",
+          spotify: "https://open.spotify.com/track/2gMiiob295SxabzxhLv7ZP?si=c34ff1b3450f43d8",
+          youtube: "https://youtu.be/WI7VQYruQBQ?si=1vvzFQyf--KEPkkd",
+          image: "assets/songs/Satarielle.jpg",
+          date: "",
+          textPage: "satarielleAndTheTableOfFate",
+          note: "Ett magiskt bord på andra sidan Hârn får utslag när Keris sällskap blir anfallna av ett antal Karmosindansöser"
+        },
+        {
+          title: "What the tide told me",
+          spotify: "https://open.spotify.com/track/2BnUUKg4b6YjtND3dnv2Ai?si=a67c24e52391488d",
+          youtube: "https://youtu.be/CPsi5GKS0pE?si=IaTkT2cdFTkZLFoM",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "whatTheTideToldMe",
+          note: "Samma historia återberättad av en bard vid ett senare tillfälle."
+        }
+      ]
+    },
+    {
+      title: "Barndomens ekon",
+      meta: "Tidiga lager av minne och skydd",
+      tracks: [
+        {
+          title: "Hush now, little girl of mine",
+          image: "assets/songs/Athina_for_Spotify.jpg",
+          date: "18 oktober 2025",
+          textPage: "hushNowLittleGirlOfMine",
+          spotify: "https://open.spotify.com/album/2w0dRmusBFnDTSMA6RtMTC?si=RsTlLmkbQfWjvM9kCM7lkw",
+          youtube: "https://youtu.be/o8zNKDODnuE?list=RDo8zNKDODnuE",
+          note: "Den första sången skapad i modern tid — och den första för Serenia."
+        }
+      ]
+    },
+    {
+      title: "Vinskörd",
+      meta: "",
+      tracks: [
+        {
+          title: "Stomp the Year Awake",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Sjösättning",
+      meta: "Sjöormen går av stabelbädden",
+      tracks: [
+        {
+          title: "Launching of the Sea-Serpent",
+          spotify: "https://open.spotify.com/track/7AmLRrU2NmKqcbKQeVj9eK?si=99db17966bfb43f8",
+          youtube: "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
+          image: "assets/songs/Launching.jpg",
+          date: "",
+          textPage: "launchingOfTheSeaSerpent",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Magi till sjöss",
+      meta: "",
+      tracks: [
+        {
+          title: "The Wake of Lado",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Återkomst",
+      meta: "Tillbaka hem till Golotha",
+      tracks: [
+        {
+          title: "Song of sweet Golotha",
+          spotify: "https://open.spotify.com/track/6ZxRO2v7pX3I3eres0yoiE?si=e92c4a86ae2a4617",
+          youtube: "https://youtu.be/2Y8UcoGwoxY?si=Ueb-Mwxgf_TDalhy",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "songOfSweetGolotha",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Ingen bryr sig om en tok",
+      meta: "Spioneri väl synliga",
+      tracks: [
+        {
+          title: "The Miracle Man's song",
+          spotify: "https://open.spotify.com/track/5mEszsSoMKzNunHtemqjPN?si=f20eecbf30034b56",
+          youtube: "https://youtu.be/HubVwd7HoTs?si=5kzoTEWXau68jlsp",
+          image: "assets/songs/Miracle mans wagon.jpg",
+          date: "",
+          textPage: "theMiracleMansSong",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Stilla stund vid lägereld",
+      meta: "En sång som vågar sjungas även då skogen lyssnar.",
+      tracks: [
+        {
+          title: "By the ancient stone",
+          spotify: "https://open.spotify.com/track/6PA0xy3M5QV8be3WcMKqma?si=460b78dc72b4486c",
+          youtube: "https://youtu.be/KtXrEQ2epok?si=uI_HGzgyHtp6YFU_",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "byTheAncientStone",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Parfymincidenten",
+      meta: "Joreth provar Aylyns hopkok",
+      tracks: [
+        {
+          title: "The Scent of Memory",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Flodtur",
+      meta: "Ett avtal beseglas",
+      tracks: [
+        {
+          title: "Down by Yael",
+          spotify: "https://open.spotify.com/track/2R3YQtO6lB1glIl1CGdkZI?si=572e5acca93a4ab9",
+          youtube: "https://youtu.be/E8n1LtUz3dg?si=zf_bMF-xThAFaM4j",
+          image: "assets/songs/Marvae_river_photoQ.jpg",
+          date: "",
+          textPage: "downByYael",
+          note: "Trevor tar Marvae på en flodtur för att få hennes röst i Senaten. Vem tar vem?"
+        }
+      ]
+    },
+    {
+      title: "Strandhugg",
+      meta: "",
+      tracks: [
+        {
+          title: "Landing at Sirion",
+          spotify: "https://open.spotify.com/track/5J7EbfHGj7qdi0HaBmmvyz?si=fb26545691394d99",
+          youtube: "https://youtu.be/F7tc3EZt3qU?si=Q7WtcbG5TItygLrV",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "landingAtSirion",
+          note: ""
+        }
+      ]
+    },
     {
       title: "Iracu",
-      spotify: "https://open.spotify.com/track/41M2ex92oaD2HkIOUCJalG?si=ef2d3e9bcdf54132",
-      youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI",
-      image: "assets/songs/Iracu.jpg",
-      date: "",
-      textPage: "iracu",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Belonging",
-  meta: "Keri takes in the beauty of the natural world",
-  tracks: [
-    {
-      title: "Nature Call",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "A Song for the Oars",
-  meta: "Sung to keep a common rhythm in the rowboat",
-  tracks: [
-    {
-      title: "The Fields of Byria",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "The journey by oar on the way to meet the dwarves calls for a work song. It turns out to come from the great mainland, from Byria — where women rule and men have largely been reduced to labor."
-    }
-  ]
-},
-{
-  title: "Training and Frustration",
-  meta: "Athina finds the ceiling too low",
-  tracks: [
-    {
-      title: "Lines That Do Not Show",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Temple Pause",
-  meta: "At Halea's temple",
-  tracks: [
-    {
-      title: "Hymn of the Open Hand",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Doubt",
-  meta: "A thoughtful Keri in the garden at Figgel",
-  tracks: [
-    {
-      title: "Balance",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Settlement",
-  meta: "An offer of relocation to Serenia",
-  tracks: [
-    {
-      title: "We Took the Offer (Serenia Settlers' Song)",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Mining",
-  meta: "A dwarven mine master has arrived and set people to work",
-  tracks: [
-    {
-      title: "Khaz Khur Razan (The Stone Knows the Way)",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Sowing",
-  meta: "Peoni hymn / work song for sowing",
-  tracks: [
-    {
-      title: "The Furrow Blessing",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Mythmaking",
-  meta: "A new land, new songs",
-  tracks: [
-    {
-      title: "The Ranger and the Dozen",
-      image: "assets/songs/Ranger.jpg",
-      date: "March 5, 2026",
-      textPage: "ranger",
-      spotify: "https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ",
-      youtube: "https://youtu.be/fKZXAZapR_4?list=OLAK5uy_lJyue_RGOInI-hjmo6JkTIuV3eJAM7878",
-      note: "The need to reduce the number of Gargun in the forests is obvious if people are to feel safe. A hunter who deals with a dozen on her own — that is the kind of thing myths are made from. Or mocked for, if it is only bragging."
-    }
-  ]
-},
-{
-  title: "Fortune of War?",
-  meta: "",
-  tracks: [
-    {
-      title: "Fallen King",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Preparations of Darkness",
-  meta: "Naveh hymn",
-  tracks: [
-    {
-      title: "Naveh – Lati",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Illuminated Night",
-  meta: "Interrupted sleep in Golotha",
-  tracks: [
-    {
-      title: "Firestorm",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Alone",
-  meta: "Raven is absent",
-  tracks: [
-    {
-      title: "Bridge of Doubt",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: "Keri is given a task that might finally put things behind them. It is work meant for Raven — but Raven does not take over."
-    }
-  ]
-},
-{
-  title: "The Unexpected",
-  meta: "",
-  tracks: [
-    {
-      title: "Light Upon the Water",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "Incitement",
-  meta: "Civil war is stirred in Coranan",
-  tracks: [
-    {
-      title: "Coranan Rising",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "War-joy",
-  meta: "Agrik hymn",
-  tracks: [
-    {
-      title: "Agrikan Hymn",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "<<< More to Come >>>",
-  meta: "Stub",
-  tracks: [
-    {
-      title: "",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-},
-{
-  title: "National Anthem",
-  meta: `Traditional Irish melody: <i>Buachaill o'n Éirne Mé</i>.<br>Text inspired by W. Gordon Smith's <i>Come By The Hills</i> to the same tune (1967 or earlier).`,
-  tracks: [
-    {
-      title: "Serenia Anthem",
-      image: "assets/songs/dummy.jpg",
-      date: "",
-      status: "Not yet",
-      textPage: "",
-      spotify: "",
-      youtube: "",
-      note: ""
-    }
-  ]
-}
-
-
-
-
-]  
-
-
-
+      meta: "Keri får rundvandring i gruvan",
+      tracks: [
+        {
+          title: "Iracu",
+          spotify: "https://open.spotify.com/track/41M2ex92oaD2HkIOUCJalG?si=ef2d3e9bcdf54132",
+          youtube: "https://youtu.be/h8J-RBSHkwA?si=BW9RRxm342Umo6aI",
+          image: "assets/songs/Iracu.jpg",
+          date: "",
+          textPage: "iracu",
+          note: ""
+        }
+      ]
     },
+    {
+      title: "Anknytning",
+      meta: "Keri tar in naturens skönhet",
+      tracks: [
+        {
+          title: "Nature call",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>Nej</i>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Sång för en roddtur",
+      meta: "Sjungen för att hålla en gemensam rytm i roddbåt",
+      tracks: [
+        {
+          title: "The Fields of Byria",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Roddtur på väg att träffa dvärgarna kräver en arbetssång... blir en som kommit från stora fastlandet om Byria - där kvinnorna styr och männen till stor del reducerats till arbetskraft"
+        }
+      ]
+    },
+    {
+      title: "Utbildning och frustruation",
+      meta: "Athina finner taket för lågt",
+      tracks: [
+        {
+          title: "Lines That Do Not Show",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Tempelpaus",
+      meta: "Hos Halea",
+      tracks: [
+        {
+          title: "Hymmn of the Open Hand",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Tvivel",
+      meta: "Tankfull Keri i trädgården i Figgel",
+      tracks: [
+        {
+          title: "Balance",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Immigrantion",
+      meta: "Erbjudande om inflyttning till Serenien",
+      tracks: [
+        {
+          title: "We Took the Offer (Serenia settlers' song)",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Gruvdrift",
+      meta: "Dvärg-gruvmästare anlänt och satt folk i arbete",
+      tracks: [
+        {
+          title: "Khaz Khur Razan ( The Stone know the Way )",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Sådd",
+      meta: "Peoni-hymn / Arbetssång vid sådd",
+      tracks: [
+        {
+          title: "The Furrow Blessing",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Mytbildning",
+      meta: "Nytt land, nya sånger",
+      tracks: [
+        {
+          title: "The Ranger and the Dozen",
+          image: "assets/songs/Ranger.jpg",
+          date: "5 mars 2026",
+          textPage: "ranger",
+          spotify: "https://open.spotify.com/album/2ooiaEEKNgkWdm4SgpAXA6?si=SOKhKQzMQdC9PC-K9OrPIQ",
+          youtube: "https://youtu.be/fKZXAZapR_4?list=OLAK5uy_lJyue_RGOInI-hjmo6JkTIuV3eJAM7878",
+          note: "Att det föreligger ett behov att minska mängden Gargun i skogarna för att folk skall känna sig trygga är uppenbart, en jägare som tar hand om ett dussin på egen hand - det är vad myter skapas av. Eller drivs med om det bara är skrävlande..."
+        }
+      ]
+    },
+    {
+      title: "Krigslycka?",
+      meta: "",
+      tracks: [
+        {
+          title: "Fallen King",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Mörkrets förberedelse",
+      meta: "Naveh-hymn",
+      tracks: [
+        {
+          title: "Naveh - lati",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Upplyst natt",
+      meta: "Avbruten sömn i Golotha",
+      tracks: [
+        {
+          title: "Firestorm",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Ensam",
+      meta: "Raven är frånvarande",
+      tracks: [
+        {
+          title: "Bridge of doubt",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: "Keri får ett uppdrag för att lägga sakerna bakom dem... Ett jobb för Raven, men hon tar inte över"
+        }
+      ]
+    },
+    {
+      title: "Det oväntade",
+      meta: "",
+      tracks: [
+        {
+          title: "Light upon the water",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Uppviglande",
+      meta: "Inbördeskrig uppviglas i Coranan",
+      tracks: [
+        {
+          title: "Coranan Rising",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Krigsglädje",
+      meta: "Agrik-hymn",
+      tracks: [
+        {
+          title: "Agrikan hymn",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+
+
+    {
+      title: "< < < - Mer att komma - > > >",
+      meta: "stubbe",
+      tracks: [
+        {
+          title: "",
+          image: "assets/songs/dummy.jpg",
+          date: "",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    },
+    {
+      title: "Nationalsång",
+      meta: "Trad. Irländsk melodi <i>Buachaill o'n Éirne Mé</i>. <br>Text inspirerad av W. Gordon Smiths <i>Come By The Hills</i>-text till densamma (1967 eller tidigare).",
+      tracks: [
+        {
+          title: "Serenia Anthem",
+          image: "assets/songs/dummy.jpg",
+          date: "<b>inte ännu</b>",
+          textPage: "",
+          spotify: "",
+          youtube: "",
+          note: ""
+        }
+      ]
+    }
+  ]  */
+},
     records: {
       menuTitle: `"Serenia Records"`,
-      title: `Projects within "Serenia Records"`,
-      text: ` <b>Serenia</b>
-Music directly connected to the narrative world. Tone, theme, and expression carry the same weight as the story itself.
+      title: `Projekt inom "Serenia Records"`,
+      text: `<b>Serenia</b>
+Musik direkt knuten till romanvärlden. Klang, tema och uttryck bär samma tyngd som berättelsen själv.
 
 ────────────
 
@@ -3770,6 +4988,82 @@ Who are we…
   showPlaceholder: false
     },
 
+    letItBurn: {
+      title: "Let it Burn a Little Longer",
+      hidden: true,
+      lyrics: `She stood by the steps with her candles for sale
+As the snow settled over the Gwear.
+She watched every face disappearing indoors;
+No one asked why she was there.
+A loaf had been lifted behind window glass.
+Her eyes followed where it was laid.
+She crouched where a brazier still sheltered a coal,
+Her knees tucked beneath her thin skirt.
+
+One candle, she thought, could hardly be missed,
+Just one from the bundle she bore.
+She lowered its wick to the last living coal,
+And a table stood where none stood before.
+A bowl had been set in her usual place,
+And somebody pulled out her chair.
+A hand brushed the snow from the side of her face.
+There was sunlight asleep in her hair.
+
+ Let it burn a little longer.
+ I can sit so very still.
+ Let me hear you say you saved
+ A little bread for me.
+ I will only take a little.
+ I can share it all with you.
+ Let it burn a little longer.
+ Let me stay a while with you.
+
+The wick folded over; the table was gone.
+Her bowl was two hands full of air.
+She lit the next candle before the coal did die,
+And her mother was sitting right there.
+She sat with a tair in a shirt on her knee,
+Drawing thread through the cloth as before.
+Then she lifted her eyes with the start of a smile,
+And the earth lay between them no more.
+
+ Let it burn a little longer.
+ I can sit so very still.
+ Let me hear you say you saved
+ A little bread for me.
+ I will only take a little.
+ I can share it all with you.
+ Let it burn a little longer.
+ Let me stay a while with you.
+
+There was so much she wanted her mother to know:
+How her shoe had been lost by the quay,
+How she now counted twenty without getting lost,
+Where she slept when they shut up the hall.
+But all she could say was, “I’m tired, Mama.”
+Then she lit every wick she had left.
+And her mother reached out with her arms open wide.
+She forgot to keep watch on her hem.
+
+ Let it burn a little longer.
+ I can sit so very still.
+ Let me hear you say you saved
+ A little bread for me.
+ I will only take a little.
+ I can share it all with you.
+ Let it burn a little longer.
+ Let it burn a little longer.
+ Let me stay a while with you.
+
+At dawn someone opened the gate at her side.
+A cart left its tracks in the snow.
+They found her small basket, the blackened remains.
+A woman knel, praying, "Peoni, be near:"
+In the house just across from the steps, someone woke
+And cut a fresh loaf into slices.`,
+  showPlaceholder: false
+    },
+
      threeCups: {
       title: "Three cups, one truth",
       hidden: true,
@@ -4875,9 +6169,90 @@ A small number of canonical characters appear. Their interpretation and portraya
       text: "Covers, character portraits, environment art and other concept imagery will be shown here."
     },
     portraits: {
-      menuTitle: "Character portraits",
-      title: "Character portraits",
-      text: "Images of Keri, Raven and other central figures will be gathered here."
+      menuTitle: "Karaktärsporträtt",
+      title: "Karaktärsporträtt",
+      layout: "cards",
+      columns: 4,
+
+  cards: [
+    {
+      image: "assets/chars/Keri_pouch.png",
+      title: "Keri",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Raven.png",
+      title: "Raven"
+    },
+    {
+      image: "assets/chars/Kelly.png",
+      title: "Kelly"
+    },
+    {
+      image: "assets/chars/Athina_fixhand.jpg",
+      title: "Athina"
+    },
+    {
+      image: "assets/chars/Fabien.png",
+      title: "Fabien Trulor",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Serenima.png",
+      title: "Lady Serenima Dethale"
+    },
+    {
+      image: "assets/chars/Jeredosta.png",
+      title: "Querlid Jeredosta"
+    },
+    {
+      image: "assets/chars/Joreth_stripped.png",
+      title: "Joreth"
+    },
+    {
+      image: "assets/chars/Hund.png",
+      title: "Hund",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Kaerith.png",
+      title: "Kaerith"
+    },
+    {
+      image: "assets/chars/Cyzo.png",
+      title: "Cyzo"
+    },
+    {
+      image: "assets/chars/Lothan_shield.png",
+      title: "Lothan"
+    },
+    {
+      image: "assets/chars/Marvae_river_photoQ.png",
+      title: "Marvae",
+      section: "",
+      page: ""
+    },
+    {
+      image: "assets/chars/Fenralf.png",
+      title: "Fenralf"
+    },
+    {
+      image: "assets/chars/Redira_jester.png",
+      title: "Redira"
+    },
+    {
+      image: "assets/chars/kelen.png",
+      title: "Kelen Valenthes"
+    }
+  ],
+
+  showPlaceholder: false
+
+
+
     },
     places: {
       menuTitle: "Environments & places",

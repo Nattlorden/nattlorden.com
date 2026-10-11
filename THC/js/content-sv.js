@@ -1332,7 +1332,7 @@ Mane nobiscum
 Amen`
     }
   ],
-  showPlaceholder: true
+  showPlaceholder: false
     },
     haunted: {
       menuTitle: "Haunted",
