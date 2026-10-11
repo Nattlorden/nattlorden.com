@@ -5440,151 +5440,6 @@ Keeps the memory.
   showPlaceholder: false
     },
 
-    saknadA: {
-      menuTitle: "Saknad-1: Hon som var så levande nyss",
-      title: "Hon som var så levande nyss",
-      blocks: [
-     {
-      type: "image",
-      src: "assets/covers/Saknad 1200.jpg",
-      size: "small",
-      caption: "Publicerad 13e september 2026"
-    },
-    {
-      type: "text",
-      content: `<i>Text - Caroline Nilsson</i>
-      
-      <a href="https://open.spotify.com/track/25DkkPnVwJeJtCj0qsHsaB?si=b2d254d302194735" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/Tr5P-ctA6Jg" target="_blank" rel="noopener noreferrer">YouTube</a>`
-    },
-    {
-      type: "divider"
-    },
-    {
-      type: "text",
-      content: `Hur skulle du beskriva henne?
-Hon som var så levande nyss.
-
-Nattens irrande efter henne.
-Hennes doft, hennes skratt.
-Hennes lust till livet.
-
-Alltid så glad, där inget var omöjligt.
-För det var sån hon var.
-
-Hur skulle du beskriva henne?
-Hon som var så levande nyss.
-
-En vän så god.
-En maka, ens tvillingsjäl.
-En mor så älskad.
-
-Hur skulle du beskriva henne?
-Hon som var så levande nyss.
-
-En sol på himlen som skiner så klart.
-En vindpust i luften som viskar våra namn.
-Tårar när regnet faller.
-Efter de hon lämnat kvar
-och älskar så högt.
-
-Det är så jag skulle beskriva henne.
-Hon som var så levande nyss.`
-    }
-  ],
-  showPlaceholder: false
-    },
-
-    saknadB: {
-      menuTitle: "Saknad-2: När livets låga släcks",
-      title: "När livets låga släcks",
-      blocks: [
-     {
-      type: "image",
-      src: "assets/covers/Saknad 1200.jpg",
-      size: "small",
-      caption: "Publicerad 13e september 2026"
-    },
-    {
-      type: "text",
-      content: `<i>Text - Caroline Nilsson</i>
-      
-      <a href="https://open.spotify.com/track/0mvvhyD8m8uTHkte6LdBli?si=8c9f48f86ab64317" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/bfTYxlJ5D_s" target="_blank" rel="noopener noreferrer">YouTube</a>`
-    },
-    {
-      type: "divider"
-    },
-    {
-      type: "text",
-      content: `Hur kan det vara så 
-att du inte finns - mer?
-Hur kan en människa så god
-bara försvinna så fort?
-
-För jag undrar.
-Vem bestämde 
-att ditt liv skulle släckas?
-
- När livets låga släcks 
- för en människa så god.
- Som försvann från denna jord
- med sitt vackra leende.
-
- För när livets låga släcks
- blir livet plötsligt tomt.
- För du lämnade denna jord
- ...med ditt leende....
-
-Vi lever med minnet av dig kvar.
-En människa så snäll.
-När vi går på denna jord.
-Ditt leende finns kvar.
-Bland oss 
-som ensamma kvar.
-
- När livets låga släcks
- för en människa så god.
- Som försvann från denna jord
- med sitt vackra leende.
-
- För när livets låga släcks
- blir livet plötsligt tomt.
- För du lämnade denna jord
- ...med ditt leende....
-
-Jag vet att du är med .
-Att du följer oss på vår stig.
-Att du inte lämnar oss
-i denna ofantliga sorg.
-När livets låga släcks
-för en människa så god.
-
-Som försvann från denna jord,
-med sitt vackra leende.
-För när livets låga släcks
-blir livet plötsligt tomt.
-För du lämnade denna jord
-..med ditt leende...
-Jag vet att du är där
-och leder Ante sakta framåt.
-
-Att du viskar i hans öra.
-Du vet att han klarar det.
-Du sitter där på barnens sängkant.
-Torkar deras tårar.
-
- Stryker de ömt över håret.
- När livets låga släcks 
- för en människa så god.
- Som försvann från denna jord
- med sitt vackra leende.
- För när livets låga släcks
- blir livet plötsligt tomt.
- För du lämnade denna jord
- ...med ditt leende...`
-    }
-  ],
-  showPlaceholder: false
-    },
     
     sherAdler: {
       menuTitle: "You can solve every riddle but me",
@@ -9854,6 +9709,248 @@ Där kom strömmen.
   ],
   showPlaceholder: false
     },
+    
+  },
+
+  carro: {
+    about: {
+      menuTitle: "Om",
+      title: "Carolines",
+      text: `Sångtexter av Caroline Nilsson som jag tonsatt och producerat.`,
+      showPlaceholder: false
+    },
+
+    saknadA: {
+      menuTitle: "Saknad-1: Hon som var så levande nyss",
+      title: "Hon som var så levande nyss",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Saknad 1200.jpg",
+      size: "small",
+      caption: "Publicerad 13e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/25DkkPnVwJeJtCj0qsHsaB?si=b2d254d302194735" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/Tr5P-ctA6Jg" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Hur skulle du beskriva henne?
+Hon som var så levande nyss.
+
+Nattens irrande efter henne.
+Hennes doft, hennes skratt.
+Hennes lust till livet.
+
+Alltid så glad, där inget var omöjligt.
+För det var sån hon var.
+
+Hur skulle du beskriva henne?
+Hon som var så levande nyss.
+
+En vän så god.
+En maka, ens tvillingsjäl.
+En mor så älskad.
+
+Hur skulle du beskriva henne?
+Hon som var så levande nyss.
+
+En sol på himlen som skiner så klart.
+En vindpust i luften som viskar våra namn.
+Tårar när regnet faller.
+Efter de hon lämnat kvar
+och älskar så högt.
+
+Det är så jag skulle beskriva henne.
+Hon som var så levande nyss.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    saknadB: {
+      menuTitle: "Saknad-2: När livets låga släcks",
+      title: "När livets låga släcks",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Saknad 1200.jpg",
+      size: "small",
+      caption: "Publicerad 13e september 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/0mvvhyD8m8uTHkte6LdBli?si=8c9f48f86ab64317" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/bfTYxlJ5D_s" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Hur kan det vara så 
+att du inte finns - mer?
+Hur kan en människa så god
+bara försvinna så fort?
+
+För jag undrar.
+Vem bestämde 
+att ditt liv skulle släckas?
+
+ När livets låga släcks 
+ för en människa så god.
+ Som försvann från denna jord
+ med sitt vackra leende.
+
+ För när livets låga släcks
+ blir livet plötsligt tomt.
+ För du lämnade denna jord
+ ...med ditt leende....
+
+Vi lever med minnet av dig kvar.
+En människa så snäll.
+När vi går på denna jord.
+Ditt leende finns kvar.
+Bland oss 
+som ensamma kvar.
+
+ När livets låga släcks
+ för en människa så god.
+ Som försvann från denna jord
+ med sitt vackra leende.
+
+ För när livets låga släcks
+ blir livet plötsligt tomt.
+ För du lämnade denna jord
+ ...med ditt leende....
+
+Jag vet att du är med .
+Att du följer oss på vår stig.
+Att du inte lämnar oss
+i denna ofantliga sorg.
+När livets låga släcks
+för en människa så god.
+
+Som försvann från denna jord,
+med sitt vackra leende.
+För när livets låga släcks
+blir livet plötsligt tomt.
+För du lämnade denna jord
+..med ditt leende...
+Jag vet att du är där
+och leder Ante sakta framåt.
+
+Att du viskar i hans öra.
+Du vet att han klarar det.
+Du sitter där på barnens sängkant.
+Torkar deras tårar.
+
+ Stryker de ömt över håret.
+ När livets låga släcks 
+ för en människa så god.
+ Som försvann från denna jord
+ med sitt vackra leende.
+ För när livets låga släcks
+ blir livet plötsligt tomt.
+ För du lämnade denna jord
+ ...med ditt leende...`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    stopp: {
+      menuTitle: "Stopp",
+      title: "Stopp",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Stopp 1200.jpg",
+      size: "small",
+      caption: "Publicerad 11e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      Metal mix:
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+      Softer mix:
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Stopp.
+Vrid tillbaka tiden.
+
+Alla måsten du är tvungen att ha,.
+Att livet skulle bli en massa krav.
+Inte som när du var barn.
+När livet var enkelt.
+
+ Stopp —
+ vrid tillbaka tiden.
+ Varför hade vi så bråttom
+ att bli stora?
+ För det var ingen som sa
+ hur det var.
+ Ingen som sa
+ hur det var.
+
+Att smärtan kunde vara så stark.
+Att sorgen kunde kännas
+som om den slets ur bröstet.
+
+Att tårarna aldrig ville ta slut.
+Att  inte våga säga
+hur det var.
+
+ Stopp —
+ vrid tillbaka tiden.
+ Varför hade vi så bråttom
+ att bli stora?
+ För det var ingen som sa
+ hur det var.
+ Ingen som sa
+ hur det var.
+
+För vad skulle hända
+om du bröt ihop?
+När  du tappar kontrollen
+totalt?
+
+Och gråter som ett barn …
+
+För att någon frågar
+hur du mår.
+
+ Stopp —
+ vrid tillbaka tiden.
+ Varför hade vi så bråttom
+ att bli stora?
+ För det var ingen som sa
+ hur det var.
+ Ingen som sa
+ hur det /verkligen/ var.
+
+Att sorgen skulle vara
+så brutal.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    
     
   },
 

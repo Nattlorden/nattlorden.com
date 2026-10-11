@@ -6,6 +6,7 @@ const sectionLabels = {
     khellendros: "Khellendros",
     disir: "Dísir",
     rappa: "Rappa på,",
+    carro: "Carolines",
     other: "Övrigt"
   },
   en: {
@@ -14,6 +15,7 @@ const sectionLabels = {
        khellendros: "Khellendros",
        disir: "Dísir",
        rappa: "Rappa på,",
+    carro: "Caroline's",
     other: "Other"
   }
 };
@@ -24,6 +26,7 @@ const backArrows = {
   khellendros: "assets/ui/Khellendrospil.png",
   disir: "assets/ui/Neonpil.png",
   rappa: "assets/ui/normalpil.png",
+  carro: "assets/ui/normalpil.png",
   other: "assets/ui/normalpil.png"
 };
 
@@ -58,6 +61,11 @@ const siteMeta = {
     title: "Rappa på,",
     tagline: "En samling upprördheter",
     headerClass: "header-rappa"
+  },
+  carro: {
+    title: "Carolines",
+    tagline: "En samling av Carolines tankar",
+    headerClass: "header-carro"
   },
   other: {
     title: "*",
@@ -99,6 +107,11 @@ const siteMeta = {
         title: "Rappa på,",
         tagline: "Collection of annoyances",
         headerClass: "header-rappa"
+      },
+      carro: {
+        title: "Caroline's",
+        tagline: "A collection of Caroline's thoughts",
+        headerClass: "header-carro"
       },
       other: {
         title: `*`,
