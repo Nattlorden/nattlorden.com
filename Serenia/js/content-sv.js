@@ -5382,7 +5382,7 @@ The wick folded over; the table was gone.
 Her bowl was two hands full of air.
 She lit the next candle before the coal did die,
 And her mother was sitting right there.
-She sat with a tair in a shirt on her knee,
+She sat with a tear in a shirt on her knee,
 Drawing thread through the cloth as before.
 Then she lifted her eyes with the start of a smile,
 And the earth lay between them no more.
@@ -5418,7 +5418,7 @@ She forgot to keep watch on her hem.
 At dawn someone opened the gate at her side.
 A cart left its tracks in the snow.
 They found her small basket, the blackened remains.
-A woman knel, praying, "Peoni, be near:"
+A woman knelt, praying, "Peoni, be near:"
 In the house just across from the steps, someone woke
 And cut a fresh loaf into slices.`,
   showPlaceholder: false
