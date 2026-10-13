@@ -9240,6 +9240,200 @@ And bring the sunrise home in my shadow’s glow  `
     }
   ],
   showPlaceholder: false
+    },
+
+    noBeforeNoAfter: {
+      menuTitle: "No Before, No After",
+      title: "No Before, No After",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Mellosingel 1200.jpg",
+      size: "small",
+      caption: "Released october 12th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Contribution to Melodifestivalen 2027, not accepted.</i>
+      
+      <a href="https://open.spotify.com/track/384pAERu9bSN58OpKQI5ST?si=a11288b597e44ac5" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/6NC3hX5fxHg" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `No new name
+Not tonight
+
+Everybody loves a doorway
+Clean white line from then to now
+But I don't need a revelation
+For one unedited night
+
+If tomorrow wants me
+It knows where I am
+No countdown, no blueprint
+No master plan
+
+ No before, no after
+ No new me by morning light
+ No before, no after
+ I don't have to win my life
+ Let the picture stay unfinished
+ Let the edges stay outside
+ No before, no after
+ I'm already here tonight
+
+Every answer wants a sequel
+We keep polishing the present
+I can leave a little question
+Maybe I don't need a route
+
+If tomorrow wants me
+It knows where I am
+No master plan
+
+No reveal, no reinvention
+Keep the part that won't align
+Nothing has to turn to something
+Just to prove that it was mine
+
+No before
+No after
+Already - 
+
+ No before, no after
+ No new me by morning light
+ No before, no after
+ I don't have to win my life
+ Let the picture stay unfinished
+ Let the edges stay outside
+ No before, no after
+ I'm already here tonight
+
+Already here tonight`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    thisCantWin: {
+      menuTitle: "This Can't Win",
+      title: "This Can't Win",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Mellosingel 1200.jpg",
+      size: "small",
+      caption: "Released october 12th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Contribution to Melodifestivalen 2027, not accepted.</i>
+      
+      <a href="https://open.spotify.com/track/6a1Jdjl4K5ufWgls04wQnR?si=c6f2908a92c5408d" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/pP5WG5_i2Ww?list=OLAK5uy_kkfv0y9NRrO_X57ByOdn-3lW8fzrSDm24" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `They said bring fire
+They said bring gold
+I brought a noise
+Nobody told
+
+Everybody came dressed for the crown
+Perfect little lightning, perfectly loud
+I took the side door, missed the parade
+Found something strange and called it a stage
+
+You brought diamonds, I brought string
+You brought angels, I brought this thing
+No grand plan, no alibi
+If this is wrong, then so am I
+
+Too odd for the radio
+Too small for the satellite
+Too late to be sensible
+So make it unforgettable tonight
+
+ This can't win
+ This can't win
+ So why is everybody singing it?
+ This can't win
+ This can't win
+ Wrong song, right night, here we go again
+
+ La-da-da, let the trouble begin
+ La-da-da, everybody join in
+ This can't win
+ This can't win
+ So why is everybody singing it?
+
+Hey! Hey!
+Wrong song, right night
+Hey! Hey!
+This can't win
+
+Someone said, "Maybe add something cool"
+I misunderstood every possible rule
+A little buzz, a wobble, a drone
+A sound like a duck with a telephone
+
+The jury face says, "What is that?"
+My mother says, "Darling, imagine that"
+Three more seconds, confidence high
+We might be terrible enough to fly
+
+Too odd for the radio
+Too weird to get it right
+Too late to be sensible
+So make it unforgettable tonight
+
+ This can't win
+ This can't win
+ So why is everybody singing it?
+ This can't win
+ This can't win
+ Wrong song, right night, here we go again
+
+ La-da-da, let the trouble begin
+ La-da-da, everybody join in
+ This can't win
+ This can't win
+ So why is everybody singing it?
+
+One for the pretty
+Two for the strange
+Three for the people
+Who never behave
+
+Wrong song
+Right night
+Wrong song
+Right night
+One, two, three -
+
+ This can't win
+ This can't win
+ So why is everybody singing it?
+ This can't win
+ This can't win
+ Wrong song, right night, here we go again
+
+ La-da-da, let the trouble begin
+ La-da-da, everybody join in
+ This can't win
+ This can't win
+ So why is everybody singing it?
+
+This can't -
+Win!`
+    }
+  ],
+  showPlaceholder: false
     }
 
     /*
