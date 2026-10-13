@@ -1,8 +1,9 @@
 window.NATTLORDEN_CATALOG = {
   "site": "https://nattlorden.com/",
-  "updatedAt": "2026-10-07T09:17:41.951Z",
+  "updatedAt": "2026-10-13T07:01:40.722Z",
   "artists": [
     "Björn Andersson",
+    "Caroline's",
     "Croonlius",
     "Dísir",
     "Echæon",
@@ -13,6 +14,7 @@ window.NATTLORDEN_CATALOG = {
     "Maj-Lisa & Skramlet",
     "Nattlorden",
     "Posthuman Cabaret",
+    "Rappa på,",
     "Serenia",
     "Side Projects",
     "Threshold Canticle",
@@ -29,6 +31,39 @@ window.NATTLORDEN_CATALOG = {
       "cover": "https://nattlorden.com/Opera/assets/images/Camelot%20e%20Avalon%203k%203.png",
       "source": "https://nattlorden.com/Opera/index.html#avalon/about",
       "sourceArea": "Opera"
+    },
+    {
+      "artist": "Caroline's",
+      "title": "Hon som var så levande nyss",
+      "collection": "Carolines",
+      "release": "Publicerad 13e september 2026",
+      "spotify": "https://open.spotify.com/track/25DkkPnVwJeJtCj0qsHsaB?si=b2d254d302194735",
+      "youtube": "https://youtu.be/Tr5P-ctA6Jg",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/Saknad%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#carro/saknadA",
+      "sourceArea": "Fragments"
+    },
+    {
+      "artist": "Caroline's",
+      "title": "När livets låga släcks",
+      "collection": "Carolines",
+      "release": "Publicerad 13e september 2026",
+      "spotify": "https://open.spotify.com/track/0mvvhyD8m8uTHkte6LdBli?si=8c9f48f86ab64317",
+      "youtube": "https://youtu.be/bfTYxlJ5D_s",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/Saknad%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#carro/saknadB",
+      "sourceArea": "Fragments"
+    },
+    {
+      "artist": "Caroline's",
+      "title": "Stopp",
+      "collection": "Carolines",
+      "release": "Released october 11th 2026",
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Fragments/assets/covers/Stopp%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#carro/stopp",
+      "sourceArea": "Fragments"
     },
     {
       "artist": "Croonlius",
@@ -138,6 +173,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/fSVWHIDJvhw?list=OLAK5uy_k8uFuwh-O3Dbb0wbd1MuaAc9OG2zQJUsM",
       "cover": "https://nattlorden.com/Fragments/assets/covers/glao%20na%20Geala%C3%AD%201200.jpg",
       "source": "https://nattlorden.com/Fragments/index.html#disir/glaoNaGeala%C3%AD",
+      "sourceArea": "Fragments"
+    },
+    {
+      "artist": "Dísir",
+      "title": "I'm out...",
+      "collection": "Dísir",
+      "release": "Released September 21st 2026",
+      "spotify": "https://open.spotify.com/album/2TBqt5BN9gaeWExrr1W9cp?si=fNtw1EeVTfWJTVvXPfN06Q",
+      "youtube": "https://youtu.be/q-1tkMvO6N0",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/I'm%20out%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#disir/imOut",
       "sourceArea": "Fragments"
     },
     {
@@ -373,6 +419,28 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "Aelathir",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/album/6DjZnXoOLdNQSQykEIZPxT?si=3_hdxC_0RgWHaV-_ozSV6Q",
+      "youtube": "https://youtu.be/1IDHmR9-MBE?list=OLAK5uy_mSsRXXgcdJPVV7UrAbhUfYhkLx6DxJ8P0",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Aelathir%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/aelathir",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "After the Rain",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/7F41GfwY7jzjaMYRquWgBp?si=796fb9f89040438b",
+      "youtube": "https://youtu.be/WB_Vcnutcoc",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Paths%20less%20travelled%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/afterTheRain",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "Amaranth light",
       "collection": "Music",
       "release": null,
@@ -406,6 +474,17 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "Beneath the Rowan",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/The%20Knight%20and%20the%20Forest%20Maid%203k.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/beneathTheRowan",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "Cold as truth",
       "collection": "Music",
       "release": null,
@@ -413,6 +492,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/s4s4gtnGilE?list=OLAK5uy_m5TOlz8MFhQLm8HAxqQanx2I5EC-mckUw",
       "cover": "https://nattlorden.com/Freyja/assets/covers/Cold%20as%20truth%203k.jpg",
       "source": "https://nattlorden.com/Freyja/index.html#music/coldAsTruth",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Come back to me",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/5mQMub0Z3XROCVnu5ux0ez?si=181128fb07c04b07",
+      "youtube": "https://youtu.be/DqIGZoVjXXE?list=OLAK5uy_lrH8m1K-3LDNBQNm48GPEb62I9ZzuLLaE",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Come%20back%20to%20me%20alt%20front%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/comeBackToMe",
       "sourceArea": "Freyja"
     },
     {
@@ -472,6 +562,50 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "Follow the Hidden Fire",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Follow%20the%20Hidden%20fire%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/followTheHiddenFire",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Golden Leaves on Hither Shore",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/76fmbuxedpZOZzie8d2jAy?si=5d0614e3cedd4379",
+      "youtube": "https://youtu.be/5FIYA241YO0",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Cover%20album%201%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/goldenLeaves",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Half divine and half declined",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/The%20Knight%20and%20the%20Forest%20Maid%203k.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/halfDivineAndHalfDeclined",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Half-Hangit Maggie",
+      "collection": "Half-Hangit Maggie",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/3oZPSMHseG7pOjCjPB1EsG?si=7b146994898f4a16",
+      "youtube": "https://youtu.be/FCn2MFM-zmI?list=OLAK5uy_nAedIVUD2rRY3yrf7Fz7nu36-CqJxcw3I",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Half-hangit%20Maggie%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/halfHangitMaggie",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "He promised the dawn",
       "collection": "Music",
       "release": null,
@@ -512,6 +646,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/gBDwAwEgNfI?list=RDQ4N1CnUNh8M",
       "cover": "https://nattlorden.com/Freyja/assets/covers/I%20will%20rise,%20I%20remain%203k.jpg",
       "source": "https://nattlorden.com/Freyja/index.html#music/iWillRise",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Lantern Man",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/2WyMO2yY2tT0JYazlsPAoK?si=f99704341027488b",
+      "youtube": "https://youtu.be/zUDd_OqR35c?si=fS-C11JIjXwHCgQ1",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Lantern%20Man%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/lanternMan",
       "sourceArea": "Freyja"
     },
     {
@@ -560,6 +705,28 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "Morning / A Vision",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/0J9eH5VbUW9KHEMp8PAhUb?si=b573ca2483864a80",
+      "youtube": "https://youtu.be/yFJGVZeX05Y",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Paths%20less%20travelled%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/morningAVision",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "My love will not die",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/The%20Knight%20and%20the%20Forest%20Maid%203k.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/myLoveWillNotDie",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "My Tears",
       "collection": "Music",
       "release": null,
@@ -567,6 +734,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/xkdwR-mv0kk?list=OLAK5uy_nPoX792r-xwK6pl7z0d_XJA_R9FU-d5sE",
       "cover": "https://nattlorden.com/Freyja/assets/covers/My%20tears%203k.jpg",
       "source": "https://nattlorden.com/Freyja/index.html#music/myTears",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "On the Edge of Time",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/0zf43QFq20oCq0drbZddvt?si=b3f734a6f5bd471e",
+      "youtube": "https://youtu.be/MdtveFNPMw0",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Paths%20less%20travelled%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/storiesInTheStone",
       "sourceArea": "Freyja"
     },
     {
@@ -615,6 +793,28 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "Runes",
+      "collection": "Freyja",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/1BKDCaPdZHxYwjylrYpMnz?si=84e4b8253cfc41de",
+      "youtube": "https://youtu.be/rir3bmqXcXQ",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Cover%20album%201%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/runes",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Rúnir",
+      "collection": "Rúnir ♦ Runes",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/1I2f9MjA4ryOLiZfdsMuhj?si=da47b76da7e8491d",
+      "youtube": "https://youtu.be/lYXz8UpExRw?list=OLAK5uy_kOYlaRxd_QVEUuijkbmpotV70wcybH4oA",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/R%C3%BAnir%20Runes%203K.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/runes",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "Rúnir ♦ Runes",
       "collection": "Music",
       "release": null,
@@ -659,6 +859,28 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "Still I sing",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/535xiFY1S0L9Q6lTDRjMl8?si=104e4f2e14bc4194",
+      "youtube": "https://youtu.be/TFK0me6BX1w?list=OLAK5uy_msL1NkoNjDOnIuqfOWrWaQkBhW5VAyWJA",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Still%20I%20sing%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/stillISing",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Stories in the Stone",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/0R1FsbtplJW23meahf1Gif?si=b3cda5e7c79c4a5a",
+      "youtube": "https://youtu.be/8qs3hQks-aI",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Stories%20of%20the%20stone%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/storiesInTheStone",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "Succubus",
       "collection": "Music",
       "release": null,
@@ -692,6 +914,39 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "The Bride Who Would Not Eat (Caterina da Siena I)",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Voices%20from%20Beyond%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/theBrideWhoWouldNotEat",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "The Clearing",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/7LC4UBNo5GNviSbQBXM01m?si=7f0e919075934c2e",
+      "youtube": "https://youtu.be/27AE8CSvoUw",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Cover%20album%201%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/theClearing",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "The colours I would wear",
+      "collection": "Half-Hangit Maggie",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/4WrmUyGHHF1dsKSH3fv0V7?si=b3ca5f69d26e417f",
+      "youtube": "https://youtu.be/ncv3RvaT85Q?list=OLAK5uy_lzWH7mEcHbn6Flnmdmgpa8pPk8E7LSsaU",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Half-hangit%20Maggie%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/theColoursIWouldWear",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "The Garden",
       "collection": "Music",
       "release": null,
@@ -699,6 +954,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": null,
       "cover": "https://nattlorden.com/Freyja/assets/covers/Garden%203k.jpg",
       "source": "https://nattlorden.com/Freyja/index.html#music/theGarden",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "The Garden Breathing",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/album/1e8nCJruSemtH4qEWgTPpf?si=T91rVJzjRlKvHjHIZtAk_A",
+      "youtube": "https://youtu.be/3t9BrQB1tkQ",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/garden%20breathing%20b-side%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/theGardenBreathing",
       "sourceArea": "Freyja"
     },
     {
@@ -714,6 +980,61 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Freyja",
+      "title": "The Knight and the Forest Maid",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/The%20Knight%20and%20the%20Forest%20Maid%203k.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/knightAndForestMaid",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "The Market Opens When the Stars Are Right",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/album/15T5cWgRwmKRRC03z4jS31?si=DCS8XAd4TtKAI_TX4IMBjw",
+      "youtube": "https://youtu.be/eZ18NpyOrLk",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/The%20market%20opens%20(cafeteria)%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/marketOpens",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "The Other Door",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/album/3ozgYFZUgl1xQZ3W7onZpZ?si=-uoeEobhSWKGRCwFaGtCaQ",
+      "youtube": "https://youtu.be/zKbzHj_xYwQ?list=OLAK5uy_nmoRhFJ_L52E5_kCib1ATyiOkoqfFguJA",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/The%20Other%20Door%20B-side%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/theOtherDoor",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "The Returning Path - instrumental",
+      "collection": "Freyja",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/7KcX63AnwnGUvi39waz95I?si=034fd4152c61425d",
+      "youtube": "https://youtu.be/edY3JeMw49E",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Cover%20album%201%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "The Returning Path (Revisited)",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/78aKxmcjFerMP5RYatetw5?si=2c9cb68d1798464b",
+      "youtube": "https://youtu.be/avFjuD-xwYQ",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Cover%20album%201%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/theReturningPath",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
       "title": "The White Lady",
       "collection": "Music",
       "release": null,
@@ -721,6 +1042,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/fNw9NhsgxNs?list=RDfNw9NhsgxNs",
       "cover": "https://nattlorden.com/Freyja/assets/covers/White%20Lady%203k.jpg",
       "source": "https://nattlorden.com/Freyja/index.html#music/whiteLady",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "They Carried Me Home (Caterina da Siena II)",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Voices%20from%20Beyond%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/theyCarriedMeHome",
       "sourceArea": "Freyja"
     },
     {
@@ -765,6 +1097,39 @@ window.NATTLORDEN_CATALOG = {
       "youtube": null,
       "cover": "https://nattlorden.com/Freyja/assets/covers/We%20are%20Earth%203k.jpg",
       "source": "https://nattlorden.com/Freyja/index.html#music/weAreEarth",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "What Remains of Me (Caterina da Siena III)",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Voices%20from%20Beyond%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/whatRemainsOfMe",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Wingthwaite White",
+      "collection": "Music",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Voices%20from%20Beyond%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/wingthwaiteWhite",
+      "sourceArea": "Freyja"
+    },
+    {
+      "artist": "Freyja",
+      "title": "Wyrd is Worthy",
+      "collection": "Music",
+      "release": null,
+      "spotify": "https://open.spotify.com/track/2H8uJVhccv9kOQcdRQGgK1?si=a555c5a04773471f",
+      "youtube": "https://youtu.be/RO_UY_G3vrw",
+      "cover": "https://nattlorden.com/Freyja/assets/covers/Paths%20less%20travelled%201200.jpg",
+      "source": "https://nattlorden.com/Freyja/index.html#music/wyrdIsWorthy",
       "sourceArea": "Freyja"
     },
     {
@@ -1044,13 +1409,79 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Mailysa",
+      "title": "40 år sedan",
+      "collection": "Soloprojekt",
+      "release": "Released july 10th 2026",
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/MajLisa/assets/covers/40%20%C3%A5r%20sedan%201200.jpg",
+      "source": "https://nattlorden.com/MajLisa/index.html#solo/fyrtioSedan",
+      "sourceArea": "MajLisa"
+    },
+    {
+      "artist": "Mailysa",
+      "title": "BP - soloprojekt",
+      "collection": "Soloprojekt",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": null,
+      "source": "https://nattlorden.com/MajLisa/index.html#solo/bp",
+      "sourceArea": "MajLisa"
+    },
+    {
+      "artist": "Mailysa",
+      "title": "Existens",
+      "collection": "Soloprojekt",
+      "release": "Released e 202",
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/MajLisa/assets/covers/Existens%201200.jpg",
+      "source": "https://nattlorden.com/MajLisa/index.html#solo/existens",
+      "sourceArea": "MajLisa"
+    },
+    {
+      "artist": "Mailysa",
+      "title": "Karna Jönsdotter - soloprojekt",
+      "collection": "Soloprojekt",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": null,
+      "source": "https://nattlorden.com/MajLisa/index.html#solo/karna",
+      "sourceArea": "MajLisa"
+    },
+    {
+      "artist": "Mailysa",
+      "title": "Kick the Door Wide Open",
+      "collection": "Soloprojekt",
+      "release": "Released october 14th 1996",
+      "spotify": null,
+      "youtube": null,
+      "cover": "https://nattlorden.com/MajLisa/assets/covers/kick%20the%20door%201200.jpg",
+      "source": "https://nattlorden.com/MajLisa/index.html#solo/kickTheDoor",
+      "sourceArea": "MajLisa"
+    },
+    {
+      "artist": "Mailysa",
+      "title": "Mailýsa - soloprojekt",
+      "collection": "Soloprojekt",
+      "release": null,
+      "spotify": null,
+      "youtube": null,
+      "cover": null,
+      "source": "https://nattlorden.com/MajLisa/index.html#solo/mailysa",
+      "sourceArea": "MajLisa"
+    },
+    {
+      "artist": "Mailysa",
       "title": "Uncover the art",
       "collection": "Soloprojekt",
-      "release": "Publicerad 20e juni 2026",
+      "release": "Released june 20th 2026",
       "spotify": "https://open.spotify.com/album/2qybJwLMrkQ2xx7l7qns84?si=aL-giGzOQp6x0fQzAkDiGg",
       "youtube": null,
-      "cover": "https://nattlorden.com/MajLisa/assets/covers/stubbe.jpg",
-      "source": "https://nattlorden.com/MajLisa/index.html#solo/mailysa_1",
+      "cover": "https://nattlorden.com/MajLisa/assets/covers/Uncover%20the%20art%201200.jpg",
+      "source": "https://nattlorden.com/MajLisa/index.html#solo/uncoverTheArt",
       "sourceArea": "MajLisa"
     },
     {
@@ -2056,17 +2487,6 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Nattlorden",
-      "title": "Hon som var så levande nyss",
-      "collection": "Nattlorden",
-      "release": "Released September 13th 2026",
-      "spotify": "https://open.spotify.com/track/25DkkPnVwJeJtCj0qsHsaB?si=b2d254d302194735",
-      "youtube": "https://youtu.be/Tr5P-ctA6Jg",
-      "cover": "https://nattlorden.com/Fragments/assets/covers/Saknad%201200.jpg",
-      "source": "https://nattlorden.com/Fragments/index.html#nattlorden/saknadA",
-      "sourceArea": "Fragments"
-    },
-    {
-      "artist": "Nattlorden",
       "title": "I denna ljuva sommartid",
       "collection": "Nattlorden",
       "release": "Released July 1st 2026",
@@ -2210,17 +2630,6 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Nattlorden",
-      "title": "När livets låga släcks",
-      "collection": "Nattlorden",
-      "release": "Released September 13th 2026",
-      "spotify": "https://open.spotify.com/track/0mvvhyD8m8uTHkte6LdBli?si=8c9f48f86ab64317",
-      "youtube": "https://youtu.be/bfTYxlJ5D_s",
-      "cover": "https://nattlorden.com/Fragments/assets/covers/Saknad%201200.jpg",
-      "source": "https://nattlorden.com/Fragments/index.html#nattlorden/saknadB",
-      "sourceArea": "Fragments"
-    },
-    {
-      "artist": "Nattlorden",
       "title": "Nästan som en saga",
       "collection": "Nattlorden",
       "release": "Released March 3rd 2026",
@@ -2250,28 +2659,6 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/AVYEEKadXRo?list=OLAK5uy_lCaXf6M9VsdSoR32q0Z2-ej3zNxmtpo4Q",
       "cover": "https://nattlorden.com/Fragments/assets/covers/Karoliner%203k%202.jpg",
       "source": "https://nattlorden.com/Fragments/index.html#nattlorden/poltava",
-      "sourceArea": "Fragments"
-    },
-    {
-      "artist": "Nattlorden",
-      "title": "Rappa på, på allvar",
-      "collection": "Nattlorden",
-      "release": "Released August 26th 2026",
-      "spotify": "https://open.spotify.com/album/7DK37GxuSrIjgkNI8Pl1uY?si=OefvjuuSRgai_oUPRz9WuQ",
-      "youtube": "https://youtu.be/gmCa839OZM8?list=OLAK5uy_nVRGKz5a_GAB-r_wuI4HbMDZk42-yKDr4",
-      "cover": "https://nattlorden.com/Fragments/assets/covers/p%C3%A5%20allvar%201200.jpg",
-      "source": "https://nattlorden.com/Fragments/index.html#nattlorden/paAllvar",
-      "sourceArea": "Fragments"
-    },
-    {
-      "artist": "Nattlorden",
-      "title": "Rappa på, Skånetrafiken!",
-      "collection": "Nattlorden",
-      "release": "Released August 25th 2026",
-      "spotify": "https://open.spotify.com/album/7rwUWHCKb4S1PxTOlpAxeG?si=D3EuZH5ZQlyIykgRWDtPCg",
-      "youtube": "https://youtu.be/B9mzbJKrHMQ",
-      "cover": "https://nattlorden.com/Fragments/assets/covers/Rappa%20p%C3%A5%20Sk%C3%A5netrafiken%201200.jpg",
-      "source": "https://nattlorden.com/Fragments/index.html#nattlorden/skanetrafiken",
       "sourceArea": "Fragments"
     },
     {
@@ -2913,6 +3300,39 @@ window.NATTLORDEN_CATALOG = {
       "sourceArea": "PHC"
     },
     {
+      "artist": "Rappa på,",
+      "title": "Rappa på, lappa på E-on!",
+      "collection": "Rappa på,",
+      "release": "Publicerad 20e september 2026",
+      "spotify": "https://open.spotify.com/album/03nczn9mj7d2ycuNxsmCqU?si=lVEACTppQQ24gR0KDekFZg",
+      "youtube": "https://youtu.be/yyebt5eXBUw",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/Rappa%20p%C3%A5,%20lappa%20p%C3%A5%20E-on%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#rappa/lappaPa",
+      "sourceArea": "Fragments"
+    },
+    {
+      "artist": "Rappa på,",
+      "title": "Rappa på, på allvar",
+      "collection": "Rappa på,",
+      "release": "Publicerad 26e augusti 2026",
+      "spotify": "https://open.spotify.com/album/7DK37GxuSrIjgkNI8Pl1uY?si=OefvjuuSRgai_oUPRz9WuQ",
+      "youtube": "https://youtu.be/gmCa839OZM8?list=OLAK5uy_nVRGKz5a_GAB-r_wuI4HbMDZk42-yKDr4",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/p%C3%A5%20allvar%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#rappa/paAllvar",
+      "sourceArea": "Fragments"
+    },
+    {
+      "artist": "Rappa på,",
+      "title": "Rappa på, Skånetrafiken!",
+      "collection": "Rappa på,",
+      "release": "Publicerad 25e augusti 2026",
+      "spotify": "https://open.spotify.com/album/7rwUWHCKb4S1PxTOlpAxeG?si=D3EuZH5ZQlyIykgRWDtPCg",
+      "youtube": "https://youtu.be/B9mzbJKrHMQ",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/Rappa%20p%C3%A5%20Sk%C3%A5netrafiken%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#rappa/skanetrafiken",
+      "sourceArea": "Fragments"
+    },
+    {
       "artist": "Serenia",
       "title": "Balance",
       "collection": "Province",
@@ -3097,6 +3517,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/bB5GE5zbZcg?si=knrBk4Hv5ld8pX0P",
       "cover": "https://nattlorden.com/Serenia/assets/songs/Both%20ends%20pt%201.jpg",
       "source": "https://nattlorden.com/Serenia/index.html#music/launchingOfTheSeaSerpent",
+      "sourceArea": "Serenia"
+    },
+    {
+      "artist": "Serenia",
+      "title": "Let it Burn a Little Longer",
+      "collection": "Canticles & Fragments",
+      "release": "10 oktober 2026",
+      "spotify": "https://open.spotify.com/album/3a7HmdgQxXVbKi58fBMHqj?si=DdX9wZpTSWmZbZmrTui9xg",
+      "youtube": "https://youtu.be/2rLLgNECTG0?list=OLAK5uy_lvN6P0vzYH2A5pViK9tV6QeaQnDSybUQ0",
+      "cover": "https://nattlorden.com/Serenia/assets/songs/Let%20it%20Brun%20a%20Little%20Longer%201200.jpg",
+      "source": "https://nattlorden.com/Serenia/index.html#music/letItBurn",
       "sourceArea": "Serenia"
     },
     {
@@ -3618,6 +4049,17 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Threshold Canticle",
+      "title": "Haunted",
+      "collection": "Singles",
+      "release": "Released october 10th 2026",
+      "spotify": "https://open.spotify.com/album/7yl0vOTmbc5JXhSliuifyW?si=0j_81cfoSW6on8zFncYGow",
+      "youtube": "https://youtu.be/y3kKpFn4Tqg",
+      "cover": "https://nattlorden.com/THC/assets/covers/Haunted%201200.jpg",
+      "source": "https://nattlorden.com/THC/index.html#nattlorden/haunted",
+      "sourceArea": "THC"
+    },
+    {
+      "artist": "Threshold Canticle",
       "title": "Janus and the Broken Cycle",
       "collection": "thekey",
       "release": null,
@@ -3632,9 +4074,9 @@ window.NATTLORDEN_CATALOG = {
       "title": "Mater Bona",
       "collection": "Singles",
       "release": "Released August 16th 2026",
-      "spotify": null,
-      "youtube": null,
-      "cover": "https://nattlorden.com/THC/assets/covers/",
+      "spotify": "https://open.spotify.com/album/7lIiCugHYwlyiz6tlJlTjJ?si=ESnGqykmQZKg4C-_nFcRuw",
+      "youtube": "https://youtu.be/RGBXwnX1UPQ",
+      "cover": "https://nattlorden.com/THC/assets/covers/Mater%20Bona%201200.jpg",
       "source": "https://nattlorden.com/THC/index.html#nattlorden/materBona",
       "sourceArea": "THC"
     },
@@ -3645,7 +4087,7 @@ window.NATTLORDEN_CATALOG = {
       "release": "Released July 28th 2026",
       "spotify": "https://open.spotify.com/album/4fICYKGKVuDm9XrMMdTHh0?si=RaV3_ne_SnWZj54yh_bqBw",
       "youtube": "https://youtu.be/pk3InFTyfUU?list=OLAK5uy_ntYwETSHT2bQVoqXc_d5oOjOg5IgUo-xU",
-      "cover": "https://nattlorden.com/THC/assets/covers/stubbe.jpg",
+      "cover": "https://nattlorden.com/THC/assets/covers/Mother%201200.jpg",
       "source": "https://nattlorden.com/THC/index.html#nattlorden/mother",
       "sourceArea": "THC"
     },
@@ -3656,7 +4098,7 @@ window.NATTLORDEN_CATALOG = {
       "release": "Released July 11th 2026",
       "spotify": "https://open.spotify.com/album/7nCF3KOmdeHPw7TjaXLKq7?si=Nm9-WggKRDuVUFluy8vu1A",
       "youtube": "https://youtu.be/YXtpTbvxUYk",
-      "cover": "https://nattlorden.com/THC/assets/covers/stubbe.jpg",
+      "cover": "https://nattlorden.com/THC/assets/covers/Scorpio%201200.jpg",
       "source": "https://nattlorden.com/THC/index.html#nattlorden/scorpio",
       "sourceArea": "THC"
     },
@@ -3700,7 +4142,7 @@ window.NATTLORDEN_CATALOG = {
       "release": "Released June 25th 2026",
       "spotify": null,
       "youtube": null,
-      "cover": "https://nattlorden.com/THC/assets/covers/stubbe.jpg",
+      "cover": "https://nattlorden.com/THC/assets/covers/The%20watcher%201200.jpg",
       "source": "https://nattlorden.com/THC/index.html#nattlorden/watcher",
       "sourceArea": "THC"
     },
@@ -3711,7 +4153,7 @@ window.NATTLORDEN_CATALOG = {
       "release": "Released July 6th 2026",
       "spotify": "https://open.spotify.com/album/3EWXNlsdl10bGXc1D8W5LU?si=32jLCGwDQoSW4bk27WqegQ",
       "youtube": "https://youtu.be/_MReihlv19I",
-      "cover": "https://nattlorden.com/THC/assets/covers/stubbe.jpg",
+      "cover": "https://nattlorden.com/THC/assets/covers/Wash%20the%20stain%201200.jpg",
       "source": "https://nattlorden.com/THC/index.html#nattlorden/washTheStain",
       "sourceArea": "THC"
     },
@@ -4014,7 +4456,25 @@ window.NATTLORDEN_CATALOG = {
     }
   ],
   "counts": {
-    "artists": 15,
-    "songs": 363
+    "artists": 17,
+    "songs": 403
+  },
+  "warnings": [],
+  "discoveredPaths": [
+    "mecharchive",
+    "Food",
+    "Garden",
+    "Tech",
+    "Apo",
+    "Tasks",
+    "Plans",
+    "Bucket",
+    "Events",
+    "Places",
+    "About"
+  ],
+  "refresh": {
+    "addedSongs": [],
+    "addedArtists": []
   }
 };
