@@ -1,6 +1,6 @@
 window.NATTLORDEN_CATALOG = {
   "site": "https://nattlorden.com/",
-  "updatedAt": "2026-10-13T07:01:40.722Z",
+  "updatedAt": "2026-10-14T07:04:44.511Z",
   "artists": [
     "Björn Andersson",
     "Caroline's",
@@ -210,6 +210,17 @@ window.NATTLORDEN_CATALOG = {
     },
     {
       "artist": "Dísir",
+      "title": "No Before, No After",
+      "collection": "Dísir",
+      "release": "Released october 12th 2026",
+      "spotify": "https://open.spotify.com/track/384pAERu9bSN58OpKQI5ST?si=a11288b597e44ac5",
+      "youtube": "https://youtu.be/6NC3hX5fxHg",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/Mellosingel%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#disir/noBeforeNoAfter",
+      "sourceArea": "Fragments"
+    },
+    {
+      "artist": "Dísir",
       "title": "Pluie de Septembre",
       "collection": "Dísir",
       "release": "Released September 4th 2026",
@@ -239,6 +250,17 @@ window.NATTLORDEN_CATALOG = {
       "youtube": "https://youtu.be/N7ViGOaNn7g?list=OLAK5uy_lSz6YQ_vvEtOTUQLsEUEgi_zoXsnTYHBQ",
       "cover": "https://nattlorden.com/Fragments/assets/covers/Right%20now%201200.jpg",
       "source": "https://nattlorden.com/Fragments/index.html#disir/rightNow",
+      "sourceArea": "Fragments"
+    },
+    {
+      "artist": "Dísir",
+      "title": "This Can't Win",
+      "collection": "Dísir",
+      "release": "Released october 12th 2026",
+      "spotify": "https://open.spotify.com/track/6a1Jdjl4K5ufWgls04wQnR?si=c6f2908a92c5408d",
+      "youtube": "https://youtu.be/pP5WG5_i2Ww?list=OLAK5uy_kkfv0y9NRrO_X57ByOdn-3lW8fzrSDm24",
+      "cover": "https://nattlorden.com/Fragments/assets/covers/Mellosingel%201200.jpg",
+      "source": "https://nattlorden.com/Fragments/index.html#disir/thisCantWin",
       "sourceArea": "Fragments"
     },
     {
@@ -4457,7 +4479,7 @@ window.NATTLORDEN_CATALOG = {
   ],
   "counts": {
     "artists": 17,
-    "songs": 403
+    "songs": 405
   },
   "warnings": [],
   "discoveredPaths": [

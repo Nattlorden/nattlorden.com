@@ -584,6 +584,104 @@ släpper jag ej åter dig!`
     }
   ],
   showPlaceholder: true
+    },
+    genomStormen: {
+      menuTitle: "Genom stormen",
+      title: "Genom stormen",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Genom stormen 1200.jpg",
+      size: "small",
+      caption: "Publicerad e  2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/2vgsvWz2h8268ZWC4m4wLE?si=-dH54HFJTTuDxGlgNIZZKg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/kwRefWXN3mU" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Natten står och lyssnar
+över frusen mark
+vinden bär våra namn
+genom skogens mörka famn
+
+Du stod där på andra sidan
+bakom eld och skarpa rop
+jag bar tystnad i mitt bröst
+som en lykta utan glöd
+Mellan oss gick kalla gator
+mellan oss gick stål och skam
+men jag såg ditt hjärta brinna
+som om mörkret vek ibland
+
+Och varje steg blev som ett löfte
+varje andetag en strid
+ingen mur av sten och vrede
+kan ta ifrån oss denna tid
+
+ Vi går genom stormen
+ vi går genom natt
+ över sår som världen lämnat
+ över mark som blivit svart
+ Och hur högt de än ropar
+ står vi ändå kvar
+ du och jag mot kalla vindar
+ tills en ny gryning möter oss
+
+Jag har hört de tunga slagen
+från en himmel utan svar
+sett hur rädsla blir till kedjor
+när man glömmer vilka vi var
+Men din röst var som en fackla
+över vatten, över snö
+den drog mig genom mörka dagar
+gav mig kraft att börja om
+
+Och varje steg blev som ett löfte
+varje andetag en strid
+ingen hand som vill oss söndra
+kan ta ifrån oss denna tid
+
+ Vi går genom stormen
+ vi går genom natt
+ över sår som världen lämnat
+ över mark som blivit svart
+ Och hur högt de än ropar
+ står vi ändå kvar
+ du och jag mot kalla vindar
+ tills en ny gryning möter oss
+
+Låt dem resa port av järn
+låt dem tända himlen röd
+jag finner vägen i ditt namn
+när all annan tro är död
+Om jag faller, kalla på mig
+om du tvivlar, se mot nord
+där vår eld ännu kan leva
+där vårt hopp slår rot i jord
+
+ Vi går genom stormen
+ vi går genom natt
+ över sår som världen lämnat
+ över mark som blivit svart
+ Och hur högt de än ropar
+ står vi ändå kvar
+ du och jag mot kalla vindar
+ tills en ny gryning möter oss
+
+När den första dagen vaknar
+står vi fria, står vi kvar
+genom mörker, genom avstånd
+bar vi elden till varann`
+    }
+  ],
+  showPlaceholder: true
     }
 
 
