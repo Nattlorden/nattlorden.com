@@ -1,54 +1,196 @@
 {
   "main": {
-    "id": "b60e527737ca5abb",
+    "id": "02471f2fdaa53d43",
     "type": "split",
     "children": [
       {
-        "id": "5416dabcf11b94d9",
+        "id": "3fe83cc7be7348c3",
         "type": "tabs",
         "children": [
           {
-            "id": "6d99412668d69542",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bilder/Mello2027.png"
-              },
-              "icon": "lucide-image",
-              "title": "Mello2027"
-            }
-          },
-          {
-            "id": "7d5c5cd68779eb20",
+            "id": "043cba07e3b024e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flow, my tears.md",
+                "file": "bröllop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow, my tears"
+              "title": "bröllop"
+            }
+          },
+          {
+            "id": "ba8a622b40db2c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datorprogram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datorprogram"
+            }
+          },
+          {
+            "id": "71dfb0843f034744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dominos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dominos"
+            }
+          },
+          {
+            "id": "6f0ff2afe25cba03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kurs i London.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kurs i London"
+            }
+          },
+          {
+            "id": "d5479696bcb35add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freyja (artist).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freyja (artist)"
+            }
+          },
+          {
+            "id": "4199faff5f74b87b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories in the stone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stories in the stone"
+            }
+          },
+          {
+            "id": "96dc69246ce3ad60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freyja (artist).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freyja (artist)"
+            }
+          },
+          {
+            "id": "3e370359e51f025d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "länge glömt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "länge glömt"
+            }
+          },
+          {
+            "id": "1161bdb381f4e93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "länge glömt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "länge glömt"
+            }
+          },
+          {
+            "id": "207853fbf17c86aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existens (konstverk).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Existens (konstverk)"
+            }
+          },
+          {
+            "id": "2e94df7698b51798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existens (konstverk).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Existens (konstverk)"
+            }
+          },
+          {
+            "id": "198b8a37b89001d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Return to Earth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All Return to Earth"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "53355474dd5a3584",
+    "id": "060cfa58d56d1bc5",
     "type": "split",
     "children": [
       {
-        "id": "9514220b155ac2c0",
+        "id": "6bff49e1305a7a55",
         "type": "tabs",
         "children": [
           {
-            "id": "f92785c0ef487721",
+            "id": "887fbeca2254c054",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,11 +201,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Filutforskare"
             }
           },
           {
-            "id": "eacc4f1235f978f8",
+            "id": "aa43b2aefa75e823",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,20 +218,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Sök"
             }
           },
           {
-            "id": "9282b219e15f1f30",
+            "id": "a2cc39e214a19af3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Bokmärken"
             }
           }
         ]
@@ -99,20 +238,20 @@
     "width": 300
   },
   "right": {
-    "id": "9befea6fd25e66f4",
+    "id": "eaae9064e77baddf",
     "type": "split",
     "children": [
       {
-        "id": "f2f261e1f2d68657",
+        "id": "67e47cd4cfb0f4dd",
         "type": "tabs",
         "children": [
           {
-            "id": "25dcadf7e9361f86",
+            "id": "7a773a311e7bc73c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bilder/Mello2027.png",
+                "file": "2026-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +261,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Bakåtlänkar för 2026-04-15"
             }
           },
           {
-            "id": "aaf70fa5120221a9",
+            "id": "7b59412920ea4cd9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bilder/Mello2027.png",
+                "file": "2026-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Utgående länkar från 2026-04-15"
             }
           },
           {
-            "id": "f7df2879080e22a5",
+            "id": "2c58daf255399195",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,11 +290,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Taggar"
             }
           },
           {
-            "id": "351e97c3b498a7de",
+            "id": "65fac526bafa5834",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,22 +304,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Alla egenskaper"
             }
           },
           {
-            "id": "1c7ed072be6cd72f",
+            "id": "5c945c196348f320",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bilder/Mello2027.png",
+                "file": "2026-04-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Disposition av 2026-04-15"
             }
           }
         ]
@@ -192,19 +331,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Skapa ny base": false,
+      "switcher:Öppna snabbväxlare": false,
+      "graph:Öppna grafvy": false,
+      "canvas:Skapa ny canvas": false,
+      "daily-notes:Öppna dagens anteckning": false,
+      "templates:Infoga mall": false,
+      "command-palette:Öppna kommandopalett": false
     }
   },
-  "active": "7d5c5cd68779eb20",
+  "active": "198b8a37b89001d8",
   "lastOpenFiles": [
-    "Bilder/Mello2027.png",
     "Flow, my tears.md",
-    "Bilder/(2) IMG_1848.jpg"
+    "Bilder/Mello2027.png",
+    "Existens (konstverk).md",
+    "All Return to Earth.md",
+    "The Five Pillars.md",
+    "Faktiskt.md",
+    "Existens (sång).md",
+    "länge glömt.md",
+    "MediaPC ( 'BlackOne' ).md",
+    "Namnlös",
+    "Citat.md",
+    "Freyja (artist).md",
+    "Still I sing.md",
+    "Stories in the stone.md",
+    "Mailýsa 'Maj-Lisa' Freyja.md",
+    "Serenia Records.md",
+    "Bilder/Serenia Records logo 1992-.png",
+    "Mejeriet.md",
+    "ABBA.md",
+    "You can solve every riddle but me.md",
+    "kurs i London.md",
+    "Sherlock Holmes.md",
+    "Sidney Paget.md",
+    "Dominos.md",
+    "Patricia Barber.md",
+    "Gaude gloriosa Larani.md",
+    "Larani.md",
+    "Serenia (artist).md",
+    "Datorprogram.md",
+    "Bilder/Keri_pouch.jpg",
+    "Bilder/SereniaRecords logo small.png",
+    "Bilder/Serenia Records 1978-1985 small.png",
+    "Bilder/(2) IMG_1848.jpg",
+    "Bilder",
+    "Personer",
+    "Namnlös.canvas",
+    "T3A"
   ]
 }

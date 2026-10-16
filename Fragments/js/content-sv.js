@@ -10075,10 +10075,10 @@ Torkar deras tårar.
       content: `<i>Text - Caroline Nilsson</i>
       
       Metal mix:
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <a href="https://open.spotify.com/track/31c2cCcxJqFiEra118YI0x?si=7a4d78f29ff94ac8" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/Tw2gmhyla5o" target="_blank" rel="noopener noreferrer">YouTube</a>
       
       Softer mix:
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+      <a href="https://open.spotify.com/track/2PF33ajrPSKFytmcEpurSG?si=c10c46300e7a473e" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/sAetq0e-GGY" target="_blank" rel="noopener noreferrer">YouTube</a>`
     },
     {
       type: "divider"
@@ -10144,6 +10144,99 @@ så brutal.`
   ],
   showPlaceholder: false
     },
+
+    whenTomorrowComes: {
+      menuTitle: "When Tomorrow Comes",
+      title: "When Tomorrow Comes",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/When Tomorrow Comes 3-stil 1200.jpg",
+      size: "small",
+      caption: "Publicerad 15e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/1RPhiFUbi2Mc0ywOB2QnVc?si=11a136f385f24ee7" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/TVK-EEy4s4s" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+      80s pop mix:
+      <a href="https://open.spotify.com/track/5vyjXQWRdFcspUzAq2GEWc?si=9c604db3da54427f" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/f5SZQIYTIew" target="_blank" rel="noopener noreferrer">YouTube</a>
+      
+      80s hair metal mix:
+      <a href="https://open.spotify.com/track/5PrYt3yPxtOczsqflvzwk9?si=a44fdbf70d254651" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/KW6CzOAf4Zo" target="_blank" rel="noopener noreferrer">YouTube</a>
+      `
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I can see your smile in the sun.
+I can hear you call my name in the wind.
+And when it rains, I wonder
+if it’s you who’s crying.
+
+ So when tomorrow comes
+ without you, my friend,
+ I hope you know I’ll make it through the day.
+ Even if you’re not here,
+ I won’t forget you,
+ for all our lovely memories 
+ will stay with me.
+
+And even though it hurts,
+I can still smile when a memory comes to mind,
+when I take a walk
+down memory lane.
+
+ So when tomorrow comes
+ without you, my friend,
+ I hope you know I’ll make it through the day.
+ Even if you’re not here,
+ I won’t forget you,
+ for all our lovely memories
+ will stay with me.
+
+I remember when Madonna was fat,
+when our children wrote B-F-F in the sand,
+when you got the nickname Jesus
+...
+because I’m walking
+down memory lane.
+
+ So when tomorrow comes
+ without you, my friend,
+ I hope you know I’ll make it through the day.
+ Even if you’re not here,
+ I won’t forget you,
+ for all our lovely memories 
+ will stay with me.
+
+When I think of you,
+I smile.
+I remember you so happy,
+always with the biggest smile.
+That was who you were:
+a beautiful woman
+with the biggest heart and smile
+of anyone 
+I have ever known.
+
+ So when tomorrow comes
+ without you, my friend,
+ I hope you know I’ll make it through the day.
+ Even if you’re not here,
+ I won’t forget you,
+ for all our lovely memories 
+ will stay with me.
+
+/will stay with me./`
+    }
+  ],
+  showPlaceholder: false
+    }
     
     
   },
