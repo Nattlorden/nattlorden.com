@@ -5707,6 +5707,103 @@ Only you
   showPlaceholder: false
     },
 
+    summerEvening: {
+      menuTitle: "Summer Evening",
+      title: "Summer Evening",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Summer Evening 1200.png",
+      size: "small",
+      caption: "Released october 14th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/0vM3ocVvnG1CcMoi0pyyRg?si=86a130b113e242c6" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/x-S0TNl3Wxg?list=OLAK5uy_kuXyXVSDSar523wUORvhnVIhAzUkE--mc" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Summer on your shoulders
+Gold light in your hair
+Slow hands, slow shadow
+Something in the air
+
+You came through the doorway soft as the breeze
+Streetlights waking up through the trees
+Windows open, city turning gold
+Your smile saying things before they're told
+I can feel the rhythm under your skin
+Night pulling us close, pulling us in
+No need to rush what the evening knows
+Love moves easy when the warm wind blows
+
+Stay in the glow, don't let it fade
+Right here, right now, let the night be made
+
+ Come a little closer, closer
+ Dance a little slower, slower
+ Love in the summer evening
+ Hold me in the summer evening
+ Come a little closer, closer
+ Move like the world is over
+ Love in the summer evening
+ Stay in the summer evening
+
+Closer, closer
+Slower, slower
+Summer evening
+Summer evening
+
+Your laugh got a way of bending time
+Turning small moments into a sign
+We got the stars in the puddled street
+Heartbeats landing right on the beat
+I see the answer there in your eyes
+No more maybe, no disguise
+Let the moon lean low, let the night begin
+Love sounds better when you spin me in
+
+Stay in the glow, don't let it fade
+Right here, right now, let the night be made
+
+ Come a little closer, closer
+ Dance a little slower, slower
+ Love in the summer evening
+ Hold me in the summer evening
+ Come a little closer, closer
+ Move like the world is over
+ Love in the summer evening
+ Stay in the summer evening
+
+When the daylight falls away
+I just want your name to stay
+On my lips, on my skin
+Let the whole night pull us in
+
+ Come a little closer, closer
+ Dance a little slower, slower
+ Love in the summer evening
+ Hold me in the summer evening
+ Come a little closer, closer
+ Move like the world is over
+ Love in the summer evening
+ Stay in the summer evening
+
+Closer, closer
+Slower, slower
+Love in the summer evening
+Stay in the summer evening
+`
+    }
+  ],
+  showPlaceholder: false
+    },
+
 /*
     stubbe: {
       menuTitle: "titel",
