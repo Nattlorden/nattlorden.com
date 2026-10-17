@@ -5806,7 +5806,197 @@ Stay in the summer evening
   ],
   showPlaceholder: false
     },
+someAssemblyRequired: {
+      menuTitle: "Some assembly required...",
+      title: "Some assembly required...",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Some assembly required 1200.jpg",
+      size: "small",
+      caption: "Publicerad 17e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/track/5J5FzurPjOxMj7dcS4kBXd?si=a6532c5ec5ce403f" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/HAyctnOjOTA?list=OLAK5uy_nPnNoEMcIAIcN2TSau9CjylD-KLDTHAys" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Before we start -
+if anybody recognises a relative,
+please wait until the end.
 
+They raised me up on Halloween
+From several shallow graves.
+The doctor said, “Why buy things new?
+Just think of what this saves!”
+My jaw belonged to someone who
+Had never learnt to stop.
+They buried him on Saturday -
+By Sunday, rents were up.
+
+My left hand was a pickpocket’s;
+They took it for his crimes.
+It seems to feel entitled to
+Your watch at certain times.
+
+ Some assembly required,
+ Some discretion advised.
+ The picture on the packaging
+ Was rather idealised.
+ I’m not the man I used to be,
+ Nor were the other nine.
+ If something here belongs to you,
+ Please form an orderly line.
+
+My pelvis was a lady’s,
+A celebrated belle.
+It still remembers how to dance;
+My feet remember hell.
+The left one was a sailor’s,
+The right, a parish priest’s.
+One takes me to the waterfront;
+The other flees the feasts.
+
+My knees belonged to someone who
+Would kneel for any fee.
+They’ve offered me a cabinet post -
+Without consulting me.
+
+ Some assembly required,
+ Some discretion advised.
+ The picture on the packaging
+ Was rather idealised.
+ I’m not the man I used to be,
+ Nor were the other nine.
+ If something here belongs to you,
+ Please form an orderly line.
+
+I asked him for a backbone
+From a statesman of renown.
+He searched the whole of Westminster;
+There wasn’t one around.
+He gave me an accountant’s:
+It keeps me stiff and straight.
+And though I’m dead, apparently
+My tax return is late.
+
+My skull was once a critic’s;
+It disapproves of this.
+My neck belonged to someone hanged -
+A strange thing to reminisce.
+My ribs came from a miser,
+And every time I cough,
+They clutch a little tighter,
+Lest something should fall off.
+
+I asked about a refund.
+He said, “I fear you’ll find
+We can’t accept returns from those
+Who’ve had a change of mind.”
+
+ Some assembly required,
+ Some discretion advised.
+ The picture on the packaging
+ Was rather idealised.
+ I’m not the man I used to be,
+ Nor were the other nine.
+ If something here belongs to you,
+ Please form an orderly line.
+
+Happy Halloween.
+Do leave something in the collection plate.
+
+My left hand will collect it anyway.`
+    }
+  ],
+  showPlaceholder: false
+    },
+    flickanMedLungsoten: {
+      menuTitle: "Flickan med lungsoten",
+      title: "Flickan med lungsoten",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Flickan med lungsoten 1200.jpg",
+      size: "small",
+      caption: "Publicerad 17e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Spekulativt - Farmor berättade väldigt lite om sitt unga liv.</i>
+      
+      <a href="https://open.spotify.com/track/64mMw7mdL2C2vgDcETDvlX?si=ec9bc2b2a6964616" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/UL518c2xn1I" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Mor vek min klänning så varsamt,
+den skulle hålla ett år till.
+Hon slätade tyget med handen.
+Jag stod bredvid och stod still.
+Hemma fick pengarna räknas,
+här räknades feber och dar.
+Jag såg genom fönstret i Lund
+hur människor gick som de var.
+
+De svepte en filt om benen.
+Jag låg i den kyliga luft
+som skulle ge kraft åt mitt bröst igen.
+Det luktade regn och fukt.
+En syster drog filten till rätta,
+hennes händer var varma en stund.
+Jag frågade inte om hemresan.
+Jag hade just frågat en gång.
+
+ Det tar tid att bli frisk, sade syster.
+ Det tar tid innan krafterna bär.
+ Jag har lärt mig att vänta på livet.
+ Kan du vänta en stund med mig här?
+
+Vi kunde få skrattet att börja
+åt nästan vad som helst.
+En blick när vi skulle vara stilla,
+ett ord som blev alldeles fel.
+Sen hördes en hostning i salen.
+Vi väntade tills den tog slut.
+Där ute gick barn genom grinden.
+Jag såg dem tills de gick ur syn.
+
+ Det tar tid att bli frisk, sade syster.
+ Det tar tid innan krafterna bär.
+ Jag har lärt mig att vänta på livet.
+ Kan du vänta en stund med mig här?
+
+Så kom det en dag då jag fick gå,
+med kläderna på, genom dörren.
+Och vägen låg öppen framför mina skor,
+så mycket längre än förr.
+Jag fick mina vanliga dagar,
+fick annat att tänka på.
+Det fanns så mycket att leva.
+Det fanns sådant jag lät bero.
+
+ Det tar tid att bli frisk, sade syster.
+ Det tar tid innan krafterna bär.
+ Jag har lärt mig att vänta på livet.
+ Kan du vänta en stund med mig här?
+
+Om jag inte berättar så mycket,
+om jag dröjer med handen i din,
+kan du sitta bredvid mig en stund.
+Jag vill själv få släppa dig in.`
+    }
+  ],
+  showPlaceholder: false
+    },
 /*
     stubbe: {
       menuTitle: "titel",
@@ -9996,6 +10186,127 @@ Ah.
 Där kom strömmen.
 
 … Vad är wifi-lösen?`
+    }
+  ],
+  showPlaceholder: false
+    },
+    vemArDetTillFor: {
+      menuTitle: "Rappa på, vem är det till för?",
+      title: "Rappa på, vem är det till för?",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/vem är det till för 1200.jpg",
+      size: "small",
+      caption: "Publicerad 17e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Vem är inte irriterad över detta?</i>
+      
+      <a href="https://open.spotify.com/track/4lnGxtlXg6w5g4RnvVg6dC?si=f0dd563180094763" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/jpep8WoHmdM" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Välkommen.
+Du är viktig för oss.
+Därför har vi gjort det enklare
+att göra allting själv.
+
+Jag gick till banken med pengar i handen,
+fick känslan av att jag missuppfattat branschen.
+”Vi hanterar inte kontanter på kontoret.”
+Jag såg upp mot BANK och funderade på ordet.
+
+Mitt brev fick jag hämta där jag handlar min mat,
+bakom kön till en kassa som sa ”okänd vara”.
+På macken finns lunch, nybakat bröd, barista -
+är det bilen eller jag som ska tankas till sista?
+
+Apoteket har serum som gör huden slät,
+men det jag kom för får beställas på nät.
+Är det jag som är trög, har jag läst fel skylt?
+Eller står det gamla namnet på nåt nyfyllt?
+
+Det finns säkert en tanke, en kalkyl, ett motiv.
+Jag vill bara förstå var jag passar in.
+När nån säger ”smidigare”, mitt i ett möte -
+får man fråga för vem innan klubban slår i bordet?
+
+ Vem är det till för? Vem är det till för?
+ Är det nån som lyssnar när vi frågar hur ni gör?
+ Rappa på, rappa på, vi ska framåt, förstås -
+ men går det åt rätt håll för oss?
+ Om allting blir enklare år efter år,
+ varför känns det som mer att hålla reda på?
+
+Jag skannar min middag, jag packar min påse,
+en röd lampa blinkar: nu måste nån låsa
+upp hela systemet som sparat personal.
+Är jag kund, är jag vikarie? Vem tar mitt pass i dag?
+
+Min skrivare kräver ett konto och lösen,
+jag ville ha ett papper, fick en digital förbindelse.
+Mitt kylskåp vill koppla upp sig mot molnet -
+kan det inte börja med att hålla koll på yogurten?
+
+Jag söker ett nummer, blir skickad till chatten,
+som länkar till sidan jag läst halva natten.
+Sen kommer en enkät: ”Fick du hjälpen du sökte?”
+Finns ”jag gav upp” bland alternativen ni strök där?
+
+Och jag gillar ju tekniken när den faktiskt gör sitt.
+Jag vill också slippa vänta, få en timme som är min.
+Men om tiden som ni sparar dyker upp på mitt bord -
+är det tiden som blev kortare, eller bara ert kontor?
+
+ Vem är det till för? Vem är det till för?
+ Är det nån som lyssnar när vi frågar hur ni gör?
+ Rappa på, rappa på, vi ska framåt, förstås—
+ men går det åt rätt håll för oss?
+ Om allting blir enklare år efter år,
+ varför känns det som mer att hålla reda på?
+
+På förmedlingen fyller jag i vad jag sökt,
+får ett kvitto på att jag försökt få ett jobb.
+Jag kan visa aktivitet, varje ruta är grön -
+men vem hjälper mig över från ruta till lön?
+
+Läkaren skriver vad kroppen kan klara,
+kassan vill ha mer preciserade svar.
+Vem översätter människan till rätt formulär?
+Och vad händer med det som inte ryms där?
+
+Är det målet som ändrats när måttet blev mål?
+Kan man vinna statistiken medan nån faller ifrån?
+Om ett ärende stängs men problemet står kvar -
+vilken stapel visar det när ni summerar er dag?
+
+Var det bättre förr? För vem? Vilket år?
+Vem stod utanför dörren som jag saknar i dag?
+Är det vanan jag försvarar, eller nåt som gått förlorat?
+Kan nåt vara nytt och ändå sämre genomtänkt?
+
+Och hon bakom disken, med kön till entrén -
+har hon ens fått vara med och bestämma systemet?
+Om jag skäller på henne för det nån annan beslöt,
+har jag också skickat frågan till fel person?
+
+ Vem är det till för? Vem är det till för?
+ Är det nån som lyssnar när vi frågar hur ni gör?
+ Rappa på, rappa på, vi ska framåt, förstås -
+ men går det åt rätt håll för oss?
+ Om allting blir enklare år efter år,
+ varför känns det som mer att hålla reda på?
+
+”Har du fler frågor?”
+
+Ja.
+
+Är det ett problem?`
     }
   ],
   showPlaceholder: false

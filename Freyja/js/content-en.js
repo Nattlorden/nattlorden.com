@@ -391,24 +391,24 @@ Only our own landscapes — seen with different eyes.`,
           image: "assets/covers/Voices from Beyond 1200.jpg",
           section: "music",
           page: "theBrideWhoWouldNotEat",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/3SBsf0rC4HxrPcc1kcIZ3U?si=e34b1f40e28145f2",
+          youtube: "https://youtu.be/MZqJq82EoBI"
         },
         {
           title: "They Carried Me Home (Caterina da Siena II) ",
           image: "assets/covers/Voices from Beyond 1200.jpg",
           section: "music",
           page: "theyCarriedMeHome",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/6qk4EQT1iDQVD7py8dUVef?si=c18e567f3d424bb2",
+          youtube: "https://youtu.be/a0b3In9X2io"
         },
         {
           title: "What Remains of Me (Caterina da Siena III) ",
           image: "assets/covers/Voices from Beyond 1200.jpg",
           section: "music",
           page: "whatRemainsOfMe",
-          spotify: "",
-          youtube: ""
+          spotify: "https://open.spotify.com/track/0ROO9aI2VIGRuAE4PPcBco?si=78b8fc152f274d15",
+          youtube: "https://youtu.be/3UG08L9wsYk"
         },
         {
           title: "A bird on the sign",
@@ -504,8 +504,8 @@ Only our own landscapes — seen with different eyes.`,
       image: "assets/covers/Voices from Beyond 1200.jpg",
       section: "music",
       page: "wingthwaiteWhite",
-      spotify: "",
-      youtube: ""
+      spotify: "https://open.spotify.com/track/1XScYiSIJxbAZ31MOa7mOH?si=997018951d1d4f51",
+      youtube: "https://youtu.be/mbPbiPRmZBc"
     },
     {
       title: "The Market Opens When the Stars Are Right",
@@ -1872,15 +1872,15 @@ Shorter pieces, unfinished choruses, ritual lines, and musical seeds can remain 
                   title: "The Bride Who Would Not Eat (Caterina da Siena I)",
                   duration: ":",
                   page: "theBrideWhoWouldNotEat",
-                  spotify: "",
-                  youtube: ""
+                  spotify: "https://open.spotify.com/track/3SBsf0rC4HxrPcc1kcIZ3U?si=e34b1f40e28145f2",
+                  youtube: "https://youtu.be/MZqJq82EoBI"
             },
             {
                   title: "Wingthwaite White",
                   duration: ":",
                   page: "wingthwaiteWhite",
-                  spotify: "",
-                  youtube: ""
+                  spotify: "https://open.spotify.com/track/1XScYiSIJxbAZ31MOa7mOH?si=997018951d1d4f51",
+                  youtube: "https://youtu.be/mbPbiPRmZBc"
             },
             {
               title: "The White Lady",
@@ -1907,8 +1907,8 @@ Shorter pieces, unfinished choruses, ritual lines, and musical seeds can remain 
                   title: "They Carried Me Home (Caterina da Siena II)",
                   duration: ":",
                   page: "theyCarriedMeHome",
-                  spotify: "",
-                  youtube: ""
+                  potify: "https://open.spotify.com/track/6qk4EQT1iDQVD7py8dUVef?si=c18e567f3d424bb2",
+                  youtube: "https://youtu.be/a0b3In9X2io"
             }
           ]
         },
@@ -1951,8 +1951,8 @@ Shorter pieces, unfinished choruses, ritual lines, and musical seeds can remain 
                   title: "What Remains of Me (Caterina da Siena III)",
                   duration: ":",
                   page: "whatRemainsOfMe",
-                  spotify: "",
-                  youtube: ""
+                  spotify: "https://open.spotify.com/track/0ROO9aI2VIGRuAE4PPcBco?si=78b8fc152f274d15",
+                  youtube: "https://youtu.be/3UG08L9wsYk"
             }
           ]
         }
