@@ -1213,13 +1213,14 @@ chapter05: {
   chapter: {
     subtitle: "",
     dropcap: "Mtight",
-    dropcapAdjust: -10,
-    opening: `<p class="chapter-opening adjust-down">örker — och ändå ljus.</p>`,
+    dropcapAdjust: 10,
+    opening: `örker — och ändå ljus.`,
+    //opening: `<p class="chapter-opening adjust-down">örker — och ändå ljus.</p>`,
 
     sections: [
       {
         type: "text",
-        content: `<p>En grå skymning utan källa, som om himlen låg som ett lock över världen och höll dagen ute.
+        content: `<p>En grå skymning utan ljuskälla, som om himlen låg som ett lock över världen och höll dagen ute.
 Hon gick barfota över kall sten. Stegen ekade, trots att inga väggar syntes.</p>
 
 <p class="pn">Långt borta drogs något över metall.
@@ -1302,7 +1303,7 @@ Rep i ringar.
 Tunnor.
 Män som ropade över kättingars klang.</p>
 
-<p class="pn">Hon gick mot kajdelen där briggen legat kvällen innan.</p>
+<p class="pn">Hon gick mot delen av kajen där briggen legat innan.</p>
 
 <p class="pn">Tom.</p>
 
@@ -1326,7 +1327,7 @@ Och allt.</p>
 
 <p class="pn">Hon vände sig om.</p>
 
-<p class="pn">Då såg hon honom.</p>
+<p class="pn">Då såg hon någon.</p>
 
 <p class="pn">En bit bort på kajen.
 Stilla.
@@ -1339,8 +1340,7 @@ Försvann in i dimman.</p>
 
 <p class="pn">Keri stod kvar ett ögonblick.</p>
 
-<p class="pn">Sedan gick hon.</p>
-`
+<p class="pn">Sedan gick hon.</p>`
       },
       {
         type: "marker",
@@ -1350,7 +1350,7 @@ Försvann in i dimman.</p>
         type: "text",
         content: `<p>Butiken låg tyst i skenet från en ensam oljelampa.
 Hyllorna kastade långa skuggor över väggarna, och doften av läder och ulltyg låg kvar i luften.
-Keri satt vid disken med liggaren öppen framför sig, pennan vilande i handen.</p>
+Keri satt vid disken med liggaren öppen framför sig med en fjäderpenna hon inte mindes att hon hade vilande i handen.</p>
 
 <p class="pn">En dov knackning på bakdörren fick henne att lyfta blicken.
 Inte en leverantör.
