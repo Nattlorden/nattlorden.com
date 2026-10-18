@@ -441,7 +441,7 @@ chapter03: {
         type: "text",
         content: `<p>The sun stood high when Keri left the market with a basket on her arm. In it lay a few fabric samples for the shop, a bundle of fresh herbs, and a warm loaf of bread she meant to tempt Athina with. She chose a smaller street back to avoid the crowd, one where laundry hung between the houses and children played in the gutter.</p>
 
-<p class="pn">She heard the footsteps before she saw them. Fast, uneven. A muffled shout.</p>
+<p class="pn">Footsteps. Fast, uneven. A muffled shout.</p>
 
 <p class="pn">Two men came around the corner ahead—one in a leather vest, eyes fixed forward, the other dressed like a merchant, but with exhaustion and anger drawn across his face.</p>
 
@@ -593,7 +593,7 @@ chapter03: {
 
       {
         type: "text",
-        content: `<p>Keri was bent over a pile of finished seams when the doorbell chimed. A young apprentice stepped in, wearing an apron already stained with tanning water and grease. He stamped street dirt from his boots and set a rolled leather strap on the counter.</p>
+        content: `<p>Keri was bent over a pile of finished sewings when the doorbell chimed. A young apprentice stepped in, wearing an apron already stained with tanning water and grease. He stamped street dirt from his boots and set a rolled leather strap on the counter.</p>
 
 <p class="pn">“Master sent me with this,” he said.</p>
 
@@ -1045,7 +1045,7 @@ She kept to the shadows, took alleys that smelled of damp and wood oil, and circ
 
 <p class="pn">She stabbed toward the head, but caught mostly air. The grip held. The dagger was torn from her hand and vanished into the grass.</p>
 
-<p class="pn">She moved into the next action without stopping. Tried to reach the sword—missed when the body slammed into her again.</p>
+<p class="pn">She moved into the next action without stopping. Tried to reach the sword—missed when the beast slammed into her again.</p>
 
 <p class="pn">No room.</p>
 
@@ -1173,7 +1173,7 @@ She kept to the shadows, took alleys that smelled of damp and wood oil, and circ
 
 <p class="pn">Nothing that drew attention from afar.</p>
 
-<p class="pn">Everything that required one to come closer.</p>
+<p class="pn">Everything requiring one to come closer.</p>
 
 <p class="pn">The corridor continued.</p>
 
@@ -1425,9 +1425,7 @@ At the end stood a heavy door, slightly ajar. The light within was deeper. Redde
 
 <p class="pn">Wrong.</p>
 
-<p class="pn">Not difficult.</p>
-
-<p class="pn">Wrong.</p>
+<p class="pn">Not difficult - just wrong.</p>
 
 <p class="pn">She held the gaze.</p>
 
@@ -1799,13 +1797,13 @@ At the end stood a heavy door, slightly ajar. The light within was deeper. Redde
 
 <p class="pn">The linen.</p>
 
-<p class="pn">Her hands moved with certainty, almost as practiced as Keri’s own with needle and thread.</p>
+<p class="pn">Her hands finished up with certainty, almost as practiced as Keri’s own with needle and thread.</p>
 
 <p class="pn">When she bent down to remove the boots, her hand slid along the cloak.</p>
 
 <p class="pn">Stopped.</p>
 
-<p class="pn">Picked something up.</p>
+<p class="pn">Picked something out.</p>
 
 <p class="pn">“What is this?”</p>
 

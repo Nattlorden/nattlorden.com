@@ -326,7 +326,7 @@ Keri drack ur sin kopp och lät tystnaden ligga kvar.</p>
 
 <p class="pn">Vägen till Marlowes hus var kort, men Keri tog en längre rutt. Genom bakgator och ned mot kajerna, där morgonsolen blänkte mot masterna.</p>
 
-<p class="pn">Sjöugglan låg kvar, mörk mot vattnet, och såg större ut i dagsljuset. Tågvirket var nyligen tjärat, däcksskenorna polerade. Två män bar last under överinseende av en tredje som förde anteckningar. Dramond syntes inte till.</p>
+<p class="pn">Sjöugglan låg kvar, mörk mot vattnet, och såg större ut i dagsljuset. Tågvirket var nyligen tjärat, relingen polerad. Två män bar last under överinseende av en tredje som förde anteckningar. Dramond syntes inte till.</p>
 
 <p class="pn">Keri stannade. Inte länge – bara så länge att det kunde passera som något annat.</p>
 
@@ -344,7 +344,7 @@ När hon till slut tog farväl och gick därifrån, låg morgonen fortfarande kv
 
 
 <p class="medium-break">Keri hängde av sig kappan och ställde skorna vid dörren. Affären var tyst; hyllorna stod fyllda med varor som väntade på rätt köpare.
-Hon gick igenom räkneboken en stund, flyttade några tygrullar och rättade till en sned hög med filtar. Rörelserna var invanda, nästan utan eftertanke.</p>
+Hon gick igenom huvudboken en stund, flyttade några tygrullar och rättade till en sned hög med filtar. Rörelserna var invanda, nästan utan eftertanke.</p>
 
 <p>Framåt förmiddagen hördes röster utifrån, och hon gick ut för att se vad som pågick. På gatan hade några handlare ställt upp små bord trots att det inte var marknadsdag.
 Vid ett av borden satt en man med ett tygstycke som duk, och ovanpå det låg en samling smycken och mynt.</p>
@@ -359,7 +359,7 @@ Hon lyfte upp ett av mynten. Det var mindre än en tumnagel, men tyngre än det 
 <p class="pn">Det var inte bara värde hon vägde i handen.</p>
 
 <p class="pn">Hon lade tillbaka det och mötte hans blick.
-”För vackert för att växla på en trottoar.”</p>
+”För vackert för att växla på gångstenarna.”</p>
 
 <p class="pn">”För tungt för att bära hem själv,” skämtade han, men det låg något vaksamt bakom leendet.</p>
 
@@ -380,7 +380,7 @@ Hon lyfte upp ett av mynten. Det var mindre än en tumnagel, men tyngre än det 
         content: `<p>Solen stod högt när Keri lämnade marknaden med en korg på armen. I den låg några tygprover till butiken, ett knippe färska örter och ett färskt bröd hon tänkte locka Athina med.
 Hon valde en mindre gata tillbaka för att undvika folkmassan, en sådan där tvätten hängde mellan husen och barnen lekte i rännstenen.</p>
 
-<p class="pn">Hon hörde stegen innan hon såg dem. Snabba, oregelbundna. Ett dämpat rop.</p>
+<p class="pn">Fotsteg. Snabba, oregelbundna. Ett dämpat rop.</p>
 
 <p class="pn">Två män kom runt hörnet längre fram — den ena i läderväst, blicken låst framåt, den andra klädd som en köpman, men med trötthet och ilska draget över ansiktet.</p>
 
@@ -526,7 +526,7 @@ Hon besvarade leendet.</p>
       },
       {
         type: "text",
-        content: `<p>Keri stod böjd över en hög med färdiga sömmar när dörrklockan klingade. En ung lärling klev in, klädd i ett förkläde som redan bar fläckar av garvvatten och fett. Han stampade av sig smutsen från gatan och lade upp en hoprullad läderrem på disken.
+        content: `<p>Keri stod böjd över en hög med färdiga sömnader när dörrklockan klingade. En ung lärling klev in, klädd i ett förkläde som redan bar fläckar av garvvatten och fett. Han stampade av sig smutsen från gatan och lade upp en hoprullad läderrem på disken.
         ”Mäster skickade mig med detta,” sade han.</p>
 <p class="pn">Han tvekade ett ögonblick.
 ”Men… har ni hört om mannen som dog vid Mott Lane i natt?”
@@ -569,7 +569,7 @@ Lärlingen försvann ut igen, dörrklockan klingade en andra gång.</p>
 <p class="pn">Keri lutade sig lätt mot disken.</p>
 <p class="pn">”En gammal fiskare svor att han såg en kvinna försvinna uppför en trappa strax innan,” fortsatte Kelly. ”Svartklädd. Inget ansikte. Bara ett sken från något metalliskt vid höften.”</p>
 <p class="pn">Ett kort uppehåll.</p>
-<p class="pn">”Och du tänkte att jag ville höra det här?” sade Keri torrt.</p>
+<p class="pn">”Och du tänkte att jag ville höra det där?” sade Keri torrt.</p>
 <p class="pn">Kelly log snett.
 ”Alla vet att du gillar att veta vad som händer. Oavsett om du säger det eller inte.”</p>
 <p class="pn">Keri svarade inte.
@@ -769,7 +769,7 @@ Byggnaden reste sig framför henne.</p>
 <p class="pn">Tyngden drev henne mot väggen. Käkar slöt sig om underarmen.</p>
 <p class="pn">Smärtan var skarp, klar.</p>
 <p class="pn">Hon högg mot huvudet, men träffade mest luft. Greppet höll. Dolken slets ur handen och försvann i gräset.</p>
-<p class="pn">Hon gick över till nästa rörelse utan att stanna. Försökte nå svärdet — missade när kroppen slog emot henne igen.</p>
+<p class="pn">Hon gick över till nästa rörelse utan att stanna. Försökte nå svärdet — missade när besten slog emot henne igen.</p>
 <p class="pn">Inget utrymme.</p>
 <p class="pn">Hon drog in ett kort andetag, vred höften och drev knät upp i bröstkorgen på djuret.</p>
 <p class="pn">En dov stöt. Ett brutet grepp.</p>
@@ -838,7 +838,7 @@ Stegen försvann i mattorna.
 Ljuset blev varmare längre in, fick träet att glöda svagt.
 Väggarna bar målningar – små, noggrant inramade. Jakt. Hav. Stadsscener i nattljus.
 Inget som drog till sig uppmärksamhet på avstånd.
-Allt som krävde att man gick närmare.</p>
+Allt som krävdes var att man gick närmare.</p>
 
 <p class="pn">Korridoren fortsatte.
 Och med den känslan av att huset inte bara rymde värme.
@@ -846,7 +846,7 @@ Utan bar den.
 Som en kropp håller andan.</p>
 
 <p class="pn">När hon rundade ett hörn stod en man redan där.
-Lutad mot väggen. Armborstet vilade mot höften.
+Lutad mot väggen. Armborst vilade mot höften.
 Han lyfte blicken långsamt, utan brådska.
 ”Du är inte på min lista.”
 Rösten var låg. Saklig.
@@ -979,8 +979,8 @@ Men i konsekvens.</p>
 Men Raven rörde sig inte.</p>
 <p class="pn">Orden låg kvar i rummet.
 Fel.
-Inte svåra.
-Fel.</p>
+Inte svåra - men fel.
+</p>
 <p class="pn">Hon höll kvar blicken.</p>
 <p class="pn">Ett långsamt leende anades under huvan.
 ”Bra.”
@@ -1171,13 +1171,13 @@ Keri drog efter andan mellan tänderna.</p>
 <p class="pn">Athina arbetade vidare utan att skynda.
 Salvan.
 Linnet.
-Hennes händer rörde sig säkert, nästan lika invant som Keris egna vid nål och tråd.</p>
-<p class="pn">När hon böjde sig ned för stövlarna gled hennes hand upp längs kappan.
+Hennes händer rörde sig klart, nästan lika invant som Keris egna vid nål och tråd.</p>
+<p class="pn">När hon böjde sig ned efter stövlarna gled hennes hand längs kappan.
 Stannade.
-Plockade upp något.</p>
+Plockade fram något.</p>
 <p class="pn">”Vad är det här?”</p>
 <p class="pn">Keri såg pluntan och den hopvikta lappen i hennes hand.
-”Inte ditt.”
+”Inte dina.”
 Orden kom snabbt.
 Hon tog tillbaka dem innan Athina hann öppna.</p>
 <p class="pn">Ett ögonbryn höjdes.
@@ -1194,7 +1194,7 @@ Sedan en gång till.
 Långsammare.</p>
 <p class="pn">Utan att tveka lyfte hon glaset från lampan och förde pappret mot lågan.
 Elden tog det direkt.
-Orden försvann innan de hann fästa.</p>
+Orden försvann från sitt fäste.</p>
 <p class="pn">Askan föll tyst ned i fatet.
 Keri satt kvar en stund.
 Såg den sista glöden slockna.</p>
