@@ -557,7 +557,13 @@ The ideas diverged and resulted in three versions, all of which felt complete. T
 { type: "image", src: "assets/songs/whoarewe.jpg", size: "small",  caption: `<b><i>Who Are We?</i></b> <span class="meta-text">Published: March 19, 2026</span>` },
 { type: "text", content: `The Keri/Raven theme returns — this time as a dialogue, almost like a scene from a musical: two voices, and a mirror frame without glass.
 
-<a class="internal-link" data-section="music" data-page="whoAreWe">Lyrics</a> <a href="https://open.spotify.com/album/1cYPlpK59UZjd2BxslLIFt?si=0ih0hR7CS2a-MCEpuJPBiQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oh_mRwJYcjw?list=OLAK5uy_m0mC6xbgcpegrlELHMZljqeI5c8snyb8c" target="_blank" rel="noopener noreferrer">YouTube</a>
+<a class="internal-link" data-section="music" data-page="whoAreWe">Text</a> <a href="https://open.spotify.com/album/1cYPlpK59UZjd2BxslLIFt?si=0ih0hR7CS2a-MCEpuJPBiQ" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oh_mRwJYcjw?list=OLAK5uy_m0mC6xbgcpegrlELHMZljqeI5c8snyb8c" target="_blank" rel="noopener noreferrer">YouTube</a>
+────────────` },
+
+{ type: "image", src: "assets/songs/Let it Brun a Little Longer 1200.jpg", size: "small",  caption: `<b><i>Let it Burn a Little Longer</i></b> <span class="meta-text">Released: october 10th 2026</span>` },
+{ type: "text", content: `Hârn-placead song, probably unrelated to the story. Inspired by Hans Christian Andersen, with a little twist. Released a few weeks before Halloween.
+
+<a class="internal-link" data-section="music" data-page="letItBurn">Text</a> <a href="https://open.spotify.com/album/3a7HmdgQxXVbKi58fBMHqj?si=DdX9wZpTSWmZbZmrTui9xg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/2rLLgNECTG0?list=OLAK5uy_lvN6P0vzYH2A5pViK9tV6QeaQnDSybUQ0" target="_blank" rel="noopener noreferrer">YouTube</a>
 ────────────` }
       ],
       showPlaceholder: false
@@ -6169,8 +6175,8 @@ A small number of canonical characters appear. Their interpretation and portraya
       text: "Covers, character portraits, environment art and other concept imagery will be shown here."
     },
     portraits: {
-      menuTitle: "Karaktärsporträtt",
-      title: "Karaktärsporträtt",
+      menuTitle: "Character portraits",
+      title: "Character portraits",
       layout: "cards",
       columns: 4,
 
@@ -6178,74 +6184,90 @@ A small number of canonical characters appear. Their interpretation and portraya
     {
       image: "assets/chars/Keri_pouch.png",
       title: "Keri",
-      section: "",
-      page: ""
+      section: "gallery",
+      page: "keri",
+      spoilerChapter: 1
     },
     {
       image: "assets/chars/Raven.png",
-      title: "Raven"
+      title: "Raven",
+      spoilerChapter: 2
     },
     {
       image: "assets/chars/Kelly.png",
-      title: "Kelly"
+      title: "Kelly",
+      spoilerChapter: 1
     },
     {
       image: "assets/chars/Athina_fixhand.jpg",
-      title: "Athina"
+      title: "Athina",
+      spoilerChapter: 1
     },
     {
       image: "assets/chars/Fabien.png",
       title: "Fabien Trulor",
       section: "",
-      page: ""
+      page: "",
+      spoilerChapter: 3
     },
     {
       image: "assets/chars/Serenima.png",
-      title: "Lady Serenima Dethale"
+      title: "Lady Serenima Dethale",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Jeredosta.png",
-      title: "Querlid Jeredosta"
+      title: "Querlid Jeredosta",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Joreth_stripped.png",
-      title: "Joreth"
+      title: "Joreth",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Hund.png",
       title: "Hund",
       section: "",
-      page: ""
+      page: "",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Kaerith.png",
-      title: "Kaerith"
+      title: "Kaerith",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Cyzo.png",
-      title: "Cyzo"
+      title: "Cyzo",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Lothan_shield.png",
-      title: "Lothan"
+      title: "Lothan",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Marvae_river_photoQ.png",
       title: "Marvae",
       section: "",
-      page: ""
+      page: "",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Fenralf.png",
-      title: "Fenralf"
+      title: "Fenralf",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Redira_jester.png",
-      title: "Redira"
+      title: "Redira",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/kelen.png",
-      title: "Kelen Valenthes"
+      title: "Kelen Valenthes",
+      spoilerChapter: "later"
     }
   ],
 
@@ -6255,9 +6277,34 @@ A small number of canonical characters appear. Their interpretation and portraya
 
     },
     places: {
-      menuTitle: "Environments & places",
-      title: "Environments & places",
-      text: "Cities, roads, rooms, houses, harbors and landscapes will take visual shape here."
+      menuTitle: "Miljöer & platser",
+      title: "Miljöer & platser",
+      text: "Här kommer städer, vägar, rum, hus, hamnar och landskap att få visuell form."
+    },
+
+    keri: {
+      menuTitle: "Keri",
+      title: "Keri McCree",
+      hidden: true,
+      blocks: [
+      { 
+        type: "text", 
+        content: `The main character of the story` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Keri_pouch.png", 
+        size: "small",  
+        caption: `Keri` 
+      },
+
+      { 
+        type: "text", 
+        content: `Clothier, survior and reluctant power player —  or perhaps not entirely?` 
+      }
+    ],  
+    showPlaceholder: false
     }
   }
 

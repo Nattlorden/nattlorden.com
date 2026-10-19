@@ -500,10 +500,15 @@ function renderCardPage(main, page) {
     `;
   }
 
-  html += renderCardGrid(
-    page.cards,
-    page.columns || 4
-  );
+  html += renderCardGrid(page.cards, page.columns || 4, {
+  spoilers: true,
+  readThrough: Number(
+    localStorage.getItem("sereniaChapter") || 0
+  ),
+  showAll:
+    localStorage.getItem("sereniaShowAll") === "yes",
+  lang
+})
 
   if (page.showPlaceholder !== false) {
     html += `

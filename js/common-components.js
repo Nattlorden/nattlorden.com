@@ -1,6 +1,6 @@
 /* =========================================================
    common-components.js
-   ≈teranv‰ndbara innehÂllskomponenter
+   ÔøΩteranvÔøΩndbara innehÔøΩllskomponenter
    ========================================================= */
 
 
@@ -173,10 +173,15 @@ function renderCardGrid(cards, columns = 4) {
 
   return html;
 } */
-function renderCardGrid(cards, columns = 4) {
+function renderCardGrid(cards, columns = 4, options = {}) {
   if (!Array.isArray(cards) || !cards.length) {
     return "";
   }
+  
+  const spoilerEnabled = options.spoilers === true;
+  const readThrough = options.readThrough ?? 0;
+  const showAll = options.showAll === true;
+  const language = options.lang ?? "sv";
 
   const columnsClass =
     columns === 3
@@ -188,9 +193,44 @@ function renderCardGrid(cards, columns = 4) {
   `;
 
   cards.forEach(card => {
-    const hasInternalLink =
-      card.section &&
-      card.page;
+  if (spoilerEnabled) {
+    const level = card.spoilerChapter ?? 0;
+
+    const locked =
+      !showAll &&
+      (
+        level === "later" ||
+        (typeof level === "number" && level > readThrough)
+      );
+
+    if (locked) {
+      const label = level === "later"
+        ? (language === "sv"
+            ? "Senare i ber√§ttelsen"
+            : "Later in the story")
+        : (language === "sv"
+            ? `L√•ses upp efter kapitel ${level}`
+            : `Unlocks after chapter ${level}`);
+
+      html += `
+        <div class="card card-spoiler-locked">
+          <div class="card-image card-spoiler-placeholder">
+            <span class="card-spoiler-symbol" aria-hidden="true">?</span>
+          </div>
+          <div class="card-title card-spoiler-label">
+            ${label}
+          </div>
+        </div>
+      `;
+
+      return;
+    }
+  }
+
+  const hasInternalLink =
+    card.section &&
+    card.page;
+
 
     html += `
       <div class="card">

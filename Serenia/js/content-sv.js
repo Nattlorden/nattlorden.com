@@ -6534,74 +6534,90 @@ Ett fåtal karaktärer från kanon förekommer. Deras tolkning och framställnin
     {
       image: "assets/chars/Keri_pouch.png",
       title: "Keri",
-      section: "",
-      page: ""
+      section: "gallery",
+      page: "keri",
+      spoilerChapter: 1
     },
     {
       image: "assets/chars/Raven.png",
-      title: "Raven"
+      title: "Raven",
+      spoilerChapter: 2
     },
     {
       image: "assets/chars/Kelly.png",
-      title: "Kelly"
+      title: "Kelly",
+      spoilerChapter: 1
     },
     {
       image: "assets/chars/Athina_fixhand.jpg",
-      title: "Athina"
+      title: "Athina",
+      spoilerChapter: 1
     },
     {
       image: "assets/chars/Fabien.png",
       title: "Fabien Trulor",
       section: "",
-      page: ""
+      page: "",
+      spoilerChapter: 3
     },
     {
       image: "assets/chars/Serenima.png",
-      title: "Lady Serenima Dethale"
+      title: "Lady Serenima Dethale",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Jeredosta.png",
-      title: "Querlid Jeredosta"
+      title: "Querlid Jeredosta",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Joreth_stripped.png",
-      title: "Joreth"
+      title: "Joreth",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Hund.png",
       title: "Hund",
       section: "",
-      page: ""
+      page: "",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Kaerith.png",
-      title: "Kaerith"
+      title: "Kaerith",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Cyzo.png",
-      title: "Cyzo"
+      title: "Cyzo",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Lothan_shield.png",
-      title: "Lothan"
+      title: "Lothan",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Marvae_river_photoQ.png",
       title: "Marvae",
       section: "",
-      page: ""
+      page: "",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Fenralf.png",
-      title: "Fenralf"
+      title: "Fenralf",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/Redira_jester.png",
-      title: "Redira"
+      title: "Redira",
+      spoilerChapter: "later"
     },
     {
       image: "assets/chars/kelen.png",
-      title: "Kelen Valenthes"
+      title: "Kelen Valenthes",
+      spoilerChapter: "later"
     }
   ],
 
@@ -6614,6 +6630,31 @@ Ett fåtal karaktärer från kanon förekommer. Deras tolkning och framställnin
       menuTitle: "Miljöer & platser",
       title: "Miljöer & platser",
       text: "Här kommer städer, vägar, rum, hus, hamnar och landskap att få visuell form."
+    },
+
+    keri: {
+      menuTitle: "Keri",
+      title: "Keri McCree",
+      hidden: true,
+      blocks: [
+      { 
+        type: "text", 
+        content: `Berättelsens huvudkaraktär` 
+      },
+
+      { 
+        type: "image", 
+        src: "assets/chars/Keri_pouch.png", 
+        size: "small",  
+        caption: `Keri` 
+      },
+
+      { 
+        type: "text", 
+        content: `Skräddare, överlevare och maktspelare mot sin egen vilja — eller kanske inte helt?` 
+      }
+    ],  
+    showPlaceholder: false
     }
   }
 
