@@ -811,3 +811,39 @@ background-image: url("../assets/ui/writing.png");
     line-height: 1.5;
   }
 }
+
+.chapter-completion {
+  margin: 3rem auto 1.5rem;
+  text-align: center;
+}
+
+.chapter-completion-ornament {
+  margin-bottom: 1.25rem;
+  opacity: 0.4;
+  letter-spacing: 0.6em;
+}
+
+.chapter-read-button {
+  padding: 0.65rem 1.3rem;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.chapter-read-button:hover:not(:disabled) {
+  opacity: 1;
+}
+
+.chapter-read-button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.next-chapter::before {
+  content: "➜ ";
+  color: currentColor;
+  font-weight: bold;
+}

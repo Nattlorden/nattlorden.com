@@ -292,6 +292,13 @@ The Shining (6:e september)
       Jonathan Johansson & MSO - Stortorget Malmöfestivalen 2026-08-12
 
       Another nameless Ghost - Rockstage Malmöfestivalen 2026-08-14
+
+      ...
+      Ankor,
+      Self Deception (support till)
+      Amaranthe - Mejeriet Lund 2026-10-16
+
+
       `,
       showPlaceholder: true
     },

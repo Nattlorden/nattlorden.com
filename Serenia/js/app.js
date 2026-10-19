@@ -325,7 +325,7 @@ function renderTimeline(timeline) {
 
   html += `</div>`;
 
-  return html;
+  return html;  
 }
 
 
@@ -333,8 +333,9 @@ function renderTimeline(timeline) {
    Chapters
    ========================================================= */
 
-function renderChapter(page) {
+function renderChapter(page, pageKey) {
   const chapter = page.chapter;
+  const chapterNumber = Number(pageKey.match(/^chapter(\d+)$/)?.[1]);
 
   let html = `
     <article class="chapter-page">
@@ -450,6 +451,27 @@ function renderChapter(page) {
     });
   }
 
+  if (chapterNumber > 0) {
+  const readThrough = Number(
+    localStorage.getItem("sereniaChapter") || 0
+  );
+
+  html += `
+    <div class="chapter-completion">
+      <div class="chapter-completion-ornament">✦ ✦ ✦</div>
+
+      ${chapterNumber > readThrough ? `
+        <button
+          type="button"
+          class="chapter-read-button"
+          data-chapter-read="${chapterNumber}">
+          Markera kapitel som läst
+        </button>
+      ` : ""}
+    </div>
+  `;
+  }
+
 
   html += `</article>`;
 
@@ -490,6 +512,28 @@ function renderCardPage(main, page) {
   }
 
   main.innerHTML = html;
+}
+
+function markNextSereniaChapter() {
+  const readThrough = Number(
+    localStorage.getItem("sereniaChapter") || 0
+  );
+
+  const nextChapter = readThrough + 1;
+
+  const links = document.querySelectorAll(
+  '#content a[data-section="story"][data-page^="chapter"]'
+  );
+
+
+  links.forEach(link => {
+    const match = link.dataset.page.match(/^chapter(\d+)$/);
+    if (!match) return;
+
+    if (Number(match[1]) === nextChapter) {
+      link.classList.add("next-chapter");
+    }
+  });
 }
 
 /* =========================================================
@@ -748,7 +792,7 @@ function renderContent() {
   ) {
     let html = `
       ${getMobileMenuButtonHtml()}
-      ${renderChapter(page)}
+      ${renderChapter(page,currentPage)}
     `;
 
 
@@ -898,6 +942,10 @@ function renderContent() {
 
 
   main.innerHTML = html;
+
+  if (currentSection === "story" && currentPage === "chapters") {
+    markNextSereniaChapter();
+  }
 }
 
 
@@ -929,6 +977,25 @@ function setLang(newLang) {
 document.addEventListener(
   "click",
   function (e) {
+       /*
+      Markera kapitel som läst
+    */
+    const readButton = e.target.closest("[data-chapter-read]");
+
+if (readButton) {
+  const chapterNumber = Number(readButton.dataset.chapterRead);
+  const previous = Number(
+    localStorage.getItem("sereniaChapter") || 0
+  );
+
+  localStorage.setItem(
+    "sereniaChapter",
+    String(Math.max(previous, chapterNumber))
+  );
+
+  readButton.remove();
+  return;
+}
 
     /*
       Låt i albumlistan
@@ -987,6 +1054,8 @@ document.addEventListener(
       link.dataset.section,
       link.dataset.page
     );
+
+ 
   }
 );
 
