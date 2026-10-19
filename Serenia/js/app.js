@@ -539,6 +539,144 @@ function markNextSereniaChapter() {
 }
 
 /* =========================================================
+   Serenia reading controls
+   ========================================================= */
+   
+function renderSereniaReadingControls() {
+  const main = document.querySelector("main");
+  const chapterLinks = [
+    ...main.querySelectorAll(
+      'a[data-section="story"][data-page^="chapter"]'
+    )
+  ];
+
+  const chapters = chapterLinks
+    .map(link => Number(
+      link.dataset.page.match(/^chapter(\d+)$/)?.[1]
+    ))
+    .filter(n => Number.isInteger(n) && n > 0);
+
+  const maxChapter = Math.max(0, ...chapters);
+
+  const readThrough = Number(
+    localStorage.getItem("sereniaChapter") || 0
+  );
+
+  const showAll =
+    localStorage.getItem("sereniaShowAll") === "yes";
+
+  const sv = lang === "sv";
+
+  const panel = document.createElement("div");
+  panel.className = "serenia-reading-controls";
+
+  panel.innerHTML = `
+    <div class="serenia-reader-row">
+      <div class="serenia-reader-info">
+        <div class="serenia-reader-title">
+          ${sv ? "Visa alla spoilers" : "Show all spoilers"}
+        </div>
+        <div class="serenia-reader-description">
+          ${sv
+            ? "Visa innehåll även från kapitel du inte läst."
+            : "Show content from chapters you haven't read yet."}
+        </div>
+      </div>
+
+      <label class="serenia-switch">
+        <input
+          type="checkbox"
+          id="serenia-show-all"
+          ${showAll ? "checked" : ""}>
+        <span class="serenia-switch-track"></span>
+      </label>
+    </div>
+
+    <div class="serenia-reading-status">
+      ${readThrough === 0
+        ? (sv ? "Inget kapitel markerat som läst."
+              : "No chapters marked as read.")
+        : (sv
+            ? `Läst till och med kapitel ${readThrough}.`
+            : `Read through chapter ${readThrough}.`)}
+      ${maxChapter > readThrough
+        ? (sv
+            ? ` Nästa: kapitel ${readThrough + 1}.`
+            : ` Next: chapter ${readThrough + 1}.`)
+        : ""}
+    </div>
+
+    <details class="serenia-test-tools">
+      <summary>
+        ${sv ? "Testverktyg" : "Testing tools"}
+      </summary>
+
+      <div class="serenia-test-content">
+        <label for="serenia-read-through">
+          ${sv ? "Läst till och med kapitel" : "Read through chapter"}
+        </label>
+
+        <select id="serenia-read-through">
+          ${Array.from(
+            { length: Math.max(maxChapter, readThrough) + 1 },
+            (_, n) => `
+              <option value="${n}" ${n === readThrough ? "selected" : ""}>
+                ${n === 0
+                  ? (sv ? "Inget kapitel" : "No chapters")
+                  : n}
+              </option>
+            `
+          ).join("")}
+        </select>
+
+        <button type="button" id="serenia-reset">
+          ${sv ? "Nollställ" : "Reset"}
+        </button>
+      </div>
+    </details>
+  `;
+
+  const firstChapterLink = chapterLinks[0];
+  const introduction = firstChapterLink?.closest("p");
+
+  if (introduction) {
+    introduction.before(panel);
+  } else if (firstChapterLink) {
+    firstChapterLink.before(panel);
+  } else {
+    main.append(panel);
+  }
+
+  panel.querySelector("#serenia-show-all")
+    .addEventListener("change", e => {
+      localStorage.setItem(
+        "sereniaShowAll",
+        e.target.checked ? "yes" : "no"
+      );
+      renderAll();
+    });
+
+  panel.querySelector("#serenia-read-through")
+    .addEventListener("change", e => {
+      localStorage.setItem("sereniaChapter", e.target.value);
+      renderAll();
+    });
+
+  panel.querySelector("#serenia-reset")
+    .addEventListener("click", () => {
+      const message = sv
+        ? "Nollställa läsprogression och dölja spoilers?"
+        : "Reset reading progress and hide spoilers?";
+
+      if (!confirm(message)) return;
+
+      localStorage.setItem("sereniaChapter", "0");
+      localStorage.setItem("sereniaShowAll", "no");
+      renderAll();
+    });
+}
+
+/* =========================================================
    Content
    ========================================================= */
 
@@ -946,8 +1084,11 @@ function renderContent() {
   main.innerHTML = html;
 
   if (currentSection === "story" && currentPage === "chapters") {
+    renderSereniaReadingControls();
     markNextSereniaChapter();
   }
+
+  
 }
 
 
