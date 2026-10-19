@@ -465,7 +465,9 @@ function renderChapter(page, pageKey) {
           type="button"
           class="chapter-read-button"
           data-chapter-read="${chapterNumber}">
-          Markera kapitel som läst
+          ${lang === "en"
+      ? "Mark chapter as read"
+      : "Markera kapitel som läst"}
         </button>
       ` : ""}
     </div>
