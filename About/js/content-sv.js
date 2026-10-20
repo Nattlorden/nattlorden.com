@@ -100,6 +100,7 @@ Longaniza fresca al ajo <i><span class="fi fi-es"></span></i> 3
 Lunnamelle <i><span class="fi fi-se-sc"></span></i> 3
 Mergues <i><span class="fi fi-dz"></span></i>  2
 Mexicana <i><span class="fi fi-mx"></span></i>)4+
+Mysliwska <i><span class="fi fi-pl"></span></i> 3
 Mozzarellawurst <i><span class="fi fi-it"></span></i> 5
 Ostknackkorv <i><span class="fi fi-de"></span></i> 4
 Ostkorv <i><span class="fi fi-fi"></span></i> 3
