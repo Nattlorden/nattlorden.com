@@ -584,6 +584,227 @@ släpper jag ej åter dig!`
     }
   ],
   showPlaceholder: true
+    },
+    genomStormen: {
+      menuTitle: "Genom stormen",
+      title: "Genom stormen",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Genom stormen 1200.jpg",
+      size: "small",
+      caption: "Released october 14th 2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="https://open.spotify.com/album/2vgsvWz2h8268ZWC4m4wLE?si=-dH54HFJTTuDxGlgNIZZKg" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/kwRefWXN3mU" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Natten står och lyssnar
+över frusen mark
+vinden bär våra namn
+genom skogens mörka famn
+
+Du stod där på andra sidan
+bakom eld och skarpa rop
+jag bar tystnad i mitt bröst
+som en lykta utan glöd
+Mellan oss gick kalla gator
+mellan oss gick stål och skam
+men jag såg ditt hjärta brinna
+som om mörkret vek ibland
+
+Och varje steg blev som ett löfte
+varje andetag en strid
+ingen mur av sten och vrede
+kan ta ifrån oss denna tid
+
+ Vi går genom stormen
+ vi går genom natt
+ över sår som världen lämnat
+ över mark som blivit svart
+ Och hur högt de än ropar
+ står vi ändå kvar
+ du och jag mot kalla vindar
+ tills en ny gryning möter oss
+
+Jag har hört de tunga slagen
+från en himmel utan svar
+sett hur rädsla blir till kedjor
+när man glömmer vilka vi var
+Men din röst var som en fackla
+över vatten, över snö
+den drog mig genom mörka dagar
+gav mig kraft att börja om
+
+Och varje steg blev som ett löfte
+varje andetag en strid
+ingen hand som vill oss söndra
+kan ta ifrån oss denna tid
+
+ Vi går genom stormen
+ vi går genom natt
+ över sår som världen lämnat
+ över mark som blivit svart
+ Och hur högt de än ropar
+ står vi ändå kvar
+ du och jag mot kalla vindar
+ tills en ny gryning möter oss
+
+Låt dem resa port av järn
+låt dem tända himlen röd
+jag finner vägen i ditt namn
+när all annan tro är död
+Om jag faller, kalla på mig
+om du tvivlar, se mot nord
+där vår eld ännu kan leva
+där vårt hopp slår rot i jord
+
+ Vi går genom stormen
+ vi går genom natt
+ över sår som världen lämnat
+ över mark som blivit svart
+ Och hur högt de än ropar
+ står vi ändå kvar
+ du och jag mot kalla vindar
+ tills en ny gryning möter oss
+
+När den första dagen vaknar
+står vi fria, står vi kvar
+genom mörker, genom avstånd
+bar vi elden till varann`
+    }
+  ],
+  showPlaceholder: true
+    },
+    jattenFinn: {
+      menuTitle: "Jätten Finn",
+      title: "Jätten Finn",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Jätten Finn 3k.jpg",
+      size: "small",
+      caption: "Released th  2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Jag minns
+innan människan lärde stenen sitt namn.
+
+Jag minns
+innan klockor lärde vinden att tiga.
+
+Där askens rötter drack ur jorden
+vilade dimman tung och grå.
+Helgonabacken bar sitt hjärta
+djupt där källans vatten låg.
+
+Jag gick där ingen stig var trampad,
+jag hörde korpens första rop.
+Berget kände mina händer
+innan någon höjde dop.
+
+Sedan kom de.
+
+Med järn.
+Med kors.
+Med löften.
+
+De talade om evigheten
+som om den ännu inte fanns.
+
+De bad mig resa deras valv
+av granit och gammal tro.
+
+Jag log.
+
+Ty även de
+var barn
+i världens första morgon.
+
+Jag var berget före murarna.
+
+Jag var vinden före kors.
+
+Jag var källan under rötterna,
+innan människan blev förstådd.
+
+Jag bär ännu dessa stenar.
+
+Inte utav tvång.
+
+utan för att minnas dem.
+
+När mitt namn blev uttalat
+stannade tiden.
+
+Inte för att jag förlorade.
+
+Utan därför
+att allt som levt
+en gång måste lämna plats.
+
+Jag grep pelaren.
+
+Inte i vrede.
+
+Utan för att få känna
+hur världen
+fortfarande
+andades.
+
+Sov nu,
+gamla skogar.
+
+Sov nu,
+gamla gudar.
+
+Sov nu,
+gamla sånger.
+
+Jag vakar än.
+
+
+Jag var berget före murarna.
+
+Jag var vinden före kors.
+
+Jag hör ännu källans viskning
+under tusen fotstegs gång.
+
+Lägg din hand
+mot kall granit.
+
+Lyssna.
+
+Om stenen svarar
+
+är det inte något eko.
+
+Det ... är ...  jag.
+
+Jag håller ännu valven.
+
+Och väntar.`
+    }
+  ],
+  showPlaceholder: false
     }
 
 

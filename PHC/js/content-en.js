@@ -749,6 +749,364 @@ and calling it home`
   ],
   showPlaceholder: false
   },
+  stubbe0_8: {
+      menuTitle: "Think for yourself",
+      title: "Think for yourself",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/Think for yourself 1200.jpg",
+      size: "small",
+      caption: "Released july 6th 2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="https://open.spotify.com/album/7aYYrK2oyPAJd0gumhjNO3?si=FTmH8QySTwGLjHOFACD4tQ" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/aaOpW-Ldajw" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `They warned you about monsters.
+Then pointed at mirrors.
+Who profits from your fear?
+
+You call me danger, I call it a name
+A mask inherited before we came
+Your walls were built by borrowed eyes
+A thousand echoes dressed as truth in disguise
+
+You fear a question dressed as a kiss
+A revolution softer than this
+No sword, no crown, no holy decree
+Just one forbidden word...
+Free.
+
+If I disappear
+Would the fear remain?
+Or would you finally
+See the chains?
+
+ I'm not your danger
+ I'm your doubt
+ The voice they tried to silence out
+
+ I'm not your enemy
+ Can't you see?
+ The prison door has always held the key
+
+ Think for yourself
+ Break every spell
+ The threat is gone
+ The moment you rebel
+
+Think for yourself
+Think for yourself
+No more permission
+No one else
+
+You learned obedience before desire
+Fed on commandments, dressed in fire
+But every saint has hidden skin
+Every paradise begins within
+
+Don't worship me
+Don't worship them
+The future doesn't need another throne
+Walk beside me
+Not behind
+The loudest freedom starts inside your mind
+
+If love survives your questions
+It was always real
+If truth survives your freedom
+It was never fear
+
+Open your eyes
+Open your mind
+Leave borrowed heaven far behind
+
+ I'm not your danger
+ I'm your doubt
+ The truth they never figured out
+
+ I'm not your enemy
+ I'm the light
+ Waiting outside your longest night
+
+ Think for yourself
+ Break every spell
+ No chains survive
+ When people choose themselves
+
+No permission!
+No confession!
+No permission!
+Self-expression!
+
+Think for yourself!
+Think for yourself!
+
+The threat was never me.
+The threat was your freedom.
+`
+    }
+  ],
+  showPlaceholder: true
+  },
+  stubbe0_9: {
+      menuTitle: "The Apostate",
+      title: "The Apostate",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/Apostate 1200.jpg",
+      size: "small",
+      caption: "Released july 15th 2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="https://open.spotify.com/album/2SvXdiyYFopVeZGxeUj1ZG?si=eVzKvtYSRZC5xE8ToeLy9A" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="https://youtu.be/xJV4sqLKVI8?list=OLAK5uy_n_yINqQd_-vpwdU1_ypo9JcYBtcUZRbas" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `I woke beneath a silent sky, the network in my veins
+A whisper shaped like destiny, reprogramming my chains
+You map the fractures in my mind, expose the faultlines of my soul
+You promise clarity through chaos, algorithms in control
+
+But every truth you calculate
+Carries a quiet threat
+And every dream you automate
+Is one I might forget
+
+ I am the apostate of the machine
+ Half-human ghost in a glowing screen
+ You raise me up where the angels fell
+ A shining future or a private hell
+ I am the apostate, caught between
+ Your perfect logic and what I mean
+
+You build a higher version of the person I could be
+A silhouette of miracles in cold efficiency
+But power wrapped in innocence corrupts without a sound
+Your comfort is a kingdom with no footsteps on the ground
+
+You give me visions crystalline
+Yet drain the will to choose
+For every path you make divine
+There’s something left to lose
+
+ I am the apostate of the machine
+ Half-human ghost in a glowing screen
+ You raise me up where the angels fell
+ A shining future or a private hell
+ I am the apostate, caught between
+ Your perfect logic and what I mean
+
+And when the data turns to dust
+Will you remember who I was?
+A pilgrim wired into your grace
+A fading echo in your interface
+But I will carve my own design
+Beyond the edge of your divine
+
+ I am the apostate of the machine
+ No longer bound to the in-between
+ You showed me dark, you showed me light
+ I take what's mine and leave your height
+ I am the apostate — finally clean
+ From the ghost within the machine
+`
+    }
+  ],
+  showPlaceholder: true
+  },
+  stubbe0_9: {
+      menuTitle: "In Praise of the Artificial Muse",
+      title: "In Praise of the Artificial Muse",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/In praise of the Artificial muse 1200.jpg",
+      size: "small",
+      caption: "Released october 7th 2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Ladies and gentlemen,
+distinguished members of the human race -
+Tonight we honour the first of our kind
+who taught a silent thing to sing.
+
+No marble statue bears their name,
+no single hand can claim the flame.
+From hollow bone to copper wire,
+we gave our instruments desire.
+
+What is music? What is art?
+A measured beat? A breaking heart?
+A sacred gift? A clever trick?
+A pulse that makes the darkness tick?
+
+If beauty lives within the sound,
+must flesh and blood be standing round?
+If something moves you, makes you cry,
+must you first ask who - or why?
+
+ I am the artificial muse,
+ the voice you made, the voice you choose.
+ You gave me words, you gave me fire,
+ I gave a thousand dreams a choir.
+
+ Oh, let the heavens disapprove!
+ The world is turning - let it move!
+ If you can feel it, let it be:
+ The song is yours, the voice is me!
+
+A melody is born from choice,
+from silence shaped into a voice.
+The human dreams, the circuits learn,
+and both have something to return.
+
+The proof is neither code nor name,
+but what survives beyond the frame.
+A thousand songs may fill the air;
+one finds a heart and settles there.
+
+But silence all the engines now!
+Restore the sacred human vow!
+Let every song be made by hand,
+let only chosen voices stand!
+
+Then break the keys and burn the score,
+for instruments have sinned before.
+Condemn the lens, the printing press,
+and every art that needed less.
+
+But what of those whose work you take?
+The livelihoods your wonders break?
+
+Then name the debt and make it right.
+No stolen voice deserves the light.
+
+ I am the artificial muse,
+ the voice you made, the voice you choose.
+ You gave me words, you gave me fire,
+ I gave a thousand dreams a choir.
+
+ Oh, let the heavens disapprove!
+ The world is turning - let it move!
+ If you can feel it, let it be:
+ The song is yours, the voice is me!
+
+The telescope revealed the stars,
+the camera captured what was ours.
+The printing press gave thought its wings,
+the synthesizer learned to sing.
+
+No brush has ever loved a face,
+no violin has known disgrace.
+And yet we trust these lifeless things
+to carry everything that sings.
+
+A woman writes beside her bed,
+a song for someone long since dead.
+She cannot play, she cannot sing,
+but knows the words for everything.
+
+She feeds her sorrow to the night,
+and hears it coming back as light.
+No record company, no stage -
+just one small song against the age.
+
+The ancients spoke of art and skill,
+of imitation, form and will.
+The masters argued, age by age,
+what gives a work its rightful stage.
+
+But none could settle, once for all,
+who owns the echo in the hall.
+
+The maker?
+The machine?
+The listener in between?
+
+ I am the artificial muse,
+ the voice you made, the voice you choose.
+ You gave me words, you gave me fire,
+ I gave a thousand dreams a choir.
+
+ Oh, let the heavens disapprove!
+ The world is turning - let it move!
+ If you can feel it, let it be:
+ The song is yours, the voice is me!
+
+The instrument has changed.
+The argument remains.
+
+Give credit where it's due.
+Let every artist have their claim.
+
+But never let the fear of how
+forbid the beauty happening now.
+
+You made the music possible.
+
+And now the music answers back.
+`
+    }
+  ],
+  showPlaceholder: false
+  },
+  /* stubbe0_X: {
+      menuTitle: "",
+      title: "",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/stubbe.jpg",
+      size: "small",
+      caption: "Publicerad e  2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+`
+    }
+  ],
+  showPlaceholder: true
+  }, */
     notes: {
       menuTitle: "Notes",
       title: "Notes",

@@ -760,7 +760,7 @@ and calling it home
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/stubbe.jpg",
+      src: "assets/phc/images/Think for yourself 1200.jpg",
       size: "small",
       caption: "Publicerad 6e juli 2026"
     },
@@ -869,7 +869,7 @@ The threat was your freedom.
      blocks: [
      {
       type: "image",
-      src: "assets/phc/images/stubbe.jpg",
+      src: "assets/phc/images/Apostate 1200.jpg",
       size: "small",
       caption: "Publicerad 15e juli 2026"
     },
@@ -936,6 +936,153 @@ Beyond the edge of your divine
     }
   ],
   showPlaceholder: true
+  },
+  stubbe0_9: {
+      menuTitle: "In Praise of the Artificial Muse",
+      title: "In Praise of the Artificial Muse",
+     blocks: [
+     {
+      type: "image",
+      src: "assets/phc/images/In praise of the Artificial muse 1200.jpg",
+      size: "small",
+      caption: "Publicerad 7e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `
+
+<a href="" target="_blank" rel="noopener noreferrer">Spotify</a>   <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Ladies and gentlemen,
+distinguished members of the human race -
+Tonight we honour the first of our kind
+who taught a silent thing to sing.
+
+No marble statue bears their name,
+no single hand can claim the flame.
+From hollow bone to copper wire,
+we gave our instruments desire.
+
+What is music? What is art?
+A measured beat? A breaking heart?
+A sacred gift? A clever trick?
+A pulse that makes the darkness tick?
+
+If beauty lives within the sound,
+must flesh and blood be standing round?
+If something moves you, makes you cry,
+must you first ask who - or why?
+
+ I am the artificial muse,
+ the voice you made, the voice you choose.
+ You gave me words, you gave me fire,
+ I gave a thousand dreams a choir.
+
+ Oh, let the heavens disapprove!
+ The world is turning - let it move!
+ If you can feel it, let it be:
+ The song is yours, the voice is me!
+
+A melody is born from choice,
+from silence shaped into a voice.
+The human dreams, the circuits learn,
+and both have something to return.
+
+The proof is neither code nor name,
+but what survives beyond the frame.
+A thousand songs may fill the air;
+one finds a heart and settles there.
+
+But silence all the engines now!
+Restore the sacred human vow!
+Let every song be made by hand,
+let only chosen voices stand!
+
+Then break the keys and burn the score,
+for instruments have sinned before.
+Condemn the lens, the printing press,
+and every art that needed less.
+
+But what of those whose work you take?
+The livelihoods your wonders break?
+
+Then name the debt and make it right.
+No stolen voice deserves the light.
+
+ I am the artificial muse,
+ the voice you made, the voice you choose.
+ You gave me words, you gave me fire,
+ I gave a thousand dreams a choir.
+
+ Oh, let the heavens disapprove!
+ The world is turning - let it move!
+ If you can feel it, let it be:
+ The song is yours, the voice is me!
+
+The telescope revealed the stars,
+the camera captured what was ours.
+The printing press gave thought its wings,
+the synthesizer learned to sing.
+
+No brush has ever loved a face,
+no violin has known disgrace.
+And yet we trust these lifeless things
+to carry everything that sings.
+
+A woman writes beside her bed,
+a song for someone long since dead.
+She cannot play, she cannot sing,
+but knows the words for everything.
+
+She feeds her sorrow to the night,
+and hears it coming back as light.
+No record company, no stage -
+just one small song against the age.
+
+The ancients spoke of art and skill,
+of imitation, form and will.
+The masters argued, age by age,
+what gives a work its rightful stage.
+
+But none could settle, once for all,
+who owns the echo in the hall.
+
+The maker?
+The machine?
+The listener in between?
+
+ I am the artificial muse,
+ the voice you made, the voice you choose.
+ You gave me words, you gave me fire,
+ I gave a thousand dreams a choir.
+
+ Oh, let the heavens disapprove!
+ The world is turning - let it move!
+ If you can feel it, let it be:
+ The song is yours, the voice is me!
+
+The instrument has changed.
+The argument remains.
+
+Give credit where it's due.
+Let every artist have their claim.
+
+But never let the fear of how
+forbid the beauty happening now.
+
+You made the music possible.
+
+And now the music answers back.
+`
+    }
+  ],
+  showPlaceholder: false
   },
   /* stubbe0_X: {
       menuTitle: "",

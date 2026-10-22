@@ -593,7 +593,7 @@ släpper jag ej åter dig!`
       type: "image",
       src: "assets/covers/Genom stormen 1200.jpg",
       size: "small",
-      caption: "Publicerad e  2026"
+      caption: "Publicerad 14e oktober 2026"
     },
     {
       type: "text",
@@ -682,6 +682,129 @@ bar vi elden till varann`
     }
   ],
   showPlaceholder: true
+    },
+    jattenFinn: {
+      menuTitle: "Jätten Finn",
+      title: "Jätten Finn",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Jätten Finn 3k.jpg",
+      size: "small",
+      caption: "Publicerad e  2026"
+    },
+    {
+      type: "text",
+      content: `<i></i>
+      
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `Jag minns
+innan människan lärde stenen sitt namn.
+
+Jag minns
+innan klockor lärde vinden att tiga.
+
+Där askens rötter drack ur jorden
+vilade dimman tung och grå.
+Helgonabacken bar sitt hjärta
+djupt där källans vatten låg.
+
+Jag gick där ingen stig var trampad,
+jag hörde korpens första rop.
+Berget kände mina händer
+innan någon höjde dop.
+
+Sedan kom de.
+
+Med järn.
+Med kors.
+Med löften.
+
+De talade om evigheten
+som om den ännu inte fanns.
+
+De bad mig resa deras valv
+av granit och gammal tro.
+
+Jag log.
+
+Ty även de
+var barn
+i världens första morgon.
+
+Jag var berget före murarna.
+
+Jag var vinden före kors.
+
+Jag var källan under rötterna,
+innan människan blev förstådd.
+
+Jag bär ännu dessa stenar.
+
+Inte utav tvång.
+
+utan för att minnas dem.
+
+När mitt namn blev uttalat
+stannade tiden.
+
+Inte för att jag förlorade.
+
+Utan därför
+att allt som levt
+en gång måste lämna plats.
+
+Jag grep pelaren.
+
+Inte i vrede.
+
+Utan för att få känna
+hur världen
+fortfarande
+andades.
+
+Sov nu,
+gamla skogar.
+
+Sov nu,
+gamla gudar.
+
+Sov nu,
+gamla sånger.
+
+Jag vakar än.
+
+
+Jag var berget före murarna.
+
+Jag var vinden före kors.
+
+Jag hör ännu källans viskning
+under tusen fotstegs gång.
+
+Lägg din hand
+mot kall granit.
+
+Lyssna.
+
+Om stenen svarar
+
+är det inte något eko.
+
+Det ... är ...  jag.
+
+Jag håller ännu valven.
+
+Och väntar.`
+    }
+  ],
+  showPlaceholder: false
     }
 
 

@@ -1,0 +1,1 @@
+Demo-inspelning av [[Maj-Lisa & Skramlet]] sent 1985, tidigt 1986.  Försök på en poppigare stil både i klang och text.  Blev hyllvärmare istället för diskussioner om singelsläpp. Troligen ingen indikation på hur en teoretisk ny skiva skulle låtit.
