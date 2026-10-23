@@ -1909,7 +1909,7 @@ Här kan kortare textstycken, ofullständiga refränger, rituella rader och musi
                   title: "They Carried Me Home (Caterina da Siena II)",
                   duration: ":",
                   page: "theyCarriedMeHome",
-                  potify: "https://open.spotify.com/track/6qk4EQT1iDQVD7py8dUVef?si=c18e567f3d424bb2",
+                  spotify: "https://open.spotify.com/track/6qk4EQT1iDQVD7py8dUVef?si=c18e567f3d424bb2",
                   youtube: "https://youtu.be/a0b3In9X2io"
             }
           ]

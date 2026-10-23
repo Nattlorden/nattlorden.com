@@ -1,0 +1,28 @@
+De gamla egyptierna föreställde sig människan som flera sammanhörande aspekter, snarare än vår vanliga uppdelning i kropp och själ. _Ka_, _ba_, skuggan och _akh_ är väl belagda begrepp. De betecknar dock olika slags egenskaper, manifestationer och existensformer – inte likvärdiga ”kroppar”. [book-of-the-dead.fitzmuseum.cam.ac.uk](https://book-of-the-dead.fitzmuseum.cam.ac.uk/explore/book-of-the-dead/the-soul-in-ancient-egypt?utm_source=chatgpt.com)
+
+Den **niodelade lista** som ofta cirkulerar ser ungefär ut så här:
+
+|Begrepp|Ungefärlig innebörd|
+|---|---|
+|**Khat/khet**|Den fysiska kroppen|
+|**Ka**|Livskraft eller dubbelgångare|
+|**Ba**|Individens rörliga manifestation, ofta avbildad som en fågel med människohuvud|
+|**Ib/ab**|Hjärtat; centrum för tanke, känsla och moraliskt ansvar|
+|**Ren**|Namnet, en del av personens identitet och fortlevnad|
+|**Sheut/shut**|Skuggan|
+|**Akh**|Den förvandlade, verksamma anden efter döden|
+|**Sah/sahu**|Den förvandlade kroppen eller mumien|
+|**Sekhem**|Kraft eller makt|
+
+Detta är en förekommande sammanställning, men översättningarna och avgränsningarna varierar.
+
+Föremålen är våra poetiska motsvarigheter. av de nio aspekterna:
+vaxfiguren är kroppen; 
+hjärtat bär känsla och ansvar; 
+liggaren namnet. 
+Ljuset är _ka_, 
+fågeln _ba_, 
+den uppnålade skuggan _sheut_. 
+Linnet är den förvandlade kroppen, 
+nyckeln makten
+och prismats gestalt det möjliga förklarade jaget. 
