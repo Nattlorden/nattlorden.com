@@ -7342,7 +7342,7 @@ act3_9: {
     },  
     {
       type: "text",
-      content: `Inspirerad av den symfonisk dikten "En natt på Blåkulla" av den ryske kompositören Modest Musorgskij som han aldrig färdigställde till uppförandee.
+      content: `Inspirerad av den symfonisk dikten "En natt på Blåkulla" av den ryske kompositören Modest Musorgskij som han aldrig färdigställde till uppförande.
       Min version är en fri tolkning av Musorgskijs idéer och teman, med en modern twist och egna musikaliska element.
       
       <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`}
