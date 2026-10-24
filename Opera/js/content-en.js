@@ -7282,7 +7282,7 @@ act3_9: {
       content: `Inspired by the symphonic poem "A Night on Bald Mountain" by the Russian composer Modest Mussorgsky, which he never completed for performance.
       My version is a free interpretation of Mussorgsky's ideas and themes, with a modern twist and my own musical elements.
       
-      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`}
+      <a href="https://open.spotify.com/album/65mOt6rBsFO4bsHohfaENO?si=4JD--xQRQSaT2rQKL0PgpA" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://www.youtube.com/playlist?list=OLAK5uy_n4QwSiWYb6RItp5ZgSe-cdKCtAbLmwiz0" target="_blank" rel="noopener noreferrer">YouTube</a>`}
     /*,
     {
       type: "divider"
