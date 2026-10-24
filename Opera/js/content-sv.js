@@ -371,7 +371,7 @@ avalon: {
 
       Lite annorlunda blir det via de angivna begränsningarna, men hoppas ni kan uppskatta den - eller någon begränsad del av den - likfullt!
 
-      <a href="https://open.spotify.com/album/2NkKsbWFfcc01brNyDzhtm?si=_Zg_-4slQraK7tO9WYBW0g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <a href="https://open.spotify.com/album/2NkKsbWFfcc01brNyDzhtm?si=_Zg_-4slQraK7tO9WYBW0g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://www.youtube.com/playlist?list=OLAK5uy_lFTZYs66HrVMHb3lzfKe5KRo6QY-0JKNA" target="_blank" rel="noopener noreferrer">YouTube</a>
 
       `},
         {
@@ -7319,6 +7319,50 @@ act3_9: {
       title: `"Cabaret"`,
       text: `Pågående projekt. Om det blir en musikal av det eller om det stannar vid ett konceptalbum återstår att se.`,
       showPlaceholder: true
+    }
+  },
+  sherlock: {
+    about: {
+      menuTitle: "Om",
+      title: `"Sherlock Holmes"`,
+      text: `Pågående projekt. Om det blir en musikal av det eller om det stannar vid ett konceptalbum återstår att se.`,
+      showPlaceholder: true
+    }
+  },
+  symphony: {
+    blakulla: {
+      menuTitle: "Blåkulla",
+      title: `Blåkulla`,
+      blocks: [
+      {
+      type: "image",
+      src: "assets/images/Blåkulla 1200.jpg",
+      alt: "?",
+      caption: "Publicerad 24 oktober 2026"
+    },  
+    {
+      type: "text",
+      content: `Inspirerad av den symfonisk dikten "En natt på Blåkulla" av den ryske kompositören Modest Musorgskij som han aldrig färdigställde till uppförandee.
+      Min version är en fri tolkning av Musorgskijs idéer och teman, med en modern twist och egna musikaliska element.
+      
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`}
+    /*,
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    },
+    {
+      type: "image",
+      src: "http://www.nattlorden.com/images/hifi/stubbe.jpg",
+      alt: "?",
+      caption: "??"
+    }*/
+    
+  ],
+  showPlaceholder: false
     }
   }  
 

@@ -289,6 +289,13 @@ Amanda Jenssen – Mejeriet, Lund, 2026-05-16
       Jonathan Johansson & MSO - Stortorget Malmöfestivalen 2026-08-12
 
       Another nameless Ghost - Rockstage Malmöfestivalen 2026-08-14
+
+      ...
+      Ankor,
+      Self Deception (support till)
+      Amaranthe - Mejeriet Lund 2026-10-16
+
+
       `,
       showPlaceholder: true
     },
@@ -364,8 +371,9 @@ After completing the first handful of scenes, the result felt surprisingly convi
 
 The result is inevitably shaped by those technical limitations, but I hope you'll still find something to enjoy—whether in the work as a whole or simply in one small part of it.
 
-<a href="https://open.spotify.com/album/2NkKsbWFfcc01brNyDzhtm?si=_Zg_-4slQraK7tO9WYBW0g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>
-`},
+      <a href="https://open.spotify.com/album/2NkKsbWFfcc01brNyDzhtm?si=_Zg_-4slQraK7tO9WYBW0g" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://www.youtube.com/playlist?list=OLAK5uy_lFTZYs66HrVMHb3lzfKe5KRo6QY-0JKNA" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+      `},
         {
       type: "image",
       src: "assets/images/Camelot e Avalon 3k 3.png",
@@ -7248,6 +7256,50 @@ act3_9: {
       title: `"Cabaret"`,
       text: `Ongoing project. Whether it will become a musical or remain a concept album is yet to be seen.`,
       showPlaceholder: true
+    }
+  },
+  sherlock: {
+    about: {
+      menuTitle: "About",
+      title: `"Sherlock Holmes"`,
+      text: `Ongoing project. Whether it will become a musical or remain a concept album is yet to be seen.`,
+      showPlaceholder: true
+    }
+  },
+  symphony: {
+    blakulla: {
+      menuTitle: "Blåkulla",
+      title: `Blåkulla`,
+      blocks: [
+      {
+      type: "image",
+      src: "assets/images/Blåkulla 1200.jpg",
+      alt: "?",
+      caption: "Released october 24th 2026"
+    },  
+    {
+      type: "text",
+      content: `Inspired by the symphonic poem "A Night on Bald Mountain" by the Russian composer Modest Mussorgsky, which he never completed for performance.
+      My version is a free interpretation of Mussorgsky's ideas and themes, with a modern twist and my own musical elements.
+      
+      <a href="" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="" target="_blank" rel="noopener noreferrer">YouTube</a>`}
+    /*,
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    },
+    {
+      type: "image",
+      src: "http://www.nattlorden.com/images/hifi/stubbe.jpg",
+      alt: "?",
+      caption: "??"
+    }*/
+    
+  ],
+  showPlaceholder: false
     }
   }  
 

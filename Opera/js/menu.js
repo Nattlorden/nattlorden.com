@@ -2,12 +2,16 @@ const sectionLabels = {
   sv: {
     general: "Allmänt",
     avalon: "Camelot e Avalon",
-    cabaret: `"Cabaret"`
+    cabaret: `"Cabaret"`,
+    sherlock: `"Sherlock Holmes"`,
+    symphony: "Symfonier"
   },
   en: {
     general: "General",
     avalon: "Camelot e Avalon",
-    cabaret: `"Cabaret"`
+    cabaret: `"Cabaret"`,
+    sherlock: `"Sherlock Holmes"`,
+    symphony: "Symphonies"
   }
 };
 
@@ -32,6 +36,16 @@ const siteMeta = {
         title: `"Cabaret"`,
         tagline: "Musikal eller konceptalbum",
         headerClass: "header-hifi"
+      },
+      sherlock: {
+        title: `"Sherlock Holmes"`,
+        tagline: "Kriminaldrama med element av mysterium",
+        headerClass: "header-hifi"
+      },
+      symphony: {
+        title: "Symfonier",
+        tagline: "Orkestrala verk",
+        headerClass: "header-hifi"
       }
     }
   },
@@ -55,6 +69,16 @@ const siteMeta = {
       cabaret: {
         title: `"Cabaret"`,
         tagline: "Musical or concept album",
+        headerClass: "header-hifi"
+      },
+      sherlock: {
+        title: `"Sherlock Holmes"`,
+        tagline: "Kriminaldrama med element av mysterium",
+        headerClass: "header-hifi"
+      },
+      symphony: {
+        title: "Symfonier",
+        tagline: "Orkestrala verk",
         headerClass: "header-hifi"
       }
     }
