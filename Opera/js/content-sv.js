@@ -7321,6 +7321,14 @@ act3_9: {
       showPlaceholder: true
     }
   },
+  genesis: {
+    about: {
+      menuTitle: "Om",
+      title: `"Genesis"`,
+      text: `Pågående projekt. Ett antal konceptalbum är planerade.`,
+      showPlaceholder: true
+    }
+  },
   sherlock: {
     about: {
       menuTitle: "Om",

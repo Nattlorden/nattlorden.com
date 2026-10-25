@@ -7258,6 +7258,14 @@ act3_9: {
       showPlaceholder: true
     }
   },
+  genesis: {
+    about: {
+      menuTitle: "About",
+      title: `"Genesis"`,
+      text: `Ongoing project. A number of concept albums are planned.`,
+      showPlaceholder: true
+    }
+  },
   sherlock: {
     about: {
       menuTitle: "About",
