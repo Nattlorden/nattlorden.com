@@ -2,7 +2,7 @@ const contentEN = {
   general: {
     about: {
   menuTitle: "About",
-  title: "Tech",
+  title: "Beginnings",
   text: `I don't remember which year or years it was shown on Swedish—or Danish—television. But the beginning of everything was the miniseries "(The Life of) Verdi", produced in 1982–1983.
   
   https://en.wikipedia.org/wiki/The_Life_of_Verdi_(miniseries)
