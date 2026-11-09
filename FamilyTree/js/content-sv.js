@@ -33,9 +33,60 @@ const contentSV = {
 
   notable:{
     places: {
-      menuTitle: "title",
-      title: "title",
-      text: `text`,
+     menuTitle: "Adelskalender",
+      title: "Adelskalender",
+      blocks: [
+        {
+      type: "text",
+      content: `Troligen den första ankytningen till någon adel (om trädet stämmer) - då är vi 13 generationer tillbaka till 
+      <h3>(1) Arvid Jönsson Lilliesparre af Fylleskog`
+    },
+     {
+      type: "image",
+      src: "assets/images/44 Lilliesparre af Fylleskog.png",
+      size: "small",
+      caption: "Lilliesparre af Fylleskog - Adlig Ätt No. 44 (1625)"
+    },
+    {
+      type: "text",
+      content: `1580-1656 på Samseryd i Södra Hestra, Jönk, inskrevs 1609 vid universitetet i Wittenberg o var 1635—56 assessor i Göta hovrätt. Släkten utdog med hans bror major Olof L (d 1673) på Fylleskog, vars stambok länge fanns i arkivet på Tidö.
+      `
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<h3>(2) Anna Jönsdotter Rosenbielke`
+    },
+    {
+      type: "image",
+      src: "assets/images/52 Rosenbielke.png",
+      size: "small",
+      caption: "Rosenbielke - Adlig Ätt No. 52 (1625)"
+    },
+    {
+      type: "text",
+      content: `Mor till Arvid(1), gift med Jöns Jöransson Lilliesparre af Fylleskog`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<h3>(3) Elsa(?) Ulfsax`
+    },
+    {
+      type: "image",
+      src: "assets/images/107 Ulfsax.png",
+      size: "small",
+      caption: "Ulfsax - Uradel 1445, Adlig Ätt No. 107 (78 urpsrungligen) (1625)"
+    },
+    {
+      type: "text",
+      content: `Mor till med Jöns Jöransson Lilliesparre af Fylleskog, gift med (2)`
+    }
+  ],
       showPlaceholder: false
     }
   },
