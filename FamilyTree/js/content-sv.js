@@ -85,6 +85,40 @@ const contentSV = {
     {
       type: "text",
       content: `Mor till med Jöns Jöransson Lilliesparre af Fylleskog, gift med (2)`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<h3>(4) Estrid Pedersdotter Stierna`
+    },
+    {
+      type: "image",
+      src: "assets/images/77 Stierna.png",
+      size: "small",
+      caption: "Stierna Uradel ~1430, Adlig Ätt No. 77 (1625)"
+    },
+    {
+      type: "text",
+      content: `Mormor till (2)`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `<h3>(5) Estrid Arvidsdotter Drake af Intorp`
+    },
+    {
+      type: "image",
+      src: "assets/images/82 Drake af Intorp.png",
+      size: "small",
+      caption: "Drake af Intorp Adlig Ätt No. 82 (1625)"
+    },
+    {
+      type: "text",
+      content: `Mor till (4)`
     }
   ],
       showPlaceholder: false
