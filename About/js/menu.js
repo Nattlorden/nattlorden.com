@@ -4,6 +4,7 @@ const sectionLabels = {
     deep: "Djupdykning",
     mindmap: "Mind map",
     restaurant: "Restauranger",
+    famtree: "Släktträd",
     contact: "Kontakt"
   },
   en: {
@@ -11,6 +12,7 @@ const sectionLabels = {
     deep: "Deep dive",
     mindmap: "Mind map",
     restaurant: "Restaurants",
+    famtree: "Family tree",
     contact: "Contact"
   }
 };
@@ -18,6 +20,10 @@ const sectionLabels = {
 const sectionAccess = {
   deep: "friendAccess",
   mindmap: "friendAccess"
+};
+
+const sectionLinks = {
+  famtree: "../FamilyTree/index.html"
 };
 
 const siteMeta = {
@@ -45,6 +51,11 @@ const siteMeta = {
       restaurant: {
         title: "Nattlorden",
         tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      famtree: {
+        title: "Nattlorden",
+        tagline: "Släktträd",
         headerClass: "header-about"
       },
       contact: {
@@ -80,6 +91,11 @@ const siteMeta = {
        restaurant: {
         title: "Nattlorden",
         tagline: "Personligt och kontakt",
+        headerClass: "header-about"
+      },
+      famtree: {
+        title: "Nattlorden",
+        tagline: "Family tree",
         headerClass: "header-about"
       },
       contact: {

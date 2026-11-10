@@ -90,7 +90,7 @@ function renderTopMenu() {
     topMenu.hidden = false;
 
 
-  sections.forEach(sectionKey => {
+  /*sections.forEach(sectionKey => {
     const item = document.createElement("div");
     item.className = "top-menu-item";
     item.textContent =
@@ -121,7 +121,53 @@ function renderTopMenu() {
       }
     };
 
-    topMenu.appendChild(item);
+    topMenu.appendChild(item);*/
+
+    sections.forEach(sectionKey => {
+  const href = typeof sectionLinks !== "undefined"
+    ? sectionLinks[sectionKey]
+    : null;
+
+  const item = document.createElement(
+    href ? "a" : "div"
+  );
+
+  item.className = "top-menu-item";
+  item.textContent =
+    sectionLabels?.[lang]?.[sectionKey] || sectionKey;
+
+  if (href) {
+    item.href = href;
+    item.style.color = "inherit";
+    item.style.textDecoration = "none";
+  } else {
+    if (sectionKey === currentSection) {
+      item.classList.add("active");
+    }
+
+    item.onclick = function () {
+      const pages = getVisiblePages(sectionKey);
+
+      if (pages.length === 1) {
+        navigateTo(
+          sectionKey,
+          pages[0],
+          true,
+          "content"
+        );
+      } else {
+        navigateTo(
+          sectionKey,
+          pages.length ? pages[0] : "",
+          true,
+          "menu"
+        );
+      }
+    };
+  }
+
+  topMenu.appendChild(item);
+
   });
 }
 

@@ -125,6 +125,8 @@ Yassokorv <i><span class="fi fi-it"></span></i> 4+`,
     }
   },
 
+  famtree:{},
+
   contact:{
     cont: {
       menuTitle: "Kontakt",
