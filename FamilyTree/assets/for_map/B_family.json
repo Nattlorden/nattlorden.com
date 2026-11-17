@@ -1,0 +1,1460 @@
+{
+  "formatVersion": 1,
+  "people": [
+    {
+      "id": "PZKY-4JC",
+      "name": "Nattlorden",
+      "birthYear": 1971,
+      "deathYear": null,
+      "locations": [
+        {
+          "place": "Häljarp",
+          "latitude": 55.85679620119949, 
+          "longitude": 12.910919754734506
+        }
+      ],
+      "motherId": "PZKY-PX1",
+      "fatherId": "PZKY-WNH"
+    },
+    {
+      "id": "PZKY-WNH",
+      "name": "Rune Torsten Andersson",
+      "birthYear": 1942,
+      "deathYear": null,
+      "locations": [
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        },
+        {
+          "place": "Häljarp",
+          "latitude": 55.85679620119949, 
+          "longitude": 12.910919754734506
+        }
+      ],
+      "motherId": "PZKB-QSD",
+      "fatherId": "PZKB-63P"
+    
+    },
+    {
+      "id": "PZKB-63P",
+      "name": "Torsten Vilhelm Andersson",
+      "birthYear": 1920,
+      "deathYear": 1975,
+      "locations": [
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        }
+      ],
+      "motherId": "GMJP-LL6",
+      "fatherId": "G349-W1B"
+    },
+    {
+      "id": "G349-W1B",
+      "name": "Otto Vilhelm Andersson",
+      "birthYear": 1894,
+      "deathYear": 1974,
+        "locations": [
+        {
+          "place": "Pugerups Säteri, Gudmuntorp, Skåne",
+          "latitude": 55.836298218819216, 
+          "longitude": 13.464592495177772
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        }
+      ],
+      "motherId": "GQ3J-8WX",
+      "fatherId": "GQ3V-68V"
+    },
+    {
+      "id": "GQ3V-68V",
+      "name": "Anders Mårtensson",
+      "birthYear": 1871,
+      "deathYear": 1944,
+        "locations": [
+        {
+          "place": "Gudmundtorp, Skåne",
+          "latitude": 55.81800510090301, 
+          "longitude": 13.482772322480479
+        },
+        {
+          "place": "Värmö, Billeberga, Skåne",
+          "latitude": 55.875521542872455, 
+          "longitude": 13.030889564896857
+        }
+      ],
+      "motherId": "PXQ6-BHT",
+      "fatherId": "KDST-2CK"
+    },
+    {
+      "id": "KDST-2CK",
+      "name": "Mårten Andersson",
+      "birthYear": 1835,
+      "deathYear": 1917,
+        "locations": [
+        {
+          "place": "Skårby, Skåne, Sverige",
+          "latitude": 55.487610354146774, 
+          "longitude": 13.713558935252175
+        },
+        {
+          "place": "Pugerups Säteri, Gudmuntorp, Skåne",
+          "latitude": 55.836298218819216, 
+          "longitude": 13.464592495177772
+        }
+      ],
+      "motherId": "MZZT-WKV",
+      "fatherId": "MG4R-YMS"
+    },
+    {
+      "id": "MG4R-YMS",
+      "name": "Anders Mårtensson",
+      "birthYear": 1807,
+      "deathYear": 1882,
+        "locations": [
+        {
+          "place": "Skårby, Skåne, Sverige",
+          "latitude": 55.487610354146774, 
+          "longitude": 13.713558935252175
+        },
+        {
+          "place": "Fattighuset, Balkåkra, Sverige",
+          "latitude": 55.44736268445586, 
+          "longitude": 13.716267659497934
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "MZZT-WKV",
+      "name": "Anna Nilsdotter",
+      "birthYear": 1812,
+      "deathYear": 1867,
+        "locations": [
+        {
+          "place": "Hunnetad, Skårby, Skåne, Sverige",
+          "latitude": 55.47588924054356, 
+          "longitude": 13.721111719784352
+        },
+        {
+          "place": "(Fattighuset,?) Balkåkra, Sverige",
+          "latitude": 55.44736268445586, 
+          "longitude": 13.716267659497934
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "PXQ6-BHT",
+      "name": "Marna Olsdotter",
+      "birthYear": null,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Roslöv, Gårdstånga, Eslöv, Skåne, Sverige",
+          "latitude": 55.77314739295574, 
+          "longitude": 13.383033083724621
+        },
+        {
+          "place": "Pugerups Säteri, Gudmuntorp, Skåne",
+          "latitude": 55.836298218819216, 
+          "longitude": 13.464592495177772
+        }
+      ],
+      "motherId": "G7MG-S77",
+      "fatherId": "G7MG-5KM"
+    },
+    {
+      "id": "G7MG-5KM",
+      "name": "Ola Nilsson",
+      "birthYear": 1814,
+      "deathYear": 1891,
+        "locations": [
+        {
+          "place": "Hurva",
+          "latitude": 59.8586,
+          "longitude": 17.6389,
+          "fromYear": 1900,
+          "toYear": 1925
+        },
+        {
+          "place": "Gudmundtorp, Skåne",
+          "latitude": 55.81800510090301, 
+          "longitude": 13.482772322480479
+        }
+      ],
+      "motherId": null,
+      "motherStatus": "unknown",
+      "fatherId": null,
+      "fatherStatus": "unknown"
+    },
+    {
+      "id": "G7MG-S77",
+      "name": "Hanna Nilsdotter",
+      "birthYear": 1818,
+      "deathYear": 1884,
+        "locations": [
+        {
+          "place": "Skarhult",
+          "latitude": 55.80492687849269, 
+          "longitude": 13.37268004579449
+        },
+        {
+          "place": "Gudmundtorp, Skåne",
+          "latitude": 55.81800510090301, 
+          "longitude": 13.482772322480479
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "GQ3J-8WX",
+      "name": "Augusta Håkansson",
+      "birthYear": 1873,
+      "deathYear": 1918,
+        "locations": [
+        {
+          "place": "Östraby, Malmöhus Län, Skåne, Sverige",
+          "latitude": 55.759129007515995, 
+          "longitude": 13.685314097128513
+        },
+        {
+          "place": "Årups gård, Billeberga, Skåne, Sverige",
+          "latitude": 55.88535922131893, 
+          "longitude": 12.983209340090806
+        }
+      ],
+      "motherId": "PJ45-BWM",
+      "fatherId": "PJ45-RY6"
+    },
+    {
+      "id": "PJ45-RY6",
+      "name": "Håkan Nilsson",
+      "birthYear": 1824,
+      "deathYear": 1901,
+        "locations": [
+        {
+          "place": "Södra Åby, Klagstorp, Skåne, Sverige",
+          "latitude": 55.38599599472715, 
+          "longitude": 13.31103375478088
+        },
+        {
+          "place": "Östraby (?), Malmöhus Län, Skåne, Sverige",
+          "latitude": 55.759156654884, 
+          "longitude": 13.685419078613862
+        }
+      ],
+      "motherId": "K8VG-HPF",
+      "fatherId": "MM8D-W5J"
+    },
+    {
+      "id": "MM8D-W5J",
+      "name": "Nils Håkansson",
+      "birthYear": 1796,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Norra Åby, Södra Åby, Skåne, Sverige",
+          "latitude": 55.404, 
+          "longitude": 13.306
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "K8VG-HPF",
+      "name": "Ingar Jönsdotter",
+      "birthYear": 1797,
+      "deathYear": 1879,
+        "locations": [
+        {
+          "place": "Norra Åby, Södra Åby, Skåne, Sverige",
+          "latitude": 55.404, 
+          "longitude": 13.306
+        },
+        {
+          "place": "Svedala, Skåne, Sverige",
+          "latitude": 55.5082884654436,  
+          "longitude": 13.235824923576766
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "PJ45-BWM",
+      "name": "Boel Jonsdotter",
+      "birthYear": 1832,
+      "deathYear": 1900,
+        "locations": [
+        {
+          "place": "Östraby, Malmöhus Län, Skåne, Sverige",
+          "latitude": 55.759156654884, 
+          "longitude": 13.685419078613862
+        }
+      ],
+      "motherId": null,
+      "motherStatus": "unknown",
+      "fatherId": null,
+      "fatherStatus": "unknown"
+    },
+    {
+      "id": "GMJP-LL6",
+      "name": "Elna Maria Teresia Nilsson",
+      "birthYear": 1894,
+      "deathYear": 1970,
+        "locations": [
+        {
+          "place": "11:e Kvarteret Nr.27 (=Trossö?), Karlskrona, Blekinge, Sverige",
+          "latitude": 56.15059459507122, 
+          "longitude": 15.585968286852847,
+          "fromYear": 1894,
+          "toYear": "minst 1914"
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968,
+          "fromYear": "minst 1914",
+          "toYear": 1970
+        }
+      ],
+      "motherId": "GS17-NY8",
+      "fatherId": "GMJG-967"
+    },
+    {
+      "id": "GMJG-967",
+      "name": "Carl August Nilsson",
+      "birthYear": 1865,
+      "deathYear": 1946,
+        "locations": [
+        {
+          "place": "Skrävsmåla, Fridlevstad, Blekinge, Sverige",
+          "latitude": 56.339413976882845, 
+          "longitude": 15.526313448219662
+        },
+        {
+          "place": "Fredriksdal, Nättraby, Blekinge, Sverige",
+          "latitude": 56.20113093823428, 
+          "longitude": 15.516743240803676
+        }
+      ],
+      "motherId": "LHXJ-1X2",
+      "fatherId": "M2Q2-FBQ"
+    },
+    {
+      "id": "M2Q2-FBQ",
+      "name": "Nils Jönsson Stålnäbb",
+      "birthYear": 1843,
+      "deathYear": 1875,
+        "locations": [
+        {
+          "place": "Fridlevstad, Blekinge, Sverige",
+          "latitude": 56.27361102689089, 
+          "longitude": 15.535482663350951
+        }
+      ],
+      "motherId": null,
+      "motherStatus": "unknown",
+      "fatherId": null,
+      "fatherStatus": "unknown"
+    },
+    {
+      "id": "LHXJ-1X2",
+      "name": "Bodil Hansdotter",
+      "birthYear": null,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Allaboda, Fridlevstad, Blekinge, Sverige",
+          "latitude": 56.34731228699567, 
+          "longitude": 15.545064009039478
+        },
+        {
+          "place": "Fridlevstad, Blekinge, Sverige",
+          "latitude": 56.27361102689089, 
+          "longitude": 15.535482663350951
+        }
+      ],
+      "motherId": "LHXJ-1X4",
+      "fatherId": "LHXJ-168"
+    },
+    {
+      "id": "LHXJ-168",
+      "name": "Hans Andersson",
+      "birthYear": 1786,
+      "deathYear": 1849,
+        "locations": [
+        {
+          "place": "Södra Stensjö Nr.29, Fridlefstads församling, Blekinge, Sverige",
+          "latitude": 56.27361102689089, 
+          "longitude": 15.535482663350951
+        },
+        {
+          "place": "Alleboda Nr.32-33, Fridlefstads församling, Blekinge, Sverige",
+          "latitude": 56.27361102689089, 
+          "longitude": 15.535482663350951
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LHXJ-1X4",
+      "name": "Carin Yggesdotter",
+      "birthYear": 1797,
+      "deathYear": 1872,
+        "locations": [
+        {
+          "place": "Nafrajol, Fridlestadt, Blekinge",
+          "latitude": 56.27361102689089, 
+          "longitude": 15.535482663350951
+        },
+        {
+          "place": "Allaboda, Fridlevstad, Blekinge, Sverige",
+          "latitude": 56.34731228699567, 
+          "longitude": 15.545064009039478
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "GS17-NY8",
+      "name": "Ida Mathilda Aronsdotter",
+      "birthYear": 1871,
+      "deathYear": 1918,
+        "locations": [
+        {
+          "place": "Sillhövda, Rödeby, Blekinge, Sverige",
+          "latitude": 56.40054099522261, 
+          "longitude": 15.550035008632662
+        },
+        {
+          "place": "Gredeby, Karlskrona, Blekinge, Sverige",
+          "latitude": 56.21298169909409, 
+          "longitude": 15.516245240502407
+        }
+      ],
+      "motherId": "LRXZ-C48",
+      "fatherId": "PJ45-LQF"
+    },
+    {
+      "id": "PJ45-LQF",
+      "name": "Aron",
+      "speculative": true,
+      "birthYear": null,
+      "deathYear": null,
+      "locations": null,
+      "motherId": null,
+      "motherStatus": "unknown",
+      "fatherId": null,
+      "fatherStatus": "unknown"
+    },
+    {
+      "id": "LRXZ-C48",
+      "name": "Cicilia Carlsdotter",
+      "birthYear": 1850,
+      "deathYear": 1915,
+        "locations": [
+        {
+          "place": "Falan, Rödeby, Blekinge, Sverige",
+          "latitude": 56.36717615755112, 
+          "longitude": 15.645639184706287
+        },
+        {
+          "place": "(Kråksmåla,) Augerum, Blekinge, Sverige",
+          "latitude": 56.216885293720296, 
+          "longitude": 15.67688914706271
+        }
+      ],
+      "motherId": "9FQG-5P4",
+      "fatherId": "LBNJ-6XR"
+    },
+    {
+      "id": "LBNJ-6XR",
+      "name": "Karl Johan Svensson Fahlberg",
+      "birthYear": 1818,
+      "deathYear": 1877,
+        "locations": [
+        {
+          "place": "Nättraby, Blekinge, Sverige",
+          "latitude": 56.20119655731894, 
+          "longitude": 15.53651662843529
+        },
+        {
+          "place": "Augerum, Blekinge, Sverige",
+          "latitude": 56.216885293720296, 
+          "longitude": 15.67688914706271
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "9FQG-5P4",
+      "name": "Ingelöf Pettersdotter",
+      "birthYear": 1818,
+      "deathYear": 1893,
+        "locations": [
+        {
+          "place": "Långemåla, Rödeby, Blekinge, Sverige",
+          "latitude": 56.38742081070642, 
+          "longitude": 15.686476469049548
+        },
+        {
+          "place": "Augerum, Blekinge, Sverige",
+          "latitude": 56.216885293720296, 
+          "longitude": 15.67688914706271
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "PZKB-QSD",
+      "name": "Rut Mia Johansson",
+      "birthYear": 1916,
+      "deathYear": 1999,
+        "locations": [
+        {
+          "place": "Lund",
+          "latitude": 55.70495167207742, 
+          "longitude": 13.191125624353802,
+          "fromYear": 1900,
+          "toYear": 1925
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968,
+          "fromYear": null,
+          "toYear": null
+        }
+      ],
+      "motherId": "GMM1-9FP",
+      "fatherId": "GMM1-4HT"
+    },
+    {
+      "id": "GMM1-4HT",
+      "name": "Karl Gottfrid Johansson",
+      "birthYear": 1890,
+      "deathYear": 1939,
+        "locations": [
+        {
+          "place": "Vankiva, Kristianstad, Skåne",
+          "latitude": 56.19954272817885, 
+          "longitude": 13.74249946335659
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        }
+      ],
+      "motherId": "PJZS-Z88",
+      "fatherId": null,
+      "fatherStatus": "unknown"
+    },
+    {
+      "id": "PJZS-Z88",
+      "name": "Albertina Ingemansdotter",
+      "birthYear": 1852,
+      "deathYear": 1937,
+        "locations": [
+        {
+          "place": "Vankiva, Kristianstad, Skåne",
+          "latitude": 56.19954272817885, 
+          "longitude": 13.74249946335659
+        }
+      ],
+      "motherId": "K4R5-LMC",
+      "fatherId": "KH7D-S4Y"
+    },
+    {
+      "id": "KH7D-S4Y",
+      "name": "Ingeman Månsson",
+      "birthYear": 1822,
+      "deathYear": 1887,
+        "locations": [
+        {
+          "place": "(Kullan,) Jämshög, Blekinge",
+          "latitude": 56.24034915141282, 
+          "longitude": 14.53078994962835
+        },
+        {
+          "place": "Denningarum Ö-Broby Kristianstad, Skåne",
+          "latitude": 56.31930453329908, 
+          "longitude": 14.031111458786818
+        }
+      ],
+      "motherId": "KGY7-K81",
+      "fatherId": "LV49-9B3"
+    },
+    {
+      "id": "LV49-9B3",
+      "name": "Måns Pehrsson",
+      "birthYear": 1785,
+      "deathYear": 1846,
+        "locations": [
+        {
+          "place": "((Norra) Esseboda,) Örkened, Skåne, Sverige",
+          "latitude": 56.398122977314564, 
+          "longitude": 14.32293368042315
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "KGY7-K81",
+      "name": "Anna Pehrsdotter",
+      "birthYear": 1777,
+      "deathYear": 1825,
+        "locations": [
+        {
+          "place": "Oppmanna, Skåne, Sverige",
+          "latitude": 56.133431798884985, 
+          "longitude": 14.299946347740745
+        },
+        {
+          "place": "Jämshög, Blekinge, Sverige",
+          "latitude": 56.240356217587575, 
+          "longitude": 14.530911607264942
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "K4R5-LMC",
+      "name": "Hanna Jönsdotter",
+      "birthYear": 1813,
+      "deathYear": 1870,
+        "locations": [
+        {
+          "place": "Tommaboda, Örkened, Skåne",
+          "latitude": 56.40003125408227, 
+          "longitude": 14.283368338119294
+        },
+        {
+          "place": "Denningarum Ö-Broby Kristianstad, Skåne",
+          "latitude": 56.31930453329908, 
+          "longitude": 14.031111458786818
+        }
+      ],
+      "motherId": "PJZT-Q4X",
+      "fatherId": "LCPY-1S1"
+    },
+    {
+      "id": "LCPY-1S1",
+      "name": "Jöns Pehrsson",
+      "birthYear": 1780,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Emmislöv, Skåne, Sverige",
+          "latitude": 56.22335558488937,
+          "longitude": 14.107872603398336
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "PJZT-Q4X",
+      "name": "Hanna Olasdotter",
+      "birthYear": 1778,
+      "deathYear": 1813,
+        "locations": [
+        {
+          "place": "Emmislöv, Skåne, Sverige",
+          "latitude": 56.22335558488937,
+          "longitude": 14.107872603398336
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "GMM1-9FP",
+      "name": "Gulli Elfrida Viktoria Peterson",
+      "birthYear": 1889,
+      "deathYear": 1977,
+        "locations": [
+        {
+          "place": "Virestad, Kronoberg, Småland",
+          "latitude": 56.62565616376341, 
+          "longitude": 14.33923255793062
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        }
+      ],
+      "motherId": "GMMB-Y68",
+      "fatherId": "GMM1-99F"
+    },
+    {
+      "id": "GMM1-99F",
+      "name": "Johan Peterson",
+      "birthYear": 1862,
+      "deathYear": 1939,
+        "locations": [
+        {
+          "place": "Öjaby, Kronoberg, Småland",
+          "latitude": 56.912674445783146, 
+          "longitude": 14.739179896426284
+        },
+        {
+          "place": "Hyby, Malmöhus, Skåne, Sverige",
+          "latitude": 55.58053373145865, 
+          "longitude": 13.258886687870405
+        }
+      ],
+      "motherId": "P7JM-1JG",
+      "fatherId": "P7JM-3PQ"
+    },
+    {
+      "id": "P7JM-3PQ",
+      "name": "Peter Nilsson",
+      "birthYear": 1835,
+      "deathYear": 1877,
+        "locations": [
+        {
+          "place": "Kalvsik, Kronoberg, Småland, Sverige",
+          "latitude": 56.716718491420664, 
+          "longitude": 14.699791374211147
+        },
+        {
+          "place": "Öjaby, Kronoberg, Småland, Sverige",
+          "latitude": 56.912674445783146, 
+          "longitude": 14.739179896426284
+        }
+      ],
+      "motherId": "GWX5-994",
+      "fatherId": "GWX5-Z4Z"
+    },
+    {
+      "id": "GWX5-Z4Z",
+      "name": "Nils Johansson",
+      "birthYear": 1797,
+      "deathYear": 1843,
+        "locations": [
+        {
+          "place": "Hjortatorp, Kalvsvik, Kronoberg, Småland, Sverige",
+          "latitude": 56.73518685370961, 
+          "longitude": 14.67813963027413
+        },
+        {
+          "place": "Kalvsvik, Kronoberg, Småland, Sverige",
+          "latitude": 56.71665263337457, 
+          "longitude": 14.69995065611212
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "GWX5-994",
+      "name": "Cajsa Persdotter",
+      "birthYear": 1798,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Geboda Berg, Kronoberg, Småland, Sverige",
+          "latitude": 57.042862, 
+          "longitude": 14.654799
+        },
+        {
+          "place": "Kalvsvik, Kronoberg, Småland, Sverige",
+          "latitude": 56.71665263337457, 
+          "longitude": 14.69995065611212
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "P7JM-1JG",
+      "name": "Ingrid Catharina Peterdotter",
+      "birthYear": 1831,
+      "deathYear": 1917,
+        "locations": [
+        {
+          "place": "Vederslöv, Kronoberg, Småland, Sverige",
+          "latitude": 56.78337798423725, 
+          "longitude": 14.733284057714334
+        }
+      ],
+      "motherId": "PJZV-9DG",
+      "fatherId": "PJZJ-VHF"
+    },
+    {
+      "id": "PJZJ-VHF",
+      "name": "Peter Olof Jacobsson",
+      "birthYear": 1811,
+      "deathYear": 1889,
+        "locations": [
+        {
+          "place": "Dänningelanda, Kronoberg, Sverige",
+          "latitude": 56.79641971056436, 
+          "longitude": 14.788973122793449
+        },
+        {
+          "place": "Bergunda, Kronoberg, Sverige",
+          "latitude": 56.861157068866994, 
+          "longitude": 14.74453116675724
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "PJZV-9DG",
+      "name": "Carin Persdotter",
+      "birthYear": 1807,
+      "deathYear": 1889,
+        "locations": [
+        {
+          "place": "Tjureda, Kronoberg",
+          "latitude": 57.03335976845019, 
+          "longitude": 14.816661415607609
+        },
+        {
+          "place": "Bergunda, Kronoberg, Sverige",
+          "latitude": 56.861157068866994, 
+          "longitude": 14.74453116675724
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "GMMB-Y68",
+      "name": "Maria Jonsdotter",
+      "birthYear": 1858,
+      "deathYear": 1941,
+        "locations": [
+        {
+          "place": "Kvarnatorp, Virestad, Kronoberg, Sverige",
+          "latitude": 56.63852834416568, 
+          "longitude": 14.354742715653254
+        },
+        {
+          "place": "Västra Skrävlinge, Malmöhus, Skåne, Sverige",
+          "latitude": 55.58362184521846, 
+          "longitude": 13.033247021104833
+        }
+      ],
+      "motherId": "GMMB-RYS",
+      "fatherId": "LB9D-VFH"
+    },
+    {
+      "id": "LB9D-VFH",
+      "name": "Jonas Månsson",
+      "birthYear": 1809,
+      "deathYear": 1894,
+        "locations": [
+        {
+          "place": "Kvarntorp Norregård, Virestad, Kronoberg, Småland, Sverige",
+          "latitude": 56.64415701665294, 
+          "longitude": 14.355797074707562
+        },
+        {
+          "place": "Hörda Kronogård Fattighus, Virestad, Kronoberg, Småland, Sverige",
+          "latitude": 56.69723, 
+          "longitude": 14.333231
+        }
+      ],
+      "motherId": "LY9G-GT1",
+      "fatherId": "LY9G-GC6"
+    },
+    {
+      "id": "LY9G-GC6",
+      "name": "Måns Månsson",
+      "birthYear": 1781,
+      "deathYear": 1863,
+        "locations": [
+        {
+          "place": "Horshult, Kronoberg",
+          "latitude": 56.62000685789627,
+          "longitude": 14.35574436148424
+        },
+        {
+          "place": "Virestad, Kronoberg, Småland",
+          "latitude": 56.62565616376341, 
+          "longitude": 14.33923255793062
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LY9G-GT1",
+      "name": "Karin Jonsdotter",
+      "birthYear": 1789,
+      "deathYear": 1871,
+        "locations": [
+        {
+          "place": "Häradsbäck, Härlunda, Kronoberg",
+          "latitude": 56.53048121980339, 
+          "longitude": 14.459890191525927
+        },
+        {
+          "place": "Virestad, Kronoberg, Småland",
+          "latitude": 56.62565616376341, 
+          "longitude": 14.33923255793062
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "GMMB-RYS",
+      "name": "Anna Jonsdotter",
+      "birthYear": 1817,
+      "deathYear": 1893,
+        "locations": [
+        {
+          "place": "Bäckhult, Virestad, Kronoberg, Småland, Sverige",
+          "latitude": 56.591243559664875, 
+          "longitude": 14.341562677436606
+        },
+        {
+          "place": "Hörda, Virestad, Kronoberg, Småland, Sverige",
+          "latitude": 56.70116, 
+          "longitude": 14.327881
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "F",
+      "name": "exempel",
+      "birthYear": 1820,
+      "deathYear": 1873,
+        "locations": [
+        {
+          "place": "Tås, Sverige",
+          "latitude": 56.306917550536205, 
+          "longitude": 13.08946826953288
+        },
+        {
+          "place": "Re, Sverige",
+          "latitude": 56.2500497478763, 
+          "longitude": 12.86662403703795
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "F",
+      "name": "exempel",
+      "birthYear": 1820,
+      "deathYear": 1873,
+        "locations": [
+        {
+          "place": "Tås",
+          "latitude": 56.306917550536205, 
+          "longitude": 13.08946826953288
+        },
+        {
+          "place": "Re",
+          "latitude": 56.2500497478763, 
+          "longitude": 12.86662403703795
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "PZKY-PX1",
+      "name": "Inger Elin Viktoria Sundberg",
+      "birthYear": 1943,
+      "deathYear": null,
+      "locations": [
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        },
+        {
+          "place": "Häljarp",
+          "latitude": 55.85679620119949, 
+          "longitude": 12.910919754734506
+        }
+      ],
+      "motherId": "LY99-41J",
+      "fatherId": "LYZ2-7YX"
+    },
+    {
+      "id": "LYZ2-7YX",
+      "name": "Emil Sixten Verner Sundberg",
+      "birthYear": 1907,
+      "deathYear": 1966,
+        "locations": [
+        {
+          "place": "Helsingborg",
+          "latitude": 56.046402442070786, 
+          "longitude": 12.693971281473848
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        }
+      ],
+      "motherId": "LKFK-T1J",
+      "fatherId": null,
+      "fatherStatus": "unknown"
+    },
+    {
+      "id": "LKFK-T1J",
+      "name": "Blenda Iris Alfrida Sundberg",
+      "birthYear": 1886,
+      "deathYear": 1963,
+        "locations": [
+        {
+          "place": "Ängelholm, Kristianstad, Sverige",
+          "latitude": 56.245789742406174, 
+          "longitude": 12.863421195294249
+        },
+        {
+          "place": "Las Vegas, Clark, Nevada, United States",
+          "latitude": 36.173340678060335, 
+          "longitude": -115.17096838977415
+        }
+      ],
+      "motherId": "LKFK-YYB",
+      "fatherId": "LKFD-62N"
+    },
+    {
+      "id": "LKFD-62N",
+      "name": "Johan Alfred Sundberg",
+      "birthYear": 1862,
+      "deathYear": "1910 eller senare",
+        "locations": [
+        {
+          "place": "Tutaryd, Kronoberg, Småland, Sverige",
+          "latitude": 56.84585314925731, 
+          "longitude": 14.050271599934964
+        },
+        {
+          "place": "Boston, Massachusetts, United States",
+          "latitude": 42.3297455926436, 
+          "longitude": -71.05492423392487
+        }
+      ],
+      "motherId": "PJZ4-9JB",
+      "fatherId": "PJZW-P6Z"
+    },
+    {
+      "id": "PJZW-P6Z",
+      "name": "Lars Johan Svenson",
+      "speculative": true,
+      "birthYear": 1821,
+      "deathYear": 1898,
+        "locations": [
+        {
+          "place": "Angelstad, Kronoberg, Småland, Sverige",
+          "latitude": 56.82998330877668, 
+          "longitude": 13.758785462514693
+        },
+        {
+          "place": "Tutaryd, Kronoberg, Småland, Sverige",
+          "latitude": 56.84585314925731, 
+          "longitude": 14.050271599934964
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "PJZ4-9JB",
+      "name": "Ingrid Kajsa Isacsdotter",
+      "speculative": true,
+      "birthYear": 1837,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Ryssby, Kronoberg, Småland, Sverige",
+          "latitude": 56.86495151403024, 
+          "longitude": 14.16535143881772
+        },
+        {
+          "place": "Tutaryd, Kronoberg, Småland, Sverige",
+          "latitude": 56.84585314925731, 
+          "longitude": 14.050271599934964
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LKFK-YYB",
+      "name": "Botilda Olsdotter",
+      "birthYear": 1860,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Vegalt 2, Västra Karup, Skåne, Sverige",
+          "latitude": 56.39691239907146, 
+          "longitude": 12.686920025891714
+        }
+      ],
+      "motherId": "LKFD-6RK",
+      "fatherId": "LKFD-X9Q"
+    },
+    {
+      "id": "LKFD-X9Q",
+      "name": "Ola Petter Nilsson",
+      "birthYear": 1829,
+      "deathYear": 1912,
+        "locations": [
+        {
+          "place": "Ramsjö 3, Västra Karup, Skåne, Sverige",
+          "latitude": 56.395833, 
+          "longitude": 12.668611
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LKFD-6RK",
+      "name": "Johanna Nilsdotter",
+      "birthYear": 1837,
+      "deathYear": 1915,
+        "locations": [
+        {
+          "place": "Västra Karup, Skåne, Sverige",
+          "latitude": 56.41209395675938, 
+          "longitude": 12.74567076442228
+        },
+        {
+          "place": "Ramsjö 3, Västra Karup, Skåne, Sverige",
+          "latitude": 56.395833, 
+          "longitude": 12.668611
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LY99-41J",
+      "name": "Mimmi Fredine Freij",
+      "birthYear": 1916,
+      "deathYear": 2002,
+        "locations": [
+        {
+          "place": "Norra Vram, Bjuv, Skåne",
+          "latitude": 56.08703635008753, 
+          "longitude": 12.973207090598727
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        }
+      ],
+      "motherId": "LY9M-LV3",
+      "fatherId": "L7CB-THV"
+    },
+    {
+      "id": "L7CB-THV",
+      "name": "Fritz Freij",
+      "birthYear": 1874,
+      "deathYear": 1949,
+        "locations": [
+        {
+          "place": "Munka-Ljungby, Skåne, Sverige",
+          "latitude": 56.25747931709005, 
+          "longitude": 12.970186863699126
+        },
+        {
+          "place": "Ljungsgård, Skåne, Sverige",
+          "latitude": 56.06615244832659, 
+          "longitude": 12.96387283428174
+        }
+      ],
+      "motherId": "LY99-H8T",
+      "fatherId": "LY99-3K4"
+    },
+    {
+      "id": "LY99-3K4",
+      "name": "August Freij",
+      "birthYear": 1849,
+      "deathYear": 1931,
+        "locations": [
+        {
+          "place": "Tåstarp, Skåne, Sverige",
+          "latitude": 56.28118306477425, 
+          "longitude": 12.946276086575079
+        },
+        {
+          "place": "Munka-Ljungby, Skåne, Sverige",
+          "latitude": 56.25747931709005, 
+          "longitude": 12.970186863699126
+        }
+      ],
+      "motherId": "G417-1F6",
+      "fatherId": "G4YG-Y13"
+    },
+    {
+      "id": "G4YG-Y13",
+      "name": "Christian Andersson",
+      "birthYear": 1825,
+      "deathYear": 1850,
+        "locations": [
+        {
+          "place": "Tåstarp, Skåne, Sverige",
+          "latitude": 56.28118306477425, 
+          "longitude": 12.946276086575079
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "G417-1F6",
+      "name": "Botilda Jönsdotter",
+      "birthYear": 1822,
+      "deathYear": 1901,
+        "locations": [
+        {
+          "place": "Hjärnarp, Skåne, Sverige",
+          "latitude": 56.32315898733875, 
+          "longitude": 12.908377595099328
+        },
+        {
+          "place": "Tåstarp, Skåne, Sverige",
+          "latitude": 56.28118306477425, 
+          "longitude": 12.946276086575079
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LY99-H8T",
+      "name": "Emelia Nilsdotter",
+      "birthYear": 1848,
+      "deathYear": 1915,
+        "locations": [
+        {
+          "place": "Munka-Ljungby, Skåne, Sverige",
+          "latitude": 56.25747931709005, 
+          "longitude": 12.970186863699126
+        }
+      ],
+      "motherId": "9XLS-TPT",
+      "fatherId": "GHM1-P5D"
+    },
+    {
+      "id": "GHM1-P5D",
+      "name": "Nils Bengtsson",
+      "birthYear": 1822,
+      "deathYear": 1881,
+        "locations": [
+        {
+          "place": "Östra Ljungby, Skåne, Sverige",
+          "latitude": 56.189645079931836, 
+          "longitude": 13.062773210456651
+        },
+        {
+          "place": "Hillarp, Munka-Ljungby, Skåne, Sverige",
+          "latitude": 56.27046909818862, 
+          "longitude": 12.971184084316736
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "9XLS-TPT",
+      "name": "Johanna Wallgren",
+      "birthYear": 1825,
+      "deathYear": 1902,
+        "locations": [
+        {
+          "place": "Munka-Ljungby, Skåne, Sverige",
+          "latitude": 56.25747931709005, 
+          "longitude": 12.970186863699126
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LY9M-LV3",
+      "name": "Karolina Josefina Larsson",
+      "birthYear": 1875,
+      "deathYear": 1955,
+        "locations": [
+        {
+          "place": "Tåstarp, Skåne, Sverige",
+          "latitude": 56.28118306477425, 
+          "longitude": 12.946276086575079
+        },
+        {
+          "place": "Landskrona",
+          "latitude": 55.877353, 
+          "longitude": 12.839968
+        }
+      ],
+      "motherId": "LCDZ-9GD",
+      "fatherId": "27X4-PRV"
+    },
+    {
+      "id": "27X4-PRV",
+      "name": "Johan Petter Larsson",
+      "birthYear": null,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Rebbelberga, Skåne, Sverige",
+          "latitude": 56.2500497478763, 
+          "longitude": 12.86662403703795
+        },
+        {
+          "place": "Tåstarp, Skåne, Sverige",
+          "latitude": 56.28118306477425, 
+          "longitude": 12.946276086575079
+        }
+      ],
+      "motherId": "27XY-9VD",
+      "fatherId": "27X4-PR2"
+    },
+    {
+      "id": "27X4-PR2",
+      "name": "Lars Pehrsson",
+      "birthYear": 1808,
+      "deathYear": 1884,
+        "locations": [
+        {
+          "place": "Hjärnarp, Skåne, Sverige",
+          "latitude": 56.32315898733875, 
+          "longitude": 12.908377595099328
+        },
+        {
+          "place": "Örkelljunga, Skåne, Sverige",
+          "latitude": 56.28364342058105, 
+          "longitude": 13.27884299365003
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "27XY-9VD",
+      "name": "Johanna Hammarlund",
+      "birthYear": 1805,
+      "deathYear": 1884,
+        "locations": [
+        {
+          "place": "Barkåkra",
+          "latitude": 56.29468372782158, 
+          "longitude": 12.835342713448648
+        },
+        {
+          "place": "Östra Ringarp, Örkelljunga",
+          "latitude": 56.266361276620245, 
+          "longitude": 13.31863981690566
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LCDZ-9GD",
+      "name": "Gustava Nilsdotter",
+      "birthYear": 1846,
+      "deathYear": 1931,
+        "locations": [
+         {
+          "place": "Tåstarp, Skåne, Sverige",
+          "latitude": 56.28118306477425, 
+          "longitude": 12.946276086575079
+        }
+      ],
+      "motherId": "LCDZ-96F",
+      "fatherId": "LCDH-4LM"
+    },
+    {
+      "id": "LCDH-4LM",
+      "name": "Nils Gudmundsson",
+      "birthYear": 1815,
+      "deathYear": 1892,
+        "locations": [
+        {
+          "place": "Tåstarp, Skåne, Sverige",
+          "latitude": 56.28118306477425, 
+          "longitude": 12.946276086575079
+        },
+        {
+          "place": "Barkåkra",
+          "latitude": 56.29468372782158, 
+          "longitude": 12.835342713448648
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "LCDZ-96F",
+      "name": "Sissela Persdotter",
+      "birthYear": 1820,
+      "deathYear": 1873,
+        "locations": [
+        {
+          "place": "Tåssjö, Munka-Ljungby, Skåne, Sverige",
+          "latitude": 56.306917550536205, 
+          "longitude": 13.08946826953288
+        },
+        {
+          "place": "Rebbelberga, Skåne, Sverige",
+          "latitude": 56.2500497478763, 
+          "longitude": 12.86662403703795
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    },
+    {
+      "id": "0",
+      "name": "exempel",
+      "birthYear": null,
+      "deathYear": null,
+        "locations": [
+        {
+          "place": "Tås",
+          "latitude": 56.306917550536205, 
+          "longitude": 13.08946826953288
+        },
+        {
+          "place": "Re",
+          "latitude": 56.2500497478763, 
+          "longitude": 12.86662403703795
+        }
+      ],
+      "motherId": null,
+      "fatherId": null
+    }
+  ]
+}
+
+
