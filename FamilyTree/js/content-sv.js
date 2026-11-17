@@ -152,6 +152,25 @@ const contentSV = {
       `,
 
       showPlaceholder: false
+    },
+    bengtaVonBulow: {
+      menuTitle: "Bengta",
+      title: "Problemet med Bengta Johansdotter von Bülow",
+      text: `Under förutsättning att det inte redan är fel innan vi kommit så långt, så har vi ett potentiellt problem med föräldraskapen
+
+      Hennes far anges som  Johann von Bülow (f. ~1351) och hennes mor som Dorothea Arentsdotter Pinnow (f. 1365). 
+
+      Bengta tillhör ett antal barn som släktforskningssidorna anger, som däremot mer släktgenerella texter saknar. Finns ett släktträd på dansk sida med barnen som inte är en normal släktforsksida.
+
+      Diskussion om hennes existens på Geni:
+      "Namnet fanns, men den Bengta Johansdotter som återfinns i källorna var ju gift med Jöns Stensson far, här är hon uppsatt som gift med sonen. Troligen var hon gift i ett andra äktenskap, då Katarina var mor till Jöns.
+
+Det är svårt att se hur denna Bengta B, skapats, men troligen sammanslagits med en N.N. fru, omdöpt till Maria, sedan till Bengta. Hittar ingen koppling till att hon skulle ha varit en Bülow heller.
+
+Jan Raneke har i Svenska medeltidsvapen III (Rättelser och tillägg), dvs Halvhjort av Ämtaryd, en Bengt(a) Johansdotter (tydligen omnämnd i Hans Brasks släktbok 198) genom den kursiverade stilen angedd som maka åt Sten (Jönsson) Foglare."
+      `,
+
+      showPlaceholder: false
     }
   }
 };
