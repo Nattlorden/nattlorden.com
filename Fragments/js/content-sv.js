@@ -10660,8 +10660,14 @@ I have ever known.
       type: "text",
       content: `<i>Text - Caroline Nilsson</i>
       
-      <a href="https://open.spotify.com/track/55r2f8EsFBNkJYax55ONUC?si=2bbd6728524c4b0c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/t_ZAqm5xG0k?list=OLAK5uy_mr4FNITxeaZrApctIkR89yDa2Ph1BRe3M" target="_blank" rel="noopener noreferrer">YouTube</a>
-
+      <a href="https://open.spotify.com/track/55r2f8EsFBNkJYax55ONUC?si=2bbd6728524c4b0c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/t_ZAqm5xG0k?list=OLAK5uy_mr4FNITxeaZrApctIkR89yDa2Ph1BRe3M" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
  Ja jag vet.
  Jag vet att det inte är min tur än.
  Men jag vill inte leva så här längre.
@@ -10732,13 +10738,158 @@ Som en jävla käftsmäll.
  Jag vet att det inte är min tur än.
  Du sa det i min dröm.
 `
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    jagReserMig: {
+      menuTitle: "Jag reser mig igen!",
+      title: "Jag reser mig igen!",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Jag reser mig igen 1200.jpg",
+      size: "small",
+      caption: "Publicerad 17e november 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/48OWPAXnTylRWc8WhNSTQR?si=43f53517911049f5" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/DD7Lgkgo4D8?si=cS5zNB-KJbTuhand" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
     },
     {
       type: "divider"
     },
     {
       type: "text",
-      content: ``
+      content: ` Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+Det är ingen som sagt att livet ska va enkelt.
+Men det var heller ingen som sa hur svår sorgen kunde va.
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+Jag tar mina minnen med mig.
+När jag vandrar där i stan.
+Snön som ligger tjock på marken.
+Den ligger som ett skimmer i mitt hår.
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+
+Ibland behöver jag bara ligga där 
+ett tag.
+Se sorgens alla ansikten 
+snurra runt.
+Omkring mig.
+Men ni behöver inte vara rädda.
+
+
+För….
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+Imorgon ler jag igen.
+Åt allt det vi gjort.
+Då ser jag tillbaka.
+På vår vänskap som var.
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    iWillRiseAgain: {
+      menuTitle: "I will rise again",
+      title: "I will rise again",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Jag reser mig igen 1200.jpg",
+      size: "small",
+      caption: "Publicerad 17e november 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/3DBtmbnz92fksOw1COtjzY?si=79461e9ed8e14a6b" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oz3bAhEYSBk" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ` "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+No one ever told me life would be easy,
+But no one said how hard the grief could be.
+How it settles in the silence,
+How it takes its time with me.
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+I carry all my memories with me,
+As I wander through the town.
+Snow is lying thick upon the pavement,
+And its silver settles softly in my hair.
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+Sometimes I just need to lie here for a while,
+Watch the faces of my sorrow spinning round,
+All around me.
+But you don't have to worry,
+You don't have to be afraid.
+Because...
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+Tomorrow I will smile again,
+At everything we used to do.
+And when I look back on those days,
+I'll remember the friendship that we knew.
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+"I will rise again..."
+
+"I will rise again..."`
     }
   ],
   showPlaceholder: false

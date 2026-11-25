@@ -10327,7 +10327,7 @@ Ja.
       type: "image",
       src: "assets/covers/Saknad 1200.jpg",
       size: "small",
-      caption: "Publicerad 13e september 2026"
+      caption: "Released September 13th 2026"
     },
     {
       type: "text",
@@ -10381,7 +10381,7 @@ Hon som var så levande nyss.`
       type: "image",
       src: "assets/covers/Saknad 1200.jpg",
       size: "small",
-      caption: "Publicerad 13e september 2026"
+      caption: "Released September 13th 2026"
     },
     {
       type: "text",
@@ -10473,7 +10473,7 @@ Torkar deras tårar.
       type: "image",
       src: "assets/covers/Stopp 1200.jpg",
       size: "small",
-      caption: "Released october 11th 2026"
+      caption: "Released October 11th 2026"
     },
     {
       type: "text",
@@ -10558,7 +10558,7 @@ så brutal.`
       type: "image",
       src: "assets/covers/When Tomorrow Comes 3-stil 1200.jpg",
       size: "small",
-      caption: "Released october 15th 2026"
+      caption: "Released October 15th 2026"
     },
     {
       type: "text",
@@ -10641,8 +10641,287 @@ I have ever known.
     }
   ],
   showPlaceholder: false
+    },
+
+    inteMinTur: {
+      menuTitle: "Inte min tur än",
+      title: "Inte min tur än",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.jpg",
+      size: "small",
+      caption: "Released October 25th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Lyrics - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/55r2f8EsFBNkJYax55ONUC?si=2bbd6728524c4b0c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/t_ZAqm5xG0k?list=OLAK5uy_mr4FNITxeaZrApctIkR89yDa2Ph1BRe3M" target="_blank" rel="noopener noreferrer">YouTube</a>`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: `
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Men det är tufft med alla känslor.
+Ord som inte kan beskrivas.
+Av saknaden efter så mycket.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Han ligger där på natten.
+Och lyssnar på mina tankar.
+Med sin tass som vilar på min kind.
+Med en nos mot min panna.
+Lyssnar han.
+När jag pratar till dig.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Men du som inte varit där.
+Vet inte hur det är.
+När känslorna blir som en storm.
+Som åker berg-å-dalbana.
+När tårarna inte tar slut.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+För du vet inte hur det är.
+Att känna sig ensam .
+Även om du har…
+Människor runtomkring dig.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Jag är trött på att känna det jag känner.
+Att känna glädje och tänka.
+Nu är jag på väg på rätt håll.
+Men så slår kraften till.
+Som en jävla käftsmäll.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    jagReserMig: {
+      menuTitle: "Jag reser mig igen!",
+      title: "Jag reser mig igen!",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Jag reser mig igen 1200.jpg",
+      size: "small",
+      caption: "Released November 17th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Lyrics - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/48OWPAXnTylRWc8WhNSTQR?si=43f53517911049f5" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/DD7Lgkgo4D8?si=cS5zNB-KJbTuhand" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ` Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+Det är ingen som sagt att livet ska va enkelt.
+Men det var heller ingen som sa hur svår sorgen kunde va.
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+Jag tar mina minnen med mig.
+När jag vandrar där i stan.
+Snön som ligger tjock på marken.
+Den ligger som ett skimmer i mitt hår.
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+
+Ibland behöver jag bara ligga där 
+ett tag.
+Se sorgens alla ansikten 
+snurra runt.
+Omkring mig.
+Men ni behöver inte vara rädda.
+
+
+För….
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.
+
+Imorgon ler jag igen.
+Åt allt det vi gjort.
+Då ser jag tillbaka.
+På vår vänskap som var.
+
+ Jag reser mig igen!
+ Sa hon.
+ Jag har legat på botten.
+ Av bottens alla sorger.`
+    }
+  ],
+  showPlaceholder: false
+    },
+
+    iWillRiseAgain: {
+      menuTitle: "I will rise again",
+      title: "I will rise again",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/Jag reser mig igen 1200.jpg",
+      size: "small",
+      caption: "Released November 17th 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Lyrics - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/3DBtmbnz92fksOw1COtjzY?si=79461e9ed8e14a6b" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/oz3bAhEYSBk" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ` "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+No one ever told me life would be easy,
+But no one said how hard the grief could be.
+How it settles in the silence,
+How it takes its time with me.
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+I carry all my memories with me,
+As I wander through the town.
+Snow is lying thick upon the pavement,
+And its silver settles softly in my hair.
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+Sometimes I just need to lie here for a while,
+Watch the faces of my sorrow spinning round,
+All around me.
+But you don't have to worry,
+You don't have to be afraid.
+Because...
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+Tomorrow I will smile again,
+At everything we used to do.
+And when I look back on those days,
+I'll remember the friendship that we knew.
+
+ "I will rise again,"
+ She said.
+ "I have been down at the bottom,
+ Where the deepest sorrows rest."
+
+"I will rise again..."
+
+"I will rise again..."`
+    }
+  ],
+  showPlaceholder: false
     }
     
+
+    /*
+    nizze: {
+      menuTitle: "title",
+      title: "title",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 15e oktober 202"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="here" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="here" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: false
+    }
+  */
     
   },
 
