@@ -10644,8 +10644,136 @@ I have ever known.
     }
   ],
   showPlaceholder: false
+    },
+
+    inteMinTur: {
+      menuTitle: "Inte min tur än",
+      title: "Inte min tur än",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/todo.jpg",
+      size: "small",
+      caption: "Publicerad 25e oktober 2026"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="https://open.spotify.com/track/55r2f8EsFBNkJYax55ONUC?si=2bbd6728524c4b0c" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="https://youtu.be/t_ZAqm5xG0k?list=OLAK5uy_mr4FNITxeaZrApctIkR89yDa2Ph1BRe3M" target="_blank" rel="noopener noreferrer">YouTube</a>
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Men det är tufft med alla känslor.
+Ord som inte kan beskrivas.
+Av saknaden efter så mycket.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Han ligger där på natten.
+Och lyssnar på mina tankar.
+Med sin tass som vilar på min kind.
+Med en nos mot min panna.
+Lyssnar han.
+När jag pratar till dig.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Men du som inte varit där.
+Vet inte hur det är.
+När känslorna blir som en storm.
+Som åker berg-å-dalbana.
+När tårarna inte tar slut.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+För du vet inte hur det är.
+Att känna sig ensam .
+Även om du har…
+Människor runtomkring dig.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+
+Jag är trött på att känna det jag känner.
+Att känna glädje och tänka.
+Nu är jag på väg på rätt håll.
+Men så slår kraften till.
+Som en jävla käftsmäll.
+
+ Ja jag vet.
+ Jag vet att det inte är min tur än.
+ Men jag vill inte leva så här längre.
+ Med känslan av saknaden.
+ Jag vet att det inte är min tur än.
+ Du sa det i min dröm.
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: false
     }
     
+
+    /*
+    nizze: {
+      menuTitle: "title",
+      title: "title",
+      blocks: [
+     {
+      type: "image",
+      src: "assets/covers/",
+      size: "small",
+      caption: "Publicerad 15e oktober 202"
+    },
+    {
+      type: "text",
+      content: `<i>Text - Caroline Nilsson</i>
+      
+      <a href="here" target="_blank" rel="noopener noreferrer">Spotify</a> <a href="here" target="_blank" rel="noopener noreferrer">YouTube</a>
+`
+    },
+    {
+      type: "divider"
+    },
+    {
+      type: "text",
+      content: ``
+    }
+  ],
+  showPlaceholder: false
+    }
+  */
     
   },
 
